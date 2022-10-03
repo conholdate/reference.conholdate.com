@@ -33,10 +33,10 @@ jobs:
       - name: Checkout theme repo
         uses: actions/checkout@main
         with:
-          repository: Aspose/api-theme
+          repository: containerize-hugo/lutsk-aspose-theme
           token: ${{ secrets.THEME_REPO_TOKEN }}
           fetch-depth: 0
-          path: containerize-hugo/lutsk-aspose-theme
+          path: themes/api-theme
           github-server-url: 'https://git.dev.dynabic.com/'          
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
