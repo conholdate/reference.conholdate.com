@@ -1,4 +1,4 @@
-baseURL = "http://local.reference.conholdate.com/"
+baseURL = "http://reference.conholdate.com/"
 title = "Conholdate API References"
 enableRobotsTXT = true
 
@@ -66,6 +66,9 @@ msapplication_config = "https://cms.admin.containerize.com/templates/asposecloud
 theme_color = "#ffffff"
 author = "Conholdate"
 
+[params.gtm]
+conholdate_id = "GTM-N4D44QW"
+
 # Title of 404 page
 title_404_page = "404 - Page Not Found | Conholdate API References"
 
@@ -118,10 +121,7 @@ footer_about_disable = false
     [minify.tdewolff.svg]
       decimals = -1
     [minify.tdewolff.xml]
-      keepWhitespace = false
-
-[sitemap]
-  filename = 'static-content/sitemap.xml'  
+      keepWhitespace = false 
   
 [deployment]
 [[deployment.matchers]]
