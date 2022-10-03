@@ -33,11 +33,10 @@ jobs:
       - name: Checkout theme repo
         uses: actions/checkout@main
         with:
-          repository: Aspose/api-theme
-          token: ${{ secrets.THEME_REPO_TOKEN }}
+          repository: conholdate/api-theme
+          token: ${{ secrets.REPO_TOKEN }}
           fetch-depth: 0
-          path: containerize-hugo/lutsk-aspose-theme
-          github-server-url: 'https://git.dev.dynabic.com/'          
+          path: themes/api-theme
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -62,7 +61,7 @@ jobs:
         uses: chetan/invalidate-cloudfront-action@master
         env:
           DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
-          PATHS: "/index.html"
+          PATHS: "/*"
           AWS_REGION: 'us-west-2'
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
