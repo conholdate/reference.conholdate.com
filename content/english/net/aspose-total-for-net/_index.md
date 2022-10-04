@@ -15,11 +15,11 @@ Aspose.Words for .NET is a class library that enables your applications to perfo
 
 {{% /alert %}} 
 
-## **Aspose.Words for .NET Resources**
+## **Aspose.Words for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Words for .NET API Reference Guide](https://apireference.aspose.com/net/words)
+- [Aspose.Words for .NET API Reference Guide](https://reference.aspose.com/net/words)
 
 {{% alert color="primary" %}} 
 
@@ -31,11 +31,11 @@ Aspose.PDF is a .NET component built to allow developers to create PDF documents
 
 {{% /alert %}} 
 
-## **Aspose.PDF for .NET Resources**
+## **Aspose.PDF for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.PDF for .NET API Reference Guide](https://apireference.aspose.com/net/pdf)
+- [Aspose.PDF for .NET API Reference Guide](https://reference.aspose.com/net/pdf)
 
 {{% alert color="primary" %}} 
 
@@ -47,11 +47,11 @@ Aspose.Cells for .NET is a spreadsheet programming library that allows software 
 
 {{% /alert %}} 
 
-## **Aspose.Cells for .NET Resources**
+## **Aspose.Cells for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Cells for .NET API Reference Guide](https://apireference.aspose.com/cells/net)
+- [Aspose.Cells for .NET API Reference Guide](https://reference.aspose.com/cells/net)
 
 {{% alert color="primary" %}} 
 
@@ -65,11 +65,11 @@ Aspose.Email implements a number of network protocols, for example SMTP, MIME, P
 
 {{% /alert %}} 
 
-## **Aspose.Email for .NET Resources**
+## **Aspose.Email for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Email for .NET API Reference Guide](https://apireference.aspose.com/net/email)
+- [Aspose.Email for .NET API Reference Guide](https://reference.aspose.com/net/email)
 
 {{% alert color="primary" %}} 
 
@@ -81,11 +81,11 @@ Aspose.Slides for .NET is a Microsoft PowerPoint® management API that enables .
 
 {{% /alert %}} 
 
-## **Aspose.Slides for .NET Resources**
+## **Aspose.Slides for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Slides for .NET API Reference Guide](https://apireference.aspose.com/net/slides)
+- [Aspose.Slides for .NET API Reference Guide](https://reference.aspose.com/net/slides)
 
 {{% alert color="primary" %}} 
 
@@ -99,11 +99,11 @@ The component supports the most common raster file formats and offers a wide ran
 
 {{% /alert %}} 
 
-## **Aspose.Imaging for .NET Resources**
+## **Aspose.Imaging for .NET**
 
 The following are the links to some useful resources you may need to enjoy the use of Aspose.Imaging.
 
-- [Aspose.Imaging for .NET API Reference Guide](https://apireference.aspose.com/net/imaging)
+- [Aspose.Imaging for .NET API Reference Guide](https://reference.aspose.com/net/imaging)
 
 {{% alert color="primary" %}} 
 
@@ -115,11 +115,11 @@ Aspose.BarCode for .NET is a set of barcode generation and recognition component
 
 {{% /alert %}} 
 
-## **Aspose.BarCode for .NET Resources**
+## **Aspose.BarCode for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.BarCode for .NET API Reference Guide](https://apireference.aspose.com/net/barcode)
+- [Aspose.BarCode for .NET API Reference Guide](https://reference.aspose.com/net/barcode)
 
 {{% alert color="primary" %}} 
 
@@ -133,11 +133,11 @@ Aspose.Diagram takes advantage of advanced functionalities provided by Microsoft
 
 {{% /alert %}} 
 
-## **Aspose.Diagram for .NET Resources**
+## **Aspose.Diagram for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Diagram for .NET API Reference Guide](https://apireference.aspose.com/net/diagram)
+- [Aspose.Diagram for .NET API Reference Guide](https://reference.aspose.com/net/diagram)
 
 {{% alert color="primary" %}} 
 
@@ -149,11 +149,11 @@ With Aspose.Tasks for .NET, it is possible to program with Microsoft Project fil
 
 {{% /alert %}} 
 
-## **Aspose.Tasks for .NET Resources**
+## **Aspose.Tasks for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Tasks for .NET API Reference Guide](https://apireference.aspose.com/net/tasks)
+- [Aspose.Tasks for .NET API Reference Guide](https://reference.aspose.com/net/tasks)
 
 {{% alert color="primary" %}} 
 
@@ -167,11 +167,11 @@ The component is implemented using Managed C# and can be used with any .NET lang
 
 {{% /alert %}} 
 
-## **Aspose.OCR for .NET Resources**
+## **Aspose.OCR for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.OCR for .NET API Reference Guide](https://apireference.aspose.com/ocr/net)
+- [Aspose.OCR for .NET API Reference Guide](https://reference.aspose.com/ocr/net)
 
 
 {{% alert color="primary" %}} 
@@ -184,11 +184,11 @@ With Aspose.Note for .NET, it is possible to program with Microsoft OneNote file
 
 {{% /alert %}} 
 
-## **Aspose.Note for .NET Resources**
+## **Aspose.Note for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Note for .NET API Reference Guide](https://apireference.aspose.com/net/note)
+- [Aspose.Note for .NET API Reference Guide](https://reference.aspose.com/net/note)
 
 {{% alert color="primary" %}} 
 
@@ -206,10 +206,10 @@ Using Aspose.CAD for .NET in your project gives you the following benefits:
 - Minimal learning curve
 
 {{% /alert %}} 
-## **Aspose.CAD for .NET Resources**
+## **Aspose.CAD for .NET**
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.CAD for .NET API Reference Guide](https://apireference.aspose.com/cad/net)
+- [Aspose.CAD for .NET API Reference Guide](https://reference.aspose.com/cad/net)
 
 {{% alert color="primary" %}} 
 
@@ -223,10 +223,10 @@ The API is user friendly and saves time and money than creating a similar solu
 
 {{% /alert %}} 
 
-## **Aspose.3D for .NET Resources**
+## **Aspose.3D for .NET**
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.3D for .NET API Reference Guide](https://apireference.aspose.com/net/3d)
+- [Aspose.3D for .NET API Reference Guide](https://reference.aspose.com/net/3d)
 
 {{% alert color="primary" %}} 
 
@@ -238,11 +238,11 @@ Aspose.HTML for .NET is a cross-platform class library that enables your applica
 
 {{% /alert %}} 
 
-## **Aspose.HTML for .NET Resources**
+## **Aspose.HTML for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [API Reference](https://apireference.aspose.com/html/net)
+- [API Reference](https://reference.aspose.com/html/net)
 
 {{% alert color="primary" %}} 
 
@@ -254,11 +254,11 @@ Aspose.GIS for .NET is designed specifically to make it easy for .NET developers
 
 {{% /alert %}} 
 
-## **Aspose.GIS for .NET Resources**
+## **Aspose.GIS for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.GIS for .NET API Reference Guide](https://apireference.aspose.com/net/gis)
+- [Aspose.GIS for .NET API Reference Guide](https://reference.aspose.com/net/gis)
 
 {{% alert color="primary" %}} 
 
@@ -272,11 +272,11 @@ Aspose.ZIP provides you the capability to password protect the ZIP archives with
 
 {{% /alert %}} 
 
-## **Aspose.ZIP for .NET Resources**
+## **Aspose.ZIP for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.ZIP for .NET API Reference Guide](https://apireference.aspose.com/net/zip)
+- [Aspose.ZIP for .NET API Reference Guide](https://reference.aspose.com/net/zip)
 
 {{% alert color="primary" %}} 
 
@@ -288,11 +288,11 @@ Aspose.Page is a .NET API and is built to allow developers to work with XPS and 
 
 {{% /alert %}} 
 
-## **Aspose.Page for .NET Resources**
+## **Aspose.Page for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Page for .NET API Reference Guide](https://apireference.aspose.com/page/net)
+- [Aspose.Page for .NET API Reference Guide](https://reference.aspose.com/page/net)
 
 {{% alert color="primary" %}} 
 
@@ -306,11 +306,11 @@ Currently Aspose.PSD for .NET supports PSD and PSB file formats for loading and 
 
 {{% /alert %}} 
 
-## **Aspose.PSD for .NET Resources**
+## **Aspose.PSD for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.PSD for .NET API Reference Guide](https://apireference.aspose.com/net/psd)
+- [Aspose.PSD for .NET API Reference Guide](https://reference.aspose.com/net/psd)
 
 
 {{% alert color="primary" %}} 
@@ -323,11 +323,11 @@ Aspose.OMR for .NET is an API to recognize optical marks from OMR digitized shee
 
 {{% /alert %}} 
 
-## **Aspose.OMR for .NET Resources**
+## **Aspose.OMR for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.OMR for .NET API Reference Guide](https://apireference.aspose.com/omr/net)
+- [Aspose.OMR for .NET API Reference Guide](https://reference.aspose.com/omr/net)
 
 {{% alert color="primary" %}} 
 
@@ -339,11 +339,11 @@ Aspose.PUB for .NET is an API to read and convert PUB files to PDF file format. 
 
 {{% /alert %}} 
 
-## **Aspose.PUB for .NET Resources**
+## **Aspose.PUB for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.PUB for .NET API Reference Guide](https://apireference.aspose.com/net/pub)
+- [Aspose.PUB for .NET API Reference Guide](https://reference.aspose.com/net/pub)
 
 {{% alert color="primary" %}} 
 
@@ -355,11 +355,11 @@ Aspose.SVG for .NET API has been designed to provide a wide range of features f
 
 {{% /alert %}} 
 
-## **Aspose.SVG for .NET Resources**
+## **Aspose.SVG for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.SVG for .NET API Reference Guide](https://apireference.aspose.com/svg/net)
+- [Aspose.SVG for .NET API Reference Guide](https://reference.aspose.com/svg/net)
 
 {{% alert color="primary" %}} 
 
@@ -370,10 +370,10 @@ The following are the links to some useful resources you may need to accomplish 
 Aspose.Finance, as a pure .NET library provides much better performance and ease of use to manipulate finance-related formats, such as XBRL, iXBRL. The finance API is extensible, easy to use and compact and provides all common functionality so developers write less code to do common operations.
 
 {{% /alert %}} 
-## **Aspose.Finance for .NET Resources**
+## **Aspose.Finance for .NET**
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Finance for .NET API Reference Guide](https://apireference.aspose.com/finance/net)
+- [Aspose.Finance for .NET API Reference Guide](https://reference.aspose.com/finance/net)
 
 {{% alert color="primary" %}} 
 
@@ -385,11 +385,11 @@ Aspose.Drawing is a .NET graphics API that provides the capability of 2D drawing
 
 {{% /alert %}} 
 
-## **Aspose.Drawing for .NET Resources**
+## **Aspose.Drawing for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Drawing for .NET API Reference Guide](https://apireference.aspose.com/drawing/net)
+- [Aspose.Drawing for .NET API Reference Guide](https://reference.aspose.com/drawing/net)
 
 {{% alert color="primary" %}} 
 
@@ -401,8 +401,8 @@ Aspose.Font is a .NET font loading and drawing library. It supports multiple fro
 
 {{% /alert %}} 
 
-## **Aspose.Font for .NET Resources**
+## **Aspose.Font for .NET**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Font for .NET API Reference Guide](https://apireference.aspose.com/font/net)
+- [Aspose.Font for .NET API Reference Guide](https://reference.aspose.com/font/net)
