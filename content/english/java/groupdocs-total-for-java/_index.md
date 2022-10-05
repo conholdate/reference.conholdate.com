@@ -9,7 +9,7 @@ GroupDocs.Total for Java is a compilation of every Java API offered by GroupDocs
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_2)
+![todo:image\_alt\_text](groupdocs-annotation-java.png)
 
 **Welcome to the GroupDocs.Annotation for Java**
 
@@ -23,7 +23,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_5)
+![todo:image\_alt\_text](groupdocs-assembly-java.png)
 
 **Welcome to the GroupDocs.Assembly for Java**
 
@@ -37,21 +37,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-classification-java.png)
-
-**Welcome to the GroupDocs.Classification for Java**
-
-GroupDocs.Classification for Java is a powerful and intuitive library used for texts and documents classification with several taxonomies. Documents could be in various formats,including Microsoft Word and OpenDocument Writer file formats, PDF documents, RTF and TXT. Classification results can be easily customized with multiple and flexible options.
-
-{{% /alert %}} 
-## **GroupDocs.Classification for Java**
-Following are the links to some useful resources you may need to accomplish your tasks.
-
-- [GroupDocs.Classification for Java API Reference Guide](https://apireference.groupdocs.com/classification/java)
-
-{{% alert color="primary" %}} 
-
-![todo:image\_alt\_text](groupdocs-total-for-net_3)
+![todo:image\_alt\_text](groupdocs-comparison-java.png)
 
 **Welcome to the GroupDocs.Comparison for Java**
 
@@ -65,7 +51,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_4)
+![todo:image\_alt\_text](groupdocs-conversion-java.png)
 
 **Welcome to the GroupDocs.Conversion for Java**
 
@@ -79,7 +65,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_8)
+![todo:image\_alt\_text](groupdocs-editor-java.png)
 
 **Welcome to the GroupDocs.Editor for Java**
 
@@ -93,7 +79,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-merget-java)
+![todo:image\_alt\_text](groupdocs-merger-java.png)
 
 **Welcome to the GroupDocs.Merger for Java**
 
@@ -107,7 +93,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_6)
+![todo:image\_alt\_text](groupdocs-metadata-java.png)
 
 **Welcome to the GroupDocs.Metadata for Java**
 
@@ -121,7 +107,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_10)
+![todo:image\_alt\_text](groupdocs-parser-java.png)
 
 **Welcome to the GroupDocs.Parser for Java**
 
@@ -149,7 +135,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_9)
+![todo:image\_alt\_text](groupdocs-search-java.png)
 
 **Welcome to the GroupDocs.Search for Java**
 
@@ -163,7 +149,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_7)
+![todo:image\_alt\_text](groupdocs-signature-java.png)
 
 **Welcome to the GroupDocs.Signature for Java**
 
@@ -177,7 +163,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_1)
+![todo:image\_alt\_text](groupdocs-viewer-java.png)
 
 **Welcome to the GroupDocs.Viewer for Java**
 
@@ -191,7 +177,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-total-for-net_11)
+![todo:image\_alt\_text](groupdocs-watermark-java.png)
 
 **Welcome to the GroupDocs.Watermark for Java**
 
