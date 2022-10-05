@@ -105,7 +105,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 ![Aspose.Imaging for Java](home_7.png)
 
-**Welcome to the Aspose.Imaging for Java documentation!**
+**Welcome to the Aspose.Imaging for Java**
 
 Aspose.Imaging for Java is an easy-to-use, high-performance and well-documented imaging library. It provides the most flexible group of routines to create, manipulate and save images in Java applications. Aspose.Imaging for Java supports maximum file formats from Raster based graphical Imaging and provides a wide range of compression algorithms along with numerous image processing operations.
 
@@ -118,7 +118,7 @@ Aspose.Imaging for Java offers a broad spectrum of traditional image processing 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Imaging for Java API Reference Guide](https://reference.aspose.com/imaging/java)
-## **Aspose.Tasks for Java**
+
 {{% alert color="primary" %}}
 
 ![Aspose.Tasks for Java](home_8.png)
@@ -282,11 +282,28 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
+**<img src="home_omr.png" alt="Aspose.OMR for Java" style="zoom:50%;" />**
+
+**Welcome to Aspose.OMR for Java**
+
+Aspose.OMR for Java is an API to recognize optical marks from OMR digitized sheet images. It can be used to recognize optical marks in a variety of image formats like BMP, JPG, TIF, TIFF, GIF. The API allows capturing human-marked data from document forms such as surveys, questionnaires, multiple-choice examination papers, and other tests. With this solution, it is possible to recognize scanned images and even photos with high accuracy. Recognition is based on a template markup which contains a graphical mapping of the elements to be recognized from the scanned images.
+
+{{% /alert %}}
+
+## **Aspose.OMR for Java**
+
+The following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.OMR for Java API Reference Guide](https://reference.aspose.com/omr/java)
+{{% alert color="primary" %}}
+
 ![todo:image_alt_text](AsposePUBJava)
 
 **Welcome to Aspose.PUB for Java**
 
 Aspose.PUB for Java API lets you work with PUB files in your Java applications. It can read and convert .pub files to PDF file format without the need of installing any other software. You can, thus, focus on your application business logic instead of getting into the details of underlying file format. The API is light, easy to use and simplifies your application with simple lines of code in your application.
+
+
 
 {{% /alert %}}
 ## **Aspose.PUB for Java**
