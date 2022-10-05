@@ -297,7 +297,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.OMR for Java API Reference Guide](https://reference.aspose.com/omr/java)
 {{% alert color="primary" %}}
 
-![todo:image_alt_text](AsposePUBJava)
+**<img src="AsposePUBJava" alt="Aspose.PUB for Java" />**
 
 **Welcome to Aspose.PUB for Java**
 
