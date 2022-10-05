@@ -7,7 +7,7 @@ weight: 20
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-annotation-net.svg)
+![todo:image\_alt\_text](groupdocs-annotation-net.png)
 
 **Welcome to the GroupDocs.Annotation for .NET**
 
@@ -21,7 +21,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-assembly-net.svg)
+![todo:image\_alt\_text](groupdocs-assembly-net.png)
 
 **Welcome to the GroupDocs.Assembly for .NET**
 
@@ -35,7 +35,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-classification-net.svg)
+![todo:image\_alt\_text](groupdocs-classification-net.png)
 
 **Welcome to the GroupDocs.Classification for .NET**
 
@@ -49,7 +49,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-comparison-net.svg)
+![todo:image\_alt\_text](groupdocs-comparison-net.png)
 
 **Welcome to the GroupDocs.Comparison for .NET**
 
@@ -63,7 +63,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-conversion-net.svg)
+![todo:image\_alt\_text](groupdocs-conversion-net.png)
 
 **Welcome to the GroupDocs.Conversion for .NET**
 
@@ -77,7 +77,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-editor-net.svg)
+![todo:image\_alt\_text](groupdocs-editor-net.png)
 
 **Welcome to the GroupDocs.Editor for .NET**
 
@@ -91,7 +91,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-merger-net.svg)
+![todo:image\_alt\_text](groupdocs-merger-net.png)
 
 **Welcome to the GroupDocs.Merger for .NET**
 
@@ -105,7 +105,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-metadata-net.svg)
+![todo:image\_alt\_text](groupdocs-metadata-net.png)
 
 **Welcome to the GroupDocs.Metadata for .NET**
 
@@ -119,7 +119,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-parser-net.svg)
+![todo:image\_alt\_text](groupdocs-parser-net.png)
 
 **Welcome to the GroupDocs.Parser for .NET**
 
@@ -133,7 +133,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-redaction-net.svg)
+![todo:image\_alt\_text](groupdocs-redaction-net.png)
 
 **Welcome to the GroupDocs.Redaction for .NET**
 
@@ -147,7 +147,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-search-net.svg)
+![todo:image\_alt\_text](groupdocs-search-net.png)
 
 **Welcome to the GroupDocs.Search for .NET**
 
@@ -161,7 +161,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-signature-net.svg)
+![todo:image\_alt\_text](groupdocs-signature-net.png)
 
 **Welcome to the GroupDocs.Signature for .NET**
 
@@ -175,7 +175,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-viewer-net.svg)
+![todo:image\_alt\_text](groupdocs-viewer-net.png)
 
 **Welcome to the GroupDocs.Viewer for .NET**
 
@@ -189,7 +189,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}} 
 
-![todo:image\_alt\_text](groupdocs-watermark-net.svg)
+![todo:image\_alt\_text](groupdocs-watermark-net.png)
 
 **Welcome to the GroupDocs.Watermark for .NET**
 
