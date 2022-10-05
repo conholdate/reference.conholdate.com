@@ -242,7 +242,7 @@ Aspose.HTML for .NET is a cross-platform class library that enables your applica
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [API Reference](https://reference.aspose.com/html/net)
+- [Aspose.HTML for .NET API Reference Guide](https://reference.aspose.com/html/net)
 
 {{% alert color="primary" %}} 
 
@@ -406,3 +406,19 @@ Aspose.Font is a .NET font loading and drawing library. It supports multiple fro
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Font for .NET API Reference Guide](https://reference.aspose.com/font/net)
+
+{{% alert color="primary" %}} 
+
+![ Aspose.TeX for .NET](aspose-tex-net.png)
+
+**Welcome to the Aspose.TeX for .NET**
+
+Aspose.TeX is a .NET library for TeX files typesetting. It can present TeX input in various graphic formats like XPS, PDF, PNG, JPEG, TIFF and BMP. It also outputs tracing info like any other TeX engine does. The API provides various ways of passing TeX input and obtaining output. And, as an advanced feature, it lets you create your own TeX format if you wish to typeset a number of documents designed uniformly.
+
+{{% /alert %}} 
+
+## **Aspose.TeX for .NET**
+
+The following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.TeX for .NET API Reference Guide](https://reference.aspose.com/tex/net)

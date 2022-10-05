@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="NET" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#9DC825;}
+	.st2{fill:none;stroke:#9DC825;stroke-width:15.6104;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#9DC825;stroke-width:15.6094;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#9DC825;stroke-width:15.6094;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#9DC825;stroke-width:23.3254;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#9DC825;stroke-width:23.3254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="App">
+	<g id="NET-BG">
+		<circle class="st0" cx="256" cy="256.1" r="242.7"/>
+		<path class="st1" d="M256,20.9c129.6,0,235.2,105.4,235.2,235.2S385.6,491.1,256,491.1S20.8,385.7,20.8,255.9S126.1,20.9,256,20.9
+			 M256,6C118.1,6,6.1,117.9,6.1,255.9S117.8,506,256,506s249.9-111.9,249.9-249.9S393.9,6,256,6L256,6z"/>
+	</g>
+</g>
+<g id="Dark">
+	<g id="Assembly-doc-center_5_">
+		<path class="st2" d="M370.7,171.1H411c13.9,0,24.9,11.2,24.9,24.9v135.8c0,13.9-11.2,24.9-24.9,24.9h-41.2"/>
+		<g>
+			<line class="st3" x1="378.9" y1="251.5" x2="391.9" y2="251.5"/>
+			<line class="st4" x1="382.8" y1="251.5" x2="404.3" y2="251.5"/>
+		</g>
+		<g>
+			<line class="st3" x1="378.9" y1="210.5" x2="391.9" y2="210.5"/>
+			<line class="st4" x1="382.8" y1="210.5" x2="404.3" y2="210.5"/>
+		</g>
+	</g>
+	<g id="Assembly-doc-center_4_">
+		<path class="st2" d="M141.3,171.1H101c-13.9,0-24.9,11.2-24.9,24.9v135.8c0,13.9,11.2,24.9,24.9,24.9h41.2"/>
+		<g>
+			<line class="st3" x1="133.1" y1="251.5" x2="120.1" y2="251.5"/>
+			<line class="st4" x1="129.2" y1="251.5" x2="107.7" y2="251.5"/>
+		</g>
+		<g>
+			<line class="st3" x1="133.1" y1="210.5" x2="120.1" y2="210.5"/>
+			<line class="st4" x1="129.2" y1="210.5" x2="107.7" y2="210.5"/>
+		</g>
+	</g>
+	<g id="Assembly-doc-center_3_">
+		<path class="st5" d="M343.4,344.8c0,18.2-14.5,32.7-32.7,32.7H199.2c-18.2,0-32.7-14.5-32.7-32.7V167.2
+			c0-18.2,14.5-32.7,32.7-32.7H311c18.2,0,32.7,14.5,32.7,32.7v177.6H343.4z"/>
+		<line class="st6" x1="208.6" y1="187.8" x2="301.9" y2="187.8"/>
+		<line class="st6" x1="208.6" y1="239.6" x2="301.9" y2="239.6"/>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
