@@ -15,11 +15,11 @@ Aspose.Words for Java is a class library that enables your applications to perfo
 
 {{% /alert %}}
 
-## **Aspose.Words for Java Resources**
+## **Aspose.Words for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Words for Java API Reference Guide](https://apireference.aspose.com/words/java)
+- [Aspose.Words for Java API Reference Guide](https://reference.aspose.com/words/java)
 
 {{% alert color="primary" %}}
 
@@ -31,11 +31,11 @@ Aspose.PDF is a Java component built to allow developers to create PDF documents
 
 {{% /alert %}}
 
-## **Aspose.PDF for Java Resources**
+## **Aspose.PDF for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.PDF for Java API Reference Guide](https://apireference.aspose.com/pdf/java)
+- [Aspose.PDF for Java API Reference Guide](https://reference.aspose.com/pdf/java)
 
 {{% alert color="primary" %}}
 
@@ -47,11 +47,11 @@ Aspose.Cells for Java is a class library that enables your applications to perfo
 
 {{% /alert %}}
 
-## **Aspose.Cells for Java Resources**
+## **Aspose.Cells for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Cells for Java API Reference Guide](https://apireference.aspose.com/cells/java)
+- [Aspose.Cells for Java API Reference Guide](https://reference.aspose.com/cells/java)
 
 {{% alert color="primary" %}}
 
@@ -61,11 +61,11 @@ Aspose.Email for Java is a Java API that enables Java applications to read and w
 
 {{% /alert %}}
 
-## **Aspose.Email for Java Resources**
+## **Aspose.Email for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Email for Java API Reference Guide](https://apireference.aspose.com/email/java)
+- [Aspose.Email for Java API Reference Guide](https://reference.aspose.com/email/java)
 
 {{% alert color="primary" %}}
 
@@ -77,11 +77,11 @@ Aspose.Slides for Java is a Microsoft PowerPoint® management API that enables J
 
 {{% /alert %}}
 
-## **Aspose.Slides for Java Resources**
+## **Aspose.Slides for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Slides for Java API Reference Guide](https://apireference.aspose.com/slides/java)
+- [Aspose.Slides for Java API Reference Guide](https://reference.aspose.com/slides/java)
 
 {{% alert color="primary" %}}
 
@@ -96,10 +96,10 @@ Aspose.BarCode for Java supports most established barcode standards and barcode 
 This section introduces Aspose.BarCode for Java and its features, gives examples as case studies and lists some customers who choose to use Aspose.BarCode in their solutions. This section also includes information about Aspose.BarCode for Java [installation](https://docs.aspose.com/barcode/java/installation/), [evaluation](https://docs.aspose.com/barcode/java/installation/) and [licensing](https://docs.aspose.com/barcode/java/licensing/).
 
 {{% /alert %}}
-## **Aspose.BarCode for Java Resources**
+## **Aspose.BarCode for Java**
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.BarCode for Java API Reference Guide](https://apireference.aspose.com/barcode/java)
+- [Aspose.BarCode for Java API Reference Guide](https://reference.aspose.com/barcode/java)
 
 {{% alert color="primary" %}}
 
@@ -113,11 +113,11 @@ Aspose.Imaging for Java offers a broad spectrum of traditional image processing 
 
 {{% /alert %}}
 
-## **Aspose.Imaging for Java Resources**
+## **Aspose.Imaging for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Imaging for Java API Reference Guide](https://apireference.aspose.com/imaging/java)
+- [Aspose.Imaging for Java API Reference Guide](https://reference.aspose.com/imaging/java)
 ## **Aspose.Tasks for Java**
 {{% alert color="primary" %}}
 
@@ -129,11 +129,11 @@ Aspose.Tasks for Java is a class library that enables Java application developer
 
 {{% /alert %}}
 
-## **Aspose.Tasks for Java Resources**
+## **Aspose.Tasks for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Tasks for Java API Reference Guide](https://apireference.aspose.com/tasks/java)
+- [Aspose.Tasks for Java API Reference Guide](https://reference.aspose.com/tasks/java)
 
 {{% alert color="primary" %}}
 
@@ -147,11 +147,11 @@ Aspose.OCR for Java comes with fully featured demos and working examples written
 
 {{% /alert %}}
 
-## **Aspose.OCR for Java Resources**
+## **Aspose.OCR for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.OCR for Java API Reference Guide](https://apireference.aspose.com/ocr/java)
+- [Aspose.OCR for Java API Reference Guide](https://reference.aspose.com/ocr/java)
 
 {{% alert color="primary" %}}
 
@@ -165,11 +165,11 @@ Aspose.Diagram takes advantage of advanced functionality provided by Visio servi
 
 {{% /alert %}}
 
-## **Aspose.Diagram for Java Resources**
+## **Aspose.Diagram for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Diagram for Java API Reference Guide](https://apireference.aspose.com/diagram/java)
+- [Aspose.Diagram for Java API Reference Guide](https://reference.aspose.com/diagram/java)
 
 
 {{% alert color="primary" %}}
@@ -182,11 +182,11 @@ With Aspose.Note for Java, it is possible to program with Microsoft OneNote file
 
 {{% /alert %}}
 
-## **Aspose.Note for Java Resources**
+## **Aspose.Note for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Note for Java API Reference Guide](https://apireference.aspose.com/note/java)
+- [Aspose.Note for Java API Reference Guide](https://reference.aspose.com/note/java)
 
 {{% alert color="primary" %}}
 
@@ -207,11 +207,11 @@ Using Aspose.CAD for Java in your project gives you the following benefits:
 
 {{% /alert %}}
 
-## **Aspose.CAD for Java Resources**
+## **Aspose.CAD for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.CAD for Java API Reference Guide](https://apireference.aspose.com/cad/java)
+- [Aspose.CAD for Java API Reference Guide](https://reference.aspose.com/cad/java)
 
 {{% alert color="primary" %}}
 
@@ -223,11 +223,11 @@ Aspose.HTML for Java is an advanced HTML manipulation API built to perform a wid
 
 {{% /alert %}}
 
-## **Aspose.HTML for Java Resources**
+## **Aspose.HTML for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.HTML for Java API Reference Guide](https://apireference.aspose.com/html/java)
+- [Aspose.HTML for Java API Reference Guide](https://reference.aspose.com/html/java)
 
 {{% alert color="primary" %}}
 
@@ -241,11 +241,11 @@ The API is user friendly and saves time and money than creating a similar solu
 
 {{% /alert %}}
 
-## **Aspose.3D for Java Resources**
+## **Aspose.3D for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.3D for Java API Reference Guide](https://apireference.aspose.com/3d/java)
+- [Aspose.3D for Java API Reference Guide](https://reference.aspose.com/3d/java)
 
 {{% alert color="primary" %}}
 
@@ -257,7 +257,7 @@ Aspose.Page is a Java API is built to allow developers to work with XPS and EPS/
 
 {{% /alert %}}
 
-## **Aspose.Page for Java Resources**
+## **Aspose.Page for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
@@ -274,11 +274,11 @@ Currently Aspose.PSD for Java supports PSD and PSB file formats for loading and 
 
 {{% /alert %}}
 
-## **Aspose.PSD for Java Resources**
+## **Aspose.PSD for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.PSD for Java API Reference Guide](https://apireference.aspose.com/psd/java)
+- [Aspose.PSD for Java API Reference Guide](https://reference.aspose.com/psd/java)
 
 {{% alert color="primary" %}}
 
@@ -289,10 +289,10 @@ The following are the links to some useful resources you may need to accomplish 
 Aspose.PUB for Java API lets you work with PUB files in your Java applications. It can read and convert .pub files to PDF file format without the need of installing any other software. You can, thus, focus on your application business logic instead of getting into the details of underlying file format. The API is light, easy to use and simplifies your application with simple lines of code in your application.
 
 {{% /alert %}}
-## **Aspose.PUB for Java Resources**
+## **Aspose.PUB for Java**
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.PUB for Java API Reference Guide](https://apireference.aspose.com/pub/java)
+- [Aspose.PUB for Java API Reference Guide](https://reference.aspose.com/pub/java)
 
 {{% alert color="primary" %}}
 
@@ -303,11 +303,11 @@ The following are the links to some useful resources you may need to accomplish 
 Aspose.Font for Java is a font loading and drawing library. It supports multiple font formats such as TrueType (with TrueType collections), CFF, OpenType, and Type1. The API provides rich functionality to load/save font and provide information about its data structures along with any glyph that is supported by all the font types. It also provides encoding information for all the font types which represents a mapping between character codes and glyph identifiers. Its rendering subsystem helps end-users to render any desired glyph or text. Special glyphs can be rendered by implementing interface using simple graphics functionality (move point, draw line, curve).
 {{% /alert %}}
 
-## **Aspose.Font for Java Resources**
+## **Aspose.Font for Java**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Font for Java API Reference Guide](https://apireference.aspose.com/font/java)
+- [Aspose.Font for Java API Reference Guide](https://reference.aspose.com/font/java)
 
 {{% alert color="primary" %}}
 
@@ -319,7 +319,7 @@ Aspose.TeX is a Java library for TeX files typesetting. It can present TeX input
 
 {{% /alert %}}
 
-## **Aspose.TeX for Java Resources**
+## **Aspose.TeX for Java**
 
 Following are the links to some useful resources you may need to accomplish your tasks.
-- [Aspose.TeX for Java API Reference Guide](https://apireference.aspose.com/tex/java)
+- [Aspose.TeX for Java API Reference Guide](https://reference.aspose.com/tex/java)
