@@ -282,7 +282,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-**<img src="home_omr.png" alt="Aspose.OMR for Java" style="zoom:50%;" />**
+**<img src="home_omr.png" alt="Aspose.OMR for Java" />**
 
 **Welcome to Aspose.OMR for Java**
 
@@ -303,9 +303,8 @@ The following are the links to some useful resources you may need to accomplish 
 
 Aspose.PUB for Java API lets you work with PUB files in your Java applications. It can read and convert .pub files to PDF file format without the need of installing any other software. You can, thus, focus on your application business logic instead of getting into the details of underlying file format. The API is light, easy to use and simplifies your application with simple lines of code in your application.
 
-
-
 {{% /alert %}}
+
 ## **Aspose.PUB for Java**
 The following are the links to some useful resources you may need to accomplish your tasks.
 
