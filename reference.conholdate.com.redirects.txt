@@ -1,0 +1,3 @@
+rewrite ^/total/net https://reference.conholdate.com/net/ permanent;
+rewrite ^/total/java https://reference.conholdate.com/java/ permanent;
+

@@ -1,4 +1,4 @@
-baseURL = "http://reference.conholdate.com/"
+baseURL = "https://reference.conholdate.com/"
 title = "Conholdate API References"
 enableRobotsTXT = true
 
