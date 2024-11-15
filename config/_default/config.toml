@@ -1,6 +1,10 @@
 baseURL = "https://reference.conholdate.com/"
 title = "Conholdate API References"
 enableRobotsTXT = true
+
+# Hugo allows theme composition (and inheritance). The precedence is from left to right.
+theme = ["api-theme"]
+
 [params.menu]
 en = "conholdate-en"
 fr = "conholdate-fr"
@@ -38,8 +42,7 @@ ca = "conholdate-ca"
 fil = "conholdate-fil"
 hr = "conholdate-hr"
 
-# Hugo allows theme composition (and inheritance). The precedence is from left to right.
-theme = ["api-theme"]
+
 
 
 defaultContentLang = 'en'
