@@ -1,6 +1,6 @@
 ---
 title: Master PDF Document Programming
-linktitle: Programming with Document
+linktitle: Master PDF Document Programming
 type: docs
 weight: 10
 url: /net/tutorials/pdf/master-pdf-document-programming/

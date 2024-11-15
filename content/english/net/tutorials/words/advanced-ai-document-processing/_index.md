@@ -1,6 +1,6 @@
 ---
 title: Advanced AI-Powered Solutions with Aspose.Words for .NET
-linktitle: AI Powered Document Processing
+linktitle: Advanced AI-Powered Solutions
 second_title: Aspose.Words Document Processing API
 description: Learn step-by-step methods for automating document creation, manipulation, and analysis with AI-driven insights and processing capabilities.
 type: docs
@@ -17,7 +17,7 @@ Imagine having the ability to summarize extensive documents with just a few clic
 
 ## Elevate Your Game with Google AI
 
-Next, we delve into the [Mastering Document Summarization with Google AI Models](./mastering-/document-summarization-google-ai-model/) tutorial. Here’s the exciting part: when you combine Google’s powerful AI capabilities with Aspose.Words, you unlock a new level of efficiency. This tutorial teaches you how to harness Google’s AI to generate concise summaries in no time. Imagine having a lengthy report at your fingertips, and with just a few clicks, you receive a summary that allows you to focus on making informed decisions rather than wading through pages of text. It’s a transformative approach for busy professionals who value their time.
+Next, we delve into the [Mastering Document Summarization with Google AI Models](./mastering-document-summarization-google-ai-model/) tutorial. Here’s the exciting part: when you combine Google’s powerful AI capabilities with Aspose.Words, you unlock a new level of efficiency. This tutorial teaches you how to harness Google’s AI to generate concise summaries in no time. Imagine having a lengthy report at your fingertips, and with just a few clicks, you receive a summary that allows you to focus on making informed decisions rather than wading through pages of text. It’s a transformative approach for busy professionals who value their time.
 
 ## OpenAI for Document Summarization
 
@@ -31,6 +31,6 @@ Finally, don’t miss our tutorial on [Summarize Documents Options](./summarize-
 | Title | Description |
 | --- | --- |
 | [Mastering Document Summarization with AI Models](./mastering-document-summarization-ai-model/) | Unlock the potential of document automation with Aspose.Words for .NET. Learn how to effortlessly summarize documents using advanced AI models. |
-| [Mastering Document Summarization Google AI Models](./mastering-/document-summarization-google-ai-model/) | Learn step-by-step how to summarize Word documents with Aspose.Words and Google AI in .NET. Follow this guide to streamline content extraction, document insights, and automation. |
+| [Mastering Document Summarization Google AI Models](./mastering-document-summarization-google-ai-model/) | Learn step-by-step how to summarize Word documents with Aspose.Words and Google AI in .NET. Follow this guide to streamline content extraction, document insights, and automation. |
 | [Efficient Document Summarization Open AI Model](./efficient-document-summarization-openai-model/) | Learn how to summarize large documents quickly and accurately with this comprehensive tutorial, covering prerequisites, setup, and coding examples. |
 | [Summarize Documents Options](./summarize-documents-options/) | Learn how to efficiently summarize documents with Aspose.Words for .NET. This comprehensive guide covers setup, document loading and AI model integration. |
