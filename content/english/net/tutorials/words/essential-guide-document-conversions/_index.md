@@ -1,6 +1,6 @@
 ---
 title: Essential Guide to Basic Document Conversions
-linktitle: Basic Conversions
+linktitle: Essential Guide to Basic Document Conversions
 second_title: Aspose.Words Document Processing API
 description: Learn how to perform essential document conversions using Aspose.Words for .NET. This guide covers step-by-step instructions for converting Word files to PDF, TXT, HTML, and more.
 type: docs
