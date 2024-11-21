@@ -187,7 +187,7 @@ defaultContentLang = 'en'
     weight = 32
 
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy", "taxonomyTerm", "page", "RSS"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 
 # Image processing configuration.
@@ -295,7 +295,8 @@ footer_about_disable = false
       decimals = -1
     [minify.tdewolff.xml]
       keepWhitespace = false 
-  
+[Taxonomies]
+
 [deployment]
 [[deployment.matchers]]
 # Set custom content type for /sitemap.xml
