@@ -132,4 +132,4 @@ You can find detailed documentation for Aspose.3D for .NET on the [documentation
 
 ### How do I purchase Aspose.3D for .NET?
 
-To purchase Aspose.3D for .NET, visit the [purchase page](https://purchase.aspose.com/buy), where you can choose a license that suits your needs.
+To purchase Aspose.3D for .NET, visit the [purchase page](https://purchase.conholdate.com/buy), where you can choose a license that suits your needs.

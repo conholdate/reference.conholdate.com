@@ -18,7 +18,7 @@ Before diving into the code, ensure you have the following prerequisites:
 - Basic understanding of C# and the .NET framework.
 - Visual Studio installed on your development machine.
 - The Aspose.Words for .NET library, which you can download [here](https://releases.aspose.com/words/net/).
-- A valid license for Aspose.Words. If you don’t have one yet, you can obtain a temporary license [here](https://purchase.aspose.com/temporary-license/).
+- A valid license for Aspose.Words. If you don’t have one yet, you can obtain a temporary license [here](https://purchase.conholdate.com/temporary-license/).
 
 ## Import Namespaces
 
@@ -77,7 +77,7 @@ Using Aspose.Words for .NET to convert Docx files to byte arrays and vice versa 
 ## FAQ's
 
 ### Can I use Aspose.Words for .NET without a license?
-No, a valid license is necessary to use Aspose.Words for .NET in production environments. You can obtain a temporary license [here](https://purchase.aspose.com/temporary-license/).
+No, a valid license is necessary to use Aspose.Words for .NET in production environments. You can obtain a temporary license [here](https://purchase.conholdate.com/temporary-license/).
 
 ### How can I learn more about Aspose.Words for .NET documentation?
 For extensive guides and API references, visit the documentation [here](https://reference.aspose.com/words/net/).

@@ -135,4 +135,4 @@ Yes, Aspose.Cells supports various output formats, including images and HTML, in
 
 ### Can I get a license for Aspose.Cells?
 
-Yes, you can [purchase a license](https://purchase.aspose.com/buy) to unlock the full capabilities of Aspose.Cells.
+Yes, you can [purchase a license](https://purchase.conholdate.com/buy) to unlock the full capabilities of Aspose.Cells.

@@ -81,4 +81,4 @@ You can seek assistance from the Aspose.GIS community forum [here](https://forum
 
 ### Can I use Aspose.GIS for .NET for commercial projects?
 
-Yes, you can purchase a license for commercial use from [this link](https://purchase.aspose.com/buy).
+Yes, you can purchase a license for commercial use from [this link](https://purchase.conholdate.com/buy).

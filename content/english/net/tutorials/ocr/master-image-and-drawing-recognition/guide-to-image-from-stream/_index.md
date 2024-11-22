@@ -95,8 +95,8 @@ For assistance, visit the [Aspose.OCR Forum](https://forum.aspose.com/c/ocr/16) 
 
 ### Can I obtain a temporary license?
 
-Yes, feel free to acquire a temporary license for testing at this [link](https://purchase.aspose.com/temporary-license/).
+Yes, feel free to acquire a temporary license for testing at this [link](https://purchase.conholdate.com/temporary-license/).
 
 ### How can I purchase Aspose.OCR for .NET?
 
-To integrate Aspose.OCR into your toolkit permanently, head over to the [purchase page](https://purchase.aspose.com/buy).
+To integrate Aspose.OCR into your toolkit permanently, head over to the [purchase page](https://purchase.conholdate.com/buy).

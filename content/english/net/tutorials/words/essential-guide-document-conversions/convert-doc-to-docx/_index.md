@@ -65,7 +65,7 @@ You can access it [here](https://reference.aspose.com/words/net/).
 Yes, download a free trial from [here](https://releases.aspose.com/).
 
 ### How do I purchase a license?
-You can buy a license [here](https://purchase.aspose.com/buy).
+You can buy a license [here](https://purchase.conholdate.com/buy).
 
 ### Where can I get support for Aspose.Words?
 The Aspose.Words [support forum](https://forum.aspose.com/c/words/8) is available for assistance.

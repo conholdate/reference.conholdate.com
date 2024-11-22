@@ -142,4 +142,4 @@ Yes, Aspose.Cells for .NET is compatible with .NET Core, enabling you to run app
 You can find support and ask questions on the [Aspose support forum](https://forum.aspose.com/c/cells/9).
 
 ### How do I get a temporary license for Aspose.Cells?
-Request a temporary license from Aspose’s website [here](https://purchase.aspose.com/temporary-license/).
+Request a temporary license from Aspose’s website [here](https://purchase.conholdate.com/temporary-license/).

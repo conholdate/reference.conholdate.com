@@ -84,7 +84,7 @@ Aspose.CAD is designed to support a wide range of CAD formats, including various
 
 ### Can I use Aspose.CAD for commercial projects?
 
-Yes, Aspose.CAD is suitable for both personal and commercial use. For licensing information, visit the [purchase page](https://purchase.aspose.com/buy).
+Yes, Aspose.CAD is suitable for both personal and commercial use. For licensing information, visit the [purchase page](https://purchase.conholdate.com/buy).
 
 ### Is there a free trial available?
 
@@ -96,4 +96,4 @@ For community support, check out the [Aspose.CAD forum](https://forum.aspose.com
 
 ### Are temporary licenses available?
 
-Yes, temporary licenses can be requested [here](https://purchase.aspose.com/temporary-license/).
+Yes, temporary licenses can be requested [here](https://purchase.conholdate.com/temporary-license/).

@@ -19,7 +19,7 @@ For .NET developers and businesses working extensively with Excel files, convert
 
 ### Aspose.Cells for .NET Library
 - Download Aspose.Cells: Obtain the latest version of Aspose.Cells for .NET [here](https://releases.aspose.com/cells/net/).
-- Trial License: If you’re testing the library, you can get a temporary license [here](https://purchase.aspose.com/temporary-license/).
+- Trial License: If you’re testing the library, you can get a temporary license [here](https://purchase.conholdate.com/temporary-license/).
 
 With these prerequisites, you’re ready to start transforming your Excel files into PDFs using Aspose.Cells!
 

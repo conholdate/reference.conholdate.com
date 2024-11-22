@@ -111,7 +111,7 @@ For community support, visit the [Aspose.3D forum](https://forum.aspose.com/c/3d
 
 ### How can I obtain a temporary license?
 
-You can request a temporary license [here](https://purchase.aspose.com/temporary-license/).
+You can request a temporary license [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Are there additional tutorials available?
 

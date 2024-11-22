@@ -100,4 +100,4 @@ Yes, you can explore a free trial of Aspose.Drawing [here](https://releases.aspo
 
 ### How can I get a temporary license for Aspose.Drawing?
 
-You can obtain a temporary license for Aspose.Drawing [here](https://purchase.aspose.com/temporary-license/).
+You can obtain a temporary license for Aspose.Drawing [here](https://purchase.conholdate.com/temporary-license/).

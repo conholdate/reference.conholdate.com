@@ -110,7 +110,7 @@ Absolutely! The library is versatile, allowing for both single-line and multi-li
 
 ### What licensing options are available for Aspose.OCR?
 
-You can learn about the different licensing options and make purchases from the [Aspose Store](https://purchase.aspose.com/buy).
+You can learn about the different licensing options and make purchases from the [Aspose Store](https://purchase.conholdate.com/buy).
 
 ### Is there a trial version of Aspose.OCR?
 

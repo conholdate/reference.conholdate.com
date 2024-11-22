@@ -107,7 +107,7 @@ The radius size determines the extent of the filter's operation, while the smoot
 
 ### How can I obtain a temporary license for Aspose.PSD?
 
-You can obtain a temporary license by visiting the [Aspose.PSD temporary license page](https://purchase.aspose.com/temporary-license/).
+You can obtain a temporary license by visiting the [Aspose.PSD temporary license page](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I find support and additional resources?
 

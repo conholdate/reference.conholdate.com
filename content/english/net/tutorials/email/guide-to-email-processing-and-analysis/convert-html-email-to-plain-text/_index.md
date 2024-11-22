@@ -101,7 +101,7 @@ Congratulations! You've just learned how to convert an HTML body from an email i
 C# is the programming language we use to execute the logic required for converting HTML to plain text.
 
 ### Do I need a license to use Aspose products?  
-Yes, while Aspose provides a free trial, you’ll need a valid license for extended use. You can get a temporary license [here](https://purchase.aspose.com/temporary-license/).
+Yes, while Aspose provides a free trial, you’ll need a valid license for extended use. You can get a temporary license [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Can I use Aspose.Email without using Aspose.Words for this conversion?  
 Currently, for converting HTML content to plain text, Aspose.Words is necessary to effectively handle the HTML formatting.

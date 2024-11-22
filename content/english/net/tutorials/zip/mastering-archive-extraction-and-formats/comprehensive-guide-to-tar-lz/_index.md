@@ -83,7 +83,7 @@ Yes, Aspose.Zip for .NET is capable of efficiently handling files of various siz
 Yes, the code is compatible with the most recent version. Always ensure you have the latest library updates.
 
 ### Are there licensing considerations for using Aspose.Zip for .NET?
-Yes, please review the licensing details on the [Aspose website](https://purchase.aspose.com/buy).
+Yes, please review the licensing details on the [Aspose website](https://purchase.conholdate.com/buy).
 
 ### Can I use Aspose.Zip for .NET in commercial projects?
 Yes, the library can be utilized in both commercial and personal projects, subject to its licensing conditions.

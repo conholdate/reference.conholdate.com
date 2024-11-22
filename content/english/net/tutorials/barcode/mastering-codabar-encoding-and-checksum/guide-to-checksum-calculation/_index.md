@@ -87,7 +87,7 @@ Checksum calculations provide an additional layer of data integrity, ensuring th
 
 ### How can I obtain a temporary license for Aspose.BarCode for .NET?
 
-You can acquire a temporary license directly from [here](https://purchase.aspose.com/temporary-license/).
+You can acquire a temporary license directly from [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Is Aspose.BarCode for .NET compatible with various .NET frameworks?
 

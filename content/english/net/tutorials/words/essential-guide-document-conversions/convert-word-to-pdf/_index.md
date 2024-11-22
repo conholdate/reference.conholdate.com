@@ -97,4 +97,4 @@ Yes, Aspose.Words works seamlessly with both .NET Framework and .NET Core.
 
 ### Can I obtain a temporary license?
 
-Absolutely! You can request a temporary license [here](https://purchase.aspose.com/temporary-license/).
+Absolutely! You can request a temporary license [here](https://purchase.conholdate.com/temporary-license/).

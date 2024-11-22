@@ -106,4 +106,4 @@ For assistance, visit the [Aspose support forum](https://forum.aspose.com/c/pdf/
 
 ### How do I purchase a license for Aspose.PDF?
 
-You can purchase a license by visiting the [Aspose purchase page](https://purchase.aspose.com/buy).
+You can purchase a license by visiting the [Aspose purchase page](https://purchase.conholdate.com/buy).

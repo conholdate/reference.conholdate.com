@@ -123,7 +123,7 @@ Yes, a free trial is accessible [here](https://releases.aspose.com/).
 
 ### How can I obtain temporary licenses for Aspose.CAD for .NET?
 
-You can request temporary licenses [here](https://purchase.aspose.com/temporary-license/).
+You can request temporary licenses [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Need help or have questions?
 

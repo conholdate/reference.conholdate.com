@@ -92,7 +92,7 @@ You can adjust image scaling by modifying the parameters in the `DrawImage` meth
 
 ### Are there licensing considerations for using Aspose.Drawing in commercial projects?
 
-For licensing details and options, please visit the [purchase page](https://purchase.aspose.com/buy).
+For licensing details and options, please visit the [purchase page](https://purchase.conholdate.com/buy).
 
 ### Where can I seek help if I encounter issues or have questions about Aspose.Drawing?
 

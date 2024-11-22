@@ -142,5 +142,5 @@ Yes, Aspose offers a free trial which you can get [here](https://releases.aspose
 Support is available on their [forum](https://forum.aspose.com/c/gis/33/).
 
 ### How do I obtain a temporary license for Aspose.GIS?
-You can apply for a temporary license [here](https://purchase.aspose.com/temporary-license/).
+You can apply for a temporary license [here](https://purchase.conholdate.com/temporary-license/).
 

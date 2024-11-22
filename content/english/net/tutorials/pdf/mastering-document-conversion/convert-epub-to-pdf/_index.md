@@ -111,4 +111,4 @@ Yes, you can download a free trial of Aspose.PDF [here](https://releases.aspose.
 You can visit the Aspose support forum [here](https://forum.aspose.com/c/pdf/10).
 
 ### How do I obtain a temporary license?
-You can request a temporary license [here](https://purchase.aspose.com/temporary-license/).
+You can request a temporary license [here](https://purchase.conholdate.com/temporary-license/).

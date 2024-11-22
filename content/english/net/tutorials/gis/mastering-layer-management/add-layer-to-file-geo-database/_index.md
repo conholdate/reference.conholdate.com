@@ -25,7 +25,7 @@ Before we proceed, ensure you have the following:
    Install and configure your preferred IDE with .NET support (e.g., Visual Studio).
 
 4. Temporary License (Optional)  
-   For full-feature evaluation, request a [temporary license](https://purchase.aspose.com/temporary-license/).
+   For full-feature evaluation, request a [temporary license](https://purchase.conholdate.com/temporary-license/).
 
 5. Data Directory  
    Prepare a directory to manage your input and output datasets.

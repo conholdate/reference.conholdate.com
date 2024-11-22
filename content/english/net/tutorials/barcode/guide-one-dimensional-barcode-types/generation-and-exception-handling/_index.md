@@ -98,7 +98,7 @@ Access the complete documentation [here](https://reference.aspose.com/barcode/ne
 Yes! You can download the trial version of Aspose.BarCode for .NET [here](https://releases.aspose.com/barcode/net/).
 
 ### How can I purchase a license for Aspose.BarCode for .NET?
-Visit the purchase page [here](https://purchase.aspose.com/buy) to acquire a license for Aspose.BarCode for .NET.
+Visit the purchase page [here](https://purchase.conholdate.com/buy) to acquire a license for Aspose.BarCode for .NET.
 
 ### Where can I seek help and support for Aspose.BarCode for .NET?
 For assistance, visit the Aspose.BarCode for .NET support forum [here](https://forum.aspose.com/c/barcode/13) to connect with the community and support team.

@@ -123,7 +123,7 @@ Yes, you can access a free trial version [here](https://releases.aspose.com/).
 
 ### How do I obtain a temporary license for Aspose.Imaging for .NET?
 
-You can request a temporary license [here](https://purchase.aspose.com/temporary-license/).
+You can request a temporary license [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I ask questions or get support regarding Aspose.Imaging for .NET?
 

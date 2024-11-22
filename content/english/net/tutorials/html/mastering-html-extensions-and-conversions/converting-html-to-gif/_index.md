@@ -87,7 +87,7 @@ You've learned how to utilize Aspose.HTML for .NET to convert HTML documents int
 ## FAQ's
 
 ### Is Aspose.HTML for .NET free?  
-Aspose.HTML for .NET is a commercial product. However, you can obtain a [temporary license](https://purchase.aspose.com/temporary-license/) for evaluation.
+Aspose.HTML for .NET is a commercial product. However, you can obtain a [temporary license](https://purchase.conholdate.com/temporary-license/) for evaluation.
 
 ### What formats can I convert HTML into?  
 The library supports various formats beyond GIF, including PDF, PNG, and JPEG.

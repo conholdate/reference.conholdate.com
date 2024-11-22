@@ -84,7 +84,7 @@ Comprehensive documentation is available at [Aspose.TeX for .NET Documentation](
 
 ### What should I do if I encounter issues?
 
-For support, visit the [Aspose.TeX forum](https://forum.aspose.com/c/tex/47) for community assistance, or consider a [temporary license](https://purchase.aspose.com/temporary-license/) for priority help.
+For support, visit the [Aspose.TeX forum](https://forum.aspose.com/c/tex/47) for community assistance, or consider a [temporary license](https://purchase.conholdate.com/temporary-license/) for priority help.
 
 ### Is there a free trial option available?
 
@@ -92,5 +92,5 @@ Yes, you can access a free trial version at [Aspose.TeX Releases](https://releas
 
 ### How can I purchase Aspose.TeX for .NET?
 
-You can purchase Aspose.TeX for .NET directly from the [purchase page](https://purchase.aspose.com/buy).
+You can purchase Aspose.TeX for .NET directly from the [purchase page](https://purchase.conholdate.com/buy).
 

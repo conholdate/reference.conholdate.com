@@ -112,4 +112,4 @@ Yes, Aspose.PDF supports .NET Core, making it suitable for modern applications.
 You can get support by visiting the [Aspose forum](https://forum.aspose.com/c/pdf/10).
 
 ### Where can I buy Aspose.PDF?
-You can purchase a license for Aspose.PDF [here](https://purchase.aspose.com/buy).
+You can purchase a license for Aspose.PDF [here](https://purchase.conholdate.com/buy).
