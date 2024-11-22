@@ -5,7 +5,7 @@ second_title: Aspose.Drawing .NET API - Alternative to System.Drawing.Common
 description: Elevate your .NET application's visual capabilities with local transformations using Aspose.Drawing. This comprehensive tutorial walks you through the process of creating stunning graphics by applying transformation matrices.
 type: docs
 weight: 11
-url: /net/transformations/guide-to-local-transformation/
+url: /net/tutorials/drawing/transformations/guide-to-local-transformation/
 ---
 ## Introduction
 

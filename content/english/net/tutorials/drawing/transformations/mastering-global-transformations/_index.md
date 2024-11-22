@@ -5,7 +5,7 @@ second_title: Aspose.Drawing .NET API - Alternative to System.Drawing.Common
 description: Learn how to apply transformations to all drawn elements within a graphics context, enabling you to create captivating visual effects and efficiently manipulate images.
 type: docs
 weight: 10
-url: /net/transformations/mastering-global-transformations/
+url: /net/tutorials/drawing/transformations/mastering-global-transformations/
 ---
 ## Introduction
 

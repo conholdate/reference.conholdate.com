@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.Drawing for .NET
 linktitle: Aspose.Drawing for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/drawing/
 description: Elevate your graphic skills with Aspose.Drawing for .NET! From precise coordinate transformations to dynamic text and fonts, our tutorials unlock the full potential of graphics.
 is_root: true
 ---

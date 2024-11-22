@@ -5,7 +5,7 @@ second_title: Aspose.Drawing .NET API - Alternative to System.Drawing.Common
 description: Unlock the potential of your .NET applications by learning how to display images effortlessly using the Aspose.Drawing library. This comprehensive tutorial provides a clear, step-by-step guide.
 type: docs
 weight: 12
-url: /net/master-image-editing/image-display/
+url: /net/tutorials/drawing/master-image-editing/image-display/
 ---
 ## Introduction
 

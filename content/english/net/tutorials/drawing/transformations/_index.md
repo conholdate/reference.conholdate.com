@@ -5,7 +5,7 @@ second_title: Aspose.Drawing .NET API - Alternative to System.Drawing.Common
 description: Learn to master coordinate transformations with Aspose.Drawing for .NET. Discover how to implement global and local transformations for visual excellence.
 type: docs
 weight: 20
-url: /net/transformations/
+url: /net/tutorials/drawing/transformations/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: Aspose.Drawing .NET API - Alternative to System.Drawing.Common
 description: Unlock the power of image manipulation in your .NET applications with our step-by-step guide to cropping images using Aspose.Drawing. This tutorial covers everything you need to know, from creating a Bitmap to saving the final cropped image.
 type: docs
 weight: 10
-url: /net/master-image-editing/image-cropping/
+url: /net/tutorials/drawing/master-image-editing/image-cropping/
 ---
 ## Introduction
 

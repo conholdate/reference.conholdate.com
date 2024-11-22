@@ -5,7 +5,7 @@ second_title: Aspose.Drawing .NET API - Alternative to System.Drawing.Common
 description: Explore Aspose.Drawing for .NET tutorials to master image editing, cropping, and display in .NET applications with step-by-step guides.
 type: docs
 weight: 21
-url: /net/master-image-editing/
+url: /net/tutorials/drawing/master-image-editing/
 ---
 ## Introduction
 
