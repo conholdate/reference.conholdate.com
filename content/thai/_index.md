@@ -16,7 +16,7 @@ url: /th/
 สร้าง อ่าน แก้ไข พิมพ์ ดู ใส่คำอธิบาย เปรียบเทียบ ลงนาม ทำให้เป็นอัตโนมัติ ค้นหา และแปลงระหว่างรูปแบบเอกสารยอดนิยมมากมาย เช่น Word, Excel, PowerPoint, อีเมล, Visio, PDF, รูปภาพ, HTML และอื่นๆ อีกมากมายภายในแอปพลิเคชันเดสก์ท็อปและเว็บ .NET, C#, ASP.NET, VB.NET และ Java แพ็คเกจนี้เป็นโซลูชันแบบครบวงจรสำหรับระบบการจัดการเอกสารทุกประเภทที่เสนอโดย Aspose และ GroupDocs
 {{< /blocks/card-item-text >}}
 
-{{< บล็อก/รายการสินค้าใหม่ชื่อ=".NET" href="/net/" class="docs-btn" >}} {{< บล็อก/รายการสินค้าใหม่ชื่อ="JAVA" href="/java/" class="docs-btn" >}}
+{{< blocks/product-item-new title=".NET" href="/net/" class="docs-btn"  >}} {{< blocks/product-item-new title="JAVA" href="/java/" class="docs-btn" >}}
 
 {{< /blocks/product-card-new >}}
 
