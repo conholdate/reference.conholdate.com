@@ -15,7 +15,7 @@ In the constantly evolving world of .NET development, managing and compressing f
 
 Before we dive into the implementation, ensure you have the following ready:
 
-- Aspose.Zip for .NET Library: Download and install the latest version of the library from the [Aspose website](https://releases.aspose.com/zip/net/tutorials/zip/).
+- Aspose.Zip for .NET Library: Download and install the latest version of the library from the [Aspose website](https://releases.aspose.com/zip/net/).
 - Document Directory: Create a directory where you will store the files you want to compress. Update the `dataDir` variable in the example code with the path to this directory.
 
 ## Import Necessary Namespaces

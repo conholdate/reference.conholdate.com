@@ -15,7 +15,7 @@ Zip files are vital for data organization and compression, but how do you modify
 
 Before we dive in, ensure you have the following:
 
-1. Aspose.Zip for .NET Library: Install the library in your project. You can download it [here](https://releases.aspose.com/zip/net/tutorials/zip/).
+1. Aspose.Zip for .NET Library: Install the library in your project. You can download it [here](https://releases.aspose.com/zip/net/).
    
 2. Document Directory: Set up a directory to store your zip files. Replace `"Your Document Directory"` in the code with your actual path.
 
@@ -129,4 +129,4 @@ Visit the [Aspose.Zip forum](https://forum.aspose.com/c/zip/37) for support and 
 Yes, you can obtain a temporary license [here](https://purchase.aspose.com/temporary-license/).
 
 ### Where can I find the documentation for Aspose.Zip for .NET?
-The complete documentation is available [here](https://reference.aspose.com/zip/net/tutorials/zip/).
+The complete documentation is available [here](https://reference.aspose.com/zip/net/).

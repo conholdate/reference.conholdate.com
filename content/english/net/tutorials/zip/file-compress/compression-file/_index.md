@@ -15,7 +15,7 @@ Welcome to the world of Aspose.Zip for .NET! This powerful library allows you to
 
 Before we get started, ensure you have the following:
 
-- Aspose.Zip for .NET Library: Download it [here](https://releases.aspose.com/zip/net/tutorials/zip/).
+- Aspose.Zip for .NET Library: Download it [here](https://releases.aspose.com/zip/net/).
 - Document Directory: Have a directory ready where your files are stored.
 - Basic Knowledge of C#: Familiarity with C# will help you follow along more easily.
 
@@ -74,7 +74,7 @@ Yes, you can use it in commercial projects. To obtain a license, visit [here](ht
 Yes, you can explore the library with a free trial [here](https://releases.aspose.com/).
 
 ### Where can I find detailed documentation?
-For comprehensive documentation, check [here](https://reference.aspose.com/zip/net/tutorials/zip/).
+For comprehensive documentation, check [here](https://reference.aspose.com/zip/net/).
 
 ### How can I get support or ask questions?
 You can visit the community forum [here](https://forum.aspose.com/c/zip/37) for support and inquiries.

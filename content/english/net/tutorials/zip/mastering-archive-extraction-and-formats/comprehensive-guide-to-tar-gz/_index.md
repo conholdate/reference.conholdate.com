@@ -17,8 +17,8 @@ Before you begin, ensure you have the following prerequisites:
 
 - A basic understanding of .NET development.
 - An integrated development environment (IDE) like Visual Studio.
-- The Aspose.Zip for .NET library installed. You can find the documentation [here](https://reference.aspose.com/zip/net/tutorials/zip/).
-- Download the library from [this link](https://releases.aspose.com/zip/net/tutorials/zip/).
+- The Aspose.Zip for .NET library installed. You can find the documentation [here](https://reference.aspose.com/zip/net/).
+- Download the library from [this link](https://releases.aspose.com/zip/net/).
 
 ## Importing Namespaces
 
