@@ -5,7 +5,7 @@ second_title: Aspose.Page .NET API
 description: Discover how to manipulate PostScript and XPS documents in .NET using Aspose.Page. Follow our tutorials to enhance your application capabilities.
 type: docs
 weight: 29
-url: /net/master-page-manipulation/
+url: /net/tutorials/page/master-page-manipulation/
 ---
 ## Introduction
 

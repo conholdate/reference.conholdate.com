@@ -5,7 +5,7 @@ second_title: Aspose.Page .NET API
 description: Discover how to enhance your .NET applications by manipulating PostScript documents with Aspose.Page. This step-by-step guide provides clear instructions on initializing a document.
 type: docs
 weight: 10
-url: /net/master-page-manipulation/add-page-to-postscript-document/
+url: /net/tutorials/page/master-page-manipulation/add-page-to-postscript-document/
 ---
 ## Introduction
 

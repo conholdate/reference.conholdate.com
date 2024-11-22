@@ -5,7 +5,7 @@ second_title: Aspose.Page .NET API
 description: Discover how to seamlessly convert XPS (XML Paper Specification) documents to PDF (Portable Document Format) using the powerful Aspose.Page for .NET library.
 type: docs
 weight: 11
-url: /net/convert-document/converting-xps-to-pdf/
+url: /net/tutorials/page/convert-document/converting-xps-to-pdf/
 ---
 ## Introduction
 

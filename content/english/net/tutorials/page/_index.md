@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.Page for .NET
 linktitle: Aspose.Page for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/page/
 description: Unleash Aspose.Page for .NET's potential with tutorials covering creation, manipulation, and enhancement. Master from basics to advanced techniques effortlessly.
 is_root: true
 ---

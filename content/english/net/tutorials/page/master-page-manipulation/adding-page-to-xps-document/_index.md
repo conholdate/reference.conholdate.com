@@ -5,7 +5,7 @@ second_title: Aspose.Page .NET API
 description: Learn how to programmatically add pages to XPS documents using Aspose.Page for .NET. This comprehensive guide covers prerequisites, code examples, and FAQs.
 type: docs
 weight: 11
-url: /net/master-page-manipulation/adding-page-to-xps-document/
+url: /net/tutorials/page/master-page-manipulation/adding-page-to-xps-document/
 ---
 ## Introduction
 

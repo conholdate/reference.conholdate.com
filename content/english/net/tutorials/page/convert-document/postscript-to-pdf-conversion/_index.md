@@ -5,7 +5,7 @@ second_title: Aspose.Page .NET API
 description: Unlock the power of document processing with our comprehensive tutorial on converting PostScript files to PDF using Aspose.Page for .NET. This step-by-step guide walks you through setting up input and output streams.
 type: docs
 weight: 10
-url: /net/convert-document/postscript-to-pdf-conversion/
+url: /net/tutorials/page/convert-document/postscript-to-pdf-conversion/
 ---
 ## Introduction
 
