@@ -4,7 +4,7 @@ weight: 10
 url: /it/
 ---
 
-{{< blocks/product-header-new headertitle="Riferimenti API" headerpara="Questo pacchetto è una soluzione completa per tutti i tipi di sistemi di gestione dei documenti offerti da Aspose e GroupDocs." >}}
+{{< blocks/product-header-new headertitle="Riferimenti API" headerpara="Questo pacchetto è una soluzione all-in-one per tutti i tipi di sistemi di gestione dei documenti offerti da Aspose e GroupDocs." >}}
 
 {{< blocks/product-section-new >}}
 
