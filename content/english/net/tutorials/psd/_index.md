@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.PSD for .NET
 linktitle: Aspose.PSD for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/psd/
 description: Effortlessly enhance image quality with Aspose.PSD for .NET tutorials. Master image processing, PSD file manipulation, text and font handling, and more. 
 is_root: true
 ---

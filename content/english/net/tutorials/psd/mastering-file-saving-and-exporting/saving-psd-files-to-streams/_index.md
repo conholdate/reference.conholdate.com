@@ -5,7 +5,7 @@ second_title: Aspose.PSD .NET API
 description: Discover how to efficiently save images from PSD files to streams using Aspose.PSD for .NET. This comprehensive step-by-step guide covers prerequisites, codes, and techniques.
 type: docs
 weight: 11
-url: /net/mastering-file-saving-and-exporting/saving-psd-files-to-streams/
+url: /net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-to-streams/
 ---
 ## Introduction
 

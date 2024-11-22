@@ -5,7 +5,7 @@ second_title: Aspose.PSD .NET API
 description: Learn to master file saving and exporting with Aspose.PSD for .NET tutorials. Convert PSD files easily and manage complex image assets efficiently. 
 type: docs
 weight: 23
-url: /net/mastering-file-saving-and-exporting/
+url: /net/tutorials/psd/mastering-file-saving-and-exporting/
 ---
 ## Introduction
 

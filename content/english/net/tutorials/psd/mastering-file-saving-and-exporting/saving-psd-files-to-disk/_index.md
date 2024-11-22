@@ -5,7 +5,7 @@ second_title: Aspose.PSD .NET API
 description: Learn how to effortlessly save PSD images to disk by following a step-by-step guide. Whether you're converting PSD files to various image formats or managing complex image assets.
 type: docs
 weight: 10
-url: /net/mastering-file-saving-and-exporting/saving-psd-files-to-disk/
+url: /net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-to-disk/
 ---
 ## Introduction
 

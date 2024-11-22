@@ -5,7 +5,7 @@ second_title: Aspose.PSD .NET API
 description: Learn how to apply Gaussian and Wiener filters, as well as Bradley Thresholding in Aspose.PSD for .NET for better image processing and segmentation.
 type: docs
 weight: 20
-url: /net/guide-image-processing/
+url: /net/tutorials/psd/guide-image-processing/
 ---
 ## Introduction
 

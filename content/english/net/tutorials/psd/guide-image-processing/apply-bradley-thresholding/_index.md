@@ -5,7 +5,7 @@ second_title: Aspose.PSD .NET API
 description: Learn step-by-step how to load PSD files, apply thresholding techniques, and save your results in various formats, enhancing your image segmentation tasks for diverse applications.
 type: docs
 weight: 15
-url: /net/guide-image-processing/apply-bradley-thresholding/
+url: /net/tutorials/psd/guide-image-processing/apply-bradley-thresholding/
 ---
 ## Introduction
 

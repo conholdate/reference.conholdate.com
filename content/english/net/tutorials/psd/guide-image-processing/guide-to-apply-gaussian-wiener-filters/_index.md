@@ -5,7 +5,7 @@ second_title: Aspose.PSD .NET API
 description: Discover how to effectively reduce noise and enhance image quality in your .NET applications using Gaussian and Wiener filters with Aspose.PSD. This comprehensive guide walks you through the setup, filtering process.
 type: docs
 weight: 10
-url: /net/guide-image-processing/guide-to-apply-gaussian-wiener-filters/
+url: /net/tutorials/psd/guide-image-processing/guide-to-apply-gaussian-wiener-filters/
 ---
 ## Introduction
 
