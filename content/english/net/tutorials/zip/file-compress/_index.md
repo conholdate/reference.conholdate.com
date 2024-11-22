@@ -5,7 +5,7 @@ second_title: Aspose.Zip .NET API for Files Compression & Archiving
 description: Learn how to efficiently compress files using Aspose.Zip for .NET with our detailed tutorial. Follow this comprehensive guide to implement file compression seamlessly in your .NET applications.
 type: docs
 weight: 20
-url: /net/file-compress/
+url: /net/tutorials/zip/file-compress/
 ---
 ## Introduction
 

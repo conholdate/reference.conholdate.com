@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.Zip for .NET
 linktitle: Aspose.Zip for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/zip/
 description:
 is_root: true
 ---

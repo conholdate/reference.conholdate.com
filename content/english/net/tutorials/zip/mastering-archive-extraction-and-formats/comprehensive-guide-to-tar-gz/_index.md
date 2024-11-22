@@ -5,7 +5,7 @@ second_title: Aspose.Zip .NET API for Files Compression & Archiving
 description: Discover how to efficiently compress files in the TarGz format using Aspose.Zip for .NET. This detailed tutorial covers everything from setting up your environment.
 type: docs
 weight: 12
-url: /net/mastering-archive-extraction-and-formats/comprehensive-guide-to-tar-gz/
+url: /net/tutorials/zip/mastering-archive-extraction-and-formats/comprehensive-guide-to-tar-gz/
 ---
 ## Introduction
 
@@ -17,8 +17,8 @@ Before you begin, ensure you have the following prerequisites:
 
 - A basic understanding of .NET development.
 - An integrated development environment (IDE) like Visual Studio.
-- The Aspose.Zip for .NET library installed. You can find the documentation [here](https://reference.aspose.com/zip/net/).
-- Download the library from [this link](https://releases.aspose.com/zip/net/).
+- The Aspose.Zip for .NET library installed. You can find the documentation [here](https://reference.aspose.com/zip/net/tutorials/zip/).
+- Download the library from [this link](https://releases.aspose.com/zip/net/tutorials/zip/).
 
 ## Importing Namespaces
 

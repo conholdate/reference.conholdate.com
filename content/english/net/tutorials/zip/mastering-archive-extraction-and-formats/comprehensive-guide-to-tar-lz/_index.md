@@ -5,7 +5,7 @@ second_title: Aspose.Zip .NET API for Files Compression & Archiving
 description: This comprehensive tutorial provides .NET developers with a step-by-step guide to efficiently compress files into the TarLz format using the powerful Aspose.Zip library.
 type: docs
 weight: 13
-url: /net/mastering-archive-extraction-and-formats/comprehensive-guide-to-tar-lz/
+url: /net/tutorials/zip/mastering-archive-extraction-and-formats/comprehensive-guide-to-tar-lz/
 ---
 ## Introduction
 
@@ -15,7 +15,7 @@ In the constantly evolving world of .NET development, managing and compressing f
 
 Before we dive into the implementation, ensure you have the following ready:
 
-- Aspose.Zip for .NET Library: Download and install the latest version of the library from the [Aspose website](https://releases.aspose.com/zip/net/).
+- Aspose.Zip for .NET Library: Download and install the latest version of the library from the [Aspose website](https://releases.aspose.com/zip/net/tutorials/zip/).
 - Document Directory: Create a directory where you will store the files you want to compress. Update the `dataDir` variable in the example code with the path to this directory.
 
 ## Import Necessary Namespaces

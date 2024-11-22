@@ -5,7 +5,7 @@ second_title: Aspose.Zip .NET API for Files Compression & Archiving
 description: Explore detailed tutorials on using Aspose.Zip for .NET to master archive extraction and compression formats like TarGz and TarLz.
 type: docs
 weight: 23
-url: /net/mastering-archive-extraction-and-formats/
+url: /net/tutorials/zip/mastering-archive-extraction-and-formats/
 ---
 ## Introduction
 
