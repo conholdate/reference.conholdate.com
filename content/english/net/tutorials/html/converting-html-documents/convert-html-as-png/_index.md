@@ -5,7 +5,7 @@ second_title: Aspose.HTML .NET HTML manipulation API
 description: Learn how to convert HTML documents as PNG images in .NET using the Aspose.HTML library. Follow our step-by-step tutorial to simplify HTML to image conversion.
 type: docs
 weight: 10
-url: /net/converting-html-documents/convert-html-as-png/
+url: /net/tutorials/html/converting-html-documents/convert-html-as-png/
 ---
 ## Introduction
 

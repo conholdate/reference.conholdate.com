@@ -5,7 +5,7 @@ second_title: Aspose.HTML .NET HTML manipulation API
 description: Unlock the power of Aspose.HTML for .NET with our tutorials on converting HTML to GIFs and PDFs. Transform your documents effortlessly.
 type: docs
 weight: 20
-url: /net/mastering-html-extensions-and-conversions/
+url: /net/tutorials/html/mastering-html-extensions-and-conversions/
 ---
 
 ## Introduction

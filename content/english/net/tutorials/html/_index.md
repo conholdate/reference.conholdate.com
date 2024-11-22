@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.HTML for .NET
 linktitle: Aspose.HTML for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/html/
 description: Unlock the potential of Aspose.HTML for .NET with comprehensive tutorials on document conversions and extensions tailored for developers and enthusiasts alike.
 is_root: true
 ---

@@ -5,7 +5,7 @@ second_title: Aspose.HTML .NET HTML manipulation API
 description: Discover the comprehensive process of converting HTML content to PDF using the powerful Aspose.HTML for .NET library. This guide provides developers with clear.
 type: docs
 weight: 10
-url: /net/mastering-html-extensions-and-conversions/converting-html-to-pdf/
+url: /net/tutorials/html/mastering-html-extensions-and-conversions/converting-html-to-pdf/
 ---
 ## Introduction
 

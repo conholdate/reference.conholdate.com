@@ -5,7 +5,7 @@ second_title: Aspose.HTML .NET HTML manipulation API
 description: Learn how to utilize Aspose.HTML for .NET to seamlessly convert HTML documents into GIF images. This comprehensive guide walks you through step-by-step guide.
 type: docs
 weight: 16
-url: /net/mastering-html-extensions-and-conversions/converting-html-to-gif/
+url: /net/tutorials/html/mastering-html-extensions-and-conversions/converting-html-to-gif/
 ---
 ## Introduction
 
