@@ -5,7 +5,7 @@ second_title: Aspose.TeX .NET API
 description: Explore our comprehensive guide on using Aspose.TeX for .NET to handle filesystems and generate XPS output. This step-by-step tutorial covers everything from setting up your environment to executing a TeX job.
 type: docs
 weight: 10
-url: /net/file-input-and-output/handle-filesystem-and-xps-output/
+url: /net/tutorials/tex/file-input-and-output/handle-filesystem-and-xps-output/
 ---
 ## Introduction
 

@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.TeX for .NET
 linktitle: Aspose.TeX for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/tex/
 description: Master LaTeX design with ease using Aspose.TeX for .NET. Download for seamless integration and explore advanced formatting, file handling, licensing, and more.
 is_root: true
 ---

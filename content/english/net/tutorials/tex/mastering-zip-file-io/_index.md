@@ -5,7 +5,7 @@ second_title: Aspose.TeX .NET API
 description: Discover how to master handling Zip file input and output with Aspose.TeX for .NET. Follow step-by-step tutorials to streamline your workflow efficiently.
 type: docs
 weight: 32
-url: /net/mastering-zip-file-io/
+url: /net/tutorials/tex/mastering-zip-file-io/
 ---
 ## Introduction
 

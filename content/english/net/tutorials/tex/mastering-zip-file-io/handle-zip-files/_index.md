@@ -5,7 +5,7 @@ second_title: Aspose.TeX .NET API
 description: This detailed tutorial will walk you through the process of using Zip files within Aspose.TeX for .NET. Learn how to set up your environment, handle input and output Zip streams.
 type: docs
 weight: 10
-url: /net/mastering-zip-file-io/handle-zip-files/
+url: /net/tutorials/tex/mastering-zip-file-io/handle-zip-files/
 ---
 ## Introduction
 

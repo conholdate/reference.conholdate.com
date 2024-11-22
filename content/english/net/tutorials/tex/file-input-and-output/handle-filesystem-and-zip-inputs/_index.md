@@ -5,7 +5,7 @@ second_title: Aspose.TeX .NET API
 description: Learn to efficiently convert LaTeX documents to various formats through easy-to-follow steps, including setting up conversion options, specifying input directories, and executing conversions. 
 type: docs
 weight: 11
-url: /net/file-input-and-output/handle-filesystem-and-zip-inputs/
+url: /net/tutorials/tex/file-input-and-output/handle-filesystem-and-zip-inputs/
 ---
 ## Introduction
 

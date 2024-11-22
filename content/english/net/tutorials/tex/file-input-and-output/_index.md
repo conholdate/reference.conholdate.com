@@ -5,7 +5,7 @@ second_title: Aspose.TeX .NET API
 description: Unlock the power of Aspose.TeX for .NET with our easy-to-follow tutorials on file input/output and XPS generation for seamless document processing.
 type: docs
 weight: 22
-url: /net/file-input-and-output/
+url: /net/tutorials/tex/file-input-and-output/
 ---
 ## Introduction
 
