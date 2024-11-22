@@ -5,7 +5,7 @@ second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to draw custom arcs in images using Aspose.Imaging for .NET. Follow step-by-step instructions to set up your image, initialize the graphics context, define arc parameters, and save the final output.
 type: docs
 weight: 10
-url: /net/guide-to-basic-drawing/create-custom-arc-in-images/
+url: /net/tutorials/imaging/guide-to-basic-drawing/create-custom-arc-in-images/
 ---
 ## Introduction
 

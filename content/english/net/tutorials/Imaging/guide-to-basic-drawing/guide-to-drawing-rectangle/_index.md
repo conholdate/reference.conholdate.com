@@ -5,7 +5,7 @@ second_title: Aspose.Imaging .NET Image Processing API
 description: Unlock the power of image processing with Aspose.Imaging for .NET in this comprehensive guide. Learn how to create and manipulate images, specifically focusing on drawing rectangles with customized colors and sizes.
 type: docs
 weight: 14
-url: /net/guide-to-basic-drawing/guide-to-drawing-rectangle/
+url: /net/tutorials/imaging/guide-to-basic-drawing/guide-to-drawing-rectangle/
 ---
 ## Introduction
 

@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.Imaging for .NET
 linktitle: Aspose.Imaging for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/imaging/
 description: Explore expert tutorials for Aspose.Imaging for .NET. Learn how to manipulate, convert, and process images with detailed guides, code examples, and practical insights. Perfect for developers aiming to streamline image-handling tasks in .NET applications.
 is_root: true
 ---

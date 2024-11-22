@@ -5,7 +5,7 @@ second_title: Aspose.Imaging .NET Image Processing API
 description: Learn the fundamentals of basic drawing with Aspose.Imaging for .NET. This step-by-step tutorial covers essential concepts, including creating shapes, applying transformations, and handling images.
 type: docs
 weight: 22
-url: /net/guide-to-basic-drawing/
+url: /net/tutorials/imaging/guide-to-basic-drawing/
 ---
 ## Introduction
 

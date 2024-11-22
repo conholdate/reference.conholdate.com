@@ -5,7 +5,7 @@ second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to seamlessly convert CorelDRAW (CDR) files to PDF using Aspose.Imaging for .NET in this comprehensive step-by-step guide.
 type: docs
 weight: 10
-url: /net/image-conversion/convert-cdr-files-to-pdf/
+url: /net/tutorials/imaging/image-conversion/convert-cdr-files-to-pdf/
 ---
 ## Introduction
 
