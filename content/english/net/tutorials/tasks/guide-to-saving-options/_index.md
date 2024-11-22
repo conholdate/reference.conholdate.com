@@ -5,7 +5,7 @@ second_title: Aspose.Tasks .NET API
 description: Effortlessly save and convert Microsoft Project files with Aspose.Tasks for .NET. Explore tutorials on exporting to HTML and PDF formats.
 type: docs
 weight: 20
-url: /net/guide-to-saving-options/
+url: /net/tutorials/tasks/guide-to-saving-options/
 ---
 ## Introduction
 

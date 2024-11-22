@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.Tasks for .NET
 linktitle: Aspose.Tasks for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/tasks/
 description: Explore Aspose.Tasks for .NET tutorials covering saving options, calendar & scheduling, project management, & more. Elevate your project management skills.
 is_root: true
 ---

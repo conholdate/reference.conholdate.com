@@ -5,7 +5,7 @@ second_title: Aspose.Tasks .NET API
 description: Unlock the potential of Aspose.Tasks for .NET with tutorials on task filtering, assignment baselines, and advanced features for effective project management.
 type: docs
 weight: 21
-url: /net/master-advanced-features/
+url: /net/tutorials/tasks/master-advanced-features/
 ---
 ## Introduction
 

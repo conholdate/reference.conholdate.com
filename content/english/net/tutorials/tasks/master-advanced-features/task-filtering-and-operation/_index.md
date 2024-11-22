@@ -5,7 +5,7 @@ second_title: Aspose.Tasks .NET API
 description: Learn how to leverage the class in Aspose.Tasks for .NET to filter project tasks based on multiple conditions. By combining criteria such as summary tasks and non-null attributes.
 type: docs
 weight: 10
-url: /net/master-advanced-features/task-filtering-and-operation/
+url: /net/tutorials/tasks/master-advanced-features/task-filtering-and-operation/
 ---
 ## Introduction
 

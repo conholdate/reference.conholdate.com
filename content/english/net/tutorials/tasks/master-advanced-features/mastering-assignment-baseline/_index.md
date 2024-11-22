@@ -5,7 +5,7 @@ second_title: Aspose.Tasks .NET API
 description: Learn how to manage assignment baselines efficiently using Aspose.Tasks for .NET. This step-by-step guide covers loading projects, setting baselines, retrieving data, comparing baselines, and more to optimize project management workflows.
 type: docs
 weight: 14
-url: /net/master-advanced-features/mastering-assignment-baseline/
+url: /net/tutorials/tasks/master-advanced-features/mastering-assignment-baseline/
 ---
 ## Introduction
 

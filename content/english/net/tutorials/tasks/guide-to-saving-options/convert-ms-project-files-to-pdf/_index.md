@@ -5,7 +5,7 @@ second_title: Aspose.Tasks .NET API
 description: Learn how to convert Microsoft Project (.mpp) files to PDF with Aspose.Tasks for .NET. Follow this step-by-step guide to customize PDF output, select specific pages, and automate batch conversions.
 type: docs
 weight: 13
-url: /net/guide-to-saving-options/convert-ms-project-files-to-pdf/
+url: /net/tutorials/tasks/guide-to-saving-options/convert-ms-project-files-to-pdf/
 ---
 ## Introduction
 

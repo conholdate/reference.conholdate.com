@@ -5,7 +5,7 @@ second_title: Aspose.Tasks .NET API
 description: Learn how to effortlessly convert Microsoft Project files (.mpp) into HTML format using Aspose.Tasks for .NET. This comprehensive tutorial provides step-by-step instructions, including how to load project files, customize HTML output, and save specific pages.
 type: docs
 weight: 10
-url: /net/guide-to-saving-options/save-ms-project-files-to-html-format/
+url: /net/tutorials/tasks/guide-to-saving-options/save-ms-project-files-to-html-format/
 ---
 ## Introduction
 
