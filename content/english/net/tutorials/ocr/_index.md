@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.OCR for .NET
 linktitle: Aspose.OCR for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/ocr/
 description: Unlock precision in OCR image recognition with Aspose.OCR for .NET. Explore tutorials on skew angle calculation, text recognition, OCR configuration, and optimization.
 is_root: true
 ---

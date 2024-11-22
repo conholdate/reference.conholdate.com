@@ -5,7 +5,7 @@ second_title: Aspose.OCR .NET API
 description: This article walks you through the process of recognizing text from images using streams, ensuring seamless integration into your .NET applications. Perfect for developers of all skill levels.
 type: docs
 weight: 12
-url: /net/master-image-and-drawing-recognition/guide-to-image-from-stream/
+url: /net/tutorials/ocr/master-image-and-drawing-recognition/guide-to-image-from-stream/
 ---
 ## Introduction
 

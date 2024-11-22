@@ -5,7 +5,7 @@ second_title: Aspose.OCR .NET API
 description: Learn how to optimize OCR performance using Aspose.OCR for .NET. Our detailed tutorials cover image recognition, preprocessing filters, and practical implementation steps.
 type: docs
 weight: 25
-url: /net/optimization-ocr/
+url: /net/tutorials/ocr/optimization-ocr/
 ---
 ## Introduction
 

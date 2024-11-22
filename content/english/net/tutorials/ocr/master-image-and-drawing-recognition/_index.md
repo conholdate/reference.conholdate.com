@@ -5,7 +5,7 @@ second_title: Aspose.OCR .NET API
 description: Unlock the potential of Aspose.OCR for .NET with our tutorials on image and drawing recognition, bringing text extraction to your applications effortlessly.
 type: docs
 weight: 22
-url: /net/master-image-and-drawing-recognition/
+url: /net/tutorials/ocr/master-image-and-drawing-recognition/
 ---
 ## Introduction
 

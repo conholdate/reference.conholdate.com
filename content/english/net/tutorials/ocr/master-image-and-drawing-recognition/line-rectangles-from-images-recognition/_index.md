@@ -5,7 +5,7 @@ second_title: Aspose.OCR .NET API
 description: Learn how to implement Optical Character Recognition (OCR) in your .NET applications using Aspose.OCR. This comprehensive guide walks you through the process of extracting rectangles for recognized lines.
 type: docs
 weight: 10
-url: /net/master-image-and-drawing-recognition/line-rectangles-from-images-recognition/
+url: /net/tutorials/ocr/master-image-and-drawing-recognition/line-rectangles-from-images-recognition/
 ---
 ## Introduction
 

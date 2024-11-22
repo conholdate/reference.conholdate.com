@@ -5,7 +5,7 @@ second_title: Aspose.OCR .NET API
 description: Unlock the potential of Optical Character Recognition (OCR) in your .NET applications with Aspose.OCR. This guide provides a step-by-step approach to implementing OCR using preprocessing filters.
 type: docs
 weight: 12
-url: /net/optimization-ocr/preprocessing-techniques-filters-for-image/
+url: /net/tutorials/ocr/optimization-ocr/preprocessing-techniques-filters-for-image/
 ---
 ## Introduction
 

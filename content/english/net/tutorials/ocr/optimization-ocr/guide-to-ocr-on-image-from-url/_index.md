@@ -5,7 +5,7 @@ second_title: Aspose.OCR .NET API
 description: Discover how to effortlessly implement Optical Character Recognition (OCR) in your .NET applications using Aspose.OCR. This step-by-step guide walks you through the entire process.
 type: docs
 weight: 10
-url: /net/optimization-ocr/guide-to-ocr-on-image-from-url/
+url: /net/tutorials/ocr/optimization-ocr/guide-to-ocr-on-image-from-url/
 ---
 ## Introduction
 
