@@ -3,7 +3,7 @@ title: Unleashing the Power of Presentation Manipulation and Conversion
 linktitle: Aspose.Slides for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/slides/
 description: Discover the world of presentation manipulation, conversion, and PowerPoint processing with Aspose.Slides for .NET tutorials. Learn to create, convert, and enhance presentations for impactful results.
 is_root: true
 ---

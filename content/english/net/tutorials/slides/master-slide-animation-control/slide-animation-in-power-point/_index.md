@@ -5,7 +5,7 @@ second_title: Aspose.Slides .NET PowerPoint Processing API
 description: Unlock the full potential of your PowerPoint presentations by learning how to implement captivating slide animations using Aspose.Slides for .NET.
 type: docs
 weight: 10
-url: /net/master-slide-animation-control/slide-animation-in-power-point/
+url: /net/tutorials/slides/master-slide-animation-control/slide-animation-in-power-point/
 ---
 ## Introduction
 Enhancing your presentations with captivating slide animations can significantly elevate their impact on your audience. In this tutorial, we’ll explore how to control slide animations using Aspose.Slides for .NET, a powerful library that enables seamless manipulation of PowerPoint presentations within the .NET environment.

@@ -5,7 +5,7 @@ second_title: Aspose.Slides .NET PowerPoint Processing API
 description: Learn how to seamlessly convert PowerPoint presentations to HTML with embedded images using Aspose.Slides for .NET. Step-by-step guide for seamless conversion.
 type: docs
 weight: 11
-url: /net/presentation-conversion-guide/converting-html-with-embedded-images/
+url: /net/tutorials/slides/presentation-conversion-guide/converting-html-with-embedded-images/
 ---
 ## Introduction
 

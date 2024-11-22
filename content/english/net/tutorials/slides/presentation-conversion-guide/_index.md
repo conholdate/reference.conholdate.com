@@ -5,7 +5,7 @@ second_title: Aspose.Slides .NET PowerPoint Processing API
 description: Discover how to convert PowerPoint presentations effortlessly using Aspose.Slides for .NET with our clear, step-by-step tutorials.
 type: docs
 weight: 10
-url: /net/presentation-conversion-guide/
+url: /net/tutorials/slides/presentation-conversion-guide/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: Aspose.Slides .NET PowerPoint Processing API
 description: Unlock the full potential of your presentations with these comprehensive Aspose.Slides for .NET tutorials covering slide animations and after-animation effects.
 type: docs
 weight: 18
-url: /net/master-slide-animation-control/
+url: /net/tutorials/slides/master-slide-animation-control/
 ---
 ## Introduction
 

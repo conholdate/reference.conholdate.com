@@ -5,7 +5,7 @@ second_title: Aspose.Slides .NET PowerPoint Processing API
 description: Learn how to effortlessly convert PowerPoint presentations with Notes Slide View to PDF format using Aspose.Slides for .NET. This guide includes detailed instructions.
 type: docs
 weight: 15
-url: /net/presentation-conversion-guide/converting-notes-slide-view-to-pdf/
+url: /net/tutorials/slides/presentation-conversion-guide/converting-notes-slide-view-to-pdf/
 ---
 ## Introduction
 
