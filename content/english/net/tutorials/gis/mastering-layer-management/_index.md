@@ -5,7 +5,7 @@ second_title: Aspose.GIS .NET API
 description: Unlock the potential of Aspose.GIS for .NET with tutorials on TopoJSON and File Geodatabases. Simplify your layer management.
 type: docs
 weight: 24
-url: /net/mastering-layer-management/
+url: /net/tutorials/gis/mastering-layer-management/
 ---
 ## Introduction
 

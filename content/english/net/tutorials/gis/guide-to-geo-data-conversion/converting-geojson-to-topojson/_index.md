@@ -5,7 +5,7 @@ second_title: Aspose.GIS .NET API
 description: Learn how to seamlessly convert GeoJSON files to TopoJSON format using the powerful Aspose.GIS for .NET library. This step-by-step tutorial covers everything from installation to execution.
 type: docs
 weight: 11
-url: /net/guide-to-geo-data-conversion/converting-geojson-to-topojson/
+url: /net/tutorials/gis/guide-to-geo-data-conversion/converting-geojson-to-topojson/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: Aspose.GIS .NET API
 description: Learn how to add a new layer to a File Geodatabase (GDB) using Aspose.GIS for .NET. This comprehensive guide covers prerequisites, namespace imports, and detailed steps for creating and validating layers in your GIS datasets.
 type: docs
 weight: 16
-url: /net/mastering-layer-management/add-layer-to-file-geo-database/
+url: /net/tutorials/gis/mastering-layer-management/add-layer-to-file-geo-database/
 ---
 ## Introduction
 

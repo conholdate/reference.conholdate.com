@@ -5,7 +5,7 @@ second_title: Aspose.GIS .NET API
 description: Learn how to effortlessly convert Shapefiles into GeoJSON format using the powerful Aspose.GIS for .NET library. This comprehensive tutorial covers essential prerequisites, step-by-step code examples.
 type: docs
 weight: 15
-url: /net/guide-to-geo-data-conversion/converting-shapefile-to-geojson/
+url: /net/tutorials/gis/guide-to-geo-data-conversion/converting-shapefile-to-geojson/
 ---
 ## Introduction
 

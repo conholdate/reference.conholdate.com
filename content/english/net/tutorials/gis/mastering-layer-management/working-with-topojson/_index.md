@@ -5,7 +5,7 @@ second_title: Aspose.GIS .NET API
 description: Unlock the power of TopoJSON using Aspose.GIS for .NET. Learn to read, extract and display geospatial features in simple steps.
 type: docs
 weight: 15
-url: /net/mastering-layer-management/working-with-topojson/
+url: /net/tutorials/gis/mastering-layer-management/working-with-topojson/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: Aspose.GIS .NET API
 description: Effortlessly convert various geo data formats with Aspose.GIS for .NET. Explore our tutorials on GeoJSON, TopoJSON, and Shapefiles.
 type: docs
 weight: 20
-url: /net/guide-to-geo-data-conversion/
+url: /net/tutorials/gis/guide-to-geo-data-conversion/
 ---
 ## Introduction
 

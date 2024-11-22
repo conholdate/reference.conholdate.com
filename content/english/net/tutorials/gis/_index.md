@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.GIS for .NET
 linktitle: Aspose.GIS for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/gis/
 description: Discover the power of Aspose.GIS for .NET through comprehensive tutorials. Master GeoData conversion, geometry creation, analysis, layer management, and more.
 is_root: true
 ---
