@@ -122,7 +122,7 @@ For community support, check out the Aspose.CAD [forum](https://forum.aspose.com
 
 ### Are temporary licenses possible?
 
-Yes, temporary licenses are available; you can request one [here](https://purchase.aspose.com/temporary-license/).
+Yes, temporary licenses are available; you can request one [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I access detailed documentation?
 

@@ -81,7 +81,7 @@ Congratulations! You have successfully converted a DOCX file to RTF format using
 Yes! You can convert from various formats, including DOC, DOCX, and HTML to RTF.
 
 ### Do I need a license for Aspose.Words?
-Aspose.Words offers a trial mode, but for extended use or commercial projects, a license is required. Consider acquiring a [temporary license](https://purchase.aspose.com/temporary-license/) for evaluation.
+Aspose.Words offers a trial mode, but for extended use or commercial projects, a license is required. Consider acquiring a [temporary license](https://purchase.conholdate.com/temporary-license/) for evaluation.
 
 ### What if my conversion output isn't as expected?
 Review the input document for issues or refer to the [Aspose.Words documentation](https://reference.aspose.com/words/net/) for guidance.

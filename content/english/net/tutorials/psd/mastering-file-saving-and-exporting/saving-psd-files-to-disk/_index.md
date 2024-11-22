@@ -87,8 +87,8 @@ A3: Visit the [support forum](https://forum.aspose.com/c/psd/34) for assistance 
 
 ### How do I obtain a temporary license?
 
-A4: You can obtain a temporary license [here](https://purchase.aspose.com/temporary-license/).
+A4: You can obtain a temporary license [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I purchase Aspose.PSD for .NET?
 
-A5: Purchase Aspose.PSD for .NET [here](https://purchase.aspose.com/buy).
+A5: Purchase Aspose.PSD for .NET [here](https://purchase.conholdate.com/buy).

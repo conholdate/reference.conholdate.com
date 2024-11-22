@@ -92,7 +92,7 @@ Aspose.OCR for .NET offers powerful functionality that simplifies the process of
 Yes, Aspose.OCR is versatile and supports both desktop and web applications developed in .NET.
 
 ### What licensing options are available for Aspose.OCR?  
-You can explore licensing options and make purchases [here](https://purchase.aspose.com/buy). A free trial is also available [here](https://releases.aspose.com/), and temporary licenses can be obtained [here](https://purchase.aspose.com/temporary-license/).
+You can explore licensing options and make purchases [here](https://purchase.conholdate.com/buy). A free trial is also available [here](https://releases.aspose.com/), and temporary licenses can be obtained [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I find support for Aspose.OCR?  
 For assistance, visit the [Aspose.OCR forum](https://forum.aspose.com/c/ocr/16) for community and support.

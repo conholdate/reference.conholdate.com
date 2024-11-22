@@ -126,7 +126,7 @@ Yes, a free trial is available for download [here](https://releases.aspose.com/)
 Visit the [Aspose.Zip forum](https://forum.aspose.com/c/zip/37) for support and discussions.
 
 ### Can I purchase a temporary license for Aspose.Zip for .NET?
-Yes, you can obtain a temporary license [here](https://purchase.aspose.com/temporary-license/).
+Yes, you can obtain a temporary license [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I find the documentation for Aspose.Zip for .NET?
 The complete documentation is available [here](https://reference.aspose.com/zip/net/).

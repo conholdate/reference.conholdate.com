@@ -111,7 +111,7 @@ Yes! As showcased in this guide, you can define different sizes for each page ac
 For more detailed information and examples, visit the [Aspose.Page documentation](https://reference.aspose.com/page/net/).
 
 ### How do I obtain a temporary license for Aspose.Page?  
-You can get a temporary license for testing by navigating to [this link](https://purchase.aspose.com/temporary-license/).
+You can get a temporary license for testing by navigating to [this link](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I seek community support?  
 Join the [Aspose.Page community forum](https://forum.aspose.com/c/page/39) to connect with other developers, share experiences, and seek help.

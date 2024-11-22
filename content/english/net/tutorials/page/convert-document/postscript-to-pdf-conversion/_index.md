@@ -125,4 +125,4 @@ For support and community discussions, visit the [Aspose.Page forum](https://for
 
 ### How can I obtain a temporary license for Aspose.Page for .NET?
 
-To acquire a temporary license, visit the licensing page [here](https://purchase.aspose.com/temporary-license/).
+To acquire a temporary license, visit the licensing page [here](https://purchase.conholdate.com/temporary-license/).

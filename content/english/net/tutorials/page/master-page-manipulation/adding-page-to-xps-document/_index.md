@@ -90,4 +90,4 @@ Yes, you can try Aspose.Page for .NET with a free trial, available [here](https:
 
 ### How can I obtain a temporary license for testing?
 
-To get a temporary license for evaluation purposes, visit the [temporary license page](https://purchase.aspose.com/temporary-license/).
+To get a temporary license for evaluation purposes, visit the [temporary license page](https://purchase.conholdate.com/temporary-license/).

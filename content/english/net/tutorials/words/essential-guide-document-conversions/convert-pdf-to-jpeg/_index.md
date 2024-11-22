@@ -84,7 +84,7 @@ Yes, it does! You can save your PDFs as PNG, BMP, and several other formats.
 Indeed! Aspose.Words supports both .NET Framework and .NET Core.
 
 ### Do I need a license to use Aspose.Words?
-You can start with a free trial [here](https://releases.aspose.com/) or purchase a license [here](https://purchase.aspose.com/buy).
+You can start with a free trial [here](https://releases.aspose.com/) or purchase a license [here](https://purchase.conholdate.com/buy).
 
 ### Where can I find more tutorials on Aspose.Words?
 Check out the [documentation](https://reference.aspose.com/words/net/) for a wealth of tutorials and guides.

@@ -83,4 +83,4 @@ For community support and discussions, check out the [Aspose.PSD forum](https://
 
 ### How can I purchase a license for Aspose.PSD?
 
-You can purchase a license directly [here](https://purchase.aspose.com/buy).
+You can purchase a license directly [here](https://purchase.conholdate.com/buy).

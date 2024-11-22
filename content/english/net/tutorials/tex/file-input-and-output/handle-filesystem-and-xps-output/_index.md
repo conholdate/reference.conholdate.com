@@ -94,7 +94,7 @@ Absolutely! Aspose.TeX supports various output formats, allowing you to choose t
 
 ### Is there a temporary license available for testing purposes?
 
-Yes, you can obtain a temporary license for testing from [this link](https://purchase.aspose.com/temporary-license/).
+Yes, you can obtain a temporary license for testing from [this link](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I find additional documentation?
 

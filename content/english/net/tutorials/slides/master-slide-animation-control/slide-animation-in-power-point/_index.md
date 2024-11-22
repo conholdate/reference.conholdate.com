@@ -97,8 +97,8 @@ Visit the [Aspose.Slides forum](https://forum.aspose.com/c/slides/11) for commun
 
 ### How do I obtain a temporary license?
 
-You can request a temporary license [here](https://purchase.aspose.com/temporary-license/).
+You can request a temporary license [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I purchase Aspose.Slides for .NET?
 
-You can purchase the library [here](https://purchase.aspose.com/buy).
+You can purchase the library [here](https://purchase.conholdate.com/buy).

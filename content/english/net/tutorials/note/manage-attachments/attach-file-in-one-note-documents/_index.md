@@ -135,7 +135,7 @@ Absolutely! You can edit, modify, and manage existing OneNote files programmatic
 
 ### Is a license required for commercial use?
 
-Yes, commercial use of Aspose.Note for .NET requires a license, which can be purchased from the [Aspose purchase page](https://purchase.aspose.com/buy).
+Yes, commercial use of Aspose.Note for .NET requires a license, which can be purchased from the [Aspose purchase page](https://purchase.conholdate.com/buy).
 
 ### Is there a free trial available?
 

@@ -111,4 +111,4 @@ With Aspose.HTML, you can convert EPUB to various formats including XPS, PDF, an
 You can get support by visiting the [Aspose support forum](https://forum.aspose.com/c/html/29).
 
 ### How do I obtain a temporary license for Aspose.HTML?
-You can obtain a temporary license from [this page](https://purchase.aspose.com/temporary-license/).
+You can obtain a temporary license from [this page](https://purchase.conholdate.com/temporary-license/).

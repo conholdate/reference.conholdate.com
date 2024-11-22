@@ -95,7 +95,7 @@ You can explore comprehensive guides and examples in the [Aspose.CAD documentati
 Yes, a free trial can be obtained [here](https://releases.aspose.com/).
 
 ### How can I get a temporary license for Aspose.CAD?  
-You can request temporary licenses [here](https://purchase.aspose.com/temporary-license/).
+You can request temporary licenses [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Need assistance or have questions?  
 Join the conversation in the [Aspose.CAD forum](https://forum.aspose.com/c/cad/19) for community support and inquiries.

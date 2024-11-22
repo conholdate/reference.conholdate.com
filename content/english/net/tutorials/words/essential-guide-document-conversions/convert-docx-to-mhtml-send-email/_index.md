@@ -96,7 +96,7 @@ You can easily add attachments using the `Attachments` property of the `MailMess
 Yes, Aspose.Words is compatible with .NET Core, making it suitable for use in .NET Core applications.
 
 ### Do I need a license for Aspose.Words and Aspose.Email?
-Yes, both libraries require a license. You can obtain a temporary license for evaluation purposes from the [Aspose purchase page](https://purchase.aspose.com/temporary-license/).
+Yes, both libraries require a license. You can obtain a temporary license for evaluation purposes from the [Aspose purchase page](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I find more documentation?
 For detailed documentation, check out Aspose.Words [here](https://reference.aspose.com/words/net/) and Aspose.Email [here](https://reference.aspose.com/email/net/).

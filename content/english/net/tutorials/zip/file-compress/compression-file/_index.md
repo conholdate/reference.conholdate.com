@@ -68,7 +68,7 @@ Congratulations! You’ve successfully compressed files using Aspose.Zip for .NE
 ## FAQ's
 
 ### Can I use Aspose.Zip for .NET in commercial projects?
-Yes, you can use it in commercial projects. To obtain a license, visit [here](https://purchase.aspose.com/buy).
+Yes, you can use it in commercial projects. To obtain a license, visit [here](https://purchase.conholdate.com/buy).
 
 ### Is there a free trial available?
 Yes, you can explore the library with a free trial [here](https://releases.aspose.com/).
@@ -80,4 +80,4 @@ For comprehensive documentation, check [here](https://reference.aspose.com/zip/n
 You can visit the community forum [here](https://forum.aspose.com/c/zip/37) for support and inquiries.
 
 ### Are temporary licenses available?
-Yes, you can obtain temporary licenses [here](https://purchase.aspose.com/temporary-license/).
+Yes, you can obtain temporary licenses [here](https://purchase.conholdate.com/temporary-license/).

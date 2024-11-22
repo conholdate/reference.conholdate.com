@@ -98,7 +98,7 @@ For assistance and community support, visit the Aspose.PSD support forum [here](
 Absolutely! You can download a free trial [here](https://releases.aspose.com/) to explore Aspose.PSD’s features before deciding to purchase.
 
 ### How can I obtain a temporary license?
-You can request a temporary license for testing purposes [here](https://purchase.aspose.com/temporary-license/).
+You can request a temporary license for testing purposes [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I purchase Aspose.PSD?
-To buy Aspose.PSD and unlock its full features, visit the purchase page [here](https://purchase.aspose.com/buy).
+To buy Aspose.PSD and unlock its full features, visit the purchase page [here](https://purchase.conholdate.com/buy).

@@ -121,7 +121,7 @@ Codabar primarily encodes numeric data and has limited capacity for alphanumeric
 
 ### Is Aspose.BarCode for .NET suitable for commercial use, and how can I obtain a license?
 
-Absolutely! Aspose.BarCode for .NET is suited for commercial applications. Obtain a license by visiting the [purchase page](https://purchase.aspose.com/buy).
+Absolutely! Aspose.BarCode for .NET is suited for commercial applications. Obtain a license by visiting the [purchase page](https://purchase.conholdate.com/buy).
 
 ### Where can I seek help or discuss issues related to Aspose.BarCode for .NET?
 

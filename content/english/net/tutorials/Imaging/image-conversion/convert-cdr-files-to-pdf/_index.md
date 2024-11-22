@@ -104,7 +104,7 @@ You’ve now successfully converted a CDR file to PDF using Aspose.Imaging for .
 Aspose.Imaging for .NET is a robust library for processing various image formats, enabling conversion, manipulation, and editing tasks.
 
 ### Is a license required for Aspose.Imaging for .NET?
-Yes, a license is necessary for full functionality, which can be purchased [here](https://purchase.aspose.com/buy). A free trial is available [here](https://releases.aspose.com/).
+Yes, a license is necessary for full functionality, which can be purchased [here](https://purchase.conholdate.com/buy). A free trial is available [here](https://releases.aspose.com/).
 
 ### Can other image formats be converted to PDF using this library?
 Yes, Aspose.Imaging for .NET supports the conversion of multiple image formats to PDF.

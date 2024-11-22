@@ -112,4 +112,4 @@ Refer to the [documentation](https://reference.aspose.com/tex/net/) for comprehe
 
 ### How do I obtain a temporary license for Aspose.TeX?
 
-You can apply for a temporary license by visiting [this link](https://purchase.aspose.com/temporary-license/).
+You can apply for a temporary license by visiting [this link](https://purchase.conholdate.com/temporary-license/).

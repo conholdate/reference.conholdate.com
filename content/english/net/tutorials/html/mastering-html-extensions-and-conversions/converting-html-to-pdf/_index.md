@@ -93,7 +93,7 @@ You can access the documentation here: [Aspose.HTML for .NET Documentation](http
 Yes, you can download a free trial of Aspose.HTML for .NET here: [Aspose.HTML for .NET Free Trial](https://releases.aspose.com/).
 
 ### How can I obtain a temporary license for Aspose.HTML for .NET?
-You can request a temporary license from this link: [Temporary License for Aspose.HTML for .NET](https://purchase.aspose.com/temporary-license/).
+You can request a temporary license from this link: [Temporary License for Aspose.HTML for .NET](https://purchase.conholdate.com/temporary-license/).
 
 ### Where can I seek support for Aspose.HTML for .NET?
 For support and inquiries, visit the Aspose forums: [Aspose.HTML for .NET Support](https://forum.aspose.com/).

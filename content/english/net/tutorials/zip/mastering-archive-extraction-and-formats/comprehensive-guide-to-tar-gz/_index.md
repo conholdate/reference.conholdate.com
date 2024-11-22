@@ -79,7 +79,7 @@ Congratulations! You’ve successfully compressed files into the TarGz format us
 Yes, Aspose.Zip for .NET is designed for seamless integration with all .NET applications.
 
 ### How can I obtain a temporary license for Aspose.Zip for .NET?
-You can acquire a temporary license [here](https://purchase.aspose.com/temporary-license/).
+You can acquire a temporary license [here](https://purchase.conholdate.com/temporary-license/).
 
 ### Are there any file size limitations with Aspose.Zip for .NET?
 Aspose.Zip for .NET is optimized for handling large files, and there are no strict limitations on file size.
