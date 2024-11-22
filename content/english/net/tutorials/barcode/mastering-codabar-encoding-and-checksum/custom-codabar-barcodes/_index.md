@@ -5,7 +5,7 @@ second_title: Aspose.BarCode .NET API
 description: Learn how to generate customized Codabar barcodes in .NET using Aspose.BarCode. This comprehensive guide walks you through the process, including setting start and stop characters, adjusting dimensions, and saving images.
 type: docs
 weight: 11
-url: /net/mastering-codabar-encoding-and-checksum/custom-codabar-barcodes/
+url: /net/tutorials/barcode/mastering-codabar-encoding-and-checksum/custom-codabar-barcodes/
 ---
 ## Introduction
 

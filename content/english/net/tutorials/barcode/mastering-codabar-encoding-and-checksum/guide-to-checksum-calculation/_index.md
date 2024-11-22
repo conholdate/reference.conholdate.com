@@ -5,7 +5,7 @@ second_title: Aspose.BarCode .NET API
 description: Explore the essentials of generating Codabar barcodes using Aspose.BarCode for .NET. This step-by-step guide covers how to create barcodes with and without checksums, enhancing data integrity and accuracy.
 type: docs
 weight: 10
-url: /net/mastering-codabar-encoding-and-checksum/guide-to-checksum-calculation/
+url: /net/tutorials/barcode/mastering-codabar-encoding-and-checksum/guide-to-checksum-calculation/
 ---
 ## Introduction
 

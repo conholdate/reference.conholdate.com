@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.BarCode for .NET
 linktitle: Aspose.BarCode for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/barcode/
 description: Explore comprehensive tutorials for Aspose.BarCode for .NET. Learn to generate, customize, and manage barcodes with detailed, step-by-step guides.
 is_root: true
 ---

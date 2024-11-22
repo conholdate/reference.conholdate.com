@@ -5,7 +5,7 @@ second_title: Aspose.BarCode .NET API
 description: Easily create Codabar barcodes in .NET with Aspose.BarCode. Explore tutorials on checksum calculations and custom barcode generation.
 type: docs
 weight: 20
-url: /net/mastering-codabar-encoding-and-checksum/
+url: /net/tutorials/barcode/mastering-codabar-encoding-and-checksum/
 ---
 ## Introduction
 

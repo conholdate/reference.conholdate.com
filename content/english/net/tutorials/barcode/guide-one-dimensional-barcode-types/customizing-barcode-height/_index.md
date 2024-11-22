@@ -5,7 +5,7 @@ second_title: Aspose.BarCode .NET API
 description: Learn how to efficiently adjust the height of one-dimensional barcodes in your .NET applications using Aspose.BarCode. This comprehensive tutorial provides clear examples.
 type: docs
 weight: 13
-url: /net/guide-one-dimensional-barcode-types/customizing-barcode-height/
+url: /net/tutorials/barcode/guide-one-dimensional-barcode-types/customizing-barcode-height/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: Aspose.BarCode .NET API
 description: Learn how to effectively generate one-dimensional barcodes using Aspose.BarCode for .NET, with a focus on robust exception handling techniques.
 type: docs
 weight: 21
-url: /net/guide-one-dimensional-barcode-types/generation-and-exception-handling/
+url: /net/tutorials/barcode/guide-one-dimensional-barcode-types/generation-and-exception-handling/
 ---
 ## Introduction
 

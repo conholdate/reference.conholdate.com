@@ -5,7 +5,7 @@ second_title: Aspose.BarCode .NET API
 description: Learn how to create and customize one-dimensional barcodes in .NET using Aspose.BarCode, with robust exception handling techniques.
 type: docs
 weight: 25
-url: /net/guide-one-dimensional-barcode-types/
+url: /net/tutorials/barcode/guide-one-dimensional-barcode-types/
 ---
 ## Introduction
 
