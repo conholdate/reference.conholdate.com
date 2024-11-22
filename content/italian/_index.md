@@ -16,7 +16,7 @@ url: /it/
 Crea, leggi, modifica, stampa, visualizza, annota, confronta, firma, automatizza, cerca e converti tra un'ampia gamma di formati di documenti popolari tra cui Word, Excel, PowerPoint, Email, Visio, PDF, Immagine, HTML e molti altri all'interno di qualsiasi applicazione desktop e web .NET, C#, ASP.NET, VB.NET e Java. Questo pacchetto è una soluzione all-in-one per tutti i tipi di sistemi di gestione dei documenti offerti da Aspose e GroupDocs.
 {{< /blocks/card-item-text >}}
 
-{{< blocchi/prodotto-item-new title=".NET" href="/net/" class="docs-btn" >}} {{< blocchi/prodotto-item-new title="JAVA" href="/java/" class="docs-btn" >}}
+{{< blocks/product-item-new title=".NET" href="/net/" class="docs-btn"  >}} {{< blocks/product-item-new title="JAVA" href="/java/" class="docs-btn" >}}
 
 {{< /blocks/product-card-new >}}
 

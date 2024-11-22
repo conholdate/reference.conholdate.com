@@ -16,7 +16,7 @@ url: /hu/
 Hozzon létre, olvasson, szerkesszen, nyomtasson, tekintsen meg, jegyezzen fel, hasonlítsa össze, írjon alá, automatizáljon, keressen és konvertáljon a népszerű dokumentumformátumok széles skálája között, beleértve a Word, Excel, PowerPoint, e-mail, Visio, PDF, kép, HTML és még sok más formátumot bármely területen. .NET, C#, ASP.NET, VB.NET és Java asztali és webes alkalmazások. Ez a csomag egy all-in-one megoldás az Aspose és a GroupDocs által kínált minden típusú dokumentumkezelő rendszerhez.
 {{< /blocks/card-item-text >}}
 
-{{< blocks/product-item-new title=".NET" href="/net/" class="docs-btn" >}} {{< blocks/product-item-new title="JAVA" href= "/java/" class="docs-btn" >}}
+{{< blocks/product-item-new title=".NET" href="/net/" class="docs-btn"  >}} {{< blocks/product-item-new title="JAVA" href="/java/" class="docs-btn" >}}
 
 {{< /blocks/product-card-new >}}
 

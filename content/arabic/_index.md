@@ -16,7 +16,7 @@ url: /ar/
 إنشاء وقراءة وتحرير وطباعة وعرض وتعليق ومقارنة وتوقيع وأتمتة والبحث والتحويل بين مجموعة واسعة من تنسيقات المستندات الشائعة بما في ذلك Word وExcel وPowerPoint وEmail وVisio وPDF والصور وHTML والعديد غيرها داخل أي تطبيقات سطح مكتب وويب .NET وC# وASP.NET وVB.NET وJava. هذه الحزمة عبارة عن حل شامل لجميع أنواع أنظمة إدارة المستندات التي تقدمها Aspose وGroupDocs.
 {{< /blocks/card-item-text >}}
 
-{{< blocks/product-item-new title=".NET" href="/net/" class="docs-btn" >}} {{< blocks/product-item-new title="JAVA" href="/java/" class="docs-btn" >}}
+{{< blocks/product-item-new title=".NET" href="/net/" class="docs-btn"  >}} {{< blocks/product-item-new title="JAVA" href="/java/" class="docs-btn" >}}
 
 {{< /blocks/product-card-new >}}
 

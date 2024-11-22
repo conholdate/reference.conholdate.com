@@ -16,7 +16,7 @@ url: /cs/
 Vytvářejte, čtěte, upravujte, tiskněte, prohlížejte, komentujte, porovnávejte, podepisujte, automatizujte, prohledávejte a převádějte mezi širokou škálou oblíbených formátů dokumentů včetně Wordu, Excelu, PowerPointu, e-mailu, Visio, PDF, obrázků, HTML a mnoha dalších v libovolném prostředí. .NET, C#, ASP.NET, VB.NET a Java desktopové a webové aplikace. Tento balíček je komplexním řešením pro všechny typy systémů správy dokumentů, které nabízí Aspose a GroupDocs.
 {{< /blocks/card-item-text >}}
 
-{{< blocks/product-item-new title=".NET" href="/net/" class="docs-btn" >}} {{< blocks/product-item-new title="JAVA" href= "/java/" class="docs-btn" >}}
+{{< blocks/product-item-new title=".NET" href="/net/" class="docs-btn"  >}} {{< blocks/product-item-new title="JAVA" href="/java/" class="docs-btn" >}}
 
 {{< /blocks/product-card-new >}}
 
