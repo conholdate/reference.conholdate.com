@@ -5,7 +5,7 @@ second_title: Aspose.Note .NET API
 description: Learn step-by-step how to attach files and set custom icons in Microsoft OneNote documents using Aspose.Note for .NET. Enhance your .NET application with seamless document management and customization features.
 type: docs
 weight: 10
-url: /net/manage-attachments/attaching-files-setting-icons/
+url: /net/tutorials/note/manage-attachments/attaching-files-setting-icons/
 ---
 ## Introduction
 

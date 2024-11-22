@@ -5,7 +5,7 @@ second_title: Aspose.Note .NET API
 description: This comprehensive guide walks you through the process of programmatically attaching files to OneNote documents, allowing you to elevate your note-taking and document management tasks. With clear, step-by-step instructions and helpful FAQs.
 type: docs
 weight: 11
-url: /net/manage-attachments/attach-file-in-one-note-documents/
+url: /net/tutorials/note/manage-attachments/attach-file-in-one-note-documents/
 ---
 ## Introduction
 

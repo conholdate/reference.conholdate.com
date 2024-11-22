@@ -5,7 +5,7 @@ second_title: Aspose.Note .NET API
 description: Learn how to programmatically save OneNote documents using Aspose.Note for .NET in this comprehensive tutorial. Discover a step-by-step guide that walks you through the entire process—from loading existing OneNote files to saving them in the desired format.
 type: docs
 weight: 20
-url: /net/one-note-document-manipulation/saving-document-to-one-note-format/
+url: /net/tutorials/note/one-note-document-manipulation/saving-document-to-one-note-format/
 ---
 ## Introduction
 

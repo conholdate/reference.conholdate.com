@@ -5,7 +5,7 @@ second_title: Aspose.Note .NET API
 description: Boost your .NET applications with Aspose.Note. Explore tutorials on attaching files, setting icons, and retrieving attachments for enhanced development.
 type: docs
 weight: 21
-url: /net/manage-attachments/
+url: /net/tutorials/note/manage-attachments/
 ---
 ## Introduction
 

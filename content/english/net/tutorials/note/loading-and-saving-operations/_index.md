@@ -5,7 +5,7 @@ second_title: Aspose.Note .NET API
 description: Discover tutorials on Aspose.Note for .NET, focusing on creating, saving, and converting OneNote documents with practical, easy-to-follow examples and FAQs.
 type: docs
 weight: 25
-url: /net/one-note-document-manipulation/
+url: /net/tutorials/note/one-note-document-manipulation/
 ---
 ## Introduction
 

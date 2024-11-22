@@ -5,7 +5,7 @@ second_title: Aspose.Note .NET API
 description: Learn how to efficiently save Microsoft OneNote documents as PDF files using Aspose.Note for .NET. This guide walks you through the necessary prerequisites, and offers helpful FAQs.
 type: docs
 weight: 26
-url: /net/one-note-document-manipulation/saving-one-note-document-pdf/
+url: /net/tutorials/note/one-note-document-manipulation/saving-one-note-document-pdf/
 ---
 ## Introduction
 
