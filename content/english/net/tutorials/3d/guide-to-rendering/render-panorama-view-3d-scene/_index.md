@@ -5,7 +5,7 @@ second_title: Aspose.3D .NET API
 description: Learn how to render a stunning panoramic view of a 3D scene in your .NET applications using Aspose.3D. Follow our step-by-step guide for immersive scene rendering.
 type: docs
 weight: 13
-url: /net/guide-to-rendering/render-panorama-view-3d-scene/
+url: /net/tutorials/3d/guide-to-rendering/render-panorama-view-3d-scene/
 ---
 ## Introduction
 

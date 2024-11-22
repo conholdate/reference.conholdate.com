@@ -5,7 +5,7 @@ second_title: Aspose.3D .NET API
 description: Learn how to create and customize primitive 3D models, including boxes and cylinders, and save them in FBX format effortlessly. Whether you’re a novice or an experienced developer, this step-by-step tutorial.
 type: docs
 weight: 11
-url: /net/guide-to-rendering/render-3d-modeling-image/
+url: /net/tutorials/3d/guide-to-rendering/render-3d-modeling-image/
 ---
 ## Introduction
 

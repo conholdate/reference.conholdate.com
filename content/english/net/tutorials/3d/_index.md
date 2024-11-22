@@ -3,7 +3,7 @@ title: Comprehensive Tutorials and Examples of Aspose.3D for .NET
 linktitle: Aspose.3D for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/3d/
 description: Unlock the world of 3D modeling and animation with Aspose.3D for .NET tutorials. Elevate your projects effortlessly – from rendering to linear extrusion.
 is_root: true
 ---

@@ -5,7 +5,7 @@ second_title: Aspose.3D .NET API
 description: Explore detailed Aspose.3D for .NET tutorials, covering 3D modeling, rendering, and scene manipulation. Simplified guides for developers of all levels.
 type: docs
 weight: 30
-url: /net/guide-to-rendering/
+url: /net/tutorials/3d/guide-to-rendering/
 ---
 ## Introduction
 

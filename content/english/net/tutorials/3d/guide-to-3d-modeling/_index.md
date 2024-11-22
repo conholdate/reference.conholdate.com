@@ -5,7 +5,7 @@ second_title: Aspose.3D .NET API
 description: Unlock the power of Aspose.3D for .NET with expert tutorials on creating 3D models. Start mastering your 3D design skills.
 type: docs
 weight: 20
-url: /net/guide-to-3d-modeling/
+url: /net/tutorials/3d/guide-to-3d-modeling/
 ---
 ## Introduction
 
