@@ -16,7 +16,7 @@ url: /id/
 Buat, baca, edit, cetak, lihat, beri anotasi, bandingkan, tanda tangani, otomatisasi, cari & konversi di antara berbagai format dokumen populer termasuk Word, Excel, PowerPoint, Email, Visio, PDF, Gambar, HTML, dan masih banyak lagi dalam aplikasi desktop dan web .NET, C#, ASP.NET, VB.NET, dan Java. Paket ini merupakan solusi lengkap untuk semua jenis sistem manajemen dokumen yang ditawarkan oleh Aspose dan GroupDocs.
 {{< /blocks/card-item-text >}
 
-{{< blocks/product-item-new title==".NET" href="/net/" class="docs-btn" >}} {{< blok/item-produk-baru judul="JAVA" href="/java/" class="docs-btn" >}}
+{{< blocks/product-item-new title=".NET" href="/net/" class="docs-btn" >}} {{< blok/item-produk-baru judul="JAVA" href="/java/" class="docs-btn" >}}
 
 {{< /blocks/product-card-new >}}
 
