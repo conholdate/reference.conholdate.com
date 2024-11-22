@@ -18,7 +18,7 @@ url: /ar/
 
 {{< blocks/product-item-new title=".NET" href="/net/" class="docs-btn" >}} {{< blocks/product-item-new title="JAVA" href="/java/" class="docs-btn" >}}
 
-{{< /blocks/بطاقة-المنتج-الجديدة >}}
+{{< /blocks/product-card-new >}}
 
 {{% /blocks/product-row-new %}}
 
