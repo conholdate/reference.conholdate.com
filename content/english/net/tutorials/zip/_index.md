@@ -4,7 +4,7 @@ linktitle: Aspose.Zip for .NET Tutorials
 type: docs
 weight: 10
 url: /net/tutorials/zip/
-description:
+description: Unlock the full potential of Aspose.ZIP for .NET with our detailed tutorials and practical examples. Learn how to efficiently compress, extract, and manage ZIP files in your .NET applications.
 is_root: true
 ---
 
