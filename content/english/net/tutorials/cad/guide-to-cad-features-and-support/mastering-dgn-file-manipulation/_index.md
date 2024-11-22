@@ -5,7 +5,7 @@ second_title: Aspose.CAD .NET - CAD and BIM File Format
 description: Learn how to load DGN files, iterate through their elements, manage both 2D and 3D entities, and export them as raster images—all while leveraging the powerful features of the Aspose.CAD library.
 type: docs
 weight: 18
-url: /net/guide-to-cad-features-and-support/mastering-dgn-file-manipulation/
+url: /net/tutorials/cad/guide-to-cad-features-and-support/mastering-dgn-file-manipulation/
 ---
 ## Introduction
 

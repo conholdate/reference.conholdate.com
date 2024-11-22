@@ -5,7 +5,7 @@ second_title: Aspose.CAD .NET - CAD and BIM File Format
 description: Explore our comprehensive guide on Aspose.CAD for .NET tutorials, perfect for developers seeking to enhance their software with CAD features.
 type: docs
 weight: 23
-url: /net/guide-to-cad-features-and-support/
+url: /net/tutorials/cad/guide-to-cad-features-and-support/
 ---
 ## Introduction
 

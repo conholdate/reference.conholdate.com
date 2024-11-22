@@ -5,7 +5,7 @@ second_title: Aspose.CAD .NET - CAD and BIM File Format
 description: Learn how to efficiently convert CAD layouts into various raster image formats using Aspose.CAD for .NET. This comprehensive guide walks you through the process with clear code.
 type: docs
 weight: 10
-url: /net/guide-to-exporting-cad-format/export-cad-to-raster-image-conversion/
+url: /net/tutorials/cad/guide-to-exporting-cad-format/export-cad-to-raster-image-conversion/
 ---
 ## Introduction
 

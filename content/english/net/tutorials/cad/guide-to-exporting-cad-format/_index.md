@@ -5,7 +5,7 @@ second_title: Aspose.CAD .NET - CAD and BIM File Format
 description: Discover Aspose.CAD for .NET tutorials. Master exporting CAD files, converting CAD to raster images, and transforming DGN to PDF effortlessly.
 type: docs
 weight: 22
-url: /net/guide-to-exporting-cad-format/
+url: /net/tutorials/cad/guide-to-exporting-cad-format/
 ---
 ## Introduction
 

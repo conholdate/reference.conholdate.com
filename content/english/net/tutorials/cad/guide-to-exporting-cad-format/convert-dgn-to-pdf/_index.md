@@ -5,7 +5,7 @@ second_title: Aspose.CAD .NET - CAD and BIM File Format
 description: Learn how to effortlessly convert DGN files to PDF using the powerful Aspose.CAD library for .NET. This step-by-step guide is designed for developers of all levels.
 type: docs
 weight: 12
-url: /net/guide-to-exporting-cad-format/convert-dgn-to-pdf/
+url: /net/tutorials/cad/guide-to-exporting-cad-format/convert-dgn-to-pdf/
 ---
 ## Introduction
 

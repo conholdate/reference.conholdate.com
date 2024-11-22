@@ -5,7 +5,7 @@ second_title: Aspose.CAD .NET - CAD and BIM File Format
 description: Learn step-by-step how to efficiently read DWT files, navigate CAD entities, and seamlessly integrate CAD functionality into your projects.
 type: docs
 weight: 13
-url: /net/guide-to-cad-features-and-support/read-dwt-files/
+url: /net/tutorials/cad/guide-to-cad-features-and-support/read-dwt-files/
 ---
 ## Introduction
 
