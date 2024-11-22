@@ -12,7 +12,7 @@ url: /sv/
 
 {{< blocks/product-card-new additionalTitleText="Product Family" title="**Conholdate.Total**" href="/" >}}
 
-{{< block/card-item-text >}}
+{{< blocks/card-item-text >}}
 Skapa, läs, redigera, skriv ut, visa, kommentera, jämför, signera, automatisera, sök och konvertera mellan ett brett utbud av populära dokumentformat inklusive Word, Excel, PowerPoint, E-post, Visio, PDF, Bild, HTML och många fler inom alla .NET, C#, ASP.NET, VB.NET och Java desktop- och webbapplikationer. Detta paket är en allt-i-ett-lösning för alla typer av dokumenthanteringssystem som erbjuds av Aspose och GroupDocs.
 {{< /blocks/card-item-text >}}
 
