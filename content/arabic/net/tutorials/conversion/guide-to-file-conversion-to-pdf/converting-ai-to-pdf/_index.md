@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET API
 description: اكتشف كيفية تحويل ملفات AI إلى تنسيق PDF بسهولة باستخدام GroupDocs.Conversion for .NET. يرشدك هذا البرنامج التعليمي خلال عملية التثبيت وإعداد التعليمات البرمجية والتحويل.
 type: docs
 weight: 10
-url: /ar/net/tutorials/conversion/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-to-pdf/
+url: /ar/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-to-pdf/
 ---
 ## مقدمة
 

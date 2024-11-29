@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 將 JPEG 影像輕鬆轉換為 PDF 文件。這個綜合指南將引導您完成先決條件和基本程式碼片段。
 type: docs
 weight: 12
-url: /zh-hant/net/tutorials/conversion/tutorials/conversion/guide-to-document-conversion/converting-jpeg-to-pdf/
+url: /zh-hant/net/tutorials/conversion/guide-to-document-conversion/converting-jpeg-to-pdf/
 ---
 ## 介紹
 

@@ -3,7 +3,7 @@ title: บทช่วยสอนแบบครอบคลุมของ Gro
 linktitle: บทช่วยสอน GroupDocs.Conversion สำหรับ .NET
 type: docs
 weight: 10
-url: /th/net/tutorials/conversion/tutorials/conversion/
+url: /th/net/tutorials/conversion/
 description: แปลงไฟล์เป็น PDF ได้อย่างง่ายดายโดยใช้ GroupDocs.Conversion สำหรับ .NET ปรับปรุงการจัดการเอกสารด้วยตัวเลือกที่ปรับแต่งได้
 is_root: true
 ---

@@ -3,7 +3,7 @@ title: Omfattande självstudier för GroupDocs.Conversion för .NET
 linktitle: GroupDocs.Conversion för .NET självstudier
 type: docs
 weight: 10
-url: /sv/net/tutorials/conversion/tutorials/conversion/
+url: /sv/net/tutorials/conversion/
 description: Konvertera enkelt filer till PDF med GroupDocs.Conversion för .NET. Effektivisera dokumenthanteringen med anpassningsbara alternativ.
 is_root: true
 ---

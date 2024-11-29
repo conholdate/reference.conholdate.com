@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET एपीआई
 description: .NET के लिए GroupDocs.Conversion के साथ आसानी से JPEG छवियों को PDF दस्तावेज़ों में कनवर्ट करना सीखें। यह व्यापक गाइड आपको आवश्यक शर्तें, आवश्यक कोड स्निपेट के माध्यम से चलता है।
 type: docs
 weight: 12
-url: /hi/net/tutorials/conversion/tutorials/conversion/guide-to-document-conversion/converting-jpeg-to-pdf/
+url: /hi/net/tutorials/conversion/guide-to-document-conversion/converting-jpeg-to-pdf/
 ---
 ## परिचय
 

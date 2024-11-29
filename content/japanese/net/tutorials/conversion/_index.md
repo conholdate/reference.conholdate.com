@@ -3,7 +3,7 @@ title: GroupDocs.Conversion for .NET の包括的なチュートリアル
 linktitle: GroupDocs.Conversion for .NET チュートリアル
 type: docs
 weight: 10
-url: /ja/net/tutorials/conversion/tutorials/conversion/
+url: /ja/net/tutorials/conversion/
 description: GroupDocs.Conversion for .NET を使用して、ファイルを簡単に PDF に変換します。カスタマイズ可能なオプションを使用してドキュメント管理を効率化します。
 is_root: true
 ---

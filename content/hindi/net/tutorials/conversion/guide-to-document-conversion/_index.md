@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET एपीआई
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके विभिन्न दस्तावेज़ प्रारूपों को परिवर्तित करने पर विस्तृत ट्यूटोरियल देखें और अपनी फ़ाइल प्रबंधन प्रक्रिया को सुव्यवस्थित करें।
 type: docs
 weight: 23
-url: /hi/net/tutorials/conversion/tutorials/conversion/guide-to-document-conversion/
+url: /hi/net/tutorials/conversion/guide-to-document-conversion/
 ---
 ## परिचय
 

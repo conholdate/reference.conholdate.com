@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل صور BMP إلى تنسيق PDF بسهولة باستخدام GroupDocs.Conversion for .NET. يغطي هذا البرنامج التعليمي الشامل خطوة بخطوة المتطلبات الأساسية، ومعالجة ملف المصدر، وخيارات التخصيص.
 type: docs
 weight: 11
-url: /ar/net/tutorials/conversion/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-bmp-to-pdf/
+url: /ar/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-bmp-to-pdf/
 ---
 ## مقدمة
 

@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET एपीआई
 description: इस विस्तृत ट्यूटोरियल में, .NET के लिए GroupDocs.Conversion लाइब्रेरी का उपयोग करके आसानी से Markdown (MD) फ़ाइलों को पोर्टेबल डॉक्यूमेंट फॉर्मेट (PDF) में परिवर्तित करना सीखें।
 type: docs
 weight: 19
-url: /hi/net/tutorials/conversion/tutorials/conversion/guide-to-document-conversion/convert-markdown-to-pdf/
+url: /hi/net/tutorials/conversion/guide-to-document-conversion/convert-markdown-to-pdf/
 ---
 ## परिचय
 

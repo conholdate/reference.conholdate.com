@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET을 사용하여 다양한 문서 형식을 변환하는 방법에 대한 자세한 튜토리얼을 살펴보고 파일 관리 프로세스를 간소화하세요.
 type: docs
 weight: 23
-url: /ko/net/tutorials/conversion/tutorials/conversion/guide-to-document-conversion/
+url: /ko/net/tutorials/conversion/guide-to-document-conversion/
 ---
 ## 소개
 

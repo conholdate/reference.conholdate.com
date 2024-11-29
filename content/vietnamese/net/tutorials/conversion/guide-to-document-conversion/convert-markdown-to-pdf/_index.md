@@ -5,7 +5,7 @@ second_title: API GroupDocs.Conversion .NET
 description: Trong hướng dẫn chi tiết này, bạn sẽ tìm hiểu cách dễ dàng chuyển đổi tệp Markdown (MD) sang Định dạng tài liệu di động (PDF) bằng thư viện GroupDocs.Conversion cho .NET.
 type: docs
 weight: 19
-url: /vi/net/tutorials/conversion/tutorials/conversion/guide-to-document-conversion/convert-markdown-to-pdf/
+url: /vi/net/tutorials/conversion/guide-to-document-conversion/convert-markdown-to-pdf/
 ---
 ## Giới thiệu
 

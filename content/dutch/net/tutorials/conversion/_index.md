@@ -3,7 +3,7 @@ title: Uitgebreide tutorials van GroupDocs.Conversion voor .NET
 linktitle: GroupDocs.Conversion voor .NET-zelfstudies
 type: docs
 weight: 10
-url: /nl/net/tutorials/conversion/tutorials/conversion/
+url: /nl/net/tutorials/conversion/
 description: Converteer bestanden moeiteloos naar PDF met GroupDocs.Conversion voor .NET. Stroomlijn documentbeheer met aanpasbare opties.
 is_root: true
 ---
