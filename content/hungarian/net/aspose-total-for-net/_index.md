@@ -27,7 +27,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to the Aspose.PDF for .NET**
 
-Az Aspose.PDF egy .NET-összetevő, amely lehetővé teszi a fejlesztők számára, hogy egyszerű vagy összetett PDF-dokumentumokat készítsenek menet közben, programozottan. Az Aspose.PDF for .NET lehetővé teszi a fejlesztők számára, hogy táblázatokat, grafikonokat, képeket, hiperhivatkozásokat, egyéni betűtípusokat és még sok mást illesszenek be PDF dokumentumokba. Ezenkívül lehetőség van PDF dokumentumok tömörítésére is. Az Aspose.PDF for .NET kiváló biztonsági szolgáltatásokat nyújt a biztonságos PDF dokumentumok fejlesztéséhez. Az Aspose.PDF for .NET legkülönlegesebb tulajdonsága, hogy támogatja a PDF dokumentumok létrehozását API-n és XML-sablonokból egyaránt.
+Az Aspose.PDF egy .NET-összetevő, amely lehetővé teszi a fejlesztők számára, hogy egyszerű vagy összetett PDF-dokumentumokat készítsenek menet közben, programozottan. Az Aspose.PDF for .NET lehetővé teszi a fejlesztők számára, hogy táblázatokat, grafikonokat, képeket, hiperhivatkozásokat, egyedi betűtípusokat és még sok mást illesszenek be PDF dokumentumokba. Ezenkívül lehetőség van PDF dokumentumok tömörítésére is. Az Aspose.PDF for .NET kiváló biztonsági szolgáltatásokat nyújt a biztonságos PDF dokumentumok fejlesztéséhez. Az Aspose.PDF for .NET legkülönlegesebb tulajdonsága, hogy támogatja a PDF dokumentumok létrehozását API-n és XML-sablonokból egyaránt.
 
 {{% /alert %}} 
 
@@ -319,7 +319,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to the Aspose.OMR for .NET** 
 
-Az Aspose.OMR for .NET egy olyan API, amely felismeri az OMR digitalizált lapképeiből származó optikai jeleket. Használható optikai jelek felismerésére különféle képformátumokban, például BMP, JPG, TIF, TIFF, GIF. Az API lehetővé teszi az ember által megjelölt adatok rögzítését dokumentum-űrlapokból, például felmérésekből, kérdőívekből, feleletválasztós vizsgadolgozatokból és egyéb tesztekből. Ezzel a megoldással nagy pontossággal lehet felismerni a beszkennelt képeket, sőt fotókat is. A felismerés egy sablonjelölésen alapul, amely a beolvasott képekből felismerendő elemek grafikus leképezését tartalmazza.
+Az Aspose.OMR for .NET egy olyan API, amely felismeri az OMR digitalizált lapképeiből származó optikai jeleket. Használható optikai jelek felismerésére különféle képformátumokban, például BMP, JPG, TIF, TIFF, GIF. Az API lehetővé teszi az ember által megjelölt adatok rögzítését dokumentum-űrlapokból, például felmérésekből, kérdőívekből, feleletválasztós vizsgadolgozatokból és egyéb tesztekből. Ezzel a megoldással nagy pontossággal lehet felismerni a beszkennelt képeket, sőt fényképeket is. A felismerés egy sablonjelölésen alapul, amely a beolvasott képekből felismerendő elemek grafikus leképezését tartalmazza.
 
 {{% /alert %}} 
 

@@ -98,7 +98,7 @@ catch (Exception e)
  Ναί! Μπορείτε να κάνετε λήψη της δοκιμαστικής έκδοσης του Aspose.BarCode για .NET[εδώ](https://releases.aspose.com/barcode/net/).
 
 ### Πώς μπορώ να αγοράσω άδεια χρήσης για το Aspose.BarCode για .NET;
-Επισκεφθείτε τη σελίδα αγοράς[εδώ](https://purchase.conholdate.com/buy) για να αποκτήσετε άδεια χρήσης για το Aspose.BarCode για .NET.
+ Επισκεφθείτε τη σελίδα αγοράς[εδώ](https://purchase.conholdate.com/buy) για να αποκτήσετε άδεια χρήσης για το Aspose.BarCode για .NET.
 
 ### Πού μπορώ να αναζητήσω βοήθεια και υποστήριξη για το Aspose.BarCode για .NET;
  Για βοήθεια, επισκεφτείτε το φόρουμ υποστήριξης Aspose.BarCode για .NET[εδώ](https://forum.aspose.com/c/barcode/13) για να συνδεθείτε με την κοινότητα και την ομάδα υποστήριξης.

@@ -9,7 +9,7 @@ url: /cs/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 ---
 ## Zavedení
 
-dnešním uspěchaném světě je potřeba efektivní správy dokumentů a rychlé extrakce dat prvořadá. Představte si automatizované řešení, které shrnuje dlouhé dokumenty během několika sekund. S Aspose.Words for .NET můžeme integrovat možnosti sumarizace poháněné umělou inteligencí přímo do aplikací a transformovat dlouhé dokumenty na stručné souhrny, které šetří čas a zvyšují produktivitu. Tato příručka obsahuje všechny kroky potřebné k využití Aspose.Words pro .NET s modely AI, jako je GPT OpenAI, k automatickému shrnutí dokumentů Wordu s minimálním kódem.
+V dnešním uspěchaném světě je potřeba efektivní správy dokumentů a rychlé extrakce dat prvořadá. Představte si automatizované řešení, které shrnuje dlouhé dokumenty během několika sekund. S Aspose.Words for .NET můžeme integrovat možnosti sumarizace poháněné umělou inteligencí přímo do aplikací a transformovat dlouhé dokumenty na stručné souhrny, které šetří čas a zvyšují produktivitu. Tato příručka obsahuje všechny kroky potřebné k využití Aspose.Words pro .NET s modely AI, jako je GPT OpenAI, k automatickému shrnutí dokumentů Wordu s minimálním kódem.
 
 ## Předpoklady
 
@@ -17,7 +17,7 @@ Chcete-li začít, ujistěte se, že máte na svém místě následující:
 
 1. Visual Studio: Vyžadováno pro kódování a testování. Můžete si jej zdarma stáhnout, pokud jej ještě nemáte nainstalovaný.
 2. .NET Framework nebo .NET Core: Aspose.Words for .NET podporuje obojí, takže se ujistěte, že máte kompatibilní verzi.
-3.  Aspose.Words for .NET: Stáhněte a nainstalujte nejnovější verzi z[Aspose stránku vydání](https://releases.aspose.com/words/net/).
+3. Aspose.Words for .NET: Stáhněte a nainstalujte nejnovější verzi z[Aspose stránku vydání](https://releases.aspose.com/words/net/).
 4. Klíč API modelu AI: Pro generování souhrnů je vyžadován přístup k API modelu AI (např. OpenAI). Zaregistrujte se na webu poskytovatele AI a získejte klíč API.
 5. Základní znalost C#: Určitá znalost programování v C# vám pomůže efektivně pokračovat.
 
@@ -39,7 +39,7 @@ Pojďme si projít kroky k vytvoření a konfiguraci konzolové aplikace v sadě
 Chcete-li povolit funkci Aspose.Words, přidejte ji prostřednictvím správce balíčků NuGet.
 
 1. Klikněte pravým tlačítkem na svůj projekt v Průzkumníku řešení a vyberte Spravovat balíčky NuGet.
-2.  Hledat`Aspose.Words` klepněte na Instalovat.
+2.  Hledat`Aspose.Words` a klepněte na Instalovat.
 3. V případě potřeby také nainstalujte jakékoli konkrétní balíčky modelů AI pro integraci (např. OpenAI).
 
 ```csharp
@@ -111,7 +111,7 @@ multiDocumentSummary.Save(ArtifactsDir + "MultiDocumentSummary.docx");
 
 ## Závěr
 
-S Aspose.Words pro .NET a modely s umělou inteligencí se sumarizace velkých dokumentů stává snadným úkolem. Integrace této funkce do vašich aplikací zjednodušuje práci s dokumenty a poskytuje uživatelům stručné a přesné souhrny. Toto nastavení může výrazně zkrátit čas strávený čtením dlouhých souborů, ať už v podnikání, vzdělávání nebo osobních projektech.
+Aspose.Words pro .NET a modely s umělou inteligencí se sumarizace velkých dokumentů stává snadným úkolem. Integrace této funkce do vašich aplikací zjednodušuje práci s dokumenty a poskytuje uživatelům stručné a přesné souhrny. Toto nastavení může výrazně zkrátit čas strávený čtením dlouhých souborů, ať už v podnikání, vzdělávání nebo osobních projektech.
 
 ## FAQ
 

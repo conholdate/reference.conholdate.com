@@ -17,7 +17,7 @@ Bạn có cần hướng dẫn chuyển đổi biểu đồ từ bảng tính Ex
 Đảm bảo bạn đã cài đặt .NET Framework hoặc .NET Core. Cả hai môi trường này đều tương thích với Aspose.Cells, vì vậy bạn có thể sử dụng bất kỳ môi trường nào phù hợp nhất với dự án của mình.
 
 ### Cài đặt thư viện Aspose.Cells
-Thư viện Aspose.Cells rất cần thiết cho việc chuyển đổi biểu đồ sang PDF. Nhận phiên bản mới nhất từ[Trang tải xuống Aspose](https://releases.aspose.com/cells/net/).
+ Thư viện Aspose.Cells rất cần thiết cho việc chuyển đổi biểu đồ sang PDF. Nhận phiên bản mới nhất từ[Trang tải xuống Aspose](https://releases.aspose.com/cells/net/).
 
 ### Kiến thức cơ bản về C#
 Có hiểu biết cơ bản về C# sẽ giúp quá trình mã hóa dễ dàng hơn. Đừng lo lắng nếu bạn là người mới bắt đầu; hướng dẫn này bao gồm các ví dụ mã dễ làm theo.
@@ -82,7 +82,7 @@ Mã này truy cập vào trang tính đầu tiên. Thay đổi chỉ mục nếu
 Tiếp theo, hãy truy cập biểu đồ cụ thể mà bạn muốn chuyển đổi từ bảng tính đã chọn.
 
 ```csharp
-//Truy cập biểu đồ đầu tiên trong bảng tính
+// Truy cập biểu đồ đầu tiên trong bảng tính
 Chart chart = worksheet.Charts[0];
 ```
 

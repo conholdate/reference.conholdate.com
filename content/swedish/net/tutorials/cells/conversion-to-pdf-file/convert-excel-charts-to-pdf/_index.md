@@ -17,7 +17,7 @@ Behöver du en guide för att konvertera diagram från Excel-kalkylblad till PDF
 Se till att du har antingen .NET Framework eller .NET Core installerat. Dessa miljöer är båda kompatibla med Aspose.Cells, så att du kan använda den som passar ditt projekt bäst.
 
 ### Installation av Aspose.Cells Library
-Aspose.Cells-biblioteket är viktigt för diagram-till-PDF-konverteringar. Hämta den senaste versionen från[Aspose nedladdningssida](https://releases.aspose.com/cells/net/).
+ Aspose.Cells-biblioteket är viktigt för diagram-till-PDF-konverteringar. Hämta den senaste versionen från[Aspose nedladdningssida](https://releases.aspose.com/cells/net/).
 
 ### Grundläggande C#-kunskaper
 Att ha en grundläggande förståelse för C# kommer att göra kodningsprocessen enklare. Oroa dig inte om du är nybörjare; den här guiden innehåller kodexempel som är lätta att följa.
@@ -66,7 +66,7 @@ Workbook workbook = new Workbook(dataDir + "Sample1.xls");
 
 Se till att sökvägen och namnet stämmer överens med din faktiska filplats.
 
-## Steg 3: Gå till arbetsbladet med diagrammet
+## Steg 3: Öppna arbetsbladet med diagrammet
 
 Excel-arbetsböcker kan innehålla flera ark, så ange den med diagrammet som du vill konvertera.
 
@@ -82,7 +82,7 @@ Denna kod kommer åt det första kalkylbladet. Ändra indexet om ditt diagram fi
 Gå sedan till det specifika diagrammet du vill konvertera från det valda kalkylbladet.
 
 ```csharp
-//Öppna det första diagrammet i kalkylbladet
+// Öppna det första diagrammet i kalkylbladet
 Chart chart = worksheet.Charts[0];
 ```
 

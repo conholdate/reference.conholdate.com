@@ -56,7 +56,7 @@ Nyní je čas načíst soubor DOCX, který chcete převést.
 Document doc = new Document(dataDir + "Document.docx");
 ```
 
-2. Zkontrolujte dokument: Ujistěte se, že je dokument správně vložen. Pro ověření tohoto kroku zvažte přidání ladění nebo protokolování.
+2. Zkontrolujte dokument: Ujistěte se, že je dokument správně vložen. Zvažte přidání ladění nebo protokolování k ověření tohoto kroku.
 
 ## Krok 4: Uložení dokumentu jako TXT
 

@@ -15,7 +15,7 @@ Ponoříte se do světa generování čárových kódů v .NET? Ať už jste pro
 
 Měli jste někdy pocit, že váš čárový kód nevypadá správně kvůli jeho výšce? Představte si, že vytvoříte čárový kód, který dokonale pasuje na štítek nebo obal vašeho produktu. Pomocí Aspose.BarCode můžete snadno upravit výšku jednorozměrných čárových kódů pro ideální přizpůsobení. Knihovna vám poskytuje přesnou kontrolu a zajišťuje, že vaše čárové kódy splňují průmyslové standardy a jsou vždy skenovatelné.  
 
- Výukový program na[Přizpůsobení výšky čárového kódu pomocí Aspose.BarCode](./customizing-barcode-height/) vás krok za krokem provede tímto procesem, od instalace až po implementaci. Ať už navrhujete maloobchodní štítky nebo průmyslové štítky, tato příručka vás pokryje.  
+ Výukový program na[Přizpůsobení výšky čárového kódu pomocí Aspose.BarCode](./customizing-barcode-height/)vás krok za krokem provede tímto procesem, od instalace až po implementaci. Ať už navrhujete maloobchodní štítky nebo průmyslové štítky, tato příručka vás pokryje.  
 
 ## Generování a zpracování výjimek pomocí Aspose.BarCode pro .NET  
 

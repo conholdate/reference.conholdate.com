@@ -15,7 +15,7 @@ Bei der Arbeit mit langen Dokumenten muss man oft eine dichte Informationsmenge 
 
 Stellen Sie vor dem Start sicher, dass Sie über Folgendes verfügen:
 
-1.  Aspose.Words für .NET-Bibliothek: Laden Sie es herunter von[Asposes Veröffentlichungen](https://releases.aspose.com/words/net/).
+1. Aspose.Words für .NET-Bibliothek: Laden Sie es herunter von[Asposes Veröffentlichungen](https://releases.aspose.com/words/net/).
 2. .NET-Umgebung: Richten Sie eine .NET-Entwicklungsumgebung wie beispielsweise Visual Studio ein.
 3. Grundlegende C#-Kenntnisse: In diesem Lernprogramm geht es um Codierung. Kenntnisse der C#-Syntax sind daher von Vorteil.
 4. API-Schlüssel für KI-Modell: Erhalten Sie einen API-Schlüssel für Ihr bevorzugtes KI-Zusammenfassungsmodell (z. B. GPT-4), da wir ihn zum Generieren von Zusammenfassungen verwenden.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Schritt 2: Dokumente zur Zusammenfassung laden
 
- Laden Sie die Dokumente, die Sie zusammenfassen möchten. Verwenden Sie die`Document` Klasse in Aspose.Words, um auf Ihre Word-Dateien zuzugreifen:
+ Laden Sie die Dokumente, die Sie zusammenfassen möchten. Verwenden Sie die`Document`Klasse in Aspose.Words, um auf Ihre Word-Dateien zuzugreifen:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- Der`Gpt4OMini` Das Modell wird mit Ihrem API-Schlüssel initialisiert, um die Dokumentzusammenfassung zu verarbeiten. Ersetzen Sie unbedingt`"API_KEY"`mit Ihrem tatsächlichen API-Schlüssel.
+ Der`Gpt4OMini` Das Modell wird mit Ihrem API-Schlüssel initialisiert, um die Dokumentzusammenfassung zu verarbeiten. Ersetzen Sie unbedingt`"API_KEY"` mit Ihrem tatsächlichen API-Schlüssel.
 
 ## Schritt 4: Ein einzelnes Dokument zusammenfassen
 

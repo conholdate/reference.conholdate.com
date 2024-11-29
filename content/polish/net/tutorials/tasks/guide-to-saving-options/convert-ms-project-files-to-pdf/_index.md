@@ -22,7 +22,7 @@ Przed kontynuowaniem upewnij się, że spełnione są następujące wymagania ws
    Znajomość języka programowania C# i skonfigurowanego środowiska programistycznego .NET.
 
 3. Wprowadź plik Microsoft Project  
-    Mieć ważny`.mpp` plik dostępny do konwersji.
+    Posiadać ważny`.mpp` plik dostępny do konwersji.
 
 ## Importuj podstawowe przestrzenie nazw
 

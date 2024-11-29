@@ -21,6 +21,6 @@ url: /zh-hant/net/tutorials/page/convert-document/
 
 ## 文件轉換教學
 ### [使用 Aspose.Page for .NET 將 PostScript 轉換為 PDF](./postscript-to-pdf-conversion/)
-透過我們關於使用 Aspose.Page for .NET 將 PostScript 檔案轉換為 PDF 的綜合教學課程，釋放文件處理的力量。本逐步指南將引導您完成輸入和輸出流的設定。
+透過我們關於使用 Aspose.Page for .NET 將 PostScript 檔案轉換為 PDF 的綜合教程，釋放文件處理的力量。本逐步指南將引導您完成輸入和輸出流的設定。
 ### [使用 Aspose.Page for .NET 將 XPS 轉換為 PDF](./converting-xps-to-pdf/)
 了解如何使用強大的 Aspose.Page for .NET 程式庫將 XPS（XML 紙張規格）文件無縫轉換為 PDF（便攜式文件格式）。

@@ -17,7 +17,7 @@ Bu eğitime başlamadan önce aşağıdakilerin mevcut olduğundan emin olun:
 
 1. Temel C# ve .NET Bilgisi: C# programlama dili ve .NET framework'üne aşinalık gereklidir.
    
-2.  .NET için Aspose.Note Kurulumu: Aspose.Note kitaplığını şu adresten indirin ve kurun:[Aspose web sitesi](https://releases.aspose.com/note/net/).
+2. .NET için Aspose.Note Kurulumu: Aspose.Note kitaplığını şu adresten indirin ve kurun:[Aspose web sitesi](https://releases.aspose.com/note/net/).
 
 3. Geliştirme Ortamı: Visual Studio gibi uygun bir geliştirme ortamı kurun.
 

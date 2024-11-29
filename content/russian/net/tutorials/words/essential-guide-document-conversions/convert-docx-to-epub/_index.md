@@ -16,8 +16,8 @@ url: /ru/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 Перед началом процесса конвертации убедитесь, что у вас есть следующее:
 
 - Среда разработки: Visual Studio или другая установленная среда .NET IDE.
-- Aspose.Words для .NET: Загрузите и установите его с сайта[Сайт Aspose](https://releases.aspose.com/words/net/).
-- Файлы документов: Подготовьте файлы DOCX, которые вы собираетесь конвертировать.
+-  Aspose.Words для .NET: Загрузите и установите его с сайта[Сайт Aspose](https://releases.aspose.com/words/net/).
+- Файлы документов: подготовьте файлы DOCX, которые вы собираетесь конвертировать.
 
 ## Шаг 1: Импорт необходимых пространств имен
 

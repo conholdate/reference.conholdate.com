@@ -15,7 +15,7 @@ Welkom bij deze stapsgewijze handleiding over het gebruik van Aspose.BarCode voo
 
 Voordat we beginnen, zorg ervoor dat u het volgende heeft:
 
-1. Development Environment: Een werkende .NET-omgeving die op uw machine is ingesteld. Als u hulp nodig hebt, raadpleeg dan de[Aspose-documentatie](https://reference.aspose.com/barcode/net/).
+1.  Development Environment: Een werkende .NET-omgeving die op uw machine is ingesteld. Als u hulp nodig hebt, raadpleeg dan de[Aspose-documentatie](https://reference.aspose.com/barcode/net/).
    
 2.  Aspose.BarCode voor .NET-bibliotheek: Download en installeer de bibliotheek van de[Aspose releases pagina](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## Stap 1: Initialiseer de barcodegenerator
 
- Begin met het maken van een exemplaar van`BarcodeGenerator`, waarbij het barcodetype wordt opgegeven als Codabar en de te coderen gegevens. Hier is een voorbeeld:
+ Begin met het maken van een exemplaar van`BarcodeGenerator`waarbij het barcodetype wordt opgegeven als Codabar en de te coderen gegevens. Hier is een voorbeeld:
 
 ```csharp
 string path = "Your Directory Path"; // Geef hier uw directory op

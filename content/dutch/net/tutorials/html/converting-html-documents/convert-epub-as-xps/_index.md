@@ -9,7 +9,7 @@ url: /nl/net/tutorials/html/converting-html-documents/convert-epub-as-xps/
 ---
 ## Invoering
 
-In het digitale tijdperk is het beheren en converteren van verschillende documentformaten een cruciale taak geworden voor zowel ontwikkelaars als makers van content. Heb je ooit een EPUB-bestand moeten converteren naar een XPS-formaat? Dan ben je hier aan het juiste adres! Deze gids leidt je door het proces van het gebruik van Aspose.HTML voor .NET om deze conversie naadloos uit te voeren. Met zijn robuuste functies en gestroomlijnde interface maakt Aspose.HTML de taak niet alleen efficiënt, maar ook plezierig.
+In het digitale tijdperk is het beheren en converteren van verschillende documentformaten een cruciale taak geworden voor zowel ontwikkelaars als content creators. Heb je ooit een EPUB-bestand moeten converteren naar een XPS-formaat? Dan ben je hier aan het juiste adres! Deze gids leidt je door het proces van het gebruik van Aspose.HTML voor .NET om deze conversie naadloos uit te voeren. Met zijn robuuste functies en gestroomlijnde interface maakt Aspose.HTML de taak niet alleen efficiënt, maar ook plezierig.
 
 ## Vereisten
 

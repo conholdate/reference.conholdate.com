@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Aktualisi
 Sie erstellen ein PDF-Gerät, um die Konvertierung zu erleichtern. Sie können bei Bedarf die Seitengröße angeben, aber die Standardgröße von 595 x 842 Punkten (A4) ist normalerweise ausreichend.
 
 ```csharp
-// Die Standardseitengröße beträgt 595 x 842 und muss nicht in PdfDevice festgelegt werden.
+//Die Standardseitengröße beträgt 595 x 842 und muss nicht in PdfDevice festgelegt werden.
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // Wenn Sie jedoch Größe und Bildformat angeben müssen, verwenden Sie die folgende Zeile
 //Aspose.Page.EPS.Device.PdfDevice-Gerät = neues Aspose.Page.EPS.Device.PdfDevice(pdfStream, neues System.Drawing.Size(595, 842));

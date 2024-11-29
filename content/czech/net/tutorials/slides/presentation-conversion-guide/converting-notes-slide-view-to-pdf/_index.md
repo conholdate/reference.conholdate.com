@@ -88,10 +88,10 @@ Ano, Aspose.Slides for .NET je navržen tak, aby efektivně zpracovával prezent
  Můžete si stáhnout bezplatnou zkušební verzi z[zde](https://releases.aspose.com/).
 
 ### Q3: Jsou k dispozici další možnosti exportu PDF?
-Ano, můžete upravit písma, rozvržení stránky, kompresi a další pomocí`PdfOptions`třída.
+Ano, můžete upravit písma, rozvržení stránky, kompresi a další pomocí`PdfOptions` třída.
 
 ### Q4: Mohu exportovat pouze konkrétní snímky?
- Absolutně! Konkrétní snímky můžete vybrat pomocí`Slides` sbírka v`Presentation`třída.
+ Absolutně! Konkrétní snímky můžete vybrat pomocí`Slides` sbírka v`Presentation` třída.
 
 ### Q5: Kde najdu další příklady?
- Navštivte[Aspose.Slides pro .NET dokumentaci](https://reference.aspose.com/slides/net/) pro více příkladů a případů použití.
+ Navštivte[Aspose.Slides pro .NET dokumentaci](https://reference.aspose.com/slides/net/) pro další příklady a případy použití.

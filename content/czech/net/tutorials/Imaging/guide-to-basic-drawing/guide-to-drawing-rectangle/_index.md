@@ -74,7 +74,7 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- Tato část ukazuje, jak vytvořit a`Graphics` objekt, vyčistěte povrch a přidejte dva obdélníky s odlišnými barvami a polohami. Jakmile jsou vaše kresby hotové, uložte obrázek, aby změny zůstaly zachovány.
+Tato část ukazuje, jak vytvořit a`Graphics` objekt, vyčistěte povrch a přidejte dva obdélníky s odlišnými barvami a polohami. Jakmile jsou vaše kresby hotové, uložte obrázek, aby změny zůstaly zachovány.
 
 ## Krok 4: Uložte obrázek
 

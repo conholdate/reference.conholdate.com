@@ -9,7 +9,7 @@ url: /pt/net/tutorials/words/advanced-ai-document-processing/efficient-document-
 ---
 ## Introdução
 
-O gerenciamento eficiente de documentos se tornou indispensável no mundo digital de hoje. Com o Aspose.Words para .NET, a sumarização de documentos se torna mais fácil e produtiva, principalmente quando combinada com os recursos dos modelos OpenAI. Este guia o guiará pelo processo passo a passo de uso do Aspose.Words para .NET e modelos OpenAI para resumir documentos automaticamente, economizando tempo e fornecendo insights rápidos. Quer você esteja resumindo relatórios, artigos acadêmicos ou documentação extensa, este guia o ajudará a aproveitar ao máximo suas ferramentas.
+gerenciamento eficiente de documentos se tornou indispensável no mundo digital de hoje. Com o Aspose.Words para .NET, a sumarização de documentos se torna mais fácil e produtiva, principalmente quando combinada com os recursos dos modelos OpenAI. Este guia o guiará pelo processo passo a passo de uso do Aspose.Words para .NET e modelos OpenAI para resumir documentos automaticamente, economizando tempo e fornecendo insights rápidos. Quer você esteja resumindo relatórios, artigos acadêmicos ou documentação extensa, este guia o ajudará a aproveitar ao máximo suas ferramentas.
 
 ## Pré-requisitos
 
@@ -20,7 +20,7 @@ Certifique-se de ter uma versão compatível do .NET Framework. Este tutorial é
  Baixe o pacote Aspose.Words para .NET do[Site Aspose](https://releases.aspose.com/words/net/)e instale-o em seu projeto usando o Gerenciador de Pacotes NuGet no Visual Studio.
 
 ### Obtenha uma chave de API OpenAI
- Para acessar os modelos de linguagem do OpenAI, você precisará de uma chave de API. Inscreva-se no[Site OpenAI](https://openai.com/), recupere sua chave e mantenha-a segura para integração.
+ Para acessar os modelos de linguagem do OpenAI, você precisará de uma chave de API. Inscreva-se no[Site OpenAI](https://openai.com/)recupere sua chave e mantenha-a segura para integração.
 
 ### Ambiente de Desenvolvimento Integrado
 Usar o Visual Studio como seu IDE simplificará o processo de codificação e depuração.

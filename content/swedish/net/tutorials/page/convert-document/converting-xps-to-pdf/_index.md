@@ -9,7 +9,7 @@ url: /sv/net/tutorials/page/convert-document/converting-xps-to-pdf/
 ---
 ## Introduktion
 
-I den här handledningen kommer vi att utforska hur du konverterar XPS-dokument (XML Paper Specification) till PDF (Portable Document Format) med hjälp av det mångsidiga Aspose.Page for .NET-biblioteket. Detta kraftfulla bibliotek förenklar dokumentkonvertering och erbjuder olika anpassningsalternativ, vilket gör det till ett utmärkt val för utvecklare.
+den här handledningen kommer vi att utforska hur du konverterar XPS-dokument (XML Paper Specification) till PDF (Portable Document Format) med hjälp av det mångsidiga Aspose.Page for .NET-biblioteket. Detta kraftfulla bibliotek förenklar dokumentkonvertering och erbjuder olika anpassningsalternativ, vilket gör det till ett utmärkt val för utvecklare.
 
 ## Förutsättningar
 
@@ -110,8 +110,8 @@ Förutom PDF stöder Aspose.Page för .NET en rad olika format, inklusive TIFF, 
 
 ### Finns det en testversion tillgänglig för Aspose.Page för .NET?
 
-Ja, du kan prova Aspose.Page för .NET med en gratis provperiod tillgänglig[här](https://releases.aspose.com/).
+ Ja, du kan prova Aspose.Page för .NET med en gratis provperiod tillgänglig[här](https://releases.aspose.com/).
 
 ### Var kan jag hitta communitysupport för Aspose.Page för .NET?
 
- För samhällsdiskussioner och stöd, besök[Aspose.Page forum](https://forum.aspose.com/c/page/39).
+För samhällsdiskussioner och stöd, besök[Aspose.Page forum](https://forum.aspose.com/c/page/39).

@@ -13,11 +13,11 @@ url: /zh/net/tutorials/tasks/guide-to-saving-options/
 
 ## 将 MS Project 文件转换为 HTML
 
-假设您有一个需要与团队共享的 MS Project 文件 (.mpp)。与其发送需要特定软件的庞大文件，为什么不将其转换为干净、可查看的 HTML 格式呢？使用 Aspose.Tasks for .NET，这个过程非常简单。您首先将项目文件加载到库中，只需几行代码即可指定 HTML 输出的外观。想要突出显示某些任务或包含自定义标签？没问题！此工具可让您灵活地根据需要定制输出。对设置满意后，只需单击一下即可保存 HTML 版本。想要了解更多？查看完整教程[这里](./save-ms-project-files-to-html-format/).
+假设您有一个需要与团队共享的 MS Project 文件 (.mpp)。与其发送需要特定软件的庞大文件，为什么不将其转换为干净、可查看的 HTML 格式呢？使用 Aspose.Tasks for .NET，这个过程很简单。您首先将项目文件加载到库中，只需几行代码即可指定 HTML 输出的外观。想要突出显示某些任务或包含自定义标签？没问题！此工具可让您灵活地根据需要定制输出。对设置满意后，只需单击一下即可保存 HTML 版本。想要了解更多？查看完整教程[这里](./save-ms-project-files-to-html-format/).
 
 ## 将 MS Project 文件转换为 PDF
 
-当您需要一种通用且看起来专业的格式时，PDF 通常是首选。使用 Aspose.Tasks，将 .mpp 文件转换为 PDF 也同样简单！本教程将指导您完成整个过程，解释如何自定义输出以满足您的要求。无论您是专注于特定页面、调整布局还是自动进行批量转换，分步说明都能确保您不会错过任何细节。此外，它非常适合与可能未安装 MS Project 的利益相关者共享。查看完整指南[这里](./convert-ms-project-files-to-pdf/).
+当您需要一种通用且看起来专业的格式时，PDF 通常是首选。使用 Aspose.Tasks，将您的 .mpp 文件转换为 PDF 也同样简单！本教程将指导您完成整个过程，解释如何自定义输出以满足您的要求。无论您是专注于特定页面、调整布局还是自动进行批量转换，分步说明都能确保您不会错过任何细节。此外，它非常适合与可能未安装 MS Project 的利益相关者共享。查看完整指南[这里](./convert-ms-project-files-to-pdf/).
 
 ## 储蓄选项指南 选项教程
 ### [使用 Aspose.Tasks for .NET 将 MS Project 文件保存为 HTML 格式](./save-ms-project-files-to-html-format/)

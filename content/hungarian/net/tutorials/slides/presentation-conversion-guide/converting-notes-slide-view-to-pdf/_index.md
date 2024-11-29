@@ -88,10 +88,10 @@ Igen, az Aspose.Slides for .NET bármilyen méretű prezentáció hatékony keze
  Ingyenes próbaverziót letölthet a webhelyről[itt](https://releases.aspose.com/).
 
 ### 3. kérdés: Vannak más PDF-exportálási lehetőségek?
-Igen, testreszabhatja a betűtípusokat, az oldalelrendezést, a tömörítést és egyebeket a segítségével`PdfOptions`osztály.
+Igen, testreszabhatja a betűtípusokat, az oldalelrendezést, a tömörítést és egyebeket a segítségével`PdfOptions` osztály.
 
 ### 4. kérdés: Exportálhatok csak meghatározott diákat?
- Teljesen! Kiválaszthat adott diákat a segítségével`Slides` gyűjtemény a`Presentation`osztály.
+ Teljesen! Kiválaszthat adott diákat a segítségével`Slides` gyűjtemény a`Presentation` osztály.
 
 ### 5. kérdés: Hol találhatok további példákat?
  Látogassa meg a[Aspose.Slides a .NET-dokumentációhoz](https://reference.aspose.com/slides/net/) további példákért és használati esetekért.

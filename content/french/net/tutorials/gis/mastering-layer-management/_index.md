@@ -15,7 +15,7 @@ Si vous vous aventurez dans le monde des SIG (systèmes d'information géographi
 
 Tout d’abord, il y a TopoJSON, un format compact pour l’encodage des données géographiques. Pourquoi devriez-vous vous y intéresser ? Eh bien, TopoJSON simplifie vos données géospatiales tout en préservant la topologie, ce qui signifie que les géométries connectées partagent des points, ce qui se traduit par des tailles de fichier plus petites sans perte d’intégrité des données. 
 
- Pour commencer, vous devez installer Aspose.GIS pour .NET. Une fois que vous avez fait cela, consultez le[Travailler avec TopoJSON dans Aspose.GIS pour .NET](./working-with-topojson/) Tutoriel. Il décompose étape par étape le processus de lecture, d'extraction et d'affichage des entités géospatiales à partir d'un fichier TopoJSON. Vous serez étonné de voir à quel point vous pouvez manipuler facilement des données spatiales lorsque vous connaissez bien ce format !
+ Pour commencer, vous devez installer Aspose.GIS pour .NET. Une fois que vous avez fait cela, consultez le[Travailler avec TopoJSON dans Aspose.GIS pour .NET](./working-with-topojson/) Tutoriel. Il décompose étape par étape le processus de lecture, d'extraction et d'affichage des entités géospatiales à partir d'un fichier TopoJSON. Vous serez étonné de la facilité avec laquelle vous pouvez manipuler les données spatiales lorsque vous connaissez ce format !
 
 ## Ajout d'une couche à une géodatabase fichier
 

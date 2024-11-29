@@ -20,7 +20,7 @@ Pastikan Anda memiliki versi .NET Framework yang kompatibel. Tutorial ini kompat
  Unduh paket Aspose.Words untuk .NET dari[Situs web Aspose](https://releases.aspose.com/words/net/), dan menginstalnya di proyek Anda menggunakan NuGet Package Manager di Visual Studio.
 
 ### Dapatkan Kunci API OpenAI
- Untuk mengakses model bahasa OpenAI, Anda memerlukan kunci API. Daftar di[Situs web OpenAI](https://openai.com/), ambil kunci Anda, dan simpan dengan aman untuk integrasi.
+ Untuk mengakses model bahasa OpenAI, Anda memerlukan kunci API. Daftar di[Situs web OpenAI](https://openai.com/)ambil kunci Anda, dan simpan dengan aman untuk integrasi.
 
 ### Lingkungan Pengembangan Terpadu
 Menggunakan Visual Studio sebagai IDE Anda akan menyederhanakan proses pengkodean dan debugging.

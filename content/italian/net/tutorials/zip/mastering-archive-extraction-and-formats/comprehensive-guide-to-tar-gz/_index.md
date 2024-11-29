@@ -82,7 +82,7 @@ Sì, Aspose.Zip per .NET è progettato per un'integrazione perfetta con tutte le
  È possibile acquisire una licenza temporanea[Qui](https://purchase.conholdate.com/temporary-license/).
 
 ### Ci sono limitazioni per le dimensioni dei file con Aspose.Zip per .NET?
-Aspose.Zip per .NET è ottimizzato per la gestione di file di grandi dimensioni e non ci sono limitazioni rigide sulla dimensione dei file.
+Aspose.Zip per .NET è ottimizzato per la gestione di file di grandi dimensioni e non ci sono rigide limitazioni sulla dimensione dei file.
 
 ### Dove posso trovare supporto per Aspose.Zip per .NET?
  Puoi esplorare il forum di supporto gestito dalla community[Qui](https://forum.aspose.com/c/zip/37) per ricevere assistenza e per entrare in contatto con altri sviluppatori.

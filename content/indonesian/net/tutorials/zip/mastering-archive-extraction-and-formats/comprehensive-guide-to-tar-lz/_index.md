@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // Ganti dengan jalur Anda yang sebenarnya
 ```
 
-Pastikan Anda mengganti`"YourDocumentDirectoryPath"` dengan jalur sebenarnya tempat file Anda berada agar kode berfungsi dengan benar.
+ Pastikan Anda mengganti`"YourDocumentDirectoryPath"`dengan jalur sebenarnya tempat file Anda berada agar kode berfungsi dengan benar.
 
 ## Langkah 2: Mengompres Satu File
 

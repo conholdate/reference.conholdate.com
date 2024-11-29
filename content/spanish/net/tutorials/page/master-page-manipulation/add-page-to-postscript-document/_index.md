@@ -47,7 +47,7 @@ Configure su documento PostScript con las configuraciones deseadas:
 string dataDir = "Your Document Directory"; // Establezca la ruta del directorio de documentos
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // Configurar opciones de guardado para tamaño A4
+    //Configurar opciones de guardado para tamaño A4
     PsSaveOptions options = new PsSaveOptions();
     
     // Crear un nuevo documento PostScript con 2 páginas
@@ -114,4 +114,4 @@ Aspose.Page se especializa en documentos PostScript. Para obtener compatibilidad
  Puede obtener una licencia temporal para realizar pruebas navegando a[Este enlace](https://purchase.conholdate.com/temporary-license/).
 
 ### ¿Dónde puedo buscar apoyo de la comunidad?  
-Únete a la[Foro de la comunidad Aspose.Page](https://forum.aspose.com/c/page/39) para conectarse con otros desarrolladores, compartir experiencias y buscar ayuda.
+ Únete a la[Foro de la comunidad Aspose.Page](https://forum.aspose.com/c/page/39) para conectarse con otros desarrolladores, compartir experiencias y buscar ayuda.

@@ -21,7 +21,7 @@ Precisa converter um arquivo CDR para PDF? É um requisito comum para muitas emp
 
 Agora, se você está procurando uma alternativa leve, converter arquivos CDR para o formato PNG é outra opção fantástica. PNG é amplamente usado por sua compressão sem perdas e suporte para transparência, tornando-o ideal para aplicativos web e móveis. Quer você esteja projetando um site ou criando gráficos para um aplicativo, ter a capacidade de converter arquivos CDR para PNG pode ser uma virada de jogo.
 
- O processo é semelhante — basta carregar seu arquivo CDR e especificar PNG como o formato de saída. Uma vez convertida, sua imagem PNG retém sua qualidade e pode ser usada em várias plataformas. É realmente muito simples! Quer os detalhes passo a passo? Não perca as instruções completas em[Converter arquivos CDR para PNG usando Aspose.Imaging para .NET](./convert-cdr-files-to-png/).
+ O processo é semelhante — basta carregar seu arquivo CDR e especificar PNG como o formato de saída. Uma vez convertida, sua imagem PNG retém sua qualidade e pode ser usada em várias plataformas. É realmente simples assim! Quer os detalhes passo a passo? Não perca as instruções completas em[Converter arquivos CDR para PNG usando Aspose.Imaging para .NET](./convert-cdr-files-to-png/).
 
 ## Tutoriais de conversão de imagens
 ### [Converter arquivos CorelDRAW (CDR) em PDF com Aspose.Imaging no .NET](./convert-cdr-files-to-pdf/)

@@ -15,7 +15,7 @@ Bent u klaar om de grafische game van uw .NET-applicatie naar een hoger niveau t
 
 Beschouw globale transformaties als het toepassen van een "universeel filter" op uw canvas. Deze transformaties beïnvloeden elk element dat in een grafische context wordt getekend, waardoor ze perfect zijn voor scenario's waarin u uniforme schaal, rotatie of vertaling in uw ontwerp nodig hebt. Met Aspose.Drawing voor .NET is het beheersen van globale transformaties eenvoudiger dan ooit.
 
- Stel je bijvoorbeeld voor dat je een datavisualisatietool bouwt die grafieken dynamisch aanpast op basis van schermafmetingen. Een transformatie op wereldwijde schaal zorgt ervoor dat alles naadloos wordt aangepast, waarbij de proportionaliteit en esthetiek behouden blijven. Wil je weten hoe? Bekijk onze speciale tutorial over[Globale transformaties onder de knie krijgen in Aspose.Drawing voor .NET](./mastering-global-transformations/).
+Stel je bijvoorbeeld voor dat je een datavisualisatietool bouwt die grafieken dynamisch aanpast op basis van schermafmetingen. Een transformatie op wereldwijde schaal zorgt ervoor dat alles naadloos wordt aangepast, waarbij de proportionaliteit en esthetiek behouden blijven. Wil je weten hoe? Bekijk onze speciale tutorial over[Globale transformaties onder de knie krijgen in Aspose.Drawing voor .NET](./mastering-global-transformations/).
 
 ## Gids voor lokale transformaties
 

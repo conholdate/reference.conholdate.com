@@ -31,7 +31,7 @@ Laten we uw project in Visual Studio instellen:
 Install-Package Aspose.Words
 ```
 
-3. Maak een map: Maak een map aan waar u uw PDF-bestanden en de resulterende JPEG-bestanden wilt opslaan.
+3. Maak een map: Maak een map aan waar u uw PDF-bestanden en de resulterende JPEG-bestanden opslaat.
 
 ## Stap 2: Naamruimten importeren
 

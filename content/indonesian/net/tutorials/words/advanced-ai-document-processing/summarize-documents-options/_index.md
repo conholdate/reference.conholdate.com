@@ -15,7 +15,7 @@ Bekerja dengan dokumen yang panjang sering kali melibatkan penyaringan informasi
 
 Sebelum memulai, pastikan Anda memiliki hal berikut:
 
-1.  Pustaka Aspose.Words untuk .NET: Unduh dari[Rilisan Aspose](https://releases.aspose.com/words/net/).
+1. Pustaka Aspose.Words untuk .NET: Unduh dari[Rilisan Aspose](https://releases.aspose.com/words/net/).
 2. Lingkungan .NET: Siapkan lingkungan pengembangan .NET, seperti Visual Studio.
 3. Pengetahuan Dasar C#: Tutorial ini melibatkan pengkodean, jadi pemahaman yang baik tentang sintaksis C# akan sangat bermanfaat.
 4. Kunci API Model AI: Dapatkan kunci API untuk model ringkasan AI pilihan Anda (misalnya, GPT-4), karena kami akan menggunakannya untuk menghasilkan ringkasan.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Langkah 2: Muat Dokumen untuk Ringkasan
 
- Muat dokumen yang ingin Anda rangkum. Gunakan`Document` kelas di Aspose.Words untuk mengakses file Word Anda:
+ Muat dokumen yang ingin Anda rangkum. Gunakan`Document`kelas di Aspose.Words untuk mengakses file Word Anda:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- Itu`Gpt4OMini` model diinisialisasi dengan kunci API Anda untuk memproses ringkasan dokumen. Pastikan untuk mengganti`"API_KEY"`dengan kunci API Anda yang sebenarnya.
+ Itu`Gpt4OMini` model diinisialisasi dengan kunci API Anda untuk memproses ringkasan dokumen. Pastikan untuk mengganti`"API_KEY"` dengan kunci API Anda yang sebenarnya.
 
 ## Langkah 4: Ringkaslah Satu Dokumen
 

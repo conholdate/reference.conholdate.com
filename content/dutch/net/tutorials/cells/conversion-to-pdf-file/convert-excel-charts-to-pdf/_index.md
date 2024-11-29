@@ -17,7 +17,7 @@ Hebt u een handleiding nodig om grafieken van Excel-spreadsheets naar PDF-formaa
 Zorg ervoor dat u .NET Framework of .NET Core hebt geïnstalleerd. Deze omgevingen zijn beide compatibel met Aspose.Cells, dus u kunt de omgeving gebruiken die het beste bij uw project past.
 
 ### Installatie van Aspose.Cells-bibliotheek
-De Aspose.Cells-bibliotheek is essentieel voor conversies van diagrammen naar PDF. Haal de nieuwste versie op van de[Aspose downloadpagina](https://releases.aspose.com/cells/net/).
+ De Aspose.Cells-bibliotheek is essentieel voor conversies van diagrammen naar PDF. Haal de nieuwste versie op van de[Aspose downloadpagina](https://releases.aspose.com/cells/net/).
 
 ### Basiskennis C#
 Een fundamenteel begrip van C# maakt het codeerproces eenvoudiger. Maak je geen zorgen als je een beginner bent; deze gids bevat codevoorbeelden die gemakkelijk te volgen zijn.
@@ -82,7 +82,7 @@ Deze code geeft toegang tot het eerste werkblad. Wijzig de index als uw grafiek 
 Ga vervolgens vanuit het gekozen werkblad naar de specifieke grafiek die u wilt converteren.
 
 ```csharp
-//Toegang tot de eerste grafiek in het werkblad
+// Toegang tot de eerste grafiek in het werkblad
 Chart chart = worksheet.Charts[0];
 ```
 

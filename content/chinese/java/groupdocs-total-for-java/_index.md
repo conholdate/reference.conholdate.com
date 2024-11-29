@@ -61,7 +61,7 @@ GroupDocs.Conversion for Java 是一种高级文档转换 API，旨在从任何 
 ## **GroupDocs.Conversion for Java**
 以下是完成任务可能需要的一些有用资源的链接。
 
-- [GroupDocs.Conversion for Java API 参考指南](https://apireference.groupdocs.com/conversion/java)
+- [GroupDocs.Conversion Java API 参考指南](https://apireference.groupdocs.com/conversion/java)
 
 {{% alert color="primary" %}} 
 

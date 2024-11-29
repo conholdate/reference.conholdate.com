@@ -47,7 +47,7 @@ Siapkan dokumen PostScript Anda dengan konfigurasi yang diinginkan:
 string dataDir = "Your Document Directory"; // Tetapkan jalur direktori dokumen Anda
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // Siapkan opsi penyimpanan untuk ukuran A4
+    //Siapkan opsi penyimpanan untuk ukuran A4
     PsSaveOptions options = new PsSaveOptions();
     
     // Buat dokumen PostScript baru dengan 2 halaman
@@ -114,4 +114,4 @@ Ya! Seperti yang ditunjukkan dalam panduan ini, Anda dapat menentukan ukuran yan
  Anda bisa mendapatkan lisensi sementara untuk pengujian dengan menavigasi ke[tautan ini](https://purchase.conholdate.com/temporary-license/).
 
 ### Di mana saya dapat mencari dukungan komunitas?  
-Bergabunglah dengan[Forum komunitas Aspose.Page](https://forum.aspose.com/c/page/39) untuk terhubung dengan pengembang lain, berbagi pengalaman, dan mencari bantuan.
+ Bergabunglah dengan[Forum komunitas Aspose.Page](https://forum.aspose.com/c/page/39) untuk terhubung dengan pengembang lain, berbagi pengalaman, dan mencari bantuan.

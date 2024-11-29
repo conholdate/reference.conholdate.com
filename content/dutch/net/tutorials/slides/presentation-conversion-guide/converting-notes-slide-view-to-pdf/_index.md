@@ -88,10 +88,10 @@ Ja, Aspose.Slides voor .NET is ontworpen om presentaties van elke omvang effici√
  U kunt een gratis proefversie downloaden van[hier](https://releases.aspose.com/).
 
 ### V3: Zijn er andere PDF-exportopties beschikbaar?
-Ja, u kunt lettertypen, pagina-indeling, compressie en meer aanpassen met behulp van de`PdfOptions`klas.
+Ja, u kunt lettertypen, pagina-indeling, compressie en meer aanpassen met behulp van de`PdfOptions` klas.
 
 ### V4: Kan ik alleen specifieke dia's exporteren?
- Absoluut! U kunt specifieke dia's selecteren met behulp van de`Slides` collectie in de`Presentation`klas.
+ Absoluut! U kunt specifieke dia's selecteren met behulp van de`Slides` collectie in de`Presentation` klas.
 
 ### V5: Waar kan ik nog meer voorbeelden vinden?
  Bezoek de[Aspose.Slides voor .NET-documentatie](https://reference.aspose.com/slides/net/) voor meer voorbeelden en use cases.

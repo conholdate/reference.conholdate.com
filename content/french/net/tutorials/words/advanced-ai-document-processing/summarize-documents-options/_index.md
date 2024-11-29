@@ -15,7 +15,7 @@ Travailler avec des documents volumineux implique souvent de passer au crible de
 
 Avant de commencer, assurez-vous de disposer des éléments suivants :
 
-1.  Bibliothèque Aspose.Words pour .NET : téléchargez-la depuis[Les sorties d'Aspose](https://releases.aspose.com/words/net/).
+1. Bibliothèque Aspose.Words pour .NET : téléchargez-la depuis[Les sorties d'Aspose](https://releases.aspose.com/words/net/).
 2. Environnement .NET : configurez un environnement de développement .NET, tel que Visual Studio.
 3. Connaissances de base de C# : ce didacticiel implique du codage, donc une familiarité avec la syntaxe C# sera bénéfique.
 4. Clé API du modèle d'IA : obtenez une clé API pour votre modèle de résumé d'IA préféré (par exemple, GPT-4), car nous l'utiliserons pour générer des résumés.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Étape 2 : Charger les documents à résumer
 
- Chargez les documents que vous souhaitez résumer. Utilisez le`Document` classe dans Aspose.Words pour accéder à vos fichiers Word :
+ Chargez les documents que vous souhaitez résumer. Utilisez le`Document`classe dans Aspose.Words pour accéder à vos fichiers Word :
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- Le`Gpt4OMini` le modèle est initialisé avec votre clé API pour traiter le résumé du document. Assurez-vous de remplacer`"API_KEY"`avec votre clé API actuelle.
+ Le`Gpt4OMini` le modèle est initialisé avec votre clé API pour traiter le résumé du document. Assurez-vous de remplacer`"API_KEY"` avec votre clé API actuelle.
 
 ## Étape 4 : Résumer un document unique
 

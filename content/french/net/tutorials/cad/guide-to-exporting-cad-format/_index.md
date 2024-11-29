@@ -21,7 +21,7 @@ Voici comment procéder : chargez votre fichier CAO, configurez vos options de 
 ## Convertir DGN en PDF dans Aspose.CAD pour .NET  
 Vous avez déjà eu du mal à convertir des fichiers DGN en PDF ? C'est comme transformer un plan en un document soigné et portable. Avec Aspose.CAD pour .NET, vous éviterez ces tracas et obtiendrez directement des résultats. Cette bibliothèque prend en charge la conversion précise de fichiers DGN en PDF, en préservant tous les détails, ce qui est parfait pour partager des conceptions professionnelles.  
 
-Voici un aperçu rapide : importez le fichier DGN, définissez vos options de rendu et enregistrez la sortie au format PDF. Cette méthode garantit la précision tout en réduisant le travail manuel. De plus, elle est suffisamment flexible pour les développeurs de tous niveaux, des débutants aux experts en CAO.  
+Voici un bref aperçu : importez le fichier DGN, définissez vos options de rendu et enregistrez la sortie au format PDF. Cette méthode garantit la précision tout en réduisant le travail manuel. De plus, elle est suffisamment flexible pour les développeurs de tous niveaux, des débutants aux experts en CAO.  
 
 Prêt à transformer vos flux de travail ? Apprenez-en plus dans le guide détaillé sur[Conversion de DGN en PDF](./convert-dgn-to-pdf/).  
 

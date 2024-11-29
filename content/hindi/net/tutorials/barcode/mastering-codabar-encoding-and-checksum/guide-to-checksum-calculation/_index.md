@@ -65,7 +65,7 @@ gen.Save($"{path}CodabarChecksumMod10.png", BarCodeImageFormat.Png);
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // चेकसम सक्षम करें
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //मॉड16 सेट करें
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // मॉड16 सेट करें
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 अब आपने Aspose.BarCode for .NET का उपयोग करके विभिन्न चेकसम प्रकारों के साथ सफलतापूर्वक कोडाबार बारकोड जेनरेट कर लिया है। ये चेकसम एन्कोड किए गए डेटा की अखंडता को बनाए रखने के लिए आवश्यक हैं, यह सुनिश्चित करते हुए कि स्कैन की जाने वाली जानकारी सटीक और विश्वसनीय दोनों है।
 
- यदि आपके कोई प्रश्न हों या आपको कोई समस्या हो, तो कृपया हमारे जीवंत समुदाय से संपर्क करने में संकोच न करें।[Aspose.BarCode फ़ोरम](https://forum.aspose.com/c/barcode/13).
+यदि आपके कोई प्रश्न हों या आपको कोई समस्या हो, तो कृपया हमारे जीवंत समुदाय से संपर्क करने में संकोच न करें।[Aspose.BarCode फ़ोरम](https://forum.aspose.com/c/barcode/13).
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
@@ -95,4 +95,4 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 ### मैं .NET के लिए Aspose.BarCode का पूरा दस्तावेज़ कहां पा सकता हूं?
 
- Aspose.BarCode के लिए व्यापक दस्तावेज़ पाया जा सकता है[यहाँ](https://reference.aspose.com/barcode/net/).
+Aspose.BarCode के लिए व्यापक दस्तावेज़ पाया जा सकता है[यहाँ](https://reference.aspose.com/barcode/net/).

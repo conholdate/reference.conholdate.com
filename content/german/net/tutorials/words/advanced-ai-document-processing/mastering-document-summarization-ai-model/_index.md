@@ -17,7 +17,7 @@ Stellen Sie zunächst sicher, dass Sie über Folgendes verfügen:
 
 1. Visual Studio: Erforderlich zum Codieren und Testen. Sie können es kostenlos herunterladen, falls Sie es noch nicht installiert haben.
 2. .NET Framework oder .NET Core: Aspose.Words für .NET unterstützt beides, stellen Sie also sicher, dass Sie eine kompatible Version haben.
-3.  Aspose.Words für .NET: Laden Sie die neueste Version herunter und installieren Sie sie vom[Aspose-Veröffentlichungsseite](https://releases.aspose.com/words/net/).
+3. Aspose.Words für .NET: Laden Sie die neueste Version herunter und installieren Sie sie vom[Aspose-Veröffentlichungsseite](https://releases.aspose.com/words/net/).
 4. API-Schlüssel für KI-Modelle: Um Zusammenfassungen zu erstellen, ist der Zugriff auf eine KI-Modell-API erforderlich (z. B. OpenAI). Registrieren Sie sich auf der Website des KI-Anbieters, um den API-Schlüssel zu erhalten.
 5. Grundlegende C#-Kenntnisse: Eine gewisse Vertrautheit mit der C#-Programmierung wird Ihnen helfen, den Schritten effektiv zu folgen.
 
@@ -39,7 +39,7 @@ Lassen Sie uns die Schritte zum Erstellen und Konfigurieren einer Konsolenanwend
 Um die Aspose.Words-Funktionalität zu aktivieren, fügen Sie sie über den NuGet-Paketmanager hinzu.
 
 1. Klicken Sie im Projektmappen-Explorer mit der rechten Maustaste auf Ihr Projekt und wählen Sie „NuGet-Pakete verwalten“ aus.
-2.  Suchen nach`Aspose.Words`und klicken Sie auf Installieren.
+2.  Suchen nach`Aspose.Words` und klicken Sie auf Installieren.
 3. Installieren Sie bei Bedarf auch spezifische KI-Modellpakete zur Integration (z. B. OpenAI).
 
 ```csharp

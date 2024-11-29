@@ -50,7 +50,7 @@ using (DgnImage dgnImage = (DgnImage)Image.Load(sourceFilePath))
 
 ## 3. lépés: Ismétlés DGN-elemeken keresztül
 
-DGN-fájl betöltése után ismételheti az elemeit. Az Aspose.CAD többféle DGN elemtípust biztosít a manipulációhoz.
+A DGN-fájl betöltése után ismételheti az elemeit. Az Aspose.CAD többféle DGN elemtípust biztosít a manipulációhoz.
 
 ```csharp
 foreach (DgnDrawingElementBase element in dgnImage.Elements)
@@ -95,7 +95,7 @@ switch (element.Metadata.Type)
 
 ## 5. lépés: Exportálja a DGN fájlt
 
-A DGN-elemek manipulálása után érdemes lehet a fájlt raszteres képként exportálni. Ez könnyen megvalósítható az Aspose.CAD segítségével.
+DGN-elemek manipulálása után érdemes lehet a fájlt raszteres képként exportálni. Ez könnyen megvalósítható az Aspose.CAD segítségével.
 
 ```csharp
 string outputFilePath = myDir + "Exported_Image.png"; // Határozza meg a kimeneti útvonalat
@@ -127,4 +127,4 @@ Ebben az oktatóanyagban megtanultuk, hogyan használhatja az Aspose.CAD for .NE
 
 ### Segítségre van szüksége vagy kérdései vannak?
 
- Támogatásért vagy kérdések feltevéséhez keresse fel az Aspose.CAD közösséget[támogatási fórum](https://forum.aspose.com/c/cad/19).
+Támogatásért vagy kérdések feltevéséhez keresse fel az Aspose.CAD közösséget[támogatási fórum](https://forum.aspose.com/c/cad/19).

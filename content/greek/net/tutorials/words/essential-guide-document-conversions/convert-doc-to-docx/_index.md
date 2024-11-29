@@ -59,7 +59,7 @@ doc.Save(dataDir + "ConvertedDocument.docx", SaveFormat.Docx);
 Ναι, το Aspose.Words υποστηρίζει πολλές μορφές, όπως PDF, HTML, RTF, TXT και άλλα.
 
 ### Πού μπορώ να βρω την τεκμηρίωση του Aspose.Words;
- Μπορείτε να έχετε πρόσβαση[εδώ](https://reference.aspose.com/words/net/).
+ Μπορείτε να έχετε πρόσβαση σε αυτό[εδώ](https://reference.aspose.com/words/net/).
 
 ### Υπάρχει δωρεάν δοκιμή για το Aspose.Words;
  Ναι, κατεβάστε μια δωρεάν δοκιμή από[εδώ](https://releases.aspose.com/).

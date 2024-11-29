@@ -110,8 +110,8 @@ document.Save(device, options);
 
 ### มีเวอร์ชันทดลองใช้สำหรับ Aspose.Page สำหรับ .NET หรือไม่
 
-ใช่ คุณสามารถทดลองใช้ Aspose.Page สำหรับ .NET พร้อมทดลองใช้งานฟรีได้[ที่นี่](https://releases.aspose.com/).
+ ใช่ คุณสามารถทดลองใช้ Aspose.Page สำหรับ .NET พร้อมทดลองใช้งานฟรีได้[ที่นี่](https://releases.aspose.com/).
 
 ### ฉันสามารถหาการสนับสนุนชุมชนสำหรับ Aspose.Page สำหรับ .NET ได้ที่ไหน
 
- สำหรับการสนทนาและการสนับสนุนชุมชน โปรดไปที่[ฟอรั่ม Aspose.Page](https://forum.aspose.com/c/page/39).
+สำหรับการสนทนาและการสนับสนุนชุมชน โปรดไปที่[ฟอรั่ม Aspose.Page](https://forum.aspose.com/c/page/39).

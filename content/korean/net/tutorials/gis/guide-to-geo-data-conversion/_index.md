@@ -13,11 +13,11 @@ url: /ko/net/tutorials/gis/guide-to-geo-data-conversion/
 
 ## GeoJSON을 TopoJSON으로 변환
 
- GeoJSON과 TopoJSON은 GIS 커뮤니티에서 인기 있는 형식이지만 각각 고유한 이점이 있습니다. GeoJSON은 간단하고 읽기 쉽기 때문에 웹 애플리케이션에 적합한 반면 TopoJSON은 토폴로지를 인코딩하여 파일 크기를 줄여 성능을 크게 바꿀 수 있습니다. 튜토리얼[GeoJSON을 TopoJSON으로 변환](./converting-geojson-to-topojson/)설정 프로세스를 안내하고, 단계별 코드 예제를 제공하여 즉시 실행되도록 보장합니다. 설치에 도움이 필요하신가요? 저희가 도와드리겠습니다!
+ GeoJSON과 TopoJSON은 GIS 커뮤니티에서 인기 있는 형식이지만 각각 고유한 이점이 있습니다. GeoJSON은 간단하고 읽기 쉽기 때문에 웹 애플리케이션에 적합한 반면 TopoJSON은 토폴로지를 인코딩하여 파일 크기를 줄여 성능을 크게 바꿀 수 있습니다. 튜토리얼[GeoJSON을 TopoJSON으로 변환](./converting-geojson-to-topojson/) 설정 프로세스를 안내하고, 단계별 코드 예제를 제공하여 즉시 실행되도록 보장합니다. 설치에 도움이 필요하신가요? 저희가 도와드리겠습니다!
 
 ## Shapefile을 GeoJSON으로 변환
 
- 셰이프파일은 GIS의 기본이지만 이를 GeoJSON으로 변환하면 특히 웹 매핑에서 데이터 사용에 대한 새로운 길을 열 수 있습니다.[Shapefiles를 GeoJSON으로 변환](./converting-shapefile-to-geojson/) 전체 프로세스를 안내합니다. 시작에 필요한 필수 사항부터 시작하여 변환 프로세스를 간단하게 만드는 명확하고 간결한 코드 예제로 넘어갑니다. 진행 중에 질문이 있습니까? 이 튜토리얼은 여러분이 마주칠 수 있는 일반적인 장애물을 해결하도록 설계되었습니다.
+셰이프파일은 GIS의 기본이지만 이를 GeoJSON으로 변환하면 특히 웹 매핑에서 데이터 사용에 대한 새로운 길을 열 수 있습니다.[Shapefiles를 GeoJSON으로 변환](./converting-shapefile-to-geojson/) 전체 프로세스를 안내합니다. 시작에 필요한 필수 사항부터 시작하여 변환 프로세스를 간단하게 만드는 명확하고 간결한 코드 예제로 넘어갑니다. 진행 중에 질문이 있습니까? 이 튜토리얼은 여러분이 마주칠 수 있는 일반적인 장애물을 해결하도록 설계되었습니다.
 
 ## 지리 데이터 변환 튜토리얼 가이드
 ### [Aspose.GIS for .NET을 사용하여 GeoJSON을 TopoJSON으로 변환](./converting-geojson-to-topojson/)

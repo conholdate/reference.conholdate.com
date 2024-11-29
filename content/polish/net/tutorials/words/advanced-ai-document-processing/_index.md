@@ -13,7 +13,7 @@ W dziedzinie przetwarzania dokumentów Aspose.Words for .NET wyróżnia się jak
 
 ## Pierwsze kroki z modelami AI
 
-Wyobraź sobie, że możesz podsumować obszerne dokumenty za pomocą kilku kliknięć. Brzmi zachęcająco, prawda? Rozpocznij swoją podróż z naszym samouczkiem na temat[Opanowanie podsumowania dokumentów za pomocą modeli AI](./mastering-document-summarization-ai-model/). Ten przewodnik przeprowadzi Cię przez proces integracji AI w celu osiągnięcia efektywnego podsumowania dokumentów za pomocą Aspose.Words. Wyobraź sobie, że masz osobistego asystenta, który może przeszukiwać ogromne ilości tekstu, wyróżniać kluczowe punkty i kondensować informacje dla Ciebie. Ten samouczek zapewnia jasną i zwięzłą mapę drogową do wdrażania modeli AI, dzięki czemu zadania związane z zarządzaniem dokumentami stają się proste.
+ Wyobraź sobie, że możesz podsumować obszerne dokumenty za pomocą kilku kliknięć. Brzmi zachęcająco, prawda? Rozpocznij swoją podróż z naszym samouczkiem na temat[Opanowanie podsumowania dokumentów za pomocą modeli AI](./mastering-document-summarization-ai-model/)Ten przewodnik przeprowadzi Cię przez proces integracji AI w celu osiągnięcia efektywnego podsumowania dokumentów za pomocą Aspose.Words. Wyobraź sobie, że masz osobistego asystenta, który może przeszukiwać ogromne ilości tekstu, wyróżniać kluczowe punkty i kondensować informacje dla Ciebie. Ten samouczek zapewnia jasną i zwięzłą mapę drogową do wdrażania modeli AI, dzięki czemu zadania związane z zarządzaniem dokumentami stają się proste.
 
 ## Podnieś poziom swojej gry dzięki Google AI
 

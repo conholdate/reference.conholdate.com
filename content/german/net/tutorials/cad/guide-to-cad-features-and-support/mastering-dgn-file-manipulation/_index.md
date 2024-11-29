@@ -127,4 +127,4 @@ In diesem Tutorial haben wir gelernt, wie Sie mit Aspose.CAD für .NET DGN-Datei
 
 ### Brauchen Sie Hilfe oder haben Sie Fragen?
 
- Wenn Sie Unterstützung benötigen oder Fragen stellen möchten, besuchen Sie die Aspose.CAD-Community[Support-Forum](https://forum.aspose.com/c/cad/19).
+Wenn Sie Unterstützung benötigen oder Fragen stellen möchten, besuchen Sie die Aspose.CAD-Community[Support-Forum](https://forum.aspose.com/c/cad/19).

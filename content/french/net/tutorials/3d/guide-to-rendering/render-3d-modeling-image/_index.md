@@ -110,7 +110,7 @@ Cela rendra l'image du modèle 3D dans le répertoire de sortie spécifié au fo
 
 ## Conclusion
 
-Félicitations ! Vous avez maintenant appris à générer un rendu d'image de modèle 3D à partir d'une perspective de caméra à l'aide d'Aspose.3D pour .NET. En suivant les étapes ci-dessus, vous pouvez tester différents modèles, positions de caméra et configurations d'éclairage pour créer des visualisations 3D plus dynamiques et visuellement plus attrayantes. Aspose.3D vous offre la flexibilité nécessaire pour personnaliser vos rendus 3D en fonction des besoins de votre projet.
+Félicitations ! Vous savez maintenant comment générer un rendu d'image de modèle 3D à partir d'une perspective de caméra à l'aide d'Aspose.3D pour .NET. En suivant les étapes ci-dessus, vous pouvez tester différents modèles, positions de caméra et configurations d'éclairage pour créer des visualisations 3D plus dynamiques et visuellement plus attrayantes. Aspose.3D vous offre la flexibilité nécessaire pour personnaliser vos rendus 3D en fonction des besoins de votre projet.
 
 ## FAQ
 

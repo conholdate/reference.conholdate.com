@@ -15,7 +15,7 @@ url: /ja/net/tutorials/words/advanced-ai-document-processing/summarize-documents
 
 始める前に、次のものを用意してください。
 
-1.  Aspose.Words for .NETライブラリ: ダウンロードはこちらから[Aspose のリリース](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NETライブラリ: ダウンロードはこちらから[Aspose のリリース](https://releases.aspose.com/words/net/).
 2. .NET 環境: Visual Studio などの .NET 開発環境をセットアップします。
 3. 基本的な C# の知識: このチュートリアルにはコーディングが含まれるため、C# 構文に精通していると役立ちます。
 4. AI モデル API キー: 要約を生成するために使用する、優先 AI 要約モデル (例: GPT-4) の API キーを取得します。
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## ステップ2: 要約用のドキュメントを読み込む
 
-要約する予定の文書を読み込みます。`Document` Aspose.Words のクラスを使用して Word ファイルにアクセスします。
+要約する予定の文書を読み込みます。`Document`Aspose.Words のクラスを使用して Word ファイルにアクセスします。
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -89,7 +89,7 @@ combinedSummary.Save(ArtifactsDir + "MultiDocumentSummary.docx");
 
 ## 結論
 
-Aspose.Words for .NET を使用したドキュメント要約により、長いファイルから重要な情報を簡単に抽出できます。このステップ バイ ステップ ガイドでは、単一または複数のドキュメントを要約する方法、さらには大規模なワークロードの要約をバッチ処理する方法を説明できました。カスタマイズ可能な要約オプションを備えた Aspose.Words は、効率的なドキュメント管理のための強力なソリューションを提供します。
+Aspose.Words for .NET を使用したドキュメント要約により、長いファイルから重要な情報を簡単に抽出できます。このステップ バイ ステップ ガイドでは、単一または複数のドキュメントを要約する方法、さらには大規模なワークロードの要約をバッチ処理する方法を実演しました。カスタマイズ可能な要約オプションを備えた Aspose.Words は、効率的なドキュメント管理のための強力なソリューションを提供します。
 
 ## よくある質問
 

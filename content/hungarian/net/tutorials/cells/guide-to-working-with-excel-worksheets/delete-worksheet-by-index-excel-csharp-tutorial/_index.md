@@ -87,7 +87,7 @@ Ebben a példában eltávolítjuk a gyűjtemény első munkalapját (ne feledje,
 
 ## 4. lépés: Mentse el a módosított munkafüzetet
 
-A munkalap törlése után el kell mentenie a változtatásokat. Így írhatja vissza az eredményeket az Excel fájlba, így a változtatások véglegesek lesznek.
+A munkalap törlése után el kell mentenie a változtatásokat. Így írja vissza az eredményeket az Excel fájlba, így a változtatások véglegesek lesznek.
 
 ```csharp
 workbook.Save(dataDir + "output.out.xls");

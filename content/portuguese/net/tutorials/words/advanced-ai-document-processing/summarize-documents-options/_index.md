@@ -15,7 +15,7 @@ Trabalhar com documentos longos geralmente envolve peneirar informações densas
 
 Antes de começar, certifique-se de ter o seguinte:
 
-1.  Biblioteca Aspose.Words para .NET: Baixe em[Lançamentos da Aspose](https://releases.aspose.com/words/net/).
+1. Biblioteca Aspose.Words para .NET: Baixe em[Lançamentos da Aspose](https://releases.aspose.com/words/net/).
 2. Ambiente .NET: configure um ambiente de desenvolvimento .NET, como o Visual Studio.
 3. Conhecimento básico de C#: Este tutorial envolve codificação, portanto, a familiaridade com a sintaxe C# será benéfica.
 4. Chave de API do modelo de IA: obtenha uma chave de API para seu modelo de sumarização de IA preferido (por exemplo, GPT-4), pois o usaremos para gerar resumos.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Etapa 2: Carregar documentos para sumarização
 
- Carregue os documentos que você planeja resumir. Use o`Document` classe em Aspose.Words para acessar seus arquivos do Word:
+ Carregue os documentos que você planeja resumir. Use o`Document`classe em Aspose.Words para acessar seus arquivos do Word:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- O`Gpt4OMini` o modelo é inicializado com sua chave de API para processar o resumo do documento. Certifique-se de substituir`"API_KEY"`com sua chave de API real.
+ O`Gpt4OMini` o modelo é inicializado com sua chave de API para processar o resumo do documento. Certifique-se de substituir`"API_KEY"` com sua chave de API real.
 
 ## Etapa 4: Resumir um único documento
 
@@ -89,7 +89,7 @@ combinedSummary.Save(ArtifactsDir + "MultiDocumentSummary.docx");
 
 ## Conclusão
 
-O resumo de documentos com o Aspose.Words para .NET facilita a extração de insights importantes de arquivos longos. Este guia passo a passo demonstrou como resumir documentos únicos e múltiplos e até mesmo processar resumos em lote para cargas de trabalho maiores. Com opções de resumo personalizáveis, o Aspose.Words fornece uma solução poderosa para gerenciamento eficiente de documentos.
+resumo de documentos com o Aspose.Words para .NET facilita a extração de insights importantes de arquivos longos. Este guia passo a passo demonstrou como resumir documentos únicos e múltiplos e até mesmo processar resumos em lote para cargas de trabalho maiores. Com opções de resumo personalizáveis, o Aspose.Words fornece uma solução poderosa para gerenciamento eficiente de documentos.
 
 ## Perguntas frequentes
 

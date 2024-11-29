@@ -23,7 +23,7 @@ Bu ön koşullar sağlandıktan sonra, bir yay çizmeye başlayabiliriz!
 
 ## Gerekli Ad Alanlarını İçe Aktar
 
-Öncelikle, Aspose.Imaging tarafından sağlanan işlevselliğe erişmek için gerekli ad alanlarını içe aktarmanız gerekir. Aşağıdakileri ekleyin`using` C# dosyanızın en üstündeki ifadeler:
+ Öncelikle, Aspose.Imaging tarafından sağlanan işlevselliğe erişmek için gerekli ad alanlarını içe aktarmanız gerekir. Aşağıdakileri ekleyin`using` C# dosyanızın en üstündeki ifadeler:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## Adım 1: Görüntüyü Oluşturun ve Akışı Kaydedin
 
 ```csharp
-// Görüntünün kaydedileceği dizini tanımlayın
+//Görüntünün kaydedileceği dizini tanımlayın
 string dataDir = "Your Document Directory"; // Bunu tercih ettiğiniz yola güncelleyin
 
 // BMP görüntüsünü kaydetmek için bir akış oluşturun
@@ -78,7 +78,7 @@ Bu kısımda görünürlüğü arttırmak için görüntü yüzeyini sarı renkl
 
 ```csharp
             // Ark için parametreleri tanımlayın
-            int width = 100;   //Sınırlayıcı dikdörtgenin genişliği
+            int width = 100;   // Sınırlayıcı dikdörtgenin genişliği
             int height = 200;  // Sınırlayıcı dikdörtgenin yüksekliği
             int startAngle = 45;  // Başlangıç açısı derece cinsinden
             int sweepAngle = 270; // Derece cinsinden tarama açısı

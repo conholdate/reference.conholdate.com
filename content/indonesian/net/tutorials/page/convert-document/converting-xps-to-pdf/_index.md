@@ -110,8 +110,8 @@ Selain PDF, Aspose.Page untuk .NET mendukung berbagai format, termasuk TIFF, JPE
 
 ### Apakah ada versi uji coba yang tersedia untuk Aspose.Page untuk .NET?
 
-Ya, Anda dapat mencoba Aspose.Page untuk .NET dengan uji coba gratis yang tersedia[Di Sini](https://releases.aspose.com/).
+ Ya, Anda dapat mencoba Aspose.Page untuk .NET dengan uji coba gratis yang tersedia[Di Sini](https://releases.aspose.com/).
 
 ### Di mana saya dapat menemukan dukungan komunitas untuk Aspose.Page for .NET?
 
- Untuk diskusi dan dukungan komunitas, kunjungi[Forum Aspose.Halaman](https://forum.aspose.com/c/page/39).
+Untuk diskusi dan dukungan komunitas, kunjungi[Forum Aspose.Halaman](https://forum.aspose.com/c/page/39).

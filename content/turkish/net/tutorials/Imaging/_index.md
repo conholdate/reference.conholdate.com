@@ -10,6 +10,6 @@ is_root: true
 
 ## Aspose.Imaging for .NET Eğitimleri
 ### [Aspose.Imaging for .NET ile Temel Çizime İlişkin Kapsamlı Kılavuz](./guide-to-basic-drawing/)
-Aspose.Imaging for .NET ile temel çizimin temellerini öğrenin. Bu adım adım eğitim, şekiller oluşturma, dönüşümleri uygulama ve görüntüleri işleme gibi temel kavramları kapsar.
+Aspose.Imaging for .NET ile temel çizimin temellerini öğrenin. Bu adım adım eğitim, şekiller oluşturma, dönüşümler uygulama ve görüntüleri işleme gibi temel kavramları kapsar.
 ### [Aspose.Imaging for .NET ile Görüntü Dönüştürme Eğitimleri](./image-conversion/)
 .NET geliştiricilerine özel hazırlanmış kapsamlı Aspose.Imaging eğitimleriyle CorelDRAW (CDR) dosyalarını PDF ve PNG'ye nasıl dönüştüreceğinizi kolayca öğrenin.

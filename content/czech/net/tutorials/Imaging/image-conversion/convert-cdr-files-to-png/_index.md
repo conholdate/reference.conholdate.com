@@ -15,7 +15,7 @@ Hledáte výkonný a efektivní způsob převodu souborů CorelDRAW (CDR) do for
 
 Než začneme, ujistěte se, že máte následující předpoklady:
 
-1.  Aspose.Imaging for .NET: Stáhněte si a nainstalujte Aspose.Imaging for .NET z[webové stránky](https://releases.aspose.com/imaging/net/). Můžete si vybrat mezi bezplatnou zkušební verzí nebo zakoupenou verzí podle svých potřeb.
+1.  Aspose.Imaging for .NET: Stáhněte si a nainstalujte Aspose.Imaging for .NET z[webové stránky](https://releases.aspose.com/imaging/net/)Můžete si vybrat mezi bezplatnou zkušební verzí nebo zakoupenou verzí podle svých potřeb.
 
 2. Vývojové prostředí C#: Nastavte ve svém systému vývojové prostředí C#, jako je Visual Studio nebo jakýkoli preferovaný editor kódu.
 
@@ -82,7 +82,7 @@ File.Delete(dataDir + "SimpleShapes.png");
 
 ## Závěr
 
-této příručce jsme prozkoumali, jak převést soubory CDR do formátu PNG pomocí Aspose.Imaging for .NET. Pokud budete postupovat podle kroků importu jmenných prostorů, načtení souboru, konfigurace možností a uložení výstupu, můžete tento proces snadno integrovat do svých aplikací .NET. Aspose.Imaging zefektivňuje proces převodu a nabízí různé možnosti přizpůsobení, což vám umožní efektivně vylepšit vaše aplikace.
+V této příručce jsme prozkoumali, jak převést soubory CDR do formátu PNG pomocí Aspose.Imaging for .NET. Pokud budete postupovat podle kroků importu jmenných prostorů, načtení souboru, konfigurace možností a uložení výstupu, můžete tento proces snadno integrovat do svých aplikací .NET. Aspose.Imaging zefektivňuje proces převodu a nabízí různé možnosti přizpůsobení, což vám umožní efektivně vylepšit vaše aplikace.
 
 ## FAQ
 

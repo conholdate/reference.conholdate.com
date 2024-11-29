@@ -38,7 +38,7 @@ using Aspose.Email.Spam;
 
 ## ステップ1: メールを読み込む
 
-まず、分析したいメールを読み込む必要があります。これは、`MailMessage`Aspose.Email ライブラリのクラス。 
+まず、分析したいメールを読み込む必要があります。これは、`MailMessage` Aspose.Email ライブラリのクラス。 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
@@ -59,7 +59,7 @@ SpamAnalyzer spamAnalyzer = new SpamAnalyzer();
 
 ## ステップ3: モデルのトレーニング
 
-スパムを効果的に識別するには、モデルを例を使ってトレーニングする必要があります。スパムメールとハム（非スパム）メールの両方をモデルに提供します。
+スパムを効果的に識別するには、モデルを例でトレーニングする必要があります。スパムメールとハム（非スパム）メールの両方をモデルに提供します。
 
 ```csharp
 spamAnalyzer.TrainFilter(MailMessage.Load("spam1.eml"), true);

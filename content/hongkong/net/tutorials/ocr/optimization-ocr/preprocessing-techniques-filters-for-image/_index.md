@@ -17,7 +17,7 @@ url: /zh-hant/net/tutorials/ocr/optimization-ocr/preprocessing-techniques-filter
 
 -  Aspose.OCR for .NET：安裝該程式庫以利用其功能。存取文件[這裡](https://reference.aspose.com/ocr/net/)並下載最新版本[這裡](https://releases.aspose.com/ocr/net/).
 
-- 文件目錄：建立一個用於儲存文件的目錄，並記下其路徑以供本指南使用。
+- 文件目錄：建立一個用於儲存文件的目錄，並記下其路徑以供在本指南中使用。
 
 ## 導入所需的命名空間
 

@@ -74,7 +74,7 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- Esta sección demuestra cómo crear un`Graphics` Objeto, limpia la superficie y agrega dos rectángulos con colores y posiciones distintos. Una vez que hayas terminado los dibujos, guarda la imagen para conservar los cambios.
+Esta sección demuestra cómo crear un`Graphics` Objeto, limpia la superficie y agrega dos rectángulos con colores y posiciones distintos. Una vez que hayas terminado los dibujos, guarda la imagen para conservar los cambios.
 
 ## Paso 4: Guarda la imagen
 

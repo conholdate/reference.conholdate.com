@@ -12,4 +12,4 @@ is_root: true
 ### [Umfassender Leitfaden zum grundlegenden Zeichnen mit Aspose.Imaging für .NET](./guide-to-basic-drawing/)
 Lernen Sie die Grundlagen des einfachen Zeichnens mit Aspose.Imaging für .NET. Dieses Schritt-für-Schritt-Tutorial behandelt wichtige Konzepte, darunter das Erstellen von Formen, das Anwenden von Transformationen und die Handhabung von Bildern.
 ### [Bildkonvertierungs-Tutorials mit Aspose.Imaging für .NET](./image-conversion/)
-Lernen Sie mit umfassenden Aspose.Imaging-Tutorials, die auf .NET-Entwickler zugeschnitten sind, ganz einfach, wie Sie CorelDRAW-Dateien (CDR) in PDF und PNG konvertieren.
+Lernen Sie mit umfassenden Aspose.Imaging-Tutorials, die auf .NET-Entwickler zugeschnitten sind, ganz einfach, wie Sie CorelDRAW (CDR)-Dateien in PDF und PNG konvertieren.

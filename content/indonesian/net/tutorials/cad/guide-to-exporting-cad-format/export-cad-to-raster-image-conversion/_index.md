@@ -15,7 +15,7 @@ Apakah Anda ingin mengonversi tata letak CAD ke format gambar raster dengan muda
 
 Sebelum memulai, pastikan Anda memiliki hal berikut:
 
--  Pustaka Aspose.CAD untuk .NET: Unduh dan instal pustaka dari[Situs web Aspose.CAD](https://releases.aspose.com/cad/net/).
+- Pustaka Aspose.CAD untuk .NET: Unduh dan instal pustaka dari[Situs web Aspose.CAD](https://releases.aspose.com/cad/net/).
 -  File Gambar CAD: Miliki file gambar CAD Anda (misalnya,`conic_pyramid.dxf`) siap untuk dikonversi.
 
 ## Mengimpor Ruang Nama yang Diperlukan

@@ -65,7 +65,7 @@ Infine, produciamo un codice a barre Codabar che utilizza un checksum Mod16, ada
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Abilita checksum
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Imposta Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Imposta Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Ora hai generato con successo codici a barre Codabar con diversi tipi di checksum usando Aspose.BarCode per .NET. Questi checksum sono essenziali per mantenere l'integrità dei dati codificati, assicurando che le informazioni scansionabili siano sia accurate che affidabili.
 
- Se hai domande o riscontri problemi, non esitare a contattare la vivace comunità di[Forum di Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+Se hai domande o riscontri problemi, non esitare a contattare la vivace comunità di[Forum di Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## Domande frequenti
 
@@ -95,4 +95,4 @@ Assolutamente! Aspose.BarCode per .NET è progettato per essere versatile ed è 
 
 ### Dove posso trovare la documentazione completa per Aspose.BarCode per .NET?
 
- È possibile trovare una documentazione completa per Aspose.BarCode[Qui](https://reference.aspose.com/barcode/net/).
+È possibile trovare una documentazione completa per Aspose.BarCode[Qui](https://reference.aspose.com/barcode/net/).

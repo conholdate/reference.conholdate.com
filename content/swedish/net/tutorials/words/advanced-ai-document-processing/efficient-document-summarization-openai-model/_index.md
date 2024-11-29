@@ -20,7 +20,7 @@ Se till att du har en kompatibel .NET framework-version. Denna handledning är k
  Ladda ner paketet Aspose.Words för .NET från[Aspose hemsida](https://releases.aspose.com/words/net/), och installera det i ditt projekt med NuGet Package Manager i Visual Studio.
 
 ### Skaffa en OpenAI API-nyckel
- För att komma åt OpenAIs språkmodeller behöver du en API-nyckel. Anmäl dig på[OpenAI hemsida](https://openai.com/), hämta din nyckel och förvara den säkert för integration.
+ För att komma åt OpenAIs språkmodeller behöver du en API-nyckel. Anmäl dig på[OpenAI hemsida](https://openai.com/)hämta din nyckel och förvara den säkert för integration.
 
 ### Integrerad utvecklingsmiljö
 Att använda Visual Studio som din IDE kommer att förenkla kodnings- och felsökningsprocessen.

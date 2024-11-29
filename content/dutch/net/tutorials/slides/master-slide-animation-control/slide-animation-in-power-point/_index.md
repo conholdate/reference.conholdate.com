@@ -15,7 +15,7 @@ Het verbeteren van uw presentaties met boeiende dia-animaties kan de impact erva
 Voordat we met de tutorial beginnen, moet u ervoor zorgen dat u het volgende heeft:
 
 1.  Aspose.Slides voor .NET-bibliotheek: Download en installeer de bibliotheek van de[Aspose downloadpagina](https://releases.aspose.com/slides/net/).
-2.  Document Directory: Maak een directory om uw presentatiebestanden op te slaan. Werk de`dataDir` variabele in de codefragmenten met het pad naar uw documentmap.
+2. Document Directory: Maak een directory om uw presentatiebestanden op te slaan. Werk de`dataDir` variabele in de codefragmenten met het pad naar uw documentmap.
 
 ## Naamruimten importeren
 
@@ -33,7 +33,7 @@ using Aspose.Slides.SlideShow;
 ```csharp
 using (Presentation pres = new Presentation(dataDir + "BetterSlideTransitions.pptx"))
 {
-    //Code voor dia-animaties komt hier
+    // Code voor dia-animaties komt hier
 }
 ```
 
@@ -85,7 +85,7 @@ Het animeren van dia's in uw presentaties voegt een dynamische touch toe, waardo
 
 ### Kan ik de overgangseffecten verder aanpassen?
 
-Absoluut! Aspose.Slides biedt een breed scala aan overgangstypen en extra eigenschappen voor maatwerk. Raadpleeg voor meer informatie de[documentatie](https://reference.aspose.com/slides/net/).
+ Absoluut! Aspose.Slides biedt een breed scala aan overgangstypen en extra eigenschappen voor maatwerk. Raadpleeg voor meer informatie de[documentatie](https://reference.aspose.com/slides/net/).
 
 ### Is er een gratis proefversie beschikbaar?
 

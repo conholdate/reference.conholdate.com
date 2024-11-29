@@ -44,7 +44,7 @@ Document doc = new Document(dataDir + "Document.docx");
 
 ## Steg 2: Spara dokumentet som MHTML
 
- Konvertera sedan det laddade dokumentet till MHTML-format. Detta görs med hjälp av`Save` metod för`Document`klass.
+ Konvertera sedan det laddade dokumentet till MHTML-format. Detta görs med hjälp av`Save` metod för`Document` klass.
 
 ```csharp
 using (Stream stream = new MemoryStream())
@@ -90,7 +90,7 @@ Grattis! Du har framgångsrikt konverterat ett DOCX-dokument till MHTML och skic
 Absolut! Aspose.Words stöder ett brett utbud av format, så att du kan konvertera DOC, DOCX, RTF och mer till MHTML.
 
 ### Hur kan jag lägga till bilagor till e-postmeddelandet?
- Du kan enkelt lägga till bilagor med hjälp av`Attachments` egendom av`MailMessage`klass.
+ Du kan enkelt lägga till bilagor med hjälp av`Attachments` egendom av`MailMessage` klass.
 
 ### Är Aspose.Words kompatibelt med .NET Core?
 Ja, Aspose.Words är kompatibelt med .NET Core, vilket gör det lämpligt för användning i .NET Core-applikationer.

@@ -13,7 +13,7 @@ Dans le domaine du traitement de documents, Aspose.Words pour .NET se distingue 
 
 ## Premiers pas avec les modèles d'IA
 
-Imaginez avoir la possibilité de résumer des documents volumineux en quelques clics. Cela semble intéressant, n'est-ce pas ? Commencez votre parcours avec notre tutoriel sur[Maîtriser la synthèse de documents avec des modèles d'IA](./mastering-document-summarization-ai-model/)Ce guide vous guide tout au long du processus d'intégration de l'IA pour obtenir une synthèse efficace des documents à l'aide d'Aspose.Words. Considérez-le comme un assistant personnel capable de passer au crible de vastes quantités de texte, de mettre en évidence les points clés et de condenser les informations pour vous. Ce didacticiel fournit une feuille de route claire et concise pour la mise en œuvre de modèles d'IA, simplifiant ainsi vos tâches de gestion de documents.
+ Imaginez avoir la possibilité de résumer des documents volumineux en quelques clics. Cela semble intéressant, n'est-ce pas ? Commencez votre parcours avec notre tutoriel sur[Maîtriser la synthèse de documents avec des modèles d'IA](./mastering-document-summarization-ai-model/)Ce guide vous guide tout au long du processus d'intégration de l'IA pour obtenir une synthèse efficace des documents à l'aide d'Aspose.Words. Considérez-le comme un assistant personnel capable de passer au crible de vastes quantités de texte, de mettre en évidence les points clés et de condenser les informations pour vous. Ce didacticiel fournit une feuille de route claire et concise pour la mise en œuvre de modèles d'IA, simplifiant ainsi vos tâches de gestion de documents.
 
 ## Améliorez votre jeu avec Google AI
 

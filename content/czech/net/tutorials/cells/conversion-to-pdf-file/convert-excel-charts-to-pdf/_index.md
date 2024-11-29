@@ -17,7 +17,7 @@ Potřebujete průvodce převodem grafů z tabulek Excelu do formátu PDF v prost
 Ujistěte se, že máte nainstalované rozhraní .NET Framework nebo .NET Core. Obě tato prostředí jsou kompatibilní s Aspose.Cells, takže můžete použít to, co nejlépe vyhovuje vašemu projektu.
 
 ### Instalace knihovny Aspose.Cells
-Knihovna Aspose.Cells je nezbytná pro převod grafu do PDF. Získejte nejnovější verzi z[Aspose stránku ke stažení](https://releases.aspose.com/cells/net/).
+ Knihovna Aspose.Cells je nezbytná pro převod grafu do PDF. Získejte nejnovější verzi z[Aspose stránku ke stažení](https://releases.aspose.com/cells/net/).
 
 ### Základní znalost C#
 Základní znalost C# usnadní proces kódování. Nebojte se, pokud jste začátečník; tato příručka obsahuje příklady kódu, které lze snadno sledovat.
@@ -82,7 +82,7 @@ Tento kód přistupuje k prvnímu listu. Pokud je graf na jiném listu, změňte
 Dále otevřete konkrétní graf, který chcete převést ze zvoleného listu.
 
 ```csharp
-//Otevřete první graf v listu
+// Otevřete první graf v listu
 Chart chart = worksheet.Charts[0];
 ```
 

@@ -65,7 +65,7 @@ gen.Save($"{path}CodabarChecksumMod10.png", BarCodeImageFormat.Png);
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Ενεργοποίηση αθροίσματος ελέγχου
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Ρυθμίστε το Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Ρυθμίστε το Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Έχετε πλέον δημιουργήσει με επιτυχία γραμμωτούς κώδικες Codabar με διαφορετικούς τύπους αθροίσματος ελέγχου χρησιμοποιώντας το Aspose.BarCode για .NET. Αυτά τα αθροίσματα ελέγχου είναι απαραίτητα για τη διατήρηση της ακεραιότητας των κωδικοποιημένων δεδομένων, διασφαλίζοντας ότι οι πληροφορίες που μπορούν να σαρωθούν είναι ακριβείς και αξιόπιστες.
 
- Εάν έχετε οποιεσδήποτε ερωτήσεις ή αντιμετωπίζετε προβλήματα, μη διστάσετε να απευθυνθείτε στη ζωντανή κοινότητα στο[Φόρουμ Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+Εάν έχετε οποιεσδήποτε ερωτήσεις ή αντιμετωπίζετε προβλήματα, μη διστάσετε να απευθυνθείτε στη ζωντανή κοινότητα στο[Φόρουμ Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## Συχνές ερωτήσεις
 
@@ -95,4 +95,4 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 ### Πού μπορώ να βρω την πλήρη τεκμηρίωση για το Aspose.BarCode για .NET;
 
- Μπορείτε να βρείτε ολοκληρωμένη τεκμηρίωση για το Aspose.BarCode[εδώ](https://reference.aspose.com/barcode/net/).
+Μπορείτε να βρείτε ολοκληρωμένη τεκμηρίωση για το Aspose.BarCode[εδώ](https://reference.aspose.com/barcode/net/).

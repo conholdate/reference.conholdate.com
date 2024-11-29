@@ -110,7 +110,7 @@ scene.Render(cam, "YourOutputDirectory/Render3DModelImageFromCamera.png", new Si
 
 ## 結論
 
-恭喜！現在您已經了解如何使用 Aspose.3D for .NET 從相機角度渲染 3D 模型影像。透過執行上述步驟，您可以嘗試不同的模型、相機位置和照明設置，以創建更具動態性和視覺吸引力的 3D 視覺化效果。 Aspose.3D 讓您可以靈活地自訂 3D 渲染以滿足您的專案需求。
+恭喜！現在您已經了解如何使用 Aspose.3D for .NET 從相機角度渲染 3D 模型影像。透過執行上述步驟，您可以嘗試不同的模型、相機位置和照明設置，以創建更具動態性和視覺吸引力的 3D 視覺化效果。 Aspose.3D 讓您能夠靈活地自訂 3D 渲染以滿足您的專案需求。
 
 ## 常見問題解答
 

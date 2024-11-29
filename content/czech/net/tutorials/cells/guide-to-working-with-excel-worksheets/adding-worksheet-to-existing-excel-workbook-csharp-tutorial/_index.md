@@ -49,7 +49,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Dále vytvoříme datový proud souborů pro otevření stávajícího sešitu aplikace Excel.
 
 ```csharp
-// Vytvoření datového proudu souboru pro otevření souboru Excel
+// Vytvoření datového proudu souboru pro otevření souboru aplikace Excel
 FileStream fstream = new FileStream(dataDir + "book1.xls", FileMode.Open);
 ```
 

@@ -47,7 +47,7 @@ PostScript belgenizi istediğiniz yapılandırmalarla ayarlayın:
 string dataDir = "Your Document Directory"; // Belge dizin yolunuzu ayarlayın
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // A4 boyutu için kaydetme seçeneklerini ayarlayın
+    //A4 boyutu için kaydetme seçeneklerini ayarlayın
     PsSaveOptions options = new PsSaveOptions();
     
     // 2 sayfadan oluşan yeni bir PostScript belgesi oluşturun
@@ -114,4 +114,4 @@ Evet! Bu kılavuzda gösterildiği gibi, özel gereksinimlerinize göre her sayf
  Test için geçici lisans almak için şuraya gidebilirsiniz:[bu bağlantı](https://purchase.conholdate.com/temporary-license/).
 
 ### Topluluk desteğine nereden ulaşabilirim?  
-Katıl[Aspose.Page topluluk forumu](https://forum.aspose.com/c/page/39) Diğer geliştiricilerle bağlantı kurmak, deneyim paylaşmak ve yardım istemek.
+ Katıl[Aspose.Page topluluk forumu](https://forum.aspose.com/c/page/39) Diğer geliştiricilerle bağlantı kurmak, deneyim paylaşmak ve yardım istemek.

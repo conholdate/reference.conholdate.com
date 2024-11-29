@@ -64,4 +64,4 @@ Assolutamente! La libreria supporta vari formati geospaziali, tra cui GeoTIFF, K
 Sì, Aspose.GIS per .NET consente ampie opzioni di personalizzazione, consentendo di specificare sistemi di coordinate e mappature degli attributi in base alle esigenze.
 
 ### È disponibile una versione di prova?
- Sì, puoi scaricare una versione di prova gratuita di Aspose.GIS per .NET dal[Sito web di Aspose](https://releases.aspose.com/).
+ Sì, puoi scaricare una versione di prova gratuita di Aspose.GIS per .NET da[Sito web di Aspose](https://releases.aspose.com/).

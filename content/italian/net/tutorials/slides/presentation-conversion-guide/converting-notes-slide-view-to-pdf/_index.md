@@ -88,10 +88,10 @@ Sì, Aspose.Slides per .NET è progettato per gestire in modo efficiente present
  Puoi scaricare una versione di prova gratuita da[Qui](https://releases.aspose.com/).
 
 ### D3: Sono disponibili altre opzioni di esportazione PDF?
-Sì, puoi personalizzare i caratteri, il layout della pagina, la compressione e altro ancora utilizzando`PdfOptions`classe.
+Sì, puoi personalizzare i caratteri, il layout della pagina, la compressione e altro ancora utilizzando`PdfOptions` classe.
 
 ### D4: Posso esportare solo diapositive specifiche?
- Assolutamente! Puoi selezionare diapositive specifiche utilizzando`Slides` raccolta nella`Presentation`classe.
+ Assolutamente! Puoi selezionare diapositive specifiche utilizzando`Slides` raccolta nella`Presentation` classe.
 
 ### D5: Dove posso trovare altri esempi?
- Visita il[Documentazione di Aspose.Slides per .NET](https://reference.aspose.com/slides/net/) per ulteriori esempi e casi d'uso.
+ Visitare il[Documentazione di Aspose.Slides per .NET](https://reference.aspose.com/slides/net/) per ulteriori esempi e casi d'uso.

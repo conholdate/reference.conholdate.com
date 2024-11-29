@@ -110,8 +110,8 @@ document.Save(device, options);
 
 ### क्या .NET के लिए Aspose.Page का कोई परीक्षण संस्करण उपलब्ध है?
 
-हां, आप .NET के लिए Aspose.Page को निःशुल्क परीक्षण के साथ आज़मा सकते हैं[यहाँ](https://releases.aspose.com/).
+ हां, आप .NET के लिए Aspose.Page को निःशुल्क परीक्षण के साथ आज़मा सकते हैं[यहाँ](https://releases.aspose.com/).
 
 ### मैं Aspose.Page for .NET के लिए सामुदायिक समर्थन कहां पा सकता हूं?
 
- सामुदायिक चर्चा और समर्थन के लिए, यहां जाएं[Aspose.Page फ़ोरम](https://forum.aspose.com/c/page/39).
+सामुदायिक चर्चा और समर्थन के लिए, यहां जाएं[Aspose.Page फ़ोरम](https://forum.aspose.com/c/page/39).

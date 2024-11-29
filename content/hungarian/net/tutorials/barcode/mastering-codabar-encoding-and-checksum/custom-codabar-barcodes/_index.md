@@ -15,7 +15,7 @@ url: /hu/net/tutorials/barcode/mastering-codabar-encoding-and-checksum/custom-co
 
 Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik a következőkkel:
 
-1. Fejlesztői környezet: A gépen beállított működő .NET-környezet. Ha segítségre van szüksége, tekintse meg a[Aspose dokumentáció](https://reference.aspose.com/barcode/net/).
+1.  Fejlesztői környezet: A gépen beállított működő .NET-környezet. Ha segítségre van szüksége, tekintse meg a[Aspose dokumentáció](https://reference.aspose.com/barcode/net/).
    
 2.  Aspose.BarCode for .NET Library: Töltse le és telepítse a könyvtárat a[Az Aspose kiadási oldala](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## 1. lépés: Inicializálja a Vonalkód-generátort
 
- Kezdje a példány létrehozásával`BarcodeGenerator`, a vonalkód típusának megadásával Codabar és a kódolandó adatokkal. Íme egy példa:
+ Kezdje a példány létrehozásával`BarcodeGenerator`a vonalkód típusának megadásával Codabar és a kódolandó adatokkal. Íme egy példa:
 
 ```csharp
 string path = "Your Directory Path"; // Itt adja meg a könyvtárát

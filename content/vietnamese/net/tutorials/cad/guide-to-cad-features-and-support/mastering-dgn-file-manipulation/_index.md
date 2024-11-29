@@ -127,4 +127,4 @@ Trong hướng dẫn này, chúng ta đã học cách sử dụng Aspose.CAD cho
 
 ### Bạn cần trợ giúp hoặc có thắc mắc?
 
- Để được hỗ trợ hoặc đặt câu hỏi, hãy truy cập cộng đồng Aspose.CAD[diễn đàn hỗ trợ](https://forum.aspose.com/c/cad/19).
+Để được hỗ trợ hoặc đặt câu hỏi, hãy truy cập cộng đồng Aspose.CAD[diễn đàn hỗ trợ](https://forum.aspose.com/c/cad/19).

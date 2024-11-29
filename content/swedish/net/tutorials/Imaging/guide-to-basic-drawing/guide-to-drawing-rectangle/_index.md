@@ -74,7 +74,7 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- Det här avsnittet visar hur man skapar en`Graphics` objekt, rensa ytan och lägg till två rektanglar med distinkta färger och positioner. När dina ritningar är klara, spara bilden för att bevara dina ändringar.
+Det här avsnittet visar hur man skapar en`Graphics` objekt, rensa ytan och lägg till två rektanglar med distinkta färger och positioner. När dina ritningar är klara, spara bilden för att bevara dina ändringar.
 
 ## Steg 4: Spara bilden
 

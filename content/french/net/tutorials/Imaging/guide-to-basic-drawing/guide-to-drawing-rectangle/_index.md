@@ -74,7 +74,7 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- Cette section montre comment créer un`Graphics` objet, effacez la surface et ajoutez deux rectangles avec des couleurs et des positions distinctes. Une fois vos dessins terminés, enregistrez l'image pour conserver vos modifications.
+Cette section montre comment créer un`Graphics` objet, effacez la surface et ajoutez deux rectangles avec des couleurs et des positions distinctes. Une fois vos dessins terminés, enregistrez l'image pour conserver vos modifications.
 
 ## Étape 4 : Enregistrer l'image
 

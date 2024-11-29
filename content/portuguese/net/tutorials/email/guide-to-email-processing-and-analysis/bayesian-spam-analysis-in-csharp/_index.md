@@ -38,13 +38,13 @@ Agora, vamos dividir a implementação em etapas claras para garantir que você 
 
 ## Etapa 1: Carregar um e-mail
 
- Primeiro, você precisará carregar o e-mail que deseja analisar. Isso é feito usando o`MailMessage`classe na biblioteca Aspose.Email. 
+ Primeiro, você precisará carregar o e-mail que deseja analisar. Isso é feito usando o`MailMessage` classe na biblioteca Aspose.Email. 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- O`Load` O método pega o caminho do arquivo do e-mail que você deseja analisar. Este arquivo deve estar no formato EML. Se você não tiver um, sinta-se à vontade para criar um e-mail simples e salvá-lo como`email.eml`.
+ O`Load` método pega o caminho do arquivo do e-mail que você deseja analisar. Este arquivo deve estar no formato EML. Se você não tiver um, sinta-se à vontade para criar um e-mail simples e salvá-lo como`email.eml`.
 
 ## Etapa 2: Crie um analisador de spam
 

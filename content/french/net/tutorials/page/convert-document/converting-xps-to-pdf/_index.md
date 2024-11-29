@@ -110,8 +110,8 @@ Outre le format PDF, Aspose.Page pour .NET prend en charge une gamme de formats,
 
 ### Existe-t-il une version d'essai disponible pour Aspose.Page pour .NET ?
 
-Oui, vous pouvez essayer Aspose.Page pour .NET avec un essai gratuit disponible[ici](https://releases.aspose.com/).
+ Oui, vous pouvez essayer Aspose.Page pour .NET avec un essai gratuit disponible[ici](https://releases.aspose.com/).
 
 ### Où puis-je trouver du support communautaire pour Aspose.Page pour .NET ?
 
- Pour des discussions et un soutien communautaires, visitez le[Forum Aspose.Page](https://forum.aspose.com/c/page/39).
+Pour des discussions et un soutien communautaires, visitez le[Forum Aspose.Page](https://forum.aspose.com/c/page/39).

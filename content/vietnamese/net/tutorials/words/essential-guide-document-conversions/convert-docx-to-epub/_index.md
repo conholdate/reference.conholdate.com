@@ -16,7 +16,7 @@ Trong quá trình phát triển .NET, việc xử lý tài liệu Word hiệu qu
 Trước khi bắt đầu quá trình chuyển đổi, hãy đảm bảo bạn có những điều sau:
 
 - Môi trường phát triển: Đã cài đặt Visual Studio hoặc .NET IDE khác.
-- Aspose.Words cho .NET: Tải xuống và cài đặt từ[Trang web Aspose](https://releases.aspose.com/words/net/).
+-  Aspose.Words cho .NET: Tải xuống và cài đặt từ[Trang web Aspose](https://releases.aspose.com/words/net/).
 - Tệp tài liệu: Chuẩn bị tệp DOCX mà bạn định chuyển đổi.
 
 ## Bước 1: Nhập các không gian tên cần thiết

@@ -13,7 +13,7 @@ Modelowanie 3D może wydawać się zniechęcające na pierwszy rzut oka, prawda?
 
 ## Utwórz prymitywne modele 3D
 
- Każdy artysta potrzebuje solidnego fundamentu, a jaki jest lepszy sposób na rozpoczęcie niż tworzenie prymitywnych kształtów? W naszym samouczku na temat[tworzenie prymitywnych modeli 3D](./create-primitive-3d-modeling/), nauczysz się, jak konstruować podstawowe obiekty, takie jak pudełka, kule i cylindry. Te kształty są podstawowymi elementami bardziej złożonych modeli i są idealne dla każdego, kto dopiero zaczyna.
+ Każdy artysta potrzebuje solidnego fundamentu, a jaki jest lepszy sposób na rozpoczęcie niż tworzenie prymitywnych kształtów? W naszym samouczku na temat[tworzenie prymitywnych modeli 3D](./create-primitive-3d-modeling/)nauczysz się, jak konstruować podstawowe obiekty, takie jak pudełka, kule i cylindry. Te kształty są podstawowymi elementami bardziej złożonych modeli i są idealne dla każdego, kto dopiero zaczyna.
 
 Poprowadzimy Cię przez proces krok po kroku, rozbijając każdą czynność, abyś mógł łatwo ją śledzić. Wyobraź sobie, że budujesz dom. Najpierw kładziesz fundamenty z prostych bloków. Podobnie w naszym samouczku przygotujesz grunt z prymitywnych kształtów, pozwalając swojej kreatywności rozkwitnąć, gdy później dostosujesz je za pomocą tekstur i kolorów. 
 

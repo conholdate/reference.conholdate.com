@@ -15,7 +15,7 @@ url: /th/net/tutorials/cad/guide-to-exporting-cad-format/export-cad-to-raster-im
 
 ก่อนที่คุณจะเริ่มต้น ให้แน่ใจว่าคุณมีสิ่งต่อไปนี้:
 
--  Aspose.CAD สำหรับไลบรารี .NET: ดาวน์โหลดและติดตั้งไลบรารีจาก[เว็บไซต์ Aspose.CAD](https://releases.aspose.com/cad/net/).
+- Aspose.CAD สำหรับไลบรารี .NET: ดาวน์โหลดและติดตั้งไลบรารีจาก[เว็บไซต์ Aspose.CAD](https://releases.aspose.com/cad/net/).
 -  ไฟล์รูปวาด CAD: มีไฟล์รูปวาด CAD ของคุณ (เช่น`conic_pyramid.dxf`) พร้อมสำหรับการแปลง
 
 ## นำเข้าเนมสเปซที่จำเป็น

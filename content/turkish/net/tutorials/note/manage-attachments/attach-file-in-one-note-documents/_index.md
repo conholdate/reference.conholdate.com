@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Adım 5: Ekli Dosyayı Başlatın
 
- Eklemek istediğiniz dosyanın yolunu belirtmek için`AttachedFile`sınıf.
+ Eklemek istediğiniz dosyanın yolunu belirtmek için`AttachedFile` sınıf.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // قم با
 ستقوم بإنشاء جهاز PDF لتسهيل عملية التحويل. يمكنك تحديد حجم الصفحة إذا لزم الأمر، ولكن الحجم الافتراضي 595x842 نقطة (A4) يكون كافيًا عادةً.
 
 ```csharp
-// حجم الصفحة الافتراضي هو 595x842 وليس من الضروري تعيينه في PdfDevice
+//حجم الصفحة الافتراضي هو 595x842 وليس من الضروري تعيينه في PdfDevice
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // ولكن إذا كنت بحاجة إلى تحديد الحجم وتنسيق الصورة، استخدم السطر التالي
 //Aspose.Page.EPS.Device.PdfDevice device = جديد Aspose.Page.EPS.Device.PdfDevice(pdfStream، جديد System.Drawing.Size(595، 842));

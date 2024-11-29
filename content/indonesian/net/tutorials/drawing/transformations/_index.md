@@ -15,7 +15,7 @@ Apakah Anda siap untuk membawa permainan grafis aplikasi .NET Anda ke tingkat be
 
 Anggap transformasi global sebagai penerapan "filter universal" pada kanvas Anda. Transformasi ini memengaruhi setiap elemen yang digambar dalam konteks grafis, sehingga menjadikannya sempurna untuk skenario saat Anda memerlukan penskalaan, rotasi, atau translasi yang seragam di seluruh desain Anda. Dengan menggunakan Aspose.Drawing for .NET, menguasai transformasi global menjadi lebih mudah dari sebelumnya.
 
- Misalnya, bayangkan Anda sedang membangun alat visualisasi data yang mengubah ukuran diagram secara dinamis berdasarkan dimensi layar. Transformasi skala global memastikan semuanya menyesuaikan dengan lancar, menjaga proporsionalitas dan estetika. Ingin mempelajari caranya? Lihat tutorial khusus kami tentang[Menguasai Transformasi Global di Aspose.Drawing untuk .NET](./mastering-global-transformations/).
+Misalnya, bayangkan Anda sedang membangun alat visualisasi data yang mengubah ukuran diagram secara dinamis berdasarkan dimensi layar. Transformasi skala global memastikan semuanya menyesuaikan dengan lancar, menjaga proporsionalitas dan estetika. Ingin mempelajari caranya? Lihat tutorial khusus kami tentang[Menguasai Transformasi Global di Aspose.Drawing untuk .NET](./mastering-global-transformations/).
 
 ## Panduan Transformasi Lokal
 

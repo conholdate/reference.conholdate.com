@@ -15,7 +15,7 @@ Suchen Sie nach einer leistungsstarken und effizienten Möglichkeit, CorelDRAW-D
 
 Bevor wir beginnen, stellen Sie sicher, dass Sie die folgenden Voraussetzungen erfüllen:
 
-1.  Aspose.Imaging für .NET: Laden Sie Aspose.Imaging für .NET herunter und installieren Sie es von der[Webseite](https://releases.aspose.com/imaging/net/). Sie können je nach Bedarf zwischen einer kostenlosen Testversion oder einer kostenpflichtigen Version wählen.
+1.  Aspose.Imaging für .NET: Laden Sie Aspose.Imaging für .NET herunter und installieren Sie es von der[Webseite](https://releases.aspose.com/imaging/net/)Sie können je nach Bedarf zwischen einer kostenlosen Testversion oder einer kostenpflichtigen Version wählen.
 
 2. C#-Entwicklungsumgebung: Richten Sie auf Ihrem System eine C#-Entwicklungsumgebung ein, beispielsweise Visual Studio oder einen beliebigen Code-Editor.
 

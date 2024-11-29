@@ -15,7 +15,7 @@ Vous vous lancez dans le monde de la génération de codes-barres dans .NET ? Q
 
 Vous avez déjà eu l'impression que votre code-barres n'est pas parfait en raison de sa hauteur ? Imaginez créer un code-barres qui s'adapte parfaitement à l'étiquette ou à l'emballage de votre produit. Avec Aspose.BarCode, vous pouvez facilement ajuster la hauteur des codes-barres unidimensionnels pour un ajustement idéal. La bibliothèque vous offre un contrôle précis, garantissant que vos codes-barres répondent aux normes du secteur et sont scannables à chaque fois.  
 
- Le tutoriel sur[Personnalisation de la hauteur du code-barres avec Aspose.BarCode](./customizing-barcode-height/) vous guide étape par étape tout au long de ce processus, de l'installation à la mise en œuvre. Que vous conceviez des étiquettes de vente au détail ou des étiquettes industrielles, ce guide vous couvre.  
+ Le tutoriel sur[Personnalisation de la hauteur du code-barres avec Aspose.BarCode](./customizing-barcode-height/)vous guide étape par étape tout au long de ce processus, de l'installation à la mise en œuvre. Que vous conceviez des étiquettes de vente au détail ou des étiquettes industrielles, ce guide vous couvre.  
 
 ## Génération et gestion des exceptions avec Aspose.BarCode pour .NET  
 

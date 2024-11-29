@@ -9,7 +9,7 @@ url: /hu/net/tutorials/page/master-page-manipulation/add-page-to-postscript-docu
 ---
 ## Bevezetés
 
-A .NET fejlesztés területén a dokumentumkezelés elengedhetetlen készség. Az Aspose.Page for .NET egy hatékony könyvtár, amely lehetővé teszi a fejlesztők számára, hogy könnyedén dolgozzanak PostScript (PS) dokumentumokkal. Ez az útmutató lépésről lépésre végigvezeti az oldalak PostScript-dokumentumhoz való hozzáadásának folyamatán.
+.NET fejlesztés területén a dokumentumkezelés elengedhetetlen készség. Az Aspose.Page for .NET egy hatékony könyvtár, amely lehetővé teszi a fejlesztők számára, hogy könnyedén dolgozzanak PostScript (PS) dokumentumokkal. Ez az útmutató lépésről lépésre végigvezeti az oldalak PostScript-dokumentumhoz való hozzáadásának folyamatán.
 
 ## Előfeltételek
 
@@ -18,7 +18,7 @@ Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik:
 - A .NET programozás alapvető ismerete.
 - A Visual Studio telepítve van a gépedre.
 -  Az Aspose.Page .NET könyvtárhoz, amelyet letölthet[itt](https://releases.aspose.com/page/net/).
-- Egy kijelölt könyvtár a dokumentumok számára tesztelési célból.
+- Kijelölt könyvtár a dokumentumok számára tesztelési célból.
 
 ## Importálja a szükséges névtereket
 
@@ -47,7 +47,7 @@ using System.IO;
 string dataDir = "Your Document Directory"; // Állítsa be a dokumentumkönyvtár elérési útját
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // Állítsa be a mentési beállításokat A4-es mérethez
+    //Állítsa be a mentési beállításokat A4-es mérethez
     PsSaveOptions options = new PsSaveOptions();
     
     // Hozzon létre egy új PostScript dokumentumot 2 oldallal
@@ -114,4 +114,4 @@ Igen! Amint az ebben az útmutatóban látható, az egyes oldalakhoz különböz
  A teszteléshez ideiglenes licencet szerezhet, ha navigál a címre[ezt a linket](https://purchase.conholdate.com/temporary-license/).
 
 ### Hol kérhetek közösségi támogatást?  
-Csatlakozz a[Aspose.Page közösségi fórum](https://forum.aspose.com/c/page/39) kapcsolatba léphet más fejlesztőkkel, megoszthatja tapasztalatait, és segítséget kérhet.
+ Csatlakozz a[Aspose.Page közösségi fórum](https://forum.aspose.com/c/page/39) kapcsolatba léphet más fejlesztőkkel, megoszthatja tapasztalatait, és segítséget kérhet.

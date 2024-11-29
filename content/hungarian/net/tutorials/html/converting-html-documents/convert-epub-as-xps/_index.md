@@ -16,7 +16,7 @@ A digitális korszakban a különféle dokumentumformátumok kezelése és konve
 Mielőtt belemerülnénk a technikai részletekbe, gondoskodjunk arról, hogy minden készen álljon az Aspose.HTML zökkenőmentes vitorlázáshoz:
 
 ### .NET környezet
-Győződjön meg arról, hogy be van állítva .NET fejlesztői környezet. Függetlenül attól, hogy Visual Studio-t vagy bármely más, .NET-et támogató IDE-t használ, a szükséges könyvtárak telepítése után készen áll a kezdésre.
+Győződjön meg arról, hogy be van állítva .NET fejlesztői környezet. Akár Visual Studio-t, akár bármely más, .NET-et támogató IDE-t használ, a szükséges könyvtárak telepítése után készen áll a kezdésre.
 
 ### Töltse le az Aspose.HTML-t
 Le kell töltenie az Aspose.HTML könyvtárat. A legújabb verziót letöltheti a[kiadási oldal](https://releases.aspose.com/html/net/). Ez a könyvtár tartalmazza az összes olyan eszközt, amelyre szüksége lesz az EPUB-fájlok XPS formátumban történő megjelenítéséhez.

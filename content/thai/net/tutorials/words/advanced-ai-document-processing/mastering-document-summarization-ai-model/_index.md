@@ -17,7 +17,7 @@ url: /th/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 
 1. Visual Studio: จำเป็นสำหรับการเขียนโค้ดและการทดสอบ คุณสามารถดาวน์โหลดได้ฟรีหากยังไม่ได้ติดตั้ง
 2. .NET Framework หรือ .NET Core: Aspose.Words สำหรับ .NET รองรับทั้งสองอย่าง ดังนั้นโปรดตรวจสอบให้แน่ใจว่าคุณมีเวอร์ชันที่เข้ากันได้
-3.  Aspose.Words สำหรับ .NET: ดาวน์โหลดและติดตั้งเวอร์ชันล่าสุดจาก[หน้าวางจำหน่าย Aspose](https://releases.aspose.com/words/net/).
+3. Aspose.Words สำหรับ .NET: ดาวน์โหลดและติดตั้งเวอร์ชันล่าสุดจาก[หน้าวางจำหน่าย Aspose](https://releases.aspose.com/words/net/).
 4. รหัส API ของโมเดล AI: ในการสร้างสรุป จำเป็นต้องเข้าถึง API ของโมเดล AI (เช่น OpenAI) ลงทะเบียนบนเว็บไซต์ของผู้ให้บริการ AI เพื่อรับรหัส API
 5. ความรู้พื้นฐานเกี่ยวกับ C#: ความคุ้นเคยกับการเขียนโปรแกรม C# บางส่วนจะช่วยให้คุณทำตามได้อย่างมีประสิทธิภาพ
 
@@ -39,7 +39,7 @@ url: /th/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 หากต้องการเปิดใช้งานฟังก์ชัน Aspose.Words ให้เพิ่มฟังก์ชันนี้ผ่านตัวจัดการแพ็กเกจ NuGet
 
 1. คลิกขวาที่โครงการของคุณใน Solution Explorer และเลือกจัดการแพ็คเกจ NuGet
-2.  ค้นหา`Aspose.Words`และคลิกติดตั้ง
+2.  ค้นหา`Aspose.Words` และคลิกติดตั้ง
 3. หากจำเป็น ให้ติดตั้งแพ็คเกจโมเดล AI เฉพาะใดๆ สำหรับการบูรณาการด้วย (เช่น OpenAI)
 
 ```csharp

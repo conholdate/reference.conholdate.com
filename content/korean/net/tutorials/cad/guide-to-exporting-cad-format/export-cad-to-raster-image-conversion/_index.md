@@ -15,7 +15,7 @@ Aspose.CAD for .NET을 사용하여 CAD 레이아웃을 래스터 이미지 형�
 
 시작하기 전에 다음 사항이 있는지 확인하세요.
 
--  .NET 라이브러리용 Aspose.CAD: 라이브러리를 다운로드하여 설치하세요.[Aspose.CAD 웹사이트](https://releases.aspose.com/cad/net/).
+- .NET 라이브러리용 Aspose.CAD: 라이브러리를 다운로드하여 설치하세요.[Aspose.CAD 웹사이트](https://releases.aspose.com/cad/net/).
 -  CAD 도면 파일: CAD 도면 파일(예:`conic_pyramid.dxf`) 변환 준비됨.
 
 ## 필요한 네임스페이스 가져오기

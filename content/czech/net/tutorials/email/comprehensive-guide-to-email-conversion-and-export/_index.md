@@ -13,11 +13,11 @@ Pokud jde o programové zpracování e-mailů, Aspose.Email pro .NET je velmoc. 
 
 ## Převeďte e-maily do formátu MHT s časovým pásmem v C#
 
- Jedním z nejčastějších úkolů, s nimiž se vývojáři setkávají, je převod e-mailových zpráv do různých formátů. Věděli jste, že můžete převést e-maily do formátu MHT při zachování informací o časovém pásmu? Náš průvodce krok za krokem na[převod e-mailů do formátu MHT s časovým pásmem v C#](./convert-emails-to-mht-format-with-timezone-in-csharp/) vás provede celým procesem. Každý krok rozebereme a vysvětlíme, jak toho dosáhnout pomocí knihovny Aspose.Email for .NET. Představte si, že posíláte e-mail, který si zachová veškeré původní formátování a přesnost časového pásma – už žádné další zmatky pro vaše příjemce!
+ Jedním z nejčastějších úkolů, s nimiž se vývojáři setkávají, je převod e-mailových zpráv do různých formátů. Věděli jste, že můžete převést e-maily do formátu MHT při zachování informací o časovém pásmu? Náš průvodce krok za krokem na[převod e-mailů do formátu MHT s časovým pásmem v C#](./convert-emails-to-mht-format-with-timezone-in-csharp/)vás provede celým procesem. Každý krok rozebereme a vysvětlíme, jak toho dosáhnout pomocí knihovny Aspose.Email for .NET. Představte si, že posíláte e-mail, který si zachová veškeré původní formátování a přesnost časového pásma – už žádné další zmatky pro vaše příjemce!
 
 ## Snadná konverze EML na MSG s C#
 
- Dalším častým požadavkem je převod souborů EML do formátu MSG. To může být skličující úkol, pokud nejste obeznámeni se správnými nástroji. Naštěstí náš tutoriál na[Snadná konverze EML na MSG s C#](./eml-to-msg-convert-made-easy-using-csharp/)zjednodušuje proces. Poskytujeme jasné a stručné pokyny, které vás provedou konverzí a zajistí, že porozumíte každému kroku na cestě. Berte to jako přátelského průvodce po vašem boku, který zajistí, že vám neuniknou žádné zásadní detaily. 
+ Dalším častým požadavkem je převod souborů EML do formátu MSG. To může být skličující úkol, pokud nejste obeznámeni se správnými nástroji. Naštěstí náš tutoriál na[Snadná konverze EML na MSG s C#](./eml-to-msg-convert-made-easy-using-csharp/) zjednodušuje proces. Poskytujeme jasné a stručné pokyny, které vás provedou konverzí a zajistí, že porozumíte každému kroku na cestě. Berte to jako přátelského průvodce po vašem boku, který zajistí, že vám neuniknou žádné zásadní detaily. 
 
 ## Komplexní průvodce e-mailovou konverzí a výukovým programem exportu
 ### [Převeďte e-maily do formátu MHT s časovým pásmem v C#](./convert-emails-to-mht-format-with-timezone-in-csharp/)

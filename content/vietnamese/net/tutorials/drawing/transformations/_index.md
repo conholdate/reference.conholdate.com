@@ -15,7 +15,7 @@ Bạn đã sẵn sàng đưa trò chơi đồ họa của ứng dụng .NET củ
 
 Hãy nghĩ về các phép biến đổi toàn cục như áp dụng "bộ lọc chung" cho canvas của bạn. Các phép biến đổi này ảnh hưởng đến mọi thành phần được vẽ trong ngữ cảnh đồ họa, khiến chúng trở nên hoàn hảo cho các tình huống mà bạn cần tỷ lệ, xoay hoặc dịch chuyển đồng đều trên toàn bộ thiết kế của mình. Sử dụng Aspose.Drawing cho .NET, việc thành thạo các phép biến đổi toàn cục dễ dàng hơn bao giờ hết.
 
- Ví dụ, hãy tưởng tượng bạn đang xây dựng một công cụ trực quan hóa dữ liệu có thể thay đổi kích thước biểu đồ một cách linh hoạt dựa trên kích thước màn hình. Một phép biến đổi tỷ lệ toàn cục đảm bảo mọi thứ được điều chỉnh liền mạch, duy trì tính cân xứng và tính thẩm mỹ. Bạn muốn tìm hiểu cách thực hiện? Hãy xem hướng dẫn chuyên sâu của chúng tôi về[Làm chủ các phép biến đổi toàn cục trong Aspose.Drawing cho .NET](./mastering-global-transformations/).
+Ví dụ, hãy tưởng tượng bạn đang xây dựng một công cụ trực quan hóa dữ liệu có thể thay đổi kích thước biểu đồ một cách linh hoạt dựa trên kích thước màn hình. Một phép biến đổi tỷ lệ toàn cục đảm bảo mọi thứ được điều chỉnh liền mạch, duy trì tính cân xứng và tính thẩm mỹ. Bạn muốn tìm hiểu cách thực hiện? Hãy xem hướng dẫn chuyên sâu của chúng tôi về[Làm chủ các phép biến đổi toàn cục trong Aspose.Drawing cho .NET](./mastering-global-transformations/).
 
 ## Hướng dẫn chuyển đổi cục bộ
 

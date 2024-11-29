@@ -23,7 +23,7 @@ Jakmile budete mít tyto předpoklady, můžeme začít kreslit oblouk!
 
 ## Importujte požadované jmenné prostory
 
-Nejprve musíte importovat potřebné jmenné prostory, abyste získali přístup k funkcím, které poskytuje Aspose.Imaging. Přidejte následující`using` příkazy v horní části vašeho souboru C#:
+ Nejprve musíte importovat potřebné jmenné prostory, abyste získali přístup k funkcím, které poskytuje Aspose.Imaging. Přidejte následující`using` příkazy v horní části vašeho souboru C#:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## Krok 1: Vytvořte obrázek a uložte stream
 
 ```csharp
-// Definujte adresář pro uložení obrázku
+//Definujte adresář pro uložení obrázku
 string dataDir = "Your Document Directory"; // Aktualizujte tuto cestu na preferovanou cestu
 
 // Vytvořte stream pro uložení obrázku BMP
@@ -78,7 +78,7 @@ Nyní definujeme parametry pro oblouk a nakreslíme jej:
 
 ```csharp
             // Definujte parametry pro oblouk
-            int width = 100;   //Šířka ohraničujícího obdélníku
+            int width = 100;   // Šířka ohraničujícího obdélníku
             int height = 200;  // Výška ohraničujícího obdélníku
             int startAngle = 45;  // Počáteční úhel ve stupních
             int sweepAngle = 270; // Úhel vychýlení ve stupních

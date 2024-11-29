@@ -15,7 +15,7 @@ url: /tr/net/tutorials/barcode/guide-one-dimensional-barcode-types/
 
 Hiç barkodunuzun yüksekliğinden dolayı doğru görünmediğini hissettiniz mi? Ürün etiketinize veya ambalajınıza mükemmel şekilde uyan bir barkod tasarlamayı hayal edin. Aspose.BarCode ile tek boyutlu barkodların yüksekliğini ideal bir uyum için kolayca ayarlayabilirsiniz. Kütüphane size hassas kontrol sağlayarak barkodlarınızın endüstri standartlarını karşılamasını ve her seferinde taranabilir olmasını sağlar.  
 
- Eğitim hakkında[Aspose.BarCode ile Barkod Yüksekliğini Özelleştirme](./customizing-barcode-height/) kurulumdan uygulamaya kadar bu süreçte adım adım size rehberlik eder. İster perakende etiketleri ister endüstriyel etiketler tasarlıyor olun, bu kılavuz sizi kapsar.  
+ Eğitim hakkında[Aspose.BarCode ile Barkod Yüksekliğini Özelleştirme](./customizing-barcode-height/)kurulumdan uygulamaya kadar bu süreçte adım adım size rehberlik eder. İster perakende etiketleri ister endüstriyel etiketler tasarlıyor olun, bu kılavuz sizi kapsar.  
 
 ## Aspose.BarCode for .NET ile Oluşturma ve İstisna İşleme  
 

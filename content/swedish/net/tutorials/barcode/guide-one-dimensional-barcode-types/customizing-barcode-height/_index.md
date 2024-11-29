@@ -63,7 +63,7 @@ barcodeGen.Save($"{path}BarHeight80Code128.png", BarCodeImageFormat.Png);
 
 ## Slutsats
 
-I den här handledningen lärde du dig hur du justerar höjden på en endimensionell streckkod med Aspose.BarCode för .NET. Med möjligheten att anpassa olika streckkodsegenskaper kan du skapa skräddarsydda streckkodsbilder för att möta dina specifika applikationskrav.
+den här handledningen lärde du dig hur du justerar höjden på en endimensionell streckkod med Aspose.BarCode för .NET. Med möjligheten att anpassa olika streckkodsegenskaper kan du skapa skräddarsydda streckkodsbilder för att möta dina specifika applikationskrav.
 
 ## FAQ's
 

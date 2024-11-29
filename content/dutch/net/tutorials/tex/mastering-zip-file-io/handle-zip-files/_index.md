@@ -112,4 +112,4 @@ Momenteel ondersteunt Aspose.TeX voornamelijk ZIP-archieven.
 
 ### Hoe verkrijg ik een tijdelijke licentie voor Aspose.TeX?
 
- U kunt een tijdelijke vergunning aanvragen door naar[deze link](https://purchase.conholdate.com/temporary-license/).
+ U kunt een aanvraag voor een tijdelijke vergunning indienen door naar[deze link](https://purchase.conholdate.com/temporary-license/).

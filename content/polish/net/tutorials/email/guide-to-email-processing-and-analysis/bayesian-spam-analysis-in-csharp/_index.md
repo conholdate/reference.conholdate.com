@@ -34,17 +34,17 @@ using Aspose.Email.Spam;
 
 Dzięki tym importom możesz wykorzystać możliwości Aspose.Email do analizy spamu.
 
-Teraz podzielimy proces wdrażania na jasne kroki, aby ułatwić Ci śledzenie postępów.
+Teraz podzielimy proces wdrażania na jasne kroki, aby ułatwić Ci śledzenie procesu.
 
 ## Krok 1: Załaduj e-mail
 
- Najpierw musisz załadować e-mail, który chcesz przeanalizować. Można to zrobić za pomocą`MailMessage`Klasa w bibliotece Aspose.Email. 
+ Najpierw musisz załadować e-mail, który chcesz przeanalizować. Można to zrobić za pomocą`MailMessage` Klasa w bibliotece Aspose.Email. 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- Ten`Load` Metoda pobiera ścieżkę pliku wiadomości e-mail, którą chcesz przeanalizować. Ten plik powinien być w formacie EML. Jeśli go nie masz, możesz utworzyć prosty e-mail i zapisać go jako`email.eml`.
+ Ten`Load`Metoda pobiera ścieżkę pliku wiadomości e-mail, którą chcesz przeanalizować. Ten plik powinien być w formacie EML. Jeśli go nie masz, możesz utworzyć prosty e-mail i zapisać go jako`email.eml`.
 
 ## Krok 2: Utwórz analizator spamu
 
@@ -119,7 +119,7 @@ Gratulacje! Udało Ci się wdrożyć podstawowy bayesowski model analizy spamu p
 Analiza spamu bayesowska to metoda statystyczna wykorzystywana do klasyfikowania wiadomości e-mail jako spam lub nie, na podstawie wcześniej zaobserwowanych przykładów.
 
 ### Czy muszę dostarczyć duży zbiór danych do szkolenia?
-Większy zbiór danych zazwyczaj zwiększa dokładność, ale dobry rezultat można uzyskać także, stosując niewielki, ale zróżnicowany zbiór przykładów.
+Większy zbiór danych zazwyczaj zwiększa dokładność, ale dobry wynik można również uzyskać, stosując niewielki, ale zróżnicowany zbiór przykładów.
 
 ### Czy tę metodę można zintegrować z istniejącymi aplikacjami?
 Tak! Możesz zintegrować tę funkcjonalność analizy spamu z dowolną aplikacją .NET, która przetwarza wiadomości e-mail.

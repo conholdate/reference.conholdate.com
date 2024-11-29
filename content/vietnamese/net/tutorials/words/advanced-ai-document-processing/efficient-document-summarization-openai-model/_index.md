@@ -20,7 +20,7 @@ Quản lý tài liệu hiệu quả đã trở nên không thể thiếu trong t
  Tải xuống gói Aspose.Words cho .NET từ[Trang web Aspose](https://releases.aspose.com/words/net/)và cài đặt nó vào dự án của bạn bằng Trình quản lý gói NuGet trong Visual Studio.
 
 ### Nhận Khóa API OpenAI
- Để truy cập các mô hình ngôn ngữ của OpenAI, bạn sẽ cần một khóa API. Đăng ký trên[Trang web OpenAI](https://openai.com/), lấy lại khóa của bạn và giữ an toàn cho quá trình tích hợp.
+ Để truy cập các mô hình ngôn ngữ của OpenAI, bạn sẽ cần một khóa API. Đăng ký trên[Trang web OpenAI](https://openai.com/)lấy lại khóa của bạn và giữ an toàn cho quá trình tích hợp.
 
 ### Môi trường phát triển tích hợp
 Sử dụng Visual Studio làm IDE sẽ đơn giản hóa quá trình mã hóa và gỡ lỗi.

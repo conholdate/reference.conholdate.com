@@ -15,7 +15,7 @@ url: /fr/net/tutorials/drawing/transformations/
 
 Considérez les transformations globales comme l'application d'un « filtre universel » à votre zone de dessin. Ces transformations affectent chaque élément dessiné dans un contexte graphique, ce qui les rend parfaites pour les scénarios où vous avez besoin d'une mise à l'échelle, d'une rotation ou d'une translation uniformes dans votre conception. Grâce à Aspose.Drawing pour .NET, maîtriser les transformations globales est plus facile que jamais.
 
- Par exemple, imaginez que vous créez un outil de visualisation de données qui redimensionne dynamiquement les graphiques en fonction des dimensions de l'écran. Une transformation à l'échelle globale garantit que tout s'ajuste de manière transparente, en préservant la proportionnalité et l'esthétique. Vous voulez savoir comment ? Consultez notre tutoriel dédié sur[Maîtriser les transformations globales dans Aspose.Drawing pour .NET](./mastering-global-transformations/).
+Par exemple, imaginez que vous créez un outil de visualisation de données qui redimensionne dynamiquement les graphiques en fonction des dimensions de l'écran. Une transformation à l'échelle globale garantit que tout s'ajuste de manière transparente, en préservant la proportionnalité et l'esthétique. Vous voulez savoir comment ? Consultez notre tutoriel dédié sur[Maîtriser les transformations globales dans Aspose.Drawing pour .NET](./mastering-global-transformations/).
 
 ## Guide des transformations locales
 

@@ -17,7 +17,7 @@ Untuk memulai, pastikan Anda memiliki hal-hal berikut:
 
 1. Visual Studio: Diperlukan untuk pengodean dan pengujian. Anda dapat mengunduhnya secara gratis jika belum menginstalnya.
 2. .NET Framework atau .NET Core: Aspose.Words untuk .NET mendukung keduanya, jadi pastikan Anda memiliki versi yang kompatibel.
-3.  Aspose.Words untuk .NET: Unduh dan instal versi terbaru dari[Aspose merilis halaman](https://releases.aspose.com/words/net/).
+3. Aspose.Words untuk .NET: Unduh dan instal versi terbaru dari[Aspose merilis halaman](https://releases.aspose.com/words/net/).
 4. Kunci API Model AI: Untuk membuat ringkasan, diperlukan akses ke API model AI (misalnya, OpenAI). Daftar di situs penyedia AI untuk mendapatkan kunci API.
 5. Pengetahuan Dasar C#: Sedikit pengetahuan tentang pemrograman C# akan membantu Anda mengikutinya secara efektif.
 
@@ -39,7 +39,7 @@ Mari kita telusuri langkah-langkah untuk membuat dan mengonfigurasi aplikasi kon
 Untuk mengaktifkan fungsionalitas Aspose.Words, tambahkan melalui manajer paket NuGet.
 
 1. Klik kanan pada proyek Anda di Solution Explorer, dan pilih Kelola Paket NuGet.
-2.  Pencarian untuk`Aspose.Words`dan klik Instal.
+2.  Pencarian untuk`Aspose.Words` dan klik Instal.
 3. Jika diperlukan, instal juga paket model AI spesifik untuk integrasi (misalnya, OpenAI).
 
 ```csharp

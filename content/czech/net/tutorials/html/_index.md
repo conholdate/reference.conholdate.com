@@ -23,4 +23,4 @@ Jak často jste zápasili s formáty souborů, abyste nakonec byli frustrovaní?
 ### [Zvládnutí HTML rozšíření a konverzí](./mastering-html-extensions-and-conversions/)
 Odemkněte sílu Aspose.HTML pro .NET pomocí našich výukových programů o převodu HTML na GIF a PDF. Transformujte své dokumenty bez námahy.
 ### [Převod HTML dokumentů](./converting-html-documents/)
-Ovládněte konverze dokumentů HTML pomocí Aspose.HTML pro .NET! Naučte se snadno převádět HTML na PNG a EPUB na XPS pomocí našich jednoduchých průvodců.
+Ovládněte konverze dokumentů HTML pomocí Aspose.HTML pro .NET! Naučte se snadno převádět HTML do PNG a EPUB do XPS pomocí našich jednoduchých průvodců.

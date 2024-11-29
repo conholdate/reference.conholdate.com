@@ -15,7 +15,7 @@ Praca z długimi dokumentami często wiąże się z przeszukiwaniem gęstych inf
 
 Zanim zaczniesz, upewnij się, że masz następujące rzeczy:
 
-1.  Biblioteka Aspose.Words dla .NET: Pobierz ją z[Wydania Aspose'a](https://releases.aspose.com/words/net/).
+1. Biblioteka Aspose.Words dla .NET: Pobierz ją z[Wydania Aspose'a](https://releases.aspose.com/words/net/).
 2. Środowisko .NET: skonfiguruj środowisko programistyczne .NET, np. Visual Studio.
 3. Podstawowa wiedza o języku C#: Ten samouczek obejmuje kodowanie, więc znajomość składni języka C# będzie korzystna.
 4. Klucz API modelu AI: Uzyskaj klucz API dla preferowanego modelu podsumowania AI (np. GPT-4), ponieważ użyjemy go do generowania podsumowań.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Krok 2: Załaduj dokumenty do podsumowania
 
- Załaduj dokumenty, które planujesz podsumować. Użyj`Document` klasa w Aspose.Words umożliwiająca dostęp do plików Word:
+ Załaduj dokumenty, które planujesz podsumować. Użyj`Document`klasa w Aspose.Words umożliwiająca dostęp do plików Word:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- Ten`Gpt4OMini` model jest inicjowany za pomocą klucza API w celu przetworzenia podsumowania dokumentu. Pamiętaj o zastąpieniu`"API_KEY"` Twoim rzeczywistym kluczem API.
+ Ten`Gpt4OMini` model jest inicjowany za pomocą klucza API w celu przetworzenia podsumowania dokumentu. Pamiętaj o zastąpieniu`"API_KEY"` z Twoim rzeczywistym kluczem API.
 
 ## Krok 4: Podsumowanie pojedynczego dokumentu
 

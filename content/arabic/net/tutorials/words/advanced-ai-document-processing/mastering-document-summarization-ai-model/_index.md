@@ -17,7 +17,7 @@ url: /ar/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 
 1. Visual Studio: مطلوب للترميز والاختبار. يمكنك تنزيله مجانًا إذا لم يكن مثبتًا لديك بالفعل.
 2. .NET Framework أو .NET Core: يدعم Aspose.Words لـ .NET كليهما، لذا تأكد من أن لديك إصدارًا متوافقًا.
-3.  Aspose.Words for .NET: قم بتنزيل أحدث إصدار من البرنامج وتثبيته[صفحة إصدارات Aspose](https://releases.aspose.com/words/net/).
+3. Aspose.Words for .NET: قم بتنزيل أحدث إصدار من البرنامج وتثبيته[صفحة إصدارات Aspose](https://releases.aspose.com/words/net/).
 4. مفتاح واجهة برمجة تطبيقات نموذج الذكاء الاصطناعي: لإنشاء الملخصات، يلزم الوصول إلى واجهة برمجة تطبيقات نموذج الذكاء الاصطناعي (على سبيل المثال، OpenAI). قم بالتسجيل على موقع مزود الذكاء الاصطناعي للحصول على مفتاح واجهة برمجة التطبيقات.
 5. المعرفة الأساسية بلغة C#: بعض المعرفة ببرمجة C# سوف تساعدك على المتابعة بفعالية.
 
@@ -39,7 +39,7 @@ url: /ar/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 لتفعيل وظيفة Aspose.Words، قم بإضافتها عبر مدير الحزم NuGet.
 
 1. انقر بزر الماوس الأيمن على مشروعك في مستكشف الحلول، واختر إدارة حزم NuGet.
-2.  بحث عن`Aspose.Words`وانقر على تثبيت.
+2.  بحث عن`Aspose.Words` وانقر على تثبيت.
 3. إذا لزم الأمر، قم أيضًا بتثبيت أي حزم نموذج ذكاء اصطناعي محددة للتكامل (على سبيل المثال، OpenAI).
 
 ```csharp

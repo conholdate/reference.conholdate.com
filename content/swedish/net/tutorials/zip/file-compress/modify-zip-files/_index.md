@@ -112,7 +112,7 @@ outer.Save(dataDir + "flatten.zip");
 
 ## Slutsats
 
-Aspose.Zip för .NET ger ett kraftfullt och enkelt sätt att manipulera zip-filer programmatiskt. Den här handledningen behandlade att extrahera, ta bort och lägga till poster i en zip-fil, vilket illustrerar bibliotekets mångsidighet. Utforska olika scenarier och förbättra dina filmanipuleringsfärdigheter!
+Aspose.Zip för .NET ger ett kraftfullt och enkelt sätt att manipulera zip-filer programmatiskt. Denna handledning omfattade extrahering, radering och tillägg av poster till en zip-fil, vilket illustrerar bibliotekets mångsidighet. Utforska olika scenarier och förbättra dina färdigheter i filmanipulering!
 
 ## FAQ's
 

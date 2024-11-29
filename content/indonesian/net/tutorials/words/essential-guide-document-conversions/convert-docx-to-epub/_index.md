@@ -16,7 +16,7 @@ Dalam pengembangan .NET, penanganan dokumen Word secara efisien sangatlah pentin
 Sebelum memulai proses konversi, pastikan Anda memiliki hal berikut:
 
 - Lingkungan Pengembangan: Visual Studio atau IDE .NET lain yang terpasang.
-- Aspose.Words untuk .NET: Unduh dan instal dari[Situs web Aspose](https://releases.aspose.com/words/net/).
+-  Aspose.Words untuk .NET: Unduh dan instal dari[Situs web Aspose](https://releases.aspose.com/words/net/).
 - Berkas Dokumen: Siapkan berkas DOCX yang ingin Anda konversi.
 
 ## Langkah 1: Impor Namespace yang Diperlukan

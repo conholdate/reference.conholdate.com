@@ -23,7 +23,7 @@ Setelah Anda memiliki prasyarat ini, kita dapat mulai menggambar busur!
 
 ## Mengimpor Ruang Nama yang Diperlukan
 
-Pertama, Anda perlu mengimpor namespace yang diperlukan untuk mengakses fungsionalitas yang disediakan oleh Aspose.Imaging. Tambahkan yang berikut ini`using` pernyataan di bagian atas file C# Anda:
+ Pertama, Anda perlu mengimpor namespace yang diperlukan untuk mengakses fungsionalitas yang disediakan oleh Aspose.Imaging. Tambahkan yang berikut ini`using` pernyataan di bagian atas file C# Anda:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## Langkah 1: Buat Gambar dan Simpan Aliran
 
 ```csharp
-// Tentukan direktori untuk menyimpan gambar
+//Tentukan direktori untuk menyimpan gambar
 string dataDir = "Your Document Directory"; // Perbarui ini ke jalur pilihan Anda
 
 // Buat aliran untuk menyimpan gambar BMP
@@ -78,7 +78,7 @@ Sekarang, mari kita tentukan parameter untuk busur dan menggambarnya:
 
 ```csharp
             // Tentukan parameter untuk busur
-            int width = 100;   //Lebar persegi panjang pembatas
+            int width = 100;   // Lebar persegi panjang pembatas
             int height = 200;  // Tinggi persegi panjang pembatas
             int startAngle = 45;  // Sudut awal dalam derajat
             int sweepAngle = 270; // Sudut sapuan dalam derajat

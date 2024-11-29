@@ -9,7 +9,7 @@ url: /pl/net/tutorials/words/essential-guide-document-conversions/convert-pdf-to
 ---
 ## Wstęp
 
-Czy kiedykolwiek czułeś frustrację podczas próby konwersji formatów plików, szczególnie jeśli chodzi o pliki PDF i dokumenty Word? Jeśli tak, nie jesteś sam. Wielu z nas stanęło przed wyzwaniem konwersji pliku PDF do dokumentu Word (Docx) i pragnęło łatwiejszego rozwiązania. Cóż, nie bój się — Aspose.Words dla .NET jest tutaj, aby uratować dzień! W tym przewodniku przeprowadzimy Cię przez prosty, krok po kroku proces konwersji pliku PDF do dokumentu Word przy użyciu Aspose.Words dla .NET. Gotowy, aby uprościć zarządzanie dokumentami.
+Czy kiedykolwiek czułeś frustrację podczas próby konwersji formatów plików, szczególnie jeśli chodzi o pliki PDF i dokumenty Word? Jeśli tak, nie jesteś sam. Wielu z nas stanęło przed wyzwaniem konwersji pliku PDF do dokumentu Word (Docx) i pragnęło łatwiejszego rozwiązania. Cóż, nie obawiaj się — Aspose.Words dla .NET jest tutaj, aby uratować dzień! W tym przewodniku przeprowadzimy Cię przez prosty, krok po kroku proces konwersji pliku PDF do dokumentu Word przy użyciu Aspose.Words dla .NET. Gotowy, aby uprościć zarządzanie dokumentami.
 
 ## Wymagania wstępne
 
@@ -41,7 +41,7 @@ Teraz podzielimy proces konwersji na łatwiejsze do opanowania kroki.
 
 ## Krok 1: Konfigurowanie katalogu projektu
 
-Najpierw musimy określić ścieżkę do naszego katalogu dokumentów. To jest miejsce, w którym znajduje się Twój plik PDF i gdzie zostanie zapisany przekonwertowany dokument Word.
+Najpierw musimy określić ścieżkę do katalogu naszych dokumentów. To jest miejsce, w którym znajduje się Twój plik PDF i gdzie zostanie zapisany przekonwertowany dokument Word.
 
 ```csharp
 // Ścieżka do katalogu dokumentów.

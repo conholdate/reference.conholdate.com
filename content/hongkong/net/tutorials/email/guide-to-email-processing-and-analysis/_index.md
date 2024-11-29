@@ -19,6 +19,6 @@ HTML 電子郵件通常包含複雜的格式，無法在不同平台之間轉換
 
 ## .NET 教程中的電子郵件處理和分析綜合指南
 ### [C# 教學中的貝葉斯垃圾郵件分析](./bayesian-spam-analysis-in-csharp/)
-學習使用 Aspose.Email 在 C# 中實現貝葉斯垃圾郵件分析。包含程式碼見解的逐步教程，可實現有效的電子郵件過濾。
+學習使用 Aspose.Email 在 C# 中實現貝葉斯垃圾郵件分析。逐步教程，提供有效電子郵件過濾的程式碼見解。
 ### [在 C# 中將 HTML 電子郵件轉換為純文字](./convert-html-email-to-plain-text/)
 在此詳細的逐步教學中，了解如何使用 Aspose.Email for .NET 將 HTML 電子郵件正文輕鬆轉換為純文字。

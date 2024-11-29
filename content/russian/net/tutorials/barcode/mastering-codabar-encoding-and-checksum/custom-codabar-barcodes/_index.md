@@ -15,7 +15,7 @@ url: /ru/net/tutorials/barcode/mastering-codabar-encoding-and-checksum/custom-co
 
 Прежде чем начать, убедитесь, что у вас есть следующее:
 
-1. Среда разработки: рабочая среда .NET, установленная на вашем компьютере. Если вам нужна помощь, обратитесь к[Документация Aspose](https://reference.aspose.com/barcode/net/).
+1.  Среда разработки: рабочая среда .NET, установленная на вашем компьютере. Если вам нужна помощь, обратитесь к[Документация Aspose](https://reference.aspose.com/barcode/net/).
    
 2.  Библиотека Aspose.BarCode для .NET: Загрузите и установите библиотеку с сайта[Страница релизов Aspose](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## Шаг 1: Инициализация генератора штрихкодов
 
- Начните с создания экземпляра`BarcodeGenerator`, указав тип штрихкода как Codabar и данные для кодирования. Вот пример:
+ Начните с создания экземпляра`BarcodeGenerator`указав тип штрихкода как Codabar и данные для кодирования. Вот пример:
 
 ```csharp
 string path = "Your Directory Path"; // Укажите ваш каталог здесь

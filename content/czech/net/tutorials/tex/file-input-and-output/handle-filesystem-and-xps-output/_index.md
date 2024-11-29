@@ -21,7 +21,7 @@ Než začneme, ujistěte se, že máte následující:
 
 ## Importujte požadované jmenné prostory
 
-Začněte importováním potřebných jmenných prostorů do vašeho projektu .NET. Přidejte následující řádky na začátek kódu:
+Začněte importováním potřebných jmenných prostorů do vašeho projektu .NET. Na začátek kódu přidejte následující řádky:
 
 ```csharp
 using Aspose.TeX.IO;
@@ -98,7 +98,7 @@ Absolutně! Aspose.TeX podporuje různé výstupní formáty, což vám umožňu
 
 ### Kde najdu další dokumentaci?
 
- Podrobné informace naleznete na[Dokumentace Aspose.TeX pro .NET](https://reference.aspose.com/tex/net/).
+ Podrobné informace naleznete v[Dokumentace Aspose.TeX pro .NET](https://reference.aspose.com/tex/net/).
 
 ### Jak mohu získat podporu komunity nebo klást otázky?
 

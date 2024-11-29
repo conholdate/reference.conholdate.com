@@ -17,7 +17,7 @@ Excel elektronik tablolarındaki grafikleri .NET ortamında PDF formatına dön�
 .NET Framework veya .NET Core'un yüklü olduğundan emin olun. Bu ortamların ikisi de Aspose.Cells ile uyumludur, bu nedenle projenize en uygun olanı kullanabilirsiniz.
 
 ### Aspose.Cells Kütüphane Kurulumu
-Aspose.Cells kütüphanesi, grafikten PDF'e dönüşümler için olmazsa olmazdır. En son sürümü şu adresten edinin:[Aspose indirme sayfası](https://releases.aspose.com/cells/net/).
+ Aspose.Cells kütüphanesi, grafikten PDF'e dönüşümler için olmazsa olmazdır. En son sürümü şu adresten edinin:[Aspose indirme sayfası](https://releases.aspose.com/cells/net/).
 
 ### Temel C# Bilgisi
 C# hakkında temel bir anlayışa sahip olmak kodlama sürecini kolaylaştıracaktır. Yeni başlayan biriyseniz endişelenmeyin; bu kılavuz takip etmesi kolay kod örnekleri içerir.
@@ -82,7 +82,7 @@ Bu kod ilk çalışma sayfasına erişir. Grafiğiniz başka bir sayfadaysa dizi
 Daha sonra, seçtiğiniz çalışma sayfasından dönüştürmek istediğiniz belirli grafiğe erişin.
 
 ```csharp
-//Çalışma sayfasındaki ilk tabloya erişin
+// Çalışma sayfasındaki ilk tabloya erişin
 Chart chart = worksheet.Charts[0];
 ```
 

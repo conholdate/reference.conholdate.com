@@ -68,7 +68,7 @@ string apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
 
 ## 步骤4：初始化OpenAI模型
 
-创建 OpenAI 模型的实例以进行总结。在这里，我们使用`Gpt4OMini`使摘要简洁但富有洞察力。
+创建 OpenAI 模型的实例以进行总结。在这里，我们使用`Gpt4OMini`保持摘要简洁但富有洞察力。
 
 ```csharp
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);

@@ -81,7 +81,7 @@ Gratulálok! Ön éppen most konvertált egy Word-dokumentumot PDF-be az Aspose.
 
 ### Az Aspose.Words for .NET konvertálhat más formátumokat PDF-be?
 
-Igen! Különféle formátumokat támogat, beleértve a DOCX, RTF, ODT és HTML formátumokat.
+Igen! Különféle formátumokat támogat, beleértve a DOCX-et, az RTF-et, az ODT-t és a HTML-t.
 
 ### Van ingyenes próbaverzió?
 
@@ -93,7 +93,7 @@ Igen! Különféle formátumokat támogat, beleértve a DOCX, RTF, ODT és HTML 
 
 ### Az Aspose.Words kompatibilis a .NET Core-al?
 
-Igen, az Aspose.Words zökkenőmentesen működik a .NET-keretrendszerrel és a .NET Core-al is.
+Igen, az Aspose.Words zökkenőmentesen működik a .NET-keretrendszerrel és a .NET Core-val is.
 
 ### Kaphatok ideiglenes engedélyt?
 

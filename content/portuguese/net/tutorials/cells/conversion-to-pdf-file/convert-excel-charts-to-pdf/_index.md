@@ -17,7 +17,7 @@ Você precisa de um guia para converter gráficos de planilhas do Excel para o f
 Certifique-se de ter instalado o .NET Framework ou o .NET Core. Esses ambientes são compatíveis com o Aspose.Cells, então você pode usar o que melhor se adequar ao seu projeto.
 
 ### Instalação da biblioteca Aspose.Cells
- biblioteca Aspose.Cells é essencial para conversões de gráficos para PDF. Obtenha a versão mais recente do[Página de download do Aspose](https://releases.aspose.com/cells/net/).
+ A biblioteca Aspose.Cells é essencial para conversões de gráficos para PDF. Obtenha a versão mais recente do[Página de download do Aspose](https://releases.aspose.com/cells/net/).
 
 ### Conhecimento básico de C#
 Ter um entendimento fundamental de C# tornará o processo de codificação mais fácil. Não se preocupe se você for iniciante; este guia inclui exemplos de código que são fáceis de seguir.
@@ -82,7 +82,7 @@ Este código acessa a primeira planilha. Altere o índice se seu gráfico estive
 Em seguida, acesse o gráfico específico que você deseja converter da planilha escolhida.
 
 ```csharp
-//Acesse o primeiro gráfico na planilha
+// Acesse o primeiro gráfico na planilha
 Chart chart = worksheet.Charts[0];
 ```
 

@@ -13,11 +13,11 @@ Trong thế giới dữ liệu không gian địa lý luôn thay đổi, việc 
 
 ## Chuyển đổi GeoJSON sang TopoJSON
 
- GeoJSON và TopoJSON là những định dạng phổ biến trong cộng đồng GIS, nhưng mỗi định dạng đều có những lợi ích riêng. GeoJSON đơn giản và dễ đọc, rất phù hợp cho các ứng dụng web, trong khi TopoJSON giảm kích thước tệp bằng cách mã hóa cấu trúc, có thể thay đổi hiệu suất. Hướng dẫn của chúng tôi về[Chuyển đổi GeoJSON sang TopoJSON](./converting-geojson-to-topojson/)hướng dẫn bạn qua quy trình thiết lập và cung cấp các ví dụ mã từng bước để đảm bảo bạn có thể bắt đầu và chạy ngay lập tức. Bạn cần trợ giúp cài đặt? Chúng tôi sẽ hỗ trợ bạn!
+ GeoJSON và TopoJSON là những định dạng phổ biến trong cộng đồng GIS, nhưng mỗi định dạng đều có những lợi ích riêng. GeoJSON đơn giản và dễ đọc, rất phù hợp cho các ứng dụng web, trong khi TopoJSON giảm kích thước tệp bằng cách mã hóa cấu trúc, có thể thay đổi hiệu suất. Hướng dẫn của chúng tôi về[Chuyển đổi GeoJSON sang TopoJSON](./converting-geojson-to-topojson/) hướng dẫn bạn qua quy trình thiết lập và cung cấp các ví dụ mã từng bước để đảm bảo bạn có thể bắt đầu và chạy ngay lập tức. Bạn cần trợ giúp cài đặt? Chúng tôi sẽ hỗ trợ bạn!
 
 ## Chuyển đổi Shapefiles thành GeoJSON
 
- Shapefile là thành phần chính trong GIS, nhưng việc chuyển đổi chúng thành GeoJSON có thể mở ra những hướng đi mới cho việc sử dụng dữ liệu, đặc biệt là trong lập bản đồ web. Hướng dẫn của chúng tôi về[Chuyển đổi Shapefiles sang GeoJSON](./converting-shapefile-to-geojson/) hướng dẫn bạn thực hiện toàn bộ quy trình. Chúng tôi bắt đầu với những điều cần thiết để bắt đầu, sau đó đi sâu vào các ví dụ mã rõ ràng, súc tích giúp quá trình chuyển đổi trở nên đơn giản. Bạn có thắc mắc trong quá trình thực hiện không? Hướng dẫn này được thiết kế để giải quyết những rào cản phổ biến mà bạn có thể gặp phải.
+Shapefile là thành phần chính trong GIS, nhưng việc chuyển đổi chúng thành GeoJSON có thể mở ra những hướng đi mới cho việc sử dụng dữ liệu, đặc biệt là trong lập bản đồ web. Hướng dẫn của chúng tôi về[Chuyển đổi Shapefiles sang GeoJSON](./converting-shapefile-to-geojson/) hướng dẫn bạn thực hiện toàn bộ quy trình. Chúng tôi bắt đầu với những điều cần thiết để bắt đầu, sau đó đi sâu vào các ví dụ mã rõ ràng, súc tích giúp quá trình chuyển đổi trở nên đơn giản. Bạn có thắc mắc trong quá trình thực hiện không? Hướng dẫn này được thiết kế để giải quyết những rào cản phổ biến mà bạn có thể gặp phải.
 
 ## Hướng dẫn chuyển đổi dữ liệu địa lý
 ### [Chuyển đổi GeoJSON sang TopoJSON với Aspose.GIS cho .NET](./converting-geojson-to-topojson/)

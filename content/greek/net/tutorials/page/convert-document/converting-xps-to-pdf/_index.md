@@ -110,8 +110,8 @@ document.Save(device, options);
 
 ### Υπάρχει διαθέσιμη δοκιμαστική έκδοση για το Aspose.Page για .NET;
 
-Ναι, μπορείτε να δοκιμάσετε το Aspose.Page για .NET με διαθέσιμη δωρεάν δοκιμή[εδώ](https://releases.aspose.com/).
+ Ναι, μπορείτε να δοκιμάσετε το Aspose.Page για .NET με διαθέσιμη δωρεάν δοκιμή[εδώ](https://releases.aspose.com/).
 
 ### Πού μπορώ να βρω υποστήριξη κοινότητας για το Aspose.Page για .NET;
 
- Για συζητήσεις και υποστήριξη της κοινότητας, επισκεφθείτε το[Aspose.Page φόρουμ](https://forum.aspose.com/c/page/39).
+Για συζητήσεις και υποστήριξη της κοινότητας, επισκεφθείτε το[Aspose.Page φόρουμ](https://forum.aspose.com/c/page/39).

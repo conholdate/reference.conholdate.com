@@ -13,7 +13,7 @@ La modélisation 3D peut sembler intimidante à première vue, n'est-ce pas ? Ma
 
 ## Créer des modèles 3D primitifs
 
- Chaque artiste a besoin d'une base solide, et quelle meilleure façon de commencer que de créer des formes primitives ? Dans notre tutoriel sur[création de modèles 3D primitifs](./create-primitive-3d-modeling/), vous apprendrez à construire des objets de base comme des boîtes, des sphères et des cylindres. Ces formes sont les éléments de base de modèles plus complexes et sont parfaites pour tous ceux qui débutent.
+ Chaque artiste a besoin d'une base solide, et quelle meilleure façon de commencer que de créer des formes primitives ? Dans notre tutoriel sur[création de modèles 3D primitifs](./create-primitive-3d-modeling/)vous apprendrez à construire des objets de base comme des boîtes, des sphères et des cylindres. Ces formes sont les éléments de base de modèles plus complexes et sont parfaites pour tous ceux qui débutent.
 
 Nous vous guiderons pas à pas tout au long du processus, en décomposant chaque action afin que vous puissiez suivre facilement. Imaginez que vous construisez une maison. Tout d'abord, vous posez les fondations avec des blocs simples. De même, dans notre tutoriel, vous poserez le sol avec des formes primitives, ce qui permettra à votre créativité de s'épanouir lorsque vous les personnaliserez plus tard avec des textures et des couleurs. 
 

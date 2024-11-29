@@ -39,7 +39,7 @@ Document doc = new Document(dataDir + "AddTOC.pdf");
 
 ## Stap 2: Voeg een nieuwe pagina in voor de inhoudsopgave
 
-Voeg een nieuwe pagina in aan het begin van het PDF-document. Deze pagina zal dienen als de Inhoudsopgave (TOC).
+Voeg een nieuwe pagina in aan het begin van het PDF-document. Deze pagina zal dienen als de inhoudsopgave (TOC).
 
 ```csharp
 Page tocPage = doc.Pages.Insert(1);

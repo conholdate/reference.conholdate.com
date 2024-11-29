@@ -49,7 +49,7 @@ BarcodeGenerator barcodeGen = new BarcodeGenerator(EncodeTypes.Code128, "ASPOSE"
 
 ## Stap 3: Pas de hoogte van de barcode aan
 
- Deze stap omvat het aanpassen van de hoogte van de streepjescode met behulp van de`BarHeight` eigenschap. We laten zien hoe je twee barcode-afbeeldingen met verschillende hoogtes maakt: 40 pixels en 80 pixels.
+ Deze stap omvat het aanpassen van de hoogte van de barcode met behulp van de`BarHeight` eigenschap. We laten zien hoe je twee barcode-afbeeldingen met verschillende hoogtes maakt: 40 pixels en 80 pixels.
 
 ```csharp
 // Pas de hoogte aan naar 40 pixels

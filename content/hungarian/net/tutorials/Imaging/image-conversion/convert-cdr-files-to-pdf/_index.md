@@ -9,7 +9,7 @@ url: /hu/net/tutorials/imaging/image-conversion/convert-cdr-files-to-pdf/
 ---
 ## Bevezetés
 
-A grafikai tervezésben és a dokumentumfeldolgozásban általános követelmény a CorelDRAW (CDR) fájlok PDF formátumba konvertálása. Az Aspose.Imaging for .NET hatékony módot biztosít az átalakítás végrehajtására. Ez az oktatóanyag lépésenkénti útmutatót kínál kódpéldákkal kiegészítve a gördülékeny folyamat érdekében.
+grafikai tervezésben és a dokumentumfeldolgozásban általános követelmény a CorelDRAW (CDR) fájlok PDF formátumba konvertálása. Az Aspose.Imaging for .NET hatékony módot biztosít az átalakítás végrehajtására. Ez az oktatóanyag lépésenkénti útmutatót kínál kódpéldákkal kiegészítve a gördülékeny folyamat érdekében.
 
 ## Előfeltételek
 

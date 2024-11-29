@@ -23,7 +23,7 @@ Aspose.Imaging for .NET은 이미지 처리 작업을 위해 설계된 고급 �
 
 ## 필요한 네임스페이스 가져오기
 
-먼저 Aspose.Imaging에서 제공하는 기능에 액세스하는 데 필요한 네임스페이스를 가져와야 합니다. 다음을 추가합니다.`using` C# 파일 맨 위에 있는 문장:
+ 먼저 Aspose.Imaging에서 제공하는 기능에 액세스하는 데 필요한 네임스페이스를 가져와야 합니다. 다음을 추가합니다.`using` C# 파일 맨 위에 있는 문장:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## 1단계: 이미지 생성 및 스트림 저장
 
 ```csharp
-// 이미지를 저장할 디렉토리를 정의하세요
+//이미지를 저장할 디렉토리를 정의하세요
 string dataDir = "Your Document Directory"; // 이것을 원하는 경로로 업데이트하세요
 
 // BMP 이미지를 저장하기 위한 스트림을 생성합니다.
@@ -78,7 +78,7 @@ using (FileStream stream = new FileStream(Path.Combine(dataDir, "DrawingArc_out.
 
 ```csharp
             // 호에 대한 매개변수 정의
-            int width = 100;   //경계 사각형의 너비
+            int width = 100;   // 경계 사각형의 너비
             int height = 200;  // 경계 사각형의 높이
             int startAngle = 45;  // 시작 각도 (도)
             int sweepAngle = 270; // 스윕 각도 (도)

@@ -15,7 +15,7 @@ Wilt u CAD-lay-outs moeiteloos omzetten naar rasterafbeeldingsformaten met Aspos
 
 Zorg ervoor dat u het volgende bij de hand hebt voordat u begint:
 
--  Aspose.CAD voor .NET-bibliotheek: Download en installeer de bibliotheek van de[Aspose.CAD-website](https://releases.aspose.com/cad/net/).
+- Aspose.CAD voor .NET-bibliotheek: Download en installeer de bibliotheek van de[Aspose.CAD-website](https://releases.aspose.com/cad/net/).
 -  CAD-tekeningbestand: Zorg dat u uw CAD-tekeningbestand (bijv.`conic_pyramid.dxf`) klaar voor conversie.
 
 ## Vereiste naamruimten importeren

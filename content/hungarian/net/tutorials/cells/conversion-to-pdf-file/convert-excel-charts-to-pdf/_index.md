@@ -17,7 +17,7 @@ url: /hu/net/tutorials/cells/conversion-to-pdf-file/convert-excel-charts-to-pdf/
 Győződjön meg arról, hogy a .NET Framework vagy a .NET Core telepítve van. Ezek a környezetek egyaránt kompatibilisek az Aspose.Cells-szel, így azt használhatja, amelyik a legjobban megfelel a projektjének.
 
 ### Aspose.Cells Library telepítése
-Az Aspose.Cells könyvtár nélkülözhetetlen a diagramból PDF-be konvertáláshoz. Szerezd meg a legújabb verziót a[Aspose letöltési oldal](https://releases.aspose.com/cells/net/).
+ Az Aspose.Cells könyvtár nélkülözhetetlen a diagramból PDF-be konvertáláshoz. Szerezd meg a legújabb verziót a[Aspose letöltési oldal](https://releases.aspose.com/cells/net/).
 
 ### Alapvető C# ismeretek
 A C# alapvető ismerete megkönnyíti a kódolási folyamatot. Ne aggódjon, ha kezdő vagy; ez az útmutató könnyen követhető kódpéldákat tartalmaz.
@@ -82,7 +82,7 @@ Ez a kód eléri az első munkalapot. Módosítsa az indexet, ha a diagram egy m
 Ezután nyissa meg a konvertálni kívánt diagramot a kiválasztott munkalapról.
 
 ```csharp
-//Nyissa meg a munkalap első diagramját
+// Nyissa meg a munkalap első diagramját
 Chart chart = worksheet.Charts[0];
 ```
 

@@ -74,7 +74,7 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- Esta seção demonstra como criar um`Graphics` objeto, limpe a superfície e adicione dois retângulos com cores e posições distintas. Quando seus desenhos estiverem completos, salve a imagem para persistir suas alterações.
+Esta seção demonstra como criar um`Graphics` objeto, limpe a superfície e adicione dois retângulos com cores e posições distintas. Quando seus desenhos estiverem completos, salve a imagem para persistir suas alterações.
 
 ## Etapa 4: Salve a imagem
 

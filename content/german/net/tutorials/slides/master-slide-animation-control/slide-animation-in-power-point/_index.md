@@ -15,7 +15,7 @@ Wenn Sie Ihre Präsentationen mit fesselnden Folienanimationen aufwerten, könne
 Bevor wir mit dem Tutorial beginnen, stellen Sie sicher, dass Sie über Folgendes verfügen:
 
 1.  Aspose.Slides für .NET-Bibliothek: Laden Sie die Bibliothek herunter und installieren Sie sie von der[Aspose-Downloadseite](https://releases.aspose.com/slides/net/).
-2.  Dokumentverzeichnis: Erstellen Sie ein Verzeichnis zum Speichern Ihrer Präsentationsdateien. Aktualisieren Sie das`dataDir` Variable in den Codeausschnitten mit dem Pfad zu Ihrem Dokumentverzeichnis.
+2. Dokumentverzeichnis: Erstellen Sie ein Verzeichnis zum Speichern Ihrer Präsentationsdateien. Aktualisieren Sie das`dataDir` Variable in den Codeausschnitten mit dem Pfad zu Ihrem Dokumentverzeichnis.
 
 ## Namespaces importieren
 
@@ -33,7 +33,7 @@ using Aspose.Slides.SlideShow;
 ```csharp
 using (Presentation pres = new Presentation(dataDir + "BetterSlideTransitions.pptx"))
 {
-    //Code für Folienanimationen kommt hier rein
+    // Code für Folienanimationen kommt hier rein
 }
 ```
 
@@ -85,7 +85,7 @@ Durch das Animieren von Folien in Ihren Präsentationen erhalten Sie eine dynami
 
 ### Kann ich die Übergangseffekte weiter anpassen?
 
-Absolut! Aspose.Slides bietet eine große Auswahl an Übergangstypen und zusätzlichen Eigenschaften zur Anpassung. Weitere Einzelheiten finden Sie im[Dokumentation](https://reference.aspose.com/slides/net/).
+ Absolut! Aspose.Slides bietet eine große Auswahl an Übergangstypen und zusätzlichen Eigenschaften zur Anpassung. Weitere Einzelheiten finden Sie im[Dokumentation](https://reference.aspose.com/slides/net/).
 
 ### Gibt es eine kostenlose Testversion?
 

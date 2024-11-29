@@ -15,7 +15,7 @@ url: /ru/net/tutorials/cad/guide-to-exporting-cad-format/export-cad-to-raster-im
 
 Прежде чем начать, убедитесь, что у вас есть следующее:
 
--  Библиотека Aspose.CAD для .NET: Загрузите и установите библиотеку с сайта[Сайт Aspose.CAD](https://releases.aspose.com/cad/net/).
+- Библиотека Aspose.CAD для .NET: Загрузите и установите библиотеку с сайта[Сайт Aspose.CAD](https://releases.aspose.com/cad/net/).
 -  Файл чертежа САПР: Имейте файл чертежа САПР (например,`conic_pyramid.dxf`) готов к конвертации.
 
 ## Импорт требуемых пространств имен

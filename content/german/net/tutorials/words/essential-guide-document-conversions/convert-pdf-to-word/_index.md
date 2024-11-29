@@ -82,7 +82,7 @@ Herzlichen Glückwunsch! Sie haben mit Aspose.Words für .NET erfolgreich ein PD
 Auf jeden Fall! Sie können mehrere PDFs durchlaufen und jedes mit derselben Methode konvertieren.
 
 ### Behält Aspose.Words für .NET die Formatierung des PDF im Word-Dokument bei?
-Ja, Aspose.Words zeichnet sich durch die Beibehaltung der ursprünglichen Formatierung während des Konvertierungsprozesses aus.
+Ja, Aspose.Words zeichnet sich dadurch aus, dass die ursprüngliche Formatierung während des Konvertierungsprozesses erhalten bleibt.
 
 ### Benötige ich eine Lizenz, um Aspose.Words für .NET zu verwenden?
  Während eine temporäre Lizenz zur Evaluierung verfügbar ist, ist für die kommerzielle Nutzung eine Volllizenz erforderlich. Schauen Sie sich die[Kaufseite](https://purchase.conholdate.com/buy) für weitere Details.

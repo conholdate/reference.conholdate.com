@@ -17,7 +17,7 @@ url: /ar/net/tutorials/cells/conversion-to-pdf-file/convert-excel-charts-to-pdf/
 تأكد من تثبيت .NET Framework أو .NET Core. كلتا البيئتين متوافقتان مع Aspose.Cells، لذا يمكنك استخدام أيهما يناسب مشروعك بشكل أفضل.
 
 ### تثبيت مكتبة Aspose.Cells
-تعتبر مكتبة Aspose.Cells ضرورية لتحويل المخططات إلى ملفات PDF. احصل على أحدث إصدار من[صفحة تحميل برنامج Aspose](https://releases.aspose.com/cells/net/).
+ تعتبر مكتبة Aspose.Cells ضرورية لتحويل المخططات إلى ملفات PDF. احصل على أحدث إصدار من[صفحة تحميل برنامج Aspose](https://releases.aspose.com/cells/net/).
 
 ### المعرفة الأساسية بلغة C#
 إن امتلاك فهم أساسي للغة C# سيجعل عملية الترميز أسهل. لا تقلق إذا كنت مبتدئًا؛ فهذا الدليل يتضمن أمثلة ترميز يسهل اتباعها.
@@ -82,7 +82,7 @@ Worksheet worksheet = workbook.Worksheets[0];
 بعد ذلك، قم بالوصول إلى المخطط المحدد الذي تريد تحويله من ورقة العمل المختارة.
 
 ```csharp
-//الوصول إلى الرسم البياني الأول في ورقة العمل
+// الوصول إلى الرسم البياني الأول في ورقة العمل
 Chart chart = worksheet.Charts[0];
 ```
 

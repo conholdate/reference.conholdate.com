@@ -63,7 +63,7 @@ barcodeGen.Save($"{path}BarHeight80Code128.png", BarCodeImageFormat.Png);
 
 ## Wniosek
 
-W tym samouczku dowiedziałeś się, jak dostosować wysokość jednowymiarowego kodu kreskowego za pomocą Aspose.BarCode dla .NET. Dzięki możliwości dostosowywania różnych właściwości kodu kreskowego możesz tworzyć dostosowane obrazy kodu kreskowego, aby spełnić określone wymagania aplikacji.
+tym samouczku dowiedziałeś się, jak dostosować wysokość jednowymiarowego kodu kreskowego za pomocą Aspose.BarCode dla .NET. Dzięki możliwości dostosowywania różnych właściwości kodu kreskowego możesz tworzyć dostosowane obrazy kodu kreskowego, aby spełnić określone wymagania aplikacji.
 
 ## Najczęściej zadawane pytania
 

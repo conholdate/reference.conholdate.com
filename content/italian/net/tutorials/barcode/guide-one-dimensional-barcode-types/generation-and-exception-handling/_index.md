@@ -98,7 +98,7 @@ Aspose.BarCode per .NET è una libreria completa che consente agli sviluppatori 
  Sì! Puoi scaricare la versione di prova di Aspose.BarCode per .NET[Qui](https://releases.aspose.com/barcode/net/).
 
 ### Come posso acquistare una licenza per Aspose.BarCode per .NET?
-Visita la pagina di acquisto[Qui](https://purchase.conholdate.com/buy) per acquistare una licenza per Aspose.BarCode per .NET.
+ Visita la pagina di acquisto[Qui](https://purchase.conholdate.com/buy) per acquistare una licenza per Aspose.BarCode per .NET.
 
 ### Dove posso cercare aiuto e supporto per Aspose.BarCode per .NET?
  Per assistenza, visita il forum di supporto di Aspose.BarCode per .NET[Qui](https://forum.aspose.com/c/barcode/13) per entrare in contatto con la comunità e supportare il team.

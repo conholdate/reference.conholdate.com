@@ -16,7 +16,7 @@ A .NET-fejlesztésben elengedhetetlen a Word dokumentumok hatékony kezelése, k
 Az átalakítási folyamat megkezdése előtt győződjön meg arról, hogy rendelkezik az alábbiakkal:
 
 - Fejlesztői környezet: Visual Studio vagy más .NET IDE telepítve.
-- Aspose.Words for .NET: Töltse le és telepítse a[Aspose honlapja](https://releases.aspose.com/words/net/).
+-  Aspose.Words for .NET: Töltse le és telepítse a[Aspose honlapja](https://releases.aspose.com/words/net/).
 - Dokumentumfájlok: Készítse elő a konvertálni kívánt DOCX fájl(oka)t.
 
 ## 1. lépés: Importálja a szükséges névtereket

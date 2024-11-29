@@ -20,7 +20,7 @@ Zorg ervoor dat u een compatibele .NET Framework-versie hebt. Deze tutorial is c
  Download het Aspose.Words voor .NET-pakket van de[Aspose-website](https://releases.aspose.com/words/net/)en installeer het in uw project met behulp van NuGet Package Manager in Visual Studio.
 
 ### Verkrijg een OpenAI API-sleutel
- Om toegang te krijgen tot de taalmodellen van OpenAI, hebt u een API-sleutel nodig. Meld u aan op de[OpenAI-website](https://openai.com/), haal uw sleutel op en bewaar deze veilig voor integratie.
+ Om toegang te krijgen tot de taalmodellen van OpenAI, hebt u een API-sleutel nodig. Meld u aan op de[OpenAI-website](https://openai.com/)haal uw sleutel op en bewaar deze veilig voor integratie.
 
 ### Geïntegreerde ontwikkelomgeving
 Door Visual Studio als uw IDE te gebruiken, wordt het coderings- en foutopsporingsproces eenvoudiger.

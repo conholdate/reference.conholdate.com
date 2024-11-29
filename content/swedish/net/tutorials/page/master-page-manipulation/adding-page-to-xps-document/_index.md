@@ -68,7 +68,7 @@ doc.Save(dataDir + "AddPages_out.xps");
 
 ## Slutsats
 
-den här handledningen har du lärt dig hur du lägger till sidor i ett XPS-dokument med Aspose.Page för .NET. Med sitt enkla API förenklar Aspose.Page uppgiften, vilket gör det möjligt för utvecklare att förbättra sina applikationer med kraftfulla dokumentbehandlingsmöjligheter.
+I den här handledningen har du lärt dig hur du lägger till sidor i ett XPS-dokument med Aspose.Page för .NET. Med sitt enkla API förenklar Aspose.Page uppgiften, vilket gör det möjligt för utvecklare att förbättra sina applikationer med kraftfulla dokumentbehandlingsmöjligheter.
 
 ## FAQ's
 

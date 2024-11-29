@@ -91,7 +91,7 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 是的，您可以使用以下命令自訂字體、頁面佈局、壓縮等`PdfOptions`班級。
 
 ### Q4：我可以只匯出特定的投影片嗎？
-絕對地！您可以使用`Slides`集合在`Presentation`班級。
+絕對地！您可以使用`Slides`集合於`Presentation`班級。
 
 ### Q5：在哪裡可以找到更多範例？
 參觀[Aspose.Slides for .NET 文檔](https://reference.aspose.com/slides/net/)了解更多範例和用例。

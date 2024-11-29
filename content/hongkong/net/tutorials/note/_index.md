@@ -12,4 +12,4 @@ is_root: true
 ### [使用 Aspose.Note for .NET 管理 OneNote 檔案中的附件](./manage-attachments/)
 使用 Aspose.Note 增強您的 .NET 應用程式。探索有關附加文件、設定圖示和檢索附件以增強開發的教學課程。
 ### [使用 Aspose.Note for .NET 操作 OneNote 文檔](./one-note-document-manipulation/)
-探索 Aspose.Note for .NET 教程，重點介紹如何建立、保存和轉換 OneNote 文檔，以及實用、易於理解的範例和常見問題解答。
+探索 Aspose.Note for .NET 教程，專注於創建、保存和轉換 OneNote 文檔，並提供實用、易於理解的範例和常見問題解答。

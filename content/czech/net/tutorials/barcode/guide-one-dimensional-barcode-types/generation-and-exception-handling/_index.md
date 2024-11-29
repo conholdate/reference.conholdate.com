@@ -98,7 +98,7 @@ Aspose.BarCode for .NET je komplexní knihovna, která umožňuje vývojářům 
  Ano! Můžete si stáhnout zkušební verzi Aspose.BarCode pro .NET[zde](https://releases.aspose.com/barcode/net/).
 
 ### Jak si mohu zakoupit licenci pro Aspose.BarCode pro .NET?
-Navštivte stránku nákupu[zde](https://purchase.conholdate.com/buy) získat licenci na Aspose.BarCode pro .NET.
+ Navštivte stránku nákupu[zde](https://purchase.conholdate.com/buy) získat licenci na Aspose.BarCode pro .NET.
 
 ### Kde mohu hledat pomoc a podporu pro Aspose.BarCode pro .NET?
  Potřebujete-li pomoc, navštivte fórum podpory Aspose.BarCode for .NET[zde](https://forum.aspose.com/c/barcode/13) spojit se s komunitou a týmem podpory.

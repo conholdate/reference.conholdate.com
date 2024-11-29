@@ -20,7 +20,7 @@ Upewnij się, że masz kompatybilną wersję .NET Framework. Ten samouczek jest 
  Pobierz pakiet Aspose.Words dla .NET ze strony[Strona internetowa Aspose](https://releases.aspose.com/words/net/)i zainstaluj go w swoim projekcie za pomocą Menedżera pakietów NuGet w programie Visual Studio.
 
 ### Uzyskaj klucz API OpenAI
- Aby uzyskać dostęp do modeli językowych OpenAI, potrzebny jest klucz API. Zarejestruj się na[Strona internetowa OpenAI](https://openai.com/), odzyskaj swój klucz i zachowaj go w bezpiecznym miejscu na potrzeby integracji.
+ Aby uzyskać dostęp do modeli językowych OpenAI, potrzebny jest klucz API. Zarejestruj się na[Strona internetowa OpenAI](https://openai.com/)odzyskaj swój klucz i zachowaj go w bezpiecznym miejscu na potrzeby integracji.
 
 ### Zintegrowane środowisko programistyczne
 Używanie programu Visual Studio jako środowiska IDE upraszcza proces kodowania i debugowania.

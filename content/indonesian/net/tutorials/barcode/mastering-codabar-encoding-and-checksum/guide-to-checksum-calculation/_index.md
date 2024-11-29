@@ -65,7 +65,7 @@ Terakhir, mari kita hasilkan kode batang Codabar yang memanfaatkan checksum Mod1
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Aktifkan checksum
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Atur Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Atur Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Anda kini telah berhasil membuat kode batang Codabar dengan berbagai jenis checksum menggunakan Aspose.BarCode untuk .NET. Checksum ini penting untuk menjaga integritas data yang dikodekan, memastikan bahwa informasi yang dapat dipindai akurat dan dapat diandalkan.
 
- Jika Anda memiliki pertanyaan atau mengalami masalah, jangan ragu untuk menghubungi komunitas yang aktif di[Forum Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+Jika Anda memiliki pertanyaan atau mengalami masalah, jangan ragu untuk menghubungi komunitas yang aktif di[Forum Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## Pertanyaan yang Sering Diajukan
 
@@ -95,4 +95,4 @@ Tentu saja! Aspose.BarCode untuk .NET dirancang agar serbaguna dan kompatibel de
 
 ### Di mana saya dapat menemukan dokumentasi lengkap untuk Aspose.BarCode for .NET?
 
- Dokumentasi lengkap untuk Aspose.BarCode dapat ditemukan[Di Sini](https://reference.aspose.com/barcode/net/).
+Dokumentasi lengkap untuk Aspose.BarCode dapat ditemukan[Di Sini](https://reference.aspose.com/barcode/net/).

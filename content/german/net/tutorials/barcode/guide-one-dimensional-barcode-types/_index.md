@@ -15,7 +15,7 @@ Tauchen Sie ein in die Welt der Barcode-Generierung in .NET? Egal, ob Sie ein Pr
 
 Hatten Sie schon einmal das Gefühl, dass Ihr Barcode aufgrund seiner Höhe einfach nicht richtig aussieht? Stellen Sie sich vor, Sie erstellen einen Barcode, der perfekt zu Ihrem Produktetikett oder Ihrer Verpackung passt. Mit Aspose.BarCode können Sie die Höhe eindimensionaler Barcodes ganz einfach anpassen, damit sie optimal passen. Die Bibliothek gibt Ihnen präzise Kontrolle und stellt sicher, dass Ihre Barcodes den Industriestandards entsprechen und jederzeit gescannt werden können.  
 
- Das Tutorial zu[Anpassen der Barcodehöhe mit Aspose.BarCode](./customizing-barcode-height/) führt Sie Schritt für Schritt durch diesen Prozess, von der Installation bis zur Implementierung. Egal, ob Sie Einzelhandelsetiketten oder Industrieetiketten entwerfen, dieser Leitfaden hilft Ihnen dabei.  
+ Das Tutorial zu[Anpassen der Barcodehöhe mit Aspose.BarCode](./customizing-barcode-height/)führt Sie Schritt für Schritt durch diesen Prozess, von der Installation bis zur Implementierung. Egal, ob Sie Einzelhandelsetiketten oder Industrieetiketten entwerfen, dieser Leitfaden hilft Ihnen dabei.  
 
 ## Generierung und Ausnahmebehandlung mit Aspose.BarCode für .NET  
 

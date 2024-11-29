@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // 실제 경로로 바꾸세요
 ```
 
-교체해야 합니다`"YourDocumentDirectoryPath"` 코드가 제대로 작동하려면 파일이 있는 실제 경로를 입력해야 합니다.
+ 교체해야 합니다`"YourDocumentDirectoryPath"`코드가 제대로 작동하려면 파일이 있는 실제 경로를 입력해야 합니다.
 
 ## 2단계: 단일 파일 압축
 

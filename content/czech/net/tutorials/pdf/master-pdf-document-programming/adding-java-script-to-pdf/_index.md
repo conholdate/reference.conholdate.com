@@ -11,7 +11,7 @@ url: /cs/net/tutorials/pdf/master-pdf-document-programming/adding-java-script-to
 Tento dokument poskytuje komplexní průvodce přidáváním interaktivních prvků, jako jsou vyskakovací upozornění nebo funkce automatického tisku, do dokumentů PDF pomocí Aspose.PDF for .NET. Využitím možností této knihovny můžete vytvářet dynamické a poutavé soubory PDF, které uspokojí různé potřeby uživatelů.
 
 ## Předpoklady
- Než budete pokračovat, ujistěte se, že jste si stáhli nejnovější verzi Aspose.PDF pro .NET z[Aspose Releases](https://releases.aspose.com/pdf/net/) nebo získat bezplatnou zkušební verzi prostřednictvím svých webových stránek:[releases.aspose.com](http://releases.aspose.com).
+ Než budete pokračovat, ujistěte se, že jste si stáhli nejnovější verzi Aspose.PDF pro .NET z[Aspose Releases](https://releases.aspose.com/pdf/net/) nebo získali bezplatnou zkušební verzi prostřednictvím svých webových stránek:[releases.aspose.com](http://releases.aspose.com).
 
 Měli byste mít také základní znalosti C# a znát vývojové prostředí, které používáte. Navíc, pokud se během vašeho vývojového procesu potřebujete vyhnout omezením, zvažte získání dočasné licence od Aspose.
 

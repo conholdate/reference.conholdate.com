@@ -15,7 +15,7 @@ url: /zh/net/tutorials/cad/guide-to-exporting-cad-format/export-cad-to-raster-im
 
 在开始之前，请确保您已准备好以下物品：
 
--  Aspose.CAD for .NET 库：从以下网站下载并安装该库[Aspose.CAD 网站](https://releases.aspose.com/cad/net/).
+- Aspose.CAD for .NET 库：从以下网站下载并安装该库[Aspose.CAD 网站](https://releases.aspose.com/cad/net/).
 - CAD 绘图文件：准备好 CAD 绘图文件（例如，`conic_pyramid.dxf`) 已准备好进行转换。
 
 ## 导入所需的命名空间

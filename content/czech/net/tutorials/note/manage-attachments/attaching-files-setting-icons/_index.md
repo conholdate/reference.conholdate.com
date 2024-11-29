@@ -35,7 +35,7 @@ Níže je podrobná implementace krok za krokem.
 
 ## Krok 1: Vytvořte nový dokument OneNotu
 
- Inicializujte nový dokument OneNotu pomocí`Document`třída.
+ Inicializujte nový dokument OneNotu pomocí`Document` třída.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ Aspose.Note podporuje formáty JPEG, PNG, BMP a GIF pro ikony příloh.
 Aspose.Note nemá žádné explicitní omezení velikosti, ale ujistěte se, že vaše systémové prostředky zvládnou velké soubory.
 
 ### Lze změnit velikost ikon před nastavením?
- Ano, s obrázkem ikony můžete manipulovat pomocí .NET`System.Drawing` knihovny před jejím připojením.
+Ano, s obrázkem ikony můžete manipulovat pomocí .NET`System.Drawing` knihovny před jejím připojením.
 
  Pro další pomoc prozkoumejte[dokumentace](https://reference.aspose.com/words/net/) nebo oslovit[Aspose support](https://forum.aspose.com/c/words/8).

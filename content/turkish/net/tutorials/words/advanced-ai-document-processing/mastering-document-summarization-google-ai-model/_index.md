@@ -87,7 +87,7 @@ Document oneDocumentSummary = model.Summarize(firstDoc, new SummarizeOptions() {
 oneDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.One.docx");
 ```
 
-Bu kod, özetlenmiş bir sürüm oluşturur`firstDoc` ve bunu artifacts dizinine kaydeder. Özet uzunluğunu ihtiyaçlarınıza göre ayarlayın, ister kısa, ister orta, ister uzun olsun.
+ Bu kod, özetlenmiş bir sürüm oluşturur`firstDoc` ve bunu artifacts dizinine kaydeder. Özet uzunluğunu ihtiyaçlarınıza göre ayarlayın, ister kısa, ister orta, ister uzun olsun.
 
 ## Adım 6: Birden Fazla Belgeyi Aynı Anda Özetleyin
 
@@ -120,7 +120,7 @@ Evet, Aspose.Words, birden fazla belgeyi yapay zeka modeline aktarmanıza ve bir
 
 ### Özet uzunluğunu nasıl kontrol edebilirim?
 
- Kullanın`SummaryLength` seçeneği dahilinde`SummarizeOptions` İstenilen özet uzunluğunu kısa, orta veya uzun olarak ayarlamak için sınıf.
+ Kullanın`SummaryLength` seçeneği dahilinde`SummarizeOptions`İstenilen özet uzunluğunu kısa, orta veya uzun olarak ayarlamak için sınıf.
 
 ### Aspose.Words için ek kaynakları nerede bulabilirim?
 

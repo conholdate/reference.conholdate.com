@@ -9,7 +9,7 @@ url: /ja/net/tutorials/barcode/mastering-codabar-encoding-and-checksum/custom-co
 ---
 ## 導入
 
-Aspose.BarCode for .NET を使用して開始文字と終了文字を含む Codabar バーコードを作成する手順を説明したガイドへようこそ。経験豊富な開発者でも、この分野の初心者でも、このチュートリアルでは、これらのバーコードを効率的に生成するプロセスを簡素化できます。
+Aspose.BarCode for .NET を使用して開始文字と終了文字を含む Codabar バーコードを作成する手順を説明したガイドへようこそ。経験豊富な開発者でも、この分野の初心者でも、このチュートリアルを読めば、これらのバーコードを効率的に生成するプロセスが簡単になります。
 
 ## 前提条件
 

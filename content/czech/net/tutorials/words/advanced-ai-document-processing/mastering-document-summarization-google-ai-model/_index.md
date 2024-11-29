@@ -87,7 +87,7 @@ Document oneDocumentSummary = model.Summarize(firstDoc, new SummarizeOptions() {
 oneDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.One.docx");
 ```
 
-Tento kód vytváří souhrnnou verzi`firstDoc` a uloží jej do adresáře artefaktů. Upravte délku souhrnu tak, aby vyhovovala vašim potřebám, ať už je krátká, střední nebo dlouhá.
+ Tento kód vytváří souhrnnou verzi`firstDoc` a uloží jej do adresáře artefaktů. Upravte délku souhrnu tak, aby vyhovovala vašim potřebám, ať už je krátká, střední nebo dlouhá.
 
 ## Krok 6: Shrnutí více dokumentů současně
 
@@ -102,7 +102,7 @@ multiDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.Multi.docx");
 
 ## Závěr
 
-S tímto výukovým programem jste připraveni efektivně shrnout dokumenty pomocí modelů Aspose.Words pro .NET a Google AI. Od definování adresářů dokumentů a načítání souborů až po získávání klíčů API a nastavení instancí modelu, každý krok zajišťuje, že můžete efektivně zpracovávat velké objemy textu a vytvářet stručné souhrny v několika řádcích kódu.
+tímto výukovým programem jste připraveni efektivně shrnout dokumenty pomocí modelů Aspose.Words pro .NET a Google AI. Od definování adresářů dokumentů a načítání souborů až po získávání klíčů API a nastavení instancí modelu, každý krok zajišťuje, že můžete efektivně zpracovávat velké objemy textu a vytvářet stručné souhrny v několika řádcích kódu.
 
 ## FAQ
 
@@ -120,7 +120,7 @@ Ano, Aspose.Words vám umožňuje předat modelu AI více dokumentů a vytvořit
 
 ### Jak mohu ovládat délku souhrnu?
 
- Použijte`SummaryLength` možnost v rámci`SummarizeOptions` class a nastavte požadovanou délku souhrnu na krátkou, střední nebo dlouhou.
+ Použijte`SummaryLength` možnost v rámci`SummarizeOptions`class a nastavte požadovanou délku souhrnu na krátkou, střední nebo dlouhou.
 
 ### Kde najdu další zdroje pro Aspose.Words?
 

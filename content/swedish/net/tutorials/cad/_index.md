@@ -1,5 +1,5 @@
 ---
-title: Omfattande handledningar och exempel på Aspose.CAD för .NET
+title: Omfattande handledning och exempel på Aspose.CAD för .NET
 linktitle: Aspose.CAD för .NET Tutorials
 type: docs
 weight: 10

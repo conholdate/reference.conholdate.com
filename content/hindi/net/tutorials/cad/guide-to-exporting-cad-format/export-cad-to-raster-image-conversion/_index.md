@@ -15,7 +15,7 @@ url: /hi/net/tutorials/cad/guide-to-exporting-cad-format/export-cad-to-raster-im
 
 शुरू करने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित चीजें हैं:
 
--  Aspose.CAD for .NET लाइब्रेरी: लाइब्रेरी को डाउनलोड करें और इंस्टॉल करें[Aspose.CAD वेबसाइट](https://releases.aspose.com/cad/net/).
+- Aspose.CAD for .NET लाइब्रेरी: लाइब्रेरी को डाउनलोड करें और इंस्टॉल करें[Aspose.CAD वेबसाइट](https://releases.aspose.com/cad/net/).
 -  सीएडी ड्राइंग फ़ाइल: अपनी सीएडी ड्राइंग फ़ाइल (जैसे,`conic_pyramid.dxf`) रूपांतरण के लिए तैयार है।
 
 ## आवश्यक नामस्थान आयात करें

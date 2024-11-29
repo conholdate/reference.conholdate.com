@@ -15,7 +15,7 @@ Att arbeta med långa dokument innebär ofta att man sållar igenom tät informa
 
 Innan du börjar, se till att du har följande:
 
-1.  Aspose.Words för .NET Library: Ladda ner det från[Asposes releaser](https://releases.aspose.com/words/net/).
+1. Aspose.Words för .NET Library: Ladda ner det från[Asposes releaser](https://releases.aspose.com/words/net/).
 2. .NET-miljö: Konfigurera en .NET-utvecklingsmiljö, till exempel Visual Studio.
 3. Grundläggande C#-kunskap: Denna handledning involverar kodning, så det kommer att vara fördelaktigt att känna till C#-syntaxen.
 4. AI Model API Key: Skaffa en API-nyckel för din föredragna AI-sammanfattningsmodell (t.ex. GPT-4), eftersom vi kommer att använda den för att generera sammanfattningar.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Steg 2: Ladda dokument för sammanfattning
 
- Ladda de dokument som du planerar att sammanfatta. Använd`Document` klass i Aspose.Words för att komma åt dina Word-filer:
+ Ladda de dokument som du planerar att sammanfatta. Använd`Document`klass i Aspose.Words för att komma åt dina Word-filer:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -56,14 +56,14 @@ Document secondDoc = new Document(MyDir + "SupportingDocument.docx");
 
 ## Steg 3: Initiera AI-modellen för sammanfattning
 
-För att sammanfatta, ställ in en AI-modell. Konfigurera först API-nyckeln i dina miljövariabler för att komma åt modellen.
+För att göra en sammanfattning, ställ in en AI-modell. Konfigurera först API-nyckeln i dina miljövariabler för att komma åt modellen.
 
 ```csharp
 string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- De`Gpt4OMini` modellen initieras med din API-nyckel för att bearbeta dokumentsammanfattning. Se till att byta ut`"API_KEY"`med din faktiska API-nyckel.
+ De`Gpt4OMini` modellen initieras med din API-nyckel för att bearbeta dokumentsammanfattning. Se till att byta ut`"API_KEY"` med din faktiska API-nyckel.
 
 ## Steg 4: Sammanfatta ett enda dokument
 

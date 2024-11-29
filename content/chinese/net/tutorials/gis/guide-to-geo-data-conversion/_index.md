@@ -17,7 +17,7 @@ url: /zh/net/tutorials/gis/guide-to-geo-data-conversion/
 
 ## 将 Shapefile 转换为 GeoJSON
 
- Shapefile 是 GIS 中的主要内容，但将其转换为 GeoJSON 可以为数据使用开辟新途径，尤其是在网络制图方面。我们的指南[将 Shapefile 转换为 GeoJSON](./converting-shapefile-to-geojson/)引导您完成整个过程。我们从您开始所需的基本知识开始，然后深入研究清晰、简洁的代码示例，使转换过程变得简单。在此过程中有疑问？本教程旨在解决您可能遇到的常见障碍。
+Shapefile 是 GIS 中的主要内容，但将其转换为 GeoJSON 可以为数据使用开辟新途径，尤其是在网络制图方面。我们的指南[将 Shapefile 转换为 GeoJSON](./converting-shapefile-to-geojson/)引导您完成整个过程。我们从您开始所需的基本知识开始，然后深入研究清晰、简洁的代码示例，使转换过程变得简单。在此过程中有疑问？本教程旨在解决您可能遇到的常见障碍。
 
 ## 地理数据转换教程指南
 ### [使用 Aspose.GIS for .NET 将 GeoJSON 转换为 TopoJSON](./converting-geojson-to-topojson/)

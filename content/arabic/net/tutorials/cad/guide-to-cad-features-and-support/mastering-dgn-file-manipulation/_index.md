@@ -127,4 +127,4 @@ Console.WriteLine($"\nThe DGN file exported successfully to raster image.\nFile 
 
 ### هل تحتاج إلى مساعدة أو لديك أسئلة؟
 
- للحصول على الدعم أو طرح الأسئلة، قم بزيارة مجتمع Aspose.CAD[منتدى الدعم](https://forum.aspose.com/c/cad/19).
+للحصول على الدعم أو طرح الأسئلة، قم بزيارة مجتمع Aspose.CAD[منتدى الدعم](https://forum.aspose.com/c/cad/19).

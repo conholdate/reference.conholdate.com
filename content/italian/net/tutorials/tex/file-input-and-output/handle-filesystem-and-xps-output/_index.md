@@ -102,7 +102,7 @@ Assolutamente! Aspose.TeX supporta vari formati di output, consentendoti di sceg
 
 ### Come posso ottenere supporto dalla comunità o porre domande?
 
- Visita il[Forum di Aspose.TeX](https://forum.aspose.com/c/tex/47) per il supporto e le discussioni della comunità.
+ Visitare il[Forum di Aspose.TeX](https://forum.aspose.com/c/tex/47) per il supporto e le discussioni della comunità.
 
 ### Sono disponibili progetti di esempio?
 

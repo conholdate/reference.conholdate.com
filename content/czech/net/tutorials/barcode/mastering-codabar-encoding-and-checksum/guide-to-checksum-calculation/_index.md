@@ -65,7 +65,7 @@ Nakonec vytvořme čárový kód Codabar, který využívá kontrolní součet M
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Povolit kontrolní součet
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Set Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Set Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Nyní jste úspěšně vygenerovali čárové kódy Codabar s různými typy kontrolních součtů pomocí Aspose.BarCode pro .NET. Tyto kontrolní součty jsou nezbytné pro zachování integrity zakódovaných dat a zajišťují, že snímatelné informace jsou přesné a spolehlivé.
 
- Pokud máte nějaké dotazy nebo narazíte na problémy, neváhejte se obrátit na živou komunitu na adrese[Fórum Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+Pokud máte nějaké dotazy nebo narazíte na problémy, neváhejte se obrátit na živou komunitu na adrese[Fórum Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## FAQ
 
@@ -95,4 +95,4 @@ Absolutně! Aspose.BarCode for .NET je navržen tak, aby byl všestranný a je k
 
 ### Kde najdu kompletní dokumentaci k Aspose.BarCode pro .NET?
 
- Komplexní dokumentaci pro Aspose.BarCode lze nalézt[zde](https://reference.aspose.com/barcode/net/).
+Komplexní dokumentaci pro Aspose.BarCode lze nalézt[zde](https://reference.aspose.com/barcode/net/).

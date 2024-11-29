@@ -15,7 +15,7 @@ url: /tr/net/tutorials/drawing/transformations/
 
 Küresel dönüşümleri tuvalinize "evrensel bir filtre" uygulamak olarak düşünün. Bu dönüşümler, grafik bağlamında çizilen her öğeyi etkiler ve bu da onları tasarımınız genelinde tekdüze ölçekleme, döndürme veya çeviriye ihtiyaç duyduğunuz senaryolar için mükemmel hale getirir. .NET için Aspose.Drawing'i kullanarak, küresel dönüşümlerde ustalaşmak her zamankinden daha kolay.
 
- Örneğin, ekran boyutlarına göre grafikleri dinamik olarak yeniden boyutlandıran bir veri görselleştirme aracı oluşturduğunuzu düşünün. Küresel ölçekli bir dönüşüm, her şeyin sorunsuz bir şekilde ayarlanmasını, orantılılığı ve estetiği korumasını sağlar. Nasıl olduğunu öğrenmek ister misiniz? Özel eğitimimize göz atın[Aspose.Drawing for .NET'te Küresel Dönüşümlerde Ustalaşma](./mastering-global-transformations/).
+Örneğin, ekran boyutlarına göre grafikleri dinamik olarak yeniden boyutlandıran bir veri görselleştirme aracı oluşturduğunuzu düşünün. Küresel ölçekli bir dönüşüm, her şeyin sorunsuz bir şekilde ayarlanmasını, orantılılığı ve estetiği korumasını sağlar. Nasıl olduğunu öğrenmek ister misiniz? Özel eğitimimize göz atın[Aspose.Drawing for .NET'te Küresel Dönüşümlerde Ustalaşma](./mastering-global-transformations/).
 
 ## Yerel Dönüşümlere Kılavuz
 

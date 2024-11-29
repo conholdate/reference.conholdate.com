@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Etapa 5: Inicializar o arquivo anexado
 
- Especifique o caminho para o arquivo que você deseja anexar usando o`AttachedFile`aula.
+ Especifique o caminho para o arquivo que você deseja anexar usando o`AttachedFile` aula.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");
@@ -125,7 +125,7 @@ Com o Aspose.Note para .NET, interagir com documentos do OneNote se torna uma ex
 
 ## Perguntas frequentes
 
-### O Aspose.Note para .NET é compatível com todas as versões do OneNote?
+### Aspose.Note para .NET é compatível com todas as versões do OneNote?
 
 Sim, o Aspose.Note para .NET oferece suporte a várias versões do OneNote, incluindo o OneNote 2010, 2013, 2016 e o mais recente OneNote para Windows 10.
 

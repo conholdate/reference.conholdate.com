@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## الخطوة 5: تهيئة الملف المرفق
 
- حدد المسار إلى الملف الذي تريد إرفاقه باستخدام`AttachedFile`فصل.
+ حدد المسار إلى الملف الذي تريد إرفاقه باستخدام`AttachedFile` فصل.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

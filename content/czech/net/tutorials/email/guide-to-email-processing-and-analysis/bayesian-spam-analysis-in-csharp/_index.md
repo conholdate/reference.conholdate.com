@@ -38,13 +38,13 @@ Nyní rozdělme implementaci do jasných kroků, abyste zajistili, že ji budete
 
 ## Krok 1: Načtěte e-mail
 
- Nejprve budete muset načíst e-mail, který chcete analyzovat. To se provádí pomocí`MailMessage`třídy v knihovně Aspose.Email. 
+ Nejprve budete muset načíst e-mail, který chcete analyzovat. To se provádí pomocí`MailMessage` třídy v knihovně Aspose.Email. 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- The`Load` metoda přebírá cestu k souboru e-mailu, který chcete analyzovat. Tento soubor by měl být ve formátu EML. Pokud žádný nemáte, vytvořte si jednoduchý e-mail a uložte jej jako`email.eml`.
+ The`Load`metoda přebírá cestu k souboru e-mailu, který chcete analyzovat. Tento soubor by měl být ve formátu EML. Pokud žádný nemáte, vytvořte si jednoduchý e-mail a uložte jej jako`email.eml`.
 
 ## Krok 2: Vytvořte analyzátor spamu
 

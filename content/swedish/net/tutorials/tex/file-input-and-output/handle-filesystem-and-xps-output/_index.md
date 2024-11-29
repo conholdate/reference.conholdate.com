@@ -40,7 +40,7 @@ TeXOptions options = TeXOptions.ConsoleAppOptions(TeXConfig.ObjectTeX());
 
 Detta ställer in de konverteringsalternativ som behövs för att arbeta med ObjectTeX.
 
-## Steg 2: Ange in- och utdatakataloger
+## Steg 2: Ange indata- och utdatakataloger
 
 Därefter definierar du in- och utdatakatalogerna för dina TeX-filer. Justera banorna så att de passar din projektstruktur:
 

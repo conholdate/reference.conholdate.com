@@ -65,7 +65,7 @@ Son olarak, daha yüksek doğruluk gerektiren uygulamalar için uygun, Mod16 sa�
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Toplam denetimini etkinleştir
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Mod16'yı Ayarla
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Mod16'yı Ayarla
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Artık Aspose.BarCode for .NET kullanarak farklı toplam kontrol türleriyle Codabar barkodlarını başarıyla oluşturdunuz. Bu toplam kontrolleri, kodlanmış verilerin bütünlüğünü korumak ve taranabilir bilgilerin hem doğru hem de güvenilir olmasını sağlamak için önemlidir.
 
- Herhangi bir sorunuz varsa veya sorunla karşılaşırsanız, canlı topluluğa ulaşmaktan çekinmeyin.[Aspose.BarCode forumu](https://forum.aspose.com/c/barcode/13).
+Herhangi bir sorunuz varsa veya sorunla karşılaşırsanız, canlı topluluğa ulaşmaktan çekinmeyin.[Aspose.BarCode forumu](https://forum.aspose.com/c/barcode/13).
 
 ## SSS
 
@@ -95,4 +95,4 @@ Kesinlikle! Aspose.BarCode for .NET çok yönlü olacak şekilde tasarlanmışt�
 
 ### Aspose.BarCode for .NET için tüm dokümanları nerede bulabilirim?
 
- Aspose.BarCode için kapsamlı dokümanlar bulunabilir[Burada](https://reference.aspose.com/barcode/net/).
+Aspose.BarCode için kapsamlı dokümanlar bulunabilir[Burada](https://reference.aspose.com/barcode/net/).

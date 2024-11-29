@@ -83,4 +83,4 @@ Teljesen! A Bradley Thresholding sokoldalú, és a legtöbb képtípushoz alkalm
 
 ### Hogyan vásárolhatok licencet az Aspose.PSD-hez?
 
- Közvetlenül vásárolhat licencet[itt](https://purchase.conholdate.com/buy).
+ A licencet közvetlenül megvásárolhatja[itt](https://purchase.conholdate.com/buy).

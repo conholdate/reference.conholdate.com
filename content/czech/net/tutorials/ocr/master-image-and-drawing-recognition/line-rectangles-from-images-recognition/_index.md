@@ -15,7 +15,7 @@ Vítejte ve světě Aspose.OCR for .NET, působivého nástroje určeného k int
 
 Než začnete, ujistěte se, že máte na svém místě následující:
 
-- Základní znalost vývoje v C# a .NET.
+- Základní znalost vývoje C# a .NET.
 - Integrované vývojové prostředí (IDE), jako je Visual Studio.
 -  Nainstalována knihovna Aspose.OCR for .NET. Můžete si jej stáhnout[zde](https://releases.aspose.com/ocr/net/).
 - Ukázkový obrázek obsahující text pro rozpoznání.
@@ -102,7 +102,7 @@ Aspose.OCR používá pokročilé algoritmy k dosažení vysoké přesnosti v ro
 
 ### Kde najdu podrobnou dokumentaci?
 
- Komplexní dokumentaci lze nalézt[zde](https://reference.aspose.com/ocr/net/), která nabízí podrobné informace a pokyny.
+ Komplexní dokumentaci lze nalézt[zde](https://reference.aspose.com/ocr/net/), nabízející podrobné informace a pokyny.
 
 ### Potřebujete další pomoc nebo máte otázky?
 

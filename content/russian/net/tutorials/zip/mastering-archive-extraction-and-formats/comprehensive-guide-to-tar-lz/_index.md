@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // Замените на ваш реальный путь
 ```
 
-Обязательно замените`"YourDocumentDirectoryPath"` с фактическим путем, по которому находятся ваши файлы, чтобы код функционировал правильно.
+ Обязательно замените`"YourDocumentDirectoryPath"`с фактическим путем, по которому находятся ваши файлы, чтобы код функционировал правильно.
 
 ## Шаг 2: Сжатие одного файла
 
@@ -65,7 +65,7 @@ using (TarArchive archive = new TarArchive())
     archive.CreateEntry("lcet10.txt", dataDir + "lcet10.txt");
     archive.SaveLzipped(dataDir + "archive.tar.lz");
 }
-//ExEnd: СжатиеНесколькихФайлов
+//ExEnd: Сжатие нескольких файлов
 ```
 
  Это следует той же структуре, что и предыдущий шаг.`CreateEntry` Метод можно вызывать несколько раз для включения дополнительных файлов в архив.

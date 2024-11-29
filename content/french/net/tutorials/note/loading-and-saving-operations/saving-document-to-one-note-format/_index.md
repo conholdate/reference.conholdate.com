@@ -17,7 +17,7 @@ Avant de commencer ce didacticiel, assurez-vous de disposer des éléments suiva
 
 1. Connaissances de base de C# et .NET : Une connaissance du langage de programmation C# et du framework .NET est requise.
    
-2.  Installation d'Aspose.Note pour .NET : Téléchargez et installez la bibliothèque Aspose.Note à partir du[Site Web d'Aspose](https://releases.aspose.com/note/net/).
+2. Installation d'Aspose.Note pour .NET : Téléchargez et installez la bibliothèque Aspose.Note à partir du[Site Web d'Aspose](https://releases.aspose.com/note/net/).
 
 3. Environnement de développement : configurez un environnement de développement approprié, tel que Visual Studio.
 

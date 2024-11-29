@@ -17,7 +17,7 @@ Avez-vous besoin d'un guide pour convertir des graphiques de feuilles de calcul 
 Assurez-vous d'avoir installé .NET Framework ou .NET Core. Ces environnements sont tous deux compatibles avec Aspose.Cells, vous pouvez donc utiliser celui qui convient le mieux à votre projet.
 
 ### Installation de la bibliothèque Aspose.Cells
-La bibliothèque Aspose.Cells est essentielle pour les conversions de graphiques en PDF. Obtenez la dernière version sur le site[Page de téléchargement d'Aspose](https://releases.aspose.com/cells/net/).
+ La bibliothèque Aspose.Cells est essentielle pour les conversions de graphiques en PDF. Obtenez la dernière version sur le site[Page de téléchargement d'Aspose](https://releases.aspose.com/cells/net/).
 
 ### Connaissances de base en C#
 Une compréhension fondamentale du langage C# facilitera le processus de codage. Ne vous inquiétez pas si vous êtes débutant ; ce guide comprend des exemples de code faciles à suivre.
@@ -82,7 +82,7 @@ Ce code permet d'accéder à la première feuille de calcul. Modifiez l'index si
 Ensuite, accédez au graphique spécifique que vous souhaitez convertir à partir de la feuille de calcul choisie.
 
 ```csharp
-//Accéder au premier graphique de la feuille de calcul
+// Accéder au premier graphique de la feuille de calcul
 Chart chart = worksheet.Charts[0];
 ```
 

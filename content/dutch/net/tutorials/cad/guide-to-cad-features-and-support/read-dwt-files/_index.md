@@ -60,7 +60,7 @@ using (CadImage image = (CadImage)Image.Load(MyDir + "example.dwt"))
 
 ## Stap 3: Itereren door CAD-entiteiten
 
-U kunt nu door de entiteiten in het DWT-bestand heen lussen. Pas de logica in de lus aan om de gegevens naar behoefte te manipuleren of te extraheren:
+U kunt nu door de entiteiten in het DWT-bestand heen lussen. Pas de logica in de lus aan om de gegevens naar behoefte te manipuleren of extraheren:
 
 ```csharp
 foreach (CadBaseEntity entity in image.Entities)

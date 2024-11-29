@@ -65,7 +65,7 @@ Cuối cùng, chúng ta hãy tạo mã vạch Codabar sử dụng tổng kiểm 
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Bật tổng kiểm tra
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Đặt Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Đặt Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Bây giờ bạn đã tạo thành công mã vạch Codabar với các loại tổng kiểm tra khác nhau bằng Aspose.BarCode cho .NET. Các tổng kiểm tra này rất cần thiết để duy trì tính toàn vẹn của dữ liệu được mã hóa, đảm bảo thông tin có thể quét được vừa chính xác vừa đáng tin cậy.
 
- Nếu bạn có bất kỳ câu hỏi hoặc gặp phải vấn đề nào, đừng ngần ngại liên hệ với cộng đồng sôi động tại[Diễn đàn Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+Nếu bạn có bất kỳ câu hỏi hoặc gặp phải vấn đề nào, đừng ngần ngại liên hệ với cộng đồng sôi động tại[Diễn đàn Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## Câu hỏi thường gặp
 
@@ -95,4 +95,4 @@ Hoàn toàn đúng! Aspose.BarCode cho .NET được thiết kế linh hoạt v�
 
 ### Tôi có thể tìm tài liệu đầy đủ về Aspose.BarCode cho .NET ở đâu?
 
- Có thể tìm thấy tài liệu toàn diện về Aspose.BarCode[đây](https://reference.aspose.com/barcode/net/).
+Có thể tìm thấy tài liệu toàn diện về Aspose.BarCode[đây](https://reference.aspose.com/barcode/net/).

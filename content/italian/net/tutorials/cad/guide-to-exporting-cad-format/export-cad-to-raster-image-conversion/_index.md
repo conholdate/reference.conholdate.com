@@ -15,7 +15,7 @@ Stai cercando di convertire layout CAD in formati di immagini raster senza sforz
 
 Prima di iniziare, assicurati di avere quanto segue:
 
--  Libreria Aspose.CAD per .NET: scaricare e installare la libreria da[Sito web Aspose.CAD](https://releases.aspose.com/cad/net/).
+- Libreria Aspose.CAD per .NET: scaricare e installare la libreria da[Sito web Aspose.CAD](https://releases.aspose.com/cad/net/).
 -  File di disegno CAD: disponi del file di disegno CAD (ad esempio,`conic_pyramid.dxf`) pronto per la conversione.
 
 ## Importa gli spazi dei nomi richiesti

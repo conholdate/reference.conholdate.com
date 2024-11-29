@@ -44,7 +44,7 @@ Document doc = new Document(dataDir + "Document.docx");
 
 ## 2. lépés: Mentse el a dokumentumot MHTML-ként
 
- Ezután konvertálja a betöltött dokumentumot MHTML formátumba. Ez a`Save` módszere a`Document`osztály.
+ Ezután konvertálja a betöltött dokumentumot MHTML formátumba. Ez a`Save` módszere a`Document` osztály.
 
 ```csharp
 using (Stream stream = new MemoryStream())
@@ -90,7 +90,7 @@ Gratulálok! Sikeresen konvertált egy DOCX-dokumentumot MHTML-re, és elküldte
 Teljesen! Az Aspose.Words a formátumok széles skáláját támogatja, lehetővé téve a DOC, DOCX, RTF és egyebek MHTML formátumba való konvertálását.
 
 ### Hogyan adhatok mellékleteket az e-mailhez?
- Könnyen hozzáadhat mellékleteket a`Attachments` tulajdona a`MailMessage`osztály.
+ Könnyen hozzáadhat mellékleteket a`Attachments` tulajdona a`MailMessage` osztály.
 
 ### Az Aspose.Words kompatibilis a .NET Core-al?
 Igen, az Aspose.Words kompatibilis a .NET Core-al, így alkalmas a .NET Core alkalmazásokban való használatra.

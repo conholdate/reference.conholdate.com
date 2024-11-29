@@ -98,4 +98,4 @@ cadImage.Save(myDir + "ExportDGNToPdf_out.pdf", pdfOptions);
  Μπορείτε να ζητήσετε προσωρινές άδειες[εδώ](https://purchase.conholdate.com/temporary-license/).
 
 ### Χρειάζεστε βοήθεια ή έχετε ερωτήσεις;  
-Συμμετάσχετε στη συζήτηση στο[Φόρουμ Aspose.CAD](https://forum.aspose.com/c/cad/19) για κοινοτική υποστήριξη και έρευνες.
+ Συμμετάσχετε στη συζήτηση στο[Φόρουμ Aspose.CAD](https://forum.aspose.com/c/cad/19) για κοινοτική υποστήριξη και έρευνες.

@@ -13,7 +13,7 @@ Belge işleme alanında, Aspose.Words for .NET üretkenliğinizi önemli ölçü
 
 ## AI Modellerine Başlarken
 
-Kapsamlı belgeleri yalnızca birkaç tıklamayla özetleyebilme yeteneğine sahip olduğunuzu hayal edin. Kulağa hoş geliyor, değil mi? Yolculuğunuza şu eğitimle başlayın:[AI Modelleriyle Belge Özetlemede Ustalaşma](./mastering-document-summarization-ai-model/). Bu kılavuz, Aspose.Words kullanarak etkili belge özetlemesi elde etmek için AI'yı entegre etme sürecinde size yol gösterir. Bunu, büyük miktarda metni tarayabilen, önemli noktaları vurgulayan ve bilgileri sizin için yoğunlaştıran kişisel bir asistanınız olduğunu düşünün. Bu eğitim, AI modellerini uygulamak için net ve öz bir yol haritası sunarak belge yönetimi görevlerinizi kolaylaştırır.
+ Kapsamlı belgeleri yalnızca birkaç tıklamayla özetleyebilme yeteneğine sahip olduğunuzu hayal edin. Kulağa hoş geliyor, değil mi? Yolculuğunuza şu eğitimle başlayın:[AI Modelleriyle Belge Özetlemede Ustalaşma](./mastering-document-summarization-ai-model/)Bu kılavuz, Aspose.Words kullanarak etkili belge özetlemesi elde etmek için AI'yı entegre etme sürecinde size yol gösterir. Bunu, büyük miktarda metni tarayabilen, önemli noktaları vurgulayan ve bilgileri sizin için yoğunlaştıran kişisel bir asistanınız olduğunu düşünün. Bu eğitim, AI modellerini uygulamak için net ve öz bir yol haritası sunarak belge yönetimi görevlerinizi kolaylaştırır.
 
 ## Google AI ile Oyununuzu Geliştirin
 

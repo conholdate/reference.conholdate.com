@@ -2,7 +2,7 @@
 title: 在 Aspose.CAD for .NET 中将 DGN 转换为 PDF
 linktitle: 在 Aspose.CAD for .NET 中将 DGN 转换为 PDF
 second_title: Aspose.CAD .NET - CAD 和 BIM 文件格式
-description: 了解如何使用功能强大的 Aspose.CAD for .NET 库轻松将 DGN 文件转换为 PDF。本分步指南适用于各个级别的开发人员。
+description: 了解如何使用功能强大的 Aspose.CAD .NET 库轻松将 DGN 文件转换为 PDF。本分步指南适用于各个级别的开发人员。
 type: docs
 weight: 12
 url: /zh/net/tutorials/cad/guide-to-exporting-cad-format/convert-dgn-to-pdf/

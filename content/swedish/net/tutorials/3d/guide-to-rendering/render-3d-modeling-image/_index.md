@@ -87,7 +87,7 @@ scene.RootNode.CreateChildNode(new Light()
 }).Transform.Translation = new Vector3(40, 10, 50);
 ```
 
-## Steg 4: Ange alternativ för bildrendering
+## Steg 4: Ange bildrenderingsalternativ
 
 Nu när vi har vår scen med modellen, kameran och lamporna är det dags att specificera renderingsalternativen. Dessa alternativ låter dig anpassa bakgrundsfärgen, aktivera skuggor och ställa in texturkataloger för en mer realistisk effekt.
 
@@ -126,7 +126,7 @@ För felsökning, kontrollera[Aspose.3D-forum](https://forum.aspose.com/c/3d/18)
 
  Ja, Aspose erbjuder en[gratis provperiod](https://releases.aspose.com/) så att du kan utforska alla funktioner i Aspose.3D och utvärdera dess kapacitet innan du gör ett köp.
 
-### Var kan jag hitta heltäckande dokumentation?
+### Var kan jag hitta omfattande dokumentation?
 
  Du kan hitta detaljerad dokumentation för Aspose.3D för .NET på[dokumentationssida](https://reference.aspose.com/3d/net/), som ger en djupgående täckning av bibliotekets funktioner och funktioner.
 

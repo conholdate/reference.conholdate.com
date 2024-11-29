@@ -87,7 +87,7 @@ Document oneDocumentSummary = model.Summarize(firstDoc, new SummarizeOptions() {
 oneDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.One.docx");
 ```
 
-Ce code crée une version résumée de`firstDoc` et l'enregistre dans le répertoire des artefacts. Ajustez la longueur du résumé en fonction de vos besoins, qu'il soit court, moyen ou long.
+ Ce code crée une version résumée de`firstDoc` et l'enregistre dans le répertoire des artefacts. Ajustez la longueur du résumé en fonction de vos besoins, qu'il soit court, moyen ou long.
 
 ## Étape 6 : Résumer plusieurs documents simultanément
 
@@ -120,7 +120,7 @@ Oui, Aspose.Words vous permet de transmettre plusieurs documents au modèle d'IA
 
 ### Comment puis-je contrôler la longueur du résumé ?
 
- Utilisez le`SummaryLength` option dans le`SummarizeOptions` classe pour définir la longueur du résumé souhaitée comme courte, moyenne ou longue.
+ Utilisez le`SummaryLength` option dans le`SummarizeOptions`classe pour définir la longueur du résumé souhaitée comme courte, moyenne ou longue.
 
 ### Où puis-je trouver des ressources supplémentaires pour Aspose.Words ?
 

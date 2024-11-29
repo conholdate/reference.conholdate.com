@@ -9,7 +9,7 @@ url: /zh/net/tutorials/psd/guide-image-processing/apply-bradley-thresholding/
 ---
 ## 介绍
 
-欢迎阅读我们的教程，了解如何使用 Aspose.PSD for .NET 应用 Bradley Threshold 技术。这个功能强大的库支持在 .NET 应用程序中无缝操作 Photoshop 文件。Bradley Thresholding 是一种有效的图像二值化方法，有助于区分物体和背景。
+欢迎阅读我们的教程，了解如何使用 Aspose.PSD for .NET 应用 Bradley Threshold 技术。这个功能强大的库支持在 .NET 应用程序中无缝操作 Photoshop 文件。Bradley Thresholding 是一种有效的图像二值化方法，有助于区分对象和背景。
 
 ## 先决条件
 
@@ -61,7 +61,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 ## 结论
 
-恭喜！您已成功使用 Aspose.PSD for .NET 实现 Bradley Threshold 技术。此方法可以大大改善从文档分析到图形设计等各种应用程序的图像分割。
+恭喜！您已成功使用 Aspose.PSD for .NET 实现 Bradley Threshold 技术。此方法可以极大地改善各种应用程序（从文档分析到图形设计）的图像分割。
 
 ## 常见问题解答
 

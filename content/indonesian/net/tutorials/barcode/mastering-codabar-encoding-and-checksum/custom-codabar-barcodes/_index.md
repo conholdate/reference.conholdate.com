@@ -15,7 +15,7 @@ Selamat datang di panduan langkah demi langkah tentang penggunaan Aspose.BarCode
 
 Sebelum kita mulai, pastikan Anda memiliki hal berikut:
 
-1. Lingkungan Pengembangan: Lingkungan .NET yang berfungsi yang disiapkan di komputer Anda. Jika Anda memerlukan bantuan, lihat[Dokumentasi Aspose](https://reference.aspose.com/barcode/net/).
+1.  Lingkungan Pengembangan: Lingkungan .NET yang berfungsi yang disiapkan di komputer Anda. Jika Anda memerlukan bantuan, lihat[Dokumentasi Aspose](https://reference.aspose.com/barcode/net/).
    
 2.  Aspose.BarCode untuk Pustaka .NET: Unduh dan instal pustaka dari[Aspose merilis halaman](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## Langkah 1: Inisialisasi Generator Kode Batang
 
- Mulailah dengan membuat contoh`BarcodeGenerator`, yang menentukan jenis kode batang sebagai Codabar dan data yang akan dikodekan. Berikut contohnya:
+ Mulailah dengan membuat contoh`BarcodeGenerator`yang menentukan jenis kode batang sebagai Codabar dan data yang akan dikodekan. Berikut contohnya:
 
 ```csharp
 string path = "Your Directory Path"; // Tentukan direktori Anda di sini

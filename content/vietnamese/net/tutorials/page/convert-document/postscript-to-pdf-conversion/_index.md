@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Cập nh�
 Bạn sẽ tạo một thiết bị PDF để tạo điều kiện thuận lợi cho việc chuyển đổi. Bạn có thể chỉ định kích thước trang nếu cần, nhưng kích thước mặc định là 595x842 điểm (A4) thường là đủ.
 
 ```csharp
-// Kích thước trang mặc định là 595x842 và không bắt buộc phải thiết lập trong PdfDevice
+//Kích thước trang mặc định là 595x842 và không bắt buộc phải thiết lập trong PdfDevice
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // Nhưng nếu bạn cần chỉ định kích thước và định dạng hình ảnh hãy sử dụng dòng sau
 //Aspose.Page.EPS.Device.PdfDevice thiết bị = mới Aspose.Page.EPS.Device.PdfDevice(pdfStream, mới System.Drawing.Size(595, 842));

@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/words/advanced-ai-document-processing/summarize-docu
 
 在開始之前，請確保您具備以下條件：
 
-1.  Aspose.Words for .NET 函式庫：從下列位置下載[Aspose 的發布](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET 函式庫：從下列位置下載[Aspose 的發布](https://releases.aspose.com/words/net/).
 2. .NET 環境：設定 .NET 開發環境，例如 Visual Studio。
 3. 基本 C# 知識：本教學涉及編碼，因此熟悉 C# 語法將很有幫助。
 4. AI 模型 API 金鑰：取得您首選的 AI 摘要模型（例如 GPT-4）的 API 金鑰，因為我們將使用它來產生摘要。

@@ -15,7 +15,7 @@ url: /th/net/tutorials/words/advanced-ai-document-processing/summarize-documents
 
 ก่อนที่จะเริ่มต้น ให้แน่ใจว่าคุณมีสิ่งต่อไปนี้:
 
-1.  Aspose.Words สำหรับไลบรารี .NET: ดาวน์โหลดจาก[การเปิดตัวของ Aspose](https://releases.aspose.com/words/net/).
+1. Aspose.Words สำหรับไลบรารี .NET: ดาวน์โหลดจาก[การเปิดตัวของ Aspose](https://releases.aspose.com/words/net/).
 2. สภาพแวดล้อม .NET: ตั้งค่าสภาพแวดล้อมการพัฒนา .NET เช่น Visual Studio
 3. ความรู้พื้นฐานเกี่ยวกับ C#: บทช่วยสอนนี้เกี่ยวข้องกับการเขียนโค้ด ดังนั้นความคุ้นเคยกับไวยากรณ์ C# จะเป็นประโยชน์
 4. คีย์ API ของโมเดล AI: รับคีย์ API สำหรับโมเดลสรุปข้อมูล AI ที่คุณต้องการ (เช่น GPT-4) เนื่องจากเราจะใช้คีย์ดังกล่าวเพื่อสร้างสรุปข้อมูล
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## ขั้นตอนที่ 2: โหลดเอกสารสำหรับการสรุป
 
- โหลดเอกสารที่คุณวางแผนจะสรุป ใช้`Document` คลาสใน Aspose.Words เพื่อเข้าถึงไฟล์ Word ของคุณ:
+ โหลดเอกสารที่คุณวางแผนจะสรุป ใช้`Document`คลาสใน Aspose.Words เพื่อเข้าถึงไฟล์ Word ของคุณ:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- การ`Gpt4OMini` แบบจำลองจะเริ่มต้นด้วยคีย์ API ของคุณเพื่อประมวลผลการสรุปเอกสาร อย่าลืมเปลี่ยน`"API_KEY"`ด้วยรหัส API จริงของคุณ
+ การ`Gpt4OMini` แบบจำลองจะเริ่มต้นด้วยคีย์ API ของคุณเพื่อประมวลผลการสรุปเอกสาร อย่าลืมเปลี่ยน`"API_KEY"` ด้วยรหัส API จริงของคุณ
 
 ## ขั้นตอนที่ 4: สรุปเอกสารเดียว
 

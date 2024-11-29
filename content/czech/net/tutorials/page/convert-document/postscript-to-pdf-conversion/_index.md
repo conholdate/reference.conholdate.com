@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Aktualizu
 Pro usnadnění převodu vytvoříte zařízení PDF. V případě potřeby můžete určit velikost stránky, ale obvykle postačuje výchozí velikost 595 x 842 bodů (A4).
 
 ```csharp
-// Výchozí velikost stránky je 595x842 a není povinné ji nastavovat v PdfDevice
+//Výchozí velikost stránky je 595x842 a není povinné ji nastavovat v PdfDevice
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // Pokud však potřebujete určit velikost a formát obrázku, použijte následující řádek
 //Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream, new System.Drawing.Size(595, 842));
@@ -103,7 +103,7 @@ if (suppressErrors)
 
 ## Závěr
 
-Aspose.Page for .NET je převod PostScriptových souborů do PDF přímočarý proces, který maximalizuje efektivitu a spolehlivost. Podle tohoto výukového programu můžete bez problémů integrovat možnosti převodu do svých aplikací a využít robustní funkce knihovny.
+S Aspose.Page for .NET je převod PostScriptových souborů do PDF přímočarý proces, který maximalizuje efektivitu a spolehlivost. Podle tohoto výukového programu můžete bez problémů integrovat možnosti převodu do svých aplikací a využít robustní funkce knihovny.
 
 ## FAQ
 
@@ -121,7 +121,7 @@ Absolutně! Jak je ukázáno v tomto kurzu, můžete zadat další složky píse
 
 ### Kde mohu hledat další podporu a spojit se s komunitou?
 
- Pro podporu a komunitní diskuse navštivte[Fórum Aspose.Page](https://forum.aspose.com/c/page/39).
+ Pro podporu a komunitní diskuze navštivte[Fórum Aspose.Page](https://forum.aspose.com/c/page/39).
 
 ### Jak mohu získat dočasnou licenci pro Aspose.Page for .NET?
 

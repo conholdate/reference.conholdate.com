@@ -15,7 +15,7 @@ Duikt u in de wereld van barcodegeneratie in .NET? Of u nu een professional bent
 
 Heb je ooit het gevoel gehad dat je barcode er gewoon niet goed uitziet vanwege de hoogte? Stel je voor dat je een barcode maakt die perfect past bij je productlabel of verpakking. Met Aspose.BarCode kun je eenvoudig de hoogte van eendimensionale barcodes aanpassen voor een ideale pasvorm. De bibliotheek geeft je nauwkeurige controle, zodat je barcodes voldoen aan de industrienormen en elke keer scanbaar zijn.  
 
- De tutorial over[Barcodehoogte aanpassen met Aspose.BarCode](./customizing-barcode-height/) begeleidt u stap voor stap door dit proces, van installatie tot implementatie. Of u nu retaillabels of industriële tags ontwerpt, deze gids heeft alles voor u.  
+ De tutorial over[Barcodehoogte aanpassen met Aspose.BarCode](./customizing-barcode-height/)begeleidt u stap voor stap door dit proces, van installatie tot implementatie. Of u nu retaillabels of industriële tags ontwerpt, deze gids heeft alles voor u.  
 
 ## Generatie en uitzonderingsafhandeling met Aspose.BarCode voor .NET  
 

@@ -17,7 +17,7 @@ Aspose.Note 是一個強大的函式庫，適合希望透過 .NET 管理和操�
 
 1. 基本 C# 和 .NET 知識：需要熟悉 C# 程式語言和 .NET 框架。
    
-2.  Aspose.Note for .NET 安裝：從下列位置下載並安裝 Aspose.Note 函式庫：[阿斯普斯網站](https://releases.aspose.com/note/net/).
+2. Aspose.Note for .NET 安裝：從下列位置下載並安裝 Aspose.Note 函式庫：[阿斯普斯網站](https://releases.aspose.com/note/net/).
 
 3. 開發環境：建置合適的開發環境，例如Visual Studio。
 

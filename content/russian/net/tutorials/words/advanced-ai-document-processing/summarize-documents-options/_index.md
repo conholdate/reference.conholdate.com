@@ -15,7 +15,7 @@ url: /ru/net/tutorials/words/advanced-ai-document-processing/summarize-documents
 
 Прежде чем начать, убедитесь, что у вас есть следующее:
 
-1.  Библиотека Aspose.Words для .NET: загрузите ее с[Релизы Aspose](https://releases.aspose.com/words/net/).
+1. Библиотека Aspose.Words для .NET: загрузите ее с[Релизы Aspose](https://releases.aspose.com/words/net/).
 2. Среда .NET: настройте среду разработки .NET, например Visual Studio.
 3. Базовые знания C#: это руководство подразумевает написание кода, поэтому знакомство с синтаксисом C# будет полезным.
 4. Ключ API модели ИИ: получите ключ API для предпочитаемой вами модели резюмирования ИИ (например, GPT-4), так как мы будем использовать его для генерации резюмированных данных.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Шаг 2: Загрузка документов для резюмирования
 
- Загрузите документы, которые вы планируете резюмировать. Используйте`Document` класс в Aspose.Words для доступа к файлам Word:
+ Загрузите документы, которые вы планируете резюмировать. Используйте`Document`класс в Aspose.Words для доступа к файлам Word:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- The`Gpt4OMini` Модель инициализируется с вашим ключом API для обработки резюмирования документа. Обязательно замените`"API_KEY"`с вашим реальным ключом API.
+ The`Gpt4OMini` Модель инициализируется с вашим ключом API для обработки резюмирования документа. Обязательно замените`"API_KEY"` с вашим реальным ключом API.
 
 ## Шаг 4: Подведите итог отдельного документа
 

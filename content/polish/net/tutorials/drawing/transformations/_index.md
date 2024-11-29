@@ -15,11 +15,11 @@ Czy jesteś gotowy, aby przenieść grafikę swojej aplikacji .NET na wyższy po
 
 Pomyśl o globalnych transformacjach jako o zastosowaniu „uniwersalnego filtra” do swojego płótna. Te transformacje wpływają na każdy element narysowany w kontekście graficznym, co czyni je idealnymi do scenariuszy, w których potrzebujesz jednolitego skalowania, obrotu lub translacji w całym projekcie. Używając Aspose.Drawing dla .NET, opanowanie globalnych transformacji jest łatwiejsze niż kiedykolwiek.
 
- Na przykład wyobraź sobie, że tworzysz narzędzie do wizualizacji danych, które dynamicznie zmienia rozmiar wykresów na podstawie wymiarów ekranu. Globalna transformacja skali zapewnia, że wszystko dostosowuje się płynnie, zachowując proporcjonalność i estetykę. Chcesz się dowiedzieć, jak to zrobić? Sprawdź nasz dedykowany samouczek na[Opanowanie transformacji globalnych w Aspose.Drawing dla .NET](./mastering-global-transformations/).
+Na przykład wyobraź sobie, że tworzysz narzędzie do wizualizacji danych, które dynamicznie zmienia rozmiar wykresów na podstawie wymiarów ekranu. Globalna transformacja skali zapewnia, że wszystko dostosowuje się płynnie, zachowując proporcjonalność i estetykę. Chcesz się dowiedzieć, jak to zrobić? Sprawdź nasz dedykowany samouczek na[Opanowanie transformacji globalnych w Aspose.Drawing dla .NET](./mastering-global-transformations/).
 
 ## Przewodnik po lokalnych transformacjach
 
-drugiej strony, lokalne transformacje dają Ci kontrolę punktową. Pomyśl o nich jak o indywidualnym dostosowywaniu każdego elementu układanki. Dzięki Aspose.Drawing możesz używać macierzy transformacji, aby niezależnie manipulować określonymi elementami graficznymi. Jest to szczególnie przydatne, gdy chcesz obrócić pojedynczy obiekt w ustalonym układzie lub utworzyć warstwowe efekty wizualne.
+Z drugiej strony, lokalne transformacje dają Ci kontrolę punktową. Pomyśl o nich jak o indywidualnym dostosowywaniu każdego elementu układanki. Dzięki Aspose.Drawing możesz używać macierzy transformacji, aby niezależnie manipulować określonymi elementami graficznymi. Jest to szczególnie przydatne, gdy chcesz obrócić pojedynczy obiekt w ustalonym układzie lub utworzyć warstwowe efekty wizualne.
 
  Na przykład, projektowanie złożonego komponentu interfejsu użytkownika z przyciskami, które obracają się lub powiększają podczas interakcji? Lokalne transformacje pozwalają skupić się na tych elementach bez zakłócania ogólnego układu. Uzyskaj wskazówki krok po kroku w naszym[Przewodnik po transformacjach lokalnych z Aspose.Drawing dla .NET](./guide-to-local-transformation/).
 

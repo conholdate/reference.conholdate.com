@@ -74,7 +74,7 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- W tej sekcji pokazano, jak utworzyć`Graphics` obiekt, wyczyść powierzchnię i dodaj dwa prostokąty o różnych kolorach i pozycjach. Po zakończeniu rysunków zapisz obraz, aby zachować zmiany.
+ tej sekcji pokazano, jak utworzyć`Graphics` obiekt, wyczyść powierzchnię i dodaj dwa prostokąty o różnych kolorach i pozycjach. Po zakończeniu rysunków zapisz obraz, aby zachować zmiany.
 
 ## Krok 4: Zapisz obraz
 

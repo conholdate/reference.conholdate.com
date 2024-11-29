@@ -87,7 +87,7 @@ Document oneDocumentSummary = model.Summarize(firstDoc, new SummarizeOptions() {
 oneDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.One.docx");
 ```
 
-Questo codice crea una versione riassunta di`firstDoc` e lo salva nella directory degli artefatti. Adatta la lunghezza del sommario alle tue esigenze, breve, media o lunga.
+ Questo codice crea una versione riassunta di`firstDoc` e lo salva nella directory degli artefatti. Adatta la lunghezza del sommario alle tue esigenze, breve, media o lunga.
 
 ## Passaggio 6: Riepilogare più documenti contemporaneamente
 
@@ -120,7 +120,7 @@ Sì, Aspose.Words consente di passare più documenti al modello di intelligenza 
 
 ### Come posso controllare la lunghezza del riepilogo?
 
- Utilizzare il`SummaryLength` opzione all'interno del`SummarizeOptions` classe per impostare la lunghezza desiderata del riepilogo su breve, media o lunga.
+ Utilizzare il`SummaryLength` opzione all'interno del`SummarizeOptions`classe per impostare la lunghezza desiderata del riepilogo su breve, media o lunga.
 
 ### Dove posso trovare risorse aggiuntive per Aspose.Words?
 

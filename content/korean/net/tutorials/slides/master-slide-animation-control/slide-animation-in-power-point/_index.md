@@ -15,7 +15,7 @@ url: /ko/net/tutorials/slides/master-slide-animation-control/slide-animation-in-
 튜토리얼을 시작하기에 앞서 다음 사항이 있는지 확인하세요.
 
 1.  .NET 라이브러리용 Aspose.Slides: 라이브러리를 다운로드하여 설치하세요.[Aspose 다운로드 페이지](https://releases.aspose.com/slides/net/).
-2.  문서 디렉토리: 프레젠테이션 파일을 저장할 디렉토리를 만듭니다. 업데이트`dataDir` 코드 조각의 변수를 문서 디렉토리 경로로 변경합니다.
+2. 문서 디렉토리: 프레젠테이션 파일을 저장할 디렉토리를 만듭니다. 업데이트`dataDir` 코드 조각의 변수를 문서 디렉토리 경로로 변경합니다.
 
 ## 네임스페이스 가져오기
 
@@ -33,7 +33,7 @@ using Aspose.Slides.SlideShow;
 ```csharp
 using (Presentation pres = new Presentation(dataDir + "BetterSlideTransitions.pptx"))
 {
-    //슬라이드 애니메이션 코드는 여기에 있습니다.
+    // 슬라이드 애니메이션 코드는 여기에 있습니다.
 }
 ```
 
@@ -85,7 +85,7 @@ pres.Save(dataDir + "SampleTransition_out.pptx", SaveFormat.Pptx);
 
 ### 전환 효과를 더욱 세부적으로 사용자 정의할 수 있나요?
 
-물론입니다! Aspose.Slides는 광범위한 전환 유형과 사용자 정의를 위한 추가 속성을 제공합니다. 자세한 내용은 다음을 참조하세요.[선적 서류 비치](https://reference.aspose.com/slides/net/).
+ 물론입니다! Aspose.Slides는 광범위한 전환 유형과 사용자 정의를 위한 추가 속성을 제공합니다. 자세한 내용은 다음을 참조하세요.[선적 서류 비치](https://reference.aspose.com/slides/net/).
 
 ### 무료 체험판이 있나요?
 

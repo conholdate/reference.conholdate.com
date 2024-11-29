@@ -14,7 +14,7 @@ url: /zh/net/tutorials/cad/guide-to-exporting-cad-format/
 ## 使用 Aspose.CAD for .NET 将 CAD 导出为光栅图像转换  
 想要将 CAD 布局转换为令人惊叹的光栅图像？想象一下：您有一个复杂的 CAD 设计，但您的客户想要一个简单的 JPEG 预览。Aspose.CAD for .NET 使这项任务变得轻而易举。借助其强大的 API，您可以将 DWG 或 DXF 等 CAD 文件导出为 JPEG、PNG 和 BMP 等格式。  
 
-方法如下：加载您的 CAD 文件，配置光栅化选项，然后指定输出格式。瞧！您的 CAD 杰作现在是一个清晰、高质量的图像，可以随时分享。最好的部分是什么？它快速且易于实现。  
+方法如下：加载 CAD 文件，配置光栅化选项，然后指定输出格式。瞧！您的 CAD 杰作现在是一个清晰、高质量的图像，可以随时分享。最好的部分是什么？它快速且易于实现。  
 
 需要更多详细信息？查看完整教程[将 CAD 导出为光栅图像转换](./export-cad-to-raster-image-conversion/).  
 
@@ -29,4 +29,4 @@ url: /zh/net/tutorials/cad/guide-to-exporting-cad-format/
 ### [使用 Aspose.CAD for .NET 将 CAD 导出为光栅图像转换](./export-cad-to-raster-image-conversion/)
 了解如何使用 Aspose.CAD for .NET 高效地将 CAD 布局转换为各种光栅图像格式。本综合指南将通过清晰的代码引导您完成整个过程。
 ### [在 Aspose.CAD for .NET 中将 DGN 转换为 PDF](./convert-dgn-to-pdf/)
-了解如何使用功能强大的 Aspose.CAD for .NET 库轻松将 DGN 文件转换为 PDF。本分步指南适用于各个级别的开发人员。
+了解如何使用功能强大的 Aspose.CAD .NET 库轻松将 DGN 文件转换为 PDF。本分步指南适用于各个级别的开发人员。

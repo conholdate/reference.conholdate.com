@@ -15,7 +15,7 @@ Arricchire le tue presentazioni con accattivanti animazioni di slide può aument
 Prima di immergerci nel tutorial, assicurati di avere quanto segue:
 
 1.  Aspose.Slides per la libreria .NET: scaricare e installare la libreria da[Pagina di download di Aspose](https://releases.aspose.com/slides/net/).
-2.  Directory dei documenti: crea una directory per archiviare i file della presentazione. Aggiorna il`dataDir` variabile nei frammenti di codice con il percorso alla directory del documento.
+2. Directory dei documenti: crea una directory per archiviare i file della presentazione. Aggiorna il`dataDir` variabile nei frammenti di codice con il percorso alla directory del documento.
 
 ## Importazione degli spazi dei nomi
 
@@ -33,7 +33,7 @@ using Aspose.Slides.SlideShow;
 ```csharp
 using (Presentation pres = new Presentation(dataDir + "BetterSlideTransitions.pptx"))
 {
-    //Il codice per le animazioni delle diapositive va qui
+    // Il codice per le animazioni delle diapositive va qui
 }
 ```
 
@@ -85,7 +85,7 @@ L'animazione delle slide nelle tue presentazioni aggiunge un tocco dinamico, ren
 
 ### Posso personalizzare ulteriormente gli effetti di transizione?
 
-Assolutamente! Aspose.Slides offre un'ampia gamma di tipi di transizione e proprietà aggiuntive per la personalizzazione. Per maggiori dettagli, fare riferimento a[documentazione](https://reference.aspose.com/slides/net/).
+ Assolutamente! Aspose.Slides offre un'ampia gamma di tipi di transizione e proprietà aggiuntive per la personalizzazione. Per maggiori dettagli, fare riferimento a[documentazione](https://reference.aspose.com/slides/net/).
 
 ### È disponibile una prova gratuita?
 
@@ -93,7 +93,7 @@ Assolutamente! Aspose.Slides offre un'ampia gamma di tipi di transizione e propr
 
 ### Dove posso ottenere supporto per Aspose.Slides?
 
- Visita il[Forum di Aspose.Slides](https://forum.aspose.com/c/slides/11) per il supporto e le discussioni della comunità.
+ Visitare il[Forum di Aspose.Slides](https://forum.aspose.com/c/slides/11) per il supporto e le discussioni della comunità.
 
 ### Come posso ottenere una licenza temporanea?
 

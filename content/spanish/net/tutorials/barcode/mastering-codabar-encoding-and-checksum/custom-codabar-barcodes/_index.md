@@ -15,7 +15,7 @@ Bienvenido a esta guía paso a paso sobre cómo usar Aspose.BarCode para .NET pa
 
 Antes de comenzar, asegúrese de tener lo siguiente:
 
-1. Entorno de desarrollo: un entorno .NET funcional configurado en su máquina. Si necesita ayuda, consulte la[Documentación de Aspose](https://reference.aspose.com/barcode/net/).
+1.  Entorno de desarrollo: un entorno .NET funcional configurado en su máquina. Si necesita ayuda, consulte la[Documentación de Aspose](https://reference.aspose.com/barcode/net/).
    
 2.  Biblioteca Aspose.BarCode para .NET: Descargue e instale la biblioteca desde[Página de lanzamiento de Aspose](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## Paso 1: Inicializar el generador de código de barras
 
- Comience creando una instancia de`BarcodeGenerator`, especificando el tipo de código de barras como Codabar y los datos que se van a codificar. A continuación, se muestra un ejemplo:
+ Comience creando una instancia de`BarcodeGenerator`especificando el tipo de código de barras como Codabar y los datos que se van a codificar. A continuación, se muestra un ejemplo:
 
 ```csharp
 string path = "Your Directory Path"; // Especifique su directorio aquí

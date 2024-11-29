@@ -98,7 +98,7 @@ catch (Exception e)
  네! Aspose.BarCode for .NET의 체험판을 다운로드할 수 있습니다.[여기](https://releases.aspose.com/barcode/net/).
 
 ### Aspose.BarCode for .NET 라이선스를 어떻게 구매할 수 있나요?
-구매 페이지로 이동[여기](https://purchase.conholdate.com/buy) Aspose.BarCode for .NET에 대한 라이선스를 취득했습니다.
+ 구매 페이지로 이동[여기](https://purchase.conholdate.com/buy) Aspose.BarCode for .NET에 대한 라이선스를 취득했습니다.
 
 ### Aspose.BarCode for .NET에 대한 도움과 지원은 어디에서 받을 수 있나요?
  도움이 필요하면 Aspose.BarCode for .NET 지원 포럼을 방문하세요.[여기](https://forum.aspose.com/c/barcode/13) 지역 사회와 지원팀에 연결하세요.

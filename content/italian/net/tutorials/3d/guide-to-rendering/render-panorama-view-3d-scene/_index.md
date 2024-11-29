@@ -87,7 +87,7 @@ using (var renderer = Renderer.CreateRenderer())
 }
 ```
 
-- Texture di rendering cubo: viene utilizzata per il rendering di una mappa cubo per la vista panoramica. Definiamo qui una texture 512x512.
+- Texture di rendering cubo: viene utilizzata per il rendering di una mappa cubo per la vista panoramica. Qui definiamo una texture 512x512.
 - Texture di rendering finale: questa è la texture che conterrà la vista panoramica equrettangolare finale.
 
 ## Passaggio 4: configurare la viewport e rendere la scena

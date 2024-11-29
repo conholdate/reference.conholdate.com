@@ -15,7 +15,7 @@ Você está mergulhando no mundo da geração de códigos de barras em .NET? Sej
 
 Já sentiu que seu código de barras não parece certo por causa da altura? Imagine criar um código de barras que se encaixe perfeitamente no rótulo ou na embalagem do seu produto. Com o Aspose.BarCode, você pode ajustar facilmente a altura de códigos de barras unidimensionais para um ajuste ideal. A biblioteca oferece controle preciso, garantindo que seus códigos de barras atendam aos padrões da indústria e sejam escaneáveis sempre.  
 
- O tutorial sobre[Personalizando a altura do código de barras com Aspose.BarCode](./customizing-barcode-height/) guia você passo a passo por esse processo, da instalação à implementação. Não importa se você está projetando etiquetas de varejo ou etiquetas industriais, este guia tem tudo o que você precisa.  
+ O tutorial sobre[Personalizando a altura do código de barras com Aspose.BarCode](./customizing-barcode-height/)guia você passo a passo por esse processo, da instalação à implementação. Não importa se você está projetando etiquetas de varejo ou etiquetas industriais, este guia tem tudo o que você precisa.  
 
 ## Geração e tratamento de exceções com Aspose.BarCode para .NET  
 

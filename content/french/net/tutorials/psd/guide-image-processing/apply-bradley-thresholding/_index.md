@@ -54,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     // Binariser l'image en utilisant la méthode Bradley
     image.BinarizeBradley(threshold);
 
-    // Enregistrez l'image binarisée au format PNG
+    // Enregistrer l'image binarisée au format PNG
     image.Save(outputFile, new PngOptions());
 }
 ```

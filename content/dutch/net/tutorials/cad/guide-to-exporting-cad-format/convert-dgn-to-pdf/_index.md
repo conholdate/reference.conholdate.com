@@ -98,4 +98,4 @@ Absoluut! Aspose.CAD is ontworpen om complexe CAD-taken te vereenvoudigen, waard
  U kunt tijdelijke licenties aanvragen[hier](https://purchase.conholdate.com/temporary-license/).
 
 ### Heeft u hulp nodig of vragen?  
-Doe mee aan het gesprek in de[Aspose.CAD-forum](https://forum.aspose.com/c/cad/19) voor ondersteuning en vragen van de gemeenschap.
+ Doe mee aan het gesprek in de[Aspose.CAD-forum](https://forum.aspose.com/c/cad/19) voor ondersteuning en vragen van de gemeenschap.

@@ -48,7 +48,7 @@ Graphics graphics = Graphics.FromImage(bitmap);
 
 ## ステップ3: イメージの読み込み
 
-表示したい画像をロードします。ファイル パスをドキュメント ディレクトリに更新します。
+表示する画像をロードします。ドキュメント ディレクトリでファイル パスを更新します。
 
 ```csharp
 Bitmap image = new Bitmap("Your Document Directory" + @"Images\aspose_logo.png");

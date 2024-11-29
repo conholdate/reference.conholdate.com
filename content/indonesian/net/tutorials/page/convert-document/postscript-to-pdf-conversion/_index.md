@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Perbarui 
 Anda akan membuat perangkat PDF untuk memfasilitasi konversi. Anda dapat menentukan ukuran halaman jika perlu, tetapi ukuran default 595x842 poin (A4) biasanya sudah cukup.
 
 ```csharp
-// Ukuran halaman default adalah 595x842 dan tidak wajib untuk mengaturnya di PdfDevice
+//Ukuran halaman default adalah 595x842 dan tidak wajib untuk mengaturnya di PdfDevice
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // Namun jika Anda perlu menentukan ukuran dan format gambar gunakan baris berikut
 //Aspose.Page.EPS.Device.PdfDevice perangkat = new Aspose.Page.EPS.Device.PdfDevice(pdfStream, new System.Drawing.Size(595, 842));

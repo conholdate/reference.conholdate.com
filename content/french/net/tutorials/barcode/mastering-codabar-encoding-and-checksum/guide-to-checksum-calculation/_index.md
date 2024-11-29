@@ -65,7 +65,7 @@ Enfin, produisons un code-barres Codabar qui utilise une somme de contrôle Mod1
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Activer la somme de contrôle
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Ensemble Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Ensemble Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Vous avez maintenant généré avec succès des codes-barres Codabar avec différents types de sommes de contrôle à l'aide d'Aspose.BarCode pour .NET. Ces sommes de contrôle sont essentielles pour maintenir l'intégrité des données codées, garantissant que les informations numérisables sont à la fois précises et fiables.
 
- Si vous avez des questions ou rencontrez des problèmes, n'hésitez pas à contacter la communauté dynamique du[Forum Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+Si vous avez des questions ou rencontrez des problèmes, n'hésitez pas à contacter la communauté dynamique du[Forum Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## FAQ
 
@@ -95,4 +95,4 @@ Absolument ! Aspose.BarCode pour .NET est conçu pour être polyvalent et compat
 
 ### Où puis-je trouver la documentation complète d'Aspose.BarCode pour .NET ?
 
- Une documentation complète pour Aspose.BarCode est disponible[ici](https://reference.aspose.com/barcode/net/).
+Une documentation complète pour Aspose.BarCode est disponible[ici](https://reference.aspose.com/barcode/net/).

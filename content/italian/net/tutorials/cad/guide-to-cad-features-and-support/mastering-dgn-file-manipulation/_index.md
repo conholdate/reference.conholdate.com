@@ -127,4 +127,4 @@ In questo tutorial, abbiamo imparato come usare Aspose.CAD per .NET per gestire 
 
 ### Hai bisogno di aiuto o hai domande?
 
- Per supporto o per porre domande, visita la community Aspose.CAD[forum di supporto](https://forum.aspose.com/c/cad/19).
+Per supporto o per porre domande, visita la community Aspose.CAD[forum di supporto](https://forum.aspose.com/c/cad/19).

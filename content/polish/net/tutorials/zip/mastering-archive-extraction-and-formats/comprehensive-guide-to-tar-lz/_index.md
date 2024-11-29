@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // Zastąp swoją rzeczywistą ścieżką
 ```
 
-Upewnij się, że wymieniasz`"YourDocumentDirectoryPath"` z rzeczywistą ścieżką, gdzie znajdują się Twoje pliki, aby kod działał prawidłowo.
+ Upewnij się, że wymieniasz`"YourDocumentDirectoryPath"` rzeczywistą ścieżką, gdzie znajdują się Twoje pliki, aby kod działał prawidłowo.
 
 ## Krok 2: Kompresja pojedynczego pliku
 

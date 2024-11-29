@@ -16,7 +16,7 @@ Bij .NET-ontwikkeling is het essentieel om Word-documenten efficiënt te verwerk
 Voordat u met het conversieproces begint, moet u ervoor zorgen dat u over het volgende beschikt:
 
 - Ontwikkelomgeving: Visual Studio of een andere .NET IDE geïnstalleerd.
-- Aspose.Words voor .NET: Download en installeer het vanaf de[Aspose-website](https://releases.aspose.com/words/net/).
+-  Aspose.Words voor .NET: Download en installeer het vanaf de[Aspose-website](https://releases.aspose.com/words/net/).
 - Documentbestanden: bereid de DOCX-bestanden voor die u wilt converteren.
 
 ## Stap 1: Importeer de benodigde naamruimten

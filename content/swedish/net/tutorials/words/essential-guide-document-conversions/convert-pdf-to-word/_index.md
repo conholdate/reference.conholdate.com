@@ -17,7 +17,7 @@ Innan vi går in i konverteringsprocessen, låt oss se till att du har allt du b
 
 -  Aspose.Words för .NET: Se till att du har den senaste versionen. Om du inte gör det, ladda ner den[här](https://releases.aspose.com/words/net/).
 - .NET Framework: Se till att .NET Framework är installerat på din dator.
-- PDF-dokument: Ha PDF-filen som du vill konvertera redo.
+- PDF-dokument: Ha PDF-filen du vill konvertera redo.
 - Utvecklingsmiljö: Använd Visual Studio eller valfri IDE.
 
 ## Ställa in din miljö

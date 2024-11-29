@@ -86,7 +86,7 @@ Aspose.Words for .NET udostępnia opcje określania kodowania podczas zapisywani
 
 ### Czy zachowam formatowanie pliku DOCX w pliku TXT?
 
-Nie, pliki TXT są zwykłym tekstem i nie obsługują formatowania rich text. Wyjście będzie składać się wyłącznie z treści tekstowej.
+Nie, pliki TXT są zwykłym tekstem i nie obsługują żadnego formatowania rich text. Wyjście będzie składać się wyłącznie z treści tekstowej.
 
 ### Czy mogę konwertować pliki DOCX do innych formatów?
 

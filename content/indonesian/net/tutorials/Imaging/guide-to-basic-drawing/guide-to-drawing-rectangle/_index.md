@@ -74,7 +74,7 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- Bagian ini menunjukkan cara membuat`Graphics` objek, bersihkan permukaannya, dan tambahkan dua persegi panjang dengan warna dan posisi yang berbeda. Setelah gambar Anda selesai, simpan gambar untuk menyimpan perubahan Anda.
+Bagian ini menunjukkan cara membuat`Graphics` objek, bersihkan permukaannya, dan tambahkan dua persegi panjang dengan warna dan posisi yang berbeda. Setelah gambar Anda selesai, simpan gambar untuk menyimpan perubahan Anda.
 
 ## Langkah 4: Simpan Gambar
 

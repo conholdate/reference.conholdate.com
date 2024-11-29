@@ -9,7 +9,7 @@ url: /hu/net/tutorials/words/advanced-ai-document-processing/efficient-document-
 ---
 ## Bevezetés
 
-A hatékony dokumentumkezelés napjaink digitális világában nélkülözhetetlenné vált. Az Aspose.Words for .NET segítségével a dokumentumok összegzése könnyebbé és hatékonyabbá válik, különösen, ha az OpenAI modellek képességeivel párosul. Ez az útmutató lépésről lépésre végigvezeti Önt az Aspose.Words for .NET és OpenAI modellek használatán a dokumentumok automatikus összegzéséhez, így időt takaríthat meg és gyors betekintést nyújthat. Akár jelentéseket, tudományos dolgozatokat vagy kiterjedt dokumentációt foglal össze, ez az útmutató segít abban, hogy a legtöbbet hozza ki eszközeiből.
+hatékony dokumentumkezelés napjaink digitális világában nélkülözhetetlenné vált. Az Aspose.Words for .NET segítségével a dokumentumok összegzése könnyebbé és hatékonyabbá válik, különösen, ha az OpenAI modellek képességeivel párosul. Ez az útmutató lépésről lépésre végigvezeti Önt az Aspose.Words for .NET és OpenAI modellek használatán a dokumentumok automatikus összegzéséhez, így időt takaríthat meg és gyors betekintést nyújthat. Akár jelentéseket, tudományos dolgozatokat vagy kiterjedt dokumentációt foglal össze, ez az útmutató segít abban, hogy a legtöbbet hozza ki eszközeiből.
 
 ## Előfeltételek
 
@@ -20,7 +20,7 @@ Győződjön meg arról, hogy kompatibilis .NET-keretrendszer-verzióval rendelk
  Töltse le az Aspose.Words for .NET csomagot a[Aspose honlapja](https://releases.aspose.com/words/net/), és telepítse a projektbe a Visual Studio NuGet Package Manager használatával.
 
 ### Szerezzen be egy OpenAI API-kulcsot
- Az OpenAI nyelvi modelljeinek eléréséhez API-kulcsra lesz szüksége. Regisztráljon a[OpenAI weboldal](https://openai.com/), vegye le a kulcsát, és tartsa biztonságban az integrációhoz.
+ Az OpenAI nyelvi modelljeinek eléréséhez API-kulcsra lesz szüksége. Regisztráljon a[OpenAI weboldal](https://openai.com/)vegye le a kulcsát, és tartsa biztonságban az integrációhoz.
 
 ### Integrált Fejlesztési Környezet
 A Visual Studio IDE-ként való használata leegyszerűsíti a kódolási és hibakeresési folyamatot.

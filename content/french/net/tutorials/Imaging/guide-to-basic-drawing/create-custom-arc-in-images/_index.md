@@ -23,7 +23,7 @@ Une fois ces prérequis réunis, nous pouvons commencer à dessiner un arc !
 
 ## Importer les espaces de noms requis
 
-Tout d'abord, vous devez importer les espaces de noms nécessaires pour accéder aux fonctionnalités fournies par Aspose.Imaging. Ajoutez les éléments suivants`using` instructions en haut de votre fichier C# :
+ Tout d'abord, vous devez importer les espaces de noms nécessaires pour accéder aux fonctionnalités fournies par Aspose.Imaging. Ajoutez les éléments suivants`using` instructions en haut de votre fichier C# :
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## Étape 1 : créer l’image et enregistrer le flux
 
 ```csharp
-// Définir le répertoire pour enregistrer l'image
+//Définir le répertoire pour enregistrer l'image
 string dataDir = "Your Document Directory"; // Mettez à jour ceci selon votre chemin préféré
 
 // Créer un flux pour enregistrer l'image BMP
@@ -78,7 +78,7 @@ Maintenant, définissons les paramètres de l’arc et dessinons-le :
 
 ```csharp
             // Définir les paramètres de l'arc
-            int width = 100;   //Largeur du rectangle de délimitation
+            int width = 100;   // Largeur du rectangle de délimitation
             int height = 200;  // Hauteur du rectangle de délimitation
             int startAngle = 45;  // Angle de départ en degrés
             int sweepAngle = 270; // Angle de balayage en degrés

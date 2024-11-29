@@ -15,7 +15,7 @@ Chcete snadno převést rozvržení CAD do formátů rastrových obrázků pomoc
 
 Než začnete, ujistěte se, že máte následující:
 
--  Aspose.CAD for .NET Library: Stáhněte a nainstalujte knihovnu z[Web Aspose.CAD](https://releases.aspose.com/cad/net/).
+- Aspose.CAD for .NET Library: Stáhněte a nainstalujte knihovnu z[Web Aspose.CAD](https://releases.aspose.com/cad/net/).
 -  Výkresový soubor CAD: Mějte svůj výkresový soubor CAD (např.`conic_pyramid.dxf`) připravené k převodu.
 
 ## Importujte požadované jmenné prostory
@@ -124,6 +124,6 @@ Gratuluji! Naučili jste se, jak efektivně převádět rozvržení CAD do form�
 
  Ano, dočasné licence jsou k dispozici; můžete požádat o jeden[zde](https://purchase.conholdate.com/temporary-license/).
 
-### Kde získám podrobnou dokumentaci?
+### Kde mohu získat podrobnou dokumentaci?
 
  Navštivte komplexní dokumentaci[zde](https://reference.aspose.com/cad/net/) pro více informací.

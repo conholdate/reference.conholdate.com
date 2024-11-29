@@ -88,10 +88,10 @@ Ya, Aspose.Slides untuk .NET dirancang untuk menangani presentasi dalam ukuran a
  Anda dapat mengunduh versi uji coba gratis dari[Di Sini](https://releases.aspose.com/).
 
 ### Q3: Apakah ada pilihan ekspor PDF lain yang tersedia?
-Ya, Anda dapat menyesuaikan font, tata letak halaman, kompresi, dan lainnya menggunakan`PdfOptions`kelas.
+Ya, Anda dapat menyesuaikan font, tata letak halaman, kompresi, dan lainnya menggunakan`PdfOptions` kelas.
 
 ### Q4: Bisakah saya mengekspor hanya slide tertentu?
- Tentu saja! Anda dapat memilih slide tertentu menggunakan`Slides` koleksi di`Presentation`kelas.
+ Tentu saja! Anda dapat memilih slide tertentu menggunakan`Slides` koleksi di`Presentation` kelas.
 
 ### Q5: Di mana saya dapat menemukan contoh tambahan?
  Kunjungi[Dokumentasi Aspose.Slides untuk .NET](https://reference.aspose.com/slides/net/) untuk lebih banyak contoh dan kasus penggunaan.

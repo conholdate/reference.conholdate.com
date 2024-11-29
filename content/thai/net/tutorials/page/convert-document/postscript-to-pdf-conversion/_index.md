@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // อัป
 คุณจะสร้างอุปกรณ์ PDF เพื่อช่วยอำนวยความสะดวกในการแปลง คุณสามารถระบุขนาดหน้ากระดาษได้หากจำเป็น แต่โดยทั่วไปแล้วขนาดเริ่มต้นที่ 595x842 พอยต์ (A4) ก็เพียงพอแล้ว
 
 ```csharp
-// ขนาดหน้าเริ่มต้นคือ 595x842 และไม่จำเป็นต้องตั้งค่าใน PdfDevice
+//ขนาดหน้าเริ่มต้นคือ 595x842 และไม่จำเป็นต้องตั้งค่าใน PdfDevice
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // แต่หากคุณต้องการระบุขนาดและรูปแบบภาพให้ใช้บรรทัดต่อไปนี้
 //อุปกรณ์ Aspose.Page.EPS.Device.PdfDevice = ใหม่ Aspose.Page.EPS.Device.PdfDevice(pdfStream, ใหม่ System.Drawing.Size(595, 842));

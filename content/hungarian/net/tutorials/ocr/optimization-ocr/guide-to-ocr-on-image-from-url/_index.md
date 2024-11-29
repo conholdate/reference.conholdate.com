@@ -57,7 +57,7 @@ AsposeOcr api = new AsposeOcr();
 
 ## 5. lépés: Szöveg felismerése a képből
 
- Használja a`RecognizeImageFromUri` módszert a szöveg kinyerésére a kép URL-jéből. Különféle felismerési beállításokat állíthat be saját igényei szerint:
+ Használja a`RecognizeImageFromUri` módszer a szöveg kinyerésére a kép URL-jéből. Különféle felismerési beállításokat állíthat be saját igényei szerint:
 
 ```csharp
 RecognitionResult result = api.RecognizeImageFromUri(uri, new RecognitionSettings

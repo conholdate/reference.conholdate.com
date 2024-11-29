@@ -65,7 +65,7 @@ Por último, produzcamos un código de barras Codabar que utilice una suma de co
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Habilitar suma de comprobación
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Establecer Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Establecer Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Ha generado correctamente códigos de barras Codabar con distintos tipos de suma de comprobación mediante Aspose.BarCode para .NET. Estas sumas de comprobación son esenciales para mantener la integridad de los datos codificados y garantizar que la información que se puede escanear sea precisa y confiable.
 
- Si tiene alguna pregunta o se encuentra con algún problema, no dude en comunicarse con la vibrante comunidad en[Foro Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+Si tiene alguna pregunta o se encuentra con algún problema, no dude en comunicarse con la vibrante comunidad en[Foro Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## Preguntas frecuentes
 
@@ -95,4 +95,4 @@ Los cálculos de suma de comprobación proporcionan una capa adicional de integr
 
 ### ¿Dónde puedo encontrar la documentación completa de Aspose.BarCode para .NET?
 
- Se puede encontrar documentación completa de Aspose.BarCode[aquí](https://reference.aspose.com/barcode/net/).
+Se puede encontrar documentación completa de Aspose.BarCode[aquí](https://reference.aspose.com/barcode/net/).

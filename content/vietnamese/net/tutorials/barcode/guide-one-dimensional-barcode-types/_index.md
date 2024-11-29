@@ -15,7 +15,7 @@ Bạn có đang dấn thân vào thế giới tạo mã vạch trong .NET không
 
 Bạn đã bao giờ cảm thấy mã vạch của mình trông không ổn vì chiều cao của nó chưa? Hãy tưởng tượng bạn đang tạo ra một mã vạch hoàn toàn phù hợp với nhãn sản phẩm hoặc bao bì của mình. Với Aspose.BarCode, bạn có thể dễ dàng điều chỉnh chiều cao của mã vạch một chiều để có được sự vừa vặn lý tưởng. Thư viện cung cấp cho bạn khả năng kiểm soát chính xác, đảm bảo mã vạch của bạn đáp ứng các tiêu chuẩn của ngành và có thể quét được mọi lúc.  
 
- Hướng dẫn về[Tùy chỉnh chiều cao mã vạch với Aspose.BarCode](./customizing-barcode-height/) hướng dẫn bạn từng bước trong quy trình này, từ cài đặt đến triển khai. Cho dù bạn đang thiết kế nhãn bán lẻ hay nhãn công nghiệp, hướng dẫn này đều có thể giúp bạn.  
+ Hướng dẫn về[Tùy chỉnh chiều cao mã vạch với Aspose.BarCode](./customizing-barcode-height/)hướng dẫn bạn từng bước trong quy trình này, từ cài đặt đến triển khai. Cho dù bạn đang thiết kế nhãn bán lẻ hay nhãn công nghiệp, hướng dẫn này đều có thể giúp bạn.  
 
 ## Tạo và xử lý ngoại lệ với Aspose.BarCode cho .NET  
 

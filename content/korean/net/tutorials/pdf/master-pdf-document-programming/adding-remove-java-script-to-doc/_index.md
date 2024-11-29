@@ -41,7 +41,7 @@ Document doc = new Document();
 doc.Pages.Add();
 ```
 
-여기서 JavaScript를 많이 사용한 PDF 구축을 시작하게 될 겁니다.
+여기서 JavaScript를 많이 사용한 PDF 구축을 시작할 수 있습니다.
 
 ## 2단계: PDF에 JavaScript 추가
 

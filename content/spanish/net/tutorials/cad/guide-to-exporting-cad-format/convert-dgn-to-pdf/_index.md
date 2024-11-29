@@ -48,7 +48,7 @@ using (DgnImage cadImage = (DgnImage)Image.Load(sourceFilePath))
 
 ## Paso 3: Configurar las opciones de rasterización
 
-A continuación, configure las opciones de rasterización para definir cómo se representará su DGN en el PDF:
+continuación, configure las opciones de rasterización para definir cómo se representará su DGN en el PDF:
 
 ```csharp
 CadRasterizationOptions rasterizationOptions = new CadRasterizationOptions
@@ -98,4 +98,4 @@ cadImage.Save(myDir + "ExportDGNToPdf_out.pdf", pdfOptions);
  Puedes solicitar licencias temporales[aquí](https://purchase.conholdate.com/temporary-license/).
 
 ### ¿Necesita ayuda o tiene preguntas?  
-Únase a la conversación en el[Foro de Aspose.CAD](https://forum.aspose.com/c/cad/19) Para apoyo y consultas de la comunidad.
+ Únase a la conversación en el[Foro de Aspose.CAD](https://forum.aspose.com/c/cad/19) Para apoyo y consultas de la comunidad.

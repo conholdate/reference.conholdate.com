@@ -15,7 +15,7 @@ url: /ar/net/tutorials/words/advanced-ai-document-processing/summarize-documents
 
 قبل البدء، تأكد من أن لديك ما يلي:
 
-1.  مكتبة Aspose.Words لـ .NET: قم بتنزيلها من[إصدارات Aspose](https://releases.aspose.com/words/net/).
+1. مكتبة Aspose.Words لـ .NET: قم بتنزيلها من[إصدارات Aspose](https://releases.aspose.com/words/net/).
 2. بيئة .NET: قم بإعداد بيئة تطوير .NET، مثل Visual Studio.
 3. المعرفة الأساسية بلغة C#: يتضمن هذا البرنامج التعليمي البرمجة، لذا فإن الإلمام بقواعد لغة C# سيكون مفيدًا.
 4. مفتاح API لنموذج الذكاء الاصطناعي: احصل على مفتاح API لنموذج تلخيص الذكاء الاصطناعي المفضل لديك (على سبيل المثال، GPT-4)، حيث سنستخدمه لإنشاء الملخصات.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## الخطوة 2: تحميل المستندات للتلخيص
 
- قم بتحميل المستندات التي تخطط لتلخيصها. استخدم`Document` الفئة في Aspose.Words للوصول إلى ملفات Word الخاصة بك:
+ قم بتحميل المستندات التي تخطط لتلخيصها. استخدم`Document`الفئة في Aspose.Words للوصول إلى ملفات Word الخاصة بك:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- ال`Gpt4OMini` يتم تهيئة النموذج باستخدام مفتاح API الخاص بك لمعالجة تلخيص المستندات. تأكد من استبدال`"API_KEY"`مع مفتاح API الفعلي الخاص بك.
+ ال`Gpt4OMini` يتم تهيئة النموذج باستخدام مفتاح API الخاص بك لمعالجة تلخيص المستندات. تأكد من استبدال`"API_KEY"` مع مفتاح API الفعلي الخاص بك.
 
 ## الخطوة 4: تلخيص مستند واحد
 

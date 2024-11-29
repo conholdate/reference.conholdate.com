@@ -73,7 +73,7 @@ options.SaveOptions = new PdfSaveOptions();
 
 ## Steg 6: Kör TeX Job
 
- Skapa en`TeXJob`, kör den sedan för att bearbeta dina filer.
+ Skapa en`TeXJob`, kör det sedan för att bearbeta dina filer.
 
 ```csharp
 TeXJob job = new TeXJob("hello-world", new PdfDevice(), options);

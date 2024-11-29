@@ -351,7 +351,7 @@ Nachfolgend finden Sie Links zu einigen nützlichen Ressourcen, die Sie möglich
 
 **Welcome to Aspose.SVG for .NET**
 
-Die API von Aspose.SVG für .NET wurde entwickelt, um eine breite Palette von Funktionen für die Verarbeitung und Darstellung von SVG-Dokumenten bereitzustellen. Das Document Object Model (DOM) ist vollständig mit den offiziellen SVG-Spezifikationen kompatibel und ermöglicht Ihnen die vollständige Kontrolle über SVG-Knoten und deren Eigenschaften. Sie können den Dokumentbaum problemlos ändern, Knoten hinzufügen und entfernen, die Knoteneigenschaften ändern, Filter und Skripte anwenden, wie es in den offiziellen Spezifikationen beschrieben ist. Mit der API können Sie Ihr SVG-Dokument in PDF und gängige Bildformate wie BMP, PNG, JPEG und GIF konvertieren.
+Die API von Aspose.SVG für .NET wurde entwickelt, um eine breite Palette von Funktionen für die Verarbeitung und Darstellung von SVG-Dokumenten bereitzustellen. Das Document Object Model (DOM) ist vollständig mit den offiziellen SVG-Spezifikationen kompatibel und ermöglicht Ihnen die vollständige Kontrolle über SVG-Knoten und deren Eigenschaften. Sie können den Dokumentbaum problemlos ändern, Knoten hinzufügen und entfernen, die Knoteneigenschaften ändern, Filter und Skripte anwenden, wie es in den offiziellen Spezifikationen beschrieben wird. Mit der API können Sie Ihr SVG-Dokument in PDF und gängige Bildformate wie BMP, PNG, JPEG und GIF konvertieren.
 
 {{% /alert %}} 
 
