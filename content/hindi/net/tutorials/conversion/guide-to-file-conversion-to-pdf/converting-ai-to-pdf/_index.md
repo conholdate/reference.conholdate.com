@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET एपीआई
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके आसानी से AI फ़ाइलों को PDF प्रारूप में कनवर्ट करने का तरीका जानें। यह ट्यूटोरियल आपको इंस्टॉलेशन, कोड सेटअप और रूपांतरण प्रक्रिया के माध्यम से मार्गदर्शन करता है।
 type: docs
 weight: 10
-url: /hi/net/tutorials/conversion/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-to-pdf/
+url: /hi/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-to-pdf/
 ---
 ## परिचय
 

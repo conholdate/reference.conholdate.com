@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET API
 description: GroupDocs.Conversion for .NET을 사용하여 AI 파일을 PDF 형식으로 손쉽게 변환하는 방법을 알아보세요. 이 튜토리얼은 설치, 코드 설정 및 변환 프로세스를 안내합니다.
 type: docs
 weight: 10
-url: /ko/net/tutorials/conversion/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-to-pdf/
+url: /ko/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-to-pdf/
 ---
 ## 소개
 

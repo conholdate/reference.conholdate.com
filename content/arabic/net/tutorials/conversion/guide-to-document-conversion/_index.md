@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET API
 description: استكشف البرامج التعليمية التفصيلية حول تحويل تنسيقات المستندات المختلفة باستخدام GroupDocs.Conversion لـ .NET وتبسيط عملية إدارة الملفات لديك.
 type: docs
 weight: 23
-url: /ar/net/tutorials/conversion/tutorials/conversion/guide-to-document-conversion/
+url: /ar/net/tutorials/conversion/guide-to-document-conversion/
 ---
 ## مقدمة
 

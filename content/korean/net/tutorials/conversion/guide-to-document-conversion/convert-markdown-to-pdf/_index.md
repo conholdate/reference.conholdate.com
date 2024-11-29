@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET API
 description: 이 자세한 튜토리얼에서는 .NET용 GroupDocs.Conversion 라이브러리를 사용하여 Markdown(MD) 파일을 Portable Document Format(PDF)으로 쉽게 변환하는 방법을 알아봅니다.
 type: docs
 weight: 19
-url: /ko/net/tutorials/conversion/tutorials/conversion/guide-to-document-conversion/convert-markdown-to-pdf/
+url: /ko/net/tutorials/conversion/guide-to-document-conversion/convert-markdown-to-pdf/
 ---
 ## 소개
 

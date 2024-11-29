@@ -3,7 +3,7 @@ title: Komplexní návody GroupDocs.Conversion pro .NET
 linktitle: GroupDocs.Conversion for .NET výukové programy
 type: docs
 weight: 10
-url: /cs/net/tutorials/conversion/tutorials/conversion/
+url: /cs/net/tutorials/conversion/
 description: Bez námahy převádějte soubory do PDF pomocí GroupDocs.Conversion for .NET. Zjednodušte správu dokumentů pomocí přizpůsobitelných možností.
 is_root: true
 ---

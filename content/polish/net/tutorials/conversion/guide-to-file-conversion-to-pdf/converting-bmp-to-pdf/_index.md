@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET API
 description: Dowiedz się, jak bez wysiłku konwertować obrazy BMP do formatu PDF za pomocą GroupDocs.Conversion dla .NET. Ten kompleksowy samouczek krok po kroku obejmuje wymagania wstępne, obsługę plików źródłowych i opcje dostosowywania.
 type: docs
 weight: 11
-url: /pl/net/tutorials/conversion/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-bmp-to-pdf/
+url: /pl/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-bmp-to-pdf/
 ---
 ## Wstęp
 

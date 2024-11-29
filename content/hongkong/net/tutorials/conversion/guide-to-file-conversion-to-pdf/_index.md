@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET API
 description: 了解如何使用 GroupDocs.Conversion for .NET 輕鬆將各種文件格式轉換為 PDF。本逐步教程涵蓋了從設定庫到執行無縫文件轉換的所有內容。
 type: docs
 weight: 20
-url: /zh-hant/net/tutorials/conversion/tutorials/conversion/guide-to-file-conversion-to-pdf/
+url: /zh-hant/net/tutorials/conversion/guide-to-file-conversion-to-pdf/
 ---
 
 ## 文件轉換為 PDF 教學指南

@@ -3,7 +3,7 @@ title: .NET용 GroupDocs.Conversion의 포괄적인 튜토리얼
 linktitle: .NET 튜토리얼을 위한 GroupDocs.Conversion
 type: docs
 weight: 10
-url: /ko/net/tutorials/conversion/tutorials/conversion/
+url: /ko/net/tutorials/conversion/
 description: GroupDocs.Conversion for .NET을 사용하여 파일을 PDF로 손쉽게 변환하세요. 사용자 지정 가능한 옵션으로 문서 관리를 간소화하세요.
 is_root: true
 ---

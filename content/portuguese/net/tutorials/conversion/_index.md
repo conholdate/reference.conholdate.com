@@ -3,7 +3,7 @@ title: Tutoriais abrangentes do GroupDocs.Conversion para .NET
 linktitle: Tutoriais do GroupDocs.Conversion para .NET
 type: docs
 weight: 10
-url: /pt/net/tutorials/conversion/tutorials/conversion/
+url: /pt/net/tutorials/conversion/
 description: Converta arquivos para PDF sem esforço usando o GroupDocs.Conversion para .NET. Simplifique o gerenciamento de documentos com opções personalizáveis.
 is_root: true
 ---

@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET एपीआई
 description: .NET के लिए GroupDocs.Conversion का उपयोग करके BMP छवियों को PDF प्रारूप में आसानी से परिवर्तित करना सीखें। यह व्यापक चरण-दर-चरण ट्यूटोरियल पूर्वापेक्षाएँ, स्रोत फ़ाइल हैंडलिंग और अनुकूलन विकल्पों को शामिल करता है।
 type: docs
 weight: 11
-url: /hi/net/tutorials/conversion/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-bmp-to-pdf/
+url: /hi/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-bmp-to-pdf/
 ---
 ## परिचय
 

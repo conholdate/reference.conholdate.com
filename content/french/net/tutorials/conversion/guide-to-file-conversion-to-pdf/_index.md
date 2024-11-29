@@ -5,7 +5,7 @@ second_title: API .NET de GroupDocs.Conversion
 description: Découvrez comment convertir sans effort différents formats de fichiers au format PDF avec GroupDocs.Conversion pour .NET. Ce didacticiel étape par étape couvre tout, de la configuration de la bibliothèque à l'exécution de transformations de fichiers transparentes.
 type: docs
 weight: 20
-url: /fr/net/tutorials/conversion/tutorials/conversion/guide-to-file-conversion-to-pdf/
+url: /fr/net/tutorials/conversion/guide-to-file-conversion-to-pdf/
 ---
 
 ## Guide de conversion de fichiers en didacticiels PDF

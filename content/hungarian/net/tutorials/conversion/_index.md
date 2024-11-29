@@ -3,7 +3,7 @@ title: Átfogó oktatóanyagok a GroupDocs.Conversion for .NET-hez
 linktitle: GroupDocs.Conversion for .NET Tutorials
 type: docs
 weight: 10
-url: /hu/net/tutorials/conversion/tutorials/conversion/
+url: /hu/net/tutorials/conversion/
 description: Könnyedén konvertálhat fájlokat PDF formátumba a GroupDocs.Conversion for .NET segítségével. Egyszerűsítse a dokumentumkezelést testreszabható lehetőségekkel.
 is_root: true
 ---

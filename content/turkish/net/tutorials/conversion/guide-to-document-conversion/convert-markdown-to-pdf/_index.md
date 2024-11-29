@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET API
 description: Bu ayrıntılı eğitimde, .NET için GroupDocs.Conversion kitaplığını kullanarak Markdown (MD) dosyalarını Taşınabilir Belge Biçimine (PDF) nasıl kolayca dönüştürebileceğinizi öğrenin.
 type: docs
 weight: 19
-url: /tr/net/tutorials/conversion/tutorials/conversion/guide-to-document-conversion/convert-markdown-to-pdf/
+url: /tr/net/tutorials/conversion/guide-to-document-conversion/convert-markdown-to-pdf/
 ---
 ## giriiş
 

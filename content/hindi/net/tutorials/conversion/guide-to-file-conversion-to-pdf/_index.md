@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET एपीआई
 description: .NET के लिए GroupDocs.Conversion के साथ विभिन्न फ़ाइल स्वरूपों को आसानी से PDF में कनवर्ट करना सीखें। यह चरण-दर-चरण ट्यूटोरियल लाइब्रेरी सेट अप करने से लेकर सहज फ़ाइल रूपांतरणों को निष्पादित करने तक सब कुछ शामिल करता है।
 type: docs
 weight: 20
-url: /hi/net/tutorials/conversion/tutorials/conversion/guide-to-file-conversion-to-pdf/
+url: /hi/net/tutorials/conversion/guide-to-file-conversion-to-pdf/
 ---
 
 ## फ़ाइल को पीडीएफ में बदलने के लिए गाइड ट्यूटोरियल

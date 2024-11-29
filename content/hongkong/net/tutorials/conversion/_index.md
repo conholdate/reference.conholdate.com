@@ -3,7 +3,7 @@ title: GroupDocs.Conversion for .NET 綜合教學課程
 linktitle: .NET 教學的 GroupDocs.Conversion
 type: docs
 weight: 10
-url: /zh-hant/net/tutorials/conversion/tutorials/conversion/
+url: /zh-hant/net/tutorials/conversion/
 description: 使用 GroupDocs.Conversion for .NET 輕鬆將文件轉換為 PDF。透過可自訂的選項簡化文件管理。
 is_root: true
 ---

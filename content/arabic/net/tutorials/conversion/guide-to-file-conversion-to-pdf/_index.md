@@ -5,7 +5,7 @@ second_title: GroupDocs.Conversion .NET API
 description: تعرف على كيفية تحويل تنسيقات الملفات المختلفة إلى PDF بسهولة باستخدام GroupDocs.Conversion for .NET. يغطي هذا البرنامج التعليمي خطوة بخطوة كل شيء بدءًا من إعداد المكتبة وحتى تنفيذ تحويلات الملفات بسلاسة.
 type: docs
 weight: 20
-url: /ar/net/tutorials/conversion/tutorials/conversion/guide-to-file-conversion-to-pdf/
+url: /ar/net/tutorials/conversion/guide-to-file-conversion-to-pdf/
 ---
 
 ## دليل تحويل الملفات إلى PDF - دروس تعليمية

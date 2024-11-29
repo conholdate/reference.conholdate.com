@@ -5,7 +5,7 @@ second_title: API การแปลง GroupDocs .NET
 description: เรียนรู้วิธีการแปลงไฟล์ภาพ JPEG เป็นเอกสาร PDF ได้อย่างง่ายดายด้วย GroupDocs.Conversion สำหรับ .NET คู่มือฉบับสมบูรณ์นี้จะแนะนำคุณเกี่ยวกับข้อกำหนดเบื้องต้นและสไนปเป็ตโค้ดที่จำเป็น
 type: docs
 weight: 12
-url: /th/net/tutorials/conversion/tutorials/conversion/guide-to-document-conversion/converting-jpeg-to-pdf/
+url: /th/net/tutorials/conversion/guide-to-document-conversion/converting-jpeg-to-pdf/
 ---
 ## การแนะนำ
 
