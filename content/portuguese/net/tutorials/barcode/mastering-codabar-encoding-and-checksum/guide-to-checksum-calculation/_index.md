@@ -65,7 +65,7 @@ Por fim, vamos produzir um código de barras Codabar que utiliza uma soma de ver
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Habilitar soma de verificação
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Conjunto Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Conjunto Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Agora você gerou com sucesso códigos de barras Codabar com diferentes tipos de checksum usando Aspose.BarCode for .NET. Esses checksums são essenciais para manter a integridade dos dados codificados, garantindo que as informações escaneáveis sejam precisas e confiáveis.
 
- Se você tiver alguma dúvida ou tiver algum problema, não hesite em entrar em contato com a vibrante comunidade em[Fórum Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+Se você tiver alguma dúvida ou tiver algum problema, não hesite em entrar em contato com a vibrante comunidade em[Fórum Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## Perguntas frequentes
 
@@ -89,10 +89,10 @@ Os cálculos de soma de verificação fornecem uma camada adicional de integrida
 
  Você pode adquirir uma licença temporária diretamente de[aqui](https://purchase.conholdate.com/temporary-license/).
 
-### Aspose.BarCode for .NET é compatível com vários frameworks .NET?
+### O Aspose.BarCode for .NET é compatível com vários frameworks .NET?
 
 Absolutamente! O Aspose.BarCode for .NET foi projetado para ser versátil e é compatível com múltiplas estruturas .NET, tornando-o adequado para uma ampla gama de aplicações.
 
 ### Onde posso encontrar a documentação completa do Aspose.BarCode para .NET?
 
- Documentação abrangente para Aspose.BarCode pode ser encontrada[aqui](https://reference.aspose.com/barcode/net/).
+Documentação abrangente para Aspose.BarCode pode ser encontrada[aqui](https://reference.aspose.com/barcode/net/).

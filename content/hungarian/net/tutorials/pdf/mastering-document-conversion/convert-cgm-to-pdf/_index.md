@@ -60,13 +60,13 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
  Ezután hozzon létre egy példányt a`CgmLoadOptions` osztály. Ez az osztály a CGM-fájlok megfelelő betöltésére szolgál az Aspose.PDF keretrendszerbe.
 
 ```csharp
-// Példányosítsa a LoadOption objektumot a CgmLoadOptions használatával
+// Példányosítsa a LoadOption objektumot a CgmLoadOptions segítségével
 Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
 ```
 
 ## 3. lépés: Hozzon létre egy dokumentumobjektumot
 
- Most példányosítson a`Document` objektum, amely a CGM-fájlt képviseli a memóriában. Ez lehetővé teszi a fájl manipulálását, mielőtt PDF-ként mentené.
+ Most példányosítson a`Document` objektum, amely a CGM-fájlt képviseli a memóriában. Ez lehetővé teszi a fájl manipulálását, mielőtt PDF-ként menti.
 
 ```csharp
 //Dokumentum objektum példányosítása

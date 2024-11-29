@@ -13,7 +13,7 @@ Inom dokumentbehandlingsområdet framstår Aspose.Words för .NET som ett robust
 
 ## Komma igång med AI-modeller
 
-Tänk dig att kunna sammanfatta omfattande dokument med bara några få klick. Låter tilltalande, eller hur? Börja din resa med vår handledning på[Bemästra dokumentsammanfattning med AI-modeller](./mastering-document-summarization-ai-model/). Den här guiden leder dig genom processen att integrera AI för att uppnå effektiv dokumentsammanfattning med Aspose.Words. Se det som att ha en personlig assistent som kan sålla igenom stora mängder text, lyfta fram nyckelpunkterna och sammanfatta informationen åt dig. Den här handledningen ger en tydlig och koncis färdplan för implementering av AI-modeller, vilket gör dina dokumenthanteringsuppgifter till en lek.
+ Tänk dig att kunna sammanfatta omfattande dokument med bara några få klick. Låter tilltalande, eller hur? Börja din resa med vår handledning på[Bemästra dokumentsammanfattning med AI-modeller](./mastering-document-summarization-ai-model/)Den här guiden leder dig genom processen att integrera AI för att uppnå effektiv dokumentsammanfattning med Aspose.Words. Se det som att ha en personlig assistent som kan sålla igenom stora mängder text, lyfta fram nyckelpunkterna och sammanfatta informationen åt dig. Den här handledningen ger en tydlig och koncis färdplan för implementering av AI-modeller, vilket gör dina dokumenthanteringsuppgifter till en lek.
 
 ## Lyft ditt spel med Google AI
 

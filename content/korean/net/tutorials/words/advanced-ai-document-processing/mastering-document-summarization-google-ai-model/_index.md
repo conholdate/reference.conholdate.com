@@ -87,7 +87,7 @@ Document oneDocumentSummary = model.Summarize(firstDoc, new SummarizeOptions() {
 oneDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.One.docx");
 ```
 
-이 코드는 요약된 버전을 생성합니다.`firstDoc` 그리고 artifacts 디렉토리에 저장합니다. 요약 길이를 필요에 맞게 조정하세요. 짧든, 중간이든, 길든.
+ 이 코드는 요약된 버전을 생성합니다.`firstDoc` 그리고 artifacts 디렉토리에 저장합니다. 요약 길이를 필요에 맞게 조정하세요. 짧든, 중간이든, 길든.
 
 ## 6단계: 여러 문서를 동시에 요약
 
@@ -120,7 +120,7 @@ Google의 AI 서비스를 사용하려면 Google Cloud에 가입하고 관련 AP
 
 ### 요약의 길이를 어떻게 조절할 수 있나요?
 
- 사용하세요`SummaryLength` 옵션 내`SummarizeOptions` 원하는 요약 길이를 짧음, 보통, 길음으로 설정하는 클래스입니다.
+ 사용하세요`SummaryLength` 옵션 내`SummarizeOptions`원하는 요약 길이를 짧음, 보통, 길음으로 설정하는 클래스입니다.
 
 ### Aspose.Words에 대한 추가 리소스는 어디에서 찾을 수 있나요?
 

@@ -23,7 +23,7 @@ Zodra je aan deze voorwaarden voldoet, kunnen we beginnen met het tekenen van ee
 
 ## Vereiste naamruimten importeren
 
-Eerst moet u de benodigde naamruimten importeren om toegang te krijgen tot de functionaliteit die Aspose.Imaging biedt. Voeg het volgende toe`using` statements bovenaan uw C#-bestand:
+ Eerst moet u de benodigde naamruimten importeren om toegang te krijgen tot de functionaliteit die Aspose.Imaging biedt. Voeg het volgende toe`using` statements bovenaan uw C#-bestand:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## Stap 1: Maak de afbeelding en sla de stream op
 
 ```csharp
-// Definieer de map waarin de afbeelding moet worden opgeslagen
+//Definieer de map waarin de afbeelding moet worden opgeslagen
 string dataDir = "Your Document Directory"; // Werk dit bij naar uw voorkeurspad
 
 // Maak een stream om de BMP-afbeelding op te slaan
@@ -78,7 +78,7 @@ Laten we nu de parameters voor de boog definiëren en deze tekenen:
 
 ```csharp
             // Definieer parameters voor de boog
-            int width = 100;   //Breedte van de begrenzende rechthoek
+            int width = 100;   // Breedte van de begrenzende rechthoek
             int height = 200;  // Hoogte van de begrenzende rechthoek
             int startAngle = 45;  // Starthoek in graden
             int sweepAngle = 270; // Veeghoek in graden

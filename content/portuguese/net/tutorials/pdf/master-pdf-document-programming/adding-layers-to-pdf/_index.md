@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- Nesta etapa, você está inicializando uma nova instância do`Document`classe, que serve como tela para nossas futuras camadas. Certifique-se de substituir`"YOUR DOCUMENT DIRECTORY"` com o caminho real onde você deseja salvar o arquivo PDF mais tarde.
+ Nesta etapa, você está inicializando uma nova instância do`Document` classe, que serve como tela para nossas futuras camadas. Certifique-se de substituir`"YOUR DOCUMENT DIRECTORY"` com o caminho real onde você deseja salvar o arquivo PDF mais tarde.
 
 ## Etapa 2: Crie uma nova página
 

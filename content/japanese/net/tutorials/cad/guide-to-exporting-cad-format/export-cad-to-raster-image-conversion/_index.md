@@ -15,7 +15,7 @@ Aspose.CAD for .NET を使用して、CAD レイアウトをラスター イメ�
 
 始める前に、次のものがあることを確認してください。
 
--  Aspose.CAD for .NETライブラリ: ライブラリを以下のサイトからダウンロードしてインストールします。[Aspose.CAD ウェブサイト](https://releases.aspose.com/cad/net/).
+- Aspose.CAD for .NETライブラリ: ライブラリを以下のサイトからダウンロードしてインストールします。[Aspose.CAD ウェブサイト](https://releases.aspose.com/cad/net/).
 - CAD図面ファイル: CAD図面ファイル（例：`conic_pyramid.dxf`）変換の準備ができました。
 
 ## 必要な名前空間をインポートする

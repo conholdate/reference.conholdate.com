@@ -16,7 +16,7 @@ url: /tr/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 Dönüştürme işlemine başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
 - Geliştirme Ortamı: Visual Studio veya başka bir .NET IDE yüklü.
-- Aspose.Words for .NET: Bunu şu adresten indirin ve kurun:[Aspose web sitesi](https://releases.aspose.com/words/net/).
+-  Aspose.Words for .NET: Bunu şu adresten indirin ve kurun:[Aspose web sitesi](https://releases.aspose.com/words/net/).
 - Belge Dosyaları: Dönüştürmeyi planladığınız DOCX dosyasını/dosyalarını hazırlayın.
 
 ## Adım 1: Gerekli Ad Alanlarını İçe Aktarın

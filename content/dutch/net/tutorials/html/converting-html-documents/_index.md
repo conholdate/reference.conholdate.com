@@ -21,7 +21,7 @@ Laten we eens duiken in een van de coolste functies: HTML naar PNG-afbeeldingen 
  Als u een stapsgewijs proces wilt volgen, bekijk dan onze tutorial op[Converteer HTML naar PNG met Aspose.HTML in .NET](./convert-html-as-png/). 
 
 ## EPUB naar XPS converteren
-Als u met EPUB-bestanden werkt en deze wilt converteren naar XPS-formaat, dan is Aspose.HTML ook wat voor u. EPUB is een populair eBook-formaat en het converteren naar XPS kan helpen bij het effectiever afdrukken of weergeven van documenten.
+Als u met EPUB-bestanden werkt en deze wilt converteren naar XPS-formaat, dan is Aspose.HTML ook wat voor u. EPUB is een populair eBook-formaat en het converteren ervan naar XPS kan helpen bij het effectiever afdrukken of weergeven van documenten.
 
 Het proces is eenvoudig:
 

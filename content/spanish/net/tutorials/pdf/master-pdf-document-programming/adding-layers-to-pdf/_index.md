@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- En este paso, estás inicializando una nueva instancia del`Document`clase, que sirve como lienzo para nuestras futuras capas. Asegúrese de reemplazar`"YOUR DOCUMENT DIRECTORY"` con la ruta real donde desea guardar el archivo PDF más tarde.
+ En este paso, estás inicializando una nueva instancia del`Document` clase, que sirve como lienzo para nuestras futuras capas. Asegúrese de reemplazar`"YOUR DOCUMENT DIRECTORY"` con la ruta real donde desea guardar el archivo PDF más tarde.
 
 ## Paso 2: Crear una nueva página
 

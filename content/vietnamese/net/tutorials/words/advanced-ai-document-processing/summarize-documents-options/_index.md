@@ -15,7 +15,7 @@ Làm việc với các tài liệu dài thường liên quan đến việc sàng
 
 Trước khi bắt đầu, hãy đảm bảo rằng bạn có những điều sau:
 
-1.  Aspose.Words cho Thư viện .NET: Tải xuống từ[Bản phát hành của Aspose](https://releases.aspose.com/words/net/).
+1. Aspose.Words cho Thư viện .NET: Tải xuống từ[Bản phát hành của Aspose](https://releases.aspose.com/words/net/).
 2. Môi trường .NET: Thiết lập môi trường phát triển .NET, chẳng hạn như Visual Studio.
 3. Kiến thức cơ bản về C#: Hướng dẫn này liên quan đến việc lập trình, do đó, việc quen thuộc với cú pháp C# sẽ rất có lợi.
 4. Khóa API mô hình AI: Lấy khóa API cho mô hình tóm tắt AI ưa thích của bạn (ví dụ: GPT-4), vì chúng tôi sẽ sử dụng khóa này để tạo bản tóm tắt.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Bước 2: Tải tài liệu để tóm tắt
 
- Tải các tài liệu mà bạn dự định tóm tắt. Sử dụng`Document` lớp trong Aspose.Words để truy cập các tệp Word của bạn:
+ Tải các tài liệu mà bạn dự định tóm tắt. Sử dụng`Document`lớp trong Aspose.Words để truy cập các tệp Word của bạn:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- Các`Gpt4OMini` mô hình được khởi tạo bằng khóa API của bạn để xử lý tóm tắt tài liệu. Hãy chắc chắn thay thế`"API_KEY"`với khóa API thực tế của bạn.
+ Các`Gpt4OMini` mô hình được khởi tạo bằng khóa API của bạn để xử lý tóm tắt tài liệu. Hãy chắc chắn thay thế`"API_KEY"` với khóa API thực tế của bạn.
 
 ## Bước 4: Tóm tắt một tài liệu duy nhất
 

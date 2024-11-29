@@ -9,7 +9,7 @@ url: /pl/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 ---
 ## Wstęp
 
-dzisiejszym szybko zmieniającym się świecie potrzeba wydajnego zarządzania dokumentami i szybkiej ekstrakcji danych jest najważniejsza. Wyobraź sobie zautomatyzowane rozwiązanie, które podsumowuje długie dokumenty w ciągu kilku sekund. Dzięki Aspose.Words dla .NET możemy zintegrować możliwości podsumowania oparte na sztucznej inteligencji bezpośrednio z aplikacjami, przekształcając długie dokumenty w zwięzłe podsumowania, które oszczędzają czas i zwiększają produktywność. Ten przewodnik obejmuje wszystkie kroki niezbędne do wykorzystania Aspose.Words dla .NET z modelami sztucznej inteligencji, takimi jak GPT OpenAI, w celu automatycznego podsumowania dokumentów Word przy użyciu minimalnej ilości kodu.
+W dzisiejszym szybko zmieniającym się świecie potrzeba wydajnego zarządzania dokumentami i szybkiej ekstrakcji danych jest najważniejsza. Wyobraź sobie zautomatyzowane rozwiązanie, które podsumowuje długie dokumenty w ciągu kilku sekund. Dzięki Aspose.Words dla .NET możemy zintegrować możliwości podsumowania oparte na sztucznej inteligencji bezpośrednio z aplikacjami, przekształcając długie dokumenty w zwięzłe podsumowania, które oszczędzają czas i zwiększają produktywność. Ten przewodnik obejmuje wszystkie kroki niezbędne do wykorzystania Aspose.Words dla .NET z modelami sztucznej inteligencji, takimi jak GPT OpenAI, w celu automatycznego podsumowania dokumentów Word przy użyciu minimalnej ilości kodu.
 
 ## Wymagania wstępne
 
@@ -17,7 +17,7 @@ Aby rozpocząć, upewnij się, że masz spełnione następujące wymagania:
 
 1. Visual Studio: Wymagane do kodowania i testowania. Możesz pobrać je bezpłatnie, jeśli jeszcze go nie masz zainstalowanego.
 2. .NET Framework lub .NET Core: Aspose.Words for .NET obsługuje oba środowiska, dlatego upewnij się, że masz kompatybilną wersję.
-3.  Aspose.Words dla .NET: Pobierz i zainstaluj najnowszą wersję ze strony[Strona wydań Aspose](https://releases.aspose.com/words/net/).
+3. Aspose.Words dla .NET: Pobierz i zainstaluj najnowszą wersję ze strony[Strona wydań Aspose](https://releases.aspose.com/words/net/).
 4. Klucz API modelu AI: Aby generować podsumowania, wymagany jest dostęp do API modelu AI (np. OpenAI). Zarejestruj się na stronie dostawcy AI, aby uzyskać klucz API.
 5. Podstawowa wiedza o języku C#: Pewna znajomość programowania w języku C# pomoże Ci w efektywnym uczestnictwie.
 
@@ -39,7 +39,7 @@ Przeanalizujmy kroki tworzenia i konfigurowania aplikacji konsolowej w programie
 Aby włączyć funkcjonalność Aspose.Words, należy dodać ją za pomocą menedżera pakietów NuGet.
 
 1. Kliknij prawym przyciskiem myszy swój projekt w Eksploratorze rozwiązań i wybierz opcję Zarządzaj pakietami NuGet.
-2.  Szukaj`Aspose.Words` kliknij Zainstaluj.
+2.  Szukaj`Aspose.Words` i kliknij Zainstaluj.
 3. W razie potrzeby zainstaluj także wszelkie pakiety konkretnych modeli AI na potrzeby integracji (np. OpenAI).
 
 ```csharp

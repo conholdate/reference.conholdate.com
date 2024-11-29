@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
 透過訪問`HtmlBody`的財產`MailMessage`對象，HTML 內容現在儲存在名為的字串變數中`htmlBody`.
 
-### 第 3 步：準備將 HTML 轉換為純文字
+### 步驟 3： 準備將 HTML 轉換為純文字
 
 現在我們已經有了 HTML 內容，是時候為轉換做好準備了。我們將利用 Aspose.Words 將豐富的 HTML 轉換為純文字。但首先，我們需要建立一個新文件：
 

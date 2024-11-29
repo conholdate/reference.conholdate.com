@@ -15,7 +15,7 @@ url: /sv/net/tutorials/drawing/transformations/
 
 Tänk på globala transformationer som att använda ett "universellt filter" på din arbetsyta. Dessa transformationer påverkar varje element som ritas i ett grafiskt sammanhang, vilket gör dem perfekta för scenarier där du behöver enhetlig skalning, rotation eller översättning över din design. Genom att använda Aspose.Drawing för .NET är det enklare än någonsin att bemästra globala transformationer.
 
- Föreställ dig till exempel att du bygger ett datavisualiseringsverktyg som dynamiskt ändrar storlek på diagram baserat på skärmdimensioner. En omvandling i global skala säkerställer att allt justeras sömlöst och bibehåller proportionalitet och estetik. Vill du lära dig hur? Kolla in vår dedikerade handledning om[Bemästra globala transformationer i Aspose.Drawing för .NET](./mastering-global-transformations/).
+Föreställ dig till exempel att du bygger ett datavisualiseringsverktyg som dynamiskt ändrar storlek på diagram baserat på skärmdimensioner. En omvandling i global skala säkerställer att allt justeras sömlöst och bibehåller proportionalitet och estetik. Vill du lära dig hur? Kolla in vår dedikerade handledning om[Bemästra globala transformationer i Aspose.Drawing för .NET](./mastering-global-transformations/).
 
 ## Guide till lokala transformationer
 

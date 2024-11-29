@@ -65,7 +65,7 @@ gen.Save($"{path}CodabarChecksumMod10.png", BarCodeImageFormat.Png);
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // 체크섬 활성화
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Mod16 설정
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Mod16 설정
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 이제 Aspose.BarCode for .NET을 사용하여 다양한 체크섬 유형의 Codabar 바코드를 성공적으로 생성했습니다. 이러한 체크섬은 인코딩된 데이터의 무결성을 유지하고 스캔 가능한 정보가 정확하고 신뢰할 수 있도록 하는 데 필수적입니다.
 
- 질문이 있거나 문제가 발생하면 활기찬 커뮤니티에 연락하는 것을 주저하지 마십시오.[Aspose.BarCode 포럼](https://forum.aspose.com/c/barcode/13).
+질문이 있거나 문제가 발생하면 활기찬 커뮤니티에 연락하는 것을 주저하지 마십시오.[Aspose.BarCode 포럼](https://forum.aspose.com/c/barcode/13).
 
 ## 자주 묻는 질문
 
@@ -95,4 +95,4 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 ### Aspose.BarCode for .NET에 대한 전체 문서는 어디에서 찾을 수 있나요?
 
- Aspose.BarCode에 대한 포괄적인 설명서를 찾을 수 있습니다.[여기](https://reference.aspose.com/barcode/net/).
+Aspose.BarCode에 대한 포괄적인 설명서를 찾을 수 있습니다.[여기](https://reference.aspose.com/barcode/net/).

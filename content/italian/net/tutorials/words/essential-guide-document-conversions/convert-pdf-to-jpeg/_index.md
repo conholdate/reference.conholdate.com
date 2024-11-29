@@ -52,7 +52,7 @@ Ora che il nostro progetto è pronto, carichiamo il documento PDF:
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 ```
 
-2.  Carica il PDF: Usa il`Document` classe da Aspose.Words per caricare il PDF.
+2.  Carica il PDF: Usa il`Document` classe da Aspose.Words per caricare il tuo PDF.
 
 ```csharp
 Document doc = new Document(dataDir + "Pdf Document.pdf");

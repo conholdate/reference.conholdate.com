@@ -397,7 +397,7 @@ Följande är länkarna till några användbara resurser som du kan behöva för
 
 **Welcome to the Aspose.Font for .NET**
 
-Aspose.Font är ett .NET-teckensnittsladdnings- och ritbibliotek. Den stöder flera frontformat som TrueType (med TrueType-kollektioner), CFF, OpenType och Type1. API:et tillhandahåller rik funktionalitet för att ladda/spara teckensnitt och tillhandahålla information om dess datastrukturer tillsammans med alla tecken som stöds av alla teckensnittstyper. Den tillhandahåller också kodningsinformation för alla teckensnittstyper som representerar en mappning mellan teckenkoder och glyfidentifierare. Dess renderingsundersystem hjälper slutanvändare att rendera önskad glyf eller text. Särskilda glyfer kan renderas genom att implementera gränssnitt med enkla grafikfunktioner (flytta punkt, rita linje, kurva).
+Aspose.Font är ett .NET-teckensnittsladdnings- och ritbibliotek. Den stöder flera frontformat som TrueType (med TrueType-samlingar), CFF, OpenType och Type1. API:et tillhandahåller rik funktionalitet för att ladda/spara teckensnitt och tillhandahålla information om dess datastrukturer tillsammans med alla tecken som stöds av alla teckensnittstyper. Den tillhandahåller också kodningsinformation för alla teckensnittstyper som representerar en mappning mellan teckenkoder och glyfidentifierare. Dess renderingsundersystem hjälper slutanvändare att rendera önskad glyf eller text. Särskilda glyfer kan renderas genom att implementera gränssnitt med enkla grafikfunktioner (flytta punkt, rita linje, kurva).
 
 {{% /alert %}} 
 

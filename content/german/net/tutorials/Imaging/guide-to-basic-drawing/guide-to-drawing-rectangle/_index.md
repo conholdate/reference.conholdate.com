@@ -74,7 +74,7 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- Dieser Abschnitt zeigt die Erstellung eines`Graphics` Objekt, löschen Sie die Oberfläche und fügen Sie zwei Rechtecke mit unterschiedlichen Farben und Positionen hinzu. Sobald Ihre Zeichnungen fertig sind, speichern Sie das Bild, um Ihre Änderungen beizubehalten.
+Dieser Abschnitt zeigt die Erstellung eines`Graphics` Objekt, löschen Sie die Oberfläche und fügen Sie zwei Rechtecke mit unterschiedlichen Farben und Positionen hinzu. Sobald Ihre Zeichnungen fertig sind, speichern Sie das Bild, um Ihre Änderungen beizubehalten.
 
 ## Schritt 4: Speichern Sie das Bild
 

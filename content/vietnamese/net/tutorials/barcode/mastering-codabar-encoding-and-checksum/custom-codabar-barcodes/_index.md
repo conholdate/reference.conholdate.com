@@ -15,7 +15,7 @@ Chào mừng bạn đến với hướng dẫn từng bước này về cách s�
 
 Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
 
-1. Môi trường phát triển: Môi trường .NET đang hoạt động được thiết lập trên máy của bạn. Nếu bạn cần trợ giúp, hãy tham khảo[Tài liệu Aspose](https://reference.aspose.com/barcode/net/).
+1.  Môi trường phát triển: Môi trường .NET đang hoạt động được thiết lập trên máy của bạn. Nếu bạn cần trợ giúp, hãy tham khảo[Tài liệu Aspose](https://reference.aspose.com/barcode/net/).
    
 2.  Aspose.BarCode cho Thư viện .NET: Tải xuống và cài đặt thư viện từ[Trang phát hành Aspose](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## Bước 1: Khởi tạo Trình tạo mã vạch
 
- Bắt đầu bằng cách tạo một phiên bản của`BarcodeGenerator`, chỉ định loại mã vạch là Codabar và dữ liệu cần mã hóa. Sau đây là một ví dụ:
+ Bắt đầu bằng cách tạo một phiên bản của`BarcodeGenerator`chỉ định loại mã vạch là Codabar và dữ liệu cần mã hóa. Sau đây là một ví dụ:
 
 ```csharp
 string path = "Your Directory Path"; // Chỉ định thư mục của bạn ở đây

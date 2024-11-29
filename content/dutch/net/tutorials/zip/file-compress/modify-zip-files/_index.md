@@ -91,7 +91,7 @@ foreach (ArchiveEntry e in entriesToDelete)
 }
 ```
 
-## Stap 4: Voeg aangepaste vermeldingen toe aan de buitenste postcode
+## Stap 4: Gewijzigde vermeldingen toevoegen aan de buitenste postcode
 
 Nu kunt u de nieuw uitgepakte items weer toevoegen aan uw externe zipbestand:
 

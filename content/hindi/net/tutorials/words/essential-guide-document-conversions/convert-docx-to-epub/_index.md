@@ -16,7 +16,7 @@ url: /hi/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 रूपांतरण प्रक्रिया शुरू करने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित हैं:
 
 - विकास वातावरण: Visual Studio या कोई अन्य .NET IDE स्थापित.
-- .NET के लिए Aspose.Words: इसे डाउनलोड करें और इंस्टॉल करें[Aspose वेबसाइट](https://releases.aspose.com/words/net/).
+-  .NET के लिए Aspose.Words: इसे डाउनलोड करें और इंस्टॉल करें[Aspose वेबसाइट](https://releases.aspose.com/words/net/).
 - दस्तावेज़ फ़ाइलें: वह DOCX फ़ाइल(फ़ाइलें) तैयार करें जिन्हें आप परिवर्तित करना चाहते हैं।
 
 ## चरण 1: आवश्यक नामस्थान आयात करें

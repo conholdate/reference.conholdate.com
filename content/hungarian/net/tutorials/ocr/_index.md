@@ -10,6 +10,6 @@ is_root: true
 
 ## Aspose.OCR for .NET Tutorials
 ### [Mesterkép- és rajzfelismerés az Aspose.OCR segítségével .NET-hez](./master-image-and-drawing-recognition/)
-kép- és rajzfelismerésről szóló oktatóanyagainkkal tárja fel az Aspose.OCR for .NET-ben rejlő lehetőségeit, így könnyedén kivonhatja alkalmazásait.
+A kép- és rajzfelismerésről szóló oktatóanyagainkkal tárja fel az Aspose.OCR for .NET-ben rejlő lehetőségeit, így könnyedén kivonhatja alkalmazásait.
 ### [Az OCR teljesítményének optimalizálása az Aspose.OCR segítségével .NET-hez](./optimization-ocr/)
-Ismerje meg, hogyan optimalizálhatja az OCR teljesítményét az Aspose.OCR for .NET használatával. Részletes oktatóanyagaink a képfelismerésről, az előfeldolgozási szűrőkről és a gyakorlati megvalósítási lépésekről szólnak.
+Ismerje meg, hogyan optimalizálhatja az OCR teljesítményét az Aspose.OCR for .NET használatával. Részletes oktatóanyagaink a képfelismeréssel, az előfeldolgozási szűrőkkel és a gyakorlati megvalósítási lépésekkel foglalkoznak.

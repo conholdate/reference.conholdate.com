@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- I det här steget initierar du en ny instans av`Document`klass, som fungerar som duken för våra framtida lager. Se till att byta ut`"YOUR DOCUMENT DIRECTORY"` med den faktiska sökvägen där du vill spara PDF-filen senare.
+ I det här steget initierar du en ny instans av`Document` klass, som fungerar som duken för våra framtida lager. Se till att byta ut`"YOUR DOCUMENT DIRECTORY"` med den faktiska sökvägen där du vill spara PDF-filen senare.
 
 ## Steg 2: Skapa en ny sida
 

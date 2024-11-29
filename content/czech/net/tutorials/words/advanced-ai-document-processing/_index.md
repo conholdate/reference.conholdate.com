@@ -13,7 +13,7 @@ V oblasti zpracování dokumentů vyniká Aspose.Words for .NET jako robustní n
 
 ## Začínáme s modely AI
 
-Představte si, že máte možnost shrnout rozsáhlé dokumenty pouhými několika kliknutími. Zní to lákavě, že? Začněte svou cestu s naším návodem na[Zvládnutí sumarizace dokumentů pomocí modelů AI](./mastering-document-summarization-ai-model/). Tato příručka vás provede procesem integrace umělé inteligence k dosažení efektivní sumarizace dokumentů pomocí Aspose.Words. Představte si to jako osobního asistenta, který dokáže probírat obrovské množství textu, zvýraznit klíčové body a shromáždit informace za vás. Tento výukový program poskytuje jasný a stručný plán implementace modelů umělé inteligence, díky kterému budou vaše úkoly správy dokumentů hračkou.
+ Představte si, že máte možnost shrnout rozsáhlé dokumenty pouhými několika kliknutími. Zní to lákavě, že? Začněte svou cestu s naším návodem na[Zvládnutí sumarizace dokumentů pomocí modelů AI](./mastering-document-summarization-ai-model/)Tato příručka vás provede procesem integrace umělé inteligence k dosažení efektivní sumarizace dokumentů pomocí Aspose.Words. Představte si to jako osobního asistenta, který dokáže probírat obrovské množství textu, zvýraznit klíčové body a shromáždit informace za vás. Tento výukový program poskytuje jasný a stručný plán implementace modelů umělé inteligence, díky kterému budou vaše úkoly správy dokumentů hračkou.
 
 ## Pozvedněte svou hru pomocí umělé inteligence Google
 

@@ -41,7 +41,7 @@ string dataDir = "Your Document Directory";
 
 ### 3. lépés: Nyissa meg a PDF- és XPS-folyamokat
 
-Ezután inicializálja a folyamokat mind a bemeneti XPS-, mind a kimeneti PDF-fájlhoz:
+Ezután inicializálja a bemeneti XPS-fájl és a kimeneti PDF-fájl adatfolyamait:
 
 ```csharp
 using (System.IO.Stream pdfStream = System.IO.File.Open(dataDir + "XPStoPDF_out.pdf", System.IO.FileMode.OpenOrCreate, System.IO.FileAccess.Write))
@@ -110,8 +110,8 @@ A PDF-en kívül az Aspose.Page for .NET számos formátumot támogat, beleértv
 
 ### Elérhető az Aspose.Page .NET-hez próbaverziója?
 
-Igen, kipróbálhatja az Aspose.Page .NET-hez ingyenes próbaverzióját[itt](https://releases.aspose.com/).
+ Igen, kipróbálhatja az Aspose.Page .NET-hez ingyenes próbaverzióját[itt](https://releases.aspose.com/).
 
 ### Hol találok közösségi támogatást az Aspose.Page for .NET számára?
 
- Közösségi beszélgetésekért és támogatásért látogassa meg a[Aspose.Page fórum](https://forum.aspose.com/c/page/39).
+Közösségi beszélgetésekért és támogatásért látogassa meg a[Aspose.Page fórum](https://forum.aspose.com/c/page/39).

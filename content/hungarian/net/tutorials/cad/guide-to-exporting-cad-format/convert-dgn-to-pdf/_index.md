@@ -1,6 +1,6 @@
 ---
-title: A DGN konvertálása PDF-be az Aspose.CAD for .NET-ben
-linktitle: A DGN konvertálása PDF-be az Aspose.CAD for .NET-ben
+title: DGN konvertálása PDF-be az Aspose.CAD for .NET-ben
+linktitle: DGN konvertálása PDF-be az Aspose.CAD for .NET-ben
 second_title: Aspose.CAD .NET - CAD és BIM fájlformátum
 description: Tanulja meg, hogyan konvertálhat könnyedén DGN fájlokat PDF formátumba a hatékony Aspose.CAD .NET könyvtár segítségével. Ez a lépésenkénti útmutató minden szintű fejlesztő számára készült.
 type: docs
@@ -9,7 +9,7 @@ url: /hu/net/tutorials/cad/guide-to-exporting-cad-format/convert-dgn-to-pdf/
 ---
 ## Bevezetés
 
-CAD-fájlok világában való eligazodás kihívást jelenthet, de az Aspose.CAD for .NET segítségével a fejlesztők könnyen kezelhetik és konvertálhatják a különböző CAD-formátumokat. Az egyik gyakori igény a DGN-fájlok PDF-formátumba konvertálása, amelyet ebben az oktatóanyagban lépésről lépésre vizsgálunk meg.
+A CAD-fájlok világában való eligazodás kihívást jelenthet, de az Aspose.CAD for .NET segítségével a fejlesztők könnyen kezelhetik és konvertálhatják a különböző CAD-formátumokat. Az egyik gyakori igény a DGN-fájlok PDF-formátumba konvertálása, amelyet ebben az oktatóanyagban lépésről lépésre vizsgálunk meg.
 
 ## Előfeltételek
 
@@ -98,4 +98,4 @@ Teljesen! Az Aspose.CAD célja az összetett CAD feladatok egyszerűsítése, í
  Ideiglenes licenceket kérhet[itt](https://purchase.conholdate.com/temporary-license/).
 
 ### Segítségre van szüksége vagy kérdése van?  
-Csatlakozzon a beszélgetéshez a[Aspose.CAD fórum](https://forum.aspose.com/c/cad/19) közösségi támogatásért és megkeresésekért.
+ Csatlakozzon a beszélgetéshez a[Aspose.CAD fórum](https://forum.aspose.com/c/cad/19) közösségi támogatásért és megkeresésekért.

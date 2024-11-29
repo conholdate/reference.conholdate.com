@@ -90,7 +90,7 @@ Nauczyłeś się, jak używać Aspose.HTML dla .NET do wydajnej konwersji dokume
  Aspose.HTML dla .NET jest produktem komercyjnym. Możesz jednak uzyskać[licencja tymczasowa](https://purchase.conholdate.com/temporary-license/) do oceny.
 
 ### Do jakich formatów mogę konwertować HTML?  
-Biblioteka obsługuje wiele formatów oprócz GIF, w tym PDF, PNG i JPEG.
+Biblioteka obsługuje wiele formatów poza GIF, w tym PDF, PNG i JPEG.
 
 ### Czy mogę modyfikować kod HTML przed konwersją?  
 Tak! Aspose.HTML zapewnia szerokie możliwości parsowania i modyfikowania dokumentów HTML.

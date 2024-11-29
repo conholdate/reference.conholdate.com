@@ -15,7 +15,7 @@ Czy zanurzasz się w świat generowania kodów kreskowych w .NET? Niezależnie o
 
 Czy kiedykolwiek czułeś, że Twój kod kreskowy nie wygląda dobrze ze względu na swoją wysokość? Wyobraź sobie, że tworzysz kod kreskowy, który idealnie pasuje do etykiety lub opakowania Twojego produktu. Dzięki Aspose.BarCode możesz łatwo dostosować wysokość jednowymiarowych kodów kreskowych, aby uzyskać idealne dopasowanie. Biblioteka daje Ci precyzyjną kontrolę, zapewniając, że Twoje kody kreskowe spełniają standardy branżowe i są możliwe do zeskanowania za każdym razem.  
 
- Samouczek na temat[Dostosowywanie wysokości kodu kreskowego za pomocą Aspose.BarCode](./customizing-barcode-height/) poprowadzi Cię krok po kroku przez ten proces, od instalacji do wdrożenia. Niezależnie od tego, czy projektujesz etykiety detaliczne, czy etykiety przemysłowe, ten przewodnik Cię obejmie.  
+ Samouczek na temat[Dostosowywanie wysokości kodu kreskowego za pomocą Aspose.BarCode](./customizing-barcode-height/)poprowadzi Cię krok po kroku przez ten proces, od instalacji do wdrożenia. Niezależnie od tego, czy projektujesz etykiety detaliczne, czy etykiety przemysłowe, ten przewodnik Cię obejmie.  
 
 ## Generowanie i obsługa wyjątków za pomocą Aspose.BarCode dla .NET  
 

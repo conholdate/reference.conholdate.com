@@ -47,7 +47,7 @@ Imposta il tuo documento PostScript con le configurazioni desiderate:
 string dataDir = "Your Document Directory"; // Imposta il percorso della directory del documento
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // Imposta le opzioni di salvataggio per il formato A4
+    //Imposta le opzioni di salvataggio per il formato A4
     PsSaveOptions options = new PsSaveOptions();
     
     // Crea un nuovo documento PostScript con 2 pagine
@@ -114,4 +114,4 @@ Sì! Come illustrato in questa guida, puoi definire diverse dimensioni per ogni 
  Puoi ottenere una licenza temporanea per i test navigando su[questo collegamento](https://purchase.conholdate.com/temporary-license/).
 
 ### Dove posso cercare supporto nella comunità?  
-Unisciti al[Forum della comunità Aspose.Page](https://forum.aspose.com/c/page/39) per entrare in contatto con altri sviluppatori, condividere esperienze e cercare aiuto.
+ Unisciti al[Forum della comunità Aspose.Page](https://forum.aspose.com/c/page/39) per entrare in contatto con altri sviluppatori, condividere esperienze e cercare aiuto.

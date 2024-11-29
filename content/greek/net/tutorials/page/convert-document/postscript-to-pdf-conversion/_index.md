@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Ενημ�
 Θα δημιουργήσετε μια συσκευή PDF για να διευκολύνετε τη μετατροπή. Μπορείτε να καθορίσετε το μέγεθος σελίδας εάν είναι απαραίτητο, αλλά το προεπιλεγμένο μέγεθος των 595x842 πόντων (A4) είναι συνήθως επαρκές.
 
 ```csharp
-// Το προεπιλεγμένο μέγεθος σελίδας είναι 595x842 και δεν είναι υποχρεωτικό να το ορίσετε σε PdfDevice
+//Το προεπιλεγμένο μέγεθος σελίδας είναι 595x842 και δεν είναι υποχρεωτικό να το ορίσετε σε PdfDevice
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // Αλλά εάν πρέπει να καθορίσετε το μέγεθος και τη μορφή εικόνας χρησιμοποιήστε την ακόλουθη γραμμή
 //Aspose.Page.EPS.Device.PdfDevice συσκευή = new Aspose.Page.EPS.Device.PdfDevice(pdfStream, new System.Drawing.Size(595, 842));

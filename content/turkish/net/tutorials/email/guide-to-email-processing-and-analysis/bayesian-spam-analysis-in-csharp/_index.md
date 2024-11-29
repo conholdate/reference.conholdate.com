@@ -38,13 +38,13 @@ Bu içe aktarımlarla Aspose.Email'in spam analizinde sunduğu olanaklardan yara
 
 ## Adım 1: Bir E-posta Yükleyin
 
- İlk olarak, analiz etmek istediğiniz e-postayı yüklemeniz gerekir. Bu, şu şekilde yapılır:`MailMessage`Aspose.Email kütüphanesindeki sınıf. 
+ İlk olarak, analiz etmek istediğiniz e-postayı yüklemeniz gerekir. Bu, şu şekilde yapılır:`MailMessage` Aspose.Email kütüphanesindeki sınıf. 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- The`Load` method analiz etmek istediğiniz e-postanın dosya yolunu alır. Bu dosya EML formatında olmalıdır. Eğer bir tane yoksa, basit bir e-posta oluşturup onu şu şekilde kaydedebilirsiniz:`email.eml`.
+ The`Load`method analiz etmek istediğiniz e-postanın dosya yolunu alır. Bu dosya EML formatında olmalıdır. Eğer bir tane yoksa, basit bir e-posta oluşturup onu şu şekilde kaydedebilirsiniz:`email.eml`.
 
 ## Adım 2: Spam Analizörü Oluşturun
 

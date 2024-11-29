@@ -21,10 +21,10 @@ Först ut är TopoJSON – ett kompakt format för kodning av geodata. Varför s
 
 Låt oss sedan prata om filgeodatabaser (GDB) - de är som de digitala arkivskåpen för dina rumsliga data. Att lägga till lager i en GDB kan låta skrämmande, men med Aspose.GIS är det enkelt! 
 
- I den[Lägg till ett lager i en fil geodatabas med Aspose.GIS för .NET](./add-layer-to-file-geo-database/)tutorial, kommer du att lära dig alla detaljer i att skapa lager. Den täcker allt från de förutsättningar du behöver ha på plats till namnutrymmesimporterna och de nättiga stegen att skapa och validera lager i dina GIS-datauppsättningar. Se det som att skapa ett recept – du behöver rätt ingredienser och en bra metod för att laga något gott!
+ I den[Lägg till ett lager till en fil geodatabas med Aspose.GIS för .NET](./add-layer-to-file-geo-database/)tutorial, kommer du att lära dig alla detaljer i att skapa lager. Den täcker allt från de förutsättningar du behöver ha på plats till namnutrymmesimporterna och de nättiga stegen att skapa och validera lager i dina GIS-datauppsättningar. Se det som att skapa ett recept – du behöver rätt ingredienser och en bra metod för att laga något gott!
 
 ## Bemästra självstudier för lagerhantering
 ### [Arbeta med TopoJSON i Aspose.GIS för .NET](./working-with-topojson/)
 Lås upp kraften hos TopoJSON med Aspose.GIS för .NET. Lär dig att läsa, extrahera och visa geospatiala funktioner i enkla steg.
-### [Lägg till ett lager i en fil geodatabas med Aspose.GIS för .NET](./add-layer-to-file-geo-database/)
+### [Lägg till ett lager till en fil geodatabas med Aspose.GIS för .NET](./add-layer-to-file-geo-database/)
 Lär dig hur du lägger till ett nytt lager i en filgeodatabas (GDB) med Aspose.GIS för .NET. Den här omfattande guiden täcker förutsättningar, namnutrymmesimporter och detaljerade steg för att skapa och validera lager i dina GIS-datauppsättningar.

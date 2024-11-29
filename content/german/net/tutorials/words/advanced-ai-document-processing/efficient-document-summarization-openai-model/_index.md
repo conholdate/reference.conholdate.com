@@ -20,7 +20,7 @@ Stellen Sie sicher, dass Sie über eine kompatible .NET Framework-Version verfü
  Laden Sie das Aspose.Words für .NET Paket herunter von der[Aspose-Website](https://releases.aspose.com/words/net/), und installieren Sie es mit dem NuGet-Paket-Manager in Visual Studio in Ihrem Projekt.
 
 ### Erhalten Sie einen OpenAI-API-Schlüssel
- Um auf die Sprachmodelle von OpenAI zugreifen zu können, benötigen Sie einen API-Schlüssel. Melden Sie sich an auf der[OpenAI-Website](https://openai.com/), rufen Sie Ihren Schlüssel ab und bewahren Sie ihn für die Integration sicher auf.
+ Um auf die Sprachmodelle von OpenAI zugreifen zu können, benötigen Sie einen API-Schlüssel. Melden Sie sich an auf der[OpenAI-Website](https://openai.com/)rufen Sie Ihren Schlüssel ab und bewahren Sie ihn für die Integration sicher auf.
 
 ### Integrierte Entwicklungsumgebung
 Die Verwendung von Visual Studio als IDE vereinfacht den Codierungs- und Debuggingprozess.

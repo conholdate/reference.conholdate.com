@@ -17,7 +17,7 @@ Apakah Anda memerlukan panduan untuk mengonversi grafik dari lembar kerja Excel 
 Pastikan Anda telah menginstal .NET Framework atau .NET Core. Kedua lingkungan ini kompatibel dengan Aspose.Cells, sehingga Anda dapat menggunakan mana pun yang paling sesuai dengan proyek Anda.
 
 ### Instalasi Pustaka Aspose.Cells
-Pustaka Aspose.Cells sangat penting untuk konversi bagan ke PDF. Dapatkan versi terbaru dari[Halaman unduhan Aspose](https://releases.aspose.com/cells/net/).
+ Pustaka Aspose.Cells sangat penting untuk konversi bagan ke PDF. Dapatkan versi terbaru dari[Halaman unduhan Aspose](https://releases.aspose.com/cells/net/).
 
 ### Pengetahuan Dasar C#
 Memiliki pemahaman dasar tentang C# akan mempermudah proses pengodean. Jangan khawatir jika Anda seorang pemula; panduan ini menyertakan contoh kode yang mudah diikuti.
@@ -82,7 +82,7 @@ Kode ini mengakses lembar kerja pertama. Ubah indeks jika bagan Anda ada di lemb
 Berikutnya, akses bagan tertentu yang ingin Anda ubah dari lembar kerja yang dipilih.
 
 ```csharp
-//Akses bagan pertama di lembar kerja
+// Akses bagan pertama di lembar kerja
 Chart chart = worksheet.Charts[0];
 ```
 

@@ -115,7 +115,7 @@ renderer.Execute(equirectangular, final);
 
 ## Steg 6: Spara den renderade panoraman
 
-När renderingen och efterbearbetningen är klar är det sista steget att spara det slutliga panoramat i en bildfil, till exempel en PNG.
+När renderingen och efterbearbetningen är klar är det sista steget att spara det slutliga panoramaet till en bildfil, till exempel en PNG.
 
 ```csharp
 ((ITexture2D)final.Targets[0]).Save("Your_Output_Directory/panorama.png", ImageFormat.Png);

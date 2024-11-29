@@ -42,7 +42,7 @@ Document doc = new Document(dataDir + "SampleDocument.doc");
 
 ## Steg 2: Konvertera DOC till DOCX-format
 
- När dokumentet väl har laddats är det enkelt att konvertera det till DOCX-format. Använd`Save` metod och specificera`SaveFormat.Docx`.
+ När dokumentet har laddats är det enkelt att konvertera det till DOCX-format. Använd`Save` metod och specificera`SaveFormat.Docx`.
 
 ```csharp
 // Spara som DOCX-format

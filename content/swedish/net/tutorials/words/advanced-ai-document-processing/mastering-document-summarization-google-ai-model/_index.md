@@ -87,7 +87,7 @@ Document oneDocumentSummary = model.Summarize(firstDoc, new SummarizeOptions() {
 oneDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.One.docx");
 ```
 
-Denna kod skapar en sammanfattad version av`firstDoc` och sparar den i artefakterkatalogen. Justera sammanfattningslängden för att möta dina behov, oavsett om den är kort, medium eller lång.
+ Denna kod skapar en sammanfattad version av`firstDoc` och sparar den i artefakterkatalogen. Justera sammanfattningslängden för att möta dina behov, oavsett om den är kort, medium eller lång.
 
 ## Steg 6: Sammanfatta flera dokument samtidigt
 
@@ -120,7 +120,7 @@ Ja, Aspose.Words låter dig skicka flera dokument till AI-modellen, vilket ger e
 
 ### Hur kan jag kontrollera sammanfattningens längd?
 
- Använd`SummaryLength` alternativ inom`SummarizeOptions` klass för att ställa in önskad sammanfattningslängd som kort, medium eller lång.
+ Använd`SummaryLength` alternativ inom`SummarizeOptions`klass för att ställa in önskad sammanfattningslängd som kort, medium eller lång.
 
 ### Var kan jag hitta ytterligare resurser för Aspose.Words?
 

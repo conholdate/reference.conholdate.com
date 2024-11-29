@@ -20,7 +20,7 @@ url: /ko/net/tutorials/words/advanced-ai-document-processing/efficient-document-
  .NET 패키지용 Aspose.Words를 다운로드하세요.[Aspose 웹사이트](https://releases.aspose.com/words/net/), Visual Studio의 NuGet 패키지 관리자를 사용하여 프로젝트에 설치합니다.
 
 ### OpenAI API 키 얻기
- OpenAI의 언어 모델에 액세스하려면 API 키가 필요합니다.[OpenAI 웹사이트](https://openai.com/), 키를 검색하여 통합을 위해 안전하게 보관하세요.
+ OpenAI의 언어 모델에 액세스하려면 API 키가 필요합니다.[OpenAI 웹사이트](https://openai.com/)키를 검색하여 통합을 위해 안전하게 보관하세요.
 
 ### 통합 개발 환경
 IDE로 Visual Studio를 사용하면 코딩 및 디버깅 프로세스가 간소화됩니다.

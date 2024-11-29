@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Bước 5: Khởi tạo tệp đính kèm
 
- Chỉ định đường dẫn đến tệp mà bạn muốn đính kèm bằng cách sử dụng`AttachedFile`lớp học.
+ Chỉ định đường dẫn đến tệp mà bạn muốn đính kèm bằng cách sử dụng`AttachedFile` lớp học.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

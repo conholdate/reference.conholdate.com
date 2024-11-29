@@ -15,7 +15,7 @@ Aspose.CAD for .NET kullanarak CAD düzenlerini zahmetsizce raster görüntü bi
 
 Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
--  Aspose.CAD for .NET Kütüphanesi: Kütüphaneyi şu adresten indirin ve yükleyin:[Aspose.CAD web sitesi](https://releases.aspose.com/cad/net/).
+- Aspose.CAD for .NET Kütüphanesi: Kütüphaneyi şu adresten indirin ve yükleyin:[Aspose.CAD web sitesi](https://releases.aspose.com/cad/net/).
 -  CAD Çizim Dosyası: CAD çizim dosyanızı (örneğin,`conic_pyramid.dxf`) dönüşüme hazır.
 
 ## Gerekli Ad Alanlarını İçe Aktar

@@ -15,7 +15,7 @@ Nel mondo in rapida evoluzione dello sviluppo .NET, Aspose.PSD è una potente li
 
 Prima di iniziare, assicurati di quanto segue:
 
-### 1. Installare Aspose.PSD per .NET
+### 1. Installa Aspose.PSD per .NET
 
  Devi avere Aspose.PSD per .NET installato nel tuo ambiente di sviluppo. Scaricalo[Qui](https://releases.aspose.com/psd/net/).
 

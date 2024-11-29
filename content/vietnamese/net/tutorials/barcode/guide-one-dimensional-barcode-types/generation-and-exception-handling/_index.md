@@ -98,7 +98,7 @@ Aspose.BarCode for .NET là một thư viện toàn diện cho phép các nhà p
  Có! Bạn có thể tải xuống phiên bản dùng thử của Aspose.BarCode cho .NET[đây](https://releases.aspose.com/barcode/net/).
 
 ### Làm thế nào tôi có thể mua giấy phép Aspose.BarCode cho .NET?
-Truy cập trang mua hàng[đây](https://purchase.conholdate.com/buy) để có được giấy phép sử dụng Aspose.BarCode cho .NET.
+ Truy cập trang mua hàng[đây](https://purchase.conholdate.com/buy) để có được giấy phép sử dụng Aspose.BarCode cho .NET.
 
 ### Tôi có thể tìm kiếm sự trợ giúp và hỗ trợ cho Aspose.BarCode for .NET ở đâu?
  Để được hỗ trợ, hãy truy cập diễn đàn hỗ trợ Aspose.BarCode cho .NET[đây](https://forum.aspose.com/c/barcode/13) để kết nối với cộng đồng và nhóm hỗ trợ.

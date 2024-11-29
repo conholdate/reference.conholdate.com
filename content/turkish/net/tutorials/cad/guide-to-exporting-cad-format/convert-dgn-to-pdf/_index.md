@@ -98,4 +98,4 @@ Kesinlikle! Aspose.CAD, karmaşık CAD görevlerini basitleştirmek ve CAD bilgi
  Geçici lisans talebinde bulunabilirsiniz[Burada](https://purchase.conholdate.com/temporary-license/).
 
 ### Yardıma mı ihtiyacınız var veya sorularınız mı var?  
-Sohbete katılın[Aspose.CAD forumu](https://forum.aspose.com/c/cad/19) Topluluk desteği ve sorularınız için.
+ Sohbete katılın[Aspose.CAD forumu](https://forum.aspose.com/c/cad/19) Topluluk desteği ve sorularınız için.

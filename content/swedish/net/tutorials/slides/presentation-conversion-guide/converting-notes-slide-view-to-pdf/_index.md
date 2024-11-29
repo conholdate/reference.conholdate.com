@@ -59,7 +59,7 @@ using (Presentation presentation = new Presentation(dataDir + "NotesFile.pptx"))
 PdfOptions pdfOptions = new PdfOptions();
 INotesCommentsLayoutingOptions options = pdfOptions.NotesCommentsLayouting;
 
-// Ställ in placeringen av anteckningarna i utdata-PDF-filen
+// Ställ in placeringen av anteckningarna i den utgående PDF-filen
 options.NotesPosition = NotesPositions.BottomFull;
 ```
 
@@ -88,10 +88,10 @@ Ja, Aspose.Slides för .NET är designat för att hantera presentationer av alla
  Du kan ladda ner en gratis testversion från[här](https://releases.aspose.com/).
 
 ### F3: Finns det andra PDF-exportalternativ?
-Ja, du kan anpassa teckensnitt, sidlayout, komprimering och mer med hjälp av`PdfOptions`klass.
+Ja, du kan anpassa teckensnitt, sidlayout, komprimering och mer med hjälp av`PdfOptions` klass.
 
 ### F4: Kan jag exportera endast specifika bilder?
- Absolut! Du kan välja specifika bilder med hjälp av`Slides` samling i`Presentation`klass.
+ Absolut! Du kan välja specifika bilder med hjälp av`Slides` samling i`Presentation` klass.
 
 ### F5: Var kan jag hitta ytterligare exempel?
  Besök[Aspose.Slides för .NET-dokumentation](https://reference.aspose.com/slides/net/) för fler exempel och användningsfall.

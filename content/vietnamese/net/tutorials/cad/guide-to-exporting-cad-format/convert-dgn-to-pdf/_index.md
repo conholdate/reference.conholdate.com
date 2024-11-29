@@ -98,4 +98,4 @@ Chắc chắn rồi! Aspose.CAD được thiết kế để đơn giản hóa c�
  Bạn có thể yêu cầu giấy phép tạm thời[đây](https://purchase.conholdate.com/temporary-license/).
 
 ### Bạn cần hỗ trợ hoặc có thắc mắc?  
-Tham gia cuộc trò chuyện trong[Diễn đàn Aspose.CAD](https://forum.aspose.com/c/cad/19) để hỗ trợ cộng đồng và giải đáp thắc mắc.
+ Tham gia cuộc trò chuyện trong[Diễn đàn Aspose.CAD](https://forum.aspose.com/c/cad/19) để hỗ trợ cộng đồng và giải đáp thắc mắc.

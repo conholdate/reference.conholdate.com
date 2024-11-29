@@ -15,7 +15,7 @@ Werken met lange documenten betekent vaak dat u door dichte informatie moet spit
 
 Voordat u begint, moet u ervoor zorgen dat u over het volgende beschikt:
 
-1.  Aspose.Words voor .NET-bibliotheek: Download het van[Releases van Aspose](https://releases.aspose.com/words/net/).
+1. Aspose.Words voor .NET-bibliotheek: Download het van[Releases van Aspose](https://releases.aspose.com/words/net/).
 2. .NET-omgeving: Stel een .NET-ontwikkelomgeving in, zoals Visual Studio.
 3. Basiskennis van C#: Deze tutorial gaat over coderen, dus vertrouwdheid met de C#-syntaxis is nuttig.
 4. API-sleutel voor AI-model: verkrijg een API-sleutel voor uw favoriete AI-samenvattingsmodel (bijv. GPT-4). Deze gebruiken we om samenvattingen te genereren.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Stap 2: Documenten laden voor samenvatting
 
- Laad de documenten die u wilt samenvatten. Gebruik de`Document` klasse in Aspose.Words om toegang te krijgen tot uw Word-bestanden:
+ Laad de documenten die u wilt samenvatten. Gebruik de`Document`klasse in Aspose.Words om toegang te krijgen tot uw Word-bestanden:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- De`Gpt4OMini` model wordt geïnitialiseerd met uw API-sleutel om documentsamenvatting te verwerken. Zorg ervoor dat u vervangt`"API_KEY"`met uw daadwerkelijke API-sleutel.
+ De`Gpt4OMini` model wordt geïnitialiseerd met uw API-sleutel om documentsamenvatting te verwerken. Zorg ervoor dat u vervangt`"API_KEY"` met uw daadwerkelijke API-sleutel.
 
 ## Stap 4: Vat een enkel document samen
 

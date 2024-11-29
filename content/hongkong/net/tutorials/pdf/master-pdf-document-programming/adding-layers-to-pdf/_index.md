@@ -18,7 +18,7 @@ url: /zh-hant/net/tutorials/pdf/master-pdf-document-programming/adding-layers-to
 1. 對 C# 的基本了解：對該語言的基本了解將幫助您理解程式碼。
 2.  Aspose.PDF for .NET 函式庫：從下列位置下載[阿斯普斯網站](https://releases.aspose.com/pdf/net/).
 3. Visual Studio 或任何 C# IDE：使用電腦上設定的 IDE 來編寫、編譯和執行程式碼。
-4. 範例 PDF 文件：擁有範例文件有利於測試。
+4. 範例 PDF 文件：擁有範例文件有助於測試。
 
 ## 導入包
 

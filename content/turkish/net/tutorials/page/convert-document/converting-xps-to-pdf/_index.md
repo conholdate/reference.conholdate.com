@@ -110,8 +110,8 @@ Aspose.Page for .NET, PDF'nin yanı sıra TIFF, JPEG ve PNG gibi çeşitli forma
 
 ### Aspose.Page for .NET için deneme sürümü mevcut mu?
 
-Evet, .NET için Aspose.Page'i ücretsiz deneme sürümüyle deneyebilirsiniz[Burada](https://releases.aspose.com/).
+ Evet, .NET için Aspose.Page'i ücretsiz deneme sürümüyle deneyebilirsiniz[Burada](https://releases.aspose.com/).
 
 ### Aspose.Page for .NET için topluluk desteğini nerede bulabilirim?
 
- Topluluk tartışmaları ve desteği için şu adresi ziyaret edin:[Aspose.Page forumu](https://forum.aspose.com/c/page/39).
+Topluluk tartışmaları ve desteği için şu adresi ziyaret edin:[Aspose.Page forumu](https://forum.aspose.com/c/page/39).

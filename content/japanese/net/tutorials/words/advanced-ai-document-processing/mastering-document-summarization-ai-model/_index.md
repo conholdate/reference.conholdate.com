@@ -17,7 +17,7 @@ url: /ja/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 
 1. Visual Studio: コーディングとテストに必要です。まだインストールされていない場合は無料でダウンロードできます。
 2. .NET Framework または .NET Core: Aspose.Words for .NET は両方をサポートしているため、互換性のあるバージョンを使用していることを確認してください。
-3.  Aspose.Words for .NET: 最新バージョンをダウンロードしてインストールしてください。[Aspose リリース ページ](https://releases.aspose.com/words/net/).
+3. Aspose.Words for .NET: 最新バージョンをダウンロードしてインストールしてください。[Aspose リリース ページ](https://releases.aspose.com/words/net/).
 4. AI モデル API キー: サマリーを生成するには、AI モデル API (OpenAI など) へのアクセスが必要です。AI プロバイダーのサイトで登録して API キーを取得します。
 5. 基本的な C# の知識: C# プログラミングに関するある程度の知識があれば、効果的に理解できるようになります。
 
@@ -25,7 +25,7 @@ url: /ja/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 
 ## プロジェクト環境の設定
 
-Visual Studio でコンソール アプリケーションを作成して構成し、ドキュメントの要約を実行する手順について説明します。
+ドキュメントの要約を実行するために Visual Studio でコンソール アプリケーションを作成および構成する手順について説明します。
 
 ### 新しいコンソールアプリケーションを作成する
 

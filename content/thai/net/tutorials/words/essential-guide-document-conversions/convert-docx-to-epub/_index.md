@@ -16,7 +16,7 @@ url: /th/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 ก่อนที่จะเริ่มกระบวนการแปลง ให้แน่ใจว่าคุณมีสิ่งต่อไปนี้:
 
 - สภาพแวดล้อมการพัฒนา: มีการติดตั้ง Visual Studio หรือ .NET IDE อื่น
-- Aspose.Words สำหรับ .NET: ดาวน์โหลดและติดตั้งจาก[เว็บไซต์อาโพส](https://releases.aspose.com/words/net/).
+-  Aspose.Words สำหรับ .NET: ดาวน์โหลดและติดตั้งจาก[เว็บไซต์อาโพส](https://releases.aspose.com/words/net/).
 - ไฟล์เอกสาร: เตรียมไฟล์ DOCX ที่คุณต้องการจะแปลง
 
 ## ขั้นตอนที่ 1: นำเข้าเนมสเปซที่จำเป็น

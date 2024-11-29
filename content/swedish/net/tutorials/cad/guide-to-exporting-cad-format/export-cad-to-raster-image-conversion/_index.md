@@ -15,12 +15,12 @@ Vill du enkelt konvertera CAD-layouter till rasterbildsformat med Aspose.CAD fö
 
 Innan du börjar, se till att du har följande:
 
--  Aspose.CAD för .NET Library: Ladda ner och installera biblioteket från[Aspose.CAD webbplats](https://releases.aspose.com/cad/net/).
+- Aspose.CAD för .NET Library: Ladda ner och installera biblioteket från[Aspose.CAD webbplats](https://releases.aspose.com/cad/net/).
 -  CAD-ritningsfil: Ha din CAD-ritningsfil (t.ex.`conic_pyramid.dxf`) redo för konvertering.
 
 ## Importera nödvändiga namnområden
 
-ditt .NET-projekt måste du importera nödvändiga namnområden för att använda Aspose.CAD-funktioner. Lägg till följande överst i din kod:
+I ditt .NET-projekt måste du importera nödvändiga namnområden för att använda Aspose.CAD-funktioner. Lägg till följande överst i din kod:
 
 ```csharp
 using System;

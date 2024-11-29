@@ -17,7 +17,7 @@ Başlamak için aşağıdakilerin mevcut olduğundan emin olun:
 
 1. Visual Studio: Kodlama ve test için gereklidir. Zaten yüklü değilse ücretsiz olarak indirebilirsiniz.
 2. .NET Framework veya .NET Core: Aspose.Words for .NET her ikisini de destekler, bu nedenle uyumlu bir sürüme sahip olduğunuzdan emin olun.
-3.  Aspose.Words for .NET: En son sürümü indirin ve yükleyin[Aspose sürüm sayfası](https://releases.aspose.com/words/net/).
+3. Aspose.Words for .NET: En son sürümü indirin ve yükleyin[Aspose sürüm sayfası](https://releases.aspose.com/words/net/).
 4. AI Model API Anahtarı: Özetler oluşturmak için bir AI model API'sine erişim gereklidir (örneğin, OpenAI). API anahtarını almak için AI sağlayıcısının sitesine kaydolun.
 5. Temel C# Bilgisi: C# programlamaya dair bir miktar aşinalık, konuyu etkili bir şekilde takip etmenize yardımcı olacaktır.
 
@@ -39,7 +39,7 @@ Visual Studio'da belge özetleme işlemini gerçekleştirecek bir konsol uygulam
 Aspose.Words işlevselliğini etkinleştirmek için NuGet paket yöneticisi aracılığıyla ekleyin.
 
 1. Çözüm Gezgini'nde projenize sağ tıklayın ve NuGet Paketlerini Yönet'i seçin.
-2.  Arama`Aspose.Words`ve Yükle'ye tıklayın.
+2.  Arama`Aspose.Words` ve Yükle'ye tıklayın.
 3. Gerekirse, entegrasyon için herhangi bir özel AI model paketini de kurun (örneğin, OpenAI).
 
 ```csharp

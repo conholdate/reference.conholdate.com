@@ -23,7 +23,7 @@ Wenn diese Voraussetzungen gegeben sind, kann es auch schon losgehen mit dem Bog
 
 ## Erforderliche Namespaces importieren
 
-Zunächst müssen Sie die erforderlichen Namespaces importieren, um auf die von Aspose.Imaging bereitgestellte Funktionalität zugreifen zu können. Fügen Sie Folgendes hinzu`using` -Anweisungen oben in Ihrer C#-Datei:
+ Zunächst müssen Sie die erforderlichen Namespaces importieren, um auf die von Aspose.Imaging bereitgestellte Funktionalität zugreifen zu können. Fügen Sie Folgendes hinzu`using` -Anweisungen oben in Ihrer C#-Datei:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## Schritt 1: Erstellen Sie das Image und speichern Sie den Stream
 
 ```csharp
-// Definieren Sie das Verzeichnis, in dem das Bild gespeichert werden soll
+//Definieren Sie das Verzeichnis, in dem das Bild gespeichert werden soll
 string dataDir = "Your Document Directory"; // Aktualisieren Sie dies auf Ihren bevorzugten Pfad
 
 // Erstellen Sie einen Stream zum Speichern des BMP-Bildes
@@ -78,7 +78,7 @@ Definieren wir nun die Parameter für den Bogen und zeichnen ihn:
 
 ```csharp
             // Definieren Sie Parameter für den Bogen
-            int width = 100;   //Breite des umgebenden Rechtecks
+            int width = 100;   // Breite des umgebenden Rechtecks
             int height = 200;  // Höhe des umgebenden Rechtecks
             int startAngle = 45;  // Startwinkel in Grad
             int sweepAngle = 270; // Schwenkwinkel in Grad

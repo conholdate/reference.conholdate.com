@@ -75,7 +75,7 @@ string outputPDF = dataDir + "HTMLtoPDF_Output.pdf";
 Converter.ConvertHTML(htmlDocument, options, outputPDF);
 ```
 
-Ve işte bu kadar, HTML içeriğiniz artık Aspose.HTML for .NET kullanılarak başarıyla PDF belgesine dönüştürüldü!
+Ve işte bu kadar, HTML içeriğiniz artık Aspose.HTML for .NET kullanılarak başarıyla bir PDF belgesine dönüştürüldü!
 
 ## Çözüm
 

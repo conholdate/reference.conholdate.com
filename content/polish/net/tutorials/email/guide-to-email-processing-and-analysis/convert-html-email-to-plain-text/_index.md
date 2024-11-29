@@ -73,7 +73,7 @@ doc.RemoveAllChildren();
 
 ### Krok 4: Wstaw zawartość HTML
 
- To tutaj dzieje się magia konwersji! Użyjemy`DocumentBuilder` Klasa z Aspose.Words służąca do wstawiania naszej zawartości HTML do dokumentu. 
+ To tutaj dzieje się magia konwersji! Użyjemy`DocumentBuilder` Klasa z Aspose.Words służąca do wstawiania zawartości HTML do dokumentu. 
 
 ```csharp
 doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFormatMode.KeepSourceFormatting);

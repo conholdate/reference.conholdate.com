@@ -62,7 +62,7 @@ if (rasterImage == null)
 
 ## Passaggio 4: configurare le opzioni del filtro
 
-Successivamente, crea e configura le opzioni del filtro gaussiano e di Wiener specificando i valori del raggio e della levigatezza:
+Successivamente, crea e configura le opzioni del filtro gaussiano e di Wiener specificando il raggio e i valori di smoothing:
 
 ```csharp
 // Crea un'istanza di GaussWienerFilterOptions con parametri specificati

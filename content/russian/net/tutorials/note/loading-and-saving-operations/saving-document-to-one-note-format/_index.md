@@ -17,7 +17,7 @@ Aspose.Note — это надежная библиотека для разраб
 
 1. Базовые знания C# и .NET: требуется знакомство с языком программирования C# и платформой .NET.
    
-2.  Установка Aspose.Note для .NET: Загрузите и установите библиотеку Aspose.Note с сайта[Сайт Aspose](https://releases.aspose.com/note/net/).
+2. Установка Aspose.Note для .NET: Загрузите и установите библиотеку Aspose.Note с сайта[Сайт Aspose](https://releases.aspose.com/note/net/).
 
 3. Среда разработки: настройте подходящую среду разработки, например Visual Studio.
 

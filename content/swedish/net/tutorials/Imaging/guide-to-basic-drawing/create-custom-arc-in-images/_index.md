@@ -23,7 +23,7 @@ När du har dessa förutsättningar kan vi börja rita en båge!
 
 ## Importera nödvändiga namnområden
 
-Först måste du importera de nödvändiga namnrymden för att komma åt funktionaliteten som tillhandahålls av Aspose.Imaging. Lägg till följande`using` uttalanden överst i din C#-fil:
+ Först måste du importera de nödvändiga namnrymden för att komma åt funktionaliteten som tillhandahålls av Aspose.Imaging. Lägg till följande`using` uttalanden överst i din C#-fil:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## Steg 1: Skapa bilden och spara strömmen
 
 ```csharp
-// Definiera katalogen för att spara bilden
+//Definiera katalogen för att spara bilden
 string dataDir = "Your Document Directory"; // Uppdatera detta till din önskade sökväg
 
 // Skapa en ström för att spara BMP-bilden
@@ -78,7 +78,7 @@ Låt oss nu definiera parametrarna för bågen och rita den:
 
 ```csharp
             // Definiera parametrar för bågen
-            int width = 100;   //Bredden på den avgränsande rektangeln
+            int width = 100;   // Bredden på den avgränsande rektangeln
             int height = 200;  // Höjden på den avgränsande rektangeln
             int startAngle = 45;  // Startvinkel i grader
             int sweepAngle = 270; // Svepvinkel i grader

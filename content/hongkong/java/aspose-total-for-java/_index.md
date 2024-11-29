@@ -55,7 +55,7 @@ Aspose.Cells for Java 是一個類別庫，可讓您的應用程式執行各種�
 
 {{% alert color="primary" %}}
 
-![用於 Java 的 Aspose.Email](home_5.png)
+![Java 版 Aspose.Email](home_5.png)
 
 Aspose.Email for Java 是一個 Java API，它使 Java 應用程式能夠在不使用 Microsoft Outlook® 的情況下讀取和寫入 Microsoft Outlook® 文件。 Aspose.Email for Java 提供了許多關鍵功能，例如管理 Microsoft Outlook® MSG 文件中的收件者、主題、正文、附件以及從 Microsoft Outlook® PST 文件中讀取聯絡人、訊息和資料夾資訊。它也可用於建立、修改和轉換 EML、MSG 和 MHT 格式的電子郵件。
 

@@ -9,7 +9,7 @@ url: /cs/net/tutorials/page/master-page-manipulation/add-page-to-postscript-docu
 ---
 ## Zavedení
 
-V oblasti vývoje .NET je manipulace s dokumenty základní dovedností. Aspose.Page for .NET je výkonná knihovna, která umožňuje vývojářům bez námahy pracovat s dokumenty PostScript (PS). Tato příručka vás krok za krokem provede procesem přidávání stránek do dokumentu PostScript.
+oblasti vývoje .NET je manipulace s dokumenty základní dovedností. Aspose.Page for .NET je výkonná knihovna, která umožňuje vývojářům bez námahy pracovat s dokumenty PostScript (PS). Tato příručka vás krok za krokem provede procesem přidávání stránek do dokumentu PostScript.
 
 ## Předpoklady
 
@@ -47,7 +47,7 @@ Nastavte svůj PostScriptový dokument s požadovanými konfiguracemi:
 string dataDir = "Your Document Directory"; // Nastavte cestu k adresáři dokumentu
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // Nastavte možnosti uložení pro velikost A4
+    //Nastavte možnosti uložení pro velikost A4
     PsSaveOptions options = new PsSaveOptions();
     
     // Vytvořte nový PostScriptový dokument se 2 stránkami
@@ -114,4 +114,4 @@ Ano! Jak je ukázáno v této příručce, můžete definovat různé velikosti 
  Dočasnou licenci pro testování můžete získat přechodem na[tento odkaz](https://purchase.conholdate.com/temporary-license/).
 
 ### Kde mohu hledat podporu komunity?  
-Připojte se k[Aspose.Page komunitní fórum](https://forum.aspose.com/c/page/39) spojit se s ostatními vývojáři, sdílet zkušenosti a hledat pomoc.
+ Připojte se k[Aspose.Page komunitní fórum](https://forum.aspose.com/c/page/39) spojit se s ostatními vývojáři, sdílet zkušenosti a hledat pomoc.

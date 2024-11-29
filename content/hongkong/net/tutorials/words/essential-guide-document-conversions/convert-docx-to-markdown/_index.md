@@ -58,7 +58,7 @@ Aspose.Words for .NET 提供了一個強大且有效率的方法將 DOCX 檔案�
 
 Aspose.Words 支援多種格式，包括 DOCX、DOC、PDF、HTML 和 Markdown 等。這種多功能性允許無縫整合和操作各種文件類型。
 
-### Aspose.Words 可以處理複雜的文件結構，例如表格和圖像嗎？
+### Aspose.Words 可以處理複雜的文件結構（例如表格和圖像）嗎？
 
 絕對地！ Aspose.Words 擁有處理複雜文件結構（包括表格、影像和詳細格式）的先進功能，確保轉換後的文件保留其原始完整性。
 

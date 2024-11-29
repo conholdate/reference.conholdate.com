@@ -15,7 +15,7 @@ Jste připraveni posunout grafickou hru vaší aplikace .NET na další úroveň
 
 Představte si globální transformace jako použití „univerzálního filtru“ na vaše plátno. Tyto transformace ovlivňují každý prvek nakreslený v grafickém kontextu, takže jsou ideální pro scénáře, kde potřebujete jednotné měřítko, otočení nebo posun v celém návrhu. Pomocí Aspose.Drawing for .NET je zvládnutí globálních transformací snazší než kdy jindy.
 
- Představte si například, že vytváříte nástroj pro vizualizaci dat, který dynamicky mění velikost grafů na základě rozměrů obrazovky. Transformace globálního měřítka zajišťuje, že se vše hladce přizpůsobí, zachovává proporcionalitu a estetiku. Chcete se dozvědět jak? Podívejte se na náš vyhrazený návod na[Zvládnutí globálních transformací v Aspose.Drawing pro .NET](./mastering-global-transformations/).
+Představte si například, že vytváříte nástroj pro vizualizaci dat, který dynamicky mění velikost grafů na základě rozměrů obrazovky. Transformace globálního měřítka zajišťuje, že se vše přizpůsobí hladce, zachovává proporcionalitu a estetiku. Chcete se dozvědět jak? Podívejte se na náš vyhrazený návod na[Zvládnutí globálních transformací v Aspose.Drawing pro .NET](./mastering-global-transformations/).
 
 ## Průvodce místními proměnami
 

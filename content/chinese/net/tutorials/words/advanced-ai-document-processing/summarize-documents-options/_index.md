@@ -15,7 +15,7 @@ url: /zh/net/tutorials/words/advanced-ai-document-processing/summarize-documents
 
 在开始之前，请确保您已准备好以下物品：
 
-1.  Aspose.Words for .NET 库：从以下网址下载[Aspose 的发布](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET 库：从以下网址下载[Aspose 的发布](https://releases.aspose.com/words/net/).
 2. .NET 环境：设置 .NET 开发环境，例如 Visual Studio。
 3. 基本 C# 知识：本教程涉及编码，因此熟悉 C# 语法将会有所帮助。
 4. AI 模型 API 密钥：获取您首选的 AI 摘要模型（例如 GPT-4）的 API 密钥，因为我们将使用它来生成摘要。
@@ -78,14 +78,14 @@ summaryDoc.Save(ArtifactsDir + "SingleDocumentSummary.docx");
 
 ## 步骤 5：汇总多个文档
 
-如果您需要跨多个文档的全面摘要，此代码片段显示了如何实现它。
+如果您需要跨多个文档的全面摘要，此代码片段展示了如何实现它。
 
 ```csharp
 Document combinedSummary = model.Summarize(new Document[] { firstDoc, secondDoc }, new SummarizeOptions() { SummaryLength = SummaryLength.Long });
 combinedSummary.Save(ArtifactsDir + "MultiDocumentSummary.docx");
 ```
 
-此代码结合并总结`firstDoc`和`secondDoc`，对这两份文件的内容进行了更广泛的概述。
+此代码结合并总结`firstDoc`和`secondDoc`，对这两份文件的内容提供了更广泛的概述。
 
 ## 结论
 

@@ -47,7 +47,7 @@ using System.IO;
 string dataDir = "Your Document Directory"; // قم بتعيين مسار دليل المستند الخاص بك
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // إعداد خيارات الحفظ لحجم A4
+    //إعداد خيارات الحفظ لحجم A4
     PsSaveOptions options = new PsSaveOptions();
     
     // إنشاء مستند PostScript جديد يحتوي على صفحتين
@@ -114,4 +114,4 @@ using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps")
  يمكنك الحصول على ترخيص مؤقت للاختبار بالانتقال إلى[هذا الرابط](https://purchase.conholdate.com/temporary-license/).
 
 ### أين يمكنني الحصول على الدعم المجتمعي؟  
-انضم إلى[منتدى مجتمع Aspose.Page](https://forum.aspose.com/c/page/39) للتواصل مع المطورين الآخرين ومشاركة الخبرات وطلب المساعدة.
+ انضم إلى[منتدى مجتمع Aspose.Page](https://forum.aspose.com/c/page/39) للتواصل مع المطورين الآخرين ومشاركة الخبرات وطلب المساعدة.

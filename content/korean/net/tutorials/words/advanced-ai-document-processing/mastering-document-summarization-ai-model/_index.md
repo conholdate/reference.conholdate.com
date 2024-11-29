@@ -17,7 +17,7 @@ url: /ko/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 
 1. Visual Studio: 코딩 및 테스트에 필요합니다. 아직 설치하지 않았다면 무료로 다운로드할 수 있습니다.
 2. .NET Framework 또는 .NET Core: Aspose.Words for .NET은 둘 다 지원하므로 호환되는 버전을 사용하세요.
-3.  .NET용 Aspose.Words: 다음에서 최신 버전을 다운로드하여 설치하세요.[Aspose 릴리스 페이지](https://releases.aspose.com/words/net/).
+3. .NET용 Aspose.Words: 다음에서 최신 버전을 다운로드하여 설치하세요.[Aspose 릴리스 페이지](https://releases.aspose.com/words/net/).
 4. AI 모델 API 키: 요약을 생성하려면 AI 모델 API에 대한 액세스가 필요합니다(예: OpenAI). AI 제공자 사이트에 등록하여 API 키를 얻으세요.
 5. 기본 C# 지식: C# 프로그래밍에 대한 지식이 있으면 효과적으로 따라갈 수 있습니다.
 
@@ -39,7 +39,7 @@ Visual Studio에서 문서 요약을 수행하기 위한 콘솔 애플리케이�
 Aspose.Words 기능을 활성화하려면 NuGet 패키지 관리자를 통해 추가하세요.
 
 1. 솔루션 탐색기에서 프로젝트를 마우스 오른쪽 버튼으로 클릭하고 NuGet 패키지 관리를 선택합니다.
-2.  검색`Aspose.Words`설치를 클릭하세요.
+2.  검색`Aspose.Words` 설치를 클릭하세요.
 3. 필요한 경우 통합을 위해 특정 AI 모델 패키지(예: OpenAI)도 설치합니다.
 
 ```csharp

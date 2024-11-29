@@ -96,7 +96,7 @@ bitmap.Save("Your Document Directory" + @"CoordinateSystemsTransformations\Globa
 
 ### Aspose.Drawing 무료 체험판이 있나요?
 
- 네, Aspose.Drawing의 무료 체험판을 체험해 보실 수 있습니다.[여기](https://releases.aspose.com/).
+ 네, Aspose.Drawing의 무료 체험판을 체험해 볼 수 있습니다.[여기](https://releases.aspose.com/).
 
 ### Aspose.Drawing에 대한 임시 라이선스를 어떻게 받을 수 있나요?
 

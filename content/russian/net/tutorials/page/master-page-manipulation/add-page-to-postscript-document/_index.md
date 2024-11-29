@@ -47,7 +47,7 @@ using System.IO;
 string dataDir = "Your Document Directory"; // Укажите путь к каталогу документов
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // Настройте параметры сохранения для формата А4
+    //Настройте параметры сохранения для формата А4
     PsSaveOptions options = new PsSaveOptions();
     
     // Создайте новый документ PostScript с 2 страницами
@@ -114,4 +114,4 @@ Aspose.Page специализируется на документах PostScrip
  Вы можете получить временную лицензию для тестирования, перейдя по ссылке[эта ссылка](https://purchase.conholdate.com/temporary-license/).
 
 ### Где я могу найти общественную поддержку?  
-Присоединяйтесь к[Форум сообщества Aspose.Page](https://forum.aspose.com/c/page/39) общаться с другими разработчиками, делиться опытом и искать помощь.
+ Присоединяйтесь к[Форум сообщества Aspose.Page](https://forum.aspose.com/c/page/39) общаться с другими разработчиками, делиться опытом и искать помощь.

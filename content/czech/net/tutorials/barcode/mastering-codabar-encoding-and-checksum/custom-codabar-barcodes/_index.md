@@ -15,7 +15,7 @@ Vítejte v tomto podrobném průvodci používáním Aspose.BarCode for .NET k v
 
 Než začneme, ujistěte se, že máte následující:
 
-1. Vývojové prostředí: Pracovní prostředí .NET nastavené na vašem počítači. Pokud potřebujete pomoc, podívejte se na[Založte dokumentaci](https://reference.aspose.com/barcode/net/).
+1.  Vývojové prostředí: Pracovní prostředí .NET nastavené na vašem počítači. Pokud potřebujete pomoc, podívejte se na[Založte dokumentaci](https://reference.aspose.com/barcode/net/).
    
 2.  Aspose.BarCode for .NET Library: Stáhněte a nainstalujte knihovnu z[Aspose stránku vydání](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## Krok 1: Inicializujte generátor čárových kódů
 
- Začněte vytvořením instance`BarcodeGenerator`, specifikující typ čárového kódu jako Codabar a data, která mají být kódována. Zde je příklad:
+ Začněte vytvořením instance`BarcodeGenerator`specifikující typ čárového kódu jako Codabar a data, která mají být kódována. Zde je příklad:
 
 ```csharp
 string path = "Your Directory Path"; // Zde zadejte svůj adresář

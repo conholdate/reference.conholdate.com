@@ -43,7 +43,7 @@ doc.Pages.Add();
 
 Det är här du ska börja bygga din JavaScript-tunga PDF.
 
-## Steg 2: Lägg till JavaScript i PDF-filen
+## Steg 2: Lägg till JavaScript i PDF:en
 
  Infoga JavaScript-funktioner i ditt dokument med hjälp av`doc.JavaScript` samling. Här är ett exempel:
 
@@ -54,7 +54,7 @@ doc.JavaScript["func2"] = "function func2() { alert('This is a test'); }";
 
 ## Steg 3: Spara PDF-filen med JavaScript
 
-Spara ditt uppdaterade dokument på disken:
+Spara ditt uppdaterade dokument på disk:
 
 ```csharp
 doc.Save(dataDir + "AddJavascript.pdf");

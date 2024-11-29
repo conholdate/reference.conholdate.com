@@ -19,7 +19,7 @@ Wollten Sie schon immer einmal schnell ein HTML-Dokument in ein GIF umwandeln? D
 2. Richten Sie Rendering-Optionen ein: Passen Sie Ihre GIF-Ausgabe an, indem Sie Eigenschaften wie Bildgröße und -qualität konfigurieren.
 3. Ausgabe speichern: Speichern Sie abschließend Ihr infografikähnliches GIF mit einer einzigen Codezeile.
 
- Diese Funktion spart nicht nur Zeit, sondern liefert Ihnen auch Bilder in professioneller Qualität, die Sie für Webanwendungen, Marketingmaterialien oder sogar Präsentationen verwenden können. Eine detaillierte Schritt-für-Schritt-Anleitung finden Sie in unserem Tutorial unter[Konvertieren von HTML in GIF mit Aspose.HTML in .NET](./converting-html-to-gif/).
+ Diese Funktion spart nicht nur Zeit, sondern liefert Ihnen auch Bilder in professioneller Qualität, die Sie für Webanwendungen, Marketingmaterialien oder sogar Präsentationen verwenden können. Eine detaillierte Schritt-für-Schritt-Anleitung finden Sie in unserem Tutorial auf[Konvertieren von HTML in GIF mit Aspose.HTML in .NET](./converting-html-to-gif/).
 
 ## Konvertieren von HTML in PDF
 Lassen Sie uns nun über die Konvertierung von HTML in PDF sprechen. In einer Zeit, in der Dokumentation präsentabel und leicht teilbar sein muss, sind PDFs unverzichtbar. Aspose.HTML für .NET macht diese Konvertierung reibungslos und effizient. 

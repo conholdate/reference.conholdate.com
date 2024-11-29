@@ -65,7 +65,7 @@ Document doc = new Document(dataDir + "YourDocument.docx");
 
 ## Étape 3 : Convertir et enregistrer au format PDF
 
-Passons maintenant à la partie intéressante : enregistrer le document au format PDF. Utilisez simplement la ligne de code suivante :
+Passons maintenant à la partie intéressante : enregistrer le document au format PDF. Utilisez simplement la ligne de code suivante :
 
 ```csharp
 doc.Save(dataDir + "ConvertedDocument.pdf");

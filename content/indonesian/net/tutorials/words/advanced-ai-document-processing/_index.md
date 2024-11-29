@@ -13,7 +13,7 @@ Dalam bidang pemrosesan dokumen, Aspose.Words untuk .NET menonjol sebagai alat t
 
 ## Memulai dengan Model AI
 
-Bayangkan memiliki kemampuan untuk meringkas dokumen yang banyak hanya dengan beberapa klik. Kedengarannya menarik, bukan? Mulailah perjalanan Anda dengan tutorial kami tentang[Menguasai Ringkasan Dokumen dengan Model AI](./mastering-document-summarization-ai-model/)Panduan ini memandu Anda melalui proses pengintegrasian AI untuk mencapai ringkasan dokumen yang efektif menggunakan Aspose.Words. Anggap saja seperti memiliki asisten pribadi yang dapat memilah-milah teks dalam jumlah besar, menyorot poin-poin penting, dan meringkas informasi untuk Anda. Tutorial ini menyediakan peta jalan yang jelas dan ringkas untuk mengimplementasikan model AI, sehingga memudahkan tugas manajemen dokumen Anda.
+ Bayangkan memiliki kemampuan untuk meringkas dokumen yang banyak hanya dengan beberapa klik. Kedengarannya menarik, bukan? Mulailah perjalanan Anda dengan tutorial kami tentang[Menguasai Ringkasan Dokumen dengan Model AI](./mastering-document-summarization-ai-model/)Panduan ini memandu Anda melalui proses pengintegrasian AI untuk mencapai ringkasan dokumen yang efektif menggunakan Aspose.Words. Anggap saja seperti memiliki asisten pribadi yang dapat memilah-milah teks dalam jumlah besar, menyorot poin-poin penting, dan meringkas informasi untuk Anda. Tutorial ini menyediakan peta jalan yang jelas dan ringkas untuk mengimplementasikan model AI, sehingga memudahkan tugas manajemen dokumen Anda.
 
 ## Tingkatkan Permainan Anda dengan Google AI
 

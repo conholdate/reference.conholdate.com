@@ -17,7 +17,7 @@ Trong thế giới phát triển nhanh như hiện nay, nhu cầu quản lý tà
 
 1. Visual Studio: Cần thiết để mã hóa và thử nghiệm. Bạn có thể tải xuống miễn phí nếu chưa cài đặt.
 2. .NET Framework hoặc .NET Core: Aspose.Words dành cho .NET hỗ trợ cả hai, vì vậy hãy đảm bảo bạn có phiên bản tương thích.
-3.  Aspose.Words cho .NET: Tải xuống và cài đặt phiên bản mới nhất từ[Trang phát hành Aspose](https://releases.aspose.com/words/net/).
+3. Aspose.Words cho .NET: Tải xuống và cài đặt phiên bản mới nhất từ[Trang phát hành Aspose](https://releases.aspose.com/words/net/).
 4. Khóa API mô hình AI: Để tạo tóm tắt, cần phải có quyền truy cập vào API mô hình AI (ví dụ: OpenAI). Đăng ký trên trang web của nhà cung cấp AI để lấy khóa API.
 5. Kiến thức cơ bản về C#: Một chút quen thuộc với lập trình C# sẽ giúp bạn theo dõi hiệu quả.
 
@@ -39,7 +39,7 @@ Hãy cùng tìm hiểu các bước để tạo và cấu hình ứng dụng b�
 Để kích hoạt chức năng Aspose.Words, hãy thêm chức năng này thông qua trình quản lý gói NuGet.
 
 1. Nhấp chuột phải vào dự án của bạn trong Solution Explorer và chọn Manage NuGet Packages.
-2.  Tìm kiếm`Aspose.Words`và nhấp vào Cài đặt.
+2.  Tìm kiếm`Aspose.Words` và nhấp vào Cài đặt.
 3. Nếu cần, hãy cài đặt bất kỳ gói mô hình AI cụ thể nào để tích hợp (ví dụ: OpenAI).
 
 ```csharp

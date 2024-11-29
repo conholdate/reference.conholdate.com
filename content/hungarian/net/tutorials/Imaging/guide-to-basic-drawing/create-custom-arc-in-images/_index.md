@@ -23,7 +23,7 @@ Ha ezek az előfeltételek megvannak, elkezdhetjük az ív rajzolását!
 
 ## Importálja a szükséges névtereket
 
-Először is importálnia kell a szükséges névtereket az Aspose.Imaging által biztosított funkciók eléréséhez. Adja hozzá a következőket`using` utasítások a C# fájl tetején:
+ Először is importálnia kell a szükséges névtereket az Aspose.Imaging által biztosított funkciók eléréséhez. Adja hozzá a következőket`using` utasítások a C# fájl tetején:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## 1. lépés: Hozza létre a képet és mentse az adatfolyamot
 
 ```csharp
-// Határozza meg a könyvtárat a kép mentéséhez
+//Határozza meg a könyvtárat a kép mentéséhez
 string dataDir = "Your Document Directory"; // Frissítse ezt a kívánt útvonalra
 
 // Hozzon létre egy adatfolyamot a BMP-kép mentéséhez
@@ -78,7 +78,7 @@ Most határozzuk meg az ív paramétereit, és rajzoljuk meg:
 
 ```csharp
             // Határozza meg az ív paramétereit
-            int width = 100;   // határoló téglalap szélessége
+            int width = 100;   // A határoló téglalap szélessége
             int height = 200;  // A határoló téglalap magassága
             int startAngle = 45;  // Kezdőszög fokban
             int sweepAngle = 270; // Sweet szög fokban

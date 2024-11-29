@@ -47,7 +47,7 @@ Konfigurera ditt PostScript-dokument med önskade konfigurationer:
 string dataDir = "Your Document Directory"; // Ställ in sökvägen till din dokumentkatalog
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // Ställ in sparalternativ för A4-storlek
+    //Ställ in sparalternativ för A4-storlek
     PsSaveOptions options = new PsSaveOptions();
     
     // Skapa ett nytt PostScript-dokument med 2 sidor
@@ -114,4 +114,4 @@ Ja! Som visas i den här guiden kan du definiera olika storlekar för varje sida
  Du kan få en tillfällig licens för testning genom att navigera till[denna länk](https://purchase.conholdate.com/temporary-license/).
 
 ### Var kan jag söka stöd från samhället?  
-Gå med i[Aspose.Page gemenskapsforum](https://forum.aspose.com/c/page/39) att få kontakt med andra utvecklare, dela erfarenheter och söka hjälp.
+ Gå med i[Aspose.Page gemenskapsforum](https://forum.aspose.com/c/page/39) att få kontakt med andra utvecklare, dela erfarenheter och söka hjälp.

@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // Remplacez par votre chemin réel
 ```
 
-Assurez-vous de remplacer`"YourDocumentDirectoryPath"` avec le chemin réel où résident vos fichiers pour que le code fonctionne correctement.
+ Assurez-vous de remplacer`"YourDocumentDirectoryPath"`avec le chemin réel où résident vos fichiers pour que le code fonctionne correctement.
 
 ## Étape 2 : compression d’un seul fichier
 

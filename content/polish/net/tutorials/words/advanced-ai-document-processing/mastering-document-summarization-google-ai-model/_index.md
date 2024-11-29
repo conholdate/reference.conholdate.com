@@ -87,7 +87,7 @@ Document oneDocumentSummary = model.Summarize(firstDoc, new SummarizeOptions() {
 oneDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.One.docx");
 ```
 
-Ten kod tworzy skróconą wersję`firstDoc` i zapisuje je w katalogu artifacts. Dostosuj długość podsumowania do swoich potrzeb, czy to krótką, średnią czy długą.
+ Ten kod tworzy skróconą wersję`firstDoc` i zapisuje je w katalogu artifacts. Dostosuj długość podsumowania do swoich potrzeb, czy to krótką, średnią czy długą.
 
 ## Krok 6: Podsumowanie wielu dokumentów jednocześnie
 
@@ -98,7 +98,7 @@ Document multiDocumentSummary = model.Summarize(new Document[] { firstDoc, secon
 multiDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.Multi.docx");
 ```
 
- Takie podejście pozwala na uzyskanie kompleksowego podsumowania, które integruje treści z obu źródeł.`firstDoc` I`secondDoc`, zapewniając szerszy przegląd w jednym podsumowanym dokumencie.
+ Takie podejście pozwala na uzyskanie kompleksowego podsumowania, które integruje treści z obu źródeł.`firstDoc` I`secondDoc`, zapewniając szerszy przegląd w jednym podsumowującym dokumencie.
 
 ## Wniosek
 
@@ -120,7 +120,7 @@ Tak, Aspose.Words pozwala na przekazywanie wielu dokumentów do modelu AI, gener
 
 ### Jak mogę kontrolować długość podsumowania?
 
- Użyj`SummaryLength` opcja w ramach`SummarizeOptions` klasę, aby ustawić żądaną długość podsumowania jako krótką, średnią lub długą.
+ Użyj`SummaryLength` opcja w ramach`SummarizeOptions`klasę, aby ustawić żądaną długość podsumowania jako krótką, średnią lub długą.
 
 ### Gdzie mogę znaleźć dodatkowe materiały dotyczące Aspose.Words?
 

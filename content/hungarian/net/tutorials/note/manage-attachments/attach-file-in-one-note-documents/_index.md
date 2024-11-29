@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## 5. lépés: Inicializálja a csatolt fájlt
 
- Adja meg a csatolni kívánt fájl elérési útját a`AttachedFile`osztály.
+ Adja meg a csatolni kívánt fájl elérési útját a`AttachedFile` osztály.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

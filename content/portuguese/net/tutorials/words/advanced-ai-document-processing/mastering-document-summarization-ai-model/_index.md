@@ -17,7 +17,7 @@ Para começar, certifique-se de ter o seguinte em mãos:
 
 1. Visual Studio: necessário para codificação e teste. Você pode baixá-lo gratuitamente se ainda não o tiver instalado.
 2. .NET Framework ou .NET Core: O Aspose.Words para .NET oferece suporte a ambos, portanto, certifique-se de ter uma versão compatível.
-3.  Aspose.Words para .NET: Baixe e instale a versão mais recente do[Página de lançamentos da Aspose](https://releases.aspose.com/words/net/).
+3. Aspose.Words para .NET: Baixe e instale a versão mais recente do[Página de lançamentos da Aspose](https://releases.aspose.com/words/net/).
 4. Chave de API do modelo de IA: para gerar resumos, é necessário acesso a uma API de modelo de IA (por exemplo, OpenAI). Registre-se no site do provedor de IA para obter a chave de API.
 5. Conhecimento básico de C#: alguma familiaridade com programação em C# ajudará você a acompanhar com eficiência.
 
@@ -39,7 +39,7 @@ Vamos percorrer as etapas para criar e configurar um aplicativo de console no Vi
 Para habilitar a funcionalidade Aspose.Words, adicione-a por meio do gerenciador de pacotes NuGet.
 
 1. Clique com o botão direito do mouse no seu projeto no Solution Explorer e escolha Gerenciar pacotes NuGet.
-2.  Procurar`Aspose.Words` clique em Instalar.
+2.  Procurar`Aspose.Words` e clique em Instalar.
 3. Se necessário, instale também quaisquer pacotes de modelos de IA específicos para integração (por exemplo, OpenAI).
 
 ```csharp

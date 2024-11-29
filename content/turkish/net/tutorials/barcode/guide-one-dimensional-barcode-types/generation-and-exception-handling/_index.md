@@ -98,7 +98,7 @@ Aspose.BarCode for .NET, .NET geliştiricilerinin uygulamalarında barkod oluşt
  Evet! Aspose.BarCode for .NET'in deneme sürümünü indirebilirsiniz[Burada](https://releases.aspose.com/barcode/net/).
 
 ### Aspose.BarCode for .NET için lisansı nasıl satın alabilirim?
-Satın alma sayfasını ziyaret edin[Burada](https://purchase.conholdate.com/buy) Aspose.BarCode for .NET için lisans satın almak.
+ Satın alma sayfasını ziyaret edin[Burada](https://purchase.conholdate.com/buy) Aspose.BarCode for .NET için lisans satın almak.
 
 ### Aspose.BarCode for .NET için yardım ve desteği nereden alabilirim?
  Yardım için Aspose.BarCode for .NET destek forumunu ziyaret edin[Burada](https://forum.aspose.com/c/barcode/13) Toplulukla bağlantı kurmak ve ekibi desteklemek.

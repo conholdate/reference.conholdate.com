@@ -143,7 +143,7 @@ Níže jsou uvedeny odkazy na některé užitečné zdroje, které můžete pot�
 
 ![Aspose.Tasks pro .NET](aspose-tasks-net.png)
 
-Aspose.Tasks for .NET je knihovna tříd, která umožňuje aplikacím .NET číst a zapisovat soubory Microsoft Project® bez použití Microsoft Project®. V současnosti je to jediná komponenta .NET, která tuto funkcionalitu poskytuje. Aspose.Tasks for .NET je vyspělý produkt, který nabízí stabilitu a flexibilitu. Stejně jako u všech komponent pro správu souborů Aspose, Aspose.Tasks for .NET funguje dobře s aplikacemi Win Form i WebForm.
+Aspose.Tasks for .NET je knihovna tříd, která umožňuje aplikacím .NET číst a zapisovat soubory Microsoft Project® bez použití Microsoft Project®. V současnosti je to jediná komponenta .NET, která tuto funkcionalitu poskytuje. Aspose.Tasks for .NET je vyspělý produkt, který nabízí stabilitu a flexibilitu. Stejně jako u všech komponent správy souborů Aspose, Aspose.Tasks for .NET funguje dobře s aplikacemi Win Form i WebForm.
 
 Aspose.Tasks for .NET je možné programovat se soubory Microsoft Project bez Microsoft Office Automation. Komponenta poskytuje snadno použitelné API pro manipulaci se soubory projektu, což šetří čas a peníze ve srovnání s vývojem podobných funkcí od začátku.
 

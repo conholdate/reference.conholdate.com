@@ -219,7 +219,7 @@ Hieronder vindt u links naar nuttige bronnen die u mogelijk nodig hebt om uw tak
 
 **Welcome to Aspose.HTML for Java**
 
-Aspose.HTML voor Java is een geavanceerde HTML-manipulatie-API die is gebouwd om een breed scala aan HTML-manipulatietaken rechtstreeks binnen de Java-applicaties uit te voeren. De API biedt ook een rendering-engine met hoge betrouwbaarheid voor vaste-layoutformaten zoals PDF & XPS, en een aantal rasterafbeeldingsformaten.
+Aspose.HTML voor Java is een geavanceerde HTML-manipulatie-API die is gebouwd om een breed scala aan HTML-manipulatietaken rechtstreeks binnen de Java-applicaties uit te voeren. De API biedt ook een high fidelity rendering engine voor vaste-layout-formaten zoals PDF & XPS, en een aantal rasterafbeeldingsformaten.
 
 {{% /alert %}}
 
@@ -235,7 +235,7 @@ Hieronder vindt u links naar nuttige bronnen die u mogelijk nodig hebt om uw tak
 
 **Welcome to Aspose.3D for Java API**
 
-Aspose.3D voor Java API is gebouwd om 3D-formaten te creëren, bewerken, manipuleren en op te slaan. Het stelt Java-applicaties in staat om verbinding te maken met 3D-documenten zonder dat er softwarepakketten op de computer hoeven te worden geïnstalleerd. Aspose.3D voor Java API helpt ontwikkelaars om enorme werelden in games te modelleren en te creëren, fantastische scènes voor ontwerpvisualisatie en om virtual reality-ervaringen te ervaren.
+Aspose.3D voor Java API is gebouwd om 3D-formaten te creëren, bewerken, manipuleren en op te slaan. Het stelt Java-applicaties in staat om verbinding te maken met 3D-documenten zonder dat er een softwarepakket op de computer hoeft te worden geïnstalleerd. Aspose.3D voor Java API helpt ontwikkelaars om enorme werelden in games te modelleren en te creëren, fantastische scènes voor ontwerpvisualisatie en om virtual reality-ervaringen te ervaren.
 
 De API is gebruiksvriendelijk en bespaart tijd en geld vergeleken met het helemaal opnieuw moeten ontwikkelen van een vergelijkbare oplossing.
 

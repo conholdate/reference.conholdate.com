@@ -9,7 +9,7 @@ url: /nl/net/tutorials/barcode/mastering-codabar-encoding-and-checksum/guide-to-
 ---
 ## Invoering
 
-Codabar is een populaire lineaire barcodesymboliek die veel wordt gebruikt in verschillende branches vanwege de eenvoud en efficiëntie bij het labelen en identificeren. Een belangrijk kenmerk van Codabar is de checksumberekening, die helpt de nauwkeurigheid en integriteit van de gecodeerde gegevens te garanderen. In deze handleiding leiden we u door de stappen om Codabar-barcodes te berekenen en genereren met verschillende checksumtypen met behulp van Aspose.BarCode voor .NET.
+Codabar is een populaire lineaire barcodesymboliek die veel wordt gebruikt in verschillende branches vanwege de eenvoud en efficiëntie bij het labelen en identificeren. Een belangrijk kenmerk van Codabar is de checksumberekening, die helpt de nauwkeurigheid en integriteit van de gecodeerde gegevens te waarborgen. In deze handleiding leiden we u door de stappen om Codabar-barcodes te berekenen en genereren met verschillende checksumtypen met behulp van Aspose.BarCode voor .NET.
 
 ## Vereisten
 
@@ -65,7 +65,7 @@ Tot slot maken we een Codabar-barcode die gebruikmaakt van een Mod16-controlesom
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Controlesom inschakelen
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Mod16 instellen
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Mod16 instellen
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 U hebt nu succesvol Codabar-barcodes gegenereerd met verschillende checksum-typen met behulp van Aspose.BarCode voor .NET. Deze checksums zijn essentieel voor het behouden van de integriteit van de gecodeerde gegevens, zodat de scanbare informatie zowel nauwkeurig als betrouwbaar is.
 
- Als u vragen heeft of problemen ondervindt, aarzel dan niet om contact op te nemen met de levendige community van[Aspose.BarCode-forum](https://forum.aspose.com/c/barcode/13).
+Als u vragen heeft of problemen ondervindt, aarzel dan niet om contact op te nemen met de levendige community van[Aspose.BarCode-forum](https://forum.aspose.com/c/barcode/13).
 
 ## Veelgestelde vragen
 
@@ -95,4 +95,4 @@ Absoluut! Aspose.BarCode voor .NET is ontworpen om veelzijdig te zijn en is comp
 
 ### Waar kan ik de volledige documentatie voor Aspose.BarCode voor .NET vinden?
 
- Uitgebreide documentatie voor Aspose.BarCode is te vinden[hier](https://reference.aspose.com/barcode/net/).
+Uitgebreide documentatie voor Aspose.BarCode is te vinden[hier](https://reference.aspose.com/barcode/net/).

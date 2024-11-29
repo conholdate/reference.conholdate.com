@@ -17,7 +17,7 @@ Benötigen Sie eine Anleitung zum Konvertieren von Diagrammen aus Excel-Tabellen
 Stellen Sie sicher, dass Sie entweder .NET Framework oder .NET Core installiert haben. Diese Umgebungen sind beide mit Aspose.Cells kompatibel, sodass Sie diejenige verwenden können, die am besten zu Ihrem Projekt passt.
 
 ### Installation der Aspose.Cells-Bibliothek
-Die Aspose.Cells-Bibliothek ist für die Konvertierung von Diagrammen in PDF-Dateien unverzichtbar. Die neueste Version erhalten Sie im[Aspose-Downloadseite](https://releases.aspose.com/cells/net/).
+ Die Aspose.Cells-Bibliothek ist für die Konvertierung von Diagrammen in PDF-Dateien unverzichtbar. Die neueste Version erhalten Sie im[Aspose-Downloadseite](https://releases.aspose.com/cells/net/).
 
 ### Grundlegende C#-Kenntnisse
 Grundlegende Kenntnisse in C# erleichtern den Codierungsprozess. Keine Sorge, wenn Sie Anfänger sind. Dieses Handbuch enthält leicht verständliche Codebeispiele.
@@ -82,7 +82,7 @@ Dieser Code greift auf das erste Arbeitsblatt zu. Ändern Sie den Index, wenn si
 Greifen Sie als Nächstes auf das Diagramm zu, das Sie aus dem ausgewählten Arbeitsblatt konvertieren möchten.
 
 ```csharp
-//Greifen Sie auf das erste Diagramm im Arbeitsblatt zu
+// Greifen Sie auf das erste Diagramm im Arbeitsblatt zu
 Chart chart = worksheet.Charts[0];
 ```
 

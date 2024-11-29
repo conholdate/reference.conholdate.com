@@ -39,7 +39,7 @@ Document doc = new Document(dataDir + "AddTOC.pdf");
 
 ## Schritt 2: Einfügen einer neuen Seite für das Inhaltsverzeichnis
 
-Fügt am Anfang des PDF-Dokuments eine neue Seite ein. Diese Seite dient als Inhaltsverzeichnis.
+Fügt am Anfang des PDF-Dokuments eine neue Seite ein. Diese Seite dient als Inhaltsverzeichnis (TOC).
 
 ```csharp
 Page tocPage = doc.Pages.Insert(1);

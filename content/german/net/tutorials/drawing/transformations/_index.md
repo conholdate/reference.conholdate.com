@@ -15,7 +15,7 @@ Sind Sie bereit, die Grafik Ihrer .NET-Anwendung auf die nächste Stufe zu heben
 
 Stellen Sie sich globale Transformationen als Anwendung eines „universellen Filters“ auf Ihre Leinwand vor. Diese Transformationen wirken sich auf jedes in einem Grafikkontext gezeichnete Element aus und eignen sich daher perfekt für Szenarien, in denen Sie eine einheitliche Skalierung, Drehung oder Übersetzung in Ihrem gesamten Design benötigen. Mit Aspose.Drawing für .NET ist die Beherrschung globaler Transformationen einfacher als je zuvor.
 
- Stellen Sie sich beispielsweise vor, Sie erstellen ein Datenvisualisierungstool, das die Größe von Diagrammen dynamisch an die Bildschirmabmessungen anpasst. Eine globale Skalierungstransformation stellt sicher, dass sich alles nahtlos anpasst und Proportionalität und Ästhetik gewahrt bleiben. Möchten Sie erfahren, wie das geht? Sehen Sie sich unser spezielles Tutorial an unter[Globale Transformationen in Aspose.Drawing für .NET meistern](./mastering-global-transformations/).
+Stellen Sie sich beispielsweise vor, Sie erstellen ein Datenvisualisierungstool, das die Größe von Diagrammen dynamisch an die Bildschirmabmessungen anpasst. Eine globale Skalierungstransformation stellt sicher, dass sich alles nahtlos anpasst und Proportionalität und Ästhetik gewahrt bleiben. Möchten Sie erfahren, wie das geht? Sehen Sie sich unser spezielles Tutorial an unter[Globale Transformationen in Aspose.Drawing für .NET meistern](./mastering-global-transformations/).
 
 ## Leitfaden für lokale Transformationen
 

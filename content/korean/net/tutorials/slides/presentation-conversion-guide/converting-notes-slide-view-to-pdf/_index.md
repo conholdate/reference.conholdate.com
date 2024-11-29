@@ -88,10 +88,10 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
  무료 평가판은 여기에서 다운로드할 수 있습니다.[여기](https://releases.aspose.com/).
 
 ### 질문 3: 다른 PDF 내보내기 옵션이 있나요?
-예, 다음을 사용하여 글꼴, 페이지 레이아웃, 압축 등을 사용자 정의할 수 있습니다.`PdfOptions`수업.
+예, 다음을 사용하여 글꼴, 페이지 레이아웃, 압축 등을 사용자 정의할 수 있습니다.`PdfOptions` 수업.
 
 ### 질문 4: 특정 슬라이드만 내보낼 수 있나요?
- 물론입니다! 다음을 사용하여 특정 슬라이드를 선택할 수 있습니다.`Slides` 컬렉션에서`Presentation`수업.
+ 물론입니다! 다음을 사용하여 특정 슬라이드를 선택할 수 있습니다.`Slides` 컬렉션에서`Presentation` 수업.
 
 ### Q5: 추가 예시는 어디에서 볼 수 있나요?
  방문하세요[.NET용 Aspose.Slides 설명서](https://reference.aspose.com/slides/net/) 더 많은 예와 사용 사례를 확인하세요.

@@ -17,7 +17,7 @@ Innan du börjar den här handledningen, se till att du har följande på plats:
 
 1. Grundläggande kunskaper i C# och .NET: Bekantskap med programmeringsspråket C# och .NET framework krävs.
    
-2.  Aspose.Note för .NET-installation: Ladda ner och installera Aspose.Note-biblioteket från[Aspose hemsida](https://releases.aspose.com/note/net/).
+2. Aspose.Note för .NET-installation: Ladda ner och installera Aspose.Note-biblioteket från[Aspose hemsida](https://releases.aspose.com/note/net/).
 
 3. Utvecklingsmiljö: Sätt upp en lämplig utvecklingsmiljö, som Visual Studio.
 
@@ -60,7 +60,7 @@ document.Save(System.IO.Path.Combine(outputDirectory, outputFilePath));
 
 ## Slutsats
 
-I den här handledningen har vi täckt hur du sparar OneNote-filer programmatiskt med Aspose.Note för .NET. Genom att följa dessa steg kan utvecklare enkelt integrera OneNote-dokumenthantering i sina applikationer, vilket förbättrar funktionalitet och användarupplevelse.
+den här handledningen har vi täckt hur du sparar OneNote-filer programmatiskt med Aspose.Note för .NET. Genom att följa dessa steg kan utvecklare enkelt integrera OneNote-dokumenthantering i sina applikationer, vilket förbättrar funktionalitet och användarupplevelse.
 
 ## FAQ's
 
@@ -74,7 +74,7 @@ Förutom att spara i OneNote-format, stöder Aspose.Note konverteringar till PDF
 
 ### Är Aspose.Note kompatibel med .NET Core?
 
-Ja, Aspose.Note för .NET är helt kompatibel med .NET Core, vilket tillåter användning i plattformsoberoende applikationer.
+Ja, Aspose.Note för .NET är helt kompatibelt med .NET Core, vilket tillåter användning i plattformsoberoende applikationer.
 
 ### Kan jag anpassa layouten och utseendet på OneNote-dokument med Aspose.Note?
 

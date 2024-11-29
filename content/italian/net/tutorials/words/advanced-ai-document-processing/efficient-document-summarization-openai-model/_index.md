@@ -20,7 +20,7 @@ Assicurati di avere una versione compatibile di .NET Framework. Questo tutorial 
  Scarica il pacchetto Aspose.Words per .NET da[Sito web di Aspose](https://releases.aspose.com/words/net/)e installalo nel tuo progetto utilizzando NuGet Package Manager in Visual Studio.
 
 ### Ottieni una chiave API OpenAI
- Per accedere ai modelli linguistici di OpenAI, avrai bisogno di una chiave API. Registrati su[Sito web OpenAI](https://openai.com/), recupera la tua chiave e conservala in un luogo sicuro per l'integrazione.
+ Per accedere ai modelli linguistici di OpenAI, avrai bisogno di una chiave API. Registrati su[Sito web OpenAI](https://openai.com/)recupera la tua chiave e conservala in un luogo sicuro per l'integrazione.
 
 ### Ambiente di sviluppo integrato
 Utilizzando Visual Studio come IDE si semplificheranno i processi di codifica e debug.

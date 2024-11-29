@@ -17,7 +17,7 @@ Czy potrzebujesz przewodnika, jak konwertować wykresy z arkuszy kalkulacyjnych 
 Upewnij się, że masz zainstalowany .NET Framework lub .NET Core. Oba te środowiska są zgodne z Aspose.Cells, więc możesz użyć tego, który najlepiej pasuje do Twojego projektu.
 
 ### Instalacja biblioteki Aspose.Cells
-Biblioteka Aspose.Cells jest niezbędna do konwersji wykresów na pliki PDF. Pobierz najnowszą wersję z[Strona pobierania Aspose](https://releases.aspose.com/cells/net/).
+ Biblioteka Aspose.Cells jest niezbędna do konwersji wykresów na pliki PDF. Pobierz najnowszą wersję z[Strona pobierania Aspose](https://releases.aspose.com/cells/net/).
 
 ### Podstawowa wiedza o C#
 Podstawowa znajomość języka C# ułatwi proces kodowania. Nie martw się, jeśli jesteś początkującym; ten przewodnik zawiera przykłady kodu, które są łatwe do naśladowania.
@@ -82,7 +82,7 @@ Ten kod uzyskuje dostęp do pierwszego arkusza kalkulacyjnego. Zmień indeks, je
 Następnie przejdź do konkretnego wykresu, który chcesz przekonwertować z wybranego arkusza kalkulacyjnego.
 
 ```csharp
-//Uzyskaj dostęp do pierwszego wykresu w arkuszu kalkulacyjnym
+// Uzyskaj dostęp do pierwszego wykresu w arkuszu kalkulacyjnym
 Chart chart = worksheet.Charts[0];
 ```
 

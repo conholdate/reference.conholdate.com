@@ -17,7 +17,7 @@ Než se pustíme do implementace, ujistěte se, že máte připraveno následuj�
 
 -  Aspose.CAD for .NET: Stáhněte a nainstalujte knihovnu z[Aspose webové stránky](https://releases.aspose.com/cad/net/).
 - Vývojové prostředí: Nastavte vhodné vývojové prostředí .NET (např. Visual Studio).
-- Adresář dokumentů: Identifikujte cestu k vašemu souboru DWT a odpovídajícím způsobem nahraďte „Adresář vašich dokumentů“ ve fragmentech kódu.
+- Adresář dokumentů: Identifikujte cestu k vašemu souboru DWT a odpovídajícím způsobem nahraďte "Your Document Directory" ve fragmentech kódu.
 
 ## Importujte potřebné jmenné prostory
 
@@ -65,7 +65,7 @@ Nyní můžete procházet entity v souboru DWT. Přizpůsobte logiku uvnitř smy
 ```csharp
 foreach (CadBaseEntity entity in image.Entities)
 {
-    // Provádějte operace na každé entitě CAD
+    // Provádějte operace s každou entitou CAD
     ProcessEntity(entity);
 }
 ```

@@ -15,7 +15,7 @@ Välkommen till den här steg-för-steg-guiden om hur du använder Aspose.BarCod
 
 Innan vi börjar, se till att du har följande:
 
-1. Utvecklingsmiljö: En fungerande .NET-miljö inställd på din maskin. Om du behöver hjälp, se[Aspose dokumentation](https://reference.aspose.com/barcode/net/).
+1.  Utvecklingsmiljö: En fungerande .NET-miljö inställd på din maskin. Om du behöver hjälp, se[Aspose dokumentation](https://reference.aspose.com/barcode/net/).
    
 2.  Aspose.BarCode för .NET Library: Ladda ner och installera biblioteket från[Aspose releaser sida](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## Steg 1: Initiera streckkodsgeneratorn
 
- Börja med att skapa en instans av`BarcodeGenerator`, med angivande av streckkodstyp som Codabar och data som ska kodas. Här är ett exempel:
+ Börja med att skapa en instans av`BarcodeGenerator`med angivande av streckkodstyp som Codabar och data som ska kodas. Här är ett exempel:
 
 ```csharp
 string path = "Your Directory Path"; // Ange din katalog här

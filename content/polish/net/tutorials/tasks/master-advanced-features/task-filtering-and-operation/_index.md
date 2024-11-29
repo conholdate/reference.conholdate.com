@@ -70,7 +70,7 @@ Teraz zastosujmy połączony warunek do zebranych zadań, aby odfiltrować konkr
 List<Task> filteredTasks = Filter(taskCollector.Tasks, combinedCondition);
 ```
 
-## Krok 5: Wyjście odfiltrowanych zadań
+## Krok 5: Wyjście przefiltrowanych zadań
 
 Na koniec przejdziemy przez nasze odfiltrowane zadania i wyprowadzimy odpowiednie szczegóły. Pomoże nam to zrozumieć zadania, które spełniają nasze kryteria.
 

@@ -65,7 +65,7 @@ gen.Save($"{path}CodabarChecksumMod10.png", BarCodeImageFormat.Png);
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Включить контрольную сумму
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Установить Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Установить Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Теперь вы успешно сгенерировали штрихкоды Codabar с различными типами контрольных сумм с помощью Aspose.BarCode для .NET. Эти контрольные суммы необходимы для поддержания целостности закодированных данных, гарантируя, что сканируемая информация является точной и надежной.
 
- Если у вас возникнут какие-либо вопросы или проблемы, не стесняйтесь обращаться к активному сообществу на[Форум Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+Если у вас возникнут какие-либо вопросы или проблемы, не стесняйтесь обращаться к активному сообществу на[Форум Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## Часто задаваемые вопросы
 
@@ -95,4 +95,4 @@ Codabar — это простая линейная символика штрих
 
 ### Где я могу найти полную документацию по Aspose.BarCode для .NET?
 
- Подробную документацию по Aspose.BarCode можно найти[здесь](https://reference.aspose.com/barcode/net/).
+Подробную документацию по Aspose.BarCode можно найти[здесь](https://reference.aspose.com/barcode/net/).

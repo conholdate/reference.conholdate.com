@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // 글꼴 �
 변환을 용이하게 하기 위해 PDF 장치를 만들 것입니다. 필요한 경우 페이지 크기를 지정할 수 있지만 일반적으로 기본 크기인 595x842포인트(A4)로 충분합니다.
 
 ```csharp
-// 기본 페이지 크기는 595x842이며 PdfDevice에서 설정할 필요는 없습니다.
+//기본 페이지 크기는 595x842이며 PdfDevice에서 설정할 필요는 없습니다.
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // 하지만 크기와 이미지 형식을 지정해야 하는 경우 다음 줄을 사용하세요.
 //Aspose.Page.EPS.Device.PdfDevice 장치 = 새 Aspose.Page.EPS.Device.PdfDevice(pdfStream, 새 System.Drawing.Size(595, 842));

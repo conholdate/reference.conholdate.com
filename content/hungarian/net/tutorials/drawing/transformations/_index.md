@@ -15,7 +15,7 @@ Készen áll arra, hogy .NET-alkalmazása grafikus játékát a következő szin
 
 Gondoljon a globális átalakításokra úgy, mint egy „univerzális szűrő” alkalmazására a vásznon. Ezek az átalakítások a grafikai környezetben rajzolt minden elemet érintenek, így tökéletesek olyan forgatókönyvekhez, ahol egységes méretezésre, elforgatásra vagy fordításra van szükség a tervben. Az Aspose.Drawing for .NET használatával a globális átalakítások elsajátítása egyszerűbb, mint valaha.
 
- Képzelje el például, hogy egy adatvizualizációs eszközt hoz létre, amely dinamikusan átméretezi a diagramokat a képernyő méretei alapján. A globális léptékű átalakulás biztosítja, hogy minden zökkenőmentesen igazodjon, megőrizve az arányosságot és az esztétikát. Szeretnéd megtanulni, hogyan? Tekintse meg dedikált oktatóanyagunkat[Globális átalakulások elsajátítása az Aspose.Drawing for .NET-ben](./mastering-global-transformations/).
+Képzelje el például, hogy egy adatvizualizációs eszközt hoz létre, amely dinamikusan átméretezi a diagramokat a képernyő méretei alapján. A globális léptékű átalakulás biztosítja, hogy minden zökkenőmentesen igazodjon, megőrizve az arányosságot és az esztétikát. Szeretnéd megtanulni, hogyan? Tekintse meg dedikált oktatóanyagunkat[Globális átalakulások elsajátítása az Aspose.Drawing for .NET-ben](./mastering-global-transformations/).
 
 ## Útmutató a helyi átalakulásokhoz
 

@@ -38,13 +38,13 @@ Låt oss nu dela upp implementeringen i tydliga steg för att säkerställa att 
 
 ## Steg 1: Ladda ett e-postmeddelande
 
- Först måste du ladda e-postmeddelandet som du vill analysera. Detta görs med hjälp av`MailMessage`klass i Aspose.Email-biblioteket. 
+ Först måste du ladda e-postmeddelandet som du vill analysera. Detta görs med hjälp av`MailMessage` klass i Aspose.Email-biblioteket. 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- De`Load` metoden tar sökvägen till det e-postmeddelande du vill analysera. Den här filen bör vara i EML-format. Om du inte har ett, skapa gärna ett enkelt e-postmeddelande och spara det som`email.eml`.
+ De`Load`metoden tar sökvägen till det e-postmeddelande du vill analysera. Den här filen bör vara i EML-format. Om du inte har ett, skapa gärna ett enkelt e-postmeddelande och spara det som`email.eml`.
 
 ## Steg 2: Skapa en skräppostanalysator
 

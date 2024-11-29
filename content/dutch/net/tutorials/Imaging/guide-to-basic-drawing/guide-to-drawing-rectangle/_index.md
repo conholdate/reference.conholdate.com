@@ -74,7 +74,7 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- In dit gedeelte wordt gedemonstreerd hoe u een`Graphics` object, maak het oppervlak leeg en voeg twee rechthoeken toe met verschillende kleuren en posities. Zodra uw tekeningen klaar zijn, slaat u de afbeelding op om uw wijzigingen te behouden.
+In dit gedeelte wordt gedemonstreerd hoe u een`Graphics` object, maak het oppervlak leeg en voeg twee rechthoeken toe met verschillende kleuren en posities. Zodra uw tekeningen klaar zijn, slaat u de afbeelding op om uw wijzigingen te behouden.
 
 ## Stap 4: Sla de afbeelding op
 

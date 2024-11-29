@@ -23,7 +23,7 @@ Gdy już spełnisz te wymagania, możemy zacząć rysować łuk!
 
 ## Importuj wymagane przestrzenie nazw
 
-Najpierw musisz zaimportować niezbędne przestrzenie nazw, aby uzyskać dostęp do funkcjonalności zapewnianej przez Aspose.Imaging. Dodaj następujący`using` instrukcje znajdujące się na górze pliku C#:
+ Najpierw musisz zaimportować niezbędne przestrzenie nazw, aby uzyskać dostęp do funkcjonalności zapewnianej przez Aspose.Imaging. Dodaj następujący`using` instrukcje znajdujące się na górze pliku C#:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## Krok 1: Utwórz obraz i zapisz strumień
 
 ```csharp
-// Zdefiniuj katalog, w którym chcesz zapisać obraz
+//Zdefiniuj katalog, w którym chcesz zapisać obraz
 string dataDir = "Your Document Directory"; // Zaktualizuj to do preferowanej ścieżki
 
 // Utwórz strumień, aby zapisać obraz BMP
@@ -78,7 +78,7 @@ Teraz zdefiniujmy parametry łuku i narysujmy go:
 
 ```csharp
             // Zdefiniuj parametry łuku
-            int width = 100;   //Szerokość prostokąta ograniczającego
+            int width = 100;   // Szerokość prostokąta ograniczającego
             int height = 200;  // Wysokość prostokąta ograniczającego
             int startAngle = 45;  // Kąt początkowy w stopniach
             int sweepAngle = 270; // Kąt zamiatania w stopniach

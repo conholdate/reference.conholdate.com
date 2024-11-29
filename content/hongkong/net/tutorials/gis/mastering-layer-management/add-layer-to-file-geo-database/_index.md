@@ -67,7 +67,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
 
 ## 步驟 3：在資料集中建立一個新圖層
 
-新增圖層需要定義其空間參考系統和屬性。以下是建立圖層並使用範例資料填充圖層的方法：
+新增圖層需要定義其空間參考系統和屬性。以下是如何建立圖層並使用範例資料填充圖層：
 
 ```csharp
 using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))

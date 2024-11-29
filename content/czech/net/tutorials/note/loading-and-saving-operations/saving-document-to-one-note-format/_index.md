@@ -17,7 +17,7 @@ Než začnete tento tutoriál, ujistěte se, že máte na svém místě následu
 
 1. Základní znalost C# a .NET: Vyžaduje se znalost programovacího jazyka C# a frameworku .NET.
    
-2.  Instalace Aspose.Note pro .NET: Stáhněte a nainstalujte knihovnu Aspose.Note z[Aspose webové stránky](https://releases.aspose.com/note/net/).
+2. Instalace Aspose.Note pro .NET: Stáhněte a nainstalujte knihovnu Aspose.Note z[Aspose webové stránky](https://releases.aspose.com/note/net/).
 
 3. Vývojové prostředí: Nastavte vhodné vývojové prostředí, jako je Visual Studio.
 
@@ -60,7 +60,7 @@ document.Save(System.IO.Path.Combine(outputDirectory, outputFilePath));
 
 ## Závěr
 
-V tomto tutoriálu jsme se zabývali tím, jak uložit soubory OneNote programově pomocí Aspose.Note pro .NET. Pomocí těchto kroků mohou vývojáři snadno integrovat správu dokumentů OneNote do svých aplikací, čímž se zlepší funkčnost a uživatelská zkušenost.
+tomto tutoriálu jsme se zabývali tím, jak uložit soubory OneNote programově pomocí Aspose.Note pro .NET. Pomocí těchto kroků mohou vývojáři snadno integrovat správu dokumentů OneNote do svých aplikací, čímž se zlepší funkčnost a uživatelská zkušenost.
 
 ## FAQ
 

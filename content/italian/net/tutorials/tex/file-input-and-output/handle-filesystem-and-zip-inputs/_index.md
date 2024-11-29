@@ -15,7 +15,7 @@ Benvenuti alla nostra guida completa sulla gestione di file system e input ZIP t
 
 Prima di iniziare, assicurati di avere pronto quanto segue:
 
--  Aspose.TeX per la libreria .NET: Scarica e installa la libreria da[Pagina di download di Aspose.TeX per .NET](https://releases.aspose.com/tex/net/).
+-  Aspose.TeX per libreria .NET: scaricare e installare la libreria da[Pagina di download di Aspose.TeX per .NET](https://releases.aspose.com/tex/net/).
   
 - Conoscenza di base di TeX/LaTeX: la familiarità con i concetti di TeX o LaTeX ti aiuterà a comprendere meglio i processi coinvolti.
 

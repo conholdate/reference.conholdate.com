@@ -2,7 +2,7 @@
 title: Uložte soubory MS Project do formátu HTML pomocí Aspose.Tasks pro .NET
 linktitle: Uložte soubory MS Project do formátu HTML
 second_title: Aspose.Tasks .NET API
-description: Naučte se, jak bez námahy převádět soubory Microsoft Project (.mpp) do formátu HTML pomocí Aspose.Tasks for .NET. Tento komplexní výukový program poskytuje podrobné pokyny, včetně toho, jak načíst soubory projektu, přizpůsobit výstup HTML a uložit konkrétní stránky.
+description: Naučte se bez námahy převádět soubory Microsoft Project (.mpp) do formátu HTML pomocí Aspose.Tasks for .NET. Tento komplexní výukový program poskytuje podrobné pokyny, včetně toho, jak načíst soubory projektu, přizpůsobit výstup HTML a uložit konkrétní stránky.
 type: docs
 weight: 10
 url: /cs/net/tutorials/tasks/guide-to-saving-options/save-ms-project-files-to-html-format/
@@ -55,7 +55,7 @@ project.Save("OutputFilePath.html", options);
 
 ## Další funkce: Uložení konkrétních stránek
 
-Pokud máte zájem o uložení konkrétních stránek z vašeho projektu, můžete tak učinit definováním, které stránky chcete zahrnout. Zde je návod, jak určit konkrétní číslo stránky:
+Máte-li zájem o uložení konkrétních stránek z projektu, můžete tak učinit definováním, které stránky chcete zahrnout. Zde je návod, jak určit konkrétní číslo stránky:
 
 ```csharp
 options.Pages.Add(pageNumber); // Nahraďte požadovaným číslem stránky

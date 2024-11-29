@@ -15,7 +15,7 @@ Bạn đang tìm kiếm một cách mạnh mẽ và hiệu quả để chuyển 
 
 Trước khi bắt đầu, hãy đảm bảo bạn đáp ứng các điều kiện tiên quyết sau:
 
-1.  Aspose.Imaging cho .NET: Tải xuống và cài đặt Aspose.Imaging cho .NET từ[trang web](https://releases.aspose.com/imaging/net/). Bạn có thể chọn dùng thử miễn phí hoặc mua phiên bản tùy theo nhu cầu của mình.
+1.  Aspose.Imaging cho .NET: Tải xuống và cài đặt Aspose.Imaging cho .NET từ[trang web](https://releases.aspose.com/imaging/net/)Bạn có thể chọn dùng thử miễn phí hoặc mua phiên bản tùy theo nhu cầu của mình.
 
 2. Môi trường phát triển C#: Thiết lập môi trường phát triển C# trên hệ thống của bạn, chẳng hạn như Visual Studio hoặc bất kỳ trình soạn thảo mã nào bạn thích.
 

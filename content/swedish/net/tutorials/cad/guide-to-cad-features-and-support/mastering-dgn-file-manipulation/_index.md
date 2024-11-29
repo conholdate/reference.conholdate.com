@@ -105,7 +105,7 @@ Console.WriteLine($"\nThe DGN file exported successfully to raster image.\nFile 
 
 ## Slutsats
 
-den här handledningen lärde vi oss hur man använder Aspose.CAD för .NET för att effektivt hantera DGN-filer. Genom att följa de skisserade stegen kan du enkelt hantera både 2D- och 3D-DGN-element och exportera dem som rasterbilder. Detta kraftfulla bibliotek möjliggör sömlös integrering av DGN-bearbetning i dina .NET-applikationer, vilket förbättrar dina projektmöjligheter.
+I den här handledningen lärde vi oss hur man använder Aspose.CAD för .NET för att effektivt hantera DGN-filer. Genom att följa de skisserade stegen kan du enkelt hantera både 2D- och 3D-DGN-element och exportera dem som rasterbilder. Detta kraftfulla bibliotek möjliggör sömlös integrering av DGN-bearbetning i dina .NET-applikationer, vilket förbättrar dina projektmöjligheter.
 
 ## FAQ's
 
@@ -127,4 +127,4 @@ den här handledningen lärde vi oss hur man använder Aspose.CAD för .NET för
 
 ### Behöver du hjälp eller har frågor?
 
- För support eller för att ställa frågor, besök Aspose.CAD-communityt[supportforum](https://forum.aspose.com/c/cad/19).
+För support eller för att ställa frågor, besök Aspose.CAD-communityt[supportforum](https://forum.aspose.com/c/cad/19).

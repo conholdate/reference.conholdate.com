@@ -15,7 +15,7 @@ url: /ko/net/tutorials/barcode/guide-one-dimensional-barcode-types/
 
 바코드 높이 때문에 이상해 보이는 적이 있나요? 제품 라벨이나 포장에 완벽하게 맞는 바코드를 만드는 것을 상상해 보세요. Aspose.BarCode를 사용하면 1차원 바코드의 높이를 쉽게 조정하여 이상적인 핏을 얻을 수 있습니다. 라이브러리는 정밀한 제어를 제공하여 바코드가 산업 표준을 충족하고 항상 스캔할 수 있도록 보장합니다.  
 
- 튜토리얼에 대한[Aspose.BarCode를 사용하여 바코드 높이 사용자 지정](./customizing-barcode-height/) 설치부터 구현까지 이 프로세스를 단계별로 안내합니다. 소매 라벨이나 산업용 태그를 디자인하든 이 가이드가 도와드립니다.  
+ 튜토리얼에 대한[Aspose.BarCode를 사용하여 바코드 높이 사용자 지정](./customizing-barcode-height/)설치부터 구현까지 이 프로세스를 단계별로 안내합니다. 소매 라벨이나 산업용 태그를 디자인하든 이 가이드가 도와드립니다.  
 
 ## .NET용 Aspose.BarCode를 사용한 생성 및 예외 처리  
 

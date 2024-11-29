@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // Cserélje ki a tényleges útvonalat
 ```
 
-Ügyeljen arra, hogy cserélje ki`"YourDocumentDirectoryPath"` a tényleges elérési úttal, ahol a fájlok találhatók, hogy a kód megfelelően működjön.
+ Ügyeljen arra, hogy cserélje ki`"YourDocumentDirectoryPath"` tényleges elérési úttal, ahol a fájlok találhatók, hogy a kód megfelelően működjön.
 
 ## 2. lépés: Egyetlen fájl tömörítése
 
@@ -55,7 +55,7 @@ using (TarArchive archive = new TarArchive())
 
 ## 3. lépés: Több fájl tömörítése
 
-Ha több fájlt egyetlen TarLz-archívumba szeretne tömöríteni, az alábbiak szerint bővítheti a funkciókat:
+Ha több fájlt egyetlen TarLz archívumba szeretne tömöríteni, az alábbiak szerint bővítheti a funkciókat:
 
 ```csharp
 //ExStart: CompressMultipleFiles

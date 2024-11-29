@@ -15,7 +15,7 @@ Práce s dlouhými dokumenty často zahrnuje prohledávání hustých informací
 
 Než začnete, ujistěte se, že máte následující:
 
-1.  Aspose.Words for .NET Library: Stáhněte si ji z[Asposeho vydání](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Library: Stáhněte si ji z[Asposeho vydání](https://releases.aspose.com/words/net/).
 2. Prostředí .NET: Nastavte vývojové prostředí .NET, jako je Visual Studio.
 3. Základní znalosti C#: Tento tutoriál zahrnuje kódování, takže znalost syntaxe C# bude prospěšná.
 4. Klíč API modelu AI: Získejte klíč API pro svůj preferovaný souhrnný model AI (např. GPT-4), protože jej použijeme ke generování souhrnů.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Krok 2: Načtěte dokumenty pro shrnutí
 
- Načtěte dokumenty, které chcete shrnout. Použijte`Document` třídy v Aspose.Words pro přístup k souborům aplikace Word:
+ Načtěte dokumenty, které chcete shrnout. Použijte`Document`třídy v Aspose.Words pro přístup k souborům aplikace Word:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- The`Gpt4OMini` model je inicializován pomocí vašeho klíče API pro zpracování sumarizace dokumentu. Nezapomeňte vyměnit`"API_KEY"` vaším skutečným klíčem API.
+ The`Gpt4OMini` model je inicializován pomocí vašeho klíče API pro zpracování sumarizace dokumentu. Nezapomeňte vyměnit`"API_KEY"` s vaším skutečným klíčem API.
 
 ## Krok 4: Shrnutí jednoho dokumentu
 

@@ -9,13 +9,13 @@ url: /hu/net/tutorials/barcode/mastering-codabar-encoding-and-checksum/guide-to-
 ---
 ## Bevezetés
 
-A Codabar egy népszerű lineáris vonalkód-szimbólum, amelyet széles körben alkalmaznak a különböző iparágakban a címkézés és azonosítás egyszerűsége és hatékonysága miatt. A Codabar egyik kritikus jellemzője az ellenőrző összeg kiszámítása, amely segít biztosítani a kódolt adatok pontosságát és integritását. Ebben az útmutatóban végigvezetjük a különböző ellenőrzőösszeg-típusú Codabar-vonalkódok kiszámításának és létrehozásának lépésein az Aspose.BarCode for .NET használatával.
+Codabar egy népszerű lineáris vonalkód-szimbólum, amelyet széles körben alkalmaznak a különböző iparágakban a címkézés és azonosítás egyszerűsége és hatékonysága miatt. A Codabar egyik kritikus jellemzője az ellenőrző összeg kiszámítása, amely segít biztosítani a kódolt adatok pontosságát és integritását. Ebben az útmutatóban végigvezetjük a különböző ellenőrzőösszeg-típusú Codabar-vonalkódok kiszámításának és létrehozásának lépésein az Aspose.BarCode for .NET használatával.
 
 ## Előfeltételek
 
 Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik a következő beállításokkal:
 
-1.  Aspose.BarCode for .NET: Győződjön meg arról, hogy ez a könyvtár telepítve van a fejlesztői környezetében. Letöltheti innen[itt](https://releases.aspose.com/barcode/net/).
+1.  Aspose.BarCode for .NET: Győződjön meg arról, hogy ez a könyvtár telepítve van a fejlesztői környezetben. Letöltheti innen[itt](https://releases.aspose.com/barcode/net/).
    
 2. C# fejlesztői környezet: Készítsen fejlesztésre egy C# IDE-t (mint a Visual Studio).
 
@@ -65,7 +65,7 @@ Végül készítsünk egy Codabar vonalkódot, amely Mod16 ellenőrző összeget
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Ellenőrző összeg engedélyezése
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Állítsa be a Mod16-ot
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Állítsa be a Mod16-ot
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Sikeresen generált Codabar vonalkódokat különböző típusú ellenőrzőösszegekkel az Aspose.BarCode for .NET használatával. Ezek az ellenőrző összegek elengedhetetlenek a kódolt adatok integritásának megőrzéséhez, biztosítva, hogy a beolvasható információ pontos és megbízható legyen.
 
- Ha bármilyen kérdése van, vagy problémákba ütközik, ne habozzon kapcsolatba lépni a nyüzsgő közösséggel[Aspose.BarCode fórum](https://forum.aspose.com/c/barcode/13).
+Ha bármilyen kérdése van, vagy problémákba ütközik, ne habozzon kapcsolatba lépni a nyüzsgő közösséggel[Aspose.BarCode fórum](https://forum.aspose.com/c/barcode/13).
 
 ## GYIK
 
@@ -95,4 +95,4 @@ Teljesen! Az Aspose.BarCode for .NET sokoldalú, és több .NET-keretrendszerrel
 
 ### Hol találom az Aspose.BarCode for .NET teljes dokumentációját?
 
- Az Aspose.BarCode átfogó dokumentációja megtalálható[itt](https://reference.aspose.com/barcode/net/).
+Az Aspose.BarCode átfogó dokumentációja megtalálható[itt](https://reference.aspose.com/barcode/net/).

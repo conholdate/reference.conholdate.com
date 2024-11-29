@@ -15,7 +15,7 @@ url: /ar/net/tutorials/barcode/mastering-codabar-encoding-and-checksum/custom-co
 
 قبل أن نبدأ، تأكد من أن لديك ما يلي:
 
-1. بيئة التطوير: بيئة عمل .NET تم إعدادها على جهازك. إذا كنت بحاجة إلى مساعدة، راجع[توثيق Aspose](https://reference.aspose.com/barcode/net/).
+1.  بيئة التطوير: بيئة عمل .NET تم إعدادها على جهازك. إذا كنت بحاجة إلى مساعدة، راجع[توثيق Aspose](https://reference.aspose.com/barcode/net/).
    
 2.  Aspose.BarCode لمكتبة .NET: قم بتنزيل المكتبة وتثبيتها من[صفحة إصدارات Aspose](https://releases.aspose.com/barcode/net/).
 

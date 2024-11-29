@@ -41,7 +41,7 @@ string dataDir = "Your Document Directory";
 
 ## 2. lépés: Adja meg a forrás és a cél elérési útját
 
-Határozza meg a forrás PSD-fájlt és az eredményül kapott kép cél elérési útját:
+Határozza meg a forrás PSD-fájlt és az eredményül kapott kép célútvonalát:
 
 ```csharp
 // ExStart: Mentés lemezre

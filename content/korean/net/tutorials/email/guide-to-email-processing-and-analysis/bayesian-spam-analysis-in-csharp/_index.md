@@ -38,13 +38,13 @@ using Aspose.Email.Spam;
 
 ## 1단계: 이메일 로드
 
- 먼저 분석하려는 이메일을 로드해야 합니다. 이는 다음을 사용하여 수행됩니다.`MailMessage`Aspose.Email 라이브러리의 클래스. 
+ 먼저 분석하려는 이메일을 로드해야 합니다. 이는 다음을 사용하여 수행됩니다.`MailMessage` Aspose.Email 라이브러리의 클래스. 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- 그만큼`Load` 방법은 분석하려는 이메일의 파일 경로를 사용합니다. 이 파일은 EML 형식이어야 합니다. EML 형식이 없으면 간단한 이메일을 만들어서 저장하세요.`email.eml`.
+ 그만큼`Load`방법은 분석하려는 이메일의 파일 경로를 사용합니다. 이 파일은 EML 형식이어야 합니다. EML 형식이 없으면 간단한 이메일을 만들어서 저장하세요.`email.eml`.
 
 ## 2단계: 스팸 분석기 만들기
 

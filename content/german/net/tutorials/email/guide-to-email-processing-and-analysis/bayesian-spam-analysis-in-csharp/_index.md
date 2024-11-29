@@ -34,17 +34,17 @@ using Aspose.Email.Spam;
 
 Mit diesen Importen können Sie die Funktionen von Aspose.Email zur Spam-Analyse nutzen.
 
-Lassen Sie uns die Implementierung nun in klare Schritte aufteilen, damit Sie sie problemlos nachvollziehen können.
+Lassen Sie uns die Implementierung nun in klare Schritte unterteilen, damit Sie sie problemlos nachvollziehen können.
 
 ## Schritt 1: Eine E-Mail hochladen
 
- Zuerst müssen Sie die E-Mail laden, die Sie analysieren möchten. Dies geschieht mit dem`MailMessage`Klasse in der Aspose.Email-Bibliothek. 
+ Zuerst müssen Sie die E-Mail laden, die Sie analysieren möchten. Dies geschieht mit dem`MailMessage` Klasse in der Aspose.Email-Bibliothek. 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- Der`Load` Methode nimmt den Dateipfad der E-Mail, die Sie analysieren möchten. Diese Datei sollte im EML-Format vorliegen. Wenn Sie keins haben, können Sie eine einfache E-Mail erstellen und diese speichern als`email.eml`.
+ Der`Load`Methode nimmt den Dateipfad der E-Mail, die Sie analysieren möchten. Diese Datei sollte im EML-Format vorliegen. Wenn Sie keins haben, können Sie eine einfache E-Mail erstellen und diese speichern als`email.eml`.
 
 ## Schritt 2: Erstellen Sie einen Spam-Analysator
 

@@ -80,7 +80,7 @@ Seguindo essas etapas simples, você pode integrar efetivamente o Aspose.CAD par
 
 ### O Aspose.CAD é compatível com todas as versões de arquivos DWT?
 
-Aspose.CAD foi projetado para suportar uma ampla gama de formatos CAD, incluindo várias versões de arquivos DWT. Para informações detalhadas sobre compatibilidade, consulte a documentação.
+O Aspose.CAD foi projetado para suportar uma ampla gama de formatos CAD, incluindo várias versões de arquivos DWT. Para informações detalhadas sobre compatibilidade, consulte a documentação.
 
 ### Posso usar o Aspose.CAD para projetos comerciais?
 

@@ -87,7 +87,7 @@ Document oneDocumentSummary = model.Summarize(firstDoc, new SummarizeOptions() {
 oneDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.One.docx");
 ```
 
-Mã này tạo ra một phiên bản tóm tắt của`firstDoc` và lưu nó vào thư mục hiện vật. Điều chỉnh độ dài tóm tắt để đáp ứng nhu cầu của bạn, dù là ngắn, trung bình hay dài.
+ Mã này tạo ra một phiên bản tóm tắt của`firstDoc` và lưu nó vào thư mục hiện vật. Điều chỉnh độ dài tóm tắt để đáp ứng nhu cầu của bạn, dù là ngắn, trung bình hay dài.
 
 ## Bước 6: Tóm tắt nhiều tài liệu cùng lúc
 
@@ -120,7 +120,7 @@ Có, Aspose.Words cho phép bạn chuyển nhiều tài liệu cho mô hình AI,
 
 ### Tôi có thể kiểm soát độ dài của bản tóm tắt như thế nào?
 
- Sử dụng`SummaryLength` tùy chọn trong`SummarizeOptions` lớp để thiết lập độ dài tóm tắt mong muốn là ngắn, trung bình hoặc dài.
+ Sử dụng`SummaryLength` tùy chọn trong`SummarizeOptions`lớp để thiết lập độ dài tóm tắt mong muốn là ngắn, trung bình hoặc dài.
 
 ### Tôi có thể tìm thêm tài nguyên cho Aspose.Words ở đâu?
 

@@ -13,11 +13,11 @@ Sürekli gelişen coğrafi veri dünyasında, emrinizde doğru araçlara sahip o
 
 ## GeoJSON'u TopoJSON'a dönüştürme
 
- GeoJSON ve TopoJSON, GIS topluluğunda popüler formatlardır, ancak her birinin kendine özgü avantajları vardır. GeoJSON basit ve okunması kolaydır, bu da onu web uygulamaları için harika kılarken, TopoJSON topolojiyi kodlayarak dosya boyutunu azaltır ve bu da performans için bir oyun değiştirici olabilir.[GeoJSON'u TopoJSON'a dönüştürme](./converting-geojson-to-topojson/)kurulum süreci boyunca size rehberlik eder ve kısa sürede çalışır duruma gelmenizi sağlamak için adım adım kod örnekleri sunar. Kurulum konusunda yardıma mı ihtiyacınız var? Sizi düşündük!
+ GeoJSON ve TopoJSON, GIS topluluğunda popüler formatlardır, ancak her birinin kendine özgü avantajları vardır. GeoJSON basit ve okunması kolaydır, bu da onu web uygulamaları için harika kılarken, TopoJSON topolojiyi kodlayarak dosya boyutunu azaltır ve bu da performans için bir oyun değiştirici olabilir.[GeoJSON'u TopoJSON'a dönüştürme](./converting-geojson-to-topojson/) kurulum süreci boyunca size rehberlik eder ve kısa sürede çalışır duruma gelmenizi sağlamak için adım adım kod örnekleri sunar. Kurulum konusunda yardıma mı ihtiyacınız var? Sizi düşündük!
 
 ## Şekil Dosyalarını GeoJSON'a Dönüştürme
 
- Şekil dosyaları GIS'te temel bir unsurdur, ancak bunları GeoJSON'a dönüştürmek, özellikle web haritalamada veri kullanımı için yeni yollar açabilir.[Shapefile'ların GeoJSON'a dönüştürülmesi](./converting-shapefile-to-geojson/) tüm süreçte size rehberlik eder. Başlamak için ihtiyaç duyduğunuz temel bilgilerle başlıyoruz, ardından dönüşüm sürecini basitleştiren net, özlü kod örneklerine dalıyoruz. Yol boyunca sorularınız mı var? Eğitim, karşılaşabileceğiniz yaygın engelleri ele almak için tasarlanmıştır.
+Şekil dosyaları GIS'te temel bir unsurdur, ancak bunları GeoJSON'a dönüştürmek, özellikle web haritalamada veri kullanımı için yeni yollar açabilir.[Shapefile'ların GeoJSON'a dönüştürülmesi](./converting-shapefile-to-geojson/) tüm süreçte size rehberlik eder. Başlamak için ihtiyaç duyduğunuz temel bilgilerle başlıyoruz, ardından dönüşüm sürecini basitleştiren net, özlü kod örneklerine dalıyoruz. Yol boyunca sorularınız mı var? Eğitim, karşılaşabileceğiniz yaygın engelleri ele almak için tasarlanmıştır.
 
 ## Coğrafi Veri Dönüştürme Eğitimlerine Kılavuz
 ### [GeoJSON'u Aspose.GIS for .NET ile TopoJSON'a dönüştürme](./converting-geojson-to-topojson/)

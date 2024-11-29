@@ -98,7 +98,7 @@ Aspose.BarCode untuk .NET adalah pustaka komprehensif yang memungkinkan pengemba
  Ya! Anda dapat mengunduh versi uji coba Aspose.BarCode untuk .NET[Di Sini](https://releases.aspose.com/barcode/net/).
 
 ### Bagaimana saya dapat membeli lisensi untuk Aspose.BarCode untuk .NET?
-Kunjungi halaman pembelian[Di Sini](https://purchase.conholdate.com/buy) untuk memperoleh lisensi Aspose.BarCode untuk .NET.
+ Kunjungi halaman pembelian[Di Sini](https://purchase.conholdate.com/buy) untuk memperoleh lisensi Aspose.BarCode untuk .NET.
 
 ### Di mana saya dapat mencari bantuan dan dukungan untuk Aspose.BarCode for .NET?
  Untuk bantuan, kunjungi forum dukungan Aspose.BarCode untuk .NET[Di Sini](https://forum.aspose.com/c/barcode/13) untuk terhubung dengan komunitas dan tim dukungan.

@@ -16,7 +16,7 @@ url: /ja/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 プロセスに進む前に、次の設定がされていることを確認してください。
 
 1.  Aspose.Words for .NET: ライブラリをダウンロードしてインストールします。[Aspose リリース ページ](https://releases.aspose.com/words/net/).
-2.  Aspose.Email for .NET: このライブラリを以下のサイトからダウンロードしてインストールしてください。[Aspose リリース ページ](https://releases.aspose.com/email/net/).
+2.  Aspose.Email for .NET: このライブラリを以下のサイトからダウンロードしてインストールします。[Aspose リリース ページ](https://releases.aspose.com/email/net/).
 3. .NET Framework: マシンに .NET Framework がインストールされていることを確認します。
 4. SMTP サーバー: 電子メールを送信するには、SMTP サーバーにアクセスする必要があります。
 

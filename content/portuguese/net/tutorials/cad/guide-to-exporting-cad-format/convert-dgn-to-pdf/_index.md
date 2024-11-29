@@ -98,4 +98,4 @@ Absolutamente! O Aspose.CAD foi projetado para simplificar tarefas complexas de 
  Você pode solicitar licenças temporárias[aqui](https://purchase.conholdate.com/temporary-license/).
 
 ### Precisa de ajuda ou tem dúvidas?  
-Participe da conversa no[Fórum Aspose.CAD](https://forum.aspose.com/c/cad/19) para suporte e consultas da comunidade.
+ Participe da conversa no[Fórum Aspose.CAD](https://forum.aspose.com/c/cad/19) para suporte e consultas da comunidade.

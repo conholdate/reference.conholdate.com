@@ -74,7 +74,7 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- Ez a rész bemutatja, hogyan kell létrehozni a`Graphics` objektumot, törölje le a felületet, és adjon hozzá két téglalapot különböző színekkel és pozíciókkal. A rajzok elkészülte után mentse el a képet a változtatások megőrzéséhez.
+Ez a rész bemutatja, hogyan kell létrehozni a`Graphics` objektumot, törölje le a felületet, és adjon hozzá két téglalapot különböző színekkel és pozíciókkal. A rajzok elkészülte után mentse el a képet a változtatások megőrzéséhez.
 
 ## 4. lépés: Mentse el a képet
 

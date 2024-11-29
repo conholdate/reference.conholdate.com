@@ -127,4 +127,4 @@ In deze tutorial hebben we geleerd hoe u Aspose.CAD voor .NET kunt gebruiken om 
 
 ### Hulp nodig of vragen?
 
- Voor ondersteuning of om vragen te stellen, bezoek de Aspose.CAD community[ondersteuningsforum](https://forum.aspose.com/c/cad/19).
+Voor ondersteuning of om vragen te stellen, bezoek de Aspose.CAD community[ondersteuningsforum](https://forum.aspose.com/c/cad/19).

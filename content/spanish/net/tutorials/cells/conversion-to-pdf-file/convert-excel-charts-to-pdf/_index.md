@@ -17,7 +17,7 @@ url: /es/net/tutorials/cells/conversion-to-pdf-file/convert-excel-charts-to-pdf/
 Asegúrate de tener instalado .NET Framework o .NET Core. Ambos entornos son compatibles con Aspose.Cells, por lo que puedes utilizar el que mejor se adapte a tu proyecto.
 
 ### Instalación de la biblioteca Aspose.Cells
-La biblioteca Aspose.Cells es esencial para las conversiones de gráficos a PDF. Obtenga la última versión en[Página de descarga de Aspose](https://releases.aspose.com/cells/net/).
+ La biblioteca Aspose.Cells es esencial para las conversiones de gráficos a PDF. Obtenga la última versión en[Página de descarga de Aspose](https://releases.aspose.com/cells/net/).
 
 ### Conocimientos básicos de C#
 Si tiene conocimientos básicos de C#, el proceso de codificación será más sencillo. No se preocupe si es principiante; esta guía incluye ejemplos de código fáciles de seguir.
@@ -82,7 +82,7 @@ Este código accede a la primera hoja de cálculo. Cambie el índice si el gráf
 A continuación, acceda al gráfico específico que desea convertir desde la hoja de trabajo elegida.
 
 ```csharp
-//Acceda al primer gráfico de la hoja de trabajo
+// Acceda al primer gráfico de la hoja de trabajo
 Chart chart = worksheet.Charts[0];
 ```
 

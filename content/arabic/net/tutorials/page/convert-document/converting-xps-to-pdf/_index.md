@@ -110,8 +110,8 @@ document.Save(device, options);
 
 ### هل هناك نسخة تجريبية متاحة لـ Aspose.Page لـ .NET؟
 
-نعم، يمكنك تجربة Aspose.Page لـ .NET مع توفر نسخة تجريبية مجانية[هنا](https://releases.aspose.com/).
+ نعم، يمكنك تجربة Aspose.Page لـ .NET مع توفر نسخة تجريبية مجانية[هنا](https://releases.aspose.com/).
 
 ### أين يمكنني العثور على دعم المجتمع لـ Aspose.Page لـ .NET؟
 
- للمناقشات المجتمعية والدعم، قم بزيارة[منتدى Aspose.Page](https://forum.aspose.com/c/page/39).
+للمناقشات المجتمعية والدعم، قم بزيارة[منتدى Aspose.Page](https://forum.aspose.com/c/page/39).

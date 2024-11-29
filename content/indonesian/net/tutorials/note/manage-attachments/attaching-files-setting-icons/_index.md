@@ -35,7 +35,7 @@ Berikut ini adalah implementasi langkah demi langkah yang terperinci.
 
 ## Langkah 1: Buat Dokumen OneNote Baru
 
- Inisialisasi dokumen OneNote baru menggunakan`Document`kelas.
+ Inisialisasi dokumen OneNote baru menggunakan`Document` kelas.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ Aspose.Note mendukung format JPEG, PNG, BMP, dan GIF untuk ikon lampiran.
 Tidak ada batasan ukuran eksplisit yang diberlakukan oleh Aspose.Note, tetapi pastikan sumber daya sistem Anda dapat menangani file besar.
 
 ### Bisakah ikon diubah ukurannya sebelum ditetapkan?
- Ya, Anda dapat memanipulasi gambar ikon menggunakan .NET`System.Drawing` perpustakaan sebelum melampirkannya.
+Ya, Anda dapat memanipulasi gambar ikon menggunakan .NET`System.Drawing` perpustakaan sebelum melampirkannya.
 
  Untuk bantuan lebih lanjut, jelajahi[dokumentasi](https://reference.aspose.com/words/net/) atau hubungi[Aspose dukungan](https://forum.aspose.com/c/words/8).

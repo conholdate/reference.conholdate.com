@@ -15,12 +15,12 @@ CAD-elrendezéseket szeretne könnyedén raszteres képformátumokká konvertál
 
 Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik az alábbiakkal:
 
--  Aspose.CAD for .NET Library: Töltse le és telepítse a könyvtárat a[Aspose.CAD weboldal](https://releases.aspose.com/cad/net/).
+- Aspose.CAD for .NET Library: Töltse le és telepítse a könyvtárat a[Aspose.CAD weboldal](https://releases.aspose.com/cad/net/).
 -  CAD rajzfájl: rendelkezzen CAD rajzfájllal (pl.`conic_pyramid.dxf`) készen áll az átalakításra.
 
 ## Importálja a szükséges névtereket
 
-.NET-projektben importálnia kell a szükséges névtereket az Aspose.CAD függvények használatához. Adja hozzá a következőket a kód tetejéhez:
+A .NET-projektben importálnia kell a szükséges névtereket az Aspose.CAD függvények használatához. Adja hozzá a következőket a kód tetejéhez:
 
 ```csharp
 using System;
@@ -92,7 +92,7 @@ image.Save(outputFilePath, options);
 
 ## További funkció: Minden réteg konvertálása
 
-CAD-rajz összes fóliájának konvertálásához egy ehhez hasonló módszert valósíthat meg:
+A CAD-rajz összes fóliájának konvertálásához egy ehhez hasonló módszert valósíthat meg:
 
 ```csharp
 void ConvertAllLayersToRasterImageFormats()

@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // Thay thế bằng đường dẫn thực tế của bạn
 ```
 
-Đảm bảo bạn thay thế`"YourDocumentDirectoryPath"` với đường dẫn thực tế nơi chứa các tệp của bạn để mã hoạt động chính xác.
+ Đảm bảo bạn thay thế`"YourDocumentDirectoryPath"`với đường dẫn thực tế nơi chứa các tệp của bạn để mã hoạt động chính xác.
 
 ## Bước 2: Nén một tệp duy nhất
 

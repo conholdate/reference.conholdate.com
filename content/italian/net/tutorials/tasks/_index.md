@@ -8,7 +8,7 @@ description: Esplora i tutorial di Aspose.Tasks per .NET che coprono opzioni di 
 is_root: true
 ---
 
-## Aspose.Tasks per esercitazioni .NET
+## Tutorial su Aspose.Tasks per .NET
 ### [Guida alle opzioni di salvataggio in Aspose.Tasks per .NET](./guide-to-saving-options/)
 Salva e converti senza sforzo i file di Microsoft Project con Aspose.Tasks per .NET. Esplora i tutorial sull'esportazione nei formati HTML e PDF.
 ### [Padroneggia le funzionalità avanzate in Aspose.Tasks per .NET](./master-advanced-features/)

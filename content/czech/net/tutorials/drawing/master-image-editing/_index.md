@@ -12,7 +12,7 @@ url: /cs/net/tutorials/drawing/master-image-editing/
 Pokud jde o vytváření funkčně bohatých aplikací .NET s bezproblémovými možnostmi úpravy obrázků, Aspose.Drawing for .NET je váš nejlepší přítel. Chcete oříznout obrázky jako profesionál nebo je bez námahy zobrazit ve své aplikaci? Tak to máš štěstí! Pojďme se ponořit do několika vzrušujících tutoriálů přizpůsobených pro Aspose.Drawing.
 
 ## Oříznutí obrázku pomocí Aspose.Drawing  
- Chtěli jste někdy oříznout nepotřebné části obrázku a zaměřit se na to, na čem opravdu záleží? s[Oříznutí obrázku pomocí Aspose.Drawing v .NET](./image-cropping/)tutoriálu se naučíte ořezávat obrázky krok za krokem. Od načtení bitmapy až po definování obdélníku oříznutí, to vše je pokryto. Navíc zjistíte, jak uložit upravený obrázek v různých formátech. Je to jako dát své image profesionální účes!  
+ Chtěli jste někdy oříznout nepotřebné části obrázku a zaměřit se na to, na čem opravdu záleží? s[Oříznutí obrázku pomocí Aspose.Drawing v .NET](./image-cropping/) tutoriálu se naučíte ořezávat obrázky krok za krokem. Od načtení bitmapy až po definování obdélníku oříznutí, to vše je pokryto. Navíc zjistíte, jak uložit upravený obrázek v různých formátech. Je to jako dát své image profesionální účes!  
 
 ## Zobrazení obrázku s Aspose.Drawing  
  Co je to za aplikaci bez ohromujících vizuálních prvků? The[Zobrazení obrázků s Aspose.Drawing v .NET](./image-display/) tutoriál je zde, aby vám pomohl zvládnout to. Tento průvodce vás provede procesem načítání a vykreslování obrázků přímo ve vaší aplikaci .NET. Je to stejně snadné jako zapnutí vypínače! Ať už se jedná o zobrazení firemního loga nebo fotogalerie, tento tutoriál zajistí, že to pokaždé vychytáte.

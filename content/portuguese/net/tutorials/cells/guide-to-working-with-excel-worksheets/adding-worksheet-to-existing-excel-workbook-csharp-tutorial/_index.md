@@ -16,7 +16,7 @@ No cenário digital acelerado de hoje, a capacidade de gerenciar dados de forma 
 Antes de mergulharmos no código, certifique-se de ter as seguintes ferramentas e conhecimento:
 
 1.  Visual Studio: Baixe e instale o Visual Studio em[aqui](https://visualstudio.microsoft.com/vs/).
-2. Aspose.Cells para .NET: Integre Aspose.Cells ao seu projeto. Você pode baixá-lo do[site](https://releases.aspose.com/cells/net/).
+2. Aspose.Cells para .NET: Integre o Aspose.Cells ao seu projeto. Você pode baixá-lo do[site](https://releases.aspose.com/cells/net/).
 3. Conhecimento básico de C#: Familiaridade com C# ajudará você a acompanhar. Não se preocupe se você for novo; nós o guiaremos por cada passo!
 4. Diretório de documentos: crie uma pasta no seu computador para armazenar seus arquivos do Excel para este tutorial.
 

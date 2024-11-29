@@ -103,7 +103,7 @@ Console.WriteLine("Key 'func1' removed ");
 ## 常見問題解答
 
 ### 我可以將多個 JavaScript 函數新增到單一 PDF 中嗎？
-是的！您可以根據需要添加任意數量的 JavaScript 函數`doc.JavaScript`收藏。
+是的！您可以使用以下命令根據需要添加任意數量的 JavaScript 函數`doc.JavaScript`收藏。
 
 ### 如果我嘗試刪除不存在的 JavaScript 函數會發生什麼？
 如果該函數不存在，則`Remove`方法不會拋出錯誤，但也不會刪除任何內容。要處理不存在的函數，您可以新增額外的錯誤處理或修改程式碼以忽略它們。

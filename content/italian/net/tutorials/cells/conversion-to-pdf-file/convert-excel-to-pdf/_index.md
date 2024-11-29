@@ -104,4 +104,4 @@ Sì, scorrendo un elenco di percorsi di file, è possibile convertire in batch p
  Sì, impostando`OnePagePerSheet` In`PdfSaveOptions`è possibile convertire fogli specifici su singole pagine del PDF.
 
 ### Dove posso trovare ulteriore documentazione su Aspose.Cells?
- Visita il[Documentazione di Aspose.Cells](https://reference.aspose.com/cells/net/) per guide dettagliate ed esempi di codice. 
+ Visitare il[Documentazione di Aspose.Cells](https://reference.aspose.com/cells/net/) per guide dettagliate ed esempi di codice. 

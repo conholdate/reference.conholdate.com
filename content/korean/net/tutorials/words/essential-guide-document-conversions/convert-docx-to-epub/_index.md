@@ -16,7 +16,7 @@ url: /ko/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 변환 과정을 시작하기 전에 다음 사항이 있는지 확인하세요.
 
 - 개발 환경: Visual Studio 또는 다른 .NET IDE가 설치됨.
-- .NET용 Aspose.Words: 여기에서 다운로드하여 설치하세요.[Aspose 웹사이트](https://releases.aspose.com/words/net/).
+-  .NET용 Aspose.Words: 여기에서 다운로드하여 설치하세요.[Aspose 웹사이트](https://releases.aspose.com/words/net/).
 - 문서 파일: 변환하려는 DOCX 파일을 준비하세요.
 
 ## 1단계: 필요한 네임스페이스 가져오기

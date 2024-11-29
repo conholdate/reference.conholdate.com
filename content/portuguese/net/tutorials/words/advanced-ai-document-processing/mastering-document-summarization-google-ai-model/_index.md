@@ -87,7 +87,7 @@ Document oneDocumentSummary = model.Summarize(firstDoc, new SummarizeOptions() {
 oneDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.One.docx");
 ```
 
-Este código cria uma versão resumida de`firstDoc` e salva no diretório de artefatos. Ajuste o comprimento do resumo para atender às suas necessidades, seja curto, médio ou longo.
+ Este código cria uma versão resumida de`firstDoc` e salva no diretório de artefatos. Ajuste o comprimento do resumo para atender às suas necessidades, seja curto, médio ou longo.
 
 ## Etapa 6: Resuma vários documentos simultaneamente
 
@@ -120,7 +120,7 @@ Sim, o Aspose.Words permite que você passe vários documentos para o modelo de 
 
 ### Como posso controlar o tamanho do resumo?
 
- Use o`SummaryLength` opção dentro do`SummarizeOptions` classe para definir o tamanho desejado do resumo como curto, médio ou longo.
+ Use o`SummaryLength` opção dentro do`SummarizeOptions`classe para definir o tamanho desejado do resumo como curto, médio ou longo.
 
 ### Onde posso encontrar recursos adicionais para o Aspose.Words?
 

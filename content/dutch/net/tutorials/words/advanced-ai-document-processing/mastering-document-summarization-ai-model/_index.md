@@ -17,7 +17,7 @@ Om te beginnen moet u ervoor zorgen dat u het volgende op orde heeft:
 
 1. Visual Studio: Vereist voor codering en testen. U kunt het gratis downloaden als u het nog niet hebt geïnstalleerd.
 2. .NET Framework of .NET Core: Aspose.Words voor .NET ondersteunt beide, dus zorg ervoor dat u een compatibele versie hebt.
-3.  Aspose.Words voor .NET: Download en installeer de nieuwste versie van de[Aspose releases pagina](https://releases.aspose.com/words/net/).
+3. Aspose.Words voor .NET: Download en installeer de nieuwste versie van de[Aspose releases pagina](https://releases.aspose.com/words/net/).
 4. AI Model API-sleutel: Om samenvattingen te genereren, is toegang tot een AI-model-API vereist (bijv. OpenAI). Registreer u op de site van de AI-provider om de API-sleutel te verkrijgen.
 5. Basiskennis van C#: Een zekere mate van bekendheid met C#-programmering helpt u de cursus effectief te volgen.
 
@@ -39,7 +39,7 @@ Laten we de stappen doornemen voor het maken en configureren van een consoletoep
 Om de Aspose.Words-functionaliteit in te schakelen, voegt u deze toe via de NuGet-pakketbeheerder.
 
 1. Klik met de rechtermuisknop op uw project in Solution Explorer en kies NuGet-pakketten beheren.
-2.  Zoeken naar`Aspose.Words`en klik op Installeren.
+2.  Zoeken naar`Aspose.Words` en klik op Installeren.
 3. Installeer indien nodig ook specifieke AI-modelpakketten voor integratie (bijvoorbeeld OpenAI).
 
 ```csharp

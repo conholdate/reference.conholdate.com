@@ -63,7 +63,7 @@ barcodeGen.Save($"{path}BarHeight80Code128.png", BarCodeImageFormat.Png);
 
 ## Závěr
 
-V tomto tutoriálu jste se naučili, jak upravit výšku jednorozměrného čárového kódu pomocí Aspose.BarCode for .NET. Díky možnosti přizpůsobit různé vlastnosti čárových kódů můžete vytvářet obrázky čárových kódů na míru, aby vyhovovaly vašim specifickým požadavkům aplikace.
+tomto tutoriálu jste se naučili, jak upravit výšku jednorozměrného čárového kódu pomocí Aspose.BarCode for .NET. Díky možnosti přizpůsobit různé vlastnosti čárových kódů můžete vytvářet obrázky čárových kódů na míru, aby vyhovovaly vašim specifickým požadavkům aplikace.
 
 ## FAQ
 

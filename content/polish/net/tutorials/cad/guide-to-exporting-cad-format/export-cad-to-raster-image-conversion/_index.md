@@ -15,12 +15,12 @@ Czy chcesz bez wysiłku konwertować układy CAD do formatów obrazów rastrowyc
 
 Zanim zaczniesz, upewnij się, że masz następujące rzeczy:
 
--  Biblioteka Aspose.CAD dla .NET: Pobierz i zainstaluj bibliotekę z[Strona internetowa Aspose.CAD](https://releases.aspose.com/cad/net/).
+- Biblioteka Aspose.CAD dla .NET: Pobierz i zainstaluj bibliotekę z[Strona internetowa Aspose.CAD](https://releases.aspose.com/cad/net/).
 -  Plik rysunku CAD: Przygotuj plik rysunku CAD (np.`conic_pyramid.dxf`) gotowe do konwersji.
 
 ## Importuj wymagane przestrzenie nazw
 
-swoim projekcie .NET musisz zaimportować niezbędne przestrzenie nazw, aby wykorzystać funkcje Aspose.CAD. Dodaj poniższe na początku swojego kodu:
+W swoim projekcie .NET musisz zaimportować niezbędne przestrzenie nazw, aby wykorzystać funkcje Aspose.CAD. Dodaj poniższe na początku swojego kodu:
 
 ```csharp
 using System;

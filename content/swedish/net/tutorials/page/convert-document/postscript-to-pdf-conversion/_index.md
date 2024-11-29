@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Uppdatera
 Du skapar en PDF-enhet för att underlätta konverteringen. Du kan ange sidstorlek om det behövs, men standardstorleken på 595x842 punkter (A4) är vanligtvis tillräcklig.
 
 ```csharp
-// Standard sidstorlek är 595x842 och det är inte obligatoriskt att ställa in den i PdfDevice
+//Standard sidstorlek är 595x842 och det är inte obligatoriskt att ställa in den i PdfDevice
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // Men om du behöver ange storlek och bildformat, använd följande rad
 //Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream, new System.Drawing.Size(595, 842));

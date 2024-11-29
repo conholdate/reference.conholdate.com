@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/cad/guide-to-exporting-cad-format/export-cad-to-rast
 
 在開始之前，請確保您具備以下條件：
 
--  Aspose.CAD for .NET 函式庫：從下列位置下載並安裝程式庫：[Aspose.CAD 網站](https://releases.aspose.com/cad/net/).
+- Aspose.CAD for .NET 函式庫：從下列位置下載並安裝程式庫：[Aspose.CAD 網站](https://releases.aspose.com/cad/net/).
 - CAD 繪圖檔案：擁有您的 CAD 圖面檔案（例如，`conic_pyramid.dxf`）準備轉換。
 
 ## 導入所需的命名空間

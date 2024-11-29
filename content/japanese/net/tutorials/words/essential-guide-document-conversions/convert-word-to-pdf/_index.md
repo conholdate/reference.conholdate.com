@@ -9,7 +9,7 @@ url: /ja/net/tutorials/words/essential-guide-document-conversions/convert-word-t
 ---
 ## 導入
 
-Word 文書を PDF に変換することは、一貫した書式設定やセキュリティの強化など、PDF 形式の利点により、プロフェッショナルな環境では一般的なタスクです。.NET 開発者であれば、Aspose.Words for .NET を使用してこのプロセスを簡素化できます。このガイドでは、Word ファイルを PDF に簡単に変換する手順を説明します。熟練したプログラマーでも初心者でも、このガイドは役立ちます。さっそく始めましょう。
+Word 文書を PDF に変換することは、一貫した書式設定や強化されたセキュリティなど、PDF 形式の利点により、プロフェッショナルな環境では一般的なタスクです。.NET 開発者であれば、Aspose.Words for .NET を使用してこのプロセスを簡素化できます。このガイドでは、Word ファイルを PDF に簡単に変換する手順を説明します。熟練したプログラマーでも初心者でも、このガイドは役立ちます。さっそく始めましょう。
 
 ## 前提条件
 
@@ -65,7 +65,7 @@ Document doc = new Document(dataDir + "YourDocument.docx");
 
 ## ステップ3: PDFに変換して保存する
 
-次は、ドキュメントを PDF として保存する、という楽しい作業です。次のコード行を使用するだけです。
+次は、ドキュメントを PDF として保存する、という面白い部分です。次のコード行を使用するだけです。
 
 ```csharp
 doc.Save(dataDir + "ConvertedDocument.pdf");

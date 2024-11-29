@@ -38,13 +38,13 @@ Most bontsuk le a megvalósítást egyértelmű lépésekre, hogy könnyen köve
 
 ## 1. lépés: Töltsön be egy e-mailt
 
- Először is be kell töltenie az elemezni kívánt e-mailt. Ez a`MailMessage`osztályban az Aspose.Email könyvtárban. 
+ Először is be kell töltenie az elemezni kívánt e-mailt. Ez a`MailMessage` osztályban az Aspose.Email könyvtárban. 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- A`Load` metódus az elemezni kívánt e-mail fájl elérési útját veszi. Ennek a fájlnak EML formátumúnak kell lennie. Ha nem rendelkezik ilyennel, nyugodtan hozzon létre egy egyszerű e-mailt, és mentse el másként`email.eml`.
+ A`Load`metódus az elemezni kívánt e-mail fájl elérési útját veszi. Ennek a fájlnak EML formátumúnak kell lennie. Ha nem rendelkezik ilyennel, nyugodtan hozzon létre egy egyszerű e-mailt, és mentse el másként`email.eml`.
 
 ## 2. lépés: Hozzon létre egy Spam Analyzert
 

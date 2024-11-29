@@ -81,7 +81,7 @@ Aspose.Slides för Java är ett Microsoft PowerPoint®-hanterings-API som gör d
 
 Följande är länkarna till några användbara resurser som du kan behöva för att utföra dina uppgifter.
 
-- [Referensguide för Aspose.Slides för Java API](https://reference.aspose.com/slides/java)
+- [Aspose.Slides för Java API Referensguide](https://reference.aspose.com/slides/java)
 
 {{% alert color="primary" %}}
 

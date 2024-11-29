@@ -29,7 +29,7 @@ using Aspose.Words;
 using System.IO;
 ```
 
- De`Aspose.Words` namnområdet innehåller viktiga klasser för dokumentmanipulation, while`System.IO` möjliggör filhanteringsoperationer.
+ De`Aspose.Words` namespace innehåller viktiga klasser för dokumentmanipulation, while`System.IO` möjliggör filhanteringsoperationer.
 
 ## Steg 1: Definiera din dokumentkatalog
 

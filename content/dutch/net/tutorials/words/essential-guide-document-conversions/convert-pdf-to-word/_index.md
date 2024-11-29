@@ -66,7 +66,7 @@ Nu komt het spannende gedeelte: het geladen PDF-document opslaan als een Word-do
 doc.Save(dataDir + "ConvertedDocument.docx");
 ```
 
- Door een beroep te doen op de`Save` methode op onze`Document` Zo geven we bijvoorbeeld het pad en de indeling van het uitvoerbestand op. In dit geval slaan we het op als een Docx-bestand.
+ Door een beroep te doen op de`Save` methode op onze`Document` We geven bijvoorbeeld het pad en de indeling van het uitvoerbestand op. In dit geval slaan we het op als een Docx-bestand.
 
 ## Stap 4: De conversie uitvoeren
 

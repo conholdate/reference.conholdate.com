@@ -23,7 +23,7 @@ Una vez que tengas estos prerrequisitos, ¡podemos comenzar a dibujar un arco!
 
 ## Importar espacios de nombres requeridos
 
-Primero, debe importar los espacios de nombres necesarios para acceder a la funcionalidad proporcionada por Aspose.Imaging. Agregue lo siguiente`using` declaraciones en la parte superior de su archivo C#:
+ Primero, debe importar los espacios de nombres necesarios para acceder a la funcionalidad proporcionada por Aspose.Imaging. Agregue lo siguiente`using` declaraciones en la parte superior de su archivo C#:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## Paso 1: Crea la imagen y guarda la transmisión
 
 ```csharp
-// Define el directorio donde guardar la imagen
+//Define el directorio donde guardar la imagen
 string dataDir = "Your Document Directory"; // Actualice esto a su ruta preferida
 
 // Crea una secuencia para guardar la imagen BMP
@@ -78,7 +78,7 @@ Ahora, definamos los parámetros para el arco y dibujémoslo:
 
 ```csharp
             // Definir parámetros para el arco
-            int width = 100;   //Ancho del rectángulo delimitador
+            int width = 100;   // Ancho del rectángulo delimitador
             int height = 200;  // Altura del rectángulo delimitador
             int startAngle = 45;  // Ángulo inicial en grados
             int sweepAngle = 270; // Ángulo de barrido en grados

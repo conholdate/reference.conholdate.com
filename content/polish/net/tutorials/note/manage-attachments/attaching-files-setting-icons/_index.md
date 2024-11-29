@@ -35,7 +35,7 @@ Poniżej przedstawiono szczegółową implementację krok po kroku.
 
 ## Krok 1: Utwórz nowy dokument programu OneNote
 
- Zainicjuj nowy dokument programu OneNote za pomocą`Document`klasa.
+ Zainicjuj nowy dokument programu OneNote za pomocą`Document` klasa.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ Aspose.Note obsługuje formaty JPEG, PNG, BMP i GIF dla ikon załączników.
 Aspose.Note nie nakłada żadnego wyraźnego limitu rozmiaru, ale należy upewnić się, że zasoby systemu umożliwiają obsługę dużych plików.
 
 ### Czy można zmienić rozmiar ikon przed ich ustawieniem?
- Tak, możesz manipulować obrazem ikony za pomocą .NET`System.Drawing` biblioteki przed jej dołączeniem.
+Tak, możesz manipulować obrazem ikony za pomocą .NET`System.Drawing` biblioteki przed jej dołączeniem.
 
  Aby uzyskać dalszą pomoc, zapoznaj się z[dokumentacja](https://reference.aspose.com/words/net/) lub skontaktuj się z[Wsparcie Aspose](https://forum.aspose.com/c/words/8).

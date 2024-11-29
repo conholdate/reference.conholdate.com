@@ -9,7 +9,7 @@ url: /cs/net/tutorials/cad/guide-to-exporting-cad-format/convert-dgn-to-pdf/
 ---
 ## Zavedení
 
-Navigace ve světě CAD souborů může být náročná, ale s Aspose.CAD for .NET mohou vývojáři snadno manipulovat a převádět různé CAD formáty. Jednou z běžných potřeb je převod souborů DGN do PDF, což krok za krokem prozkoumáme v tomto tutoriálu.
+Pohyb ve světě CAD souborů může být náročný, ale s Aspose.CAD for .NET mohou vývojáři snadno manipulovat a převádět různé CAD formáty. Jednou z běžných potřeb je převod souborů DGN do PDF, což krok za krokem prozkoumáme v tomto tutoriálu.
 
 ## Předpoklady
 
@@ -88,7 +88,7 @@ Gratuluji! Úspěšně jste převedli soubor DGN do PDF pomocí Aspose.CAD for .
 ### Potřebuji předchozí znalosti CAD, abych mohl používat Aspose.CAD?  
 Absolutně! Aspose.CAD je navržen tak, aby zjednodušil složité úlohy CAD a zpřístupnil jej všem vývojářům bez ohledu na jejich znalosti CAD.
 
-### Kde najdu další zdroje a dokumentaci k Aspose.CAD?  
+### Kde najdu další zdroje a dokumentaci pro Aspose.CAD?  
  Můžete prozkoumat komplexní průvodce a příklady v[Dokumentace Aspose.CAD](https://reference.aspose.com/cad/net/).
 
 ### Je k dispozici bezplatná zkušební verze pro Aspose.CAD?  
@@ -98,4 +98,4 @@ Absolutně! Aspose.CAD je navržen tak, aby zjednodušil složité úlohy CAD a 
  Můžete požádat o dočasné licence[zde](https://purchase.conholdate.com/temporary-license/).
 
 ### Potřebujete pomoc nebo máte otázky?  
-Zapojte se do konverzace v[Fórum Aspose.CAD](https://forum.aspose.com/c/cad/19) za podporu komunity a dotazy.
+ Zapojte se do konverzace v[Fórum Aspose.CAD](https://forum.aspose.com/c/cad/19) za podporu komunity a dotazy.

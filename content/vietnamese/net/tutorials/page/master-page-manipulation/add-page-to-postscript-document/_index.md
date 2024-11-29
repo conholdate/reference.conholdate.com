@@ -47,7 +47,7 @@ Thiết lập tài liệu PostScript của bạn với cấu hình mong muốn:
 string dataDir = "Your Document Directory"; // Đặt đường dẫn thư mục tài liệu của bạn
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // Thiết lập tùy chọn lưu cho kích thước A4
+    //Thiết lập tùy chọn lưu cho kích thước A4
     PsSaveOptions options = new PsSaveOptions();
     
     // Tạo một tài liệu PostScript mới với 2 trang
@@ -114,4 +114,4 @@ Có! Như đã trình bày trong hướng dẫn này, bạn có thể xác đị
  Bạn có thể nhận được giấy phép tạm thời để thử nghiệm bằng cách điều hướng đến[liên kết này](https://purchase.conholdate.com/temporary-license/).
 
 ### Tôi có thể tìm kiếm sự hỗ trợ của cộng đồng ở đâu?  
-Tham gia[Diễn đàn cộng đồng Aspose.Page](https://forum.aspose.com/c/page/39) để kết nối với các nhà phát triển khác, chia sẻ kinh nghiệm và tìm kiếm sự giúp đỡ.
+ Tham gia[Diễn đàn cộng đồng Aspose.Page](https://forum.aspose.com/c/page/39) để kết nối với các nhà phát triển khác, chia sẻ kinh nghiệm và tìm kiếm sự giúp đỡ.

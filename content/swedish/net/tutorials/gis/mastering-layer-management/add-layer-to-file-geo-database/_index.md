@@ -1,5 +1,5 @@
 ---
-title: Lägg till ett lager i en fil geodatabas med Aspose.GIS för .NET
+title: Lägg till ett lager till en fil geodatabas med Aspose.GIS för .NET
 linktitle: Lägg till ett lager i en filgeodatabas
 second_title: Aspose.GIS .NET API
 description: Lär dig hur du lägger till ett nytt lager i en filgeodatabas (GDB) med Aspose.GIS för .NET. Den här omfattande guiden täcker förutsättningar, namnutrymmesimporter och detaljerade steg för att skapa och validera lager i dina GIS-datauppsättningar.
@@ -18,7 +18,7 @@ Innan vi fortsätter, se till att du har följande:
 1. Aspose.GIS för .NET Library  
     Ladda ner och installera biblioteket från[Aspose.GIS för .NET-sida](https://reference.aspose.com/gis/net/).
 
-2. En filgeodatabas (GDB) Dataset  
+2. En filgeodatabas (GDB) datauppsättning  
    Se till att du har en befintlig GDB-datauppsättning för operationen.
 
 3. Utvecklingsmiljö  

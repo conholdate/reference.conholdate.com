@@ -32,7 +32,7 @@ Pojďme si tento proces rozdělit na zvládnutelné kroky:
 
 ## Krok 1: Definujte cestu k adresáři dokumentu
 
-Nejprve zadejte adresář, kde jsou uloženy vaše dokumenty. To pomůže při hledání souborů XPS.
+Nejprve zadejte adresář, kde jsou uloženy vaše dokumenty. Pomůže vám to najít soubory XPS.
 
 ```csharp
 // Definujte cestu k adresáři dokumentů
@@ -68,7 +68,7 @@ doc.Save(dataDir + "AddPages_out.xps");
 
 ## Závěr
 
-tomto kurzu jste se naučili, jak přidat stránky do dokumentu XPS pomocí Aspose.Page for .NET. Aspose.Page se svým přímočarým rozhraním API zjednodušuje tento úkol a umožňuje vývojářům vylepšit jejich aplikace o výkonné možnosti zpracování dokumentů.
+V tomto kurzu jste se naučili, jak přidat stránky do dokumentu XPS pomocí Aspose.Page for .NET. Aspose.Page se svým přímočarým rozhraním API zjednodušuje tento úkol a umožňuje vývojářům vylepšit jejich aplikace o výkonné možnosti zpracování dokumentů.
 
 ## FAQ
 

@@ -66,7 +66,7 @@ A Google mesterséges intelligencia modelljének eléréséhez biztonságosan k�
 string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 ```
 
-Ha az API-kulcsot környezeti változóként tárolja, csökkenti annak kockázatát, hogy érzékeny információk jelenjenek meg a kódban.
+Az API-kulcs környezeti változóként való tárolásával csökkenti annak kockázatát, hogy érzékeny információk jelenjenek meg a kódban.
 
 ## 4. lépés: Állítsa be az AI modellpéldányt
 
@@ -87,7 +87,7 @@ Document oneDocumentSummary = model.Summarize(firstDoc, new SummarizeOptions() {
 oneDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.One.docx");
 ```
 
-Ez a kód összefoglaló változatát hozza létre`firstDoc` és elmenti a műtermékek könyvtárába. Állítsa be az összefoglaló hosszát igényeinek megfelelően, legyen az rövid, közepes vagy hosszú.
+ Ez a kód összefoglaló változatát hozza létre`firstDoc` és elmenti a műtermékek könyvtárába. Állítsa be az összefoglaló hosszát igényeinek megfelelően, legyen az rövid, közepes vagy hosszú.
 
 ## 6. lépés: Foglaljon össze több dokumentumot egyidejűleg
 
@@ -120,7 +120,7 @@ Igen, az Aspose.Words lehetővé teszi több dokumentum átadását az AI-modell
 
 ### Hogyan szabályozhatom az összegzés hosszát?
 
- Használja a`SummaryLength` opció a`SummarizeOptions` osztályt, hogy beállítsa a kívánt összegzési hosszt rövidre, közepesre vagy hosszúra.
+ Használja a`SummaryLength` opció a`SummarizeOptions`osztályt, hogy beállítsa a kívánt összegzési hosszt rövidre, közepesre vagy hosszúra.
 
 ### Hol találok további forrásokat az Aspose.Words számára?
 

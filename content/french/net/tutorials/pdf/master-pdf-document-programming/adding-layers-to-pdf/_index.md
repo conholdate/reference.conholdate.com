@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- Dans cette étape, vous initialisez une nouvelle instance du`Document`classe, qui sert de toile pour nos futures couches. Assurez-vous de remplacer`"YOUR DOCUMENT DIRECTORY"` avec le chemin réel où vous souhaitez enregistrer le fichier PDF ultérieurement.
+ Dans cette étape, vous initialisez une nouvelle instance du`Document` classe, qui sert de toile pour nos futures couches. Assurez-vous de remplacer`"YOUR DOCUMENT DIRECTORY"` avec le chemin réel où vous souhaitez enregistrer le fichier PDF ultérieurement.
 
 ## Étape 2 : Créer une nouvelle page
 

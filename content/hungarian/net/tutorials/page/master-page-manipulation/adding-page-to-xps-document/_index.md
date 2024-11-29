@@ -20,7 +20,7 @@ Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik a következő el�
 
 ## Névterek importálása
 
-kezdéshez importálnia kell a szükséges névtereket, így elérhetővé téve az Aspose.Page funkcióit a projektben.
+A kezdéshez importálnia kell a szükséges névtereket, így elérhetővé téve az Aspose.Page funkcióit a projektben.
 
 ```csharp
 using Aspose.Page.XPS;

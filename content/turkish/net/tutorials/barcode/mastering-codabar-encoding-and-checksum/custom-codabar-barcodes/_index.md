@@ -15,7 +15,7 @@ Başlangıç ve bitiş karakterleriyle Codabar barkodları oluşturmak için Asp
 
 Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
-1. Geliştirme Ortamı: Makinenizde kurulu çalışan bir .NET ortamı. Yardıma ihtiyacınız varsa, şuraya bakın:[Aspose belgeleri](https://reference.aspose.com/barcode/net/).
+1.  Geliştirme Ortamı: Makinenizde kurulu çalışan bir .NET ortamı. Yardıma ihtiyacınız varsa, şuraya bakın:[Aspose belgeleri](https://reference.aspose.com/barcode/net/).
    
 2.  Aspose.BarCode for .NET Kütüphanesi: Kütüphaneyi şu adresten indirin ve yükleyin:[Aspose sürüm sayfası](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## Adım 1: Barkod Oluşturucuyu Başlatın
 
- Bir örnek oluşturarak başlayın`BarcodeGenerator`, barkod türünü Codabar olarak ve kodlanacak verileri belirterek. İşte bir örnek:
+ Bir örnek oluşturarak başlayın`BarcodeGenerator`barkod türünü Codabar olarak ve kodlanacak verileri belirterek. İşte bir örnek:
 
 ```csharp
 string path = "Your Directory Path"; // Burada dizininizi belirtin

@@ -23,5 +23,5 @@ Har du ett arbetsblad som du inte längre behöver? Denna kortfattade handlednin
 | Titel | Beskrivning |
 | --- | --- | 
 | [Lägga till ett kalkylblad till en befintlig Excel-arbetsbok C# Tutorial C# Tutorial](./adding-worksheet-to-existing-excel-workbook-csharp-tutorial/) | Lär dig hur du lägger till ett Excel-kalkylblad till en befintlig arbetsbok med Aspose.Cells för .NET i denna detaljerade, steg-för-steg handledning. |  
-| [Nytt ark till en Excel-fil Programmatically C# Tutorial C# Tutorial](./add-new-sheet-to-excel-file-csharp-tutorial/) | Lär dig hur du lägger till ett nytt ark i Excel med C# med Aspose.Cells. Denna handledning bryter ner processen i enkla, handlingsbara steg. |  
+| [Nytt ark till en Excel-fil Programmatically C# Tutorial C# Tutorial](./add-new-sheet-to-excel-file-csharp-tutorial/) | Lär dig hur du lägger till ett nytt ark i Excel med C# med Aspose.Cells. Den här handledningen delar upp processen i enkla, handlingsbara steg. |  
 | [Ta bort ett kalkylblad genom att indexera i Excel med C# Tutorial C# Tutorial](./delete-worksheet-by-index-excel-csharp-tutorial/) | Lär dig hur du effektivt tar bort ett specifikt kalkylblad från en Excel-fil genom dess index med C# och Aspose.Cells-biblioteket. Följ denna enkla steg-för-steg handledning. |  

@@ -23,7 +23,7 @@ Khi bạn đã có đủ những điều kiện tiên quyết này, chúng ta c�
 
 ## Nhập không gian tên bắt buộc
 
-Đầu tiên, bạn cần nhập các không gian tên cần thiết để truy cập chức năng do Aspose.Imaging cung cấp. Thêm nội dung sau`using` các câu lệnh ở đầu tệp C# của bạn:
+ Đầu tiên, bạn cần nhập các không gian tên cần thiết để truy cập chức năng do Aspose.Imaging cung cấp. Thêm nội dung sau`using` các câu lệnh ở đầu tệp C# của bạn:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +38,7 @@ using System.IO;
 ## Bước 1: Tạo hình ảnh và lưu luồng
 
 ```csharp
-// Xác định thư mục để lưu hình ảnh
+//Xác định thư mục để lưu hình ảnh
 string dataDir = "Your Document Directory"; // Cập nhật theo đường dẫn bạn muốn
 
 // Tạo một luồng để lưu hình ảnh BMP
@@ -78,7 +78,7 @@ Bây giờ, chúng ta hãy xác định các tham số cho cung tròn và vẽ n
 
 ```csharp
             // Xác định các tham số cho cung
-            int width = 100;   //Chiều rộng của hình chữ nhật giới hạn
+            int width = 100;   // Chiều rộng của hình chữ nhật giới hạn
             int height = 200;  // Chiều cao của hình chữ nhật giới hạn
             int startAngle = 45;  // Góc bắt đầu tính bằng độ
             int sweepAngle = 270; // Góc quét tính bằng độ

@@ -22,7 +22,7 @@ url: /ru/net/tutorials/words/essential-guide-document-conversions/convert-pdf-to
 
 ## Настройка вашей среды
 
-1.  Загрузите и установите Aspose.Words для .NET: посетите[Сайт Aspose](https://releases.aspose.com/words/net/) и загрузите последнюю версию.
+1.  Загрузите и установите Aspose.Words для .NET: посетите[Сайт Aspose](https://releases.aspose.com/words/net/) и скачайте последнюю версию.
 2. Создайте новый проект: откройте IDE, создайте новый проект .NET и добавьте ссылку на Aspose.Words.
 3. Подготовьте свой PDF-документ: убедитесь, что PDF-документ, который вы хотите преобразовать, находится в каталоге вашего проекта.
 

@@ -196,7 +196,7 @@ Aspose.OCR for .NET 是一個字元和光學標記識別元件，允許開發人
 
 ![Aspose.CAD for .NET](aspose-cad-net.png)
 
-Aspose.CAD for .NET 可讓開發人員將 AutoCAD DWG、DWF 和 DXF 檔案轉換為 PDF 和光柵影像。它是本機 API，不需要安裝 AutoCAD 或任何軟體。您也可以從 AutoCAD 檔案轉換選定的圖層和佈局。轉換為 PDF 和光柵圖像的品質非常高。
+Aspose.CAD for .NET 可讓開發人員將 AutoCAD DWG、DWF 和 DXF 檔案轉換為 PDF 和光柵影像。它是本機 API，不需要安裝 AutoCAD 或任何軟體。您也可以轉換 AutoCAD 檔案中選定的圖層和佈局。轉換為 PDF 和光柵圖像的品質非常高。
 
 在專案中使用 Aspose.CAD for .NET 為您帶來以下好處： 
 
@@ -397,7 +397,7 @@ Aspose.Drawing 是一個 .NET 圖形 API，它提供與 .NET 應用程式中的 
 
 **Welcome to the Aspose.Font for .NET**
 
-Aspose.Font 是一個.NET 字體載入和繪圖函式庫。它支援多種前端格式，例如 TrueType（帶有 TrueType 集合）、CFF、OpenType 和 Type1。該 API 提供了豐富的功能來載入/儲存字體，並提供有關其資料結構以及所有字體類型支援的任何字形的資訊。它還提供所有字體類型的編碼資訊，表示字元代碼和字形標識符之間的對應。其渲染子系統可協助最終使用者渲染任何所需的字形或文字。可以透過使用簡單的圖形功能（移動點、畫線、曲線）來實現介面來呈現特殊字形。
+Aspose.Font 是一個.NET 字體載入和繪圖函式庫。它支援多種前端格式，例如 TrueType（帶有 TrueType 集合）、CFF、OpenType 和 Type1。 API 提供了豐富的功能來載入/儲存字體，並提供有關其資料結構以及所有字體類型支援的任何字形的資訊。它還提供所有字體類型的編碼資訊，表示字元代碼和字形標識符之間的對應。其渲染子系統可協助最終使用者渲染任何所需的字形或文字。可以透過使用簡單的圖形功能（移動點、畫線、曲線）來實現介面來呈現特殊字形。
 
 {{% /alert %}} 
 

@@ -15,7 +15,7 @@ url: /el/net/tutorials/words/advanced-ai-document-processing/summarize-documents
 
 Πριν ξεκινήσετε, βεβαιωθείτε ότι έχετε τα εξής:
 
-1.  Aspose.Words for .NET Library: Κάντε λήψη του από[Οι εκδόσεις του Aspose](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Library: Κάντε λήψη του από[Οι εκδόσεις του Aspose](https://releases.aspose.com/words/net/).
 2. .NET Environment: Ρυθμίστε ένα περιβάλλον ανάπτυξης .NET, όπως το Visual Studio.
 3. Βασικές γνώσεις C#: Αυτό το σεμινάριο περιλαμβάνει κωδικοποίηση, επομένως η εξοικείωση με τη σύνταξη της C# θα είναι επωφελής.
 4. Κλειδί API Model AI: Αποκτήστε ένα κλειδί API για το μοντέλο σύνοψης AI που προτιμάτε (π.χ. GPT-4), καθώς θα το χρησιμοποιήσουμε για τη δημιουργία περιλήψεων.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Βήμα 2: Φόρτωση εγγράφων για περίληψη
 
- Φορτώστε τα έγγραφα που σκοπεύετε να συνοψίσετε. Χρησιμοποιήστε το`Document` τάξη στο Aspose.Words για πρόσβαση στα αρχεία του Word:
+ Φορτώστε τα έγγραφα που σκοπεύετε να συνοψίσετε. Χρησιμοποιήστε το`Document`τάξη στο Aspose.Words για πρόσβαση στα αρχεία του Word:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- Ο`Gpt4OMini` Το μοντέλο αρχικοποιείται με το κλειδί API για την επεξεργασία της σύνοψης εγγράφων. Φροντίστε να αντικαταστήσετε`"API_KEY"`με το πραγματικό κλειδί API σας.
+ Ο`Gpt4OMini` Το μοντέλο αρχικοποιείται με το κλειδί API για την επεξεργασία της σύνοψης εγγράφων. Φροντίστε να αντικαταστήσετε`"API_KEY"` με το πραγματικό κλειδί API σας.
 
 ## Βήμα 4: Συνοψίστε ένα μεμονωμένο έγγραφο
 

@@ -17,7 +17,7 @@ A kezdéshez győződjön meg arról, hogy a következőkkel rendelkezik:
 
 1. Visual Studio: Kódoláshoz és teszteléshez szükséges. Ingyenesen letöltheti, ha még nincs telepítve.
 2. .NET Framework vagy .NET Core: Az Aspose.Words for .NET mindkettőt támogatja, ezért győződjön meg róla, hogy kompatibilis verziója van.
-3.  Aspose.Words for .NET: Töltse le és telepítse a legújabb verziót a[Az Aspose kiadási oldala](https://releases.aspose.com/words/net/).
+3. Aspose.Words for .NET: Töltse le és telepítse a legújabb verziót a[Az Aspose kiadási oldala](https://releases.aspose.com/words/net/).
 4. AI modell API-kulcs: Összegzések generálásához hozzáférés szükséges egy AI-modell API-hoz (pl. OpenAI). Az API-kulcs beszerzéséhez regisztráljon az AI-szolgáltató webhelyén.
 5. Alapvető C#-tudás: A C#-programozás némi ismerete segít a hatékony követésben.
 
@@ -39,7 +39,7 @@ Tekintsük át a konzolalkalmazás létrehozásának és konfigurálásának lé
 Az Aspose.Words funkció engedélyezéséhez adja hozzá a NuGet csomagkezelőn keresztül.
 
 1. Kattintson a jobb gombbal a projektre a Solution Explorerben, és válassza a NuGet-csomagok kezelése lehetőséget.
-2.  Keressen rá`Aspose.Words`és kattintson a Telepítés gombra.
+2.  Keressen rá`Aspose.Words` és kattintson a Telepítés gombra.
 3. Ha szükséges, telepítsen bármilyen speciális mesterséges intelligencia modellcsomagot az integrációhoz (pl. OpenAI).
 
 ```csharp

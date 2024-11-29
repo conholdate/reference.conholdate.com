@@ -16,7 +16,7 @@ Nello sviluppo .NET, gestire in modo efficiente i documenti Word è essenziale, 
 Prima di iniziare il processo di conversione, assicurati di avere quanto segue:
 
 - Ambiente di sviluppo: Visual Studio o un altro IDE .NET installato.
-- Aspose.Words per .NET: scaricalo e installalo da[Sito web di Aspose](https://releases.aspose.com/words/net/).
+-  Aspose.Words per .NET: scaricalo e installalo da[Sito web di Aspose](https://releases.aspose.com/words/net/).
 - File di documento: preparare i file DOCX che si intende convertire.
 
 ## Passaggio 1: importare gli spazi dei nomi necessari

@@ -15,11 +15,11 @@ url: /es/net/tutorials/barcode/guide-one-dimensional-barcode-types/
 
 ¿Alguna vez sintió que su código de barras no se ve bien debido a su altura? Imagine crear un código de barras que se ajuste perfectamente a la etiqueta o al empaque de su producto. Con Aspose.BarCode, puede ajustar fácilmente la altura de los códigos de barras unidimensionales para lograr un ajuste ideal. La biblioteca le brinda un control preciso, lo que garantiza que sus códigos de barras cumplan con los estándares de la industria y se puedan escanear en todo momento.  
 
- El tutorial sobre[Personalización de la altura del código de barras con Aspose.BarCode](./customizing-barcode-height/) Le guiará paso a paso a través de este proceso, desde la instalación hasta la implementación. Ya sea que esté diseñando etiquetas para comercios minoristas o etiquetas industriales, esta guía lo ayudará.  
+ El tutorial sobre[Personalización de la altura del código de barras con Aspose.BarCode](./customizing-barcode-height/)Le guiará paso a paso a través de este proceso, desde la instalación hasta la implementación. Ya sea que esté diseñando etiquetas para comercios minoristas o etiquetas industriales, esta guía lo ayudará.  
 
 ## Generación y manejo de excepciones con Aspose.BarCode para .NET  
 
-nadie le gusta que el sistema se bloquee, ¿verdad? ¡Especialmente cuando se trata de generar códigos de barras! Aspose.BarCode para .NET viene equipado con mecanismos de gestión de excepciones robustos para garantizar una generación de códigos de barras sin problemas. Ya sea que esté creando códigos para la gestión de inventario, envíos o cualquier otro propósito, gestionar los errores de manera elegante es clave para mantener la eficiencia.  
+A nadie le gusta que el sistema se bloquee, ¿verdad? ¡Especialmente cuando se trata de generar códigos de barras! Aspose.BarCode para .NET viene equipado con mecanismos de gestión de excepciones robustos para garantizar una generación de códigos de barras sin problemas. Ya sea que esté creando códigos para la gestión de inventario, envíos o cualquier otro propósito, gestionar los errores de manera elegante es clave para mantener la eficiencia.  
 
  El[Generación y manejo de excepciones](./generation-and-exception-handling/) Este tutorial explica cómo generar códigos de barras de manera eficaz y solucionar posibles problemas, como datos no válidos o tipos de códigos de barras no compatibles. Esta guía es perfecta para desarrolladores que buscan crear un flujo de generación de códigos de barras sin inconvenientes y evitar errores comunes.  
 

@@ -84,7 +84,7 @@ Console.WriteLine("Image recognition with preprocessing executed successfully.")
 
 ## Conclusão
 
-Aspose.OCR para .NET oferece funcionalidades poderosas que simplificam o processo de conversão de imagem para texto. Ao utilizar filtros de pré-processamento, você pode melhorar significativamente a qualidade dos resultados de OCR. Esta biblioteca é ideal para várias aplicações, desde digitalização de documentos até extração de texto em vários setores.
+O Aspose.OCR para .NET oferece funcionalidades poderosas que simplificam o processo de conversão de imagem para texto. Ao utilizar filtros de pré-processamento, você pode melhorar significativamente a qualidade dos resultados de OCR. Esta biblioteca é ideal para várias aplicações, desde digitalização de documentos até extração de texto em vários setores.
 
 ## Perguntas frequentes
 

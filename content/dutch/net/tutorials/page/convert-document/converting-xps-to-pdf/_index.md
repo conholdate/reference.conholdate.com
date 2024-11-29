@@ -110,8 +110,8 @@ Naast PDF ondersteunt Aspose.Page voor .NET een reeks formaten, waaronder TIFF, 
 
 ### Is er een proefversie beschikbaar voor Aspose.Page voor .NET?
 
-Ja, u kunt Aspose.Page voor .NET uitproberen met een gratis proefversie die beschikbaar is[hier](https://releases.aspose.com/).
+ Ja, u kunt Aspose.Page voor .NET uitproberen met een gratis proefversie die beschikbaar is[hier](https://releases.aspose.com/).
 
 ### Waar kan ik communityondersteuning vinden voor Aspose.Page voor .NET?
 
- Voor discussies en ondersteuning in de gemeenschap, bezoek de[Aspose.Page-forum](https://forum.aspose.com/c/page/39).
+Voor discussies en ondersteuning in de gemeenschap, bezoek de[Aspose.Page-forum](https://forum.aspose.com/c/page/39).

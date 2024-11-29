@@ -47,7 +47,7 @@ Stel uw PostScript-document in met de gewenste configuraties:
 string dataDir = "Your Document Directory"; // Stel het pad van uw documentdirectory in
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // Stel opslagopties in voor A4-formaat
+    //Stel opslagopties in voor A4-formaat
     PsSaveOptions options = new PsSaveOptions();
     
     // Maak een nieuw PostScript-document met 2 pagina's
@@ -114,4 +114,4 @@ Jazeker! Zoals in deze handleiding wordt getoond, kunt u voor elke pagina versch
  U kunt een tijdelijke licentie voor testen krijgen door naar te navigeren[deze link](https://purchase.conholdate.com/temporary-license/).
 
 ### Waar kan ik terecht voor ondersteuning vanuit de gemeenschap?  
-Sluit je aan bij de[Aspose.Page communityforum](https://forum.aspose.com/c/page/39) om contact te leggen met andere ontwikkelaars, ervaringen te delen en hulp te vragen.
+ Sluit je aan bij de[Aspose.Page communityforum](https://forum.aspose.com/c/page/39) om contact te leggen met andere ontwikkelaars, ervaringen te delen en hulp te vragen.

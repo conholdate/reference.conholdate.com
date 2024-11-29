@@ -13,7 +13,7 @@ A dokumentumfeldolgozás területén az Aspose.Words for .NET robusztus eszközk
 
 ## Kezdő lépések az AI-modellekkel
 
-Képzelje el, hogy néhány kattintással összefoglalhatja a kiterjedt dokumentumokat. Vonzóan hangzik, igaz? Kezdje utazását oktatóanyagunkkal[Dokumentumösszegzés elsajátítása AI modellekkel](./mastering-document-summarization-ai-model/). Ez az útmutató végigvezeti a mesterséges intelligencia integrálásának folyamatán, hogy az Aspose.Words használatával hatékony dokumentumösszegzést érhessen el. Gondoljon rá úgy, mint egy személyi asszisztensre, aki hatalmas mennyiségű szöveget képes átszűrni, kiemelve a kulcsfontosságú pontokat, és összegyűjti az információkat. Ez az oktatóanyag világos és tömör ütemtervet ad az AI-modellek megvalósításához, megkönnyítve a dokumentumkezelési feladatokat.
+ Képzelje el, hogy néhány kattintással összefoglalhatja a kiterjedt dokumentumokat. Vonzóan hangzik, igaz? Kezdje utazását oktatóanyagunkkal[Dokumentumösszegzés elsajátítása AI modellekkel](./mastering-document-summarization-ai-model/)Ez az útmutató végigvezeti a mesterséges intelligencia integrálásának folyamatán, hogy az Aspose.Words használatával hatékony dokumentumösszegzést érhessen el. Gondoljon rá úgy, mint egy személyi asszisztensre, aki hatalmas mennyiségű szöveget képes átszűrni, kiemelve a kulcsfontosságú pontokat, és összegyűjti az információkat. Ez az oktatóanyag világos és tömör ütemtervet ad az AI-modellek megvalósításához, megkönnyítve a dokumentumkezelési feladatokat.
 
 ## Emelje fel játékát a Google AI segítségével
 

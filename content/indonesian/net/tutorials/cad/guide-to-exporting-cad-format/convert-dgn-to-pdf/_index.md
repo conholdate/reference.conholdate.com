@@ -98,4 +98,4 @@ Tentu saja! Aspose.CAD dirancang untuk menyederhanakan tugas CAD yang rumit, seh
  Anda dapat meminta lisensi sementara[Di Sini](https://purchase.conholdate.com/temporary-license/).
 
 ### Butuh bantuan atau punya pertanyaan?  
-Bergabunglah dalam percakapan di[Forum Aspose.CAD](https://forum.aspose.com/c/cad/19) untuk dukungan dan pertanyaan komunitas.
+ Bergabunglah dalam percakapan di[Forum Aspose.CAD](https://forum.aspose.com/c/cad/19) untuk dukungan dan pertanyaan komunitas.

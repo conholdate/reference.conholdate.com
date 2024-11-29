@@ -9,7 +9,7 @@ url: /pl/net/tutorials/cad/guide-to-cad-features-and-support/mastering-dgn-file-
 ---
 ## Wstęp
 
-Czy jesteś programistą .NET, który chce zintegrować pliki DGN ze swoimi aplikacjami? Aspose.CAD dla .NET oferuje potężną bibliotekę zaprojektowaną specjalnie do pracy z formatami plików DGN. W tym samouczku zbadamy, jak wydajnie obsługiwać pliki DGN, w tym obsługiwane elementy, i jak nimi manipulować w swoich projektach .NET.
+Czy jesteś programistą .NET, który chce zintegrować pliki DGN ze swoimi aplikacjami? Aspose.CAD dla .NET oferuje potężną bibliotekę zaprojektowaną specjalnie do pracy z formatami plików DGN. W tym samouczku przyjrzymy się, jak wydajnie obsługiwać pliki DGN, w tym obsługiwane elementy, i jak nimi manipulować w projektach .NET.
 
 ## Wymagania wstępne
 
@@ -105,7 +105,7 @@ Console.WriteLine($"\nThe DGN file exported successfully to raster image.\nFile 
 
 ## Wniosek
 
-tym samouczku nauczyliśmy się, jak używać Aspose.CAD dla .NET, aby skutecznie zarządzać plikami DGN. Postępując zgodnie z opisanymi krokami, możesz bez wysiłku obsługiwać zarówno elementy 2D, jak i 3D DGN i eksportować je jako obrazy rastrowe. Ta potężna biblioteka umożliwia bezproblemową integrację przetwarzania DGN z aplikacjami .NET, zwiększając możliwości projektu.
+W tym samouczku nauczyliśmy się, jak używać Aspose.CAD dla .NET, aby skutecznie zarządzać plikami DGN. Postępując zgodnie z opisanymi krokami, możesz bez wysiłku obsługiwać zarówno elementy 2D, jak i 3D DGN i eksportować je jako obrazy rastrowe. Ta potężna biblioteka umożliwia bezproblemową integrację przetwarzania DGN z aplikacjami .NET, zwiększając możliwości projektu.
 
 ## Najczęściej zadawane pytania
 
@@ -127,4 +127,4 @@ tym samouczku nauczyliśmy się, jak używać Aspose.CAD dla .NET, aby skuteczni
 
 ### Potrzebujesz pomocy lub masz pytania?
 
- Aby uzyskać pomoc lub zadać pytania, odwiedź społeczność Aspose.CAD[forum wsparcia](https://forum.aspose.com/c/cad/19).
+Aby uzyskać pomoc lub zadać pytania, odwiedź społeczność Aspose.CAD[forum wsparcia](https://forum.aspose.com/c/cad/19).

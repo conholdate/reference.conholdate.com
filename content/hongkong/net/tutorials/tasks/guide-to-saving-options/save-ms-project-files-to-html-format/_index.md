@@ -45,7 +45,7 @@ var project = new Project("YourProjectFile.mpp");
 var options = new HtmlSaveOptions();
 ```
 
-## 第 3 步：將項目資料儲存為 HTML
+## 步驟 3：將專案資料儲存為 HTML
 
 現在，可以將項目資料儲存為 HTML 格式。指定輸出路徑代替`"OutputFilePath.html"`.
 

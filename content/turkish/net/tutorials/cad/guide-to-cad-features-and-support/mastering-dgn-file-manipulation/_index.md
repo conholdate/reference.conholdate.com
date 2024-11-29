@@ -127,4 +127,4 @@ Bu eğitimde, DGN dosyalarını etkili bir şekilde yönetmek için Aspose.CAD f
 
 ### Yardıma mı ihtiyacınız var veya sorularınız mı var?
 
- Destek almak veya soru sormak için Aspose.CAD topluluğunu ziyaret edin[destek forumu](https://forum.aspose.com/c/cad/19).
+Destek almak veya soru sormak için Aspose.CAD topluluğunu ziyaret edin[destek forumu](https://forum.aspose.com/c/cad/19).

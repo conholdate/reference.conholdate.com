@@ -91,7 +91,7 @@ foreach (ArchiveEntry e in entriesToDelete)
 }
 ```
 
-## Passaggio 4: aggiungere voci modificate al file zip esterno
+## Passaggio 4: aggiungere voci modificate al codice zip esterno
 
 Ora puoi aggiungere nuovamente le voci appena estratte al tuo file zip esterno:
 
@@ -123,7 +123,7 @@ Aspose.Zip è progettato principalmente per le applicazioni .NET, ma Aspose offr
  Sì, è disponibile una prova gratuita per il download[Qui](https://releases.aspose.com/).
 
 ### Come posso ottenere supporto per Aspose.Zip per .NET?
- Visita il[Forum di Aspose.Zip](https://forum.aspose.com/c/zip/37) per supporto e discussioni.
+ Visitare il[Forum di Aspose.Zip](https://forum.aspose.com/c/zip/37) per supporto e discussioni.
 
 ### Posso acquistare una licenza temporanea per Aspose.Zip per .NET?
  Sì, puoi ottenere una licenza temporanea[Qui](https://purchase.conholdate.com/temporary-license/).

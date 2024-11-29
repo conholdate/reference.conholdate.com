@@ -90,7 +90,7 @@ Végül győződjön meg arról, hogy a kimeneti Zip-archívum megfelelően van 
 
 ## Következtetés
 
-Zip fájlkezelés integrálása .NET-alkalmazásaiba az Aspose.TeX segítségével egyszerű folyamat. Az útmutató követésével hatékonyan fejlesztheti dokumentumfeldolgozási képességeit.
+A Zip fájlkezelés integrálása .NET-alkalmazásaiba az Aspose.TeX segítségével egyszerű folyamat. Az útmutató követésével hatékonyan fejlesztheti dokumentumfeldolgozási képességeit.
 
 ## GYIK
 

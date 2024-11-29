@@ -17,7 +17,7 @@ Stellen Sie vor dem Starten dieses Tutorials sicher, dass Folgendes vorhanden is
 
 1. Grundlegende C#- und .NET-Kenntnisse: Vertrautheit mit der Programmiersprache C# und dem .NET-Framework ist erforderlich.
    
-2.  Aspose.Note für .NET Installation: Laden Sie die Aspose.Note-Bibliothek herunter und installieren Sie sie von der[Aspose-Website](https://releases.aspose.com/note/net/).
+2. Aspose.Note für .NET Installation: Laden Sie die Aspose.Note-Bibliothek herunter und installieren Sie sie von der[Aspose-Website](https://releases.aspose.com/note/net/).
 
 3. Entwicklungsumgebung: Richten Sie eine geeignete Entwicklungsumgebung ein, beispielsweise Visual Studio.
 

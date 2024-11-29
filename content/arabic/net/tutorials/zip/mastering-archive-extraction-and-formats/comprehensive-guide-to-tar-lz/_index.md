@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // استبدل بالمسار الفعلي الخاص بك
 ```
 
-تأكد من استبدال`"YourDocumentDirectoryPath"` مع المسار الفعلي الذي توجد به ملفاتك لكي يعمل الكود بشكل صحيح.
+ تأكد من استبدال`"YourDocumentDirectoryPath"`مع المسار الفعلي الذي توجد به ملفاتك لكي يعمل الكود بشكل صحيح.
 
 ## الخطوة 2: ضغط ملف واحد
 

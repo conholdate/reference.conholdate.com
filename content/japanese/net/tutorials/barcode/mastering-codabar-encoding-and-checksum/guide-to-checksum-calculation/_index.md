@@ -65,7 +65,7 @@ gen.Save($"{path}CodabarChecksumMod10.png", BarCodeImageFormat.Png);
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; //チェックサムを有効にする
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Mod16 を設定
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Mod16 を設定
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -95,4 +95,4 @@ Codabar は、さまざまな業界で、特にラベル付けや識別の目的
 
 ### Aspose.BarCode for .NET の完全なドキュメントはどこで入手できますか?
 
- Aspose.BarCodeの包括的なドキュメントは以下にあります。[ここ](https://reference.aspose.com/barcode/net/).
+Aspose.BarCodeの包括的なドキュメントは以下にあります。[ここ](https://reference.aspose.com/barcode/net/).

@@ -65,7 +65,7 @@ gen.Save($"{path}CodabarChecksumMod10.png", BarCodeImageFormat.Png);
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // تمكين المجموع الاختباري
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //مجموعة Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // مجموعة Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 لقد نجحت الآن في إنشاء رموز شريطية Codabar بأنواع مختلفة من المجموع الاختباري باستخدام Aspose.BarCode لـ .NET. تعد هذه المجموعات الاختبارية ضرورية للحفاظ على سلامة البيانات المشفرة، وضمان دقة المعلومات القابلة للفحص وموثوقيتها.
 
- إذا كانت لديك أي أسئلة أو واجهتك مشكلات، فلا تتردد في التواصل مع المجتمع النابض بالحياة في[منتدى Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+إذا كانت لديك أي أسئلة أو واجهتك مشكلات، فلا تتردد في التواصل مع المجتمع النابض بالحياة في[منتدى Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## الأسئلة الشائعة
 
@@ -95,4 +95,4 @@ Codabar هو رمز شريطي خطي بسيط يستخدم بشكل متكرر 
 
 ### أين يمكنني العثور على الوثائق الكاملة لـ Aspose.BarCode لـ .NET؟
 
- يمكن العثور على وثائق شاملة لـ Aspose.BarCode[هنا](https://reference.aspose.com/barcode/net/).
+يمكن العثور على وثائق شاملة لـ Aspose.BarCode[هنا](https://reference.aspose.com/barcode/net/).

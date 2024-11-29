@@ -104,7 +104,7 @@ for (int i = 0; i < namesToInsert.Count; i++)
 
 ## 5. lépés: Mentse el a módosított ZIP-fájlt
 
-Végül mentse el a módosításokat egy új zip fájlba:
+Végül mentse a módosításokat egy új zip fájlba:
 
 ```csharp
 outer.Save(dataDir + "flatten.zip");

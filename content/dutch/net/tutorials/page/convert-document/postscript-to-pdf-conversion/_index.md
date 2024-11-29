@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Werk bij 
 U maakt een PDF-apparaat om de conversie te vergemakkelijken. U kunt indien nodig de paginagrootte opgeven, maar de standaardgrootte van 595x842 punten (A4) is doorgaans voldoende.
 
 ```csharp
-// De standaardpaginagrootte is 595x842 en het is niet verplicht om deze in te stellen in PdfDevice
+//De standaardpaginagrootte is 595x842 en het is niet verplicht om deze in te stellen in PdfDevice
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // Maar als u de grootte en het afbeeldingsformaat moet opgeven, gebruikt u de volgende regel
 //Aspose.Page.EPS.Device.PdfDevice apparaat = nieuw Aspose.Page.EPS.Device.PdfDevice(pdfStream, nieuw System.Drawing.Size(595, 842));

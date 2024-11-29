@@ -20,7 +20,7 @@ url: /ru/net/tutorials/words/advanced-ai-document-processing/efficient-document-
  Загрузите пакет Aspose.Words для .NET с сайта[Сайт Aspose](https://releases.aspose.com/words/net/)и установите его в свой проект с помощью диспетчера пакетов NuGet в Visual Studio.
 
 ### Получите ключ API OpenAI
- Для доступа к языковым моделям OpenAI вам понадобится ключ API. Зарегистрируйтесь на[Сайт OpenAI](https://openai.com/), получите свой ключ и сохраните его для интеграции.
+ Для доступа к языковым моделям OpenAI вам понадобится ключ API. Зарегистрируйтесь на[Сайт OpenAI](https://openai.com/)получите свой ключ и сохраните его для интеграции.
 
 ### Интегрированная среда разработки
 Использование Visual Studio в качестве IDE упростит процесс кодирования и отладки.

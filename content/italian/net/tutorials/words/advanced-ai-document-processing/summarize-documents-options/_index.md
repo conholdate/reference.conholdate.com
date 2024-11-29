@@ -15,7 +15,7 @@ Lavorare con documenti lunghi spesso implica setacciare informazioni dense per t
 
 Prima di iniziare, assicurati di avere quanto segue:
 
-1.  Aspose.Words per la libreria .NET: scaricala da[Le uscite di Aspose](https://releases.aspose.com/words/net/).
+1. Aspose.Words per la libreria .NET: scaricala da[Le uscite di Aspose](https://releases.aspose.com/words/net/).
 2. Ambiente .NET: configurare un ambiente di sviluppo .NET, come Visual Studio.
 3. Conoscenze di base del linguaggio C#: questo tutorial prevede la codifica, quindi sarà utile avere familiarità con la sintassi del linguaggio C#.
 4. Chiave API del modello AI: ottieni una chiave API per il tuo modello di riepilogo AI preferito (ad esempio, GPT-4), poiché lo utilizzeremo per generare i riepiloghi.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## Passaggio 2: caricare i documenti per il riepilogo
 
- Carica i documenti che intendi riassumere. Utilizza il`Document` classe in Aspose.Words per accedere ai file Word:
+ Carica i documenti che intendi riassumere. Utilizza il`Document`classe in Aspose.Words per accedere ai file Word:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- IL`Gpt4OMini` il modello è inizializzato con la tua chiave API per elaborare il riepilogo del documento. Assicurati di sostituire`"API_KEY"`con la tua vera chiave API.
+ IL`Gpt4OMini` il modello è inizializzato con la tua chiave API per elaborare il riepilogo del documento. Assicurati di sostituire`"API_KEY"` con la tua vera chiave API.
 
 ## Passaggio 4: Riepilogare un singolo documento
 
@@ -106,4 +106,4 @@ Aspose.Words si concentra sui formati di documenti Word come DOCX e DOC. Per la 
 No, il processo di riepilogo richiede una connessione Internet per comunicare con l'API del modello di intelligenza artificiale.
 
 ### Dove posso trovare ulteriore supporto per Aspose.Words?
- Visita il[Forum di supporto Aspose](https://forum.aspose.com/c/words/8/) per assistenza e ulteriori informazioni.
+ Visitare il[Forum di supporto Aspose](https://forum.aspose.com/c/words/8/) per assistenza e ulteriori informazioni.

@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Frissíts
 Létre kell hoznia egy PDF-eszközt az átalakítás megkönnyítése érdekében. Szükség esetén megadhatja az oldalméretet, de általában elegendő az alapértelmezett 595x842 pont (A4) méret.
 
 ```csharp
-// Az alapértelmezett oldalméret 595x842, és nem kötelező beállítani a PdfDevice-ben
+//Az alapértelmezett oldalméret 595x842, és nem kötelező beállítani a PdfDevice-ben
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // De ha meg kell adnia a méretet és a képformátumot, használja a következő sort
 //Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream, new System.Drawing.Size(595, 842));

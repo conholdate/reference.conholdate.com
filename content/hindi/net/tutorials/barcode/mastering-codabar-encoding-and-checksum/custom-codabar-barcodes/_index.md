@@ -15,7 +15,7 @@ url: /hi/net/tutorials/barcode/mastering-codabar-encoding-and-checksum/custom-co
 
 आरंभ करने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित हैं:
 
-1. विकास पर्यावरण: आपकी मशीन पर स्थापित एक कार्यशील .NET पर्यावरण। यदि आपको सहायता की आवश्यकता है, तो देखें[Aspose दस्तावेज़ीकरण](https://reference.aspose.com/barcode/net/).
+1.  विकास पर्यावरण: आपकी मशीन पर स्थापित एक कार्यशील .NET पर्यावरण। यदि आपको सहायता की आवश्यकता है, तो देखें[Aspose दस्तावेज़ीकरण](https://reference.aspose.com/barcode/net/).
    
 2.  .NET लाइब्रेरी के लिए Aspose.BarCode: लाइब्रेरी को डाउनलोड करें और इंस्टॉल करें[Aspose रिलीज़ पेज](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## चरण 1: बारकोड जनरेटर को प्रारंभ करें
 
- इसका एक उदाहरण बनाकर शुरू करें`BarcodeGenerator`, बारकोड प्रकार को कोडाबार और एनकोड किए जाने वाले डेटा को निर्दिष्ट करना। यहाँ एक उदाहरण दिया गया है:
+ इसका एक उदाहरण बनाकर शुरू करें`BarcodeGenerator`बारकोड प्रकार को कोडाबार और एनकोड किए जाने वाले डेटा को निर्दिष्ट करना। यहाँ एक उदाहरण दिया गया है:
 
 ```csharp
 string path = "Your Directory Path"; // अपनी निर्देशिका यहाँ निर्दिष्ट करें

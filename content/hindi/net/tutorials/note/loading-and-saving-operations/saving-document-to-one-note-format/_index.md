@@ -17,7 +17,7 @@ Aspose.Note उन डेवलपर्स के लिए एक मजबू
 
 1. बुनियादी C# और .NET ज्ञान: C# प्रोग्रामिंग भाषा और .NET फ्रेमवर्क से परिचित होना आवश्यक है।
    
-2.  .NET स्थापना के लिए Aspose.Note: Aspose.Note लाइब्रेरी को डाउनलोड करें और इंस्टॉल करें[Aspose वेबसाइट](https://releases.aspose.com/note/net/).
+2. .NET स्थापना के लिए Aspose.Note: Aspose.Note लाइब्रेरी को डाउनलोड करें और इंस्टॉल करें[Aspose वेबसाइट](https://releases.aspose.com/note/net/).
 
 3. विकास परिवेश: उपयुक्त विकास परिवेश स्थापित करें, जैसे कि Visual Studio.
 

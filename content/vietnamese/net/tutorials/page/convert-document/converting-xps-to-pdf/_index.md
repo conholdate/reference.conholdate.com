@@ -110,8 +110,8 @@ Ngoài PDF, Aspose.Page for .NET còn hỗ trợ nhiều định dạng khác nh
 
 ### Có phiên bản dùng thử nào của Aspose.Page dành cho .NET không?
 
-Có, bạn có thể dùng thử Aspose.Page cho .NET với bản dùng thử miễn phí[đây](https://releases.aspose.com/).
+ Có, bạn có thể dùng thử Aspose.Page cho .NET với bản dùng thử miễn phí[đây](https://releases.aspose.com/).
 
 ### Tôi có thể tìm thấy sự hỗ trợ của cộng đồng cho Aspose.Page dành cho .NET ở đâu?
 
- Để thảo luận và hỗ trợ cộng đồng, hãy truy cập[Diễn đàn Aspose.Page](https://forum.aspose.com/c/page/39).
+Để thảo luận và hỗ trợ cộng đồng, hãy truy cập[Diễn đàn Aspose.Page](https://forum.aspose.com/c/page/39).

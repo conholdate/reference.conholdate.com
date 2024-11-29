@@ -9,7 +9,7 @@ url: /vi/net/tutorials/tex/file-input-and-output/
 ---
 ## Giới thiệu
 
-Aspose.TeX for .NET là một thư viện mạnh mẽ giúp đơn giản hóa việc xử lý các tài liệu LaTeX. Nếu bạn đang dấn thân vào thế giới xử lý tài liệu, có thể bạn sẽ muốn tìm hiểu các thao tác nhập và xuất tệp (I/O). Hãy cùng khám phá sâu hơn với một số hướng dẫn thực hành sẽ hướng dẫn bạn những điều cơ bản khi làm việc với Aspose.TeX.
+Aspose.TeX for .NET là một thư viện mạnh mẽ giúp đơn giản hóa việc xử lý các tài liệu LaTeX. Nếu bạn đang dấn thân vào thế giới xử lý tài liệu, có thể bạn sẽ muốn tìm hiểu các thao tác nhập và xuất tệp (I/O). Hãy cùng khám phá thêm với một số hướng dẫn thực hành sẽ hướng dẫn bạn những điều cơ bản khi làm việc với Aspose.TeX.
 
 ## Xử lý hệ thống tập tin và đầu ra XPS
 

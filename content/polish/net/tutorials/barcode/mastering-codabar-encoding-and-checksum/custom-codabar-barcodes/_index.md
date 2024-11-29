@@ -15,7 +15,7 @@ Witamy w tym przewodniku krok po kroku dotyczącym korzystania z Aspose.BarCode 
 
 Zanim zaczniemy, upewnij się, że masz następujące rzeczy:
 
-1. Środowisko programistyczne: działające środowisko .NET skonfigurowane na Twoim komputerze. Jeśli potrzebujesz pomocy, zapoznaj się z[Dokumentacja Aspose](https://reference.aspose.com/barcode/net/).
+1.  Środowisko programistyczne: działające środowisko .NET skonfigurowane na Twoim komputerze. Jeśli potrzebujesz pomocy, zapoznaj się z[Dokumentacja Aspose](https://reference.aspose.com/barcode/net/).
    
 2.  Biblioteka Aspose.BarCode dla .NET: Pobierz i zainstaluj bibliotekę z[Strona wydań Aspose](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## Krok 1: Zainicjuj generator kodów kreskowych
 
- Zacznij od utworzenia instancji`BarcodeGenerator`, określając typ kodu kreskowego jako Codabar i dane do zakodowania. Oto przykład:
+ Zacznij od utworzenia instancji`BarcodeGenerator`określając typ kodu kreskowego jako Codabar i dane do zakodowania. Oto przykład:
 
 ```csharp
 string path = "Your Directory Path"; // Podaj tutaj swój katalog

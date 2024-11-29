@@ -15,7 +15,7 @@ Việc cải thiện bài thuyết trình của bạn bằng các hình ảnh đ
 Trước khi bắt đầu hướng dẫn, hãy đảm bảo bạn có những điều sau:
 
 1.  Aspose.Slides cho Thư viện .NET: Tải xuống và cài đặt thư viện từ[Trang tải xuống Aspose](https://releases.aspose.com/slides/net/).
-2.  Thư mục tài liệu: Tạo một thư mục để lưu trữ các tập tin trình bày của bạn. Cập nhật`dataDir` biến trong đoạn mã có đường dẫn đến thư mục tài liệu của bạn.
+2. Thư mục tài liệu: Tạo một thư mục để lưu trữ các tập tin trình bày của bạn. Cập nhật`dataDir` biến trong đoạn mã có đường dẫn đến thư mục tài liệu của bạn.
 
 ## Nhập không gian tên
 
@@ -33,7 +33,7 @@ using Aspose.Slides.SlideShow;
 ```csharp
 using (Presentation pres = new Presentation(dataDir + "BetterSlideTransitions.pptx"))
 {
-    //Mã cho hoạt ảnh slide ở đây
+    // Mã cho hoạt ảnh slide ở đây
 }
 ```
 
@@ -85,7 +85,7 @@ Hoạt hình hóa các slide trong bài thuyết trình của bạn sẽ thêm n
 
 ### Tôi có thể tùy chỉnh thêm hiệu ứng chuyển tiếp không?
 
-Chắc chắn rồi! Aspose.Slides cung cấp nhiều loại chuyển tiếp và các thuộc tính bổ sung để tùy chỉnh. Để biết thêm chi tiết, hãy tham khảo[tài liệu](https://reference.aspose.com/slides/net/).
+ Chắc chắn rồi! Aspose.Slides cung cấp nhiều loại chuyển tiếp và các thuộc tính bổ sung để tùy chỉnh. Để biết thêm chi tiết, hãy tham khảo[tài liệu](https://reference.aspose.com/slides/net/).
 
 ### Có bản dùng thử miễn phí không?
 

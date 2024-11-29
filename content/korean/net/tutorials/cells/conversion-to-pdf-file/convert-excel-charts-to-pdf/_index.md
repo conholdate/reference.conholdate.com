@@ -17,7 +17,7 @@ url: /ko/net/tutorials/cells/conversion-to-pdf-file/convert-excel-charts-to-pdf/
 .NET Framework 또는 .NET Core가 설치되어 있는지 확인하세요. 이 환경은 모두 Aspose.Cells와 호환되므로 프로젝트에 가장 적합한 것을 사용할 수 있습니다.
 
 ### Aspose.Cells 라이브러리 설치
-Aspose.Cells 라이브러리는 차트에서 PDF로 변환하는 데 필수적입니다. 최신 버전을 받으세요.[Aspose 다운로드 페이지](https://releases.aspose.com/cells/net/).
+ Aspose.Cells 라이브러리는 차트에서 PDF로 변환하는 데 필수적입니다. 최신 버전을 받으세요.[Aspose 다운로드 페이지](https://releases.aspose.com/cells/net/).
 
 ### 기본 C# 지식
 C#에 대한 기본적인 이해가 있으면 코딩 과정이 더 쉬워질 것입니다. 초보자라도 걱정하지 마세요. 이 가이드에는 따라하기 쉬운 코드 예제가 포함되어 있습니다.
@@ -82,7 +82,7 @@ Worksheet worksheet = workbook.Worksheets[0];
 다음으로, 선택한 워크시트에서 변환하려는 특정 차트에 액세스합니다.
 
 ```csharp
-//워크시트의 첫 번째 차트에 액세스하세요
+// 워크시트의 첫 번째 차트에 액세스하세요
 Chart chart = worksheet.Charts[0];
 ```
 

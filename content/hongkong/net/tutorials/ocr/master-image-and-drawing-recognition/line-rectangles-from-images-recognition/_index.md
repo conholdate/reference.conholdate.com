@@ -88,7 +88,7 @@ lines.ForEach(a => Console.WriteLine($"x:{a.X} y:{a.Y} width:{a.Width} height:{a
 
 ## 常見問題解答
 
-### 我可以將 Aspose.OCR for .NET 與任何類型的映像一起使用嗎？
+### 我可以將 Aspose.OCR for .NET 與任何類型的圖片一起使用嗎？
 
 是的，Aspose.OCR 支援各種圖像格式，為您的 OCR 應用程式提供靈活性。
 

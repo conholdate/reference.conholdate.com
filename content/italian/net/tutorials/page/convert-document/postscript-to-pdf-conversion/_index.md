@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Aggiorna 
 Creerai un dispositivo PDF per facilitare la conversione. Puoi specificare la dimensione della pagina se necessario, ma la dimensione predefinita di 595x842 punti (A4) è in genere sufficiente.
 
 ```csharp
-// La dimensione predefinita della pagina è 595x842 e non è obbligatorio impostarla in PdfDevice
+//La dimensione predefinita della pagina è 595x842 e non è obbligatorio impostarla in PdfDevice
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // Ma se hai bisogno di specificare la dimensione e il formato dell'immagine usa la seguente riga
 //Il dispositivo Aspose.Page.EPS.Device.PdfDevice è il nuovo dispositivo Aspose.Page.EPS.Device.PdfDevice(pdfStream, nuovo System.Drawing.Size(595, 842));

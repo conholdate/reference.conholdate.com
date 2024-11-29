@@ -15,7 +15,7 @@ Bạn có muốn chuyển đổi bố cục CAD sang định dạng hình ảnh 
 
 Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
 
--  Thư viện Aspose.CAD cho .NET: Tải xuống và cài đặt thư viện từ[Trang web Aspose.CAD](https://releases.aspose.com/cad/net/).
+- Thư viện Aspose.CAD cho .NET: Tải xuống và cài đặt thư viện từ[Trang web Aspose.CAD](https://releases.aspose.com/cad/net/).
 -  Tệp bản vẽ CAD: Có tệp bản vẽ CAD của bạn (ví dụ:`conic_pyramid.dxf`) sẵn sàng để chuyển đổi.
 
 ## Nhập không gian tên bắt buộc

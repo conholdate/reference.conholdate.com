@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Yazı tip
 Dönüştürmeyi kolaylaştırmak için bir PDF aygıtı oluşturacaksınız. Gerekirse sayfa boyutunu belirtebilirsiniz, ancak varsayılan 595x842 nokta (A4) boyutu genellikle yeterlidir.
 
 ```csharp
-// Varsayılan sayfa boyutu 595x842'dir ve bunu PdfDevice'da ayarlamak zorunlu değildir
+//Varsayılan sayfa boyutu 595x842'dir ve bunu PdfDevice'da ayarlamak zorunlu değildir
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // Ancak boyut ve resim formatını belirtmeniz gerekiyorsa aşağıdaki satırı kullanın
 //Aspose.Page.EPS.Device.PdfDevice cihazı = yeni Aspose.Page.EPS.Device.PdfDevice(pdfStream, yeni System.Drawing.Size(595, 842));

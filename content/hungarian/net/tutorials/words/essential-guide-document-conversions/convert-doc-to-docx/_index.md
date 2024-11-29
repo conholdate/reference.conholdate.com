@@ -26,7 +26,7 @@ Az Aspose.Words használatának megkezdéséhez importálnia kell a szükséges 
 using Aspose.Words;
 ```
 
-telepítés befejeztével menjünk végig minden lépésen a DOC fájl DOCX formátumba konvertálásához.
+A telepítés befejeztével menjünk végig minden lépésen a DOC fájl DOCX formátumba konvertálásához.
 
 ## 1. lépés: Töltse be a DOC-dokumentumot
 
@@ -51,7 +51,7 @@ doc.Save(dataDir + "ConvertedDocument.docx", SaveFormat.Docx);
 
 ## Következtetés
 
-A DOC fájlok DOCX formátumba konvertálása az Aspose.Words for .NET használatával egyszerű folyamat, amely minimális kóddal is elvégezhető. Az Aspose.Words széleskörű funkcionalitást kínál, lehetővé téve a DOC-DOCX konverziók automatizálását, a kötegelt konverziók kezelését és a kimeneti beállítások testreszabását. Akár vállalati alkalmazásba integrálja, akár egyszeri konverziót hajt végre, az Aspose.Words könnyedén biztosít kiváló minőségű eredményeket.
+DOC fájlok DOCX formátumba konvertálása az Aspose.Words for .NET használatával egyszerű folyamat, amely minimális kóddal is elvégezhető. Az Aspose.Words széleskörű funkcionalitást kínál, lehetővé téve a DOC-DOCX konverziók automatizálását, a kötegelt konverziók kezelését és a kimeneti beállítások testreszabását. Akár vállalati alkalmazásba integrálja, akár egyszeri konverziót hajt végre, az Aspose.Words könnyedén biztosít kiváló minőségű eredményeket.
 
 ## GYIK
 

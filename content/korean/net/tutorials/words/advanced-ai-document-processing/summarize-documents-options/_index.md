@@ -15,7 +15,7 @@ url: /ko/net/tutorials/words/advanced-ai-document-processing/summarize-documents
 
 시작하기 전에 다음 사항이 있는지 확인하세요.
 
-1.  Aspose.Words for .NET 라이브러리: 여기에서 다운로드하세요.[Aspose의 출시](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET 라이브러리: 여기에서 다운로드하세요.[Aspose의 출시](https://releases.aspose.com/words/net/).
 2. .NET 환경: Visual Studio와 같은 .NET 개발 환경을 설정합니다.
 3. 기본 C# 지식: 이 튜토리얼에는 코딩이 포함되므로 C# 구문에 익숙하면 도움이 됩니다.
 4. AI 모델 API 키: 선호하는 AI 요약 모델(예: GPT-4)에 대한 API 키를 얻으세요. 이 키는 요약을 생성하는 데 사용됩니다.
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## 2단계: 요약을 위한 문서 로드
 
- 요약할 문서를 로드합니다.`Document` Aspose.Words의 클래스를 사용하여 Word 파일에 액세스합니다.
+ 요약할 문서를 로드합니다.`Document`Aspose.Words의 클래스를 사용하여 Word 파일에 액세스합니다.
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
- 그만큼`Gpt4OMini` 모델은 문서 요약을 처리하기 위해 API 키로 초기화됩니다. 다음을 반드시 교체하세요.`"API_KEY"`실제 API 키로.
+ 그만큼`Gpt4OMini` 모델은 문서 요약을 처리하기 위해 API 키로 초기화됩니다. 다음을 반드시 교체하세요.`"API_KEY"` 실제 API 키로.
 
 ## 4단계: 단일 문서 요약
 

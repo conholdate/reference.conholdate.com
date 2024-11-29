@@ -17,7 +17,7 @@ url: /zh-hant/net/tutorials/words/advanced-ai-document-processing/mastering-docu
 
 1. Visual Studio：編碼和測試所需。如果您尚未安裝，可以免費下載。
 2. .NET Framework 或 .NET Core：Aspose.Words for .NET 支援兩者，因此請確保您擁有相容的版本。
-3.  Aspose.Words for .NET：從以下位置下載並安裝最新版本[Aspose 發佈頁面](https://releases.aspose.com/words/net/).
+3. Aspose.Words for .NET：從以下位置下載並安裝最新版本[Aspose 發佈頁面](https://releases.aspose.com/words/net/).
 4. AI 模型 API 金鑰：要產生摘要，需要存取 AI 模型 API（例如 OpenAI）。在 AI 提供者的網站上註冊以取得 API 金鑰。
 5. 基本 C# 知識：對 C# 程式設計有一定的了解將有助於您有效地遵循。
 
@@ -55,7 +55,7 @@ using Aspose.Words.AI;
 
 ## 第 1 步：定義文檔目錄
 
-指定用於儲存輸入文件和保存匯總輸出的目錄。
+指定用於儲存輸入文件和保存總計輸出的目錄。
 
 ```csharp
 //定義文件和輸出目錄

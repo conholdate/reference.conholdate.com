@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // अपन
 रूपांतरण को सुविधाजनक बनाने के लिए आप एक पीडीएफ डिवाइस बनाएंगे। यदि आवश्यक हो तो आप पृष्ठ का आकार निर्दिष्ट कर सकते हैं, लेकिन 595x842 पॉइंट (A4) का डिफ़ॉल्ट आकार आमतौर पर पर्याप्त होता है।
 
 ```csharp
-// डिफ़ॉल्ट पृष्ठ आकार 595x842 है और इसे PdfDevice में सेट करना अनिवार्य नहीं है
+//डिफ़ॉल्ट पृष्ठ आकार 595x842 है और इसे PdfDevice में सेट करना अनिवार्य नहीं है
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // लेकिन यदि आपको आकार और छवि प्रारूप निर्दिष्ट करने की आवश्यकता है तो निम्न पंक्ति का उपयोग करें
 //Aspose.Page.EPS.Device.PdfDevice डिवाइस = नया Aspose.Page.EPS.Device.PdfDevice(pdfStream, नया System.Drawing.Size(595, 842));

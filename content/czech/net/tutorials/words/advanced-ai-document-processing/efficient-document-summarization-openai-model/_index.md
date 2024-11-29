@@ -20,7 +20,7 @@ Ujistěte se, že máte kompatibilní verzi rozhraní .NET Framework. Tento tuto
  Stáhněte si balíček Aspose.Words for .NET z[Aspose webové stránky](https://releases.aspose.com/words/net/)a nainstalujte jej do svého projektu pomocí NuGet Package Manager v sadě Visual Studio.
 
 ### Získejte OpenAI API Key
- Pro přístup k jazykovým modelům OpenAI budete potřebovat API klíč. Zaregistrujte se na[Web OpenAI](https://openai.com/), získejte svůj klíč a uschovejte jej pro integraci.
+ Pro přístup k jazykovým modelům OpenAI budete potřebovat API klíč. Zaregistrujte se na[Web OpenAI](https://openai.com/)získejte svůj klíč a uschovejte jej pro integraci.
 
 ### Integrované vývojové prostředí
 Použití Visual Studia jako vašeho IDE zjednoduší proces kódování a ladění.

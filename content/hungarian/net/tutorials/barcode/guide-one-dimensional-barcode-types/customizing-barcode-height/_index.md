@@ -9,7 +9,7 @@ url: /hu/net/tutorials/barcode/guide-one-dimensional-barcode-types/customizing-b
 ---
 ## Bevezetés
 
-vonalkód generálást igénylő .NET-alkalmazások készítésekor – például készletkezeléshez vagy kiskereskedelemhez – kulcsfontosságú lehet a vonalkód tulajdonságainak pontos ellenőrzése. Az Aspose.BarCode for .NET egy robusztus eszközkészlet, amely lehetővé teszi a vonalkódok egyszerű testreszabását, beleértve a magasság beállításának lehetőségét is. Ebben az útmutatóban lépésről lépésre bemutatjuk az egydimenziós vonalkód magasságának módosítását az Aspose.BarCode segítségével.
+A vonalkód generálást igénylő .NET-alkalmazások készítésekor – például készletkezeléshez vagy kiskereskedelemhez – kulcsfontosságú lehet a vonalkód tulajdonságainak pontos ellenőrzése. Az Aspose.BarCode for .NET egy robusztus eszközkészlet, amely lehetővé teszi a vonalkódok egyszerű testreszabását, beleértve a magasság beállításának lehetőségét is. Ebben az útmutatóban lépésről lépésre bemutatjuk az egydimenziós vonalkód magasságának módosítását az Aspose.BarCode segítségével.
 
 ## Előfeltételek
 

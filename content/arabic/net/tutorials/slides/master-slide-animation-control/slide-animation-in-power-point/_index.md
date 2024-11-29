@@ -15,7 +15,7 @@ url: /ar/net/tutorials/slides/master-slide-animation-control/slide-animation-in-
 قبل أن نتعمق في البرنامج التعليمي، تأكد من أن لديك ما يلي:
 
 1.  Aspose.Slides لمكتبة .NET: قم بتنزيل المكتبة وتثبيتها من[صفحة تحميل برنامج Aspose](https://releases.aspose.com/slides/net/).
-2.  دليل المستندات: قم بإنشاء دليل لتخزين ملفات العرض التقديمي. قم بتحديث`dataDir` متغير في مقتطفات التعليمات البرمجية مع المسار إلى دليل المستند الخاص بك.
+2. دليل المستندات: قم بإنشاء دليل لتخزين ملفات العرض التقديمي. قم بتحديث`dataDir` متغير في مقتطفات التعليمات البرمجية مع المسار إلى دليل المستند الخاص بك.
 
 ## استيراد مساحات الأسماء
 
@@ -33,7 +33,7 @@ using Aspose.Slides.SlideShow;
 ```csharp
 using (Presentation pres = new Presentation(dataDir + "BetterSlideTransitions.pptx"))
 {
-    //يظهر هنا رمز الرسوم المتحركة للشرائح
+    // يظهر هنا رمز الرسوم المتحركة للشرائح
 }
 ```
 
@@ -85,7 +85,7 @@ pres.Save(dataDir + "SampleTransition_out.pptx", SaveFormat.Pptx);
 
 ### هل يمكنني تخصيص تأثيرات الانتقال بشكل أكبر؟
 
-بالتأكيد! يوفر Aspose.Slides مجموعة واسعة من أنواع الانتقالات والخصائص الإضافية للتخصيص. لمزيد من التفاصيل، راجع[التوثيق](https://reference.aspose.com/slides/net/).
+ بالتأكيد! يوفر Aspose.Slides مجموعة واسعة من أنواع الانتقالات والخصائص الإضافية للتخصيص. لمزيد من التفاصيل، راجع[التوثيق](https://reference.aspose.com/slides/net/).
 
 ### هل هناك نسخة تجريبية مجانية متاحة؟
 

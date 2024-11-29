@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // Gerçek yolunuzla değiştirin
 ```
 
-Değiştirdiğinizden emin olun`"YourDocumentDirectoryPath"` Kodun doğru çalışması için dosyalarınızın bulunduğu gerçek yolu belirtin.
+ Değiştirdiğinizden emin olun`"YourDocumentDirectoryPath"`Kodun doğru çalışması için dosyalarınızın bulunduğu gerçek yolu belirtin.
 
 ## Adım 2: Tek Bir Dosyayı Sıkıştırma
 

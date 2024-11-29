@@ -47,7 +47,7 @@ using System.IO;
 string dataDir = "Your Document Directory"; // 문서 디렉토리 경로를 설정하세요
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // A4 크기에 대한 저장 옵션 설정
+    //A4 크기에 대한 저장 옵션 설정
     PsSaveOptions options = new PsSaveOptions();
     
     // 2페이지로 된 새 PostScript 문서를 만듭니다.
@@ -114,4 +114,4 @@ Aspose.Page는 PostScript 문서를 전문으로 합니다. 다른 형식에 대
  테스트를 위한 임시 라이센스를 얻으려면 다음으로 이동하세요.[이 링크](https://purchase.conholdate.com/temporary-license/).
 
 ### 지역사회 지원을 어디서 구할 수 있나요?  
-참여하세요[Aspose.Page 커뮤니티 포럼](https://forum.aspose.com/c/page/39) 다른 개발자와 소통하고, 경험을 공유하고, 도움을 구하세요.
+ 참여하세요[Aspose.Page 커뮤니티 포럼](https://forum.aspose.com/c/page/39) 다른 개발자와 소통하고, 경험을 공유하고, 도움을 구하세요.

@@ -81,7 +81,7 @@ Níže jsou uvedeny odkazy na některé užitečné zdroje, které můžete pot�
 
 **Welcome to the GroupDocs.Editor for .NET**
 
-GroupDocs.Editor for .NET je výkonné API pro úpravu dokumentů pomocí HTML. API lze použít s jakýmkoli externím, opensource nebo placeným HTML editorem. Editor API zpracuje načtení dokumentů, jejich převod do HTML, poskytnutí HTML externímu uživatelskému rozhraní a poté uložení HTML do původního dokumentu po manipulaci. Může být také použit ke generování různých dokumentů Microsoft Word, XML, OpenDocument Formats a TXT souborů.
+GroupDocs.Editor for .NET je výkonné API pro úpravu dokumentů pomocí HTML. API lze použít s jakýmkoli externím, opensource nebo placeným HTML editorem. Editor API zpracuje načtení dokumentů, převede je do HTML, poskytne HTML externímu uživatelskému rozhraní a poté po manipulaci uloží HTML do původního dokumentu. Může být také použit ke generování různých dokumentů Microsoft Word, XML, OpenDocument Formats a TXT souborů.
 
 {{% /alert %}} 
 ## **GroupDocs.Editor for .NET**

@@ -35,7 +35,7 @@ Nachfolgend finden Sie die detaillierte Schritt-für-Schritt-Implementierung.
 
 ## Schritt 1: Erstellen Sie ein neues OneNote-Dokument
 
- Initialisieren Sie ein neues OneNote-Dokument mit dem`Document`Klasse.
+ Initialisieren Sie ein neues OneNote-Dokument mit dem`Document` Klasse.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ Aspose.Note unterstützt die Formate JPEG, PNG, BMP und GIF für Anhangssymbole.
 Aspose.Note legt keine explizite Größenbeschränkung fest, Sie sollten jedoch sicherstellen, dass Ihre Systemressourcen große Dateien verarbeiten können.
 
 ### Kann die Größe von Symbolen vor dem Festlegen geändert werden?
- Ja, Sie können das Symbolbild mit .NET bearbeiten.`System.Drawing` Bibliothek, bevor Sie sie anhängen.
+Ja, Sie können das Symbolbild mit .NET bearbeiten.`System.Drawing` Bibliothek, bevor Sie sie anhängen.
 
  Weitere Hilfe finden Sie im[Dokumentation](https://reference.aspose.com/words/net/) oder wenden Sie sich an[Aspose-Unterstützung](https://forum.aspose.com/c/words/8).

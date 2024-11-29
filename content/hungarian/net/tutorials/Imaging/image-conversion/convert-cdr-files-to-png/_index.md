@@ -15,7 +15,7 @@ Hatékony és hatékony módszert keres a CorelDRAW (CDR) fájlok PNG formátumb
 
 Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik a következő előfeltételekkel:
 
-1.  Aspose.Imaging for .NET: Töltse le és telepítse az Aspose.Imaging for .NET webhelyről[weboldal](https://releases.aspose.com/imaging/net/). Igényei szerint választhat az ingyenes próbaverzió vagy a megvásárolt verzió között.
+1.  Aspose.Imaging for .NET: Töltse le és telepítse az Aspose.Imaging for .NET webhelyről[weboldal](https://releases.aspose.com/imaging/net/)Igényei szerint választhat az ingyenes próbaverzió vagy a megvásárolt verzió között.
 
 2. C# fejlesztői környezet: Állítson be egy C# fejlesztői környezetet a rendszeren, például a Visual Studio-t vagy bármely preferált kódszerkesztőt.
 

@@ -105,7 +105,7 @@ Console.WriteLine($"\nThe DGN file exported successfully to raster image.\nFile 
 
 ## Závěr
 
-tomto tutoriálu jsme se naučili, jak používat Aspose.CAD pro .NET k efektivní správě souborů DGN. Podle nastíněných kroků můžete bez námahy pracovat s 2D i 3D prvky DGN a exportovat je jako rastrové obrázky. Tato výkonná knihovna umožňuje bezproblémovou integraci zpracování DGN do vašich aplikací .NET a rozšiřuje možnosti vašeho projektu.
+V tomto tutoriálu jsme se naučili, jak používat Aspose.CAD pro .NET k efektivní správě souborů DGN. Podle nastíněných kroků můžete bez námahy pracovat s 2D i 3D prvky DGN a exportovat je jako rastrové obrázky. Tato výkonná knihovna umožňuje bezproblémovou integraci zpracování DGN do vašich aplikací .NET a rozšiřuje možnosti vašeho projektu.
 
 ## FAQ
 
@@ -127,4 +127,4 @@ tomto tutoriálu jsme se naučili, jak používat Aspose.CAD pro .NET k efektivn
 
 ### Potřebujete pomoc nebo máte otázky?
 
- Pro podporu nebo pro dotazy navštivte komunitu Aspose.CAD[fórum podpory](https://forum.aspose.com/c/cad/19).
+Pro podporu nebo pro dotazy navštivte komunitu Aspose.CAD[fórum podpory](https://forum.aspose.com/c/cad/19).

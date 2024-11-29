@@ -38,13 +38,13 @@ Sekarang, mari kita uraikan implementasinya menjadi langkah-langkah yang jelas u
 
 ## Langkah 1: Muat Email
 
- Pertama, Anda perlu memuat email yang ingin Anda analisis. Ini dilakukan dengan menggunakan`MailMessage`kelas di pustaka Aspose.Email. 
+ Pertama, Anda perlu memuat email yang ingin Anda analisis. Ini dilakukan dengan menggunakan`MailMessage` kelas di pustaka Aspose.Email. 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- Itu`Load` metode ini mengambil jalur berkas email yang ingin Anda analisis. Berkas ini harus dalam format EML. Jika Anda tidak memilikinya, silakan buat email sederhana dan simpan sebagai`email.eml`.
+ Itu`Load`metode ini mengambil jalur berkas email yang ingin Anda analisis. Berkas ini harus dalam format EML. Jika Anda tidak memilikinya, silakan buat email sederhana dan simpan sebagai`email.eml`.
 
 ## Langkah 2: Buat Penganalisis Spam
 

@@ -65,7 +65,7 @@ Na koniec utwórzmy kod kreskowy Codabar wykorzystujący sumę kontrolną Mod16,
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Włącz sumę kontrolną
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //Ustaw Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // Ustaw Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 Udało Ci się wygenerować kody kreskowe Codabar z różnymi typami sum kontrolnych przy użyciu Aspose.BarCode dla .NET. Sumy kontrolne są niezbędne do zachowania integralności zakodowanych danych, zapewniając, że skanowalne informacje są zarówno dokładne, jak i niezawodne.
 
- Jeśli masz jakiekolwiek pytania lub napotkasz problemy, nie wahaj się skontaktować z naszą aktywną społecznością[Forum Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+Jeśli masz jakiekolwiek pytania lub napotkasz problemy, nie wahaj się skontaktować z naszą aktywną społecznością[Forum Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## Najczęściej zadawane pytania
 
@@ -95,4 +95,4 @@ Oczywiście! Aspose.BarCode dla .NET jest zaprojektowany tak, aby był wszechstr
 
 ### Gdzie mogę znaleźć pełną dokumentację Aspose.BarCode dla .NET?
 
- Pełną dokumentację Aspose.BarCode można znaleźć[Tutaj](https://reference.aspose.com/barcode/net/).
+Pełną dokumentację Aspose.BarCode można znaleźć[Tutaj](https://reference.aspose.com/barcode/net/).

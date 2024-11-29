@@ -13,7 +13,7 @@ Op het gebied van documentverwerking onderscheidt Aspose.Words voor .NET zich al
 
 ## Aan de slag met AI-modellen
 
-Stel je voor dat je uitgebreide documenten kunt samenvatten met slechts een paar klikken. Klinkt aantrekkelijk, toch? Begin je reis met onze tutorial over[Het onder de knie krijgen van het samenvatten van documenten met AI-modellen](./mastering-document-summarization-ai-model/). Deze gids leidt u door het proces van het integreren van AI om effectieve documentsamenvattingen te bereiken met Aspose.Words. Zie het als een persoonlijke assistent die door grote hoeveelheden tekst kan spitten, de belangrijkste punten kan markeren en de informatie voor u kan condenseren. Deze tutorial biedt een duidelijke en beknopte routekaart voor het implementeren van AI-modellen, waardoor uw documentbeheertaken een fluitje van een cent worden.
+ Stel je voor dat je uitgebreide documenten kunt samenvatten met slechts een paar klikken. Klinkt aantrekkelijk, toch? Begin je reis met onze tutorial over[Het onder de knie krijgen van het samenvatten van documenten met AI-modellen](./mastering-document-summarization-ai-model/)Deze gids leidt u door het proces van het integreren van AI om effectieve documentsamenvattingen te bereiken met Aspose.Words. Zie het als een persoonlijke assistent die door grote hoeveelheden tekst kan spitten, de belangrijkste punten kan markeren en de informatie voor u kan condenseren. Deze tutorial biedt een duidelijke en beknopte routekaart voor het implementeren van AI-modellen, waardoor uw documentbeheertaken een fluitje van een cent worden.
 
 ## Verbeter uw spel met Google AI
 

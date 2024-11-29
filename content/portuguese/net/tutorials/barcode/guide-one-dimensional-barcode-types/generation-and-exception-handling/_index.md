@@ -84,7 +84,7 @@ catch (Exception e)
 
 ## Conclusão
 
-tratamento eficaz de exceções é crucial para criar aplicativos confiáveis de geração de código de barras. Ao utilizar o Aspose.BarCode para .NET, você pode gerenciar códigos de barras unidimensionais com confiança, garantindo que seu aplicativo lide com cenários inesperados com elegância. Esta biblioteca poderosa simplifica o processo de geração de código de barras, permitindo que você se concentre em fornecer soluções robustas.
+O tratamento eficaz de exceções é crucial para criar aplicativos confiáveis de geração de código de barras. Ao utilizar o Aspose.BarCode para .NET, você pode gerenciar códigos de barras unidimensionais com confiança, garantindo que seu aplicativo lide com cenários inesperados com elegância. Esta biblioteca poderosa simplifica o processo de geração de código de barras, permitindo que você se concentre em fornecer soluções robustas.
 
 ## Perguntas frequentes
 
@@ -98,7 +98,7 @@ Aspose.BarCode para .NET é uma biblioteca abrangente que permite aos desenvolve
  Sim! Você pode baixar a versão de teste do Aspose.BarCode para .NET[aqui](https://releases.aspose.com/barcode/net/).
 
 ### Como posso comprar uma licença para Aspose.BarCode para .NET?
-Visite a página de compra[aqui](https://purchase.conholdate.com/buy) para adquirir uma licença para Aspose.BarCode para .NET.
+ Visite a página de compra[aqui](https://purchase.conholdate.com/buy) para adquirir uma licença para Aspose.BarCode para .NET.
 
 ### Onde posso buscar ajuda e suporte para o Aspose.BarCode para .NET?
  Para obter assistência, visite o fórum de suporte do Aspose.BarCode para .NET[aqui](https://forum.aspose.com/c/barcode/13) para se conectar com a comunidade e a equipe de suporte.

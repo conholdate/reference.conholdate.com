@@ -17,7 +17,7 @@ Pour commencer, assurez-vous de disposer des éléments suivants :
 
 1. Visual Studio : requis pour le codage et les tests. Vous pouvez le télécharger gratuitement si vous ne l'avez pas déjà installé.
 2. .NET Framework ou .NET Core : Aspose.Words pour .NET prend en charge les deux, assurez-vous donc d'avoir une version compatible.
-3.  Aspose.Words pour .NET : téléchargez et installez la dernière version à partir du[Page de sortie d'Aspose](https://releases.aspose.com/words/net/).
+3. Aspose.Words pour .NET : téléchargez et installez la dernière version à partir du[Page de sortie d'Aspose](https://releases.aspose.com/words/net/).
 4. Clé API du modèle d'IA : pour générer des résumés, l'accès à une API de modèle d'IA est requis (par exemple, OpenAI). Inscrivez-vous sur le site du fournisseur d'IA pour obtenir la clé API.
 5. Connaissances de base en C# : une certaine familiarité avec la programmation C# vous aidera à suivre efficacement.
 
@@ -39,7 +39,7 @@ Passons en revue les étapes à suivre pour créer et configurer une application
 Pour activer la fonctionnalité Aspose.Words, ajoutez-la via le gestionnaire de packages NuGet.
 
 1. Cliquez avec le bouton droit sur votre projet dans l’Explorateur de solutions et choisissez Gérer les packages NuGet.
-2.  Rechercher`Aspose.Words`et cliquez sur Installer.
+2.  Rechercher`Aspose.Words` et cliquez sur Installer.
 3. Si nécessaire, installez également des packages de modèles d'IA spécifiques pour l'intégration (par exemple, OpenAI).
 
 ```csharp

@@ -15,7 +15,7 @@ url: /hi/net/tutorials/words/advanced-ai-document-processing/summarize-documents
 
 आरंभ करने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित हैं:
 
-1.  .NET लाइब्रेरी के लिए Aspose.Words: इसे यहाँ से डाउनलोड करें[एस्पोज की रिलीज़](https://releases.aspose.com/words/net/).
+1. .NET लाइब्रेरी के लिए Aspose.Words: इसे यहाँ से डाउनलोड करें[एस्पोज की रिलीज़](https://releases.aspose.com/words/net/).
 2. .NET वातावरण: Visual Studio जैसे .NET विकास वातावरण को सेट करें।
 3. बुनियादी C# ज्ञान: इस ट्यूटोरियल में कोडिंग शामिल है, इसलिए C# सिंटैक्स से परिचित होना लाभदायक होगा।
 4. AI मॉडल API कुंजी: अपने पसंदीदा AI सारांश मॉडल (जैसे, GPT-4) के लिए API कुंजी प्राप्त करें, क्योंकि हम इसका उपयोग सारांश बनाने के लिए करेंगे।
@@ -45,7 +45,7 @@ string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 
 ## चरण 2: सारांशीकरण के लिए दस्तावेज़ लोड करें
 
- उन दस्तावेज़ों को लोड करें जिन्हें आप सारांशित करने की योजना बना रहे हैं।`Document` अपनी वर्ड फ़ाइलों तक पहुँचने के लिए Aspose.Words में क्लास का उपयोग करें:
+ उन दस्तावेज़ों को लोड करें जिन्हें आप सारांशित करने की योजना बना रहे हैं।`Document`अपनी वर्ड फ़ाइलों तक पहुँचने के लिए Aspose.Words में क्लास का उपयोग करें:
 
 ```csharp
 Document firstDoc = new Document(MyDir + "BigDocument.docx");
@@ -63,7 +63,7 @@ string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 ```
 
-`Gpt4OMini` दस्तावेज़ सारांशीकरण प्रक्रिया के लिए मॉडल को आपकी API कुंजी के साथ आरंभीकृत किया जाता है। प्रतिस्थापित करना सुनिश्चित करें`"API_KEY"`अपनी वास्तविक API कुंजी के साथ.
+`Gpt4OMini` दस्तावेज़ सारांशीकरण प्रक्रिया के लिए मॉडल को आपकी API कुंजी के साथ आरंभीकृत किया जाता है। प्रतिस्थापित करना सुनिश्चित करें`"API_KEY"` अपनी वास्तविक API कुंजी के साथ.
 
 ## चरण 4: एकल दस्तावेज़ का सारांश बनाएँ
 

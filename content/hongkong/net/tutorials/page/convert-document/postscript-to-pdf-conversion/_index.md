@@ -2,7 +2,7 @@
 title: 使用 Aspose.Page for .NET 將 PostScript 轉換為 PDF
 linktitle: PostScript 到 PDF 轉換
 second_title: Aspose.Page .NET API
-description: 透過我們關於使用 Aspose.Page for .NET 將 PostScript 檔案轉換為 PDF 的綜合教學課程，釋放文件處理的力量。本逐步指南將引導您完成輸入和輸出流的設定。
+description: 透過我們關於使用 Aspose.Page for .NET 將 PostScript 檔案轉換為 PDF 的綜合教程，釋放文件處理的力量。本逐步指南將引導您完成輸入和輸出流的設定。
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/page/convert-document/postscript-to-pdf-conversion/
@@ -52,7 +52,7 @@ PsDocument document = new PsDocument(psStream);
 設定轉換選項，讓您管理流程的各個方面，例如錯誤處理和字體管理。
 
 ```csharp
-//用於抑制轉換期間小錯誤的標誌
+//標記以抑制轉換期間的小錯誤
 bool suppressErrors = true;
 //初始化 PDF 保存選項
 PdfSaveOptions options = new PdfSaveOptions(suppressErrors);

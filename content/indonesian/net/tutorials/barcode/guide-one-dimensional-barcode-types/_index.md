@@ -15,7 +15,7 @@ Apakah Anda ingin mendalami dunia pembuatan kode batang di .NET? Baik Anda seora
 
 Pernahkah Anda merasa kode batang Anda tidak terlihat pas karena tingginya? Bayangkan membuat kode batang yang sangat pas dengan label atau kemasan produk Anda. Dengan Aspose.BarCode, Anda dapat dengan mudah menyesuaikan tinggi kode batang satu dimensi agar pas. Pustaka ini memberi Anda kendali yang tepat, memastikan kode batang Anda memenuhi standar industri dan dapat dipindai setiap saat.  
 
- Tutorial tentang[Menyesuaikan Tinggi Kode Batang dengan Aspose.BarCode](./customizing-barcode-height/) memandu Anda langkah demi langkah melalui proses ini, dari pemasangan hingga penerapan. Baik Anda mendesain label ritel atau label industri, panduan ini akan membantu Anda.  
+ Tutorial tentang[Menyesuaikan Tinggi Kode Batang dengan Aspose.BarCode](./customizing-barcode-height/)memandu Anda langkah demi langkah melalui proses ini, dari pemasangan hingga penerapan. Baik Anda mendesain label ritel atau label industri, panduan ini akan membantu Anda.  
 
 ## Pembuatan dan Penanganan Pengecualian dengan Aspose.BarCode untuk .NET  
 

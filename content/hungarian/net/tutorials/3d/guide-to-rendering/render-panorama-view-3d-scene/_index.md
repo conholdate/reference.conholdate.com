@@ -15,7 +15,7 @@ magával ragadó, panorámás 3D-s jelenetek létrehozása komoly változást je
 
 Mielőtt belemerülne a renderelési folyamatba, győződjön meg arról, hogy a következőkkel rendelkezik:
 
--  Aspose.3D for .NET: A kezdéshez telepítenie kell az Aspose.3D-t, amely minden szükséges eszközt biztosít a 3D-s eszközök kezeléséhez és a megjelenítéshez.[Töltse le az Aspose.3D-t .NET-hez](https://releases.aspose.com/3d/net/) kezdeni.
+-  Aspose.3D .NET-hez: Kezdésként telepítenie kell az Aspose.3D-t, amely minden szükséges eszközt biztosít a 3D-s eszközök kezeléséhez és a megjelenítéshez.[Töltse le az Aspose.3D-t .NET-hez](https://releases.aspose.com/3d/net/) kezdeni.
 - .NET fejlesztői környezet: Teljesen konfigurált .NET fejlesztői környezet szükséges. Győződjön meg arról, hogy rendelkezik Visual Studio vagy bármely más kompatibilis IDE-vel.
 - Minta 3D jelenetfájl: Bármilyen 3D jelenetet használhat olyan formátumban, mint pl`.glb`, `.fbx` , vagy`.obj`. Ehhez az oktatóanyaghoz egy egyszerű "VirtualCity.glb" fájlt fogunk használni.
 

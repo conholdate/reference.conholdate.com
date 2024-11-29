@@ -9,7 +9,7 @@ url: /hu/net/tutorials/drawing/transformations/guide-to-local-transformation/
 ---
 ## Bevezetés
 
-Az Aspose.Drawing for .NET lehetővé teszi a fejlesztők számára, hogy kifinomult grafikákat készítsenek helyi átalakításokkal. Ez a rövid útmutató lépésről lépésre végigvezeti Önt a helyi átalakítások beállításán.
+Az Aspose.Drawing for .NET lehetővé teszi a fejlesztők számára, hogy kifinomult grafikákat készítsenek helyi átalakításokkal. Ez a rövid útmutató lépésről lépésre végigvezeti a helyi átalakítások beállításán.
 
 ## Előfeltételek
 

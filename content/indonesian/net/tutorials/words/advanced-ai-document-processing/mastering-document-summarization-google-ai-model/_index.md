@@ -87,7 +87,7 @@ Document oneDocumentSummary = model.Summarize(firstDoc, new SummarizeOptions() {
 oneDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.One.docx");
 ```
 
-Kode ini membuat versi ringkasan dari`firstDoc` dan menyimpannya di direktori artifak. Sesuaikan panjang ringkasan sesuai kebutuhan Anda, baik pendek, sedang, atau panjang.
+ Kode ini membuat versi ringkasan dari`firstDoc` dan menyimpannya di direktori artifak. Sesuaikan panjang ringkasan sesuai kebutuhan Anda, baik pendek, sedang, atau panjang.
 
 ## Langkah 6: Merangkum Beberapa Dokumen Secara Bersamaan
 
@@ -120,7 +120,7 @@ Ya, Aspose.Words memungkinkan Anda meneruskan beberapa dokumen ke model AI, meng
 
 ### Bagaimana cara mengontrol panjang ringkasan?
 
- Gunakan`SummaryLength` pilihan dalam`SummarizeOptions` kelas untuk menetapkan panjang ringkasan yang diinginkan sebagai pendek, sedang, atau panjang.
+ Gunakan`SummaryLength` pilihan dalam`SummarizeOptions`kelas untuk menetapkan panjang ringkasan yang diinginkan sebagai pendek, sedang, atau panjang.
 
 ### Di mana saya dapat menemukan sumber daya tambahan untuk Aspose.Words?
 

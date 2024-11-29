@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Mettre à
 Vous allez créer un périphérique PDF pour faciliter la conversion. Vous pouvez spécifier la taille de la page si nécessaire, mais la taille par défaut de 595x842 points (A4) est généralement suffisante.
 
 ```csharp
-// La taille de page par défaut est 595x842 et il n'est pas obligatoire de la définir dans PdfDevice
+//La taille de page par défaut est 595x842 et il n'est pas obligatoire de la définir dans PdfDevice
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // Mais si vous devez spécifier la taille et le format de l'image, utilisez la ligne suivante
 //périphérique Aspose.Page.EPS.Device.PdfDevice = nouveau Aspose.Page.EPS.Device.PdfDevice(pdfStream, nouveau System.Drawing.Size(595, 842));

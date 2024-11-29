@@ -16,7 +16,7 @@ Při vývoji .NET je efektivní manipulace s dokumenty Word zásadní, zejména 
 Před zahájením procesu převodu se ujistěte, že máte následující:
 
 - Vývojové prostředí: Nainstalované Visual Studio nebo jiné .NET IDE.
-- Aspose.Words for .NET: Stáhněte a nainstalujte jej z[Aspose webové stránky](https://releases.aspose.com/words/net/).
+-  Aspose.Words for .NET: Stáhněte a nainstalujte jej z[Aspose webové stránky](https://releases.aspose.com/words/net/).
 - Soubory dokumentů: Připravte si soubory DOCX, které chcete převést.
 
 ## Krok 1: Importujte potřebné jmenné prostory

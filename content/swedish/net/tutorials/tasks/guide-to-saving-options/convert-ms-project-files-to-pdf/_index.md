@@ -45,7 +45,7 @@ var project = new Project("Your_Project_File_Path.mpp");
 
 ## Steg 2: Konfigurera PDF-sparalternativ
 
-Ställ in alternativ för att anpassa utdata-PDF-filen. Aspose.Tasks för .NET ger flexibilitet för att kontrollera sidrendering, layout och andra aspekter.
+Ställ in alternativ för att anpassa utdata PDF. Aspose.Tasks för .NET ger flexibilitet för att kontrollera sidrendering, layout och andra aspekter.
 
 ```csharp
 var options = new PdfSaveOptions
@@ -87,12 +87,12 @@ Konvertering av Microsoft Project-filer till PDF med Aspose.Tasks för .NET säk
 ## FAQ's
 
 ### Kan jag anpassa utseendet på den exporterade PDF-filen?
-Ja, Aspose.Tasks tillåter anpassning av typsnitt, färger och sidlayouter för att möta dina specifika behov.
+Ja, Aspose.Tasks tillåter anpassning av teckensnitt, färger och sidlayouter för att möta dina specifika behov.
 
 ###  Är det möjligt att konvertera`.mpp` files from older versions of Microsoft Project?
  Aspose.Tasks stödjer`.mpp` filer från Microsoft Project 2003 och framåt.
 
-### Hur återger jag all projektdata på en enda PDF-sida?
+### Hur renderar jag all projektdata på en enda PDF-sida?
  Ställ in`RenderToSinglePage` egendom av`PdfSaveOptions` invända mot`true`.
 
 ```csharp

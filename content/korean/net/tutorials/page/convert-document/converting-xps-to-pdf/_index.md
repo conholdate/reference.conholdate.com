@@ -110,8 +110,8 @@ PDF 외에도 Aspose.Page for .NET은 TIFF, JPEG, PNG 등 다양한 형식을 �
 
 ### Aspose.Page for .NET의 평가판이 있나요?
 
-네, 무료 평가판을 통해 Aspose.Page for .NET을 사용해 볼 수 있습니다.[여기](https://releases.aspose.com/).
+ 네, 무료 평가판을 통해 Aspose.Page for .NET을 사용해 볼 수 있습니다.[여기](https://releases.aspose.com/).
 
 ### Aspose.Page for .NET에 대한 커뮤니티 지원은 어디에서 찾을 수 있나요?
 
- 커뮤니티 토론 및 지원을 위해 다음을 방문하세요.[Aspose.Page 포럼](https://forum.aspose.com/c/page/39).
+커뮤니티 토론 및 지원을 위해 다음을 방문하세요.[Aspose.Page 포럼](https://forum.aspose.com/c/page/39).

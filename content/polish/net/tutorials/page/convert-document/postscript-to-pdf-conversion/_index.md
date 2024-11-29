@@ -65,7 +65,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Zaktualiz
 Utworzysz urządzenie PDF, aby ułatwić konwersję. Możesz określić rozmiar strony, jeśli to konieczne, ale domyślny rozmiar 595x842 punktów (A4) jest zazwyczaj wystarczający.
 
 ```csharp
-// Domyślny rozmiar strony to 595x842 i nie jest obowiązkowe jego ustawianie w PdfDevice
+//Domyślny rozmiar strony to 595x842 i nie jest obowiązkowe jego ustawianie w PdfDevice
 Aspose.Page.EPS.Device.PdfDevice device = new Aspose.Page.EPS.Device.PdfDevice(pdfStream);
 // Jeśli jednak musisz określić rozmiar i format obrazu, użyj poniższego wiersza
 //Urządzenie Aspose.Page.EPS.Device.PdfDevice = nowe Aspose.Page.EPS.Device.PdfDevice(pdfStream, nowe System.Drawing.Size(595, 842));

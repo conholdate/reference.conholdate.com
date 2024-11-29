@@ -127,4 +127,4 @@ Neste tutorial, aprendemos como usar o Aspose.CAD para .NET para gerenciar efeti
 
 ### Precisa de ajuda ou tem dúvidas?
 
- Para obter suporte ou fazer perguntas, visite a comunidade Aspose.CAD[fórum de suporte](https://forum.aspose.com/c/cad/19).
+Para obter suporte ou fazer perguntas, visite a comunidade Aspose.CAD[fórum de suporte](https://forum.aspose.com/c/cad/19).

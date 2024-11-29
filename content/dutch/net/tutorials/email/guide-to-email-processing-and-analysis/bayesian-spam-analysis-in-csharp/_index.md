@@ -38,13 +38,13 @@ Laten we de implementatie nu opsplitsen in duidelijke stappen, zodat u ze gemakk
 
 ## Stap 1: Laad een e-mail
 
- Eerst moet u de e-mail laden die u wilt analyseren. Dit doet u met behulp van de`MailMessage`klasse in de Aspose.Email-bibliotheek. 
+ Eerst moet u de e-mail laden die u wilt analyseren. Dit doet u met behulp van de`MailMessage` klasse in de Aspose.Email-bibliotheek. 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- De`Load` methode neemt het bestandspad van de e-mail die u wilt analyseren. Dit bestand moet in EML-formaat zijn. Als u er geen hebt, kunt u gerust een eenvoudige e-mail maken en deze opslaan als`email.eml`.
+ De`Load`methode neemt het bestandspad van de e-mail die u wilt analyseren. Dit bestand moet in EML-formaat zijn. Als u er geen hebt, kunt u gerust een eenvoudige e-mail maken en deze opslaan als`email.eml`.
 
 ## Stap 2: Maak een spam-analysator
 

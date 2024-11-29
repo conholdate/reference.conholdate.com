@@ -97,7 +97,7 @@ Sblocca il pieno potenziale di Aspose.ZIP per .NET con i nostri tutorial dettagl
 
 ## Aspose.OCR
 {{% alert color="primary" %}}
-Sblocca la precisione nel riconoscimento delle immagini OCR con Aspose.OCR per .NET. Esplora i tutorial sul calcolo dell'angolo di inclinazione, sul riconoscimento del testo, sulla configurazione OCR e sull'ottimizzazione.
+Sblocca la precisione nel riconoscimento delle immagini OCR con Aspose.OCR per .NET. Esplora i tutorial sul calcolo dell'angolo di inclinazione, il riconoscimento del testo, la configurazione OCR e l'ottimizzazione.
 {{% /alert %}}
 
 ### Esercitazioni Aspose.OCR
@@ -149,7 +149,7 @@ Esplora i tutorial di Aspose.Tasks per .NET che coprono opzioni di salvataggio, 
 {{% /alert %}}
 
 ### Esercitazioni su Aspose.Tasks
-- [Aspose.Tasks per esercitazioni .NET](./tasks/)
+- [Tutorial su Aspose.Tasks per .NET](./tasks/)
 
 ## Aspose.GIS
 {{% alert color="primary" %}}
@@ -158,4 +158,61 @@ Scopri la potenza di Aspose.GIS per .NET tramite tutorial completi. Padroneggia 
 
 ### Esercitazioni Aspose.GIS
 - [Tutorial su Aspose.GIS per .NET](./gis/)
+
+## Visualizzatore di documenti di gruppo
+{{% alert color="primary" %}}
+Scopri tutorial ed esempi completi per integrare GroupDocs.Viewer .NET nelle tue app. Impara tecniche passo dopo passo per una gestione avanzata dei documenti.
+{{% /alert %}}
+
+### Esercitazioni di GroupDocs.Viewer
+- [GroupDocs.Viewer per esercitazioni .NET](./viewer/)
+
+## GroupDocs.Conversione
+{{% alert color="primary" %}}
+Converti senza sforzo i file in PDF usando GroupDocs.Conversion per .NET. Semplifica la gestione dei documenti con opzioni personalizzabili.
+{{% /alert %}}
+
+### Esercitazioni GroupDocs.Conversion
+- [GroupDocs.Conversion per tutorial .NET](./conversion/)
+
+## GroupDocs.Confronto
+{{% alert color="primary" %}}
+Scopri tutorial completi per GroupDocs.Comparison per .NET, che semplificano il confronto, la gestione e l'integrazione di documenti e cartelle in modo efficiente e senza sforzi.
+{{% /alert %}}
+
+### Esercitazioni GroupDocs.Comparison
+- [GroupDocs.Comparison per esercitazioni .NET](./comparison/)
+
+## GroupDocs.Annotazione
+{{% alert color="primary" %}}
+Sblocca il pieno potenziale di GroupDocs.Annotation per .NET con i nostri tutorial. Integra senza problemi, migliora la collaborazione e semplifica i flussi di lavoro.
+{{% /alert %}}
+
+### Esercitazioni su GroupDocs.Annotation
+- [GroupDocs.Annotation per i tutorial .NET](./annotation/)
+
+## Firma di GroupDocs
+{{% alert color="primary" %}}
+Esplora tutorial completi sull'utilizzo di GroupDocs.Signature per .NET. Impara a implementare firme digitali, personalizzare flussi di lavoro e migliorare la sicurezza dei documenti con guide chiare e dettagliate.
+{{% /alert %}}
+
+### Esercitazioni GroupDocs.Signature
+- [GroupDocs.Signature per esercitazioni .NET](./signature/)
+
+## GroupDocs.Metadati
+{{% alert color="primary" %}}
+Scopri come manipolare i metadati in vari formati di file con esempi dettagliati e istruzioni dettagliate.
+{{% /alert %}}
+
+### Esercitazioni su GroupDocs.Metadata
+- [GroupDocs.Metadata per i tutorial .NET](./metadata/)
+
+## GroupDocs.Fusione
+{{% alert color="primary" %}}
+Esplora i tutorial passo dopo passo su GroupDocs.Merger per .NET per unire, dividere, riorganizzare e gestire i documenti senza sforzo. Padroneggia la manipolazione dei documenti con esempi dettagliati e guida esperta.
+{{% /alert %}}
+
+### Esercitazioni GroupDocs.Merger
+- [GroupDocs.Merger per esercitazioni .NET](./merger/)
+
 

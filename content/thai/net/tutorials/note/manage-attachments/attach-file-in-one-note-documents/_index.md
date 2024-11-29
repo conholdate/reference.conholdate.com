@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## ขั้นตอนที่ 5: เริ่มต้นไฟล์ที่แนบมา
 
- ระบุเส้นทางไปยังไฟล์ที่คุณต้องการแนบโดยใช้`AttachedFile`ระดับ.
+ ระบุเส้นทางไปยังไฟล์ที่คุณต้องการแนบโดยใช้`AttachedFile` ระดับ.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

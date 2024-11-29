@@ -9,7 +9,7 @@ url: /pl/net/tutorials/page/master-page-manipulation/add-page-to-postscript-docu
 ---
 ## Wstęp
 
-W dziedzinie rozwoju .NET manipulacja dokumentami jest podstawową umiejętnością. Aspose.Page for .NET to potężna biblioteka, która umożliwia programistom bezproblemową pracę z dokumentami PostScript (PS). Ten przewodnik przeprowadzi Cię przez proces dodawania stron do dokumentu PostScript krok po kroku.
+dziedzinie rozwoju .NET manipulacja dokumentami jest podstawową umiejętnością. Aspose.Page for .NET to potężna biblioteka, która umożliwia programistom bezproblemową pracę z dokumentami PostScript (PS). Ten przewodnik przeprowadzi Cię przez proces dodawania stron do dokumentu PostScript krok po kroku.
 
 ## Wymagania wstępne
 
@@ -47,7 +47,7 @@ Skonfiguruj swój dokument PostScript z żądanymi konfiguracjami:
 string dataDir = "Your Document Directory"; // Ustaw ścieżkę do katalogu dokumentów
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    // Skonfiguruj opcje zapisywania dla formatu A4
+    //Skonfiguruj opcje zapisywania dla formatu A4
     PsSaveOptions options = new PsSaveOptions();
     
     // Utwórz nowy dokument PostScript z 2 stronami
@@ -114,4 +114,4 @@ Tak! Jak pokazano w tym przewodniku, możesz zdefiniować różne rozmiary dla k
  Możesz uzyskać tymczasową licencję do testowania, przechodząc do[ten link](https://purchase.conholdate.com/temporary-license/).
 
 ### Gdzie mogę szukać wsparcia społeczności?  
-Dołącz do[Forum społeczności Aspose.Page](https://forum.aspose.com/c/page/39) aby nawiązać kontakt z innymi programistami, wymienić się doświadczeniami i szukać pomocy.
+ Dołącz do[Forum społeczności Aspose.Page](https://forum.aspose.com/c/page/39) aby nawiązać kontakt z innymi programistami, wymienić się doświadczeniami i szukać pomocy.

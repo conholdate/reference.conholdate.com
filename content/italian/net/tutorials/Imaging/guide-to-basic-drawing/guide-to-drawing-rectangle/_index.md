@@ -74,7 +74,7 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- Questa sezione illustra come creare un`Graphics` oggetto, pulisci la superficie e aggiungi due rettangoli con colori e posizioni distinti. Una volta completati i disegni, salva l'immagine per rendere permanenti le modifiche.
+Questa sezione illustra come creare un`Graphics` oggetto, pulisci la superficie e aggiungi due rettangoli con colori e posizioni distinti. Una volta completati i disegni, salva l'immagine per rendere permanenti le modifiche.
 
 ## Passaggio 4: salva l'immagine
 

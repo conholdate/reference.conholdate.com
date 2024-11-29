@@ -65,7 +65,7 @@ gen.Save($"{path}CodabarChecksumMod10.png", BarCodeImageFormat.Png);
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // เปิดใช้งานการตรวจสอบผลรวม
-gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; //เซ็ต Mod16
+gen.Parameters.Barcode.Codabar.CodabarChecksumMode = CodabarChecksumMode.Mod16; // เซ็ต Mod16
 gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 ```
 
@@ -73,7 +73,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 ตอนนี้คุณได้สร้างบาร์โค้ด Codabar ที่มีประเภท checksum ที่แตกต่างกันสำเร็จแล้วโดยใช้ Aspose.BarCode สำหรับ .NET checksum เหล่านี้มีความสำคัญต่อการรักษาความสมบูรณ์ของข้อมูลที่เข้ารหัส เพื่อให้แน่ใจว่าข้อมูลที่สแกนได้นั้นถูกต้องและเชื่อถือได้
 
- หากคุณมีคำถามหรือประสบปัญหา โปรดอย่าลังเลที่จะติดต่อชุมชนที่มีชีวิตชีวาที่[ฟอรั่ม Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
+หากคุณมีคำถามหรือประสบปัญหา โปรดอย่าลังเลที่จะติดต่อชุมชนที่มีชีวิตชีวาที่[ฟอรั่ม Aspose.BarCode](https://forum.aspose.com/c/barcode/13).
 
 ## คำถามที่พบบ่อย
 
@@ -95,4 +95,4 @@ Codabar เป็นสัญลักษณ์บาร์โค้ดเชิ
 
 ### ฉันสามารถค้นหาเอกสารประกอบฉบับสมบูรณ์สำหรับ Aspose.BarCode สำหรับ .NET ได้ที่ไหน
 
- สามารถพบเอกสารประกอบที่ครอบคลุมสำหรับ Aspose.BarCode ได้[ที่นี่](https://reference.aspose.com/barcode/net/).
+สามารถพบเอกสารประกอบที่ครอบคลุมสำหรับ Aspose.BarCode ได้[ที่นี่](https://reference.aspose.com/barcode/net/).

@@ -38,13 +38,13 @@ Bây giờ, chúng ta hãy chia nhỏ quá trình thực hiện thành các bư�
 
 ## Bước 1: Tải Email
 
- Đầu tiên, bạn sẽ cần tải email mà bạn muốn phân tích. Điều này được thực hiện bằng cách sử dụng`MailMessage`lớp trong thư viện Aspose.Email. 
+ Đầu tiên, bạn sẽ cần tải email mà bạn muốn phân tích. Điều này được thực hiện bằng cách sử dụng`MailMessage` lớp trong thư viện Aspose.Email. 
 
 ```csharp
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- Các`Load` phương pháp này lấy đường dẫn tệp của email bạn muốn phân tích. Tệp này phải ở định dạng EML. Nếu bạn không có, hãy thoải mái tạo một email đơn giản và lưu dưới dạng`email.eml`.
+ Các`Load`phương pháp này lấy đường dẫn tệp của email bạn muốn phân tích. Tệp này phải ở định dạng EML. Nếu bạn không có, hãy thoải mái tạo một email đơn giản và lưu dưới dạng`email.eml`.
 
 ## Bước 2: Tạo Trình phân tích thư rác
 

@@ -67,7 +67,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
 
 ## ステップ3: データセットに新しいレイヤーを作成する
 
-レイヤーを追加するには、空間参照システムと属性を定義する必要があります。サンプル データを使用してレイヤーを作成し、設定する方法は次のとおりです。
+レイヤーを追加するには、その空間参照システムと属性を定義する必要があります。サンプル データを使用してレイヤーを作成し、設定する方法は次のとおりです。
 
 ```csharp
 using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))

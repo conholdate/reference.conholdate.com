@@ -20,7 +20,7 @@ Uyumlu bir .NET framework sürümünüz olduğundan emin olun. Bu eğitim .NET 5
  Aspose.Words for .NET paketini şu adresten indirin:[Aspose web sitesi](https://releases.aspose.com/words/net/)ve Visual Studio'daki NuGet Paket Yöneticisi'ni kullanarak projenize yükleyin.
 
 ### Bir OpenAI API Anahtarı edinin
- OpenAI'nin dil modellerine erişmek için bir API anahtarına ihtiyacınız olacak.[OpenAI web sitesi](https://openai.com/), anahtarınızı alın ve entegrasyon için güvenli bir yerde saklayın.
+ OpenAI'nin dil modellerine erişmek için bir API anahtarına ihtiyacınız olacak.[OpenAI web sitesi](https://openai.com/)anahtarınızı alın ve entegrasyon için güvenli bir yerde saklayın.
 
 ### Entegre Geliştirme Ortamı
 Visual Studio'yu IDE olarak kullanmak kodlama ve hata ayıklama sürecini basitleştirecektir.

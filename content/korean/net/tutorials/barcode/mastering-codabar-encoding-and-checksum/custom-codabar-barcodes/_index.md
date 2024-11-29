@@ -15,7 +15,7 @@ url: /ko/net/tutorials/barcode/mastering-codabar-encoding-and-checksum/custom-co
 
 시작하기 전에 다음 사항이 있는지 확인하세요.
 
-1. 개발 환경: 귀하의 머신에 설정된 작동 .NET 환경입니다. 도움이 필요하면 다음을 참조하십시오.[Aspose 문서](https://reference.aspose.com/barcode/net/).
+1.  개발 환경: 귀하의 머신에 설정된 작동 .NET 환경입니다. 도움이 필요하면 다음을 참조하십시오.[Aspose 문서](https://reference.aspose.com/barcode/net/).
    
 2.  .NET 라이브러리용 Aspose.BarCode: 라이브러리를 다운로드하여 설치하세요.[Aspose 릴리스 페이지](https://releases.aspose.com/barcode/net/).
 
@@ -35,7 +35,7 @@ using Aspose.BarCode.Generation;
 
 ## 1단계: 바코드 생성기 초기화
 
- 인스턴스를 생성하여 시작합니다.`BarcodeGenerator`, 바코드 유형을 Codabar로 지정하고 인코딩할 데이터를 지정합니다. 다음은 예입니다.
+ 인스턴스를 생성하여 시작합니다.`BarcodeGenerator`바코드 유형을 Codabar로 지정하고 인코딩할 데이터를 지정합니다. 다음은 예입니다.
 
 ```csharp
 string path = "Your Directory Path"; // 여기에 디렉토리를 지정하세요

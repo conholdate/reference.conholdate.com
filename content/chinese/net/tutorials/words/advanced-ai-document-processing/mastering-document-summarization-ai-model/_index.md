@@ -15,9 +15,9 @@ url: /zh/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 
 首先，请确保您已准备好以下事项：
 
-1. Visual Studio：编码和测试所需。如果尚未安装，可以免费下载。
+1. Visual Studio：编码和测试所需。如果您尚未安装，可以免费下载。
 2. .NET Framework 或 .NET Core：Aspose.Words for .NET 支持两者，因此请确保您拥有兼容的版本。
-3.  Aspose.Words for .NET：从以下网站下载并安装最新版本[Aspose 发布页面](https://releases.aspose.com/words/net/).
+3. Aspose.Words for .NET：从以下网站下载并安装最新版本[Aspose 发布页面](https://releases.aspose.com/words/net/).
 4. AI 模型 API 密钥：要生成摘要，需要访问 AI 模型 API（例如 OpenAI）。在 AI 提供商的网站上注册以获取 API 密钥。
 5. 基本 C# 知识：熟悉 C# 编程将有助于您有效地跟进。
 

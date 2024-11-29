@@ -15,7 +15,7 @@ Vous cherchez à convertir sans effort des mises en page CAO en formats d'image 
 
 Avant de commencer, assurez-vous de disposer des éléments suivants :
 
--  Bibliothèque Aspose.CAD pour .NET : téléchargez et installez la bibliothèque à partir du[Site Web Aspose.CAD](https://releases.aspose.com/cad/net/).
+- Bibliothèque Aspose.CAD pour .NET : téléchargez et installez la bibliothèque à partir du[Site Web Aspose.CAD](https://releases.aspose.com/cad/net/).
 -  Fichier de dessin CAO : Ayez votre fichier de dessin CAO (par exemple,`conic_pyramid.dxf`) prêt à être converti.
 
 ## Importer les espaces de noms requis
