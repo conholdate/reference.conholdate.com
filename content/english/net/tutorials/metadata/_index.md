@@ -3,7 +3,7 @@ title: Tutorials and Examples of GroupDocs.Metadata for .NET
 linktitle: GroupDocs.Metadata for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/metadata/
 description: Learn how to manipulate metadata across various file formats with detailed examples and step-by-step instructions.
 is_root: true
 ---

@@ -5,7 +5,7 @@ second_title: GroupDocs.Viewer .NET API
 description: This comprehensive tutorial provides step-by-step guidance on rendering documents with comments in .NET applications using the GroupDocs.Viewer library.
 type: docs
 weight: 13
-url: /net/mastering-render-options/rendering-document-comments/
+url: /net/tutorials/viewer/mastering-render-options/rendering-document-comments/
 ---
 ## Introduction
 

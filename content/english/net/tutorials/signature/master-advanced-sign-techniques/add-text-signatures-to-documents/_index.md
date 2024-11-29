@@ -5,7 +5,7 @@ second_title: GroupDocs.Signature .NET API
 description: Learn how to sign documents with text using GroupDocs.Signature for .NET. Step-by-step guide for adding text signatures programmatically.
 type: docs
 weight: 17
-url: /net/master-advanced-sign-techniques/add-text-signatures-to-documents/
+url: /net/tutorials/signature/master-advanced-sign-techniques/add-text-signatures-to-documents/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: GroupDocs.Viewer .NET API
 description: This comprehensive tutorial guides .NET developers through the process of rearranging pages in various document formats using GroupDocs.Viewer for .NET.
 type: docs
 weight: 19
-url: /net/mastering-render-options/reordering-pages-in-document/
+url: /net/tutorials/viewer/mastering-render-options/reordering-pages-in-document/
 ---
 ## Introduction
 

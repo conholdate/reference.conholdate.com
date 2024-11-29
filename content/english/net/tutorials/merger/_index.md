@@ -3,7 +3,7 @@ title: Tutorials and Examples of GroupDocs.Merger for .NET
 linktitle: GroupDocs.Merger for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/merger/
 description: Explore step-by-step tutorials on GroupDocs.Merger for .NET to merge, split, rearrange, and manage documents effortlessly. Master document manipulation with detailed examples and expert guidance.
 is_root: true
 ---

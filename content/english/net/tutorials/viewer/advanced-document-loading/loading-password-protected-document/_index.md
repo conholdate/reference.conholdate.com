@@ -5,7 +5,7 @@ second_title: GroupDocs.Viewer .NET API
 description: Discover how to effortlessly integrate document viewing capabilities into your .NET applications with GroupDocs.Viewer. This tutorial provides a comprehensive, step-by-step guide.
 type: docs
 weight: 12
-url: /net/advanced-document-loading/loading-password-protected-document/
+url: /net/tutorials/viewer/advanced-document-loading/loading-password-protected-document/
 ---
 ## Introduction
 

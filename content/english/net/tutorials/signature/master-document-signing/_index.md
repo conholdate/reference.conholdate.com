@@ -5,7 +5,7 @@ second_title: GroupDocs.Signature .NET API
 description: Master document signing with GroupDocs.Signature for .NET in our detailed tutorials. Sign images and PDFs with metadata effortlessly.
 type: docs
 weight: 24
-url: /net/master-document-signing/
+url: /net/tutorials/signature/master-document-signing/
 ---
 ## Introduction
 

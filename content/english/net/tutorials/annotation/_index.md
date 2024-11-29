@@ -3,7 +3,7 @@ title: Tutorials and Examples of GroupDocs.Annotation for .NET
 linktitle: GroupDocs.Annotation for .NET Tutorials
 type: docs
 weight: 10
-url: /net/
+url: /net/tutorials/annotation/
 description: Unlock the full potential of GroupDocs.Annotation for .NET with our tutorials. Seamlessly integrate, enhance collaboration, and streamline workflows.
 is_root: true
 ---

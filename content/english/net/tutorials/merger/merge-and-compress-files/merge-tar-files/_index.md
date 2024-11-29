@@ -5,7 +5,7 @@ second_title: GroupDocs.Merger .NET API
 description: Learn how to seamlessly merge TAR files within your .NET applications using GroupDocs.Merger. This tutorial provides a comprehensive, step-by-step approach, complete with code example.
 type: docs
 weight: 11
-url: /net/merge-and-compress-files/merge-tar-files/
+url: /net/tutorials/merger/merge-and-compress-files/merge-tar-files/
 ---
 ## Introduction
 

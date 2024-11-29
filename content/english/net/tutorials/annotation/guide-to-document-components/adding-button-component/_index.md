@@ -5,7 +5,7 @@ second_title: GroupDocs.Annotation .NET API
 description: Discover how to elevate your PDF documents by adding interactive Button Components using GroupDocs.Annotation for .NET. This step-by-step tutorial.
 type: docs
 weight: 10
-url: /net/guide-to-document-components/adding-button-component/
+url: /net/tutorials/annotation/guide-to-document-components/adding-button-component/
 ---
 ## Introduction
 

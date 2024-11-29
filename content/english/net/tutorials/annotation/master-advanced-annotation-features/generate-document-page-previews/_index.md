@@ -5,7 +5,7 @@ second_title: GroupDocs.Annotation .NET API
 description: Discover how to seamlessly integrate document page preview functionality into your .NET applications using GroupDocs.Annotation. This step-by-step tutorial guide.
 type: docs
 weight: 12
-url: /net/master-advanced-annotation-features/generate-document-page-previews/
+url: /net/tutorials/annotation/master-advanced-annotation-features/generate-document-page-previews/
 ---
 ## Introduction
 

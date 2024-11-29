@@ -5,7 +5,7 @@ second_title: GroupDocs.Viewer .NET API
 description: Explore GroupDocs.Viewer for .NET tutorials to effortlessly integrate advanced document viewing capabilities into your applications. 
 type: docs
 weight: 21
-url: /net/advanced-document-loading/
+url: /net/tutorials/viewer/advanced-document-loading/
 ---
 ## Introduction
 

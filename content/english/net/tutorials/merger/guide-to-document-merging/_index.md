@@ -5,7 +5,7 @@ second_title: GroupDocs.Merger .NET API
 description: Easily merge documents with GroupDocs.Merger for .NET. Explore step-by-step tutorials on merging DOC and PDF files effectively.
 type: docs
 weight: 22
-url: /net/guide-to-document-merging/
+url: /net/tutorials/merger/guide-to-document-merging/
 ---
 ## Introduction
 

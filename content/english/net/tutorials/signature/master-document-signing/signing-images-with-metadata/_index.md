@@ -5,7 +5,7 @@ second_title: GroupDocs.Signature .NET API
 description: Learn how to efficiently sign images with metadata in your .NET applications using GroupDocs.Signature. This step-by-step tutorial covers everything from installation to implementation, enabling you to enhance your documents with metadata signatures effortlessly.
 type: docs
 weight: 10
-url: /net/master-document-signing/signing-images-with-metadata/
+url: /net/tutorials/signature/master-document-signing/signing-images-with-metadata/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: GroupDocs.Comparison .NET API
 description: Discover essential tutorials on GroupDocs.Comparison for .NET for efficient document comparison and development insights. Learn how to compare Excel cells easily.
 type: docs
 weight: 24
-url: /net/guide-to-basic-usage/
+url: /net/tutorials/comparison/guide-to-basic-usage/
 ---
 ## Introduction
 

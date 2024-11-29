@@ -5,7 +5,7 @@ second_title: GroupDocs.Comparison .NET API
 description: This tutorial will walk you through the step-by-step process of comparing Excel cell contents, enabling developers to efficiently identify differences and similarities between documents.
 type: docs
 weight: 10
-url: /net/guide-to-basic-usage/comparing-cells-from-path/
+url: /net/tutorials/comparison/guide-to-basic-usage/comparing-cells-from-path/
 ---
 ## Introduction
 

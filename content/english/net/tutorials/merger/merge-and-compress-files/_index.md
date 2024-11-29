@@ -5,7 +5,7 @@ second_title: GroupDocs.Merger .NET API
 description: Easily merge and compress files in .NET applications with GroupDocs.Merger. Explore tutorials for merging TAR and ZIP files step-by-step.
 type: docs
 weight: 20
-url: /net/merge-and-compress-files/
+url: /net/tutorials/merger/merge-and-compress-files/
 ---
 ## Introduction
 

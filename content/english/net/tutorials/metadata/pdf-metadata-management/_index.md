@@ -5,7 +5,7 @@ second_title: GroupDocs.Metadata .NET API
 description: Learn how to efficiently manage PDF metadata in .NET using GroupDocs.Metadata. This comprehensive guide covers everything from adding, editing, and extracting metadata to best practices for seamless implementation in your .NET applications.
 type: docs
 weight: 24
-url: /net/pdf-metadata-management/
+url: /net/tutorials/metadata/pdf-metadata-management/
 ---
 ## Introduction
 

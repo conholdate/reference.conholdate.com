@@ -5,7 +5,7 @@ second_title: GroupDocs.Comparison .NET API
 description: Unlock the full potential of document comparison in your .NET applications by leveraging GroupDocs Comparison for .NET. This step-by-step tutorial walks you through comparing documents effortlessly, while focusing on saving document metadata source.
 type: docs
 weight: 14
-url: /net/load-and-save-documents/save-documents-metadata-source/
+url: /net/tutorials/comparison/load-and-save-documents/save-documents-metadata-source/
 ---
 ## Introduction
 

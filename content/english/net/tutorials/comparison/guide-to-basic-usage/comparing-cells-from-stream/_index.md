@@ -5,7 +5,7 @@ second_title: GroupDocs.Comparison .NET API
 description: Discover how to efficiently compare documents using GroupDocs.Comparison for .NET. This comprehensive guide walks you through importing namespaces, initializing comparison variables, and performing document comparisons step-by-step.
 type: docs
 weight: 11
-url: /net/guide-to-basic-usage/comparing-cells-from-stream/
+url: /net/tutorials/comparison/guide-to-basic-usage/comparing-cells-from-stream/
 ---
 ## Introduction
 

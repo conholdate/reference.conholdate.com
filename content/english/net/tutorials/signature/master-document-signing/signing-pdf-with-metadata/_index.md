@@ -5,7 +5,7 @@ second_title: GroupDocs.Signature .NET API
 description: Learn how to reinforce your PDF documents with enhanced security and traceability by signing them with metadata using GroupDocs.Signature for .NET. This comprehensive tutorial provides a clear.
 type: docs
 weight: 11
-url: /net/master-document-signing/signing-pdf-with-metadata/
+url: /net/tutorials/signature/master-document-signing/signing-pdf-with-metadata/
 ---
 ## Introduction
 

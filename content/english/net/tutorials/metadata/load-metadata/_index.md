@@ -5,7 +5,7 @@ second_title: GroupDocs.Metadata .NET API
 description: Discover how to efficiently load and manage metadata in your .NET applications with GroupDocs.Metadata.
 type: docs
 weight: 20
-url: /net/load-metadata/
+url: /net/tutorials/metadata/load-metadata/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: GroupDocs.Viewer .NET API
 description: Unlock the potential of .NET with GroupDocs.Viewer tutorials. Learn to render documents, manage comments, and reorder pages effortlessly.
 type: docs
 weight: 23
-url: /net/mastering-render-options/
+url: /net/tutorials/viewer/mastering-render-options/
 ---
 ## Introduction
 

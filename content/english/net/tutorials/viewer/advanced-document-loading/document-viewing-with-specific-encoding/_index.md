@@ -5,7 +5,7 @@ second_title: GroupDocs.Viewer .NET API
 description: Discover how to integrate document viewing capabilities into your .NET applications using GroupDocs.Viewer for .NET. This detailed guide walks you through installation, setup, and rendering various document formats.
 type: docs
 weight: 11
-url: /net/advanced-document-loading/document-viewing-with-specific-encoding/
+url: /net/tutorials/viewer/advanced-document-loading/document-viewing-with-specific-encoding/
 ---
 ## Introduction
 

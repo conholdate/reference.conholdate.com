@@ -5,7 +5,7 @@ second_title: GroupDocs.Annotation .NET API
 description: Explore GroupDocs.Annotation for .NET Tutorials! Learn step-by-step to add interactive buttons and checkboxes to PDF documents with ease.
 type: docs
 weight: 24
-url: /net/guide-to-document-components/
+url: /net/tutorials/annotation/guide-to-document-components/
 ---
 ## Introduction
 

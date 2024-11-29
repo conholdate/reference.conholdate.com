@@ -5,7 +5,7 @@ second_title: GroupDocs.Merger .NET API
 description: Learn how to seamlessly combine multiple DOC files into a single document using GroupDocs.Merger for .NET. This comprehensive tutorial provides a clear, step-by-step approach, covering prerequisites, code snippets, and FAQs.
 type: docs
 weight: 10
-url: /net/guide-to-document-merging/merge-document-files/
+url: /net/tutorials/merger/guide-to-document-merging/merge-document-files/
 ---
 ## Introduction
 

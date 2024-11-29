@@ -5,7 +5,7 @@ second_title: GroupDocs.Annotation .NET API
 description: Discover how to enhance your document management workflow by exporting annotations from XML files with GroupDocs.Annotation for .NET. This comprehensive tutorial provides step-by-step.
 type: docs
 weight: 11
-url: /net/master-advanced-annotation-features/export-annotations-from-xml-file/
+url: /net/tutorials/annotation/master-advanced-annotation-features/export-annotations-from-xml-file/
 ---
 ## Introduction
 

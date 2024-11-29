@@ -5,7 +5,7 @@ second_title: GroupDocs.Annotation .NET API
 description: Discover how to enrich your PDF documents by adding interactive checkbox components using the GroupDocs.Annotation for .NET SDK. This comprehensive tutorial provides a clear step-by-step guide.
 type: docs
 weight: 11
-url: /net/guide-to-document-components/adding-checkbox-component/
+url: /net/tutorials/annotation/guide-to-document-components/adding-checkbox-component/
 ---
 ## Introduction
 

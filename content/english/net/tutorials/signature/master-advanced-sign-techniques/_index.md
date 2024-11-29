@@ -5,7 +5,7 @@ second_title: GroupDocs.Signature .NET API
 description: Elevate your document security with GroupDocs.Signature for .NET tutorials. Learn advanced signature techniques, from custom images to text signatures.
 type: docs
 weight: 25
-url: /net/master-advanced-sign-techniques/
+url: /net/tutorials/signature/master-advanced-sign-techniques/
 ---
 ## Introduction
 

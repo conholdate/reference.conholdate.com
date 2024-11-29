@@ -5,7 +5,7 @@ second_title: GroupDocs.Merger .NET API
 description: Discover how to merge multiple ZIP files programmatically using GroupDocs.Merger for .NET. This step-by-step tutorial covers prerequisites.
 type: docs
 weight: 12
-url: /net/merge-and-compress-files/merge-zip-files/
+url: /net/tutorials/merger/merge-and-compress-files/merge-zip-files/
 ---
 ## Introduction
 

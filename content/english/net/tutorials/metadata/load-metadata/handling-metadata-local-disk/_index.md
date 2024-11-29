@@ -5,7 +5,7 @@ second_title: GroupDocs.Metadata .NET API
 description: Discover how to effectively manage file metadata in your .NET applications using GroupDocs.Metadata. This comprehensive guide walks you through the installation process, accessing metadata properties.
 type: docs
 weight: 10
-url: /net/load-metadata/handling-metadata-local-disk/
+url: /net/tutorials/metadata/load-metadata/handling-metadata-local-disk/
 ---
 ## Introduction
 

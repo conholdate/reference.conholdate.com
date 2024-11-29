@@ -5,7 +5,7 @@ second_title: GroupDocs.Metadata .NET API
 description: Learn how to effectively utilize GroupDocs.Metadata for .NET to read, edit, and manage metadata in PDF files. This tutorial provides a step-by-step guide.
 type: docs
 weight: 10
-url: /net/pdf-metadata-management/reading-built-in-properties-from-pdf/
+url: /net/tutorials/metadata/pdf-metadata-management/reading-built-in-properties-from-pdf/
 ---
 ## Introduction
 In this tutorial, we'll explore how to use GroupDocs.Metadata for .NET to read and manipulate metadata in PDF files. This powerful library allows developers to access various metadata attributes, such as the author, creation date, and subject, enhancing document management capabilities within applications.

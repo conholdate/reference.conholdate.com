@@ -5,7 +5,7 @@ second_title: GroupDocs.Signature .NET API
 description: Discover how to enhance the authenticity and security of your documents by signing them with custom images using GroupDocs.Signature for .NET. This step-by-step tutorial covers everything from loading a document.
 type: docs
 weight: 13
-url: /net/master-advanced-sign-techniques/sign-documents-with-custom-image/
+url: /net/tutorials/signature/master-advanced-sign-techniques/sign-documents-with-custom-image/
 ---
 ## Introduction
 

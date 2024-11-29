@@ -5,7 +5,7 @@ second_title: GroupDocs.Comparison .NET API
 description: Discover step-by-step tutorials on using GroupDocs.Comparison for .NET to load and save documents efficiently. Perfect for developers looking to streamline document comparisons.
 type: docs
 weight: 22
-url: /net/load-and-save-documents/
+url: /net/tutorials/comparison/load-and-save-documents/
 ---
 ## Introduction
 

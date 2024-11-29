@@ -5,7 +5,7 @@ second_title: GroupDocs.Annotation .NET API
 description: Unlock the potential of GroupDocs.Annotation for .NET with tutorials on exporting XML annotations and generating document page previews.
 type: docs
 weight: 22
-url: /net/master-advanced-annotation-features/
+url: /net/tutorials/annotation/master-advanced-annotation-features/
 ---
 ## Introduction
 

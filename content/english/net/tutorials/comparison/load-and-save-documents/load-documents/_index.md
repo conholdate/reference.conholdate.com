@@ -5,7 +5,7 @@ second_title: GroupDocs.Comparison .NET API
 description: Learn how to seamlessly compare various document formats—including Word, PDF, and Excel—using this robust library. Perfect for developers of all levels, this step-by-step tutorial.
 type: docs
 weight: 10
-url: /net/load-and-save-documents/load-documents/
+url: /net/tutorials/comparison/load-and-save-documents/load-documents/
 ---
 ## Introduction
 
