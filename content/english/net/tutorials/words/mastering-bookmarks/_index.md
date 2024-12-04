@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to master bookmarks in Word documents with Aspose.Words for .NET through detailed tutorials. Enhance your document management skills.
 type: docs
 weight: 1380
-url: /net/mastering-bookmarks/
+url: /net/tutorials/mastering-bookmarks/
 ---
 ## Introduction
 

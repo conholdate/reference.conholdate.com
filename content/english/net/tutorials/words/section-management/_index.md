@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Master section management in .NET with our Aspose.Words tutorials. Learn to add, delete, copy, and append sections seamlessly in Word documents.
 type: docs
 weight: 1220
-url: /net/section-management/
+url: /net/tutorials/section-management/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Unlock automation in Word with our Aspose.Words for .NET tutorials. Efficiently create, read, and clone VBA macros in Word documents.
 type: docs
 weight: 1350
-url: /net/words-with-vba-macros/
+url: /net/tutorials/words-with-vba-macros/
 ---
 ## Introduction
 

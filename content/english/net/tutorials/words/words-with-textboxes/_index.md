@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Unlock the power of Aspose.Words for .NET with these detailed tutorials on working with text boxes, enhancing document design and functionality.
 type: docs
 weight: 1320
-url: /net/words-with-textboxes/
+url: /net/tutorials/words-with-textboxes/
 ---
 ## Introduction
 
