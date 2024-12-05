@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to securely add a digital signature to your Word documents with a specific Signature Provider ID using Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /net/digital-signatures/set-digital-signature-provider-id/
+url: /net/tutorials/digital-signatures/set-digital-signature-provider-id/
 ---
 ## Introduction
 

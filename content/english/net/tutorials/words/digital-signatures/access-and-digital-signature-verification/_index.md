@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Unlock the full potential of Aspose.Words for .NET by learning how to efficiently verify digital signatures in Word documents. This step-by-step guide will walk you through the setup process.
 type: docs
 weight: 10
-url: /net/digital-signatures/access-and-digital-signature-verification/
+url: /net/tutorials/digital-signatures/access-and-digital-signature-verification/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Discover how to programmatically add signature lines to your Word documents using Aspose.Words for .NET. This comprehensive guide covers everything from setting up your development environment to inserting signature lines and signing documents securely.
 type: docs
 weight: 10
-url: /net/digital-signatures/create-new-digital-signature-line-and-set-provider-id/
+url: /net/tutorials/digital-signatures/create-new-digital-signature-line-and-set-provider-id/
 ---
 ## Introduction
 
