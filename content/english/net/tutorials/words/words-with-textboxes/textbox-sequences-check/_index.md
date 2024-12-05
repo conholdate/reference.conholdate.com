@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to easily create, link, and check the order of text boxes to ensure your content flows logically. Perfect for developers looking to enhance document structure and design.
 type: docs
 weight: 10
-url: /net/words-with-textboxes/textbox-sequences-check/
+url: /net/tutorials/words-with-textboxes/textbox-sequences-check/
 ---
 ## Introduction
 

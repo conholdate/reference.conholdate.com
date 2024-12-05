@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to create and link text boxes seamlessly in Word documents with Aspose.Words for .NET. Follow our detailed guide for effortless content flow and professional results.
 type: docs
 weight: 10
-url: /net/words-with-textboxes/linked-text-boxes/
+url: /net/tutorials/words-with-textboxes/linked-text-boxes/
 ---
 ## Introduction
 
