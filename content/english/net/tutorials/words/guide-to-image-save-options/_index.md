@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Discover practical tutorials on using Aspose.Words for .NET to save images, with easy-to-follow steps and code samples for efficient document processing.
 type: docs
 weight: 1630
-url: /net/tutorials/guide-to-image-save-options/
+url: /net/tutorials/words/guide-to-image-save-options/
 ---
 ## Introduction
 

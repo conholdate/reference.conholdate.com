@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn step-by-step how to configure image save options for optimal document processing, from loading your document to customizing the output settings. Perfect for both seasoned developers and beginners.
 type: docs
 weight: 10
-url: /net/tutorials/guide-to-image-save-options/expose-threshold-control-for-tiff-binarization-in-word-document/
+url: /net/tutorials/words/guide-to-image-save-options/expose-threshold-control-for-tiff-binarization-in-word-document/
 ---
 ## Introduction
 

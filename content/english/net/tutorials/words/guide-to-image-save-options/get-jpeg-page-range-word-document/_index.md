@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to easily convert specific pages of Word documents into JPEG images using Aspose.Words for .NET. This comprehensive guide covers everything from loading your document and configuring image settings to saving as JPEG.
 type: docs
 weight: 10
-url: /net/tutorials/guide-to-image-save-options/get-jpeg-page-range-word-document/
+url: /net/tutorials/words/guide-to-image-save-options/get-jpeg-page-range-word-document/
 ---
 ## Introduction
 

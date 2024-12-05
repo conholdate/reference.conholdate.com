@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: This guide provides step-by-step instructions and sample code to help you efficiently create 1Bpp indexed images for archiving, printing, or space-saving purposes.
 type: docs
 weight: 10
-url: /net/tutorials/guide-to-image-save-options/create-1bpp-indexed/
+url: /net/tutorials/words/guide-to-image-save-options/create-1bpp-indexed/
 ---
 ## Introduction
 

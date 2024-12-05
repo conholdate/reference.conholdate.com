@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to programmatically sign Word documents using Aspose.Words for .NET in this comprehensive step-by-step guide.
 type: docs
 weight: 10
-url: /net/tutorials/digital-signatures/digitally-signing-word-document/
+url: /net/tutorials/words/digital-signatures/digitally-signing-word-document/
 ---
 ## Introduction
 

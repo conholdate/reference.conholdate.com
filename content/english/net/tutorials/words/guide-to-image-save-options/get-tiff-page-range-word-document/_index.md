@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to easily convert specific page ranges into TIFF images with Aspose.Words for .NET. This step-by-step guide walks you through the entire process.
 type: docs
 weight: 10
-url: /net/tutorials/guide-to-image-save-options/get-tiff-page-range-word-document/
+url: /net/tutorials/words/guide-to-image-save-options/get-tiff-page-range-word-document/
 ---
 ## Introduction
 

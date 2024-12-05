@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Explore step-by-step tutorials on signing, verifying, and managing digital signatures in Word documents using Aspose.Words for .NET.
 type: docs
 weight: 1440
-url: /net/tutorials/digital-signatures/
+url: /net/tutorials/words/digital-signatures/
 ---
 ## Introduction
 

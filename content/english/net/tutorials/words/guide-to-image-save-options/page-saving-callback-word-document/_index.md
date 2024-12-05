@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to easily convert each page of a Word document into individual PNG images using Aspose.Words for .NET. This guide provides step-by-step instructions, including code examples.
 type: docs
 weight: 10
-url: /net/tutorials/guide-to-image-save-options/page-saving-callback-word-document/
+url: /net/tutorials/words/guide-to-image-save-options/page-saving-callback-word-document/
 ---
 ## Introduction
 
