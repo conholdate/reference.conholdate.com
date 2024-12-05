@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to add and configure Web Extension Task Panes in Word documents using Aspose.Words for .NET. Follow this comprehensive guide for seamless integration with detailed code examples and step-by-step instructions.
 type: docs
 weight: 10
-url: /net/web-extensions/mastering-web-extension-task-panes/
+url: /net/tutorials/web-extensions/mastering-web-extension-task-panes/
 ---
 ## Introduction  
 
