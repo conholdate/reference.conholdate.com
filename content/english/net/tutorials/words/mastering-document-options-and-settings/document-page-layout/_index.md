@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn to set up your page layout, define characters per line, and optimize document appearance with simple, actionable steps. Perfect for developers at any level.
 type: docs
 weight: 10
-url: /net/mastering-document-options-and-settings/document-page-layout/
+url: /net/tutorials/mastering-document-options-and-settings/document-page-layout/
 ---
 ## Introduction
 
