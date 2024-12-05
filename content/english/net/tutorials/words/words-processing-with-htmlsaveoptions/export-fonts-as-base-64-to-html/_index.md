@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to effortlessly embed fonts as Base 64 in HTML files using Aspose.Words for .NET. This step-by-step guide will help you ensure consistent font display across various browsers and platforms.
 type: docs
 weight: 10
-url: /net/tutorials/words-processing-with-htmlsaveoptions/export-fonts-as-base-64-to-html/
+url: /net/tutorials/words/words-processing-with-htmlsaveoptions/export-fonts-as-base-64-to-html/
 ---
 ## Introduction
 

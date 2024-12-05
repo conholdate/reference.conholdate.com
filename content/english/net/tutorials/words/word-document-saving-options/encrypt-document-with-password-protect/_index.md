@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to secure your documents by adding password protection using Aspose.Words for .NET. This comprehensive guide walks you through the process.
 type: docs
 weight: 10
-url: /net/tutorials/word-document-saving-options/encrypt-document-with-password-protect/
+url: /net/tutorials/words/word-document-saving-options/encrypt-document-with-password-protect/
 ---
 ## Introduction
 

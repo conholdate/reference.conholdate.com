@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to remove personal information, including metadata and author details, from your Word documents using Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /net/tutorials/mastering-document-properties/remove-personal-information-word-document/
+url: /net/tutorials/words/mastering-document-properties/remove-personal-information-word-document/
 ---
 ## Introduction
 

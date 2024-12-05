@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to effectively resolve font issues when converting Word documents to HTML using Aspose.Words for .NET. This step-by-step guide provides clear instructions on configuring save options to ensure your fonts appear correctly in the exported HTML format.
 type: docs
 weight: 10
-url: /net/tutorials/words-processing-with-htmlsaveoptions/resolve-font-names-in-html-conversion/
+url: /net/tutorials/words/words-processing-with-htmlsaveoptions/resolve-font-names-in-html-conversion/
 ---
 ## Introduction
 

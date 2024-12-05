@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to automate the detection of grammatical and spelling errors in Word documents using Aspose.Words for .NET. This step-by-step guide.
 type: docs
 weight: 10
-url: /net/tutorials/mastering-document-options-and-settings/highlight-grammatical-and-spelling-errors/
+url: /net/tutorials/words/mastering-document-options-and-settings/highlight-grammatical-and-spelling-errors/
 ---
 ## Introduction
 

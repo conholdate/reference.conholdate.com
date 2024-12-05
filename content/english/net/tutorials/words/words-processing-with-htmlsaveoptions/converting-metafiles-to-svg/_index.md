@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Discover how to enhance your Word documents by converting metafiles to SVG using the powerful Aspose.Words for .NET library. This comprehensive tutorial walks you through each step, from initializing your document to inserting SVG graphics.
 type: docs
 weight: 10
-url: /net/tutorials/words-processing-with-htmlsaveoptions/converting-metafiles-to-svg/
+url: /net/tutorials/words/words-processing-with-htmlsaveoptions/converting-metafiles-to-svg/
 ---
 ## Introduction
 

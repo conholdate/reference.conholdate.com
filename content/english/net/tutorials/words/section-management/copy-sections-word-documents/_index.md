@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn step-by-step how to efficiently copy sections between Word documents using Aspose.Words for .NET. This detailed guide covers prerequisites, code examples, advanced tips, and FAQs.
 type: docs
 weight: 10
-url: /net/tutorials/section-management/copy-sections-word-documents/
+url: /net/tutorials/words/section-management/copy-sections-word-documents/
 ---
 ## Introduction
 

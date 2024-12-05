@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Discover how to efficiently delete sections from Word documents using Aspose.Words for .NET. This comprehensive guide walks you through the prerequisites.
 type: docs
 weight: 10
-url: /net/tutorials/section-management/delete-sections-word-document/
+url: /net/tutorials/words/section-management/delete-sections-word-document/
 ---
 ## Introduction
 

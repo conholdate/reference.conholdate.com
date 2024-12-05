@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to detect digital signatures in Word documents using the Aspose.Words for .NET library. This comprehensive tutorial covers everything from project setup to checking for digital signatures.
 type: docs
 weight: 10
-url: /net/tutorials/words-processing-with-file-format/detecting-digital-signatures/
+url: /net/tutorials/words/words-processing-with-file-format/detecting-digital-signatures/
 ---
 ## Introduction
 

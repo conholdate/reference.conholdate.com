@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Discover how to ensure the consistent appearance of your Word documents across different platforms by leveraging target machine fonts with Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /net/tutorials/html-fixed-save-options/target-machine-font/
+url: /net/tutorials/words/html-fixed-save-options/target-machine-font/
 ---
 ## Introduction
 

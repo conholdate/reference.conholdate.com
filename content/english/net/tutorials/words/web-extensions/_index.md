@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to enhance your Word documents through powerful web-based add-ins, enabling dynamic functionality. Whether you're a beginner or an experienced developer.
 type: docs
 weight: 1530
-url: /net/tutorials/web-extensions/
+url: /net/tutorials/words/web-extensions/
 ---
 ## Introduction
 

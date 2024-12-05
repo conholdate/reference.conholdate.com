@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to customize your Word documents by setting Russian as the default editing language using Aspose.Words for .NET. This step-by-step guide.
 type: docs
 weight: 10
-url: /net/tutorials/mastering-document-options-and-settings/set-russian-as-default-edit-language/
+url: /net/tutorials/words/mastering-document-options-and-settings/set-russian-as-default-edit-language/
 ---
 ## Introduction
 

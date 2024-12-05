@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Unlock the power of Aspose.Words for .NET with our step-by-step tutorials, covering HTML and metafile conversion to enhance your document processing.
 type: docs
 weight: 1620
-url: /net/tutorials/words-processing-with-htmlsaveoptions/
+url: /net/tutorials/words/words-processing-with-htmlsaveoptions/
 ---
 ## Introduction
 

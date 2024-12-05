@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Discover how to efficiently read and extract VBA macros from Word documents using Aspose.Words for .NET. This detailed guide provides step-by-step instructions, including code examples.
 type: docs
 weight: 10
-url: /net/tutorials/words-with-vba-macros/reading-vba-macros-word-document/
+url: /net/tutorials/words/words-with-vba-macros/reading-vba-macros-word-document/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Discover how to break, manage, and customize forward links in text boxes using Aspose.Words for .NET. This step-by-step guide covers everything you need to streamline your document layout and enhance your Word file management.
 type: docs
 weight: 10
-url: /net/tutorials/words-with-textboxes/break-forward-link/
+url: /net/tutorials/words/words-with-textboxes/break-forward-link/
 ---
 ## Introduction
 

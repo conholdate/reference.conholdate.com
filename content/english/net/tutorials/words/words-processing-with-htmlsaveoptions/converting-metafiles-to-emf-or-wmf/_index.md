@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to seamlessly convert SVG images to EMF or WMF formats in Word documents using Aspose.Words for .NET. Step-by-step guide with code examples for accurate and compatible results.
 type: docs
 weight: 10
-url: /net/tutorials/words-processing-with-htmlsaveoptions/converting-metafiles-to-emf-or-wmf/
+url: /net/tutorials/words/words-processing-with-htmlsaveoptions/converting-metafiles-to-emf-or-wmf/
 ---
 ## Introduction
 

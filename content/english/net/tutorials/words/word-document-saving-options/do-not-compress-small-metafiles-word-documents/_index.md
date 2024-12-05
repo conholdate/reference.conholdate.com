@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: This guide walks you through the step-by-step process of using the 'Do Not Compress Small Metafiles' feature, ensuring your documents maintain their integrity and quality throughout the saving process.
 type: docs
 weight: 10
-url: /net/tutorials/word-document-saving-options/do-not-compress-small-metafiles-word-documents/
+url: /net/tutorials/words/word-document-saving-options/do-not-compress-small-metafiles-word-documents/
 ---
 ## Introduction
 

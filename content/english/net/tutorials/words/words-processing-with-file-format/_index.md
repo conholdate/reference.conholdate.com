@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Unlock the power of Aspose.Words for .NET with our comprehensive tutorials on document processing, including file format detection and digital signatures.
 type: docs
 weight: 1610
-url: /net/tutorials/words-processing-with-file-format/
+url: /net/tutorials/words/words-processing-with-file-format/
 ---
 ## Introduction
 

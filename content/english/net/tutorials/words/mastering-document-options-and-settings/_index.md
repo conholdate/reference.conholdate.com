@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Explore Aspose.Words for .NET tutorials for mastering document options and settings. Learn optimizing for Word, grammar checks, page layouts, and editing languages.
 type: docs
 weight: 1510
-url: /net/tutorials/mastering-document-options-and-settings/
+url: /net/tutorials/words/mastering-document-options-and-settings/
 ---
 ## Introduction
 

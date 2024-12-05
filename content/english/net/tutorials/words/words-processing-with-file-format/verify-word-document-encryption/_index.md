@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to check the encryption status of Word documents within your .NET applications using the powerful Aspose.Words library. This step-by-step tutorial covers the prerequisites, code implementation, and helpful FAQs.
 type: docs
 weight: 10
-url: /net/tutorials/words-processing-with-file-format/verify-word-document-encryption/
+url: /net/tutorials/words/words-processing-with-file-format/verify-word-document-encryption/
 ---
 ## Introduction
 

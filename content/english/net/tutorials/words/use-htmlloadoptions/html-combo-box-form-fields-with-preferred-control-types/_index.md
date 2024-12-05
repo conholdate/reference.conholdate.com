@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to insert combo box form fields into Word documents using Aspose.Words for .NET. This step-by-step guide covers HTML load options, preferred control types, and advanced customization tips for seamless document automation.
 type: docs
 weight: 10
-url: /net/tutorials/use-htmlloadoptions/html-combo-box-form-fields-with-preferred-control-types/
+url: /net/tutorials/words/use-htmlloadoptions/html-combo-box-form-fields-with-preferred-control-types/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to use Aspose.Words for .NET to write all CSS rules to a single file when saving documents with HtmlFixedSaveOptions. Follow this detailed tutorial for step-by-step guidance.
 type: docs
 weight: 10
-url: /net/tutorials/html-fixed-save-options/save-all-css-rules-in-single-file/
+url: /net/tutorials/words/html-fixed-save-options/save-all-css-rules-in-single-file/
 ---
 ## Introduction
 

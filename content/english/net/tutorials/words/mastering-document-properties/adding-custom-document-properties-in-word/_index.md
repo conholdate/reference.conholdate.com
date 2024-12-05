@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to enhance your Word documents with custom document properties using Aspose.Words for .NET. This comprehensive guide walks you through the process.
 type: docs
 weight: 10
-url: /net/tutorials/mastering-document-properties/adding-custom-document-properties-in-word/
+url: /net/tutorials/words/mastering-document-properties/adding-custom-document-properties-in-word/
 ---
 ## Introduction
 

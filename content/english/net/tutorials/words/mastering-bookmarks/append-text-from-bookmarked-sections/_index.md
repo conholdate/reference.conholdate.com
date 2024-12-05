@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to seamlessly append text from bookmarked sections of a Word document with Aspose.Words for .NET. This step-by-step tutorial.
 type: docs
 weight: 10
-url: /net/tutorials/mastering-bookmarks/append-text-from-bookmarked-sections/
+url: /net/tutorials/words/mastering-bookmarks/append-text-from-bookmarked-sections/
 ---
 ## Introduction
 

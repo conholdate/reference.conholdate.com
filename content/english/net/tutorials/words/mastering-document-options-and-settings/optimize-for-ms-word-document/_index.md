@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Discover how to ensure your Word documents maintain their formatting and appearance across different Microsoft Word versions using Aspose.Words for .NET.
 type: docs
 weight: 10
-url: /net/tutorials/mastering-document-options-and-settings/optimize-for-ms-word-document/
+url: /net/tutorials/words/mastering-document-options-and-settings/optimize-for-ms-word-document/
 ---
 ## Introduction
 

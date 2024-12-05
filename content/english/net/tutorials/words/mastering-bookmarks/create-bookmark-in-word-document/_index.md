@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to enhance your Word documents by creating and managing bookmarks using Aspose.Words for .NET. This step-by-step tutorial guide.
 type: docs
 weight: 10
-url: /net/tutorials/mastering-bookmarks/create-bookmark-in-word-document/
+url: /net/tutorials/words/mastering-bookmarks/create-bookmark-in-word-document/
 ---
 ## Introduction
 

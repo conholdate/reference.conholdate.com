@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to detect and manage various document file formats seamlessly using Aspose.Words for .NET. Follow our detailed guide with practical examples, tips, and FAQs.
 type: docs
 weight: 10
-url: /net/tutorials/words-processing-with-file-format/document-file-format-detection/
+url: /net/tutorials/words/words-processing-with-file-format/document-file-format-detection/
 ---
 ## Introduction
 
