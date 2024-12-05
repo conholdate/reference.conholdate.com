@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Explore comprehensive Aspose.Words for .NET tutorials for customizing Word document saving options, including password protection, preserving image quality, and managing picture bullets. 
 type: docs
 weight: 1600
-url: /net/word-document-saving-options/
+url: /net/tutorials/word-document-saving-options/
 ---
 ## Introduction
 

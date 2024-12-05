@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Discover how to effectively manage picture bullets in Word documents with Aspose.Words for .NET. This comprehensive guide walks you through the steps to set up your environment, configure save options.
 type: docs
 weight: 10
-url: /net/word-document-saving-options/manage-picture-bullet/
+url: /net/tutorials/word-document-saving-options/manage-picture-bullet/
 ---
 ## Introduction
 
