@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to effectively manage margins, headers, and footers in Word documents using Aspose.Words for .NET. This detailed guide walks you through converting measurement units.
 type: docs
 weight: 10
-url: /net/mastering-document-properties/converting-between-measurement-units/
+url: /net/tutorials/mastering-document-properties/converting-between-measurement-units/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Master document properties with Aspose.Words for .NET. Learn to add, remove, and convert measurement units in Word documents with these easy-to-follow tutorials.
 type: docs
 weight: 1520
-url: /net/mastering-document-properties/
+url: /net/tutorials/mastering-document-properties/
 ---
 ##Introduction  
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to remove custom document properties from Word files using Aspose.Words for .NET. This detailed guide provides step-by-step instructions to efficiently clean up document metadata, saving time in document management and automation.
 type: docs
 weight: 10
-url: /net/mastering-document-properties/remove-custom-document-properties-in-word-files/
+url: /net/tutorials/mastering-document-properties/remove-custom-document-properties-in-word-files/
 ---
 ## Introduction
 
