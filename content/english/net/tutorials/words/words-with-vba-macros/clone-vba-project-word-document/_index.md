@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to seamlessly clone VBA projects from one Word document to another using Aspose.Words for .NET. This step-by-step tutorial walks you through the setup.
 type: docs
 weight: 10
-url: /net/words-with-vba-macros/clone-vba-project-word-document/
+url: /net/tutorials/words-with-vba-macros/clone-vba-project-word-document/
 ---
 ## Introduction
 

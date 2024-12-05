@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Unlock the power of automation in Word documents with our comprehensive guide on creating VBA projects using Aspose.Words for .NET. This step-by-step tutorial guide.
 type: docs
 weight: 10
-url: /net/words-with-vba-macros/creating-vba-project/
+url: /net/tutorials/words-with-vba-macros/creating-vba-project/
 ---
 ## Introduction
 
