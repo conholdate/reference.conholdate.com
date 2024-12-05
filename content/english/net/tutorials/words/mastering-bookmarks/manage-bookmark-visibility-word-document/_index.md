@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Discover how to expertly control the visibility of content in Word documents using Aspose.Words for .NET. This step-by-step guide.
 type: docs
 weight: 10
-url: /net/mastering-bookmarks/manage-bookmark-visibility-word-document/
+url: /net/tutorials/mastering-bookmarks/manage-bookmark-visibility-word-document/
 ---
 ## Introduction
 

@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to efficiently delete specific rows in Word documents by utilizing bookmarks with Aspose.Words for .NET. This step-by-step guide covers loading documents.
 type: docs
 weight: 10
-url: /net/mastering-bookmarks/delete-row-by-bookmark-word-documents/
+url: /net/tutorials/mastering-bookmarks/delete-row-by-bookmark-word-documents/
 ---
 ## Introduction
 
