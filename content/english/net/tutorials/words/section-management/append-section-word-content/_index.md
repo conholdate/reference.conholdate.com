@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn the fundamentals of creating, modifying, and appending sections in Word documents with easy-to-follow examples, perfect for both beginners and experienced developers.
 type: docs
 weight: 10
-url: /net/section-management/append-section-word-content/
+url: /net/tutorials/section-management/append-section-word-content/
 ---
 ## Introduction
 

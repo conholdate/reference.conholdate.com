@@ -5,7 +5,7 @@ second_title: Aspose.Words Document Processing API
 description: Learn how to create sections in Word documents to enhance readability and professionalism. This guide covers everything from initializing a document to saving your work.
 type: docs
 weight: 10
-url: /net/section-management/adding-sections/
+url: /net/tutorials/section-management/adding-sections/
 ---
 ## Introduction
 
