@@ -7,7 +7,7 @@ type: docs
 weight: 1520
 url: /zh-hant/net/tutorials/words/mastering-document-properties/
 ---
-＃＃介紹  
+＃＃ 介紹  
 
 Aspose.Words for .NET 提供了一系列強大的功能來操作 Word 文件，從而更輕鬆地管理元資料和格式設定。其中一項功能是掌握文件屬性。在本文中，我們將深入研究教程，涵蓋添加自訂文件屬性、刪除不必要的元數據，甚至轉換測量單位以增強文件管理。讓我們探索這些教學如何幫助改善您的工作流程。
 

@@ -7,7 +7,7 @@ type: docs
 weight: 1520
 url: /pl/net/tutorials/words/mastering-document-properties/
 ---
-##Wstęp  
+## Wstęp  
 
 Aspose.Words for .NET oferuje szeroki zakres zaawansowanych funkcji do manipulowania dokumentami Word, ułatwiając zarządzanie metadanymi i formatowaniem. Jedną z takich funkcji jest opanowanie właściwości dokumentu. W tym artykule zagłębimy się w samouczki, które obejmują dodawanie niestandardowych właściwości dokumentu, usuwanie niepotrzebnych metadanych, a nawet konwersję jednostek miary w celu ulepszonego zarządzania dokumentami. Przyjrzyjmy się, w jaki sposób te samouczki mogą pomóc w ulepszeniu przepływu pracy.
 

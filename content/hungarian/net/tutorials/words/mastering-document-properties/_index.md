@@ -7,7 +7,7 @@ type: docs
 weight: 1520
 url: /hu/net/tutorials/words/mastering-document-properties/
 ---
-##Bevezetés  
+## Bevezetés  
 
 Az Aspose.Words for .NET hatékony funkciók széles skáláját kínálja a Word dokumentumok kezeléséhez, megkönnyítve a metaadatok kezelését és a formázást. Az egyik ilyen funkció a dokumentum tulajdonságainak elsajátítása. Ebben a cikkben olyan oktatóanyagokat mutatunk be, amelyek az egyéni dokumentumtulajdonságok hozzáadásával, a szükségtelen metaadatok eltávolításával és a mértékegységek konvertálásával foglalkoznak a továbbfejlesztett dokumentumkezelés érdekében. Nézzük meg, hogyan segíthetnek ezek az oktatóanyagok a munkafolyamat javításában.
 

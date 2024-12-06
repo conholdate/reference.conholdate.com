@@ -7,7 +7,7 @@ type: docs
 weight: 1520
 url: /vi/net/tutorials/words/mastering-document-properties/
 ---
-##Giới thiệu  
+## Giới thiệu  
 
 Aspose.Words for .NET cung cấp nhiều tính năng mạnh mẽ để thao tác với tài liệu Word, giúp quản lý siêu dữ liệu và định dạng dễ dàng hơn. Một trong những tính năng đó là làm chủ các thuộc tính tài liệu. Trong bài viết này, chúng ta sẽ tìm hiểu sâu hơn về các hướng dẫn bao gồm thêm các thuộc tính tài liệu tùy chỉnh, xóa siêu dữ liệu không cần thiết và thậm chí chuyển đổi đơn vị đo lường để quản lý tài liệu nâng cao. Hãy cùng khám phá cách các hướng dẫn này có thể giúp cải thiện quy trình làm việc của bạn.
 

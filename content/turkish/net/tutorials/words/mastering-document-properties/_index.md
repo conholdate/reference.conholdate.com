@@ -7,7 +7,7 @@ type: docs
 weight: 1520
 url: /tr/net/tutorials/words/mastering-document-properties/
 ---
-##Giriiş  
+## Giriiş  
 
 Aspose.Words for .NET, Word belgelerini düzenlemek için çok çeşitli güçlü özellikler sunarak meta verileri ve biçimlendirmeyi yönetmeyi kolaylaştırır. Bu özelliklerden biri de belge özelliklerinde ustalaşmaktır. Bu makalede, özel belge özellikleri eklemeyi, gereksiz meta verileri kaldırmayı ve hatta gelişmiş belge yönetimi için ölçü birimlerini dönüştürmeyi kapsayan öğreticilere dalacağız. Bu öğreticilerin iş akışınızı nasıl iyileştirebileceğini inceleyelim.
 
