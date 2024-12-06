@@ -15,9 +15,9 @@ Membuat adegan 3D panorama yang imersif merupakan pengubah permainan bagi para p
 
 Sebelum memulai proses rendering, pastikan Anda telah menyiapkan hal-hal berikut:
 
--  Aspose.3D untuk .NET: Untuk memulai, Anda perlu menginstal Aspose.3D, yang menyediakan semua alat yang diperlukan untuk menangani aset 3D dan merender.[Unduh Aspose.3D untuk .NET](https://releases.aspose.com/3d/net/) untuk memulai.
+- Aspose.3D untuk .NET: Untuk memulai, Anda perlu menginstal Aspose.3D, yang menyediakan semua alat yang diperlukan untuk menangani aset 3D dan merender.[Unduh Aspose.3D untuk .NET](https://releases.aspose.com/3d/net/) untuk memulai.
 - Lingkungan Pengembangan .NET: Diperlukan lingkungan pengembangan .NET yang dikonfigurasikan sepenuhnya. Pastikan Anda memiliki Visual Studio atau IDE lain yang kompatibel.
-- Contoh File Adegan 3D: Anda dapat menggunakan adegan 3D apa pun dalam format seperti`.glb`, `.fbx` , atau`.obj`Untuk tutorial ini, kami akan menggunakan file "VirtualCity.glb" yang sederhana.
+-  Contoh File Adegan 3D: Anda dapat menggunakan adegan 3D apa pun dalam format seperti`.glb`, `.fbx` , atau`.obj`Untuk tutorial ini, kami akan menggunakan file "VirtualCity.glb" yang sederhana.
 
 Setelah Anda memenuhi prasyarat ini, kita dapat lanjut ke penyiapan tempat kejadian.
 

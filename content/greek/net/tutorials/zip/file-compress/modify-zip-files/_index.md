@@ -17,7 +17,7 @@ url: /el/net/tutorials/zip/file-compress/modify-zip-files/
 
 1.  Aspose.Zip για .NET Library: Εγκαταστήστε τη βιβλιοθήκη στο έργο σας. Μπορείτε να το κατεβάσετε[εδώ](https://releases.aspose.com/zip/net/).
    
-2. Κατάλογος εγγράφων: Ρυθμίστε έναν κατάλογο για να αποθηκεύσετε τα αρχεία zip σας. Αντικαθιστώ`"Your Document Directory"` στον κωδικό με την πραγματική διαδρομή σας.
+2.  Κατάλογος εγγράφων: Ρυθμίστε έναν κατάλογο για να αποθηκεύσετε τα αρχεία zip σας. Αντικαθιστώ`"Your Document Directory"` στον κωδικό με την πραγματική διαδρομή σας.
 
 ## Εισαγωγή απαραίτητων χώρων ονομάτων
 
@@ -126,7 +126,7 @@ outer.Save(dataDir + "flatten.zip");
  Επισκεφθείτε το[Aspose.Zip φόρουμ](https://forum.aspose.com/c/zip/37) για υποστήριξη και συζητήσεις.
 
 ### Μπορώ να αγοράσω μια προσωρινή άδεια χρήσης για το Aspose.Zip για .NET;
- Ναι, μπορείτε να αποκτήσετε προσωρινή άδεια[εδώ](https://purchase.conholdate.com/temporary-license/).
+Ναι, μπορείτε να αποκτήσετε προσωρινή άδεια[εδώ](https://purchase.conholdate.com/temporary-license/).
 
 ### Πού μπορώ να βρω την τεκμηρίωση για το Aspose.Zip για .NET;
  Η πλήρης τεκμηρίωση είναι διαθέσιμη[εδώ](https://reference.aspose.com/zip/net/).

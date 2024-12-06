@@ -2,7 +2,7 @@
 title: 使用 Aspose.Note 在 OneNote 文件中附加文件的指南
 linktitle: 使用 Aspose.Note 在 OneNote 文件中附加文件的指南
 second_title: Aspose.Note .NET API
-description: 本綜合指南將引導您完成以程式設計方式將文件附加到 OneNote 文件的流程，使您能夠提升筆記記錄和文件管理任務的能力。提供清晰的逐步說明和有用的常見問題。
+description: 本綜合指南將引導您完成以程式設計方式將文件附加到 OneNote 文件的過程，讓您能夠提升筆記記錄和文件管理任務。提供清晰的逐步說明和有用的常見問題。
 type: docs
 weight: 11
 url: /zh-hant/net/tutorials/note/manage-attachments/attach-file-in-one-note-documents/

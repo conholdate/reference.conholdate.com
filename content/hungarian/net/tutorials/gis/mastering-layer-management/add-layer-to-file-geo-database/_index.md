@@ -9,7 +9,7 @@ url: /hu/net/tutorials/gis/mastering-layer-management/add-layer-to-file-geo-data
 ---
 ## Bevezetés
 
-földrajzi információs rendszer (GIS) technológiája kulcsszerepet játszik a modern adatelemzésben és -vizualizációban. Az Aspose.GIS for .NET egy kivételes könyvtár, amely lehetővé teszi a fejlesztők számára a földrajzi adatok hatékony kezelését. Ez a részletes útmutató azt mutatja be, hogyan adhat hozzá új réteget egy fájl geoadatbázis (GDB) adatkészlethez az Aspose.GIS for .NET használatával. Kövesse ezeket az átfogó lépéseket a rétegek zökkenőmentes integrálásához és GIS-képességeinek fejlesztéséhez.
+földrajzi információs rendszer (GIS) technológiája kulcsszerepet játszik a modern adatelemzésben és -vizualizációban. Az Aspose.GIS for .NET egy kivételes könyvtár, amely lehetővé teszi a fejlesztők számára a földrajzi adatok hatékony kezelését. Ez a részletes útmutató bemutatja, hogyan adhat hozzá új réteget egy fájl geoadatbázis (GDB) adatkészlethez az Aspose.GIS for .NET használatával. Kövesse ezeket az átfogó lépéseket a rétegek zökkenőmentes integrálásához és GIS-képességeinek fejlesztéséhez.
 
 ## Előfeltételek a rétegek hozzáadásához a GDB fájlhoz
 

@@ -67,7 +67,7 @@ var options = new PdfConvertOptions(); // PDF-Konvertierungsoptionen erstellen
 converter.Convert(outputFile, options); // Führen Sie die Konvertierung durch
 ```
 
-## Schritt 5: Eine Abschlussmeldung anzeigen
+## Schritt 5: Anzeige einer Abschlussmeldung
 Sobald die Konvertierung abgeschlossen ist, empfiehlt es sich, den Benutzer zu informieren. Sie können die folgende Zeile hinzufügen:
 
 ```csharp

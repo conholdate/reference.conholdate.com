@@ -15,7 +15,7 @@ url: /el/net/tutorials/cad/guide-to-cad-features-and-support/read-dwt-files/
 
 Πριν προχωρήσουμε στην υλοποίηση, βεβαιωθείτε ότι έχετε έτοιμα τα ακόλουθα:
 
--  Aspose.CAD για .NET: Λήψη και εγκατάσταση της βιβλιοθήκης από το[Aspose ιστότοπο](https://releases.aspose.com/cad/net/).
+-  Aspose.CAD για .NET: Λήψη και εγκατάσταση της βιβλιοθήκης από το[Aspose website](https://releases.aspose.com/cad/net/).
 - Περιβάλλον ανάπτυξης: Ρυθμίστε ένα κατάλληλο περιβάλλον ανάπτυξης .NET (π.χ. Visual Studio).
 - Κατάλογος εγγράφων: Προσδιορίστε τη διαδρομή προς το αρχείο DWT και αντικαταστήστε το "Ο Κατάλογος εγγράφων σας" στα αποσπάσματα κώδικα ανάλογα.
 

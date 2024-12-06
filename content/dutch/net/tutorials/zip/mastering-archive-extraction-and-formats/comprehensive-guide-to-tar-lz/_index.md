@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // Vervang door uw werkelijke pad
 ```
 
- Zorg ervoor dat u vervangt`"YourDocumentDirectoryPath"`met het daadwerkelijke pad waar uw bestanden zich bevinden, zodat de code correct functioneert.
+ Zorg ervoor dat u vervangt`"YourDocumentDirectoryPath"` met het daadwerkelijke pad waar uw bestanden zich bevinden, zodat de code correct functioneert.
 
 ## Stap 2: Een enkel bestand comprimeren
 
@@ -68,7 +68,7 @@ using (TarArchive archive = new TarArchive())
 //ExEnd: Meerdere bestanden comprimeren
 ```
 
- Dit volgt een soortgelijke structuur als de vorige stap.`CreateEntry` De methode kan meerdere keren worden aangeroepen om extra bestanden in het archief op te nemen.
+ Dit volgt een soortgelijke structuur als de vorige stap.`CreateEntry`De methode kan meerdere keren worden aangeroepen om extra bestanden in het archief op te nemen.
 
 ## Conclusie
 
@@ -89,4 +89,4 @@ Ja, de code is compatibel met de meest recente versie. Zorg er altijd voor dat u
 Ja, de bibliotheek kan worden gebruikt voor zowel commerciële als persoonlijke projecten, onder voorbehoud van de licentievoorwaarden.
 
 ### Waar kan ik ondersteuning vinden als ik problemen ondervind?
- Voor ondersteuning, bezoek de[Aspose.Zip-forum](https://forum.aspose.com/c/zip/37), waar u vragen kunt stellen en advies van de community kunt krijgen over het oplossen van problemen.
+ Voor ondersteuning, bezoek de[Aspose.Zip-forum](https://forum.aspose.com/c/zip/37)waar u vragen kunt stellen en advies van de community kunt krijgen over het oplossen van problemen.

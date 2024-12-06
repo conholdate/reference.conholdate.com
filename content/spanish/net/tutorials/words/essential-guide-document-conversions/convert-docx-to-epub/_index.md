@@ -9,7 +9,7 @@ url: /es/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 ---
 ## Introducción
 
-En el desarrollo de .NET, es fundamental manejar documentos de Word de manera eficiente, en particular cuando se convierten a diferentes formatos como EPUB. Aspose.Words para .NET ofrece un conjunto de herramientas sólido para simplificar las tareas de procesamiento de documentos. Este tutorial lo guiará paso a paso sobre cómo convertir archivos DOCX al formato EPUB utilizando Aspose.Words para .NET.
+En el desarrollo de .NET, es esencial manejar documentos de Word de manera eficiente, en particular cuando se convierten a diferentes formatos como EPUB. Aspose.Words para .NET ofrece un conjunto de herramientas sólido para simplificar las tareas de procesamiento de documentos. Este tutorial lo guiará paso a paso sobre cómo convertir archivos DOCX al formato EPUB utilizando Aspose.Words para .NET.
 
 ## Prerrequisitos
 

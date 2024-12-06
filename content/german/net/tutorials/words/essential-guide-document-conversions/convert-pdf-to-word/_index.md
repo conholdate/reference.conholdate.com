@@ -26,7 +26,7 @@ Bevor wir mit dem Konvertierungsprozess beginnen, stellen wir sicher, dass Sie a
 2. Erstellen Sie ein neues Projekt: Öffnen Sie Ihre IDE, erstellen Sie ein neues .NET-Projekt und fügen Sie einen Verweis auf Aspose.Words hinzu.
 3. Bereiten Sie Ihr PDF-Dokument vor: Stellen Sie sicher, dass sich das PDF-Dokument, das Sie konvertieren möchten, in Ihrem Projektverzeichnis befindet.
 
-Wenn diese wichtigen Voraussetzungen erfüllt sind, können wir loslegen!
+Wenn diese Grundvoraussetzungen erfüllt sind, können wir loslegen!
 
 ## Namespaces importieren
 
@@ -82,7 +82,7 @@ Herzlichen Glückwunsch! Sie haben mit Aspose.Words für .NET erfolgreich ein PD
 Auf jeden Fall! Sie können mehrere PDFs durchlaufen und jedes mit derselben Methode konvertieren.
 
 ### Behält Aspose.Words für .NET die Formatierung des PDF im Word-Dokument bei?
-Ja, Aspose.Words zeichnet sich dadurch aus, dass die ursprüngliche Formatierung während des Konvertierungsprozesses erhalten bleibt.
+Ja, Aspose.Words zeichnet sich durch die Beibehaltung der ursprünglichen Formatierung während des Konvertierungsprozesses aus.
 
 ### Benötige ich eine Lizenz, um Aspose.Words für .NET zu verwenden?
  Während eine temporäre Lizenz zur Evaluierung verfügbar ist, ist für die kommerzielle Nutzung eine Volllizenz erforderlich. Schauen Sie sich die[Kaufseite](https://purchase.conholdate.com/buy) für weitere Details.

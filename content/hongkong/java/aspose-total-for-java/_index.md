@@ -55,7 +55,7 @@ Aspose.Cells for Java 是一個類別庫，可讓您的應用程式執行各種�
 
 {{% alert color="primary" %}}
 
-![Java 版 Aspose.Email](home_5.png)
+![用於 Java 的 Aspose.Email](home_5.png)
 
 Aspose.Email for Java 是一個 Java API，它使 Java 應用程式能夠在不使用 Microsoft Outlook® 的情況下讀取和寫入 Microsoft Outlook® 文件。 Aspose.Email for Java 提供了許多關鍵功能，例如管理 Microsoft Outlook® MSG 文件中的收件者、主題、正文、附件以及從 Microsoft Outlook® PST 文件中讀取聯絡人、訊息和資料夾資訊。它也可用於建立、修改和轉換 EML、MSG 和 MHT 格式的電子郵件。
 
@@ -196,7 +196,7 @@ Aspose.Diagram 利用 Visio 服務提供的進階功能來操作伺服器上的 
 
 Aspose.CAD for Java 允許開發人員將 AutoCAD DWG、DWF 和 DXF 檔案轉換為 PDF 和光柵影像。它是本機 API，不需要安裝 AutoCAD 或任何軟體。
 
-您也可以從 AutoCAD 檔案轉換選定的圖層和佈局。轉換為 PDF 和光柵圖像的品質非常高。
+您也可以轉換 AutoCAD 檔案中選定的圖層和佈局。轉換為 PDF 和光柵圖像的品質非常高。
 
 在專案中使用 Aspose.CAD for Java 為您帶來以下好處：
 
@@ -219,7 +219,7 @@ Aspose.CAD for Java 允許開發人員將 AutoCAD DWG、DWF 和 DXF 檔案轉換
 
 **Welcome to Aspose.HTML for Java**
 
-Aspose.HTML for Java 是一種高階 HTML 操作 API，旨在直接在 Java 應用程式中執行各種 HTML 操作任務。該 API 還為 PDF 和 XPS 等固定佈局格式以及多種光柵影像格式提供高保真渲染引擎。
+Aspose.HTML for Java 是一種高階 HTML 操作 API，旨在直接在 Java 應用程式中執行各種 HTML 操作任務。該 API 還為 PDF 和 XPS 等固定佈局格式以及多種光柵影像格式提供高保真度渲染引擎。
 
 {{% /alert %}}
 

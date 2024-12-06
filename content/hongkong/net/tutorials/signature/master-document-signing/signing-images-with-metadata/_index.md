@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/signature/master-document-signing/signing-images-wit
 ---
 ## 介紹
 
-GroupDocs.Signature for .NET 是一個功能強大的程式庫，可讓開發人員使用元資料有效地對影像進行簽署。本教學將逐步指導您完成流程。
+GroupDocs.Signature for .NET 是一個功能強大的程式庫，可讓開發人員使用元資料有效地對映像進行簽署。本教學將逐步指導您完成流程。
 
 ## 先決條件
 

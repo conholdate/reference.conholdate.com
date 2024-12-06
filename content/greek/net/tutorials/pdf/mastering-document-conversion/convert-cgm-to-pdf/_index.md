@@ -98,7 +98,7 @@ doc.Save(dataDir + "TECHDRAW_out.pdf");
 
 ### Υπάρχει δωρεάν δοκιμή διαθέσιμη;
 
- Ναι, το Aspose προσφέρει μια δωρεάν δοκιμή που μπορείτε να κατεβάσετε από το[Aspose ιστότοπο](https://releases.aspose.com/).
+ Ναι, το Aspose προσφέρει μια δωρεάν δοκιμή που μπορείτε να κατεβάσετε από το[Aspose website](https://releases.aspose.com/).
 
 ### Πού μπορώ να βρω υποστήριξη για το Aspose.PDF;
 

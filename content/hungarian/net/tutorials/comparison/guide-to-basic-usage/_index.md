@@ -25,6 +25,6 @@ Ezt az különbözteti meg egymástól, hogy zökkenőmentesen integrálható ol
 
 ## Útmutató az alapvető használati útmutatókhoz
 ### [Cellák összehasonlítása az útvonalból – GroupDocs.Comparison for .NET](./comparing-cells-from-path/)
-Ez az oktatóanyag lépésről lépésre végigvezeti az Excel-cellatartalom összehasonlításának folyamatán, lehetővé téve a fejlesztők számára, hogy hatékonyan azonosítsák a dokumentumok közötti különbségeket és hasonlóságokat.
+Ez az oktatóanyag lépésről lépésre végigvezeti az Excel-cellatartalom összehasonlításának folyamatán, lehetővé téve a fejlesztőknek, hogy hatékonyan azonosítsák a dokumentumok közötti különbségeket és hasonlóságokat.
 ### [Cellák összehasonlítása a Streamből – GroupDocs.Comparison for .NET](./comparing-cells-from-stream/)
 Fedezze fel, hogyan hasonlíthat össze hatékonyan dokumentumokat a GroupDocs.Comparison for .NET használatával. Ez az átfogó útmutató lépésről lépésre végigvezeti a névterek importálásán, az összehasonlító változók inicializálásán és a dokumentumok összehasonlításán.

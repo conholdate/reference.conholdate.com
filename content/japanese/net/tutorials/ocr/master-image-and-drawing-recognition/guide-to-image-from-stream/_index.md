@@ -15,7 +15,7 @@ Aspose.OCR for .NET を使用した光学式文字認識 (OCR) の魅力的な�
 
 実装に進む前に、次のものを用意してください。
 
-1.  Aspose.OCR for .NETライブラリ: ライブラリを以下のサイトからダウンロードしてインストールします。[Aspose.OCR for .NET ドキュメント](https://reference.aspose.com/ocr/net/).
+1.  Aspose.OCR for .NETライブラリ:ライブラリを以下のサイトからダウンロードしてインストールします。[Aspose.OCR for .NET ドキュメント](https://reference.aspose.com/ocr/net/).
 2. サンプル画像: 認識したいサンプル画像 (ここでは「sample.png」を使用します) を準備します。最適な OCR 結果を得るために、鮮明で判読可能な画像であることを確認してください。
 
 ## 必要な名前空間をインポートする

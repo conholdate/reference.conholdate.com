@@ -16,7 +16,7 @@ url: /hi/net/tutorials/3d/guide-to-rendering/render-3d-modeling-image/
 शुरू करने से पहले, सुनिश्चित करें कि आपके पास .NET के लिए Aspose.3D का उपयोग करके 3D छवियों को सफलतापूर्वक प्रस्तुत करने के लिए निम्नलिखित आवश्यक शर्तें हैं:
 
 -  Aspose.3D for .NET लाइब्रेरी: सबसे पहले, Aspose.3D for .NET लाइब्रेरी डाउनलोड करें। आप इसे NuGet का उपयोग करके इंस्टॉल कर सकते हैं या इसे सीधे से डाउनलोड कर सकते हैं[Aspose रिलीज़ पेज](https://releases.aspose.com/3d/net/).
-- 3D मॉडल: अपने 3D मॉडल को OBJ, FBX या 3DS जैसे संगत प्रारूप में तैयार करें। इस ट्यूटोरियल के लिए, हम एक का उपयोग करेंगे`Aspose3D.obj` फ़ाइल।
+-  3D मॉडल: अपने 3D मॉडल को OBJ, FBX या 3DS जैसे संगत प्रारूप में तैयार करें। इस ट्यूटोरियल के लिए, हम एक का उपयोग करेंगे`Aspose3D.obj` फ़ाइल।
 - .NET डेवलपमेंट एनवायरनमेंट: सुनिश्चित करें कि आपके पास एक कार्यशील .NET डेवलपमेंट एनवायरनमेंट है। यह ट्यूटोरियल मानता है कि आप Visual Studio या इसी तरह के IDE का उपयोग कर रहे हैं।
 
 ## आवश्यक नामस्थान आयात करना
@@ -95,7 +95,7 @@ scene.RootNode.CreateChildNode(new Light()
 ImageRenderOptions opt = new ImageRenderOptions();
 opt.BackgroundColor = Color.AliceBlue;  // पृष्ठभूमि का रंग सेट करें
 opt.AssetDirectories.Add("YourDocumentDirectory" + "textures");  // बनावट निर्देशिका सेट करें
-opt.EnableShadows = true;  //गहराई के लिए छाया सक्षम करें
+opt.EnableShadows = true;  // गहराई के लिए छाया सक्षम करें
 ```
 
 ## चरण 5: दृश्य को रेंडर करें
@@ -120,7 +120,7 @@ scene.Render(cam, "YourOutputDirectory/Render3DModelImageFromCamera.png", new Si
 
 ### मैं रेंडरिंग समस्याओं का निवारण कैसे कर सकता हूँ?
 
-समस्या निवारण के लिए, जाँच करें[Aspose.3D मंच](https://forum.aspose.com/c/3d/18) सामान्य रेंडरिंग समस्याओं के समाधान के लिए। विस्तृत मार्गदर्शन के लिए आप दस्तावेज़ भी देख सकते हैं।
+ समस्या निवारण के लिए, जाँच करें[Aspose.3D मंच](https://forum.aspose.com/c/3d/18) सामान्य रेंडरिंग समस्याओं के समाधान के लिए। विस्तृत मार्गदर्शन के लिए आप दस्तावेज़ भी देख सकते हैं।
 
 ### क्या कोई निःशुल्क परीक्षण उपलब्ध है?
 

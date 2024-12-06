@@ -78,7 +78,7 @@ using (FileStream stream = new FileStream(Path.Combine(dataDir, "DrawingArc_out.
 
 ```csharp
             //定義圓弧參數
-            int width = 100;   //邊界矩形的寬度
+            int width = 100;   //外接矩形的寬度
             int height = 200;  //邊界矩形的高度
             int startAngle = 45;  //起始角度（以度為單位）
             int sweepAngle = 270; //掃掠角（以度為單位）

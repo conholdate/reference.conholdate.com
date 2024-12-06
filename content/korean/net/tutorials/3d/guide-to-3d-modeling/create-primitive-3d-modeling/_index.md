@@ -107,7 +107,7 @@ Aspose.3D는 주로 .NET을 지원하지만, Java 및 기타 플랫폼용 버전
 
 ### .NET용 Aspose.3D에 대한 지원은 어디에서 찾을 수 있나요?
 
- 커뮤니티 지원을 받으려면 다음을 방문하세요.[Aspose.3D 포럼](https://forum.aspose.com/c/3d/18).
+커뮤니티 지원을 받으려면 다음을 방문하세요.[Aspose.3D 포럼](https://forum.aspose.com/c/3d/18).
 
 ### 임시 면허는 어떻게 얻을 수 있나요?
 

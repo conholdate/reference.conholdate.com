@@ -84,7 +84,7 @@ Ten niewielki dodatek pomaga uczynić dane wyjściowe bardziej uporządkowanymi 
 
 ## Wniosek
 
-Gratulacje! Udało Ci się nauczyć, jak pracować z systemami plików i generować dane wyjściowe XPS przy użyciu Aspose.TeX dla .NET. Postępując zgodnie z tymi krokami, możesz skutecznie zintegrować Aspose.TeX ze swoimi projektami .NET w celu wydajnego przetwarzania plików TeX.
+Gratulacje! Udało Ci się nauczyć, jak pracować z systemami plików i generować dane wyjściowe XPS przy użyciu Aspose.TeX dla .NET. Postępując zgodnie z tymi krokami, możesz skutecznie zintegrować Aspose.TeX ze swoimi projektami .NET, aby zapewnić wydajne przetwarzanie plików TeX.
 
 ## Najczęściej zadawane pytania
 

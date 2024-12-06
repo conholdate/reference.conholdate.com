@@ -18,7 +18,7 @@ Innan vi fortsätter, se till att du har följande:
 1. Aspose.GIS för .NET Library  
     Ladda ner och installera biblioteket från[Aspose.GIS för .NET-sida](https://reference.aspose.com/gis/net/).
 
-2. En filgeodatabas (GDB) datauppsättning  
+2. En filgeodatabas (GDB) Dataset  
    Se till att du har en befintlig GDB-datauppsättning för operationen.
 
 3. Utvecklingsmiljö  

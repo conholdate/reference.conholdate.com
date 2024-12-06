@@ -59,7 +59,7 @@ using (Presentation presentation = new Presentation(dataDir + "NotesFile.pptx"))
 PdfOptions pdfOptions = new PdfOptions();
 INotesCommentsLayoutingOptions options = pdfOptions.NotesCommentsLayouting;
 
-// Ställ in placeringen av anteckningarna i den utgående PDF-filen
+// Ställ in placeringen av anteckningarna i utdata-PDF-filen
 options.NotesPosition = NotesPositions.BottomFull;
 ```
 

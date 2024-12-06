@@ -1,5 +1,5 @@
 ---
-title: 使用 Aspose.Zip for .NET 的 TarGz 綜合指南
+title: TarGz 與 Aspose.Zip for .NET 綜合指南
 linktitle: TarGz 綜合指南
 second_title: 用於檔案壓縮和歸檔的 Aspose.Zip .NET API
 description: 了解如何使用 Aspose.Zip for .NET 高效壓縮 TarGz 格式的檔案。這個詳細的教學涵蓋了從設定環境開始的所有內容。

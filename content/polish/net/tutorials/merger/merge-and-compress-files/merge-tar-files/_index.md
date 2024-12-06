@@ -9,7 +9,7 @@ url: /pl/net/tutorials/merger/merge-and-compress-files/merge-tar-files/
 ---
 ## Wstęp
 
-W rozwoju oprogramowania wydajna manipulacja danymi jest kluczowa. Jednym z powszechnych wymagań jest programowe scalanie plików. W tym miejscu GroupDocs.Merger dla .NET błyszczy, umożliwiając deweloperom bezproblemowe scalanie plików TAR (Tape Archive) w ramach ich aplikacji .NET. Ten samouczek zapewnia kompleksowy przewodnik, uzupełniony o instrukcje krok po kroku i przykłady kodu, które pomogą Ci zacząć.
+W rozwoju oprogramowania kluczowe znaczenie ma wydajna manipulacja danymi. Jednym z powszechnych wymagań jest programowe scalanie plików. W tym miejscu GroupDocs.Merger dla .NET błyszczy, umożliwiając programistom bezproblemowe scalanie plików TAR (Tape Archive) w ramach ich aplikacji .NET. Ten samouczek zawiera kompleksowy przewodnik, uzupełniony o instrukcje krok po kroku i przykłady kodu, które pomogą Ci zacząć.
 
 ## Wymagania wstępne
 

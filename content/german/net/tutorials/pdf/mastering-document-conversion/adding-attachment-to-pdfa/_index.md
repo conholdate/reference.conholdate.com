@@ -64,7 +64,7 @@ Folgendes tun wir:
 
 - Geben Sie den Pfad für die Protokolldatei an.
 -  Wählen`PDF_A_3A` Format zur Unterstützung eingebetteter Dateien (im Gegensatz zu`PDF` was nicht der Fall ist).
--  Verwenden`ConvertErrorAction.Delete` um alle Elemente zu löschen, die nicht dem PDF/A-Standard entsprechen.
+-  Verwenden`ConvertErrorAction.Delete` um alle Elemente zu löschen, die nicht den PDF/A-Standards entsprechen.
 
 ## Schritt 5: Das resultierende PDF/A-Dokument speichern
 

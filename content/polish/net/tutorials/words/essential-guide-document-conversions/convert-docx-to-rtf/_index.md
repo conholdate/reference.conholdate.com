@@ -9,7 +9,7 @@ url: /pl/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 ---
 ## Wstęp
 
-Czy jesteś gotowy usprawnić zadania przetwarzania dokumentów? W tym przewodniku przeprowadzimy Cię krok po kroku przez konwersję plików DOCX do formatu RTF przy użyciu potężnej biblioteki Aspose.Words dla .NET. Niezależnie od tego, czy rozwijasz system zarządzania dokumentami, czy po prostu zarządzasz plikami, ten samouczek wyposaży Cię w niezbędne umiejętności, aby skutecznie wykonywać konwersje formatów.
+Czy jesteś gotowy, aby usprawnić zadania przetwarzania dokumentów? W tym przewodniku przeprowadzimy Cię krok po kroku przez konwersję plików DOCX do formatu RTF przy użyciu potężnej biblioteki Aspose.Words dla .NET. Niezależnie od tego, czy rozwijasz system zarządzania dokumentami, czy po prostu zarządzasz plikami, ten samouczek wyposaży Cię w niezbędne umiejętności, aby skutecznie wykonywać konwersje formatów.
 
 ## Wymagania wstępne
 

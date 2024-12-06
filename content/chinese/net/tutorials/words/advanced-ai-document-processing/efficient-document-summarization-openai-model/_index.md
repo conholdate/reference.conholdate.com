@@ -9,7 +9,7 @@ url: /zh/net/tutorials/words/advanced-ai-document-processing/efficient-document-
 ---
 ## 介绍
 
-在当今的数字世界中，高效的文档管理已变得不可或缺。借助 Aspose.Words for .NET，文档摘要变得更加轻松和高效，尤其是与 OpenAI 模型的功能相结合时。本指南将引导您逐步了解使用 Aspose.Words for .NET 和 OpenAI 模型自动摘要文档的过程，从而节省您的时间并提供快速见解。无论您是在总结报告、学术论文还是大量文档，本指南都将帮助您充分利用您的工具。
+在当今的数字世界中，高效的文档管理已变得不可或缺。借助 Aspose.Words for .NET，文档摘要变得更加轻松和高效，尤其是与 OpenAI 模型的功能相结合时。本指南将引导您逐步了解使用 Aspose.Words for .NET 和 OpenAI 模型自动摘要文档的过程，从而节省您的时间并提供快速见解。无论您是在摘要报告、学术论文还是大量文档，本指南都将帮助您充分利用您的工具。
 
 ## 先决条件
 

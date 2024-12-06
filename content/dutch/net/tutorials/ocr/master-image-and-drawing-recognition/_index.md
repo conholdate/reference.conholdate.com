@@ -21,7 +21,7 @@ Met eenvoudige codefragmenten en duidelijke uitleg leert u hoe u OCR implementee
 
 Laten we het nu over een ander essentieel aspect hebben: omgaan met afbeeldingen niet als bestanden maar als streams. Dit wordt steeds belangrijker, omdat veel applicaties omgaan met afbeeldingen die rechtstreeks van het internet of het apparaat van een gebruiker worden gehaald. Onze[Handleiding voor afbeelding uit stream in OCR-beeldherkenning](./guide-to-image-from-stream/) tutorial biedt inzicht in deze cruciale functionaliteit.
 
-In deze gids ziet u hoe u tekst uit afbeeldingen kunt halen terwijl ze nog in streamformaat zijn. Dit betekent dat u tekst on-the-fly kunt verwerken en herkennen zonder dat u tussenliggende bestanden hoeft op te slaan. Het gebruik van streams kan de prestaties van uw applicatie aanzienlijk optimaliseren en de gebruikerservaring verbeteren. Het draait allemaal om het slimmer en efficiënter maken van uw app!
+In deze gids ziet u hoe u tekst uit afbeeldingen kunt halen terwijl ze nog in streamformaat zijn. Dit betekent dat u tekst direct kunt verwerken en herkennen zonder dat u tussenliggende bestanden hoeft op te slaan. Het gebruik van streams kan de prestaties van uw applicatie aanzienlijk optimaliseren en de gebruikerservaring verbeteren. Het draait allemaal om het slimmer en efficiënter maken van uw app!
 
 ## Zelfstudies voor het herkennen van afbeeldingen en tekeningen
 ### [Lijnrechthoeken uit afbeeldingen halen Herkenning](./line-rectangles-from-images-recognition/)

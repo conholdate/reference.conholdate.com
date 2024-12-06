@@ -107,7 +107,7 @@ Console.WriteLine($"\nBuilding a scene from primitive 3D models was successful.\
 
 ### أين يمكنني العثور على الدعم لـ Aspose.3D لـ .NET؟
 
- للحصول على دعم المجتمع، قم بزيارة[منتدى Aspose.3D](https://forum.aspose.com/c/3d/18).
+للحصول على دعم المجتمع، قم بزيارة[منتدى Aspose.3D](https://forum.aspose.com/c/3d/18).
 
 ### كيف يمكنني الحصول على ترخيص مؤقت؟
 

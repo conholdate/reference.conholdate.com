@@ -101,4 +101,4 @@ Aspose.BarCode för .NET är ett omfattande bibliotek som gör det möjligt för
  Besök köpsidan[här](https://purchase.conholdate.com/buy) att förvärva en licens för Aspose.BarCode för .NET.
 
 ### Var kan jag söka hjälp och support för Aspose.BarCode för .NET?
- För hjälp, besök Aspose.BarCode för .NET supportforum[här](https://forum.aspose.com/c/barcode/13) för att få kontakt med samhället och supportteamet.
+ För hjälp, besök Aspose.BarCode för .NET supportforum[här](https://forum.aspose.com/c/barcode/13) att få kontakt med samhället och supportteamet.

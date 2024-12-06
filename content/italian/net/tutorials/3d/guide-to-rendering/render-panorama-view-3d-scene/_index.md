@@ -15,9 +15,9 @@ Creare scene 3D panoramiche e immersive è un punto di svolta per gli sviluppato
 
 Prima di immergerti nel processo di rendering, assicurati di avere a disposizione quanto segue:
 
--  Aspose.3D per .NET: per iniziare, è necessario installare Aspose.3D, che fornisce tutti gli strumenti necessari per la gestione delle risorse 3D e il rendering.[Scarica Aspose.3D per .NET](https://releases.aspose.com/3d/net/) per iniziare.
+- Aspose.3D per .NET: per iniziare, è necessario installare Aspose.3D, che fornisce tutti gli strumenti necessari per la gestione delle risorse 3D e il rendering.[Scarica Aspose.3D per .NET](https://releases.aspose.com/3d/net/) per iniziare.
 - Ambiente di sviluppo .NET: è richiesto un ambiente di sviluppo .NET completamente configurato. Assicurati di avere Visual Studio o qualsiasi altro IDE compatibile.
-- Esempio di file di scena 3D: puoi utilizzare qualsiasi scena 3D in formati come`.glb`, `.fbx` , O`.obj`Per questo tutorial, useremo un semplice file "VirtualCity.glb".
+-  Esempio di file di scena 3D: puoi utilizzare qualsiasi scena 3D in formati come`.glb`, `.fbx` , O`.obj`Per questo tutorial, useremo un semplice file "VirtualCity.glb".
 
 Una volta soddisfatti questi prerequisiti, possiamo passare alla configurazione della scena.
 
@@ -103,7 +103,7 @@ renderer.Render(rt);
 
 ## Passaggio 5: applicare la post-elaborazione per la proiezione equrettangolare
 
-A questo punto, dobbiamo applicare la post-elaborazione per convertire la mappa del cubo in una vista panoramica equirettangolare. Questa trasformazione assicura che l'immagine finale sarà un panorama appropriato.
+questo punto, dobbiamo applicare la post-elaborazione per convertire la mappa del cubo in una vista panoramica equirettangolare. Questa trasformazione assicura che l'immagine finale sarà un panorama appropriato.
 
 ```csharp
 PostProcessing equirectangular = renderer.GetPostProcessing("equirectangular");

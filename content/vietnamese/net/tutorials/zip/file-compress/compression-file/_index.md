@@ -38,7 +38,7 @@ string dataDir = "Your Document Directory";
 
 ### Bước 2: Nén tập tin
 
- Bây giờ, chúng ta hãy viết mã để nén các tập tin bằng cách sử dụng`CpioArchive`lớp. Dưới đây là một ví dụ đơn giản minh họa cách tạo kho lưu trữ CPIO:
+ Bây giờ, chúng ta hãy viết mã để nén các tập tin bằng cách sử dụng`CpioArchive` lớp. Dưới đây là một ví dụ đơn giản minh họa cách tạo kho lưu trữ CPIO:
 
 ```csharp
 using (CpioArchive archive = new CpioArchive())
@@ -68,7 +68,7 @@ Xin chúc mừng! Bạn đã nén thành công các tệp bằng Aspose.Zip cho 
 ## Câu hỏi thường gặp
 
 ### Tôi có thể sử dụng Aspose.Zip cho .NET trong các dự án thương mại không?
-Có, bạn có thể sử dụng nó trong các dự án thương mại. Để có được giấy phép, hãy truy cập[đây](https://purchase.conholdate.com/buy).
+ Có, bạn có thể sử dụng nó trong các dự án thương mại. Để có được giấy phép, hãy truy cập[đây](https://purchase.conholdate.com/buy).
 
 ### Có bản dùng thử miễn phí không?
  Có, bạn có thể khám phá thư viện với bản dùng thử miễn phí[đây](https://releases.aspose.com/).

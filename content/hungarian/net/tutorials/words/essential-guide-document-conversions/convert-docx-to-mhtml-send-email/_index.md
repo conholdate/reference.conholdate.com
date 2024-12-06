@@ -50,7 +50,7 @@ Document doc = new Document(dataDir + "Document.docx");
 using (Stream stream = new MemoryStream())
 {
     doc.Save(stream, SaveFormat.Mhtml);
-    // Állítsa vissza az adatfolyam pozícióját az elejére olvasáshoz.
+    // Állítsa vissza az adatfolyam pozícióját az elejére az olvasáshoz.
     stream.Position = 0;
 }
 ```

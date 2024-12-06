@@ -17,7 +17,7 @@ Sebelum kita mulai, pastikan Anda memiliki hal berikut:
 
 1.  Aspose.Zip untuk Pustaka .NET: Instal pustaka di proyek Anda. Anda dapat mengunduhnya[Di Sini](https://releases.aspose.com/zip/net/).
    
-2. Direktori Dokumen: Siapkan direktori untuk menyimpan file zip Anda. Ganti`"Your Document Directory"` dalam kode dengan jalur Anda yang sebenarnya.
+2.  Direktori Dokumen: Siapkan direktori untuk menyimpan file zip Anda. Ganti`"Your Document Directory"` dalam kode dengan jalur Anda yang sebenarnya.
 
 ## Impor Ruang Nama yang Diperlukan
 
@@ -126,7 +126,7 @@ Aspose.Zip terutama dirancang untuk aplikasi .NET, tetapi Aspose menawarkan pust
  Kunjungi[Forum Aspose.Zip](https://forum.aspose.com/c/zip/37) untuk dukungan dan diskusi.
 
 ### Bisakah saya membeli lisensi sementara untuk Aspose.Zip untuk .NET?
- Ya, Anda bisa mendapatkan lisensi sementara[Di Sini](https://purchase.conholdate.com/temporary-license/).
+Ya, Anda bisa mendapatkan lisensi sementara[Di Sini](https://purchase.conholdate.com/temporary-license/).
 
 ### Di mana saya dapat menemukan dokumentasi untuk Aspose.Zip untuk .NET?
  Dokumentasi lengkap tersedia[Di Sini](https://reference.aspose.com/zip/net/).

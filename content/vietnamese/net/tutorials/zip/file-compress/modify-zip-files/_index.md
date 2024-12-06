@@ -17,7 +17,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
 
 1.  Aspose.Zip cho Thư viện .NET: Cài đặt thư viện trong dự án của bạn. Bạn có thể tải xuống[đây](https://releases.aspose.com/zip/net/).
    
-2. Thư mục tài liệu: Thiết lập một thư mục để lưu trữ các tệp zip của bạn. Thay thế`"Your Document Directory"` trong mã có đường dẫn thực tế của bạn.
+2.  Thư mục tài liệu: Thiết lập một thư mục để lưu trữ các tệp zip của bạn. Thay thế`"Your Document Directory"` trong mã có đường dẫn thực tế của bạn.
 
 ## Nhập các không gian tên cần thiết
 
@@ -126,7 +126,7 @@ Aspose.Zip chủ yếu được thiết kế cho các ứng dụng .NET, nhưng 
  Ghé thăm[Diễn đàn Aspose.Zip](https://forum.aspose.com/c/zip/37) để được hỗ trợ và thảo luận.
 
 ### Tôi có thể mua giấy phép tạm thời cho Aspose.Zip dành cho .NET không?
- Có, bạn có thể xin giấy phép tạm thời[đây](https://purchase.conholdate.com/temporary-license/).
+Có, bạn có thể xin giấy phép tạm thời[đây](https://purchase.conholdate.com/temporary-license/).
 
 ### Tôi có thể tìm tài liệu về Aspose.Zip cho .NET ở đâu?
  Tài liệu đầy đủ có sẵn[đây](https://reference.aspose.com/zip/net/).

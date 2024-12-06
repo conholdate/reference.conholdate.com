@@ -28,7 +28,7 @@ using Aspose.Words;
 
 ## Paso 1: Cargue el archivo de texto
 
- Primero, debes cargar el archivo de texto en Aspose.Words`Document` objeto. Aquí te explicamos cómo:
+Primero, debes cargar el archivo de texto en Aspose.Words`Document` objeto. Aquí te explicamos cómo:
 
 ```csharp
 // Especifique la ruta del directorio donde se encuentra su archivo de texto

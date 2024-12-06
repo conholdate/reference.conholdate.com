@@ -15,7 +15,7 @@ Khi nói đến quản lý tệp trong .NET, việc hiểu cách làm việc hi�
 
 Trước hết, hãy nói về lý do tại sao bạn nên cân nhắc sử dụng Aspose.Zip. Đây không chỉ là một thư viện khác trong biển công cụ .NET; nó được tích hợp nhiều tính năng đáp ứng nhu cầu cụ thể của các nhà phát triển hiện đại. Bạn cần làm việc với các định dạng TarGz hoặc TarLz? Không vấn đề gì! Aspose.Zip cung cấp các phương pháp dễ thực hiện để quản lý các tệp ở các định dạng này, đảm bảo rằng bạn có thể đóng gói và giải nén dữ liệu của mình một cách chính xác mà không phải tốn nhiều công sức.
 
- Bùm! Các tập tin của bạn được trích xuất với sự rắc rối tối thiểu. Giống như việc mở một chiếc vali được đóng gói gọn gàng. Để biết hướng dẫn chi tiết hơn, đừng quên xem[Hướng dẫn toàn diện về TarGz với Aspose.Zip cho .NET](./comprehensive-guide-to-tar-gz/). 
+Bùm! Các tập tin của bạn được trích xuất với sự rắc rối tối thiểu. Giống như việc mở một chiếc vali được đóng gói gọn gàng. Để biết hướng dẫn chi tiết hơn, đừng quên xem[Hướng dẫn toàn diện về TarGz với Aspose.Zip cho .NET](./comprehensive-guide-to-tar-gz/). 
 
 ## Đi sâu hơn vào định dạng TarLz
 

@@ -87,7 +87,7 @@ GroupDocs.Viewer per .NET è una soluzione eccezionale per gli sviluppatori che 
 Sì! GroupDocs.Viewer supporta un'ampia gamma di formati di documenti, tra cui PDF, file Microsoft Office, immagini e altro ancora.
 
 ### Posso personalizzare le opzioni di visualizzazione in base alle esigenze della mia applicazione?
-Assolutamente! GroupDocs.Viewer offre ampie funzionalità di personalizzazione, consentendoti di adattare l'esperienza di visualizzazione dei documenti alle tue esigenze specifiche.
+Assolutamente! GroupDocs.Viewer offre ampie funzionalità di personalizzazione, consentendoti di adattare l'esperienza di visualizzazione dei documenti alle tue specifiche esigenze.
 
 ### È disponibile supporto tecnico per GroupDocs.Viewer per .NET?
  Sì, puoi accedere al supporto tecnico tramite[Forum di supporto di GroupDocs](https://forum.groupdocs.com/c/viewer/9).
@@ -96,4 +96,4 @@ Assolutamente! GroupDocs.Viewer offre ampie funzionalità di personalizzazione, 
  Sì, puoi esplorare tutte le funzionalità di GroupDocs.Viewer accedendo a[versione di prova gratuita](https://releases.groupdocs.com/).
 
 ### Come posso ottenere una licenza temporanea per GroupDocs.Viewer?
- È possibile acquisire una licenza temporanea visitando il[pagina della licenza temporanea](https://purchase.groupdocs.com/temporary-license/).
+ È possibile ottenere una licenza temporanea visitando il[pagina della licenza temporanea](https://purchase.groupdocs.com/temporary-license/).

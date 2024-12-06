@@ -118,7 +118,7 @@ Sì, Aspose.GIS consente di creare e gestire più livelli all'interno di un set 
 La libreria supporta numerosi sistemi di riferimento spaziali, tra cui WGS 84, NAD 83 e CRS personalizzati.
 
 ### Dove posso trovare supporto?
- Visitare il[Forum di Aspose.GIS](https://forum.aspose.com/c/gis/33) per discussioni e supporto della comunità.
+ Visita il[Forum di Aspose.GIS](https://forum.aspose.com/c/gis/33) per discussioni e supporto della comunità.
 
 ### È disponibile una prova gratuita?
  Sì, un[prova gratuita](https://releases.aspose.com/) è disponibile per testare le funzionalità della libreria.

@@ -41,7 +41,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to the GroupDocs.Comparison for Java**
 
-Összehasonlítja és egyesíti a Microsoft Word, Excel, PowerPoint, openDocument ODT, PDF, szöveges és HTML dokumentumokat. A dokumentum-összehasonlító API összehasonlítja a tartalmat, hogy észlelje a szavak, bekezdések és karakterek változásait. Ezenkívül összehasonlítja a stílusmódosításokat, például a betűméretet, félkövér, dőlt stb.
+Összehasonlítja és egyesíti a Microsoft Word, Excel, PowerPoint, openDocument ODT, PDF, szöveges és HTML dokumentumokat. A dokumentum-összehasonlító API összehasonlítja a tartalmat, hogy észlelje a szavak, bekezdések és karakterek változásait. Összehasonlítja a stílusmódosításokat is, mint például a betűméret, a félkövér, a dőlt stb. A különbségek összefoglalója külön eredményfájlba mentve
 
 {{% /alert %}} 
 ## **GroupDocs.Comparison for Java**
@@ -55,7 +55,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to the GroupDocs.Conversion for Java**
 
-A GroupDocs.Conversion for Java egy fejlett dokumentumkonverziós API, amelyet dokumentumformátumok konvertálására fejlesztettek ki bármely Java-alkalmazáson belül. Ez a funkciókban gazdag API lehetővé teszi, hogy több mint 50 dokumentum- és képfájlformátumban végezzen oda-vissza dokumentumkonverziós műveleteket. A dokumentumkonvertáló API használata nagyon egyszerű, mivel csak egy módszert használt a különböző formátumok közötti átalakításhoz, és lehetőségekkel.
+A GroupDocs.Conversion for Java egy fejlett dokumentumkonverziós API, amelyet dokumentumformátumok konvertálására fejlesztettek ki bármely Java-alkalmazáson belül. Ez a funkciókban gazdag API lehetővé teszi, hogy több mint 50 dokumentum- és képfájlformátumban oda-vissza dolgozzon dokumentumkonverziós műveletekkel. A dokumentumkonvertáló API használata nagyon egyszerű, mivel csak egy módszert használt a különböző formátumok közötti konvertáláshoz.
 
 {{% /alert %}} 
 ## **GroupDocs.Conversion for Java**
@@ -167,7 +167,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to the GroupDocs.Viewer for Java**
 
-Hatékony dokumentumnézegető összetevő, amely több mint 50 dokumentumformátum megjelenítését teszi lehetővé Java-alkalmazásaiban. A megjelenítő egyszerre raszterizálhatja a dokumentumokat, és konvertálhatja azokat SVG+HTML+CSS formátumba, így valódi szöveges, nagy hűségű megjelenítést biztosít. A GroupDocs.Viewer lehetővé teszi a teljes dokumentum, oldalankénti vagy egyéni oldaltartomány HTML- vagy képformátumának megjelenítését.
+Hatékony dokumentumnézegető összetevő, amely több mint 50 dokumentumformátum megjelenítését teszi lehetővé Java-alkalmazásaiban. A megjelenítő egyszerre raszterizálhatja a dokumentumokat, és konvertálhatja azokat SVG+HTML+CSS formátumba, így valódi szöveges, nagy hűségű megjelenítést biztosít. A GroupDocs.Viewer lehetővé teszi a teljes dokumentum, oldalról oldalra vagy egyedi oldaltartományok HTML- vagy képformátumának megjelenítését.
 
 {{% /alert %}} 
 ## **GroupDocs.Viewer for Java**

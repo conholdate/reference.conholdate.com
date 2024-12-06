@@ -16,7 +16,7 @@ url: /ar/net/tutorials/3d/guide-to-rendering/render-3d-modeling-image/
 قبل البدء، تأكد من توفر المتطلبات الأساسية التالية لديك لتقديم صور ثلاثية الأبعاد بنجاح باستخدام Aspose.3D لـ .NET:
 
 -  مكتبة Aspose.3D لـ .NET: أولاً، قم بتنزيل مكتبة Aspose.3D لـ .NET. يمكنك تثبيتها باستخدام NuGet أو تنزيلها مباشرةً من[صفحة إصدارات Aspose](https://releases.aspose.com/3d/net/).
-- نموذج ثلاثي الأبعاد: قم بإعداد نموذجك ثلاثي الأبعاد بتنسيق متوافق، مثل OBJ أو FBX أو 3DS. في هذا البرنامج التعليمي، سنستخدم`Aspose3D.obj` ملف.
+-  نموذج ثلاثي الأبعاد: قم بإعداد نموذجك ثلاثي الأبعاد بتنسيق متوافق، مثل OBJ أو FBX أو 3DS. في هذا البرنامج التعليمي، سنستخدم`Aspose3D.obj` ملف.
 - بيئة تطوير .NET: تأكد من أن لديك بيئة تطوير .NET صالحة للعمل. يفترض هذا البرنامج التعليمي أنك تستخدم Visual Studio أو بيئة تطوير متكاملة مماثلة.
 
 ## استيراد المساحات الأساسية الضرورية
@@ -95,7 +95,7 @@ scene.RootNode.CreateChildNode(new Light()
 ImageRenderOptions opt = new ImageRenderOptions();
 opt.BackgroundColor = Color.AliceBlue;  // تعيين لون الخلفية
 opt.AssetDirectories.Add("YourDocumentDirectory" + "textures");  // تعيين دليل الملمس
-opt.EnableShadows = true;  //تمكين الظلال للعمق
+opt.EnableShadows = true;  // تمكين الظلال للعمق
 ```
 
 ## الخطوة 5: تقديم المشهد
@@ -120,7 +120,7 @@ scene.Render(cam, "YourOutputDirectory/Render3DModelImageFromCamera.png", new Si
 
 ### كيف يمكنني إصلاح مشكلات العرض؟
 
-لاستكشاف الأخطاء وإصلاحها، تحقق من[منتدى Aspose.3D](https://forum.aspose.com/c/3d/18) للحصول على حلول لمشاكل العرض الشائعة. يمكنك أيضًا الرجوع إلى الوثائق للحصول على إرشادات مفصلة.
+ لاستكشاف الأخطاء وإصلاحها، تحقق من[منتدى Aspose.3D](https://forum.aspose.com/c/3d/18) للحصول على حلول لمشاكل العرض الشائعة. يمكنك أيضًا الرجوع إلى الوثائق للحصول على إرشادات مفصلة.
 
 ### هل هناك نسخة تجريبية مجانية متاحة؟
 

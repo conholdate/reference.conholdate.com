@@ -28,7 +28,7 @@ using Aspose.Words;
 
 ## Adım 1: Metin Dosyasını Yükleyin
 
- Öncelikle metin dosyasını Aspose.Words'e yüklemeniz gerekiyor`Document` nesne. İşte nasıl:
+Öncelikle metin dosyasını Aspose.Words'e yüklemeniz gerekiyor`Document` nesne. İşte nasıl:
 
 ```csharp
 // Metin dosyanızın bulunduğu dizin yolunu belirtin

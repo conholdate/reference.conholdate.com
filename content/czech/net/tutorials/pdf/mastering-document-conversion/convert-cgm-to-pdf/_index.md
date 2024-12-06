@@ -29,7 +29,7 @@ Chcete-li začít s Aspose.PDF pro .NET, nastavte svůj projekt podle následuj�
 1. Otevřete Visual Studio.
 2. Vytvořte nový projekt C# Console Application.
 
-### Přidejte odkaz Aspose.PDF
+### Přidejte referenci Aspose.PDF
 
 1. Klepněte pravým tlačítkem myši na svůj projekt v Průzkumníku řešení.
 2. Vyberte Spravovat balíčky NuGet.

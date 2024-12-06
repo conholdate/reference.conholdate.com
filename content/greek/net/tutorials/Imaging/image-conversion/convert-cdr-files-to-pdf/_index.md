@@ -15,7 +15,7 @@ url: /el/net/tutorials/imaging/image-conversion/convert-cdr-files-to-pdf/
 
 Πριν ξεκινήσετε, βεβαιωθείτε ότι έχετε τα εξής:
 
-1.  Aspose.Imaging για .NET: Κάντε λήψη και εγκαταστήστε το από το[Aspose ιστότοπο](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging για .NET: Κάντε λήψη και εγκαταστήστε το από το[Aspose website](https://releases.aspose.com/imaging/net/).
 2. Ένα αρχείο CDR: Προετοιμάστε το αρχείο CorelDRAW (CDR) που θέλετε να μετατρέψετε.
 3. Περιβάλλον ανάπτυξης: Ρυθμίστε το Visual Studio ή άλλο εργαλείο ανάπτυξης .NET.
 

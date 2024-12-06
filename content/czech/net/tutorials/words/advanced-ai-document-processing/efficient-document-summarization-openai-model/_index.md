@@ -27,7 +27,7 @@ Použití Visual Studia jako vašeho IDE zjednoduší proces kódování a ladě
 
 ## Import nezbytných knihoven
 
-Ve svém projektu naimportujte požadované knihovny, abyste zajistili, že budete mít přístup k nezbytným třídám a metodám pro manipulaci a sumarizaci dokumentů.
+Ve svém projektu naimportujte požadované knihovny, abyste zajistili, že budete mít přístup k nezbytným třídám a metodám pro manipulaci s dokumenty a jejich sumarizaci.
 
 ### Import balíčku Aspose.Words
 

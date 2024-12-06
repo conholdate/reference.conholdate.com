@@ -72,7 +72,7 @@ Ano, GroupDocs.Merger je optimalizován pro práci s velkými soubory PDF a zaji
 Ano, podporuje slučování souborů PDF chráněných heslem, pokud k nim máte potřebná oprávnění.
 
 ### Mohu sloučit formáty dokumentů, které nejsou PDF, pomocí GroupDocs.Merger?
-Ne, GroupDocs.Merger je speciálně navržen pro manipulaci s PDF a nemůže slučovat jiné formáty dokumentů.
+Ne, GroupDocs.Merger je speciálně navržen pro manipulaci s PDF a nemůže sloučit jiné formáty dokumentů.
 
 ### Je GroupDocs.Merger kompatibilní s aplikacemi .NET Core?
 Ano, GroupDocs.Merger je kompatibilní s prostředími .NET Framework i .NET Core a poskytuje flexibilitu pro vývoj moderních aplikací.

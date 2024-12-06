@@ -16,7 +16,7 @@ Chcete přeměnit rozvržení CAD na úžasné rastrové obrázky? Představte s
 
 Zde je postup: načtěte soubor CAD, nakonfigurujte možnosti rasterizace a určete výstupní formát. Voila! Vaše mistrovské dílo CAD je nyní ostrý a vysoce kvalitní obraz připravený ke sdílení. Nejlepší část? Je to rychlé a snadné implementovat.  
 
- Potřebujete více podrobností? Podívejte se na celý tutoriál na[Export CAD na konverzi rastrových obrázků](./export-cad-to-raster-image-conversion/).  
+ Potřebujete další podrobnosti? Podívejte se na celý tutoriál na[Export CAD na konverzi rastrových obrázků](./export-cad-to-raster-image-conversion/).  
 
 ## Převeďte DGN do PDF v Aspose.CAD pro .NET  
 Měli jste někdy problémy s převodem souborů DGN do PDF? Představte si to jako přeměnu plánu na vyleštěný přenosný dokument. S Aspose.CAD pro .NET přeskočíte potíže a dostanete se přímo k výsledkům. Tato knihovna podporuje precizní převod DGN do PDF, přičemž zachovává každý detail nedotčený – ideální pro sdílení profesionálních návrhů.  

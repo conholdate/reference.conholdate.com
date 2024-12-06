@@ -21,7 +21,7 @@ Als erstes haben wir TopoJSON – ein kompaktes Format zum Kodieren von Geodaten
 
 Als nächstes sprechen wir über File Geodatabases (GDB) – sie sind wie die digitalen Aktenschränke für Ihre räumlichen Daten. Das Hinzufügen von Ebenen zu einer GDB mag einschüchternd klingen, aber mit Aspose.GIS ist es ganz einfach! 
 
- Im[Hinzufügen einer Ebene zu einer File-Geodatabase mit Aspose.GIS für .NET](./add-layer-to-file-geo-database/)In diesem Tutorial lernen Sie die Grundlagen der Layer-Erstellung kennen. Es deckt alles ab, von den Voraussetzungen, die Sie erfüllen müssen, bis hin zu den Namespace-Importen und den kleinen Schritten zum Erstellen und Validieren von Layern in Ihren GIS-Datensätzen. Stellen Sie es sich wie das Erstellen eines Rezeptes vor – Sie benötigen die richtigen Zutaten und eine gute Methode, um etwas Leckeres zu kochen!
+ Im[Hinzufügen einer Ebene zu einer File-Geodatabase mit Aspose.GIS für .NET](./add-layer-to-file-geo-database/)In diesem Tutorial lernen Sie die Grundlagen der Layer-Erstellung kennen. Es deckt alles ab, von den Voraussetzungen, die Sie erfüllen müssen, bis hin zu den Namespace-Importen und den wichtigsten Schritten zum Erstellen und Validieren von Layern in Ihren GIS-Datensätzen. Stellen Sie es sich wie das Erstellen eines Rezeptes vor – Sie benötigen die richtigen Zutaten und eine gute Methode, um etwas Leckeres zu kochen!
 
 ## Tutorials zum Mastering-Layer-Management
 ### [Arbeiten mit TopoJSON in Aspose.GIS für .NET](./working-with-topojson/)

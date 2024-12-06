@@ -15,5 +15,5 @@ Ať už jste začátečník nebo zkušený vývojář, výukové programy Aspose
 ## Tutoriály
 | Titul | Popis |
 | --- | --- |
-| [Průvodce prací s excelovými listy](./guide-to-working-with-excel-worksheets/) | Objevte komplexní výukové programy pro efektivní správu excelových listů pomocí Aspose.Cells pro .NET, šité na míru vývojářům C#. |
-| [Převod do souboru Pdf](./conversion-to-pdf-file/) | Převádějte soubory Excelu do PDF bez námahy pomocí Aspose.Cells pro .NET. Objevte podrobné průvodce, úryvky kódu a tipy v našich obsáhlých výukových programech. |
+| [Průvodce prací s excelovými listy](./guide-to-working-with-excel-worksheets/) | Objevte komplexní výukové programy pro efektivní správu excelových listů pomocí Aspose.Cells pro .NET, přizpůsobené pro vývojáře v C#. |
+| [Převod do souboru Pdf](./conversion-to-pdf-file/) | Převádějte soubory Excelu do PDF bez námahy pomocí Aspose.Cells pro .NET. Objevte podrobné průvodce, úryvky kódu a tipy v našich komplexních výukových programech. |

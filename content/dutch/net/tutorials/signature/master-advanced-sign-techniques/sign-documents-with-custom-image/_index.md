@@ -9,7 +9,7 @@ url: /nl/net/tutorials/signature/master-advanced-sign-techniques/sign-documents-
 ---
 ## Invoering
 
-In deze tutorial leert u hoe u GroupDocs.Signature voor .NET kunt gebruiken om documenten met afbeeldingen te ondertekenen. Documentondertekening verbetert de authenticiteit en beveiliging van uw bestanden, waardoor ze fraudebestendig en juridisch bindend zijn. Door de functionaliteit voor documentondertekening te integreren in uw .NET-toepassingen, kunt u uw workflows aanzienlijk stroomlijnen.
+In deze tutorial leert u hoe u GroupDocs.Signature voor .NET kunt gebruiken om documenten met afbeeldingen te ondertekenen. Documentondertekening verbetert de authenticiteit en beveiliging van uw bestanden, waardoor ze fraudebestendig en juridisch bindend zijn. Door documentondertekeningsfunctionaliteit te integreren in uw .NET-toepassingen, kunt u uw workflows aanzienlijk stroomlijnen.
 
 ## Vereisten
 

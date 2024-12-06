@@ -107,7 +107,7 @@ Aspose.3D prend principalement en charge .NET, mais il existe des versions dispo
 
 ### Où puis-je trouver du support pour Aspose.3D pour .NET ?
 
- Pour le soutien de la communauté, visitez le[Forum Aspose.3D](https://forum.aspose.com/c/3d/18).
+Pour le soutien de la communauté, visitez le[Forum Aspose.3D](https://forum.aspose.com/c/3d/18).
 
 ### Comment puis-je obtenir un permis temporaire ?
 

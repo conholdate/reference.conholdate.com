@@ -16,7 +16,7 @@ url: /ko/net/tutorials/3d/guide-to-rendering/render-3d-modeling-image/
 시작하기 전에 Aspose.3D for .NET을 사용하여 3D 이미지를 성공적으로 렌더링하기 위해 다음 전제 조건이 충족되었는지 확인하세요.
 
 -  Aspose.3D for .NET 라이브러리: 먼저 Aspose.3D for .NET 라이브러리를 다운로드합니다. NuGet을 사용하여 설치하거나 다음에서 직접 다운로드할 수 있습니다.[Aspose 릴리스 페이지](https://releases.aspose.com/3d/net/).
-- 3D 모델: OBJ, FBX 또는 3DS와 같은 호환되는 형식으로 3D 모델을 준비합니다. 이 튜토리얼에서는 다음을 사용합니다.`Aspose3D.obj` 파일.
+-  3D 모델: OBJ, FBX 또는 3DS와 같은 호환되는 형식으로 3D 모델을 준비합니다. 이 튜토리얼에서는 다음을 사용합니다.`Aspose3D.obj` 파일.
 - .NET 개발 환경: 작동하는 .NET 개발 환경이 있는지 확인하세요. 이 튜토리얼에서는 Visual Studio 또는 이와 유사한 IDE를 사용한다고 가정합니다.
 
 ## 필요한 네임스페이스 가져오기
@@ -95,7 +95,7 @@ scene.RootNode.CreateChildNode(new Light()
 ImageRenderOptions opt = new ImageRenderOptions();
 opt.BackgroundColor = Color.AliceBlue;  // 배경색을 설정하세요
 opt.AssetDirectories.Add("YourDocumentDirectory" + "textures");  // 텍스처 디렉토리 설정
-opt.EnableShadows = true;  //깊이에 대한 그림자 활성화
+opt.EnableShadows = true;  // 깊이에 대한 그림자 활성화
 ```
 
 ## 5단계: 장면 렌더링
@@ -120,7 +120,7 @@ scene.Render(cam, "YourOutputDirectory/Render3DModelImageFromCamera.png", new Si
 
 ### 렌더링 문제는 어떻게 해결할 수 있나요?
 
-문제 해결을 위해서는 다음을 확인하세요.[Aspose.3D 포럼](https://forum.aspose.com/c/3d/18) 일반적인 렌더링 문제에 대한 해결책을 보려면 여기를 클릭하세요. 자세한 지침은 설명서를 참조하세요.
+ 문제 해결을 위해서는 다음을 확인하세요.[Aspose.3D 포럼](https://forum.aspose.com/c/3d/18) 일반적인 렌더링 문제에 대한 해결책을 보려면 여기를 클릭하세요. 자세한 지침은 설명서를 참조하세요.
 
 ### 무료 체험판이 있나요?
 

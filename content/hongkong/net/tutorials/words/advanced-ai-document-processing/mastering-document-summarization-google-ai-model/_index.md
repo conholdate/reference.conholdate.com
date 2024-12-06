@@ -102,7 +102,7 @@ multiDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.Multi.docx");
 
 ## 結論
 
-透過本教學課程，您將能夠使用 Aspose.Words for .NET 和 Google AI 模型有效地總結文件。從定義文件目錄和載入文件到檢索 API 金鑰和設定模型實例，每個步驟都確保您可以有效地處理大量文字並僅用幾行程式碼即可建立簡潔的摘要。
+透過本教學課程，您將能夠使用 Aspose.Words for .NET 和 Google AI 模型有效地總結文件。從定義文件目錄和載入文件到檢索 API 金鑰和設定模型實例，每個步驟都確保您可以有效地處理大量文字並僅用幾行程式碼建立簡潔的摘要。
 
 ## 常見問題解答
 

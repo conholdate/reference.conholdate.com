@@ -69,7 +69,7 @@ message.Subject = "Aspose.Words + Aspose.Email MHTML Test Message";
 
 ## 第 4 步：發送電子郵件
 
-最後，使用 SMTP 用戶端傳送電子郵件。使用您的伺服器詳細資訊設定 SMTP 用戶端並使用`Send`發送訊息的方法。
+最後，使用 SMTP 用戶端發送電子郵件。使用您的伺服器詳細資訊設定 SMTP 用戶端並使用`Send`發送訊息的方法。
 
 ```csharp
 //使用 Aspose.Email 設定並傳送訊息。

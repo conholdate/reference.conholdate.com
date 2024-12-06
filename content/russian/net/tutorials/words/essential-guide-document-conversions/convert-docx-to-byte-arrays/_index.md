@@ -64,7 +64,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Загрузить документ из MemoryStream
     Document docFromBytes = new Document(inStream);
     
-    // Теперь вы можете работать с docFromBytes по мере необходимости
+    // Теперь вы можете работать с docFromBytes по мере необходимости.
 }
 ```
 1.  Создание потока памяти: создать`MemoryStream` из байтового массива.

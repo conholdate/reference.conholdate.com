@@ -16,7 +16,7 @@ url: /tr/net/tutorials/3d/guide-to-rendering/render-3d-modeling-image/
 Başlamadan önce, Aspose.3D for .NET kullanarak 3B görüntüleri başarıyla işlemek için aşağıdaki ön koşulların mevcut olduğundan emin olun:
 
 -  Aspose.3D for .NET Kütüphanesi: Öncelikle Aspose.3D for .NET kütüphanesini indirin. NuGet kullanarak yükleyebilir veya doğrudan şuradan indirebilirsiniz:[Aspose sürüm sayfası](https://releases.aspose.com/3d/net/).
-- 3D Model: 3D modelinizi OBJ, FBX veya 3DS gibi uyumlu bir formatta hazırlayın. Bu eğitim için bir`Aspose3D.obj` dosya.
+-  3D Model: 3D modelinizi OBJ, FBX veya 3DS gibi uyumlu bir formatta hazırlayın. Bu eğitim için bir`Aspose3D.obj` dosya.
 - .NET Geliştirme Ortamı: Çalışan bir .NET geliştirme ortamınız olduğundan emin olun. Bu eğitim, Visual Studio veya benzer bir IDE kullandığınızı varsayar.
 
 ## Gerekli Ad Alanlarını İçe Aktarma
@@ -95,7 +95,7 @@ Artık model, kamera ve ışıklarla sahnemiz olduğuna göre, render seçenekle
 ImageRenderOptions opt = new ImageRenderOptions();
 opt.BackgroundColor = Color.AliceBlue;  // Arkaplan rengini ayarlayın
 opt.AssetDirectories.Add("YourDocumentDirectory" + "textures");  // Doku dizinini ayarlayın
-opt.EnableShadows = true;  //Derinlik için gölgeleri etkinleştirin
+opt.EnableShadows = true;  // Derinlik için gölgeleri etkinleştirin
 ```
 
 ## Adım 5: Sahneyi Oluşturun
@@ -120,7 +120,7 @@ Evet, Aspose.3D OBJ, FBX ve 3DS gibi çeşitli 3D model formatlarını destekler
 
 ### Görüntüleme sorunlarını nasıl giderebilirim?
 
-Sorun giderme için şunu kontrol edin:[Aspose.3D forumu](https://forum.aspose.com/c/3d/18) yaygın işleme sorunlarına çözümler için. Ayrıntılı rehberlik için belgelere de başvurabilirsiniz.
+ Sorun giderme için şunu kontrol edin:[Aspose.3D forumu](https://forum.aspose.com/c/3d/18) yaygın işleme sorunlarına çözümler için. Ayrıntılı rehberlik için belgelere de başvurabilirsiniz.
 
 ### Ücretsiz deneme imkanı var mı?
 

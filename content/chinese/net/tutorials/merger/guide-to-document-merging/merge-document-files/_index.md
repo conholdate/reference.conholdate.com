@@ -65,7 +65,7 @@ using (var merger = new Merger("path_to_first_doc.doc"))
 
 ## 常见问题解答
 
-### GroupDocs.Merger for .NET 除了处理 DOC 之外还能处理其他文档格式吗？
+### GroupDocs.Merger for .NET 是否可以处理除了 DOC 之外的其他文档格式？
 
 是的，它支持合并各种格式，包括 DOCX、PDF、XLSX、PPTX 等。
 

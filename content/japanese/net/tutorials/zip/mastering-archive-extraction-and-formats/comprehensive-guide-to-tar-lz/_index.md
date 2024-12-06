@@ -28,7 +28,7 @@ using Aspose.Zip.Tar;
 ```
 ## ステップ1: ドキュメントディレクトリを設定する
 
-ドキュメントの場所を指定するには、パスを割り当てます。`dataDir`変数：
+パスを指定してドキュメントの場所を指定します。`dataDir`変数：
 
 ```csharp
 string dataDir = "YourDocumentDirectoryPath"; //実際のパスに置き換えてください

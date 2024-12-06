@@ -9,7 +9,7 @@ url: /de/net/tutorials/cells/guide-to-working-with-excel-worksheets/adding-works
 ---
 ## Einführung
 
-In der heutigen schnelllebigen digitalen Landschaft ist die Fähigkeit, Daten effizient zu verwalten, für jedes Unternehmen von entscheidender Bedeutung. Excel-Tabellen sind ein Eckpfeiler der Datenverwaltung, und die Automatisierung von Aufgaben in ihnen kann viel Zeit und Aufwand sparen. In diesem Handbuch erfahren Sie, wie Sie mithilfe von Aspose.Cells für .NET, einer robusten Bibliothek für die nahtlose Tabellenkalkulation, programmgesteuert ein Arbeitsblatt zu einer vorhandenen Excel-Arbeitsmappe hinzufügen. Legen wir los!
+In der heutigen schnelllebigen digitalen Landschaft ist die Fähigkeit, Daten effizient zu verwalten, für jedes Unternehmen von entscheidender Bedeutung. Excel-Tabellen sind ein Eckpfeiler der Datenverwaltung, und die Automatisierung von Aufgaben in ihnen kann viel Zeit und Aufwand sparen. In diesem Handbuch erfahren Sie, wie Sie mithilfe von Aspose.Cells für .NET, einer robusten Bibliothek für die nahtlose Tabellenkalkulationsbearbeitung, programmgesteuert ein Arbeitsblatt zu einer vorhandenen Excel-Arbeitsmappe hinzufügen. Legen wir los!
 
 ## Voraussetzungen
 

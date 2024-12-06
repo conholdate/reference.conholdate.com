@@ -16,7 +16,7 @@ La conversión de modelos 3D en imágenes impresionantes es una habilidad fundam
 Antes de comenzar, asegúrese de tener los siguientes requisitos previos para renderizar correctamente imágenes 3D utilizando Aspose.3D para .NET:
 
 -  Biblioteca Aspose.3D para .NET: primero, descargue la biblioteca Aspose.3D para .NET. Puede instalarla mediante NuGet o descargarla directamente desde[Página de lanzamiento de Aspose](https://releases.aspose.com/3d/net/).
-- Un modelo 3D: prepara tu modelo 3D en un formato compatible, como OBJ, FBX o 3DS. Para este tutorial, utilizaremos un`Aspose3D.obj` archivo.
+-  Un modelo 3D: prepara tu modelo 3D en un formato compatible, como OBJ, FBX o 3DS. Para este tutorial, utilizaremos un`Aspose3D.obj` archivo.
 - Entorno de desarrollo .NET: asegúrese de tener un entorno de desarrollo .NET en funcionamiento. Este tutorial supone que está utilizando Visual Studio o un IDE similar.
 
 ## Importación de los espacios de nombres necesarios
@@ -95,7 +95,7 @@ Ahora que tenemos nuestra escena con el modelo, la cámara y las luces, es hora 
 ImageRenderOptions opt = new ImageRenderOptions();
 opt.BackgroundColor = Color.AliceBlue;  // Establecer el color de fondo
 opt.AssetDirectories.Add("YourDocumentDirectory" + "textures");  // Establecer el directorio de texturas
-opt.EnableShadows = true;  //Habilitar sombras para dar profundidad
+opt.EnableShadows = true;  // Habilitar sombras para dar profundidad
 ```
 
 ## Paso 5: Renderizar la escena
@@ -120,7 +120,7 @@ Sí, Aspose.3D admite varios formatos de modelos 3D como OBJ, FBX y 3DS, lo que 
 
 ### ¿Cómo puedo solucionar problemas de renderizado?
 
-Para solucionar problemas, consulte la[Foro de Aspose.3D](https://forum.aspose.com/c/3d/18) Para obtener soluciones a problemas de renderización comunes, también puede consultar la documentación para obtener instrucciones detalladas.
+ Para solucionar problemas, consulte la[Foro de Aspose.3D](https://forum.aspose.com/c/3d/18) Para obtener soluciones a problemas de renderización comunes, también puede consultar la documentación para obtener instrucciones detalladas.
 
 ### ¿Hay una prueba gratuita disponible?
 

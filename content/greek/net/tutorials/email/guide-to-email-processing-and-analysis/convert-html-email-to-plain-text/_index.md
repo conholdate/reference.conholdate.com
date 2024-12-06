@@ -19,7 +19,7 @@ url: /el/net/tutorials/email/guide-to-email-processing-and-analysis/convert-html
 
 1. Βασική κατανόηση της C#: Η εξοικείωση με τη γλώσσα προγραμματισμού C# θα σας βοηθήσει. Αν έχετε ασχοληθεί με το C# στο παρελθόν, αυτό είναι τέλειο!
 
-2. Aspose.Email για .NET: Πρέπει να έχετε εγκατεστημένο το Aspose.Email στο έργο σας. Μπορείτε να το αποκτήσετε μέσω του[Aspose ιστότοπο](https://releases.aspose.com/email/net/).
+2. Aspose.Email για .NET: Πρέπει να έχετε εγκατεστημένο το Aspose.Email στο έργο σας. Μπορείτε να το αποκτήσετε μέσω του[Aspose website](https://releases.aspose.com/email/net/).
 
 3. Visual Studio: Βεβαιωθείτε ότι έχετε ρυθμίσει το Visual Studio ως IDE σας για μια απρόσκοπτη εμπειρία κωδικοποίησης και εντοπισμού σφαλμάτων.
 

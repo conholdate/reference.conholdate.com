@@ -70,7 +70,7 @@ Ebben az oktatóanyagban megtanulta, hogyan írhat alá egy képet metaadatokkal
 
 ## GYIK
 
-### Aláírhatok több képet metaadatokkal a GroupDocs.Signature for .NET használatával?
+### Aláírhatok több képet metaadatokkal a GroupDocs.Signature for .NET segítségével?
 Igen, több képet is aláírhat az egyes képfájlok iterációjával és a metaadat-aláírások alkalmazásával.
 
 ### Elérhető a GroupDocs.Signature for .NET próbaverziója?

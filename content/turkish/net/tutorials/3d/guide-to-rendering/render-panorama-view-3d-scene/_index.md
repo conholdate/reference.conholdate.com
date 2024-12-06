@@ -15,9 +15,9 @@ Sürükleyici, panoramik 3B sahneler oluşturmak, uygulamalarını çarpıcı g�
 
 İşleme sürecine başlamadan önce aşağıdakilerin mevcut olduğundan emin olun:
 
--  .NET için Aspose.3D: Başlamak için, 3B varlıkları işleme ve işleme için gerekli tüm araçları sağlayan Aspose.3D'yi yüklemeniz gerekir.[.NET için Aspose.3D'yi indirin](https://releases.aspose.com/3d/net/) Başlamak için.
+- .NET için Aspose.3D: Başlamak için, 3B varlıkları işleme ve işleme için gerekli tüm araçları sağlayan Aspose.3D'yi yüklemeniz gerekir.[.NET için Aspose.3D'yi indirin](https://releases.aspose.com/3d/net/) Başlamak için.
 - .NET Geliştirme Ortamı: Tamamen yapılandırılmış bir .NET geliştirme ortamı gereklidir. Visual Studio veya başka bir uyumlu IDE'ye sahip olduğunuzdan emin olun.
-- Örnek 3D Sahne Dosyası: Aşağıdaki formatlarda herhangi bir 3D sahneyi kullanabilirsiniz:`.glb`, `.fbx` , veya`.obj`Bu eğitim için basit bir "VirtualCity.glb" dosyasını kullanacağız.
+-  Örnek 3D Sahne Dosyası: Aşağıdaki formatlarda herhangi bir 3D sahneyi kullanabilirsiniz:`.glb`, `.fbx` , veya`.obj`Bu eğitim için basit bir "VirtualCity.glb" dosyasını kullanacağız.
 
 Bu ön koşulları yerine getirdikten sonra sahneyi kurmaya geçebiliriz.
 

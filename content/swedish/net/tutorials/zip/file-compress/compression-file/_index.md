@@ -38,7 +38,7 @@ string dataDir = "Your Document Directory";
 
 ### Steg 2: Komprimera filer
 
- Låt oss nu skriva koden för att komprimera filer med hjälp av`CpioArchive`klass. Nedan är ett enkelt exempel som visar hur man skapar ett CPIO-arkiv:
+ Låt oss nu skriva koden för att komprimera filer med hjälp av`CpioArchive` klass. Nedan är ett enkelt exempel som visar hur man skapar ett CPIO-arkiv:
 
 ```csharp
 using (CpioArchive archive = new CpioArchive())
@@ -68,7 +68,7 @@ Grattis! Du har framgångsrikt komprimerat filer med Aspose.Zip för .NET. Detta
 ## FAQ's
 
 ### Kan jag använda Aspose.Zip för .NET i kommersiella projekt?
-Ja, du kan använda den i kommersiella projekt. För att få en licens, besök[här](https://purchase.conholdate.com/buy).
+ Ja, du kan använda den i kommersiella projekt. För att få en licens, besök[här](https://purchase.conholdate.com/buy).
 
 ### Finns det en gratis provperiod?
  Ja, du kan utforska biblioteket med en gratis provperiod[här](https://releases.aspose.com/).

@@ -107,7 +107,7 @@ Aspose.3D chủ yếu hỗ trợ .NET, nhưng cũng có phiên bản dành cho J
 
 ### Tôi có thể tìm thấy hỗ trợ cho Aspose.3D cho .NET ở đâu?
 
- Để được cộng đồng hỗ trợ, hãy truy cập[Diễn đàn Aspose.3D](https://forum.aspose.com/c/3d/18).
+Để được cộng đồng hỗ trợ, hãy truy cập[Diễn đàn Aspose.3D](https://forum.aspose.com/c/3d/18).
 
 ### Tôi có thể xin giấy phép tạm thời bằng cách nào?
 

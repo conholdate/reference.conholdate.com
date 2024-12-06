@@ -30,7 +30,7 @@ using System.IO;
 
 ## Krok 1: Ustaw katalog wyjściowy i nazwę pliku
 
-Najpierw należy określić katalog wyjściowy, w którym zostanie zapisany scalony plik ZIP, a także podać nazwę pliku wyjściowego:
+Najpierw należy określić katalog wyjściowy, w którym zostanie zapisany scalony plik ZIP, i zdefiniować nazwę pliku wyjściowego:
 
 ```csharp
 string outputFolder = "Your_Output_Directory"; // Zastąp swoją rzeczywistą ścieżką

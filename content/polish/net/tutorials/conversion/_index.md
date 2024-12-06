@@ -4,7 +4,7 @@ linktitle: GroupDocs.Conversion dla samouczków .NET
 type: docs
 weight: 10
 url: /pl/net/tutorials/conversion/
-description: Bezproblemowa konwersja plików do formatu PDF przy użyciu GroupDocs.Conversion dla .NET. Usprawnij zarządzanie dokumentami dzięki opcjom dostosowywania.
+description: Bezproblemowa konwersja plików do formatu PDF przy użyciu GroupDocs.Conversion dla .NET. Usprawnij zarządzanie dokumentami dzięki konfigurowalnym opcjom.
 is_root: true
 ---
 

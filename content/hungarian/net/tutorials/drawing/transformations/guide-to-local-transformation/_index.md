@@ -39,7 +39,7 @@ Graphics graphics = Graphics.FromImage(bitmap);
 graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 ```
 
-### 3. lépés: Hozzon létre egy GraphicsPath-et
+### 3. lépés: Hozzon létre egy GraphicsPath-t
 
 Rajzolj ellipszist:
 

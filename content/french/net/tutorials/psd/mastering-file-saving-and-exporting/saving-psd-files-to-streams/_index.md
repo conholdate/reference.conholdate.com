@@ -66,7 +66,7 @@ using (Image image = Image.Load(sourceFile))
         // En option, vous pouvez réinitialiser la position du flux si nécessaire
         stream.Position = 0;
 
-        // D'autres traitements, comme l'enregistrement dans un fichier ou l'envoi sur un réseau, peuvent être effectués ici.
+        // Des traitements ultérieurs, tels que l'enregistrement dans un fichier ou l'envoi sur un réseau, peuvent être effectués ici.
     }
 }
 ```

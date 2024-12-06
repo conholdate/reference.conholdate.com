@@ -9,7 +9,7 @@ url: /hu/net/tutorials/comparison/load-and-save-documents/save-documents-metadat
 ---
 ## Bevezetés
 
-A szoftverfejlesztésben, különösen az olyan iparágakban, mint a jogi, pénzügy és oktatás, a dokumentumok hatékony összehasonlításának képessége a legfontosabb. A GroupDocs Comparison for .NET robusztus megoldást kínál a dokumentumok zökkenőmentes összehasonlítására a .NET-alkalmazásokon belül. Ez az oktatóanyag végigvezeti Önt ennek a hatékony könyvtárnak a használatával a dokumentum metaadat-forrásának mentéséhez, így biztosítva, hogy maximálisan kihasználja a dokumentum-összehasonlítási feladatokhoz szükséges képességeit.
+A szoftverfejlesztésben, különösen az olyan iparágakban, mint a jogi, pénzügy és oktatás, a dokumentumok hatékony összehasonlításának képessége a legfontosabb. A GroupDocs Comparison for .NET robusztus megoldást kínál a dokumentumok zökkenőmentes összehasonlítására a .NET-alkalmazásokon belül. Ez az oktatóanyag végigvezeti Önt ennek a nagy teljesítményű könyvtárnak a használatával a dokumentum metaadat-forrásának mentéséhez, így biztosítva, hogy a dokumentum-összehasonlítási feladatokhoz maximalizálja a képességeit.
 
 ## Előfeltételek
 

@@ -1,6 +1,6 @@
 ---
 title: Aspose.Tasks for .NET 的綜合教學與範例
-linktitle: Aspose.Tasks for .NET 教學課程
+linktitle: .NET 教學的 Aspose.Tasks
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/tasks/

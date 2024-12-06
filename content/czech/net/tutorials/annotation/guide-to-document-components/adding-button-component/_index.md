@@ -9,7 +9,7 @@ url: /cs/net/tutorials/annotation/guide-to-document-components/adding-button-com
 ---
 ## Zavedení
 
-tomto tutoriálu vás provedeme jednoduchým procesem přidání komponenty tlačítka do dokumentu PDF pomocí knihovny GroupDocs.Annotation pro .NET. Na konci této příručky budete připraveni vylepšit své dokumenty PDF interaktivními funkcemi.
+V tomto tutoriálu vás provedeme jednoduchým procesem přidání komponenty tlačítka do dokumentu PDF pomocí knihovny GroupDocs.Annotation pro .NET. Na konci této příručky budete připraveni vylepšit své dokumenty PDF interaktivními funkcemi.
 
 ## Předpoklady
 
@@ -54,7 +54,7 @@ using (Annotator annotator = new Annotator("input.pdf"))
         Style = BorderStyle.Dashed,             // Styl ohraničení
         BorderWidth = 0,                        // Šířka okraje
         BorderColor = 0,                        // Barva ohraničení
-        AlternateName = "Name",                 //Alternativní název tlačítka
+        AlternateName = "Name",                 // Alternativní název tlačítka
         PartialName = "Partial Name",           // Částečný název tlačítka
         NormalCaption = "Caption",               // Text zobrazený na tlačítku
         ButtonColor = 16761035,                 // Barva pozadí tlačítka

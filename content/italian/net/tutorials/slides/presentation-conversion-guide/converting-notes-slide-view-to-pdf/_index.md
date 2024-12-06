@@ -94,4 +94,4 @@ Sì, puoi personalizzare i caratteri, il layout della pagina, la compressione e 
  Assolutamente! Puoi selezionare diapositive specifiche utilizzando`Slides` raccolta nella`Presentation` classe.
 
 ### D5: Dove posso trovare altri esempi?
- Visitare il[Documentazione di Aspose.Slides per .NET](https://reference.aspose.com/slides/net/) per ulteriori esempi e casi d'uso.
+ Visita il[Documentazione di Aspose.Slides per .NET](https://reference.aspose.com/slides/net/) per ulteriori esempi e casi d'uso.

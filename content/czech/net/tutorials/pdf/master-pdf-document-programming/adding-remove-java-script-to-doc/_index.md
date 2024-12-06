@@ -15,8 +15,8 @@ V tomto komplexním průvodci se ponoříme do světa Aspose.PDF pro .NET a odem
 
 Chcete-li pokračovat, budete potřebovat:
 
-1. Aspose.PDF for .NET nainstalovaný ve vašem projektu (stáhnout z[Stránka ke stažení Aspose.PDF pro .NET](https://releases.aspose.com/pdf/net/))
-2. Platná licence k užívání knihovny
+1. Aspose.PDF for .NET nainstalovaný ve vašem projektu (stáhnout z[Stránka pro stahování Aspose.PDF pro .NET](https://releases.aspose.com/pdf/net/))
+2. Platná licence k používání knihovny
 3. AC# IDE nebo textový editor
 
 ## Importujte balíčky
@@ -98,7 +98,7 @@ Ověřte, zda byla funkce úspěšně odstraněna, opakovaným tiskem zbývajíc
 
 ## Závěr
 
-V tomto komplexním průvodci jste zjistili, jak odemknout sílu přizpůsobitelné funkce JavaScriptu Aspose.PDF pro .NET. Pomocí této funkce můžete vytvářet dynamické soubory PDF, zlepšovat uživatelské prostředí a zjednodušovat pracovní postupy. Zvládnutím těchto kroků a dalším prozkoumáním možností knihovny budete na dobré cestě k odemknutí nových možností ve vašich aplikacích.
+V tomto komplexním průvodci jste zjistili, jak odemknout sílu přizpůsobitelné funkce JavaScriptu Aspose.PDF pro .NET. Pomocí této funkce můžete vytvářet dynamické soubory PDF, vylepšovat uživatelské prostředí a zjednodušit pracovní postupy. Zvládnutím těchto kroků a dalším prozkoumáním možností knihovny budete na dobré cestě k odemknutí nových možností ve vašich aplikacích.
 
 ## FAQ
 

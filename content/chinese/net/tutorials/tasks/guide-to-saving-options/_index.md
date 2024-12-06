@@ -13,7 +13,7 @@ url: /zh/net/tutorials/tasks/guide-to-saving-options/
 
 ## 将 MS Project 文件转换为 HTML
 
-假设您有一个需要与团队共享的 MS Project 文件 (.mpp)。与其发送需要特定软件的庞大文件，为什么不将其转换为干净、可查看的 HTML 格式呢？使用 Aspose.Tasks for .NET，这个过程很简单。您首先将项目文件加载到库中，只需几行代码即可指定 HTML 输出的外观。想要突出显示某些任务或包含自定义标签？没问题！此工具可让您灵活地根据需要定制输出。对设置满意后，只需单击一下即可保存 HTML 版本。想要了解更多？查看完整教程[这里](./save-ms-project-files-to-html-format/).
+假设您有一个需要与团队共享的 MS Project 文件 (.mpp)。与其发送需要特定软件的庞大文件，为什么不将其转换为干净、可查看的 HTML 格式呢？使用 Aspose.Tasks for .NET，这个过程非常简单。您首先将项目文件加载到库中，只需几行代码即可指定 HTML 输出的外观。想要突出显示某些任务或包含自定义标签？没问题！此工具可让您灵活地根据需要定制输出。对设置满意后，只需单击一下即可保存 HTML 版本。想要了解更多？查看完整教程[这里](./save-ms-project-files-to-html-format/).
 
 ## 将 MS Project 文件转换为 PDF
 

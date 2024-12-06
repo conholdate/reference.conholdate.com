@@ -1,7 +1,7 @@
 ---
 title: Konvertera EPUB till PDF med Aspose.PDF för .NET
 linktitle: Konvertera EPUB till PDF med Aspose.PDF för .NET
-second_title: Aspose.PDF för .NET API-referens
+second_title: Aspose.PDF för .NET API Referens
 description: En steg-för-steg-guide om hur man konverterar en EPUB-fil till en PDF med Aspose.PDF för .NET. Enkelt, effektivt och perfekt för alla användare.
 type: docs
 weight: 30

@@ -107,7 +107,7 @@ Aspose.3D esas olarak .NET'i destekler, ancak Java ve diğer platformlar için d
 
 ### Aspose.3D for .NET desteğini nerede bulabilirim?
 
- Topluluk desteği için şu adresi ziyaret edin:[Aspose.3D forumu](https://forum.aspose.com/c/3d/18).
+Topluluk desteği için şu adresi ziyaret edin:[Aspose.3D forumu](https://forum.aspose.com/c/3d/18).
 
 ### Geçici ehliyet nasıl alabilirim?
 

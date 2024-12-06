@@ -96,7 +96,7 @@ Console.WriteLine($"\nSource document rendered successfully.\nCheck output in {o
 
 ## Wniosek
 
-tym samouczku przyjrzeliśmy się sposobowi ładowania dokumentów chronionych hasłem za pomocą GroupDocs.Viewer dla .NET. Postępując zgodnie z tymi krokami, deweloperzy mogą łatwo zintegrować tę funkcjonalność ze swoimi aplikacjami, umożliwiając użytkownikom bezproblemowe przeglądanie chronionych dokumentów.
+tym samouczku zbadaliśmy, jak ładować dokumenty chronione hasłem za pomocą GroupDocs.Viewer dla .NET. Postępując zgodnie z tymi krokami, deweloperzy mogą łatwo zintegrować tę funkcjonalność ze swoimi aplikacjami, umożliwiając użytkownikom bezproblemowe przeglądanie chronionych dokumentów.
 
 ## Najczęściej zadawane pytania
 

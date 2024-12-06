@@ -34,7 +34,7 @@ using Aspose.Email.Spam;
 
 Mit diesen Importen können Sie die Funktionen von Aspose.Email zur Spam-Analyse nutzen.
 
-Lassen Sie uns die Implementierung nun in klare Schritte unterteilen, damit Sie sie problemlos nachvollziehen können.
+Lassen Sie uns die Implementierung nun in klare Schritte aufteilen, damit Sie sie problemlos nachvollziehen können.
 
 ## Schritt 1: Eine E-Mail hochladen
 

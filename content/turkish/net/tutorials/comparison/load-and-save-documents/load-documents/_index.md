@@ -22,7 +22,7 @@ Eğitime başlamadan önce aşağıdaki ayarların yapıldığından emin olun:
 Bu eğitimi takip ederken .NET framework ve C# programlama hakkında temel bir anlayışa sahip olmanız faydalı olacaktır.
 
 ### Geliştirme Ortamı
-C# kodunuzu yazmak ve çalıştırmak için Visual Studio gibi bir IDE'nizin kurulu olduğundan emin olun.
+C# kodunuzu yazmak ve çalıştırmak için Visual Studio gibi bir IDE'nin kurulu olduğundan emin olun.
 
 ## İthalat
 

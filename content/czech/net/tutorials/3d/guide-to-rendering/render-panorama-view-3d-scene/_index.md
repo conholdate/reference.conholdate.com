@@ -15,9 +15,9 @@ Vytváření pohlcujících, panoramatických 3D scén je změnou hry pro vývoj
 
 Než se ponoříte do procesu vykreslování, ujistěte se, že máte na místě následující:
 
--  Aspose.3D for .NET: Chcete-li začít, musíte nainstalovat Aspose.3D, který poskytuje všechny potřebné nástroje pro manipulaci s 3D prostředky a vykreslování.[Stáhněte si Aspose.3D pro .NET](https://releases.aspose.com/3d/net/) začít.
+- Aspose.3D for .NET: Chcete-li začít, musíte nainstalovat Aspose.3D, který poskytuje všechny potřebné nástroje pro manipulaci s 3D prostředky a vykreslování.[Stáhněte si Aspose.3D pro .NET](https://releases.aspose.com/3d/net/) začít.
 - Vývojové prostředí .NET: Je vyžadováno plně nakonfigurované vývojové prostředí .NET. Ujistěte se, že máte Visual Studio nebo jakékoli jiné kompatibilní IDE.
-- Ukázkový soubor 3D scény: Můžete použít jakoukoli 3D scénu ve formátech jako např`.glb`, `.fbx` nebo`.obj`. Pro tento tutoriál použijeme jednoduchý soubor „VirtualCity.glb“.
+-  Ukázkový soubor 3D scény: Můžete použít jakoukoli 3D scénu ve formátech jako např`.glb`, `.fbx` nebo`.obj`. Pro tento tutoriál použijeme jednoduchý soubor „VirtualCity.glb“.
 
 Jakmile splníte tyto předpoklady, můžeme přejít k nastavení scény.
 
@@ -103,7 +103,7 @@ renderer.Render(rt);
 
 ## Krok 5: Aplikujte post-processing pro Equirectangular Projection
 
-V tomto okamžiku musíme použít následné zpracování, abychom převedli mapu krychle do ekvidaktulárního panoramatického pohledu. Tato transformace zajistí, že výsledný snímek bude správné panorama.
+tomto okamžiku musíme použít následné zpracování, abychom převedli mapu krychle do ekvidaktulárního panoramatického pohledu. Tato transformace zajistí, že výsledný snímek bude správné panorama.
 
 ```csharp
 PostProcessing equirectangular = renderer.GetPostProcessing("equirectangular");

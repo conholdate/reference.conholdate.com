@@ -83,7 +83,7 @@ Ano, podporuje .NET Framework 2.0 a vyšší, stejně jako .NET Core a .NET Stan
 
 ### Mohu převést více souborů AI do PDF současně?
 
-Absolutně! GroupDocs.Conversion umožňuje dávkovou konverzi, což vám umožní převést více souborů AI v jedné operaci.
+Absolutně! GroupDocs.Conversion umožňuje dávkovou konverzi, což vám umožní převést více souborů AI v jediné operaci.
 
 ### Existují licenční požadavky na komerční projekty?
 

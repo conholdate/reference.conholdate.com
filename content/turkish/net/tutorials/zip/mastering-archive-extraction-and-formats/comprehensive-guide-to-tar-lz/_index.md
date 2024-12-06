@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // Gerçek yolunuzla değiştirin
 ```
 
- Değiştirdiğinizden emin olun`"YourDocumentDirectoryPath"`Kodun doğru çalışması için dosyalarınızın bulunduğu gerçek yolu belirtin.
+ Değiştirdiğinizden emin olun`"YourDocumentDirectoryPath"` Kodun doğru çalışması için dosyalarınızın bulunduğu gerçek yolu belirtin.
 
 ## Adım 2: Tek Bir Dosyayı Sıkıştırma
 
@@ -68,7 +68,7 @@ using (TarArchive archive = new TarArchive())
 //ExEnd: Birden Fazla Dosyayı Sıkıştır
 ```
 
- Bu, önceki adımla benzer bir yapıyı takip eder.`CreateEntry` Arşive ek dosyalar eklemek için yöntem birden fazla kez çağrılabilir.
+ Bu, önceki adımla benzer bir yapıyı takip eder.`CreateEntry`Arşive ek dosyalar eklemek için yöntem birden fazla kez çağrılabilir.
 
 ## Çözüm
 

@@ -97,7 +97,7 @@ Följande är länkarna till några användbara resurser som du kan behöva för
 
 **Welcome to the GroupDocs.Metadata for Java**
 
-GroupDocs.Metadata for Java API kan användas som metadatavisare för CRUD-operationer. Det hjälper utvecklare att läsa, skriva, redigera och ta bort metainformation från alla populära dokumentfilformat. Den hämtar filen som indata, får tillgång till filegenskapsinformationen och låter användarna utföra metadataoperationer för att enkelt hitta denna specifika dokumentfil för framtida referens.
+GroupDocs.Metadata for Java API kan användas som metadatavisare för CRUD-operationer. Det hjälper utvecklare att läsa, skriva, redigera och ta bort metainformation från alla populära dokumentfilformat. Den får filen som indata, får tillgång till filegenskapsinformationen och låter användarna utföra metadataoperationer för att enkelt hitta denna specifika dokumentfil för framtida referens.
 
 {{% /alert %}} 
 ## **GroupDocs.Metadata for Java**

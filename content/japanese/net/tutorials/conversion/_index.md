@@ -12,4 +12,4 @@ is_root: true
 ### [PDFへのファイル変換ガイド](./guide-to-file-conversion-to-pdf/)
 GroupDocs.Conversion for .NET を使用して、さまざまなファイル形式を PDF に簡単に変換する方法を学びます。このステップバイステップのチュートリアルでは、ライブラリの設定からシームレスなファイル変換の実行まで、すべてをカバーしています。
 ### [GroupDocs.Conversion for .NET を使用したドキュメント変換ガイド](./guide-to-document-conversion/)
-GroupDocs.Conversion for .NET を使用してさまざまなドキュメント形式を変換する詳細なチュートリアルを確認し、ファイル管理プロセスを効率化します。
+GroupDocs.Conversion for .NET を使用してさまざまなドキュメント形式を変換し、ファイル管理プロセスを効率化するための詳細なチュートリアルをご覧ください。

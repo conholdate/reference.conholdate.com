@@ -15,7 +15,7 @@ url: /zh/net/tutorials/3d/guide-to-rendering/render-panorama-view-3d-scene/
 
 在深入渲染过程之前，请确保已做好以下准备：
 
--  Aspose.3D for .NET：首先，您需要安装 Aspose.3D，它提供了处理 3D 资产和渲染所需的所有工具。[下载 Aspose.3D for .NET](https://releases.aspose.com/3d/net/)开始吧。
+- Aspose.3D for .NET：首先，您需要安装 Aspose.3D，它提供了处理 3D 资产和渲染所需的所有工具。[下载 Aspose.3D for .NET](https://releases.aspose.com/3d/net/)开始吧。
 - .NET 开发环境：需要完全配置的 .NET 开发环境。确保您拥有 Visual Studio 或任何其他兼容的 IDE。
 - 示例 3D 场景文件：您可以使用以下格式的任何 3D 场景`.glb`, `.fbx`， 或者`.obj`在本教程中，我们将使用一个简单的“VirtualCity.glb”文件。
 

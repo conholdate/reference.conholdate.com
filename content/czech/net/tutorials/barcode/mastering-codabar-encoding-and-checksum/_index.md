@@ -24,6 +24,6 @@ Na závěr, zvládnutí kódování Codabar a kontrolních součtů pomocí Aspo
 
 ## Zvládnutí výukových programů kódování Codabar a kontrolního součtu
 ### [Komplexní průvodce výpočty kontrolního součtu pomocí Aspose.BarCode](./guide-to-checksum-calculation/)
-Prozkoumejte základy generování čárových kódů Codabar pomocí Aspose.BarCode pro .NET. Tento průvodce krok za krokem popisuje, jak vytvořit čárové kódy s kontrolními součty a bez nich, čímž se zvýší integrita a přesnost dat.
+Prozkoumejte základy generování čárových kódů Codabar pomocí Aspose.BarCode for .NET. Tento průvodce krok za krokem popisuje, jak vytvořit čárové kódy s kontrolními součty a bez nich, čímž se zvýší integrita a přesnost dat.
 ### [Vytvářejte vlastní čárové kódy Codabar pomocí Aspose.BarCode pro .NET](./custom-codabar-barcodes/)
 Naučte se generovat přizpůsobené čárové kódy Codabar v .NET pomocí Aspose.BarCode. Tento komplexní průvodce vás provede celým procesem, včetně nastavení počátečních a koncových znaků, úpravy rozměrů a ukládání obrázků.

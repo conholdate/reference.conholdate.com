@@ -81,7 +81,7 @@ Dowiedz się krok po kroku, jak łatwo i wydajnie tworzyć, edytować, konwertow
 
 ## Aspose.Rysunek
 {{% alert color="primary" %}}
-Podnieś swoje umiejętności graficzne dzięki Aspose.Drawing dla .NET. Od precyzyjnych przekształceń współrzędnych po dynamiczny tekst i czcionki, nasze samouczki odblokowują pełny potencjał grafiki.
+Podnieś swoje umiejętności graficzne dzięki Aspose.Drawing dla .NET. Od precyzyjnych transformacji współrzędnych po dynamiczny tekst i czcionki, nasze samouczki odblokowują pełny potencjał grafiki.
 {{% /alert %}}
 
 ### Aspose.Samouczki rysowania
@@ -169,7 +169,7 @@ Odkryj kompleksowe samouczki i przykłady integracji GroupDocs.Viewer .NET z apl
 
 ## GroupDocs.Konwersja
 {{% alert color="primary" %}}
-Bezproblemowa konwersja plików do formatu PDF przy użyciu GroupDocs.Conversion dla .NET. Usprawnij zarządzanie dokumentami dzięki konfigurowalnym opcjom.
+Bezproblemowa konwersja plików do formatu PDF przy użyciu GroupDocs.Conversion dla .NET. Usprawnij zarządzanie dokumentami dzięki opcjom dostosowywania.
 {{% /alert %}}
 
 ### Samouczki GroupDocs.Conversion

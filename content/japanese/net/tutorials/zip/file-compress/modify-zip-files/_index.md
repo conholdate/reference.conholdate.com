@@ -93,7 +93,7 @@ foreach (ArchiveEntry e in entriesToDelete)
 
 ## ステップ4: 外部Zipに変更されたエントリを追加する
 
-これで、新しく抽出したエントリを外部の zip ファイルに戻すことができます。
+これで、新しく抽出したエントリを外部の zip ファイルに再度追加できます。
 
 ```csharp
 for (int i = 0; i < namesToInsert.Count; i++)

@@ -117,7 +117,7 @@ Az Aspose.Cells egy .NET-könyvtár, amely kiterjedt lehetőségeket biztosít a
 ### Szükségem van engedélyre az Aspose.Cells használatához?
  Igen, az Aspose.Cells egy fizetős könyvtár, de elkezdheti egy ingyenes próbaverzióval[itt](https://releases.aspose.com/). Vásárlás előtt felfedezheti a funkciókat.
 
-### Törölhetek egyszerre több munkalapot?
+### Törölhetek több munkalapot egyszerre?
 Igen, végigpörgetheti a munkalapokat, és törölheti őket a megfelelő indexek használatával. Ne felejtse el ennek megfelelően módosítani az indexet a munkalapok eltávolításakor.
 
 ### Mi a teendő, ha nem a megfelelő munkalapot törlöm?

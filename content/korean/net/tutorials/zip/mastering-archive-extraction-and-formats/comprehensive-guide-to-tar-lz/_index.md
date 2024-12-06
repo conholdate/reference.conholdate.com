@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // 실제 경로로 바꾸세요
 ```
 
- 교체해야 합니다`"YourDocumentDirectoryPath"`코드가 제대로 작동하려면 파일이 있는 실제 경로를 입력해야 합니다.
+ 교체해야 합니다`"YourDocumentDirectoryPath"` 코드가 제대로 작동하려면 파일이 있는 실제 경로를 입력해야 합니다.
 
 ## 2단계: 단일 파일 압축
 
@@ -68,7 +68,7 @@ using (TarArchive archive = new TarArchive())
 //ExEnd: 여러 파일 압축
 ```
 
- 이는 이전 단계와 유사한 구조를 따릅니다.`CreateEntry` 이 메서드는 추가 파일을 보관소에 포함시키기 위해 여러 번 호출될 수 있습니다.
+ 이는 이전 단계와 유사한 구조를 따릅니다.`CreateEntry`이 메서드는 추가 파일을 보관소에 포함시키기 위해 여러 번 호출될 수 있습니다.
 
 ## 결론
 

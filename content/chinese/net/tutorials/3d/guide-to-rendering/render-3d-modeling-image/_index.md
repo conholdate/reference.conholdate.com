@@ -89,7 +89,7 @@ scene.RootNode.CreateChildNode(new Light()
 
 ## 步骤 4：指定图像渲染选项
 
-现在我们有了包含模型、相机和灯光的场景，是时候指定渲染选项了。这些选项允许您自定义背景颜色、启用阴影和设置纹理目录以获得更逼真的效果。
+现在我们有了包含模型、相机和灯光的场景，是时候指定渲染选项了。这些选项允许您自定义背景颜色、启用阴影并设置纹理目录以获得更逼真的效果。
 
 ```csharp
 ImageRenderOptions opt = new ImageRenderOptions();

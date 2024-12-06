@@ -57,7 +57,7 @@ FileStream fstream = new FileStream(dataDir + "book1.xls", FileMode.Open);
 
 ## Krok 3: Vytvořte instanci objektu sešitu
 
- Nyní vytvoříme instanci`Workbook` třídy, kde bude uložen náš soubor Excel.
+ Nyní vytvoříme instanci`Workbook` třídy k uložení našeho souboru Excel.
 
 ```csharp
 // Vytvoření instance objektu sešitu

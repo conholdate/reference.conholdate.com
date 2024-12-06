@@ -66,7 +66,7 @@ A Google mesterséges intelligencia modelljének eléréséhez biztonságosan k�
 string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 ```
 
-Az API-kulcs környezeti változóként való tárolásával csökkenti annak kockázatát, hogy érzékeny információk jelenjenek meg a kódban.
+Ha az API-kulcsot környezeti változóként tárolja, csökkenti annak kockázatát, hogy érzékeny információk jelenjenek meg a kódban.
 
 ## 4. lépés: Állítsa be az AI modellpéldányt
 

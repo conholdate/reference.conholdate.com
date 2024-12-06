@@ -107,7 +107,7 @@ Console.WriteLine($"\nBuilding a scene from primitive 3D models was successful.\
 
 ### Πού μπορώ να βρω υποστήριξη για το Aspose.3D για .NET;
 
- Για υποστήριξη της κοινότητας, επισκεφθείτε το[Aspose.3D φόρουμ](https://forum.aspose.com/c/3d/18).
+Για υποστήριξη της κοινότητας, επισκεφθείτε το[Aspose.3D φόρουμ](https://forum.aspose.com/c/3d/18).
 
 ### Πώς μπορώ να αποκτήσω προσωρινή άδεια;
 

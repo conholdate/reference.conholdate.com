@@ -1,7 +1,7 @@
 ---
 title: Lägga till Ta bort Javascript till PDF-dokument
 linktitle: Lägga till Ta bort Javascript till PDF-dokument
-second_title: Aspose.PDF för .NET API-referens
+second_title: Aspose.PDF för .NET API Referens
 description: Den här omfattande guiden visar hur du lägger till anpassade beteenden, utför beräkningar eller valideringar dynamiskt och integrerar med andra program.
 type: docs
 weight: 30

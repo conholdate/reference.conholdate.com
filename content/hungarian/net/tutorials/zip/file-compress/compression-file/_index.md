@@ -38,7 +38,7 @@ string dataDir = "Your Document Directory";
 
 ### 2. lépés: Fájlok tömörítése
 
- Most írjuk meg a kódot a fájlok tömörítéséhez a`CpioArchive`osztály. Az alábbiakban egy egyszerű példa bemutatja a CPIO archívum létrehozását:
+ Most írjuk meg a kódot a fájlok tömörítéséhez a`CpioArchive` osztály. Az alábbiakban egy egyszerű példa bemutatja a CPIO archívum létrehozását:
 
 ```csharp
 using (CpioArchive archive = new CpioArchive())
@@ -68,7 +68,7 @@ Gratulálok! Sikeresen tömörítette a fájlokat az Aspose.Zip for .NET haszná
 ## GYIK
 
 ### Használhatom az Aspose.Zip for .NET-et kereskedelmi projektekben?
-Igen, használhatja kereskedelmi projektekben. Az engedély megszerzéséhez látogasson el ide[itt](https://purchase.conholdate.com/buy).
+ Igen, használhatja kereskedelmi projektekben. Az engedély megszerzéséhez látogasson el ide[itt](https://purchase.conholdate.com/buy).
 
 ### Van ingyenes próbaverzió?
  Igen, ingyenes próbaidőszakkal felfedezheti a könyvtárat[itt](https://releases.aspose.com/).

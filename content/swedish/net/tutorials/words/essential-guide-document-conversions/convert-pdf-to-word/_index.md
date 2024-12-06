@@ -17,7 +17,7 @@ Innan vi går in i konverteringsprocessen, låt oss se till att du har allt du b
 
 -  Aspose.Words för .NET: Se till att du har den senaste versionen. Om du inte gör det, ladda ner den[här](https://releases.aspose.com/words/net/).
 - .NET Framework: Se till att .NET Framework är installerat på din dator.
-- PDF-dokument: Ha PDF-filen du vill konvertera redo.
+- PDF-dokument: Ha PDF-filen som du vill konvertera redo.
 - Utvecklingsmiljö: Använd Visual Studio eller valfri IDE.
 
 ## Ställa in din miljö
@@ -68,7 +68,7 @@ doc.Save(dataDir + "ConvertedDocument.docx");
 
  Genom att åberopa`Save` metod på vår`Document` Exempelvis anger vi sökvägen och formatet för utdatafilen, i det här fallet sparar vi den som en Docx-fil.
 
-## Steg 4: Köra konverteringen
+## Steg 4: Kör konverteringen
 
 Med vår kod uppsatt är det dags att köra projektet och se Aspose.Words för .NET i aktion. Kör ditt program, och voilà! Du bör hitta din PDF konverterad till ett Word-dokument i den angivna katalogen.
 
@@ -85,7 +85,7 @@ Absolut! Du kan gå igenom flera PDF-filer och konvertera var och en med samma m
 Ja, Aspose.Words utmärker sig när det gäller att bevara den ursprungliga formateringen under konverteringsprocessen.
 
 ### Behöver jag en licens för att använda Aspose.Words för .NET?
- Medan en tillfällig licens är tillgänglig för utvärdering krävs en fullständig licens för kommersiellt bruk. Kolla in[köpsidan](https://purchase.conholdate.com/buy) för mer information.
+ Även om en tillfällig licens är tillgänglig för utvärdering, krävs en fullständig licens för kommersiellt bruk. Kolla in[köpsidan](https://purchase.conholdate.com/buy) för mer information.
 
 ### Kan jag använda Aspose.Words för .NET på olika operativsystem?
 Ja! Aspose.Words för .NET är plattformsoberoende och kan användas på Windows, Linux och macOS.

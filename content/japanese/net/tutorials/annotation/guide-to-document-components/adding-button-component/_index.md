@@ -94,7 +94,7 @@ Console.WriteLine($"\nDocument saved successfully.\nCheck output in {outputPath}
 
 はい、GroupDocs.Annotation for .NET は幅広い PDF バージョンをサポートしており、ほとんどのドキュメントとの互換性が保証されています。
 
-### つの PDF ドキュメントに複数のボタン コンポーネントを追加できますか?
+### 1 つの PDF ドキュメントに複数のボタン コンポーネントを追加できますか?
 
 はい、PDF ドキュメントに必要な数のボタン コンポーネントを追加できます。
 

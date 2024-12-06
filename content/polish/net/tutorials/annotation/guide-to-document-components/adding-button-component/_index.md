@@ -9,7 +9,7 @@ url: /pl/net/tutorials/annotation/guide-to-document-components/adding-button-com
 ---
 ## Wstęp
 
-tym samouczku przeprowadzimy Cię przez prosty proces dodawania komponentu przycisku do dokumentu PDF przy użyciu biblioteki GroupDocs.Annotation dla .NET. Pod koniec tego przewodnika będziesz w stanie wzbogacić swoje dokumenty PDF o interaktywne funkcje.
+W tym samouczku przeprowadzimy Cię przez prosty proces dodawania komponentu przycisku do dokumentu PDF przy użyciu biblioteki GroupDocs.Annotation dla .NET. Pod koniec tego przewodnika będziesz w stanie wzbogacić swoje dokumenty PDF o interaktywne funkcje.
 
 ## Wymagania wstępne
 
@@ -54,7 +54,7 @@ using (Annotator annotator = new Annotator("input.pdf"))
         Style = BorderStyle.Dashed,             // Styl obramowania
         BorderWidth = 0,                        // Szerokość obramowania
         BorderColor = 0,                        // Kolor obramowania
-        AlternateName = "Name",                 //Inna nazwa przycisku
+        AlternateName = "Name",                 // Inna nazwa przycisku
         PartialName = "Partial Name",           // Częściowa nazwa przycisku
         NormalCaption = "Caption",               // Tekst wyświetlany na przycisku
         ButtonColor = 16761035,                 // Kolor tła przycisku

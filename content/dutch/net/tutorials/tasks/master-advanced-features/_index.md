@@ -21,7 +21,7 @@ Het filteren van taken in projectmanagement is cruciaal voor duidelijkheid en ef
 
 Nu, door naar de Mastering Assignment Baselines tutorial! Deze gids gaat helemaal over het finetunen van je projectmanagementvaardigheden. Zie assignment baselines als de originele blauwdrukken van je project. Naarmate projecten evolueren, is het essentieel om je huidige status te vergelijken met deze baselines om de voortgang te meten.
 
- Deze stapsgewijze tutorial leidt je door het laden van het project, het instellen van initiële baselines en het ophalen van cruciale data. Je leert zelfs hoe je deze baselines kunt vergelijken, zodat je altijd op het goede spoor zit. Het is vergelijkbaar met het controleren van je GPS tijdens een roadtrip; je wilt weten of je nog steeds de goede kant op gaat! Aan het einde van deze tutorial heb je het vertrouwen om assignment baselines als een pro te beheren, en je algehele projectworkflow te optimaliseren.[Lees meer](./mastering-assignment-baseline/)
+ Deze stapsgewijze tutorial leidt je door het laden van het project, het instellen van initiële baselines en het ophalen van cruciale data. Je leert zelfs hoe je deze baselines kunt vergelijken, zodat je altijd op het goede spoor zit. Het is vergelijkbaar met het controleren van je GPS tijdens een roadtrip; je wilt weten of je nog steeds de goede kant op gaat! Aan het einde van deze tutorial heb je het vertrouwen om assignment baselines als een pro te beheren, en optimaliseer je je algehele projectworkflow.[Lees meer](./mastering-assignment-baseline/)
 
 ## Geavanceerde functies onder de knie krijgen Tutorials
 ### [Taakfiltering EN -bewerking in Aspose.Tasks](./task-filtering-and-operation/)

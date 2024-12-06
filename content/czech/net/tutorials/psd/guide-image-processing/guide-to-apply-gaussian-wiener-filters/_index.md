@@ -103,7 +103,7 @@ Ano, Aspose.PSD podporuje více formátů, včetně BMP, JPEG, PNG a dalších, 
 
 ### Co znamená velikost poloměru a hodnota hladkosti?
 
-Velikost poloměru určuje rozsah činnosti filtru, zatímco hodnota vyhlazení upravuje úroveň vyhlazení aplikovaného na váš obrázek, což ovlivňuje jeho celkovou ostrost a detaily.
+Velikost poloměru určuje rozsah činnosti filtru, zatímco hodnota vyhlazení upravuje úroveň vyhlazování aplikovaného na váš obrázek, což ovlivňuje jeho celkovou ostrost a detaily.
 
 ### Jak mohu získat dočasnou licenci pro Aspose.PSD?
 

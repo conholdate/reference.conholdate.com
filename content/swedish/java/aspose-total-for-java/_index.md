@@ -125,7 +125,7 @@ Följande är länkarna till några användbara resurser som du kan behöva för
 
 **Welcome to Aspose.Tasks for Java!**
 
-Aspose.Tasks for Java är ett klassbibliotek som gör det möjligt för Java-applikationsutvecklare att bädda in funktionaliteten för att bearbeta Microsoft Project®-dokument (MPP/MPT/XLS) utan att ens använda Microsoft Project®. API:et eliminerar därför kravet på Microsoft Office Automation i sådana applikationer. Aspose.Tasks för Java är hämtat från sin motsvarande .NET-produkt och är en mogen produkt som erbjuder stabilitet och flexibilitet. Komponenten ger ett lättanvänt API för att manipulera projektfiler, vilket sparar tid och pengar jämfört med att utveckla liknande funktioner från grunden.
+Aspose.Tasks för Java är ett klassbibliotek som gör det möjligt för Java-applikationsutvecklare att bädda in funktionaliteten för att bearbeta Microsoft Project®-dokument (MPP/MPT/XLS) utan att ens använda Microsoft Project®. API:et eliminerar därför kravet på Microsoft Office Automation i sådana applikationer. Aspose.Tasks för Java är hämtat från sin motsvarande .NET-produkt och är en mogen produkt som erbjuder stabilitet och flexibilitet. Komponenten ger ett lättanvänt API för att manipulera projektfiler, vilket sparar tid och pengar jämfört med att utveckla liknande funktioner från grunden.
 
 {{% /alert %}}
 

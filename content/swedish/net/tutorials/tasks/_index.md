@@ -12,4 +12,4 @@ is_root: true
 ### [Guide till att spara alternativ i Aspose.Tasks för .NET](./guide-to-saving-options/)
 Spara och konvertera Microsoft Project-filer enkelt med Aspose.Tasks för .NET. Utforska självstudier om export till HTML- och PDF-format.
 ### [Bemästra avancerade funktioner i Aspose.Tasks för .NET](./master-advanced-features/)
-Lås upp potentialen hos Aspose.Tasks för .NET med handledningar om uppgiftsfiltrering, uppdragsbaslinjer och avancerade funktioner för effektiv projektledning.
+Lås upp potentialen hos Aspose.Tasks för .NET med handledning om uppgiftsfiltrering, uppdragsbaslinjer och avancerade funktioner för effektiv projektledning.

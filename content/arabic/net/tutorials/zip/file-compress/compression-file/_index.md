@@ -38,7 +38,7 @@ string dataDir = "Your Document Directory";
 
 ### الخطوة 2: ضغط الملفات
 
- الآن، دعنا نكتب الكود لضغط الملفات باستخدام`CpioArchive`فيما يلي مثال بسيط يوضح كيفية إنشاء أرشيف CPIO:
+ الآن، دعنا نكتب الكود لضغط الملفات باستخدام`CpioArchive` فيما يلي مثال بسيط يوضح كيفية إنشاء أرشيف CPIO:
 
 ```csharp
 using (CpioArchive archive = new CpioArchive())
@@ -68,7 +68,7 @@ Console.WriteLine("Files have been successfully compressed into archive.cpio!");
 ## الأسئلة الشائعة
 
 ### هل يمكنني استخدام Aspose.Zip لـ .NET في المشاريع التجارية؟
-نعم، يمكنك استخدامه في المشاريع التجارية. للحصول على ترخيص، قم بزيارة[هنا](https://purchase.conholdate.com/buy).
+ نعم، يمكنك استخدامه في المشاريع التجارية. للحصول على ترخيص، قم بزيارة[هنا](https://purchase.conholdate.com/buy).
 
 ### هل هناك نسخة تجريبية مجانية متاحة؟
  نعم، يمكنك استكشاف المكتبة من خلال تجربة مجانية[هنا](https://releases.aspose.com/).

@@ -16,7 +16,7 @@ Kết xuất mô hình 3D thành hình ảnh tuyệt đẹp là một kỹ năng
 Trước khi bắt đầu, hãy đảm bảo bạn có đủ các điều kiện tiên quyết sau để có thể dựng thành công hình ảnh 3D bằng Aspose.3D cho .NET:
 
 -  Aspose.3D cho Thư viện .NET: Đầu tiên, hãy tải xuống thư viện Aspose.3D cho .NET. Bạn có thể cài đặt nó bằng NuGet hoặc tải xuống trực tiếp từ[Trang phát hành Aspose](https://releases.aspose.com/3d/net/).
-- Mô hình 3D: Chuẩn bị mô hình 3D của bạn ở định dạng tương thích, chẳng hạn như OBJ, FBX hoặc 3DS. Đối với hướng dẫn này, chúng tôi sẽ sử dụng`Aspose3D.obj` tài liệu.
+-  Mô hình 3D: Chuẩn bị mô hình 3D của bạn ở định dạng tương thích, chẳng hạn như OBJ, FBX hoặc 3DS. Đối với hướng dẫn này, chúng tôi sẽ sử dụng`Aspose3D.obj` tài liệu.
 - Môi trường phát triển .NET: Đảm bảo bạn có môi trường phát triển .NET đang hoạt động. Hướng dẫn này giả định rằng bạn đang sử dụng Visual Studio hoặc IDE tương tự.
 
 ## Nhập các không gian tên cần thiết
@@ -95,7 +95,7 @@ Bây giờ chúng ta đã có cảnh với mô hình, máy ảnh và đèn, đã
 ImageRenderOptions opt = new ImageRenderOptions();
 opt.BackgroundColor = Color.AliceBlue;  // Đặt màu nền
 opt.AssetDirectories.Add("YourDocumentDirectory" + "textures");  // Thiết lập thư mục kết cấu
-opt.EnableShadows = true;  //Bật bóng đổ để tạo chiều sâu
+opt.EnableShadows = true;  // Bật bóng đổ để tạo chiều sâu
 ```
 
 ## Bước 5: Kết xuất cảnh
@@ -120,7 +120,7 @@ Có, Aspose.3D hỗ trợ nhiều định dạng mô hình 3D như OBJ, FBX và 
 
 ### Tôi có thể khắc phục sự cố kết xuất như thế nào?
 
-Để khắc phục sự cố, hãy kiểm tra[Diễn đàn Aspose.3D](https://forum.aspose.com/c/3d/18) để biết giải pháp cho các vấn đề kết xuất phổ biến. Bạn cũng có thể tham khảo tài liệu để biết hướng dẫn chi tiết.
+ Để khắc phục sự cố, hãy kiểm tra[Diễn đàn Aspose.3D](https://forum.aspose.com/c/3d/18) để biết giải pháp cho các vấn đề kết xuất phổ biến. Bạn cũng có thể tham khảo tài liệu để biết hướng dẫn chi tiết.
 
 ### Có bản dùng thử miễn phí không?
 

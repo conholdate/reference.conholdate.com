@@ -8,7 +8,7 @@ weight: 10
 url: /pl/net/tutorials/metadata/pdf-metadata-management/reading-built-in-properties-from-pdf/
 ---
 ## Wstęp
-W tym samouczku pokażemy, jak używać GroupDocs.Metadata dla .NET do odczytywania i manipulowania metadanymi w plikach PDF. Ta potężna biblioteka umożliwia programistom dostęp do różnych atrybutów metadanych, takich jak autor, data utworzenia i temat, co zwiększa możliwości zarządzania dokumentami w aplikacjach.
+W tym samouczku pokażemy, jak używać GroupDocs.Metadata dla .NET do odczytywania i manipulowania metadanymi w plikach PDF. Ta potężna biblioteka umożliwia deweloperom dostęp do różnych atrybutów metadanych, takich jak autor, data utworzenia i temat, co zwiększa możliwości zarządzania dokumentami w aplikacjach.
 
 ## Wymagania wstępne
 Zanim zaczniemy, upewnij się, że masz następujące rzeczy:

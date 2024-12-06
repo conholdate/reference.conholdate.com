@@ -28,7 +28,7 @@ using Aspose.Words;
 
 ## Étape 1 : Charger le fichier texte
 
- Tout d'abord, vous devez charger le fichier texte dans un Aspose.Words`Document` objet. Voici comment procéder :
+Tout d'abord, vous devez charger le fichier texte dans un Aspose.Words`Document` objet. Voici comment procéder :
 
 ```csharp
 // Spécifiez le chemin du répertoire où se trouve votre fichier texte
@@ -62,7 +62,7 @@ Absolument ! La conversion au format de document Word conserve la mise en forme 
 ### Aspose.Words est-il compatible avec différents frameworks .NET ?
 Oui, Aspose.Words prend en charge divers frameworks .NET, garantissant une large compatibilité dans différents environnements.
 
-### Puis-je convertir plusieurs fichiers texte par lots à l'aide d'Aspose.Words ?
+### Puis-je convertir plusieurs fichiers texte par lots à l'aide d'Aspose.Words ?
 Oui, vous pouvez facilement traiter par lots plusieurs fichiers texte à l'aide de l'API Aspose.Words, simplifiant ainsi vos tâches de conversion.
 
 ### Où puis-je trouver plus de ressources et d'assistance pour Aspose.Words ?

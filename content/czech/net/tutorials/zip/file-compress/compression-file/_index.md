@@ -38,7 +38,7 @@ string dataDir = "Your Document Directory";
 
 ### Krok 2: Komprimace souborů
 
- Nyní napíšeme kód pro kompresi souborů pomocí`CpioArchive`třída. Níže je jednoduchý příklad demonstrující, jak vytvořit archiv CPIO:
+ Nyní napíšeme kód pro kompresi souborů pomocí`CpioArchive` třída. Níže je jednoduchý příklad demonstrující, jak vytvořit archiv CPIO:
 
 ```csharp
 using (CpioArchive archive = new CpioArchive())
@@ -68,7 +68,7 @@ Gratuluji! Úspěšně jste komprimovali soubory pomocí Aspose.Zip pro .NET. Ta
 ## FAQ
 
 ### Mohu použít Aspose.Zip pro .NET v komerčních projektech?
-Ano, můžete jej použít v komerčních projektech. Chcete-li získat licenci, navštivte[zde](https://purchase.conholdate.com/buy).
+ Ano, můžete jej použít v komerčních projektech. Chcete-li získat licenci, navštivte[zde](https://purchase.conholdate.com/buy).
 
 ### Je k dispozici bezplatná zkušební verze?
  Ano, knihovnu můžete prozkoumat pomocí bezplatné zkušební verze[zde](https://releases.aspose.com/).

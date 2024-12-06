@@ -17,7 +17,7 @@ Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
 1.  Aspose.Zip for .NET Library: Kütüphaneyi projenize yükleyin. İndirebilirsiniz[Burada](https://releases.aspose.com/zip/net/).
    
-2. Belge Dizini: Zip dosyalarınızı depolamak için bir dizin ayarlayın. Değiştir`"Your Document Directory"` gerçek yolunuzla birlikte kodda.
+2.  Belge Dizini: Zip dosyalarınızı depolamak için bir dizin ayarlayın. Değiştir`"Your Document Directory"` gerçek yolunuzla birlikte kodda.
 
 ## Gerekli Ad Alanlarını İçe Aktar
 
@@ -126,7 +126,7 @@ Aspose.Zip öncelikli olarak .NET uygulamaları için tasarlanmıştır, ancak A
  Ziyaret edin[Aspose.Zip forumu](https://forum.aspose.com/c/zip/37) Destek ve tartışmalar için.
 
 ### Aspose.Zip for .NET için geçici bir lisans satın alabilir miyim?
- Evet, geçici bir lisans alabilirsiniz[Burada](https://purchase.conholdate.com/temporary-license/).
+Evet, geçici bir lisans alabilirsiniz[Burada](https://purchase.conholdate.com/temporary-license/).
 
 ### Aspose.Zip for .NET'in belgelerini nerede bulabilirim?
  Tam dokümantasyon mevcuttur[Burada](https://reference.aspose.com/zip/net/).

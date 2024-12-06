@@ -96,7 +96,7 @@ Console.WriteLine("OCR process executed successfully.");
 
 ## 結論
 
-使用 Aspose.OCR 將 OCR 功能整合到您的 .NET 應用程式中非常簡單。本指南引導您完成對 URL 中的圖像執行 OCR 的關鍵步驟，為開發利用文字辨識技術的應用程式奠定了基礎。
+使用 Aspose.OCR 將 OCR 功能整合到您的 .NET 應用程式中非常簡單。本指南引導您完成對 URL 中的圖像執行 OCR 的關鍵步驟，為開發利用文字辨識技術的應用程式奠定基礎。
 
 ## 常見問題解答
 

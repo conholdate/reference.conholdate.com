@@ -46,7 +46,7 @@ Definiera sökvägen till signaturbilden som du tänker använda:
 string imagePath = "signature_handwrite.jpg";
 ```
 
-## Steg 3: Ställ in sökväg för utdatafil
+## Steg 3: Ange sökväg för utdatafil
 
 Bestäm var du vill spara det signerade dokumentet:
 

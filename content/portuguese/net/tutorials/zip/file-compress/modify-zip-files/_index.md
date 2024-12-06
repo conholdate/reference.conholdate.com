@@ -17,7 +17,7 @@ Antes de começarmos, certifique-se de ter o seguinte:
 
 1.  Aspose.Zip para biblioteca .NET: Instale a biblioteca em seu projeto. Você pode baixá-la[aqui](https://releases.aspose.com/zip/net/).
    
-2. Diretório de documentos: configure um diretório para armazenar seus arquivos zip. Substituir`"Your Document Directory"` no código com seu caminho real.
+2.  Diretório de documentos: configure um diretório para armazenar seus arquivos zip. Substituir`"Your Document Directory"` no código com seu caminho real.
 
 ## Importar namespaces necessários
 
@@ -112,7 +112,7 @@ outer.Save(dataDir + "flatten.zip");
 
 ## Conclusão
 
-Aspose.Zip para .NET fornece uma maneira poderosa e direta de manipular arquivos zip programaticamente. Este tutorial abordou extração, exclusão e adição de entradas a um arquivo zip, ilustrando a versatilidade da biblioteca. Explore diferentes cenários e aprimore suas habilidades de manipulação de arquivos!
+O Aspose.Zip para .NET fornece uma maneira poderosa e direta de manipular arquivos zip programaticamente. Este tutorial abordou extração, exclusão e adição de entradas a um arquivo zip, ilustrando a versatilidade da biblioteca. Explore diferentes cenários e aprimore suas habilidades de manipulação de arquivos!
 
 ## Perguntas frequentes
 
@@ -126,7 +126,7 @@ O Aspose.Zip foi projetado principalmente para aplicativos .NET, mas o Aspose of
  Visite o[Fórum Aspose.Zip](https://forum.aspose.com/c/zip/37) para suporte e discussões.
 
 ### Posso comprar uma licença temporária do Aspose.Zip para .NET?
- Sim, você pode obter uma licença temporária[aqui](https://purchase.conholdate.com/temporary-license/).
+Sim, você pode obter uma licença temporária[aqui](https://purchase.conholdate.com/temporary-license/).
 
 ### Onde posso encontrar a documentação do Aspose.Zip para .NET?
  A documentação completa está disponível[aqui](https://reference.aspose.com/zip/net/).

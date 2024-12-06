@@ -2,7 +2,7 @@
 title: Generera förhandsvisningar av dokumentsidor med GroupDocs.Annotation för .NET
 linktitle: Generera förhandsvisningar av dokumentsidor
 second_title: GroupDocs.Annotation .NET API
-description: Upptäck hur du sömlöst integrerar förhandsgranskningsfunktioner för dokumentsidor i dina .NET-applikationer med hjälp av GroupDocs.Annotation. Denna steg-för-steg handledning.
+description: Upptäck hur du sömlöst integrerar förhandsgranskningsfunktioner för dokumentsidor i dina .NET-applikationer med hjälp av GroupDocs.Annotation. Denna steg-för-steg guide.
 type: docs
 weight: 12
 url: /sv/net/tutorials/annotation/master-advanced-annotation-features/generate-document-page-previews/

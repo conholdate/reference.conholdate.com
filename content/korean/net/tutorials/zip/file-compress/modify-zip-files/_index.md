@@ -17,7 +17,7 @@ Zip 파일은 데이터 구성 및 압축에 필수적이지만, 어떻게 프�
 
 1.  Aspose.Zip for .NET 라이브러리: 프로젝트에 라이브러리를 설치하세요. 다운로드할 수 있습니다.[여기](https://releases.aspose.com/zip/net/).
    
-2. 문서 디렉토리: zip 파일을 저장할 디렉토리를 설정합니다. 바꾸기`"Your Document Directory"` 실제 경로를 코드에 넣으세요.
+2.  문서 디렉토리: zip 파일을 저장할 디렉토리를 설정합니다. 바꾸기`"Your Document Directory"` 실제 경로를 코드에 넣으세요.
 
 ## 필요한 네임스페이스 가져오기
 
@@ -126,7 +126,7 @@ Aspose.Zip은 주로 .NET 애플리케이션용으로 설계되었지만 Aspose�
  방문하세요[Aspose.Zip 포럼](https://forum.aspose.com/c/zip/37) 지원과 토론을 위해.
 
 ### Aspose.Zip for .NET에 대한 임시 라이센스를 구매할 수 있나요?
- 네, 임시면허를 취득할 수 있습니다.[여기](https://purchase.conholdate.com/temporary-license/).
+네, 임시면허를 취득할 수 있습니다.[여기](https://purchase.conholdate.com/temporary-license/).
 
 ### .NET용 Aspose.Zip에 대한 설명서는 어디에서 찾을 수 있나요?
  전체 문서를 사용할 수 있습니다[여기](https://reference.aspose.com/zip/net/).

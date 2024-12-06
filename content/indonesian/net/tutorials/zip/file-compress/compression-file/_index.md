@@ -38,7 +38,7 @@ string dataDir = "Your Document Directory";
 
 ### Langkah 2: Mengompres File
 
- Sekarang, mari kita tulis kode untuk mengompres file menggunakan`CpioArchive`kelas. Berikut adalah contoh sederhana yang menunjukkan cara membuat arsip CPIO:
+ Sekarang, mari kita tulis kode untuk mengompres file menggunakan`CpioArchive` kelas. Berikut adalah contoh sederhana yang menunjukkan cara membuat arsip CPIO:
 
 ```csharp
 using (CpioArchive archive = new CpioArchive())
@@ -68,7 +68,7 @@ Selamat! Anda telah berhasil mengompres file menggunakan Aspose.Zip untuk .NET. 
 ## Pertanyaan yang Sering Diajukan
 
 ### Dapatkah saya menggunakan Aspose.Zip untuk .NET dalam proyek komersial?
-Ya, Anda dapat menggunakannya dalam proyek komersial. Untuk mendapatkan lisensi, kunjungi[Di Sini](https://purchase.conholdate.com/buy).
+ Ya, Anda dapat menggunakannya dalam proyek komersial. Untuk mendapatkan lisensi, kunjungi[Di Sini](https://purchase.conholdate.com/buy).
 
 ### Apakah ada uji coba gratis yang tersedia?
  Ya, Anda dapat menjelajahi perpustakaan dengan uji coba gratis[Di Sini](https://releases.aspose.com/).

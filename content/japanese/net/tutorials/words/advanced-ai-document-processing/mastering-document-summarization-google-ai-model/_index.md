@@ -41,7 +41,7 @@ using Aspose.Words.AI;
 ```csharp
 //ソースドキュメントのディレクトリ
 string MyDir = "YOUR_DOCUMENT_DIRECTORY";
-//出力アーティファクトを保存するディレクトリ
+//出力成果物を保存するディレクトリ
 string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 ```
 

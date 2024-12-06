@@ -72,7 +72,7 @@ I den här handledningen lärde vi oss hur man laddar metadata från lösenordss
 ## FAQ's
 
 ### Är GroupDocs.Metadata for .NET kompatibelt med alla dokumentformat?
-Ja, den stöder ett brett utbud av format inklusive PDF, Microsoft Office-dokument, bilder, videor och mer.
+Ja, det stöder ett brett utbud av format inklusive PDF, Microsoft Office-dokument, bilder, videor och mer.
 
 ### Kan jag ändra metadata i ett dokument med GroupDocs.Metadata?
 Absolut! Biblioteket låter dig extrahera, uppdatera och ta bort metadataegenskaper sömlöst.

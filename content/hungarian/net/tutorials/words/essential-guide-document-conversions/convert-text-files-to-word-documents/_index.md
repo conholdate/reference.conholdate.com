@@ -28,7 +28,7 @@ using Aspose.Words;
 
 ## 1. lépés: Töltse be a szöveges fájlt
 
- Először is be kell töltenie a szöveges fájlt egy Aspose.Words-be`Document` objektum. Íme, hogyan:
+Először is be kell töltenie a szöveges fájlt egy Aspose.Words-be`Document` objektum. Íme, hogyan:
 
 ```csharp
 // Adja meg a könyvtár elérési útját, ahol a szövegfájl található
@@ -57,7 +57,7 @@ Ebben az útmutatóban az Aspose.Words for .NET használatával egy szöveges f�
 Igen, az Aspose.Words a nagy szövegfájlok hatékony kezelésére van optimalizálva.
 
 ### Ez a módszer megőrzi a szöveg formázását?
-Teljesen! A Word dokumentumformátumra való konvertálás során megőrzik az alapvető szövegformázást, beleértve a betűstílusokat és a bekezdéseket.
+Teljesen! A Word-dokumentumformátumra konvertálás során megőrzik az alapvető szövegformázást, beleértve a betűstílusokat és a bekezdéseket.
 
 ### Az Aspose.Words kompatibilis a különböző .NET keretrendszerekkel?
 Igen, az Aspose.Words különféle .NET-keretrendszereket támogat, széleskörű kompatibilitást biztosítva a különböző környezetekben.

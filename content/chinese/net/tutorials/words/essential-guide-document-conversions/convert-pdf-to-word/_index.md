@@ -66,7 +66,7 @@ Document doc = new Document(dataDir + "Pdf Document.pdf");
 doc.Save(dataDir + "ConvertedDocument.docx");
 ```
 
-通过调用`Save`方法`Document`例如，我们指定输出文件的路径和格式，在本例中，将其保存为 Docx 文件。
+通过调用`Save`我们的方法`Document`例如，我们指定输出文件的路径和格式，在本例中，将其保存为 Docx 文件。
 
 ## 步骤 4：运行转换
 
