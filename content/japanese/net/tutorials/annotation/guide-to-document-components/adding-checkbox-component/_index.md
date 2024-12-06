@@ -93,7 +93,7 @@ Console.WriteLine($"\nDocument saved successfully.\nCheck output in {outputPath}
 
 ## 結論
 
-このチュートリアルでは、GroupDocs.Annotation for .NET を使用して、チェックボックス コンポーネントを PDF ドキュメントに追加しました。この機能を使用すると、ユーザー エクスペリエンスとエンゲージメントを強化できるインタラクティブな PDF を作成できます。
+このチュートリアルでは、GroupDocs.Annotation for .NET を使用して PDF ドキュメントにチェックボックス コンポーネントを追加しました。この機能を使用すると、ユーザー エクスペリエンスとエンゲージメントを強化できるインタラクティブな PDF を作成できます。
 
 ## よくある質問
 

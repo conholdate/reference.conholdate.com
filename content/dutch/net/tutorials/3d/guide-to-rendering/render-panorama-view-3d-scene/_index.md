@@ -15,9 +15,9 @@ Het maken van meeslepende, panoramische 3D-scènes is een game-changer voor ontw
 
 Voordat u met het renderingproces begint, moet u ervoor zorgen dat u het volgende hebt geregeld:
 
--  Aspose.3D voor .NET: Om te beginnen moet u Aspose.3D installeren. Dit programma biedt alle benodigde hulpmiddelen voor het verwerken van 3D-assets en rendering.[Download Aspose.3D voor .NET](https://releases.aspose.com/3d/net/) om te beginnen.
+- Aspose.3D voor .NET: Om te beginnen moet u Aspose.3D installeren. Dit programma biedt alle benodigde hulpmiddelen voor het verwerken van 3D-assets en rendering.[Download Aspose.3D voor .NET](https://releases.aspose.com/3d/net/) om te beginnen.
 - .NET Development Environment: Een volledig geconfigureerde .NET development environment is vereist. Zorg ervoor dat u Visual Studio of een andere compatibele IDE hebt.
-- Voorbeeld 3D-scènebestand: U kunt elke 3D-scène gebruiken in formaten zoals`.glb`, `.fbx` , of`.obj`Voor deze tutorial gebruiken we een eenvoudig "VirtualCity.glb"-bestand.
+-  Voorbeeld 3D-scènebestand: U kunt elke 3D-scène gebruiken in formaten zoals`.glb`, `.fbx` , of`.obj`Voor deze tutorial gebruiken we een eenvoudig "VirtualCity.glb"-bestand.
 
 Zodra je aan deze voorwaarden hebt voldaan, kunnen we verder met het opzetten van de scène.
 

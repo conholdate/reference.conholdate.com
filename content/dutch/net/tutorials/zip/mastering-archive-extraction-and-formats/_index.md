@@ -15,7 +15,7 @@ Als het gaat om bestandsbeheer in .NET, is het essentieel om te begrijpen hoe u 
 
 Laten we eerst eens kijken waarom u Aspose.Zip zou moeten overwegen. Het is niet zomaar een bibliotheek in de zee van .NET-tools; het zit boordevol functies die specifiek inspelen op de behoeften van moderne ontwikkelaars. Moet u met TarGz- of TarLz-formaten werken? Geen probleem! Aspose.Zip biedt eenvoudig te volgen methoden om bestanden in deze formaten te beheren, zodat u uw gegevens nauwkeurig kunt inpakken en uitpakken zonder dat u zich in het zweet hoeft te werken.
 
- Boem! Uw bestanden worden met minimale moeite uitgepakt. Het is net als het uitpakken van een netjes ingepakte koffer. Voor meer gedetailleerde instructies, vergeet niet om onze[Uitgebreide gids voor TarGz met Aspose.Zip voor .NET](./comprehensive-guide-to-tar-gz/). 
+Boem! Uw bestanden worden met minimale moeite uitgepakt. Het is net als het uitpakken van een netjes ingepakte koffer. Voor meer gedetailleerde instructies, vergeet niet om onze[Uitgebreide gids voor TarGz met Aspose.Zip voor .NET](./comprehensive-guide-to-tar-gz/). 
 
 ## Duik dieper in het TarLz-formaat
 

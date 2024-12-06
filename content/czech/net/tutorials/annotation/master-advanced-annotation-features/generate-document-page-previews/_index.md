@@ -41,7 +41,7 @@ using System.IO;
 ```csharp
 using (Annotator annotator = new Annotator("input.pdf"))
 {
-    // Pokračujte v definování možností náhledu
+    // Pokračujte definováním možností náhledu
 }
 ```
 

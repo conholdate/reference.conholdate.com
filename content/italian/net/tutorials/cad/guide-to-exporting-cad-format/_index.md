@@ -21,7 +21,7 @@ Ecco come fare: carica il tuo file CAD, configura le tue opzioni di rasterizzazi
 ## Convertire DGN in PDF in Aspose.CAD per .NET  
 Hai mai avuto difficoltà a convertire file DGN in PDF? Immagina di trasformare un progetto in un documento raffinato e portatile. Con Aspose.CAD per .NET, salterai la seccatura e arriverai direttamente ai risultati. Questa libreria supporta una conversione precisa da DGN a PDF, mantenendo intatto ogni dettaglio, perfetto per condividere progetti professionali.  
 
-Ecco una rapida panoramica: importa il file DGN, imposta le tue opzioni di rendering e salva l'output come PDF. Questo metodo assicura accuratezza riducendo il lavoro manuale. Inoltre, è abbastanza flessibile per sviluppatori di tutti i livelli, dai principianti agli esperti CAD.  
+Ecco una rapida panoramica: importa il file DGN, imposta le opzioni di rendering e salva l'output come PDF. Questo metodo garantisce accuratezza riducendo al contempo il lavoro manuale. Inoltre, è abbastanza flessibile per sviluppatori di tutti i livelli, dai principianti agli esperti CAD.  
 
 Pronti a trasformare i vostri flussi di lavoro? Scoprite di più nella guida dettagliata su[Conversione da DGN a PDF](./convert-dgn-to-pdf/).  
 

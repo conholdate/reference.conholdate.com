@@ -17,7 +17,7 @@ Než se ponoříme, ujistěte se, že máte následující:
 
 1.  Aspose.Zip for .NET Library: Nainstalujte knihovnu do svého projektu. Můžete si jej stáhnout[zde](https://releases.aspose.com/zip/net/).
    
-2. Adresář dokumentů: Nastavte adresář pro ukládání souborů zip. Nahradit`"Your Document Directory"` v kódu s vaší skutečnou cestou.
+2.  Adresář dokumentů: Nastavte adresář pro ukládání souborů zip. Nahradit`"Your Document Directory"` v kódu s vaší skutečnou cestou.
 
 ## Importujte potřebné jmenné prostory
 
@@ -41,7 +41,7 @@ Začněte otevřením hlavního souboru zip (vnější zip):
 string dataDir = "Your Data Directory";
 using (Archive outer = new Archive(dataDir + "outer.zip"))
 {
-    // Pokračujte v identifikaci vnitřních zipových vstupů
+    // Pokračujte v identifikaci vnitřních vstupů zipu
 }
 ```
 
@@ -126,7 +126,7 @@ Aspose.Zip je primárně určen pro .NET aplikace, ale Aspose nabízí podobné 
  Navštivte[Fórum Aspose.Zip](https://forum.aspose.com/c/zip/37) za podporu a diskuze.
 
 ### Mohu si zakoupit dočasnou licenci pro Aspose.Zip pro .NET?
- Ano, můžete získat dočasnou licenci[zde](https://purchase.conholdate.com/temporary-license/).
+Ano, můžete získat dočasnou licenci[zde](https://purchase.conholdate.com/temporary-license/).
 
 ### Kde najdu dokumentaci k Aspose.Zip pro .NET?
  K dispozici je kompletní dokumentace[zde](https://reference.aspose.com/zip/net/).

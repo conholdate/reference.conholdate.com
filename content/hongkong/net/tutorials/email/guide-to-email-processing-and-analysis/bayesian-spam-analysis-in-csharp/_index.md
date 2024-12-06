@@ -2,7 +2,7 @@
 title: C# 教學中的貝葉斯垃圾郵件分析
 linktitle: C# 教學中的貝葉斯垃圾郵件分析
 second_title: Aspose.Email .NET 電子郵件處理 API
-description: 學習使用 Aspose.Email 在 C# 中實現貝葉斯垃圾郵件分析。逐步教程，提供有效電子郵件過濾的程式碼見解。
+description: 學習使用 Aspose.Email 在 C# 中實現貝葉斯垃圾郵件分析。包含程式碼見解的逐步教程，可實現有效的電子郵件過濾。
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/email/guide-to-email-processing-and-analysis/bayesian-spam-analysis-in-csharp/

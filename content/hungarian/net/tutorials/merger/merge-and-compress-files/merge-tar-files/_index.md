@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Létrehozol egy újat`Merger` példány az első TAR-fájl elérési útjával.
 -  A`Join` módszer lehetővé teszi egy másik TAR-fájl hozzáadását az egyesítéshez (ez a lépés nem kötelező).
--  Végül hívjon`Save`az egyesítési folyamat befejezéséhez és a kimeneti fájl beírásához a megadott könyvtárba.
+-  Végül hívj`Save`az egyesítési folyamat befejezéséhez és a kimeneti fájl beírásához a megadott könyvtárba.
 
 ## 3. lépés: Befejezési üzenet megjelenítése
 

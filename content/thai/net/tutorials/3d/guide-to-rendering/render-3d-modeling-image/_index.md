@@ -16,7 +16,7 @@ url: /th/net/tutorials/3d/guide-to-rendering/render-3d-modeling-image/
 ก่อนเริ่มต้น ให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้เพื่อให้สามารถเรนเดอร์ภาพ 3 มิติโดยใช้ Aspose.3D สำหรับ .NET ได้สำเร็จ:
 
 -  ไลบรารี Aspose.3D สำหรับ .NET: ก่อนอื่น ให้ดาวน์โหลดไลบรารี Aspose.3D สำหรับ .NET คุณสามารถติดตั้งได้โดยใช้ NuGet หรือดาวน์โหลดโดยตรงจาก[หน้าวางจำหน่าย Aspose](https://releases.aspose.com/3d/net/).
-- แบบจำลอง 3 มิติ: เตรียมแบบจำลอง 3 มิติของคุณในรูปแบบที่เข้ากันได้ เช่น OBJ, FBX หรือ 3DS สำหรับบทช่วยสอนนี้ เราจะใช้`Aspose3D.obj` ไฟล์.
+-  แบบจำลอง 3 มิติ: เตรียมแบบจำลอง 3 มิติของคุณในรูปแบบที่เข้ากันได้ เช่น OBJ, FBX หรือ 3DS สำหรับบทช่วยสอนนี้ เราจะใช้`Aspose3D.obj` ไฟล์.
 - สภาพแวดล้อมการพัฒนา .NET: ตรวจสอบว่าคุณมีสภาพแวดล้อมการพัฒนา .NET ที่ใช้งานได้ บทช่วยสอนนี้ถือว่าคุณใช้ Visual Studio หรือ IDE ที่คล้ายกัน
 
 ## การนำเข้าเนมสเปซที่จำเป็น
@@ -95,7 +95,7 @@ scene.RootNode.CreateChildNode(new Light()
 ImageRenderOptions opt = new ImageRenderOptions();
 opt.BackgroundColor = Color.AliceBlue;  // ตั้งค่าสีพื้นหลัง
 opt.AssetDirectories.Add("YourDocumentDirectory" + "textures");  // ตั้งค่าไดเร็กทอรีพื้นผิว
-opt.EnableShadows = true;  //เปิดใช้งานเงาเพื่อความลึก
+opt.EnableShadows = true;  // เปิดใช้งานเงาเพื่อความลึก
 ```
 
 ## ขั้นตอนที่ 5: เรนเดอร์ฉาก
@@ -120,7 +120,7 @@ scene.Render(cam, "YourOutputDirectory/Render3DModelImageFromCamera.png", new Si
 
 ### ฉันจะแก้ไขปัญหาการเรนเดอร์ได้อย่างไร
 
-สำหรับการแก้ไขปัญหา โปรดตรวจสอบ[ฟอรั่ม Aspose.3D](https://forum.aspose.com/c/3d/18) สำหรับวิธีแก้ไขปัญหาการแสดงผลทั่วไป คุณสามารถดูคำแนะนำโดยละเอียดได้จากเอกสารประกอบ
+ สำหรับการแก้ไขปัญหา โปรดตรวจสอบ[ฟอรั่ม Aspose.3D](https://forum.aspose.com/c/3d/18) สำหรับวิธีแก้ไขปัญหาการแสดงผลทั่วไป คุณสามารถดูคำแนะนำโดยละเอียดได้จากเอกสารประกอบ
 
 ### มีการทดลองใช้ฟรีหรือไม่?
 

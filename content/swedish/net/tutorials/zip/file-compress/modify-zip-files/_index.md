@@ -17,7 +17,7 @@ Innan vi dyker in, se till att du har följande:
 
 1.  Aspose.Zip för .NET Library: Installera biblioteket i ditt projekt. Du kan ladda ner den[här](https://releases.aspose.com/zip/net/).
    
-2. Dokumentkatalog: Skapa en katalog för att lagra dina zip-filer. Ersätta`"Your Document Directory"` i koden med din faktiska sökväg.
+2.  Dokumentkatalog: Skapa en katalog för att lagra dina zip-filer. Ersätta`"Your Document Directory"` i koden med din faktiska sökväg.
 
 ## Importera nödvändiga namnområden
 
@@ -112,7 +112,7 @@ outer.Save(dataDir + "flatten.zip");
 
 ## Slutsats
 
-Aspose.Zip för .NET ger ett kraftfullt och enkelt sätt att manipulera zip-filer programmatiskt. Denna handledning omfattade extrahering, radering och tillägg av poster till en zip-fil, vilket illustrerar bibliotekets mångsidighet. Utforska olika scenarier och förbättra dina färdigheter i filmanipulering!
+Aspose.Zip för .NET ger ett kraftfullt och enkelt sätt att manipulera zip-filer programmatiskt. Den här handledningen behandlade att extrahera, ta bort och lägga till poster i en zip-fil, vilket illustrerar bibliotekets mångsidighet. Utforska olika scenarier och förbättra dina filmanipuleringsfärdigheter!
 
 ## FAQ's
 
@@ -126,7 +126,7 @@ Aspose.Zip är i första hand designad för .NET-applikationer, men Aspose erbju
  Besök[Aspose.Zip forum](https://forum.aspose.com/c/zip/37) för stöd och diskussioner.
 
 ### Kan jag köpa en tillfällig licens för Aspose.Zip för .NET?
- Ja, du kan få en tillfällig licens[här](https://purchase.conholdate.com/temporary-license/).
+Ja, du kan få en tillfällig licens[här](https://purchase.conholdate.com/temporary-license/).
 
 ### Var kan jag hitta dokumentationen för Aspose.Zip för .NET?
  Den fullständiga dokumentationen finns tillgänglig[här](https://reference.aspose.com/zip/net/).

@@ -84,7 +84,7 @@ Console.WriteLine("Image recognition with preprocessing executed successfully.")
 
 ## 結論
 
-Aspose.OCR for .NET 提供了強大的功能，簡化了圖像到文字轉換的過程。透過使用預處理過濾器，您可以顯著提高 OCR 結果的品質。該庫非常適合各種應用，從文件數位化到多個行業的文本提取。
+Aspose.OCR for .NET 提供了強大的功能，簡化了圖像到文字轉換的過程。透過利用預處理過濾器，您可以顯著提高 OCR 結果的品質。該庫非常適合各種應用，從文件數位化到多個行業的文本提取。
 
 ## 常見問題解答
 

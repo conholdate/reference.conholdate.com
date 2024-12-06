@@ -97,7 +97,7 @@ Grattis! Du har precis lärt dig hur man konverterar en HTML-text från ett e-po
 
 ## FAQ's
 
-### Vad används C# till i den här handledningen?  
+### Vad används C# till i denna handledning?  
 C# är det programmeringsspråk vi använder för att exekvera logiken som krävs för att konvertera HTML till vanlig text.
 
 ### Behöver jag en licens för att använda Aspose-produkter?  

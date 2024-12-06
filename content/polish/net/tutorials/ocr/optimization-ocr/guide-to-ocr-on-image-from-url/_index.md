@@ -9,7 +9,7 @@ url: /pl/net/tutorials/ocr/optimization-ocr/guide-to-ocr-on-image-from-url/
 ---
 ## Wstęp
 
-Optical Character Recognition (OCR) to podstawowa technologia wyodrębniania tekstu z obrazów, umożliwiająca programistom tworzenie aplikacji, które mogą bezproblemowo odczytywać i przetwarzać informacje tekstowe. Aspose.OCR dla .NET to solidna biblioteka zaprojektowana w celu uproszczenia integracji funkcji OCR z aplikacjami .NET. Ten przewodnik pokaże, jak wykonać OCR na obrazie bezpośrednio z adresu URL w zaledwie kilku prostych krokach.
+Optical Character Recognition (OCR) to podstawowa technologia do wyodrębniania tekstu z obrazów, umożliwiająca programistom tworzenie aplikacji, które mogą bezproblemowo odczytywać i przetwarzać informacje tekstowe. Aspose.OCR dla .NET to solidna biblioteka zaprojektowana w celu uproszczenia integracji funkcji OCR z aplikacjami .NET. Ten przewodnik pokaże, jak wykonać OCR na obrazie bezpośrednio z adresu URL w zaledwie kilku prostych krokach.
 
 ## Wymagania wstępne
 

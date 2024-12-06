@@ -9,7 +9,7 @@ url: /pl/net/tutorials/drawing/master-image-editing/image-display/
 ---
 ## Wstęp
 
-Witamy w naszym kompleksowym przewodniku po wyświetlaniu obrazów za pomocą Aspose.Drawing dla .NET! Ta potężna biblioteka umożliwia łatwą manipulację obrazami w aplikacjach .NET. Niezależnie od tego, czy chcesz ulepszyć swój interfejs użytkownika, czy stworzyć bogatą zawartość wizualną, ten samouczek przeprowadzi Cię przez każdy etap procesu.
+Witamy w naszym kompleksowym przewodniku po wyświetlaniu obrazów za pomocą Aspose.Drawing dla .NET! Ta potężna biblioteka umożliwia łatwą manipulację obrazami w aplikacjach .NET. Niezależnie od tego, czy chcesz ulepszyć interfejs użytkownika, czy stworzyć bogatą zawartość wizualną, ten samouczek przeprowadzi Cię przez każdy etap procesu.
 
 ## Wymagania wstępne
 

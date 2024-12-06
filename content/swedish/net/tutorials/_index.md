@@ -17,10 +17,10 @@ Aspose.Words tutorials och kodsnuttar för att skapa, redigera, konvertera, skri
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
-Aspose.PDF-handledningar och kodsnuttar för att arbeta med PDF-filer. Skapa, redigera, konvertera och extrahera PDF-dokument med omfattande funktioner i din applikation.
+Aspose.PDF tutorials och kodsnuttar för att arbeta med PDF-filer. Skapa, redigera, konvertera och extrahera PDF-dokument med omfattande funktioner i din applikation.
 {{% /alert %}}
 
-### Aspose.PDF handledning
+### Aspose.PDF handledningar
 - [Aspose.PDF för .NET Tutorials](./pdf/)
 
 ## Aspose.Cells
@@ -97,7 +97,7 @@ Lås upp den fulla potentialen hos Aspose.ZIP för .NET med våra detaljerade ha
 
 ## Aspose.OCR
 {{% alert color="primary" %}}
-Lås upp precision i OCR-bildigenkänning med Aspose.OCR för .NET. Utforska självstudier om beräkning av snedvinkel, textigenkänning, OCR-konfiguration och optimering.
+Lås upp precision i OCR-bildigenkänning med Aspose.OCR för .NET. Utforska handledningar om beräkning av sned vinkel, textigenkänning, OCR-konfiguration och optimering.
 {{% /alert %}}
 
 ### Aspose.OCR-handledningar

@@ -75,7 +75,7 @@ Parabéns! Você compactou arquivos com sucesso no formato TarGz usando o Aspose
 
 ## Perguntas frequentes
 
-### O Aspose.Zip para .NET é compatível com todos os aplicativos .NET?
+### Aspose.Zip para .NET é compatível com todos os aplicativos .NET?
 Sim, o Aspose.Zip para .NET foi projetado para integração perfeita com todos os aplicativos .NET.
 
 ### Como posso obter uma licença temporária para Aspose.Zip para .NET?

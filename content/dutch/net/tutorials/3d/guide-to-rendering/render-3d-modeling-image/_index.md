@@ -2,7 +2,7 @@
 title: Render 3D-modelleringsafbeelding met Aspose.3D voor .NET
 linktitle: Renderen van 3D-modelafbeelding van camera
 second_title: Aspose.3D .NET API
-description: Leer hoe u primitieve 3D-modellen, waaronder dozen en cilinders, kunt maken en aanpassen en ze moeiteloos in FBX-formaat kunt opslaan. Of u nu een beginner of een ervaren ontwikkelaar bent, deze stapsgewijze tutorial.
+description: Leer hoe u primitieve 3D-modellen, waaronder dozen en cilinders, kunt maken en aanpassen en ze moeiteloos kunt opslaan in FBX-formaat. Of u nu een beginner of een ervaren ontwikkelaar bent, deze stapsgewijze tutorial.
 type: docs
 weight: 11
 url: /nl/net/tutorials/3d/guide-to-rendering/render-3d-modeling-image/
@@ -16,7 +16,7 @@ Het renderen van 3D-modellen in verbluffende beelden is een cruciale vaardigheid
 Voordat u begint, moet u ervoor zorgen dat u aan de volgende vereisten voldoet om 3D-afbeeldingen succesvol te kunnen renderen met Aspose.3D voor .NET:
 
 -  Aspose.3D voor .NET-bibliotheek: download eerst de Aspose.3D voor .NET-bibliotheek. U kunt deze installeren met NuGet of direct downloaden van de[Aspose releases pagina](https://releases.aspose.com/3d/net/).
-- Een 3D-model: bereid uw 3D-model voor in een compatibel formaat, zoals OBJ, FBX of 3DS. Voor deze tutorial gebruiken we een`Aspose3D.obj` bestand.
+-  Een 3D-model: bereid uw 3D-model voor in een compatibel formaat, zoals OBJ, FBX of 3DS. Voor deze tutorial gebruiken we een`Aspose3D.obj` bestand.
 - .NET Development Environment: Zorg dat u een werkende .NET development environment hebt. Deze tutorial gaat ervan uit dat u Visual Studio of een vergelijkbare IDE gebruikt.
 
 ## Noodzakelijke naamruimten importeren
@@ -95,7 +95,7 @@ Nu we onze scène met het model, de camera en de lichten hebben, is het tijd om 
 ImageRenderOptions opt = new ImageRenderOptions();
 opt.BackgroundColor = Color.AliceBlue;  // Stel de achtergrondkleur in
 opt.AssetDirectories.Add("YourDocumentDirectory" + "textures");  // De textuurmap instellen
-opt.EnableShadows = true;  //Schaduwen inschakelen voor diepte
+opt.EnableShadows = true;  // Schaduwen inschakelen voor diepte
 ```
 
 ## Stap 5: Render de scène
@@ -120,7 +120,7 @@ Ja, Aspose.3D ondersteunt verschillende 3D-modelformaten, zoals OBJ, FBX en 3DS,
 
 ### Hoe kan ik problemen met rendering oplossen?
 
-Voor het oplossen van problemen, controleer de[Aspose.3D-forum](https://forum.aspose.com/c/3d/18) voor oplossingen voor veelvoorkomende renderingproblemen. U kunt ook de documentatie raadplegen voor gedetailleerde richtlijnen.
+ Voor het oplossen van problemen, controleer de[Aspose.3D-forum](https://forum.aspose.com/c/3d/18) voor oplossingen voor veelvoorkomende renderingproblemen. U kunt ook de documentatie raadplegen voor gedetailleerde richtlijnen.
 
 ### Is er een gratis proefversie beschikbaar?
 

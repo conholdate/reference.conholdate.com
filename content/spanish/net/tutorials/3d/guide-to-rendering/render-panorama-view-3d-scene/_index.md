@@ -15,9 +15,9 @@ La creación de escenas panorámicas en 3D envolventes es un cambio radical para
 
 Antes de sumergirse en el proceso de renderizado, asegúrese de tener lo siguiente en su lugar:
 
--  Aspose.3D para .NET: para comenzar, debe instalar Aspose.3D, que proporciona todas las herramientas necesarias para manejar activos 3D y renderizar.[Descargar Aspose.3D para .NET](https://releases.aspose.com/3d/net/) Para empezar.
+- Aspose.3D para .NET: para comenzar, debe instalar Aspose.3D, que proporciona todas las herramientas necesarias para manejar activos 3D y renderizar.[Descargar Aspose.3D para .NET](https://releases.aspose.com/3d/net/) Para empezar.
 - Entorno de desarrollo .NET: se requiere un entorno de desarrollo .NET completamente configurado. Asegúrese de tener Visual Studio o cualquier otro IDE compatible.
-- Archivo de escena 3D de muestra: puede utilizar cualquier escena 3D en formatos como`.glb`, `.fbx` , o`.obj`Para este tutorial, utilizaremos un archivo simple "VirtualCity.glb".
+-  Archivo de escena 3D de muestra: puede utilizar cualquier escena 3D en formatos como`.glb`, `.fbx` , o`.obj`Para este tutorial, utilizaremos un archivo simple "VirtualCity.glb".
 
 Una vez que tengamos cubiertos estos requisitos previos, podemos pasar a preparar la escena.
 

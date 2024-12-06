@@ -32,7 +32,7 @@ Most bontsuk le a kép Aspose.Drawing használatával történő megjelenítés�
 
 ## 1. lépés: Bitmap létrehozása
 
- Kezdje azzal, hogy létrehoz egy`Bitmap` objektum, amely vászonként fog működni a képed számára:
+ Kezdje a létrehozásával a`Bitmap` objektum, amely vászonként fog működni a képed számára:
 
 ```csharp
 Bitmap bitmap = new Bitmap(1000, 800, System.Drawing.Imaging.PixelFormat.Format32bppPArgb);

@@ -93,7 +93,7 @@ Console.WriteLine($"\nDocument saved successfully.\nCheck output in {outputPath}
 
 ## Wniosek
 
-W tym samouczku pomyślnie dodaliśmy komponent Checkbox do dokumentu PDF przy użyciu GroupDocs.Annotation dla .NET. Ta funkcjonalność umożliwia tworzenie interaktywnych plików PDF, które mogą ulepszyć wrażenia użytkownika i zaangażowanie.
+tym samouczku pomyślnie dodaliśmy komponent Checkbox do dokumentu PDF przy użyciu GroupDocs.Annotation dla .NET. Ta funkcjonalność umożliwia tworzenie interaktywnych plików PDF, które mogą ulepszyć wrażenia użytkownika i zaangażowanie.
 
 ## Najczęściej zadawane pytania
 

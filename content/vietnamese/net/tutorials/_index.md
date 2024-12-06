@@ -129,7 +129,7 @@ Dễ dàng làm chủ thiết kế LaTeX bằng Aspose.TeX cho .NET. Tải xuố
 
 ## Aspose.Trang
 {{% alert color="primary" %}}
-Giải phóng tiềm năng của Aspose.Page cho .NET với các hướng dẫn bao gồm việc tạo, thao tác và nâng cao. Làm chủ từ các kỹ thuật cơ bản đến nâng cao một cách dễ dàng.
+Giải phóng tiềm năng của Aspose.Page cho .NET với các hướng dẫn bao gồm sáng tạo, thao tác và nâng cao. Làm chủ từ các kỹ thuật cơ bản đến nâng cao một cách dễ dàng.
 {{% /alert %}}
 
 ### Hướng dẫn Aspose.Page

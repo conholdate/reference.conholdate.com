@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/gis/mastering-layer-management/
 ---
 ## 介紹
 
-如果您正在使用 Aspose.GIS for .NET 進入 GIS（地理資訊系統）的世界，那麼您將會大飽口福！這個強大的庫提供了一些出色的工具來有效管理地理空間資料。在本指南中，我們將介紹兩個關鍵面向：使用 TopoJSON 以及為文件地理資料庫新增圖層。準備好升級您的 GIS 遊戲了嗎？
+如果您正在使用 Aspose.GIS for .NET 進入 GIS（地理資訊系統）的世界，那麼您將會大飽口福！這個功能強大的庫提供了一些出色的工具來有效管理地理空間資料。在本指南中，我們將介紹兩個關鍵面向：使用 TopoJSON 以及為文件地理資料庫新增圖層。準備好升級您的 GIS 遊戲了嗎？
 
 ## 在 Aspose.GIS for .NET 中使用 TopoJSON
 

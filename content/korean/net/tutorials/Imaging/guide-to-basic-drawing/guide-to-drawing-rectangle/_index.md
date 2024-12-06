@@ -17,7 +17,7 @@ url: /ko/net/tutorials/imaging/guide-to-basic-drawing/guide-to-drawing-rectangle
 
 1.  .NET용 Aspose.Imaging: 아직 설치하지 않았다면 다음에서 라이브러리를 다운로드하세요.[Aspose Imaging 다운로드 페이지](https://releases.aspose.com/imaging/net/).
 
-2. 개발 환경: Visual Studio나 기타 호환되는 .NET IDE를 사용하여 개발 환경을 설정합니다.
+2. 개발 환경: Visual Studio나 기타 호환 .NET IDE를 사용하여 개발 환경을 설정합니다.
 
 ## 1단계: 필요한 네임스페이스 가져오기
 

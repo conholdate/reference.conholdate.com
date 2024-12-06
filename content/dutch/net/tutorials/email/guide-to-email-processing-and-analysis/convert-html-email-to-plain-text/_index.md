@@ -9,7 +9,7 @@ url: /nl/net/tutorials/email/guide-to-email-processing-and-analysis/convert-html
 ---
 ## Invoering
 
-In het digitale communicatielandschap van vandaag de dag worden e-mails vaak opgesteld met behulp van HTML om te profiteren van rijke opmaakopties. Er zijn echter scenario's waarin u de HTML-body van een e-mail mogelijk moet converteren naar platte tekst, misschien voor compatibiliteit met oudere systemen, om de bestandsgrootte te verkleinen of gewoon om leesbaarheid te garanderen voor gebruikers met bepaalde toegankelijkheidsbehoeften. Als u zich in deze exacte situatie bevindt, bent u hier aan het juiste adres! In deze tutorial duiken we diep in hoe u een HTML-body naar platte tekst converteert met behulp van Aspose.Email voor .NET. 
+In het digitale communicatielandschap van vandaag de dag worden e-mails vaak opgesteld met behulp van HTML om te profiteren van rijke opmaakopties. Er zijn echter scenario's waarin u de HTML-body van een e-mail mogelijk moet converteren naar platte tekst, misschien voor compatibiliteit met oudere systemen, om de bestandsgrootte te verkleinen of gewoon om leesbaarheid te garanderen voor gebruikers met bepaalde toegankelijkheidsbehoeften. Als u zich in deze exacte situatie bevindt, bent u hier aan het juiste adres! In deze tutorial duiken we diep in hoe u een HTML-body naar platte tekst converteert met Aspose.Email voor .NET. 
 
 We doorlopen het hele proces, van vereisten tot implementatie, met duidelijke stapsgewijze instructies. Klaar? Laten we beginnen!
 

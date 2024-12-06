@@ -92,6 +92,6 @@ Nie, pliki TXT są zwykłym tekstem i nie obsługują żadnego formatowania rich
 
 Tak, Aspose.Words for .NET obsługuje konwersję plików DOCX do różnych formatów, w tym PDF, HTML i innych.
 
-### Gdzie mogę znaleźć dodatkowe samouczki i pomoc dotyczącą Aspose.Words dla .NET?
+### Gdzie mogę znaleźć dodatkowe samouczki i pomoc dotyczącą Aspose.Words dla platformy .NET?
 
  Aby uzyskać więcej samouczków, zapoznaj się z[Dokumentacja Aspose](https://reference.aspose.com/words/net/) . Aby uzyskać pomoc, odwiedź stronę[Forum Aspose](https://forum.aspose.com/c/words/8).

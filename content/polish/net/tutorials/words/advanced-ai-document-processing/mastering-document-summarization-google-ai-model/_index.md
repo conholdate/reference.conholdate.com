@@ -98,7 +98,7 @@ Document multiDocumentSummary = model.Summarize(new Document[] { firstDoc, secon
 multiDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.Multi.docx");
 ```
 
- Takie podejście pozwala na uzyskanie kompleksowego podsumowania, które integruje treści z obu źródeł.`firstDoc` I`secondDoc`, zapewniając szerszy przegląd w jednym podsumowującym dokumencie.
+ Takie podejście pozwala na uzyskanie kompleksowego podsumowania, które integruje treści z obu źródeł.`firstDoc` I`secondDoc`, zapewniając szerszy przegląd w jednym podsumowanym dokumencie.
 
 ## Wniosek
 

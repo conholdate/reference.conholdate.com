@@ -67,7 +67,7 @@ Console.WriteLine($"\nDocuments compared successfully.\nCheck output in {outputD
 
 ## Závěr
 
-Gratuluji! Úspěšně jste se naučili používat GroupDocs.Comparison pro .NET k porovnání buněk v dokumentech. Tato výkonná knihovna vylepšuje zpracování dokumentů tím, že vám umožňuje snadno identifikovat rozdíly, takže je neocenitelná pro vývojáře pracující s porovnáváním dokumentů.
+Gratuluji! Úspěšně jste se naučili používat GroupDocs.Comparison pro .NET k porovnání buněk v dokumentech. Tato výkonná knihovna vylepšuje zpracování dokumentů tím, že umožňuje snadno identifikovat rozdíly, takže je neocenitelná pro vývojáře pracující s porovnáváním dokumentů.
 
 ## FAQ
 

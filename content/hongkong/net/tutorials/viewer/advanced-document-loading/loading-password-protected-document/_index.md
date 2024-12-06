@@ -70,7 +70,7 @@ using (Viewer viewer = new Viewer("Path_to_your_document", loadOptions))
 ```
 確保更換`"Path_to_your_document"`與文檔的實際路徑。
 
-## 步驟 5：配置 HTML 視圖選項
+## 第 5 步：配置 HTML 視圖選項
 
 設定 HTML 視圖選項以呈現具有嵌入資源的文件：
 

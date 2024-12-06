@@ -86,7 +86,7 @@ V této příručce jste se naučili, jak převádět e-mailové zprávy do form
 
 ### Jak nakládám s přílohami během převodu e-mailu?
 
- Chcete-li spravovat přílohy, použijte`Attachments` vlastnictvím`MailMessage` třída. Procházejte přílohy a ukládejte je podle potřeby během procesu převodu.
+ Chcete-li spravovat přílohy, použijte`Attachments` majetek z`MailMessage` třída. Procházejte přílohy a ukládejte je podle potřeby během procesu převodu.
 
 ### Mohu pomocí Aspose.Email for .NET převést e-maily do jiných formátů?
 

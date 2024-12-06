@@ -13,7 +13,7 @@ Aspose.TeX per .NET è una potente libreria che semplifica la gestione dei docum
 
 ## Gestione dei file system e output XPS
 
-Per prima cosa, parliamo della gestione dei filesystem. Questo è il tuo parco giochi per la gestione dei documenti e la configurazione dei processi di input e output. Il[Gestire i filesystem e l'output XPS in Aspose.TeX per .NET](./handle-filesystem-and-xps-output/) tutorial copre tutto, dall'impostazione del tuo ambiente di codifica all'esecuzione del tuo primo lavoro TeX. Immagina di poter convertire un documento LaTeX in un formato XPS senza sforzo: quanto sarebbe fantastico? 
+Per prima cosa, parliamo della gestione dei filesystem. Questo è il tuo parco giochi per la gestione dei documenti e la configurazione dei processi di input e output. Il[Gestire i filesystem e l'output XPS in Aspose.TeX per .NET](./handle-filesystem-and-xps-output/) tutorial copre tutto, dalla configurazione del tuo ambiente di codifica all'esecuzione del tuo primo lavoro TeX. Immagina di poter convertire un documento LaTeX in un formato XPS senza sforzo: quanto sarebbe fantastico? 
 
 Impostare il tuo ambiente è semplicissimo; segui semplicemente i passaggi forniti nel tutorial. Imparerai come specificare i tuoi file LaTeX, configurare le impostazioni di output e gestire qualsiasi stranezza relativa al file system che potresti incontrare. Inoltre, il tutorial è progettato per darti spunti pratici, non solo teoria. Troverai frammenti di codice ed esempi concreti che possono fare la differenza nel tuo approccio all'elaborazione dei documenti.
 

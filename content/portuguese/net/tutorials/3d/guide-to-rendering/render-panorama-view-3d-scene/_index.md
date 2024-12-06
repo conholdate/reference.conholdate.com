@@ -15,9 +15,9 @@ Criar cenas 3D panorâmicas e imersivas é uma virada de jogo para desenvolvedor
 
 Antes de mergulhar no processo de renderização, certifique-se de ter o seguinte em mãos:
 
--  Aspose.3D para .NET: para começar, você precisa instalar o Aspose.3D, que fornece todas as ferramentas necessárias para manipular ativos 3D e renderização.[Baixe Aspose.3D para .NET](https://releases.aspose.com/3d/net/) para começar.
+- Aspose.3D para .NET: para começar, você precisa instalar o Aspose.3D, que fornece todas as ferramentas necessárias para manipular ativos 3D e renderização.[Baixe Aspose.3D para .NET](https://releases.aspose.com/3d/net/) para começar.
 - Ambiente de desenvolvimento .NET: Um ambiente de desenvolvimento .NET totalmente configurado é necessário. Certifique-se de ter o Visual Studio ou qualquer outro IDE compatível.
-- Arquivo de cena 3D de amostra: você pode usar qualquer cena 3D em formatos como`.glb`, `.fbx` , ou`.obj`. Para este tutorial, usaremos um arquivo simples "VirtualCity.glb".
+-  Arquivo de cena 3D de amostra: você pode usar qualquer cena 3D em formatos como`.glb`, `.fbx` , ou`.obj`. Para este tutorial, usaremos um arquivo simples "VirtualCity.glb".
 
 Depois de atender a esses pré-requisitos, podemos prosseguir para a configuração do cenário.
 
@@ -136,7 +136,7 @@ Absolutamente. Simplesmente substitua o caminho do arquivo de cena de amostra pe
 Sim, o Aspose.3D oferece uma variedade de efeitos de pós-processamento, como profundidade de campo, bloom e muito mais, que podem ser aplicados para aprimorar suas imagens renderizadas.
 
 ### Como posso otimizar o desempenho da renderização?
-O desempenho da renderização pode ser otimizado ajustando parâmetros como o tamanho e a resolução da textura de renderização, além de ajustar os planos próximo e distante da câmera.
+desempenho da renderização pode ser otimizado ajustando parâmetros como o tamanho e a resolução da textura de renderização, além de ajustar os planos próximo e distante da câmera.
 
 ### Posso integrar isso em um aplicativo web?
 Sim, o Aspose.3D para .NET pode ser integrado aos seus aplicativos web .NET para renderizar panoramas 3D dinamicamente.

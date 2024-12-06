@@ -9,7 +9,7 @@ url: /cs/net/tutorials/drawing/master-image-editing/image-cropping/
 ---
 ## Zavedení
 
-oblasti vývoje .NET může být manipulace s obrázky složitým úkolem. Naštěstí Aspose.Drawing poskytuje robustní sadu nástrojů pro práci s obrázky, včetně možnosti je přesně oříznout. V tomto tutoriálu vás provedeme přímočarým procesem ořezávání obrázků pomocí Aspose.Drawing, což vám umožní zlepšit vaše dovednosti při zpracování obrázků!
+oblasti vývoje .NET může být manipulace s obrázky složitým úkolem. Naštěstí Aspose.Drawing poskytuje robustní sadu nástrojů pro práci s obrázky, včetně možnosti je přesně oříznout. V tomto tutoriálu vás provedeme přímočarým procesem ořezávání obrázků pomocí Aspose.Drawing, což vám umožní vylepšit vaše dovednosti při zpracování obrázků!
 
 ## Předpoklady
 

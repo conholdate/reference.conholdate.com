@@ -83,4 +83,4 @@ Ano, pro komerční využití je nutná platná licence. Licenci si můžete zak
 
 ### Kde mohu získat technickou podporu pro GroupDocs.Merger pro .NET?
 
- Technickou pomoc a podporu komunity můžete vyhledat na[Fórum GroupDocs](https://forum.groupdocs.com/c/merger/32).
+ Technickou pomoc a podporu komunity můžete vyhledat na[fórum GroupDocs](https://forum.groupdocs.com/c/merger/32).

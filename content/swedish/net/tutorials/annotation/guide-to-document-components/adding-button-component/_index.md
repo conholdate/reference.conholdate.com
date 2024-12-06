@@ -9,7 +9,7 @@ url: /sv/net/tutorials/annotation/guide-to-document-components/adding-button-com
 ---
 ## Introduktion
 
-den här handledningen går vi igenom den enkla processen att lägga till en knappkomponent i ett PDF-dokument med hjälp av biblioteket GroupDocs.Annotation för .NET. I slutet av den här guiden kommer du att vara utrustad för att förbättra dina PDF-dokument med interaktiva funktioner.
+I den här handledningen går vi igenom den enkla processen att lägga till en knappkomponent i ett PDF-dokument med hjälp av biblioteket GroupDocs.Annotation för .NET. I slutet av den här guiden kommer du att vara utrustad för att förbättra dina PDF-dokument med interaktiva funktioner.
 
 ## Förutsättningar
 
@@ -54,7 +54,7 @@ using (Annotator annotator = new Annotator("input.pdf"))
         Style = BorderStyle.Dashed,             // Border stil
         BorderWidth = 0,                        // Kantbredd
         BorderColor = 0,                        // Kantfärg
-        AlternateName = "Name",                 //Alternativt namn för knappen
+        AlternateName = "Name",                 // Alternativt namn för knappen
         PartialName = "Partial Name",           // Delvis namn för knappen
         NormalCaption = "Caption",               // Text som visas på knappen
         ButtonColor = 16761035,                 // Bakgrundsfärg på knappen

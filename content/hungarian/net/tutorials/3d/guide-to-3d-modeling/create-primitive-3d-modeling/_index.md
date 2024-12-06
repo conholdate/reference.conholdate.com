@@ -70,7 +70,7 @@ Csakúgy, mint a doboznál, nyugodtan állítsa be a henger paramétereit, hogy 
 
 ## 4. lépés: Mentse el a jelenetet FBX formátumban
 
-A 3D modell megőrzéséhez mentse el FBX formátumban:
+3D modell megőrzéséhez mentse el FBX formátumban:
 
 ```csharp
 // Mentse el a rajzot FBX formátumban
@@ -89,7 +89,7 @@ Végül ünnepelje meg sikerét egy üzenet megjelenítésével:
 Console.WriteLine($"\nBuilding a scene from primitive 3D models was successful.\nFile saved at {output}");
 ```
 
-primitív modellekből összeállított 3D-s jelenet most elkészült és elmentve!
+A primitív modellekből összeállított 3D-s jelenet most elkészült és elmentve!
 
 ## Következtetés
 
@@ -107,7 +107,7 @@ Az Aspose.3D főként a .NET-et támogatja, de vannak Java- és más platformok 
 
 ### Hol találok támogatást az Aspose.3D for .NET számára?
 
- Közösségi támogatásért látogassa meg a[Aspose.3D fórum](https://forum.aspose.com/c/3d/18).
+Közösségi támogatásért látogassa meg a[Aspose.3D fórum](https://forum.aspose.com/c/3d/18).
 
 ### Hogyan szerezhetek ideiglenes engedélyt?
 

@@ -114,4 +114,4 @@ Aspose.Cells per .NET è una libreria ricca di funzionalità per creare, modific
 
 ### Dove posso trovare altre risorse?
 
- Visitare il[documentazione](https://reference.aspose.com/cells/net/)per guide dettagliate e unisciti al[forum di supporto](https://forum.aspose.com/c/cells/9) per assistenza.
+ Visita il[documentazione](https://reference.aspose.com/cells/net/)per guide dettagliate e unisciti al[forum di supporto](https://forum.aspose.com/c/cells/9) per assistenza.

@@ -9,7 +9,7 @@ url: /vi/net/tutorials/gis/mastering-layer-management/working-with-topojson/
 ---
 ## Giới thiệu
 
-Trong thế giới dữ liệu ngày nay, việc quản lý dữ liệu địa lý hiệu quả là rất quan trọng đối với cả doanh nghiệp và nhà phát triển. Nếu bạn đang làm việc với dữ liệu hệ thống thông tin địa lý (GIS), bạn có thể đã gặp TopoJSON, một định dạng cải tiến GeoJSON bằng cách nén cấu trúc và giảm thiểu sự dư thừa. Với Aspose.GIS cho .NET, việc thao tác các tệp TopoJSON trở nên dễ dàng, cho dù bạn muốn phân tích, trực quan hóa hay chuyển đổi dữ liệu không gian địa lý. Trong bài viết này, chúng ta sẽ khám phá cách làm việc với TopoJSON bằng Aspose.GIS cho .NET, đi sâu vào các bước thiết yếu để mở, đọc và hiển thị các tính năng từ tệp TopoJSON.
+Trong thế giới dữ liệu ngày nay, việc quản lý dữ liệu địa lý hiệu quả là rất quan trọng đối với cả doanh nghiệp và nhà phát triển. Nếu bạn đang làm việc với dữ liệu hệ thống thông tin địa lý (GIS), bạn có thể đã gặp TopoJSON, một định dạng cải thiện GeoJSON bằng cách nén cấu trúc và giảm thiểu sự dư thừa. Với Aspose.GIS cho .NET, việc thao tác các tệp TopoJSON trở nên dễ dàng, cho dù bạn muốn phân tích, trực quan hóa hay chuyển đổi dữ liệu không gian địa lý. Trong bài viết này, chúng ta sẽ khám phá cách làm việc với TopoJSON bằng Aspose.GIS cho .NET, đi sâu vào các bước thiết yếu để mở, đọc và hiển thị các tính năng từ tệp TopoJSON.
 
 ## Điều kiện tiên quyết
 
@@ -49,7 +49,7 @@ string dataDir = "Your Document Directory"; // Thay thế bằng đường dẫn
 string sampleTopoJsonPath = dataDir + "sample.topojson"; // Thêm tên tệp TopoJSON
 ```
 
- Dòng này thiết lập đường dẫn và đảm bảo bạn có quyền truy cập vào tệp TopoJSON của mình. Hãy nhớ thay thế`"Your Document Directory"` với đường dẫn thực tế nơi chứa tệp TopoJSON của bạn.
+ Dòng này thiết lập đường dẫn và đảm bảo bạn có quyền truy cập vào tệp TopoJSON của mình. Hãy nhớ thay thế`"Your Document Directory"` với đường dẫn thực tế nơi lưu trữ tệp TopoJSON của bạn.
 
 ## Bước 2: Mở tệp TopoJSON
 

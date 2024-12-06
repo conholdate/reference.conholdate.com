@@ -69,7 +69,7 @@ using (Viewer viewer = new Viewer(filePath, loadOptions))
 }
 ```
 
-## Steg 5: Visa utdatakatalogsökväg
+## Steg 5: Visa sökväg för utdatakatalog
 
 Informera dina användare var de kan hitta det renderade dokumentet:
 

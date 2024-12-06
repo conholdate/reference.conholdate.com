@@ -17,7 +17,7 @@ Im Bereich der Dokumentenverarbeitung ist Aspose.Words für .NET ein robustes To
 
 ## Verbessern Sie Ihr Spiel mit Google AI
 
- Als nächstes beschäftigen wir uns mit der[Dokumentzusammenfassung mit Google AI-Modellen meistern](./mastering-document-summarization-google-ai-model/)Tutorial. Und jetzt kommt der spannende Teil: Wenn Sie die leistungsstarken KI-Funktionen von Google mit Aspose.Words kombinieren, erreichen Sie ein neues Effizienzniveau. In diesem Tutorial erfahren Sie, wie Sie die KI von Google nutzen können, um im Handumdrehen prägnante Zusammenfassungen zu erstellen. Stellen Sie sich vor, Sie haben einen langen Bericht zur Hand und erhalten mit nur wenigen Klicks eine Zusammenfassung, die es Ihnen ermöglicht, sich auf fundierte Entscheidungen zu konzentrieren, anstatt sich durch seitenlangen Text zu wühlen. Dies ist ein transformativer Ansatz für vielbeschäftigte Fachleute, die ihre Zeit schätzen.
+ Als nächstes beschäftigen wir uns mit der[Dokumentzusammenfassung mit Google AI-Modellen meistern](./mastering-document-summarization-google-ai-model/)Tutorial. Und jetzt kommt der spannende Teil: Wenn Sie die leistungsstarken KI-Funktionen von Google mit Aspose.Words kombinieren, erreichen Sie ein neues Effizienzniveau. In diesem Tutorial erfahren Sie, wie Sie die KI von Google nutzen können, um im Handumdrehen prägnante Zusammenfassungen zu erstellen. Stellen Sie sich vor, Sie haben einen langen Bericht zur Hand und erhalten mit nur wenigen Klicks eine Zusammenfassung, die es Ihnen ermöglicht, sich auf fundierte Entscheidungen zu konzentrieren, anstatt sich durch seitenlange Texte zu wühlen. Dies ist ein transformativer Ansatz für vielbeschäftigte Fachleute, die ihre Zeit schätzen.
 
 ## OpenAI zur Dokumentzusammenfassung
 

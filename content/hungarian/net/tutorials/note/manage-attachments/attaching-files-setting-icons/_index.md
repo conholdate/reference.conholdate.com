@@ -2,7 +2,7 @@
 title: Fájlok csatolása és ikonok beállítása az Aspose.Note for .NET programban
 linktitle: Csatoljon fájlt és állítsa be az ikont az Aspose.Note-ban
 second_title: Aspose.Note .NET API
-description: Ismerje meg lépésről lépésre, hogyan csatolhat fájlokat és állíthat be egyéni ikonokat a Microsoft OneNote dokumentumokban az Aspose.Note for .NET segítségével. Bővítse .NET-alkalmazását zökkenőmentes dokumentumkezelési és testreszabási funkciókkal.
+description: Ismerje meg lépésről lépésre, hogyan csatolhat fájlokat és állíthat be egyéni ikonokat a Microsoft OneNote dokumentumokban az Aspose.Note for .NET használatával. Bővítse .NET-alkalmazását zökkenőmentes dokumentumkezelési és testreszabási funkciókkal.
 type: docs
 weight: 10
 url: /hu/net/tutorials/note/manage-attachments/attaching-files-setting-icons/

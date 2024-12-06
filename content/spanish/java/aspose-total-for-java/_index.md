@@ -143,7 +143,7 @@ continuación se muestran los enlaces a algunos recursos útiles que puede neces
 
 Aspose.OCR para Java es una API de caracteres ópticos que permite a los desarrolladores agregar funcionalidad de OCR a sus aplicaciones Java sin necesidad de ninguna herramienta o API adicional. Aspose.OCR para Java permite extraer texto de imágenes que tienen diferentes fuentes y estilos, lo que ahorra el tiempo y el esfuerzo que implica desarrollar una solución de OCR desde cero.
 
-Aspose.OCR para Java incluye demostraciones con todas las funciones y ejemplos prácticos escritos en Java. Las demostraciones ayudan a los desarrolladores a conocer las características del componente y a ponerse en marcha rápidamente. Con Aspose.OCR para Java, los desarrolladores pueden extraer texto e información relacionada, como la fuente, el estilo y la ubicación del texto, de partes específicas de una imagen. Esta función permite realizar la operación de OCR rápidamente en escaneos de documentos que siguen una estructura similar.
+Aspose.OCR para Java incluye demostraciones con todas las funciones y ejemplos prácticos escritos en Java. Las demostraciones ayudan a los desarrolladores a conocer las características del componente y a ponerse en funcionamiento rápidamente. Con Aspose.OCR para Java, los desarrolladores pueden extraer texto e información relacionada, como fuente, estilo y ubicación del texto, de partes específicas de una imagen. Esta función permite realizar la operación de OCR rápidamente en escaneos de documentos que siguen una estructura similar.
 
 {{% /alert %}}
 

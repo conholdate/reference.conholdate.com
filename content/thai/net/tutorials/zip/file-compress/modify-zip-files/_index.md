@@ -17,7 +17,7 @@ url: /th/net/tutorials/zip/file-compress/modify-zip-files/
 
 1.  Aspose.Zip สำหรับไลบรารี .NET: ติดตั้งไลบรารีในโปรเจ็กต์ของคุณ คุณสามารถดาวน์โหลดได้[ที่นี่](https://releases.aspose.com/zip/net/).
    
-2. ไดเรกทอรีเอกสาร: ตั้งค่าไดเรกทอรีเพื่อจัดเก็บไฟล์ zip ของคุณ แทนที่`"Your Document Directory"` ในโค้ดที่มีเส้นทางจริงของคุณ
+2.  ไดเรกทอรีเอกสาร: ตั้งค่าไดเรกทอรีเพื่อจัดเก็บไฟล์ zip ของคุณ แทนที่`"Your Document Directory"` ในโค้ดที่มีเส้นทางจริงของคุณ
 
 ## นำเข้าเนมสเปซที่จำเป็น
 
@@ -126,7 +126,7 @@ Aspose.Zip ได้รับการออกแบบมาโดยเฉพ
  เยี่ยมชม[ฟอรั่ม Aspose.Zip](https://forum.aspose.com/c/zip/37) เพื่อการสนับสนุนและการหารือ
 
 ### ฉันสามารถซื้อใบอนุญาตชั่วคราวสำหรับ Aspose.Zip สำหรับ .NET ได้หรือไม่
- ใช่ คุณสามารถขอใบอนุญาตชั่วคราวได้[ที่นี่](https://purchase.conholdate.com/temporary-license/).
+ใช่ คุณสามารถขอใบอนุญาตชั่วคราวได้[ที่นี่](https://purchase.conholdate.com/temporary-license/).
 
 ### ฉันสามารถค้นหาเอกสารสำหรับ Aspose.Zip สำหรับ .NET ได้ที่ไหน
  เอกสารประกอบฉบับสมบูรณ์พร้อมให้บริการแล้ว[ที่นี่](https://reference.aspose.com/zip/net/).

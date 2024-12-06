@@ -20,7 +20,7 @@ Chcete-li začít, ujistěte se, že máte nainstalované následující:
 3. Visual Studio: Doporučujeme používat Visual Studio, ale bude fungovat jakékoli kompatibilní IDE.
 4. Dokument aplikace Word: Dokument, který chcete převést do formátu PDF.
 
-Jakmile je budete mít na svém místě, máte hotovo!
+Jakmile je budete mít na svém místě, je vše připraveno!
 
 ## Importovat jmenné prostory
 

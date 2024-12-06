@@ -28,7 +28,7 @@ using Aspose.Words;
 
 ## Krok 1: Załaduj plik tekstowy
 
- Najpierw musisz załadować plik tekstowy do Aspose.Words`Document` obiekt. Oto jak:
+Najpierw musisz załadować plik tekstowy do Aspose.Words`Document` obiekt. Oto jak:
 
 ```csharp
 // Podaj ścieżkę katalogu, w którym znajduje się plik tekstowy

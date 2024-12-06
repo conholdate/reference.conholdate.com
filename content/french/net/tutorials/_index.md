@@ -63,7 +63,7 @@ Découvrez des tutoriels d'experts pour Aspose.Imaging pour .NET. Apprenez à ma
 ### Tutoriels Aspose.Imaging
 - [Tutoriels Aspose.Imaging pour .NET](./imaging/)
 
-## Aspose.Code à barres
+## Aspose.BarCode
 {{% alert color="primary" %}}
 Découvrez des didacticiels complets sur Aspose.BarCode pour .NET. Apprenez à générer, personnaliser et gérer des codes-barres avec des guides détaillés, étape par étape.
 {{% /alert %}}

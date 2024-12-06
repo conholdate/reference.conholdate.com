@@ -63,7 +63,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 FileStream fstream = new FileStream(dataDir + "book1.xls", FileMode.Open);
 ```
 
-在此步骤中，我们就像转动钥匙来解锁您的 Excel 文件一样。
+在此步骤中，我们就像是在转动钥匙来解锁您的 Excel 文件。
 
 ## 步骤 3：实例化工作簿对象
 

@@ -93,7 +93,7 @@ Console.WriteLine($"\nDocument saved successfully.\nCheck output in {outputPath}
 
 ## Slutsats
 
-I den här handledningen har vi framgångsrikt lagt till en kryssrutekomponent till ett PDF-dokument med hjälp av GroupDocs.Annotation för .NET. Denna funktion låter dig skapa interaktiva PDF-filer som kan förbättra användarupplevelsen och engagemanget.
+den här handledningen har vi framgångsrikt lagt till en kryssrutekomponent till ett PDF-dokument med hjälp av GroupDocs.Annotation för .NET. Denna funktion låter dig skapa interaktiva PDF-filer som kan förbättra användarupplevelsen och engagemanget.
 
 ## FAQ's
 

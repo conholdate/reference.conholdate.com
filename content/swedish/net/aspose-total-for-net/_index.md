@@ -11,7 +11,7 @@ weight: 10
 
 **Welcome to Aspose.Words for .NET** 
 
-Aspose.Words för .NET är ett klassbibliotek som gör det möjligt för dina applikationer att utföra ett stort antal dokumentbearbetningsuppgifter. Aspose.Words stöder DOC, DOCX, RTF, HTML, OpenDocument, PDF, XPS, EPUB och andra format. Med Aspose.Words kan du generera, modifiera, konvertera, rendera och skriva ut dokument utan att använda Microsoft Word®.
+Aspose.Words för .NET är ett klassbibliotek som gör det möjligt för dina applikationer att utföra ett stort antal dokumentbearbetningsuppgifter. Aspose.Words stöder DOC, DOCX, RTF, HTML, OpenDocument, PDF, XPS, EPUB och andra format. Med Aspose.Words kan du skapa, modifiera, konvertera, rendera och skriva ut dokument utan att använda Microsoft Word®.
 
 {{% /alert %}} 
 

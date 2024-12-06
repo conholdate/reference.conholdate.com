@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // Ganti dengan jalur Anda yang sebenarnya
 ```
 
- Pastikan Anda mengganti`"YourDocumentDirectoryPath"`dengan jalur sebenarnya tempat file Anda berada agar kode berfungsi dengan benar.
+ Pastikan Anda mengganti`"YourDocumentDirectoryPath"` dengan jalur sebenarnya tempat file Anda berada agar kode berfungsi dengan benar.
 
 ## Langkah 2: Mengompres Satu File
 
@@ -68,7 +68,7 @@ using (TarArchive archive = new TarArchive())
 //ExEnd: KompresBeberapaFile
 ```
 
- Ini mengikuti struktur yang sama seperti langkah sebelumnya.`CreateEntry` Metode ini dapat dipanggil beberapa kali untuk menyertakan file tambahan dalam arsip.
+ Ini mengikuti struktur yang sama seperti langkah sebelumnya.`CreateEntry`Metode ini dapat dipanggil beberapa kali untuk menyertakan file tambahan dalam arsip.
 
 ## Kesimpulan
 
@@ -89,4 +89,4 @@ Ya, kode tersebut kompatibel dengan versi terbaru. Selalu pastikan Anda memiliki
 Ya, perpustakaan dapat dimanfaatkan dalam proyek komersial dan pribadi, tergantung pada ketentuan perizinannya.
 
 ### Di mana saya dapat menemukan dukungan jika saya mengalami masalah?
- Untuk dukungan, kunjungi[Forum Aspose.Zip](https://forum.aspose.com/c/zip/37), tempat Anda dapat mengajukan pertanyaan dan mendapatkan saran pemecahan masalah dari komunitas.
+ Untuk dukungan, kunjungi[Forum Aspose.Zip](https://forum.aspose.com/c/zip/37)tempat Anda dapat mengajukan pertanyaan dan mendapatkan saran pemecahan masalah dari komunitas.

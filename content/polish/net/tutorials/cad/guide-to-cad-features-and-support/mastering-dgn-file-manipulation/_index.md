@@ -9,7 +9,7 @@ url: /pl/net/tutorials/cad/guide-to-cad-features-and-support/mastering-dgn-file-
 ---
 ## Wstęp
 
-Czy jesteś programistą .NET, który chce zintegrować pliki DGN ze swoimi aplikacjami? Aspose.CAD dla .NET oferuje potężną bibliotekę zaprojektowaną specjalnie do pracy z formatami plików DGN. W tym samouczku przyjrzymy się, jak wydajnie obsługiwać pliki DGN, w tym obsługiwane elementy, i jak nimi manipulować w projektach .NET.
+Czy jesteś programistą .NET, który chce zintegrować pliki DGN ze swoimi aplikacjami? Aspose.CAD dla .NET oferuje potężną bibliotekę zaprojektowaną specjalnie do pracy z formatami plików DGN. W tym samouczku zbadamy, jak wydajnie obsługiwać pliki DGN, w tym obsługiwane elementy, i jak nimi manipulować w swoich projektach .NET.
 
 ## Wymagania wstępne
 

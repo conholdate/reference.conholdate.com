@@ -17,7 +17,7 @@ Voordat we beginnen, zorg ervoor dat u het volgende heeft:
 
 1.  Aspose.Zip voor .NET Library: Installeer de bibliotheek in uw project. U kunt het downloaden[hier](https://releases.aspose.com/zip/net/).
    
-2. Document Directory: Stel een directory in om uw zip-bestanden op te slaan. Vervangen`"Your Document Directory"` in de code met uw werkelijke pad.
+2.  Document Directory: Stel een directory in om uw zip-bestanden op te slaan. Vervangen`"Your Document Directory"` in de code met uw werkelijke pad.
 
 ## Importeer noodzakelijke naamruimten
 
@@ -91,7 +91,7 @@ foreach (ArchiveEntry e in entriesToDelete)
 }
 ```
 
-## Stap 4: Gewijzigde vermeldingen toevoegen aan de buitenste postcode
+## Stap 4: Voeg aangepaste vermeldingen toe aan de buitenste postcode
 
 Nu kunt u de nieuw uitgepakte items weer toevoegen aan uw externe zipbestand:
 
@@ -126,7 +126,7 @@ Aspose.Zip is primair ontworpen voor .NET-toepassingen, maar Aspose biedt vergel
  Bezoek de[Aspose.Zip-forum](https://forum.aspose.com/c/zip/37) voor ondersteuning en discussies.
 
 ### Kan ik een tijdelijke licentie voor Aspose.Zip voor .NET kopen?
- Ja, u kunt een tijdelijke licentie verkrijgen[hier](https://purchase.conholdate.com/temporary-license/).
+Ja, u kunt een tijdelijke licentie verkrijgen[hier](https://purchase.conholdate.com/temporary-license/).
 
 ### Waar kan ik de documentatie voor Aspose.Zip voor .NET vinden?
  De volledige documentatie is beschikbaar[hier](https://reference.aspose.com/zip/net/).

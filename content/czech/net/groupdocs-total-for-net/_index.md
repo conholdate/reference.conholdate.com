@@ -17,7 +17,7 @@ GroupDocs.Annotation for .NET API umožňuje vývojářům plynule vylepšovat j
 ## **GroupDocs.Annotation for .NET**
 Níže jsou uvedeny odkazy na některé užitečné zdroje, které můžete potřebovat ke splnění svých úkolů.
 
-- [GroupDocs.Annotation for .NET API Reference Guide](https://apireference.groupdocs.com/net/annotation)
+- [GroupDocs.Annotation pro referenční příručku rozhraní .NET API](https://apireference.groupdocs.com/net/annotation)
 
 {{% alert color="primary" %}} 
 

@@ -9,7 +9,7 @@ url: /zh/net/tutorials/tex/mastering-zip-file-io/handle-zip-files/
 ---
 ## 介绍
 
-Aspose.TeX for .NET 是一个功能强大的库，专为处理 TeX 文档而设计。其突出的功能之一是能够高效处理 Zip 文件。本教程将指导您使用 Aspose.TeX 在 .NET 应用程序中使用 Zip 文件。
+Aspose.TeX for .NET 是一个功能强大的库，专为处理 TeX 文档而设计。其突出特点之一是能够高效处理 Zip 文件。本教程将指导您使用 Aspose.TeX 在 .NET 应用程序中使用 Zip 文件。
 
 ## 先决条件
 

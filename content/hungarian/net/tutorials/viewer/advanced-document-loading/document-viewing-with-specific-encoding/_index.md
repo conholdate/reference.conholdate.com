@@ -79,7 +79,7 @@ Console.WriteLine($"\nSource document rendered successfully.\nCheck output in {o
 
 ## Következtetés
 
-A GroupDocs.Viewer for .NET egy kivételes megoldás azoknak a fejlesztőknek, akik dokumentummegtekintési lehetőségeket szeretnének beágyazni alkalmazásaikba. Az oktatóanyagban ismertetett lépések követésével könnyedén betöltheti a dokumentumokat speciális kódolással az optimális kompatibilitás és olvashatóság biztosítása érdekében.
+A GroupDocs.Viewer for .NET egy kivételes megoldás azoknak a fejlesztőknek, akik dokumentummegtekintési lehetőségeket szeretnének beágyazni alkalmazásaikba. Az oktatóanyagban ismertetett lépések követésével könnyedén betöltheti a dokumentumokat speciális kódolással az optimális kompatibilitás és olvashatóság érdekében.
 
 ## GYIK
 

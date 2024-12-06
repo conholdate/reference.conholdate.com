@@ -1,6 +1,6 @@
 ---
 title: Освоение преобразований координат в Aspose.Drawing для .NET
-linktitle: Координатные преобразования
+linktitle: Преобразования координат
 second_title: API Aspose.Drawing .NET — альтернатива System.Drawing.Common
 description: Научитесь осваивать преобразования координат с Aspose.Drawing для .NET. Узнайте, как реализовать глобальные и локальные преобразования для визуального совершенства.
 type: docs

@@ -16,7 +16,7 @@ Renderowanie modeli 3D w oszałamiające wizualizacje to kluczowa umiejętność
 Przed rozpoczęciem upewnij się, że spełnione są następujące wymagania wstępne, aby pomyślnie renderować obrazy 3D za pomocą Aspose.3D dla .NET:
 
 -  Biblioteka Aspose.3D dla .NET: Najpierw pobierz bibliotekę Aspose.3D dla .NET. Możesz zainstalować ją za pomocą NuGet lub pobrać bezpośrednio z[Strona wydań Aspose](https://releases.aspose.com/3d/net/).
-- Model 3D: Przygotuj swój model 3D w zgodnym formacie, takim jak OBJ, FBX lub 3DS. W tym samouczku użyjemy`Aspose3D.obj` plik.
+-  Model 3D: Przygotuj swój model 3D w zgodnym formacie, takim jak OBJ, FBX lub 3DS. W tym samouczku użyjemy`Aspose3D.obj` plik.
 - Środowisko programistyczne .NET: Upewnij się, że masz działające środowisko programistyczne .NET. Ten samouczek zakłada, że używasz Visual Studio lub podobnego IDE.
 
 ## Importowanie niezbędnych przestrzeni nazw
@@ -95,7 +95,7 @@ Teraz, gdy mamy scenę z modelem, kamerą i światłami, czas określić opcje r
 ImageRenderOptions opt = new ImageRenderOptions();
 opt.BackgroundColor = Color.AliceBlue;  // Ustaw kolor tła
 opt.AssetDirectories.Add("YourDocumentDirectory" + "textures");  // Ustaw katalog tekstur
-opt.EnableShadows = true;  //Włącz cienie, aby uzyskać głębię
+opt.EnableShadows = true;  // Włącz cienie, aby uzyskać głębię
 ```
 
 ## Krok 5: Renderowanie sceny
@@ -120,7 +120,7 @@ Tak, Aspose.3D obsługuje różne formaty modeli 3D, takie jak OBJ, FBX i 3DS, d
 
 ### Jak mogę rozwiązać problemy z renderowaniem?
 
- celu rozwiązania problemu sprawdź[Forum Aspose.3D](https://forum.aspose.com/c/3d/18) aby znaleźć rozwiązania typowych problemów z renderowaniem. Możesz również zapoznać się z dokumentacją, aby uzyskać szczegółowe wskazówki.
+ W celu rozwiązania problemu sprawdź[Forum Aspose.3D](https://forum.aspose.com/c/3d/18) aby znaleźć rozwiązania typowych problemów z renderowaniem. Możesz również zapoznać się z dokumentacją, aby uzyskać szczegółowe wskazówki.
 
 ### Czy jest dostępna bezpłatna wersja próbna?
 

@@ -31,7 +31,7 @@ using System;
 
 ## Schritt 2: Ladeoptionen für ein kennwortgeschütztes Dokument festlegen
 
- Um Metadaten aus einem kennwortgeschützten Dokument zu laden, müssen Sie die Ladeoptionen konfigurieren. Geben Sie das Dokumentkennwort im`LoadOptions` Objekt:
+ Um Metadaten aus einem passwortgeschützten Dokument zu laden, müssen Sie die Ladeoptionen konfigurieren. Geben Sie das Dokumentpasswort im`LoadOptions` Objekt:
 
 ```csharp
 var loadOptions = new LoadOptions

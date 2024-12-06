@@ -55,7 +55,7 @@ using (var merger = new Merger("path_to_first_doc.doc"))
 ```
 
 
--  Zastępować`"path_to_first_doc.doc"` I`"path_to_second_doc.doc"` z pełnymi ścieżkami do plików DOC, które chcesz scalić.
+-  Zastępować`"path_to_first_doc.doc"` I`"path_to_second_doc.doc"` z pełnymi ścieżkami do plików DOC, które chcesz połączyć.
 -  Ten`merger.Join(...)` Metoda ta umożliwia dodanie dodatkowych plików DOC do procesu scalania.
 - `merger.Save(outputFile)` zapisuje scalony dokument jako`merged.doc` w określonym folderze wyjściowym.
 

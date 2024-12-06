@@ -4,7 +4,7 @@ linktitle: Aspose.Drawing for .NET Tutorials
 type: docs
 weight: 10
 url: /hu/net/tutorials/drawing/
-description: Növelje grafikai készségeit az Aspose.Drawing for .NET segítségével. A pontos koordinátatranszformációktól a dinamikus szövegekig és betűtípusokig oktatóanyagaink felszabadítják a grafikában rejlő lehetőségeket.
+description: Növelje grafikai készségeit az Aspose.Drawing for .NET segítségével. A pontos koordináta-transzformációktól a dinamikus szövegekig és betűtípusokig oktatóanyagaink felszabadítják a grafikában rejlő lehetőségeket.
 is_root: true
 ---
 

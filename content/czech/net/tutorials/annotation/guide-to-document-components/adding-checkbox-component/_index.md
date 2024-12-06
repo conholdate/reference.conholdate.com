@@ -42,7 +42,7 @@ string outputPath = Path.Combine("Your Document Directory", "result" + Path.GetE
 
 ## Krok 3: Inicializujte anotátor
 
- Vytvořte instanci souboru`Annotator` třídy s cestou k vašemu vstupnímu PDF dokumentu:
+ Vytvořte instanci souboru`Annotator` třídy s cestou k vašemu vstupnímu dokumentu PDF:
 
 ```csharp
 using (Annotator annotator = new Annotator("input.pdf"))
@@ -93,7 +93,7 @@ Console.WriteLine($"\nDocument saved successfully.\nCheck output in {outputPath}
 
 ## Závěr
 
-V tomto tutoriálu jsme úspěšně přidali komponentu Checkbox do dokumentu PDF pomocí GroupDocs.Annotation pro .NET. Tato funkce umožňuje vytvářet interaktivní soubory PDF, které mohou zlepšit uživatelský dojem a zapojení.
+tomto tutoriálu jsme úspěšně přidali komponentu Checkbox do dokumentu PDF pomocí GroupDocs.Annotation pro .NET. Tato funkce umožňuje vytvářet interaktivní soubory PDF, které mohou zlepšit uživatelský dojem a zapojení.
 
 ## FAQ
 
@@ -111,7 +111,7 @@ Ano, GroupDocs.Annotation for .NET poskytuje komerční licence pro podniky.
 
 ### Kde najdu podporu pro GroupDocs.Annotation pro .NET?
 
- Podpora a další zdroje jsou k dispozici na[Fórum GroupDocs](https://forum.groupdocs.com/c/annotation/10).
+ Podpora a další zdroje jsou k dispozici na[fórum GroupDocs](https://forum.groupdocs.com/c/annotation/10).
 
 ### Potřebuji dočasnou licenci pro testovací účely?
 

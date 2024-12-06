@@ -45,7 +45,7 @@ Hier beginnen Sie mit der Erstellung Ihrer JavaScript-lastigen PDF-Datei.
 
 ## Schritt 2: JavaScript zum PDF hinzufügen
 
- Fügen Sie JavaScript-Funktionen in Ihr Dokument ein, indem Sie den`doc.JavaScript` Sammlung. Hier ist ein Beispiel:
+ Fügen Sie JavaScript-Funktionen in Ihr Dokument ein, indem Sie`doc.JavaScript` Sammlung. Hier ist ein Beispiel:
 
 ```csharp
 doc.JavaScript["func1"] = "function func1() { console.log('Hello'); }";

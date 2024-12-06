@@ -16,7 +16,7 @@ Vykreslování 3D modelů do ohromujících vizuálů je kritickou dovedností p
 Než začnete, ujistěte se, že máte splněny následující předpoklady pro úspěšné vykreslení 3D obrázků pomocí Aspose.3D for .NET:
 
 -  Knihovna Aspose.3D pro .NET: Nejprve si stáhněte knihovnu Aspose.3D pro .NET. Můžete jej nainstalovat pomocí NuGet nebo si jej stáhnout přímo z[Aspose stránku vydání](https://releases.aspose.com/3d/net/).
-- 3D model: Připravte svůj 3D model v kompatibilním formátu, jako je OBJ, FBX nebo 3DS. Pro tento tutoriál použijeme an`Aspose3D.obj` soubor.
+-  3D model: Připravte svůj 3D model v kompatibilním formátu, jako je OBJ, FBX nebo 3DS. Pro tento tutoriál použijeme an`Aspose3D.obj` soubor.
 - Vývojové prostředí .NET: Ujistěte se, že máte funkční vývojové prostředí .NET. Tento kurz předpokládá, že používáte Visual Studio nebo podobné IDE.
 
 ## Import nezbytných jmenných prostorů
@@ -95,7 +95,7 @@ Nyní, když máme naši scénu s modelem, kamerou a světly, je čas specifikov
 ImageRenderOptions opt = new ImageRenderOptions();
 opt.BackgroundColor = Color.AliceBlue;  // Nastavte barvu pozadí
 opt.AssetDirectories.Add("YourDocumentDirectory" + "textures");  // Nastavte adresář textur
-opt.EnableShadows = true;  //Povolit stíny pro hloubku
+opt.EnableShadows = true;  // Povolit stíny pro hloubku
 ```
 
 ## Krok 5: Renderujte scénu
@@ -120,7 +120,7 @@ Ano, Aspose.3D podporuje různé formáty 3D modelů, jako jsou OBJ, FBX a 3DS, 
 
 ### Jak mohu vyřešit problémy s vykreslováním?
 
-Pro odstraňování problémů zkontrolujte[Aspose.3D fórum](https://forum.aspose.com/c/3d/18) pro řešení běžných problémů s vykreslováním. Podrobné pokyny naleznete také v dokumentaci.
+ Pro odstraňování problémů zkontrolujte[Aspose.3D fórum](https://forum.aspose.com/c/3d/18) pro řešení běžných problémů s vykreslováním. Podrobné pokyny naleznete také v dokumentaci.
 
 ### Je k dispozici bezplatná zkušební verze?
 

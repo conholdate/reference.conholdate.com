@@ -15,9 +15,9 @@ url: /ko/net/tutorials/3d/guide-to-rendering/render-panorama-view-3d-scene/
 
 렌더링 과정을 시작하기 전에 다음 사항이 준비되었는지 확인하세요.
 
--  .NET용 Aspose.3D: 시작하려면 3D 자산을 처리하고 렌더링하는 데 필요한 모든 도구를 제공하는 Aspose.3D를 설치해야 합니다.[.NET용 Aspose.3D 다운로드](https://releases.aspose.com/3d/net/) 시작하려면 클릭하세요.
+- .NET용 Aspose.3D: 시작하려면 3D 자산을 처리하고 렌더링하는 데 필요한 모든 도구를 제공하는 Aspose.3D를 설치해야 합니다.[.NET용 Aspose.3D 다운로드](https://releases.aspose.com/3d/net/) 시작하려면 클릭하세요.
 - .NET 개발 환경: 완전히 구성된 .NET 개발 환경이 필요합니다. Visual Studio 또는 기타 호환 IDE가 있는지 확인하세요.
-- 샘플 3D 장면 파일: 다음과 같은 형식의 3D 장면을 사용할 수 있습니다.`.glb`, `.fbx` , 또는`.obj`. 이 튜토리얼에서는 간단한 "VirtualCity.glb" 파일을 사용합니다.
+-  샘플 3D 장면 파일: 다음과 같은 형식의 3D 장면을 사용할 수 있습니다.`.glb`, `.fbx` , 또는`.obj`. 이 튜토리얼에서는 간단한 "VirtualCity.glb" 파일을 사용합니다.
 
 이러한 전제 조건을 충족하면 장면을 설정하는 단계로 넘어갈 수 있습니다.
 

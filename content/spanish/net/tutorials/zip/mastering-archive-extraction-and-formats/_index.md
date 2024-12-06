@@ -15,7 +15,7 @@ Cuando se trata de la gestión de archivos en .NET, es fundamental comprender c�
 
 En primer lugar, hablemos de por qué debería considerar el uso de Aspose.Zip. No es solo otra biblioteca en el mar de herramientas .NET; está repleta de funciones que atienden específicamente las necesidades de los desarrolladores modernos. ¿Necesita trabajar con formatos TarGz o TarLz? ¡No hay problema! Aspose.Zip proporciona métodos fáciles de seguir para administrar archivos en estos formatos, lo que garantiza que pueda empaquetar y descomprimir sus datos con precisión y sin esfuerzo.
 
- ¡Listo! Sus archivos se extraen con un mínimo de esfuerzo. Es como abrir una maleta perfectamente empaquetada. Para obtener instrucciones más detalladas, no olvide consultar nuestra[Guía completa de TarGz con Aspose.Zip para .NET](./comprehensive-guide-to-tar-gz/). 
+¡Listo! Sus archivos se extraen con un mínimo de esfuerzo. Es como abrir una maleta perfectamente empaquetada. Para obtener instrucciones más detalladas, no olvide consultar nuestra[Guía completa de TarGz con Aspose.Zip para .NET](./comprehensive-guide-to-tar-gz/). 
 
 ## Profundicemos en el formato TarLz
 

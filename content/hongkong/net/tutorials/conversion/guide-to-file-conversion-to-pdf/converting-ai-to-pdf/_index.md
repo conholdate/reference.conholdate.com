@@ -21,7 +21,7 @@ url: /zh-hant/net/tutorials/conversion/guide-to-file-conversion-to-pdf/convertin
 
 ### 來源AI文件
 
-準備好有效的 AI 檔案以供轉換。將其放在開發環境中方便的目錄中。
+準備好有效的 AI 檔案以進行轉換。將其放在開發環境中方便的目錄中。
 
 ### 開發環境
 

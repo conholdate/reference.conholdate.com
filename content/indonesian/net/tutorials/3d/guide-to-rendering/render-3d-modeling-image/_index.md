@@ -16,7 +16,7 @@ Merender model 3D menjadi visual yang memukau merupakan keterampilan penting dal
 Sebelum memulai, pastikan Anda memiliki prasyarat berikut untuk berhasil merender gambar 3D menggunakan Aspose.3D untuk .NET:
 
 -  Pustaka Aspose.3D untuk .NET: Pertama, unduh pustaka Aspose.3D untuk .NET. Anda dapat menginstalnya menggunakan NuGet atau mengunduhnya langsung dari[Aspose merilis halaman](https://releases.aspose.com/3d/net/).
-- Model 3D: Siapkan model 3D Anda dalam format yang kompatibel, seperti OBJ, FBX, atau 3DS. Untuk tutorial ini, kami akan menggunakan`Aspose3D.obj` mengajukan.
+-  Model 3D: Siapkan model 3D Anda dalam format yang kompatibel, seperti OBJ, FBX, atau 3DS. Untuk tutorial ini, kami akan menggunakan`Aspose3D.obj` mengajukan.
 - Lingkungan Pengembangan .NET: Pastikan Anda memiliki lingkungan pengembangan .NET yang berfungsi. Tutorial ini mengasumsikan Anda menggunakan Visual Studio atau IDE serupa.
 
 ## Mengimpor Ruang Nama yang Diperlukan
@@ -95,7 +95,7 @@ Sekarang setelah kita memiliki adegan dengan model, kamera, dan lampu, saatnya m
 ImageRenderOptions opt = new ImageRenderOptions();
 opt.BackgroundColor = Color.AliceBlue;  // Mengatur warna latar belakang
 opt.AssetDirectories.Add("YourDocumentDirectory" + "textures");  // Mengatur direktori tekstur
-opt.EnableShadows = true;  //Aktifkan bayangan untuk kedalaman
+opt.EnableShadows = true;  // Aktifkan bayangan untuk kedalaman
 ```
 
 ## Langkah 5: Render Adegan
@@ -120,7 +120,7 @@ Ya, Aspose.3D mendukung berbagai format model 3D seperti OBJ, FBX, dan 3DS, memb
 
 ### Bagaimana saya dapat memecahkan masalah rendering?
 
-Untuk pemecahan masalah, periksa[Forum Aspose.3D](https://forum.aspose.com/c/3d/18) untuk solusi atas masalah rendering yang umum. Anda juga dapat merujuk ke dokumentasi untuk panduan terperinci.
+ Untuk pemecahan masalah, periksa[Forum Aspose.3D](https://forum.aspose.com/c/3d/18) untuk solusi atas masalah rendering yang umum. Anda juga dapat merujuk ke dokumentasi untuk panduan terperinci.
 
 ### Apakah ada uji coba gratis yang tersedia?
 

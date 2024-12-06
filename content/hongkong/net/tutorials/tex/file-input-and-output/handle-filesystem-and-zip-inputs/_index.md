@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/tex/file-input-and-output/handle-filesystem-and-zip-
 
 在我們開始之前，請確保您已準備好以下內容：
 
--  Aspose.TeX for .NET Library：從以下位置下載並安裝該程式庫[Aspose.TeX for .NET 下載頁面](https://releases.aspose.com/tex/net/).
+-  Aspose.TeX for .NET 函式庫：從下列位置下載並安裝該程式庫：[Aspose.TeX for .NET 下載頁面](https://releases.aspose.com/tex/net/).
   
 - TeX/LaTeX 的基本知識：熟悉 TeX 或 LaTeX 概念將幫助您更好地理解所涉及的過程。
 

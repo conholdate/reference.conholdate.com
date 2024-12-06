@@ -107,7 +107,7 @@ Aspose.3D ondersteunt voornamelijk .NET, maar er zijn versies beschikbaar voor J
 
 ### Waar kan ik ondersteuning vinden voor Aspose.3D voor .NET?
 
- Voor ondersteuning van de gemeenschap, bezoek de[Aspose.3D-forum](https://forum.aspose.com/c/3d/18).
+Voor ondersteuning van de gemeenschap, bezoek de[Aspose.3D-forum](https://forum.aspose.com/c/3d/18).
 
 ### Hoe kan ik een tijdelijk rijbewijs krijgen?
 

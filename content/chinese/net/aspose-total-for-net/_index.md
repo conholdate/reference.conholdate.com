@@ -1,5 +1,5 @@
 ---
-title: “Aspose.Total for .NET” 是一个免费且易于使用的.NET 开发工具包，可帮助您轻松安装和使用 .
+title: “Aspose.Total for .NET” 是一个免费且易于使用的.NET 开发工具包，可帮助您轻松安装和使用 .NET 平台。
 type: docs
 url: /zh/aspose-total-for-net/
 weight: 10
@@ -266,7 +266,7 @@ Aspose.GIS for .NET 专为帮助 .NET 开发人员轻松处理以各种文件格
 
 **Welcome to Aspose.ZIP for .NET**
 
-Aspose.ZIP for .NET 是一个灵活且易于使用的 .NET API，可让您处理标准 ZIP 格式的文件压缩。它可让您实现文件和文件夹的压缩/解压，而无需了解压缩文件格式的底层复杂性，从而节省您的时间和精力。
+Aspose.ZIP for .NET 是一个灵活且易于使用的 .NET API，可让您处理标准 ZIP 格式的文件压缩。它允许您实现文件和文件夹的压缩/解压，而无需了解压缩文件格式的底层复杂性，从而节省您的时间和精力。
 
 Aspose.ZIP 为您提供使用传统和 AES 加密技术对 ZIP 档案进行密码保护的功能。该 API 易于使用、功能强大，并且以托管代码编写，可用于 .NET 应用程序。
 

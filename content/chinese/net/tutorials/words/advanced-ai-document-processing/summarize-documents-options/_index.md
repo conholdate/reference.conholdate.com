@@ -78,14 +78,14 @@ summaryDoc.Save(ArtifactsDir + "SingleDocumentSummary.docx");
 
 ## 步骤 5：汇总多个文档
 
-如果您需要跨多个文档的全面摘要，此代码片段展示了如何实现它。
+如果您需要跨多个文档的全面摘要，此代码片段显示了如何实现它。
 
 ```csharp
 Document combinedSummary = model.Summarize(new Document[] { firstDoc, secondDoc }, new SummarizeOptions() { SummaryLength = SummaryLength.Long });
 combinedSummary.Save(ArtifactsDir + "MultiDocumentSummary.docx");
 ```
 
-此代码结合并总结`firstDoc`和`secondDoc`，对这两份文件的内容提供了更广泛的概述。
+此代码结合并总结`firstDoc`和`secondDoc`，对这两份文件的内容进行了更广泛的概述。
 
 ## 结论
 

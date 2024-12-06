@@ -106,7 +106,7 @@ renderer.Render(device, document);
 
 ## Következtetés
 
-És megvan! Sikeresen renderelte a HTML-t PNG-képként az Aspose.HTML használatával a .NET-ben. Ez a hatékony eszköz egyszerű módot kínál a HTML-tartalom programozott manipulálására, így a dokumentumok generálása és bemutatása minden eddiginél egyszerűbb. Akár webalkalmazásokon dolgozik, akár jelentéseket készít, ez a módszer megváltoztatja a játékot.
+És megvan! Sikeresen renderelte a HTML-t PNG-képként az Aspose.HTML használatával a .NET-ben. Ez a hatékony eszköz egyszerű módot kínál a HTML-tartalom programozott manipulálására, megkönnyítve a dokumentumok generálását és bemutatását, mint valaha. Akár webalkalmazásokon dolgozik, akár jelentéseket készít, ez a módszer megváltoztatja a játékot.
 
 ## GYIK
 

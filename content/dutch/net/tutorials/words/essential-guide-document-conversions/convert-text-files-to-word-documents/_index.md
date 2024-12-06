@@ -28,7 +28,7 @@ using Aspose.Words;
 
 ## Stap 1: Laad het tekstbestand
 
- Eerst moet u het tekstbestand in een Aspose.Words laden`Document` object. Zo doe je dat:
+Eerst moet u het tekstbestand in een Aspose.Words laden`Document` object. Zo doe je dat:
 
 ```csharp
 // Geef het pad op naar de map waar uw tekstbestand zich bevindt

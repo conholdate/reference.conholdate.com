@@ -27,7 +27,7 @@ Bắt đầu bằng cách nhập các không gian tên cần thiết:
 using System.Drawing;
 ```
 
-Điều này sẽ chuẩn bị môi trường để bạn làm việc với ảnh bitmap và đồ họa.
+Điều này sẽ chuẩn bị môi trường cho bạn làm việc với ảnh bitmap và đồ họa.
 
 ## Bước 2: Tạo Bitmap
 

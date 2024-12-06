@@ -15,7 +15,7 @@ url: /ja/net/tutorials/3d/guide-to-rendering/render-panorama-view-3d-scene/
 
 レンダリング プロセスに進む前に、次のものが準備されていることを確認してください。
 
--  Aspose.3D for .NET: まず、3D アセットの処理とレンダリングに必要なすべてのツールを提供する Aspose.3D をインストールする必要があります。[Aspose.3D for .NET をダウンロード](https://releases.aspose.com/3d/net/)始めましょう。
+- Aspose.3D for .NET: まず、3D アセットの処理とレンダリングに必要なすべてのツールを提供する Aspose.3D をインストールする必要があります。[Aspose.3D for .NET をダウンロード](https://releases.aspose.com/3d/net/)始めましょう。
 - .NET 開発環境: 完全に構成された .NET 開発環境が必要です。Visual Studio またはその他の互換性のある IDE があることを確認してください。
 - サンプル3Dシーンファイル: 次のような形式の3Dシーンを使用できます。`.glb`, `.fbx` 、 または`.obj`このチュートリアルでは、単純な「VirtualCity.glb」ファイルを使用します。
 
@@ -49,7 +49,7 @@ Scene scene = new Scene("path_to_your_scene/VirtualCity.glb");
 
 ## ステップ2: カメラとライトをセットアップする
 
-3D シーンを正しくキャプチャするには、カメラと適切な照明を設定する必要があります。カメラを使用するとシーンの視点を制御でき、照明はオブジェクトを照らすのに役立ちます。
+3D シーンを正しくキャプチャするには、カメラと適切な照明を設定する必要があります。カメラを使用するとシーンの視点を制御でき、照明を使用するとオブジェクトを照らすことができます。
 
 ```csharp
 Camera cam = new Camera(ProjectionType.Perspective)

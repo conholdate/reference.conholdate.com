@@ -397,7 +397,7 @@ Hieronder vindt u links naar nuttige bronnen die u mogelijk nodig hebt om uw tak
 
 **Welcome to the Aspose.Font for .NET**
 
-Aspose.Font is een .NET-lettertypelaad- en tekenbibliotheek. Het ondersteunt meerdere frontformaten zoals TrueType (met TrueType-verzamelingen), CFF, OpenType en Type1. De API biedt uitgebreide functionaliteit om lettertypen te laden/opslaan en informatie te verstrekken over de datastructuren, samen met alle glyphs die door alle lettertypen worden ondersteund. Het biedt ook coderingsinformatie voor alle lettertypen die een toewijzing tussen tekencodes en glyph-identifiers vertegenwoordigt. Het rendering-subsysteem helpt eindgebruikers om elke gewenste glyph of tekst te renderen. Speciale glyphs kunnen worden gerenderd door een interface te implementeren met behulp van eenvoudige grafische functionaliteit (punt verplaatsen, lijn tekenen, curve).
+Aspose.Font is een .NET-lettertypelaad- en tekenbibliotheek. Het ondersteunt meerdere frontformaten zoals TrueType (met TrueType-verzamelingen), CFF, OpenType en Type1. De API biedt uitgebreide functionaliteit om lettertypen te laden/opslaan en informatie te verstrekken over de datastructuren, samen met alle glyphs die door alle lettertypen worden ondersteund. Het biedt ook coderingsinformatie voor alle lettertypen, wat een toewijzing tussen tekencodes en glyph-identifiers vertegenwoordigt. Het rendering-subsysteem helpt eindgebruikers om elke gewenste glyph of tekst te renderen. Speciale glyphs kunnen worden gerenderd door een interface te implementeren met behulp van eenvoudige grafische functionaliteit (punt verplaatsen, lijn tekenen, curve).
 
 {{% /alert %}} 
 

@@ -15,7 +15,7 @@ Dalam hal manajemen berkas di .NET, memahami cara bekerja secara efektif dengan 
 
 Pertama-tama, mari kita bahas mengapa Anda harus mempertimbangkan untuk menggunakan Aspose.Zip. Ini bukan sekadar pustaka lain di lautan alat .NET; pustaka ini dilengkapi dengan fitur-fitur yang secara khusus memenuhi kebutuhan pengembang modern. Perlu bekerja dengan format TarGz atau TarLz? Tidak masalah! Aspose.Zip menyediakan metode yang mudah diikuti untuk mengelola file dalam format ini, memastikan bahwa Anda dapat mengemas dan membongkar data Anda secara akurat tanpa kesulitan.
 
- Boom! File Anda diekstraksi dengan sangat mudah. Mirip seperti membongkar koper yang dikemas rapi. Untuk petunjuk yang lebih rinci, jangan lupa untuk memeriksa[Panduan Lengkap TarGz dengan Aspose.Zip untuk .NET](./comprehensive-guide-to-tar-gz/). 
+Boom! File Anda diekstraksi dengan sangat mudah. Mirip seperti membongkar koper yang dikemas rapi. Untuk petunjuk yang lebih rinci, jangan lupa untuk memeriksa[Panduan Lengkap TarGz dengan Aspose.Zip untuk .NET](./comprehensive-guide-to-tar-gz/). 
 
 ## Pelajari Lebih Jauh tentang Format TarLz
 

@@ -38,7 +38,7 @@ string dataDir = "Your Document Directory";
 
 ### Adım 2: Dosyaları Sıkıştırma
 
- Şimdi, dosyaları sıkıştırmak için kodu yazalım`CpioArchive`sınıf. Aşağıda CPIO arşivinin nasıl oluşturulacağını gösteren basit bir örnek bulunmaktadır:
+ Şimdi, dosyaları sıkıştırmak için kodu yazalım`CpioArchive` sınıf. Aşağıda CPIO arşivinin nasıl oluşturulacağını gösteren basit bir örnek bulunmaktadır:
 
 ```csharp
 using (CpioArchive archive = new CpioArchive())
@@ -68,7 +68,7 @@ Tebrikler! Aspose.Zip for .NET kullanarak dosyaları başarıyla sıkıştırdı
 ## SSS
 
 ### Aspose.Zip for .NET'i ticari projelerde kullanabilir miyim?
-Evet, ticari projelerde kullanabilirsiniz. Lisans almak için şu adresi ziyaret edin:[Burada](https://purchase.conholdate.com/buy).
+ Evet, ticari projelerde kullanabilirsiniz. Lisans almak için şu adresi ziyaret edin:[Burada](https://purchase.conholdate.com/buy).
 
 ### Ücretsiz deneme imkanı var mı?
  Evet, kütüphaneyi ücretsiz denemeyle keşfedebilirsiniz[Burada](https://releases.aspose.com/).

@@ -80,7 +80,7 @@ En suivant ces étapes, vous pouvez facilement implémenter des transformations 
 ## FAQ
 
 ### Puis-je appliquer plusieurs transformations en séquence ?  
-Oui, vous pouvez enchaîner des transformations en utilisant la matrice.
+Oui, vous pouvez enchaîner les transformations en utilisant la matrice.
 
 ### Est-il adapté aux applications graphiques complexes ?  
 Absolument ! Aspose.Drawing prend en charge une large gamme d'opérations graphiques.
@@ -89,7 +89,7 @@ Absolument ! Aspose.Drawing prend en charge une large gamme d'opérations graphi
 Oui, il prend en charge la traduction, la mise à l'échelle et l'inclinaison.
 
 ### Comment gérer les exceptions ?  
- Implémenter la gestion des erreurs et consulter le[documentation](https://reference.aspose.com/drawing/net/) à titre indicatif.
+ Mettre en œuvre la gestion des erreurs et consulter le[documentation](https://reference.aspose.com/drawing/net/) à titre indicatif.
 
 ### Puis-je l'essayer avant de l'acheter ?  
  Oui, explorez un[essai gratuit](https://releases.aspose.com/).

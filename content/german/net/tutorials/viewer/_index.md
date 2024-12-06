@@ -10,6 +10,6 @@ is_root: true
 
 ## GroupDocs.Viewer für .NET-Tutorials
 ### [Fortgeschrittenes Laden von Dokumenten meistern](./advanced-document-loading/)
-Entdecken Sie die GroupDocs.Viewer-Tutorials für .NET, um erweiterte Funktionen zur Dokumentanzeige mühelos in Ihre Anwendungen zu integrieren.
+Entdecken Sie die Tutorials zu GroupDocs.Viewer für .NET, um mühelos erweiterte Funktionen zur Dokumentanzeige in Ihre Anwendungen zu integrieren.
 ### [Renderoptionen in GroupDocs.Viewer für .NET beherrschen](./mastering-render-options/)
 Schöpfen Sie das Potenzial von .NET mit den GroupDocs.Viewer-Tutorials. Lernen Sie, mühelos Dokumente zu rendern, Kommentare zu verwalten und Seiten neu anzuordnen.

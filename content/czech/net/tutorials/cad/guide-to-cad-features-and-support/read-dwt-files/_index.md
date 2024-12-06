@@ -17,7 +17,7 @@ Než se pustíme do implementace, ujistěte se, že máte připraveno následuj�
 
 -  Aspose.CAD for .NET: Stáhněte a nainstalujte knihovnu z[Aspose webové stránky](https://releases.aspose.com/cad/net/).
 - Vývojové prostředí: Nastavte vhodné vývojové prostředí .NET (např. Visual Studio).
-- Adresář dokumentů: Identifikujte cestu k vašemu souboru DWT a odpovídajícím způsobem nahraďte "Your Document Directory" ve fragmentech kódu.
+- Adresář dokumentů: Identifikujte cestu k vašemu souboru DWT a odpovídajícím způsobem nahraďte „Adresář vašich dokumentů“ ve fragmentech kódu.
 
 ## Importujte potřebné jmenné prostory
 
@@ -65,7 +65,7 @@ Nyní můžete procházet entity v souboru DWT. Přizpůsobte logiku uvnitř smy
 ```csharp
 foreach (CadBaseEntity entity in image.Entities)
 {
-    // Provádějte operace s každou entitou CAD
+    // Provádějte operace na každé entitě CAD
     ProcessEntity(entity);
 }
 ```
@@ -84,7 +84,7 @@ Aspose.CAD je navržen tak, aby podporoval širokou škálu formátů CAD, včet
 
 ### Mohu použít Aspose.CAD pro komerční projekty?
 
- Ano, Aspose.CAD je vhodný pro osobní i komerční použití. Informace o licencích naleznete na[nákupní stránku](https://purchase.conholdate.com/buy).
+ Ano, Aspose.CAD je vhodný pro osobní i komerční použití. Informace o licencích naleznete na adrese[nákupní stránku](https://purchase.conholdate.com/buy).
 
 ### Je k dispozici bezplatná zkušební verze?
 

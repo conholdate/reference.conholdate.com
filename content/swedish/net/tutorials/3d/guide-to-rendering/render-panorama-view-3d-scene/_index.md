@@ -15,9 +15,9 @@ Att skapa uppslukande 3D-scener med panoramautsikt är en spelväxlare för utve
 
 Innan du går in i renderingsprocessen, se till att du har följande på plats:
 
--  Aspose.3D för .NET: Till att börja med måste du installera Aspose.3D, som tillhandahåller alla nödvändiga verktyg för att hantera 3D-tillgångar och rendering.[Ladda ner Aspose.3D för .NET](https://releases.aspose.com/3d/net/) för att komma igång.
+- Aspose.3D för .NET: Till att börja med måste du installera Aspose.3D, som tillhandahåller alla nödvändiga verktyg för att hantera 3D-tillgångar och rendering.[Ladda ner Aspose.3D för .NET](https://releases.aspose.com/3d/net/) för att komma igång.
 - .NET-utvecklingsmiljö: En fullt konfigurerad .NET-utvecklingsmiljö krävs. Se till att du har Visual Studio eller någon annan kompatibel IDE.
-- Exempel på 3D-scenfil: Du kan använda vilken 3D-scen som helst i format som t.ex`.glb`, `.fbx` , eller`.obj`. För den här handledningen använder vi en enkel "VirtualCity.glb"-fil.
+-  Exempel på 3D-scenfil: Du kan använda vilken 3D-scen som helst i format som t.ex`.glb`, `.fbx` , eller`.obj`. För den här handledningen använder vi en enkel "VirtualCity.glb"-fil.
 
 När du har täckt dessa förutsättningar kan vi gå vidare till att ställa in scenen.
 
@@ -115,7 +115,7 @@ renderer.Execute(equirectangular, final);
 
 ## Steg 6: Spara den renderade panoraman
 
-När renderingen och efterbearbetningen är klar är det sista steget att spara det slutliga panoramaet till en bildfil, till exempel en PNG.
+När renderingen och efterbearbetningen är klar är det sista steget att spara det slutliga panoramat i en bildfil, till exempel en PNG.
 
 ```csharp
 ((ITexture2D)final.Targets[0]).Save("Your_Output_Directory/panorama.png", ImageFormat.Png);

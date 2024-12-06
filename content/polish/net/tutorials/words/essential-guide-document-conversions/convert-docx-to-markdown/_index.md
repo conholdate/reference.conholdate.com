@@ -50,7 +50,7 @@ Ta prosta linijka kodu może przekonwertować Twój dokument, zachowując istotn
 
 ## Wniosek
 
-Aspose.Words for .NET zapewnia potężny i wydajny sposób konwersji plików DOCX do formatu Markdown. Postępując zgodnie z prostymi krokami opisanymi w tym przewodniku, możesz łatwo zintegrować konwersję dokumentów ze swoimi aplikacjami, zwiększając w ten sposób przepływy pracy i możliwości przetwarzania dokumentów. Skorzystaj z wydajności, jaką Aspose.Words wnosi do Twojego zestawu narzędzi programistycznych!
+Aspose.Words dla .NET zapewnia potężny i wydajny sposób konwersji plików DOCX do formatu Markdown. Postępując zgodnie z prostymi krokami opisanymi w tym przewodniku, możesz łatwo zintegrować konwersję dokumentów ze swoimi aplikacjami, zwiększając w ten sposób przepływy pracy i możliwości przetwarzania dokumentów. Skorzystaj z wydajności, jaką Aspose.Words wnosi do Twojego zestawu narzędzi programistycznych!
 
 ## Najczęściej zadawane pytania
 

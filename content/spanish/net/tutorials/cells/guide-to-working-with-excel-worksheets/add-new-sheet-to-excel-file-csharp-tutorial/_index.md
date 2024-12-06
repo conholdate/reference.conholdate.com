@@ -11,7 +11,7 @@ url: /es/net/tutorials/cells/guide-to-working-with-excel-worksheets/add-new-shee
 
 La gestión de archivos de Excel mediante programación puede ser un punto de inflexión para la automatización de flujos de trabajo y procesamiento de datos. Una de las tareas esenciales es agregar nuevas hojas a un archivo de Excel existente o nuevo. Aspose.Cells para .NET ofrece una forma sólida y eficiente de gestionar dichas operaciones. En esta guía, explicaremos cómo agregar sin problemas una nueva hoja a un libro de Excel mediante Aspose.Cells, lo que le permitirá aprovechar al máximo esta potente biblioteca.
 
-## Requisitos previos para el éxito
+## Prerrequisitos para el éxito
 
 Antes de comenzar a codificar, confirme que tiene listos los siguientes requisitos previos:
 

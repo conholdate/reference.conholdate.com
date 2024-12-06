@@ -63,4 +63,4 @@ Vlastnosti metadat můžete upravit přístupem k příslušnému balíku dokume
 Ano, je kompatibilní s .NET Framework i .NET Core.
 
 ### Kde mohu najít podporu nebo se zeptat na otázky týkající se GroupDocs.Metadata?
- Pro podporu a komunitní diskuze navštivte[Fórum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14).
+ Pro podporu a komunitní diskuse navštivte[Fórum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14).

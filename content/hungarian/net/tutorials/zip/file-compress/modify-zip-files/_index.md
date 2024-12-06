@@ -9,7 +9,7 @@ url: /hu/net/tutorials/zip/file-compress/modify-zip-files/
 ---
 ## Bevezetés
 
-A ZIP-fájlok létfontosságúak az adatok rendezéséhez és tömörítéséhez, de hogyan módosíthatja a tartalmukat programozottan? A megoldás az Aspose.Zip for .NET-ben rejlik, amely egy robusztus könyvtár, amely leegyszerűsíti a zip-fájlok kezelését C# segítségével. Ebben az oktatóanyagban lépésről lépésre végigvezetjük a zip-fájlok kibontásán, törlésén és bejegyzések hozzáadásán.
+ZIP-fájlok létfontosságúak az adatok rendezéséhez és tömörítéséhez, de hogyan módosíthatja a tartalmukat programozottan? A megoldás az Aspose.Zip for .NET-ben rejlik, amely egy robusztus könyvtár, amely leegyszerűsíti a zip-fájlok kezelését C# segítségével. Ebben az oktatóanyagban lépésről lépésre végigvezetjük a zip-fájlok kibontásán, törlésén és bejegyzések hozzáadásán.
 
 ## Előfeltételek
 
@@ -17,7 +17,7 @@ Mielőtt belemerülnénk, győződjön meg arról, hogy rendelkezik az alábbiak
 
 1.  Aspose.Zip for .NET Library: Telepítse a könyvtárat a projektben. Letöltheti[itt](https://releases.aspose.com/zip/net/).
    
-2. Dokumentumkönyvtár: Állítson be egy könyvtárat a zip-fájlok tárolására. Cserélje ki`"Your Document Directory"` a kódban a tényleges elérési úttal.
+2.  Dokumentumkönyvtár: Állítson be egy könyvtárat a zip-fájlok tárolására. Cserélje ki`"Your Document Directory"` a kódban a tényleges elérési úttal.
 
 ## Importálja a szükséges névtereket
 
@@ -126,7 +126,7 @@ Az Aspose.Zip elsősorban .NET-alkalmazásokhoz készült, de az Aspose hasonló
  Látogassa meg a[Aspose.Zip fórum](https://forum.aspose.com/c/zip/37) támogatásért és megbeszélésekért.
 
 ### Vásárolhatok ideiglenes licencet az Aspose.Zip for .NET számára?
- Igen, kaphat ideiglenes engedélyt[itt](https://purchase.conholdate.com/temporary-license/).
+Igen, kaphat ideiglenes engedélyt[itt](https://purchase.conholdate.com/temporary-license/).
 
 ### Hol találom az Aspose.Zip for .NET dokumentációját?
  A teljes dokumentáció elérhető[itt](https://reference.aspose.com/zip/net/).

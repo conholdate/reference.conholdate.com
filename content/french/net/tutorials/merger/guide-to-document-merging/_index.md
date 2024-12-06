@@ -25,6 +25,6 @@ Et maintenant, qu'en est-il des fichiers PDF ? La fusion de fichiers PDF peut s'
 
 ## Guide des didacticiels sur la fusion de documents
 ### [Fusionner des fichiers de documents avec GroupDocs.Merger pour .NET](./merge-document-files/)
-Découvrez comment combiner de manière transparente plusieurs fichiers DOC en un seul document à l'aide de GroupDocs.Merger pour .NET. Ce didacticiel complet propose une approche claire, étape par étape, couvrant les conditions préalables, les extraits de code et les FAQ.
+Découvrez comment combiner de manière transparente plusieurs fichiers DOC en un seul document à l'aide de GroupDocs.Merger pour .NET. Ce didacticiel complet propose une approche claire, étape par étape, couvrant les prérequis, les extraits de code et les FAQ.
 ### [Fusionner des fichiers PDF avec GroupDocs.Merger pour .NET](./merge-pdf-files/)
 Découvrez comment fusionner de manière transparente plusieurs fichiers PDF dans vos applications .NET à l'aide de GroupDocs.Merger. Ce didacticiel complet fournit une approche claire et étape par étape pour combiner des fichiers PDF.

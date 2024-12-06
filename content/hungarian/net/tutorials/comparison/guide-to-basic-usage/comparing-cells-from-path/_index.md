@@ -2,7 +2,7 @@
 title: Cellák összehasonlítása az útvonalból – GroupDocs.Comparison for .NET
 linktitle: Cellák összehasonlítása az elérési útból – GroupDocs.Comparison for .NET
 second_title: GroupDocs.Comparison .NET API
-description: Ez az oktatóanyag lépésről lépésre végigvezeti az Excel-cellatartalom összehasonlításának folyamatán, lehetővé téve a fejlesztők számára, hogy hatékonyan azonosítsák a dokumentumok közötti különbségeket és hasonlóságokat.
+description: Ez az oktatóanyag lépésről lépésre végigvezeti az Excel-cellatartalom összehasonlításának folyamatán, lehetővé téve a fejlesztőknek, hogy hatékonyan azonosítsák a dokumentumok közötti különbségeket és hasonlóságokat.
 type: docs
 weight: 10
 url: /hu/net/tutorials/comparison/guide-to-basic-usage/comparing-cells-from-path/

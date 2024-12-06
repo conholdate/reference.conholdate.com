@@ -15,7 +15,7 @@ Stellen Sie sich vor, Sie entwickeln eine Anwendung, die täglich Tausende von D
 
 ## TAR-Dateien mit GroupDocs.Merger zusammenführen
 
- Eine Herausforderung, der sich Entwickler oft stellen müssen, ist das Zusammenführen von TAR-Dateien, die häufig zum Archivieren mehrerer Dateien in einer einzigen verwendet werden. Mit GroupDocs.Merger wird dieser Prozess unkompliziert. Das Tutorial zu[Tar-Dateien mit GroupDocs.Merger für .NET zusammenführen](./merge-tar-files/) bietet eine Schritt-für-Schritt-Anleitung, die Sie vom Einrichten der Bibliothek bis zur Ausführung Ihrer ersten Zusammenführung führt. Sie finden Codeausschnitte, die jeden Teil des Prozesses veranschaulichen, sodass Sie ihn problemlos in Ihren eigenen Projekten replizieren können. Am Ende des Tutorials sind Sie gut gerüstet, um TAR-Dateien effizient zu verwalten und zusammenzuführen.
+ Eine Herausforderung, der sich Entwickler oft stellen müssen, ist das Zusammenführen von TAR-Dateien, die häufig zum Archivieren mehrerer Dateien in einer einzigen verwendet werden. Mit GroupDocs.Merger wird dieser Prozess unkompliziert. Das Tutorial zu[Tar-Dateien mit GroupDocs.Merger für .NET zusammenführen](./merge-tar-files/) bietet eine Schritt-für-Schritt-Anleitung, die Sie vom Einrichten der Bibliothek bis zum Ausführen Ihrer ersten Zusammenführung führt. Sie finden Codeausschnitte, die jeden Teil des Prozesses veranschaulichen, sodass Sie ihn problemlos in Ihren eigenen Projekten replizieren können. Am Ende des Tutorials sind Sie gut gerüstet, um TAR-Dateien effizient zu verwalten und zusammenzuführen.
 
 ## ZIP-Dateien mit GroupDocs.Merger zusammenführen
 

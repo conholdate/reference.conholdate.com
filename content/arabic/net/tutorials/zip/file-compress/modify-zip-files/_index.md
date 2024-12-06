@@ -17,7 +17,7 @@ url: /ar/net/tutorials/zip/file-compress/modify-zip-files/
 
 1.  Aspose.Zip for .NET Library: قم بتثبيت المكتبة في مشروعك. يمكنك تنزيلها[هنا](https://releases.aspose.com/zip/net/).
    
-2. دليل المستندات: قم بإعداد دليل لتخزين ملفات zip الخاصة بك. استبدل`"Your Document Directory"` في الكود مع المسار الفعلي الخاص بك.
+2.  دليل المستندات: قم بإعداد دليل لتخزين ملفات zip الخاصة بك. استبدل`"Your Document Directory"` في الكود مع المسار الفعلي الخاص بك.
 
 ## استيراد المساحات الاسمية الضرورية
 
@@ -126,7 +126,7 @@ outer.Save(dataDir + "flatten.zip");
  قم بزيارة[منتدى Aspose.Zip](https://forum.aspose.com/c/zip/37) للدعم والمناقشات.
 
 ### هل يمكنني شراء ترخيص مؤقت لـ Aspose.Zip لـ .NET؟
- نعم يمكنك الحصول على ترخيص مؤقت[هنا](https://purchase.conholdate.com/temporary-license/).
+نعم يمكنك الحصول على ترخيص مؤقت[هنا](https://purchase.conholdate.com/temporary-license/).
 
 ### أين يمكنني العثور على الوثائق الخاصة بـ Aspose.Zip لـ .NET؟
  الوثائق الكاملة متاحة[هنا](https://reference.aspose.com/zip/net/).

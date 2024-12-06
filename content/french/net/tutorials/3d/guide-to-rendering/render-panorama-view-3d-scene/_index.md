@@ -15,9 +15,9 @@ La création de scènes 3D panoramiques immersives est une véritable révolutio
 
 Avant de vous lancer dans le processus de rendu, assurez-vous que les éléments suivants sont en place :
 
--  Aspose.3D pour .NET : Pour commencer, vous devez installer Aspose.3D, qui fournit tous les outils nécessaires à la gestion des ressources 3D et au rendu.[Télécharger Aspose.3D pour .NET](https://releases.aspose.com/3d/net/) pour commencer.
+- Aspose.3D pour .NET : Pour commencer, vous devez installer Aspose.3D, qui fournit tous les outils nécessaires à la gestion des ressources 3D et au rendu.[Télécharger Aspose.3D pour .NET](https://releases.aspose.com/3d/net/) pour commencer.
 - Environnement de développement .NET : un environnement de développement .NET entièrement configuré est requis. Assurez-vous de disposer de Visual Studio ou de tout autre IDE compatible.
-- Exemple de fichier de scène 3D : vous pouvez utiliser n'importe quelle scène 3D dans des formats tels que`.glb`, `.fbx` , ou`.obj`Pour ce tutoriel, nous utiliserons un simple fichier « VirtualCity.glb ».
+-  Exemple de fichier de scène 3D : vous pouvez utiliser n'importe quelle scène 3D dans des formats tels que`.glb`, `.fbx` , ou`.obj`Pour ce tutoriel, nous utiliserons un simple fichier « VirtualCity.glb ».
 
 Une fois ces prérequis couverts, nous pouvons passer à la configuration de la scène.
 

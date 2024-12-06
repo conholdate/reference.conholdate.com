@@ -15,9 +15,9 @@ Das Erstellen immersiver, panoramischer 3D-Szenen ist ein Wendepunkt für Entwic
 
 Stellen Sie vor dem Eintauchen in den Rendering-Prozess sicher, dass Folgendes vorhanden ist:
 
--  Aspose.3D für .NET: Zunächst müssen Sie Aspose.3D installieren, das alle erforderlichen Tools für die Handhabung von 3D-Assets und das Rendering bereitstellt.[Laden Sie Aspose.3D für .NET herunter](https://releases.aspose.com/3d/net/) um loszulegen.
+- Aspose.3D für .NET: Zunächst müssen Sie Aspose.3D installieren, das alle erforderlichen Tools für die Handhabung von 3D-Assets und das Rendering bereitstellt.[Laden Sie Aspose.3D für .NET herunter](https://releases.aspose.com/3d/net/) um loszulegen.
 - .NET-Entwicklungsumgebung: Eine vollständig konfigurierte .NET-Entwicklungsumgebung ist erforderlich. Stellen Sie sicher, dass Sie Visual Studio oder eine andere kompatible IDE haben.
-- Beispieldatei für 3D-Szene: Sie können jede 3D-Szene in Formaten wie`.glb`, `.fbx` , oder`.obj`. Für dieses Tutorial verwenden wir eine einfache „VirtualCity.glb“-Datei.
+-  Beispieldatei für 3D-Szene: Sie können jede 3D-Szene in Formaten wie`.glb`, `.fbx` , oder`.obj`. Für dieses Tutorial verwenden wir eine einfache „VirtualCity.glb“-Datei.
 
 Sobald Sie diese Voraussetzungen erfüllt haben, können wir mit dem Einrichten der Szene fortfahren.
 

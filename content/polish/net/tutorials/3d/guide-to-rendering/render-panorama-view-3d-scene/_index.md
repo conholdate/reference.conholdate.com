@@ -15,9 +15,9 @@ Tworzenie wciągających, panoramicznych scen 3D to przełom dla deweloperów, k
 
 Zanim rozpoczniesz proces renderowania, upewnij się, że masz następujące elementy:
 
--  Aspose.3D dla .NET: Na początek musisz zainstalować Aspose.3D, który udostępnia wszystkie niezbędne narzędzia do obsługi zasobów 3D i renderowania.[Pobierz Aspose.3D dla .NET](https://releases.aspose.com/3d/net/) aby zacząć.
+- Aspose.3D dla .NET: Na początek musisz zainstalować Aspose.3D, który udostępnia wszystkie niezbędne narzędzia do obsługi zasobów 3D i renderowania.[Pobierz Aspose.3D dla .NET](https://releases.aspose.com/3d/net/) aby zacząć.
 - Środowisko programistyczne .NET: Wymagane jest w pełni skonfigurowane środowisko programistyczne .NET. Upewnij się, że masz Visual Studio lub inne zgodne IDE.
-- Przykładowy plik sceny 3D: Możesz użyć dowolnej sceny 3D w formatach takich jak:`.glb`, `.fbx` , Lub`.obj`. W tym samouczku użyjemy prostego pliku „VirtualCity.glb”.
+-  Przykładowy plik sceny 3D: Możesz użyć dowolnej sceny 3D w formatach takich jak:`.glb`, `.fbx` , Lub`.obj`. W tym samouczku użyjemy prostego pliku „VirtualCity.glb”.
 
 Gdy już spełnimy te wymagania wstępne, możemy przejść do przygotowania sceny.
 
@@ -103,7 +103,7 @@ renderer.Render(rt);
 
 ## Krok 5: Zastosuj postprocessing do projekcji ekwirektangularnej
 
-W tym momencie musimy zastosować post-processing, aby przekształcić mapę sześcienną w panoramiczny widok równokątny. Ta transformacja zapewnia, że końcowy obraz będzie właściwą panoramą.
+tym momencie musimy zastosować post-processing, aby przekształcić mapę sześcienną w panoramiczny widok równokątny. Ta transformacja zapewnia, że końcowy obraz będzie właściwą panoramą.
 
 ```csharp
 PostProcessing equirectangular = renderer.GetPostProcessing("equirectangular");

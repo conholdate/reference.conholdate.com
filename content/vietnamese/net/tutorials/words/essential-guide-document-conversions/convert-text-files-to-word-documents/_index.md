@@ -28,7 +28,7 @@ using Aspose.Words;
 
 ## Bước 1: Tải tệp văn bản
 
- Đầu tiên, bạn cần tải tệp văn bản vào Aspose.Words`Document` đối tượng. Đây là cách thực hiện:
+Đầu tiên, bạn cần tải tệp văn bản vào Aspose.Words`Document` đối tượng. Đây là cách thực hiện:
 
 ```csharp
 // Chỉ định đường dẫn thư mục nơi tệp văn bản của bạn được đặt

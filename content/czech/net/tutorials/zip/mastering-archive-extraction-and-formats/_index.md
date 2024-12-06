@@ -15,7 +15,7 @@ Pokud jde o správu souborů v .NET, je důležité pochopit, jak efektivně pra
 
 Nejprve si promluvme o tom, proč byste měli zvážit použití Aspose.Zip. Není to jen další knihovna v moři nástrojů .NET; je nabitý funkcemi, které uspokojí potřeby moderních vývojářů. Potřebujete pracovat s formáty TarGz nebo TarLz? Žádný problém! Aspose.Zip poskytuje snadno použitelné metody pro správu souborů v těchto formátech a zajišťuje, že můžete svá data přesně zabalit a rozbalit, aniž byste se museli zapotit.
 
- Výložník! Vaše soubory jsou extrahovány s minimálním zmatkem. Je to jako rozmotávání úhledně zabaleného kufru. Pro podrobnější pokyny se nezapomeňte podívat na naše[Komplexní průvodce TarGz s Aspose.Zip pro .NET](./comprehensive-guide-to-tar-gz/). 
+Výložník! Vaše soubory jsou extrahovány s minimálním zmatkem. Je to jako rozmotávání úhledně zabaleného kufru. Pro podrobnější pokyny se nezapomeňte podívat na naše[Komplexní průvodce TarGz s Aspose.Zip pro .NET](./comprehensive-guide-to-tar-gz/). 
 
 ## Ponořte se hlouběji do formátu TarLz
 

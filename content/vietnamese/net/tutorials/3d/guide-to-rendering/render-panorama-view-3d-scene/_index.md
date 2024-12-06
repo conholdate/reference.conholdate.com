@@ -15,9 +15,9 @@ Tạo các cảnh 3D toàn cảnh, đắm chìm là một bước ngoặt đối
 
 Trước khi bắt đầu quá trình kết xuất, hãy đảm bảo rằng bạn đã chuẩn bị những điều sau:
 
--  Aspose.3D cho .NET: Để bắt đầu, bạn cần cài đặt Aspose.3D, cung cấp tất cả các công cụ cần thiết để xử lý nội dung 3D và kết xuất.[Tải xuống Aspose.3D cho .NET](https://releases.aspose.com/3d/net/) để bắt đầu.
+- Aspose.3D cho .NET: Để bắt đầu, bạn cần cài đặt Aspose.3D, cung cấp tất cả các công cụ cần thiết để xử lý nội dung 3D và kết xuất.[Tải xuống Aspose.3D cho .NET](https://releases.aspose.com/3d/net/) để bắt đầu.
 - Môi trường phát triển .NET: Yêu cầu môi trường phát triển .NET được cấu hình đầy đủ. Đảm bảo bạn có Visual Studio hoặc bất kỳ IDE tương thích nào khác.
-- Tệp cảnh 3D mẫu: Bạn có thể sử dụng bất kỳ cảnh 3D nào ở các định dạng như`.glb`, `.fbx` , hoặc`.obj`. Đối với hướng dẫn này, chúng tôi sẽ sử dụng tệp "VirtualCity.glb" đơn giản.
+-  Tệp cảnh 3D mẫu: Bạn có thể sử dụng bất kỳ cảnh 3D nào ở các định dạng như`.glb`, `.fbx` , hoặc`.obj`. Đối với hướng dẫn này, chúng tôi sẽ sử dụng tệp "VirtualCity.glb" đơn giản.
 
 Khi bạn đã đáp ứng được những điều kiện tiên quyết này, chúng ta có thể chuyển sang thiết lập bối cảnh.
 

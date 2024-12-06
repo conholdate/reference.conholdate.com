@@ -34,7 +34,7 @@ using Aspose.Zip.Tar;
 string dataDir = "YourDocumentDirectoryPath"; // Thay thế bằng đường dẫn thực tế của bạn
 ```
 
- Đảm bảo bạn thay thế`"YourDocumentDirectoryPath"`với đường dẫn thực tế nơi chứa các tệp của bạn để mã hoạt động chính xác.
+ Đảm bảo bạn thay thế`"YourDocumentDirectoryPath"` với đường dẫn thực tế nơi chứa các tệp của bạn để mã hoạt động chính xác.
 
 ## Bước 2: Nén một tệp duy nhất
 
@@ -68,7 +68,7 @@ using (TarArchive archive = new TarArchive())
 //ExEnd: Nén Nhiều Tệp
 ```
 
- Bước này tuân theo cấu trúc tương tự như bước trước.`CreateEntry` phương pháp này có thể được gọi nhiều lần để thêm các tệp bổ sung vào kho lưu trữ.
+ Bước này tuân theo cấu trúc tương tự như bước trước.`CreateEntry`phương pháp này có thể được gọi nhiều lần để thêm các tệp bổ sung vào kho lưu trữ.
 
 ## Phần kết luận
 
@@ -89,4 +89,4 @@ Có, mã này tương thích với phiên bản mới nhất. Luôn đảm bảo
 Có, thư viện có thể được sử dụng cho cả dự án thương mại và cá nhân, tùy thuộc vào điều kiện cấp phép.
 
 ### Tôi có thể tìm sự hỗ trợ ở đâu nếu gặp vấn đề?
- Để được hỗ trợ, hãy truy cập[Diễn đàn Aspose.Zip](https://forum.aspose.com/c/zip/37), nơi bạn có thể đăng câu hỏi và tìm lời khuyên khắc phục sự cố từ cộng đồng.
+ Để được hỗ trợ, hãy truy cập[Diễn đàn Aspose.Zip](https://forum.aspose.com/c/zip/37)nơi bạn có thể đăng câu hỏi và tìm lời khuyên khắc phục sự cố từ cộng đồng.

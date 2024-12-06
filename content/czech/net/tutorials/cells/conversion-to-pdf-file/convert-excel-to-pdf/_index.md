@@ -87,7 +87,7 @@ Console.WriteLine("Excel to PDF conversion completed successfully.");
 
 ## Závěr
 
-S Aspose.Cells for .NET se převod tabulek Excelu na dokumenty PDF stává efektivním procesem, který umožňuje vývojářům udržovat kvalitu a integritu svých dat. Aspose.Cells je robustní knihovna, která nabízí rozsáhlé možnosti přizpůsobení a umožňuje vývojářům vytvářet dokumenty PDF na míru, které splňují přesné obchodní potřeby.
+S Aspose.Cells for .NET se převod tabulek Excelu na dokumenty PDF stává efektivním procesem, který umožňuje vývojářům udržovat kvalitu a integritu svých dat. Aspose.Cells je robustní knihovna, která nabízí rozsáhlé možnosti přizpůsobení a umožňuje vývojářům vytvářet přizpůsobené dokumenty PDF, které přesně splňují obchodní potřeby.
 
 ## FAQ
 

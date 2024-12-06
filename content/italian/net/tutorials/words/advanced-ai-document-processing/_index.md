@@ -17,7 +17,7 @@ Nel regno dell'elaborazione dei documenti, Aspose.Words per .NET si distingue co
 
 ## Migliora il tuo gioco con Google AI
 
- Successivamente, approfondiamo l'argomento[Padroneggiare la sintesi dei documenti con i modelli di intelligenza artificiale di Google](./mastering-document-summarization-google-ai-model/)tutorial. Ecco la parte entusiasmante: quando combini le potenti capacità di intelligenza artificiale di Google con Aspose.Words, sblocchi un nuovo livello di efficienza. Questo tutorial ti insegna come sfruttare l'intelligenza artificiale di Google per generare riepiloghi concisi in pochissimo tempo. Immagina di avere un lungo report a portata di mano e, con pochi clic, ricevi un riepilogo che ti consente di concentrarti sul prendere decisioni informate anziché dover scorrere pagine di testo. È un approccio trasformativo per i professionisti impegnati che apprezzano il loro tempo.
+ Successivamente, approfondiamo l'argomento[Padroneggiare la sintesi dei documenti con i modelli di intelligenza artificiale di Google](./mastering-document-summarization-google-ai-model/)tutorial. Ecco la parte entusiasmante: quando combini le potenti capacità di intelligenza artificiale di Google con Aspose.Words, sblocchi un nuovo livello di efficienza. Questo tutorial ti insegna come sfruttare l'intelligenza artificiale di Google per generare riepiloghi concisi in pochissimo tempo. Immagina di avere un lungo report a portata di mano e, con pochi clic, ricevi un riepilogo che ti consente di concentrarti sul prendere decisioni informate anziché scorrere pagine di testo. È un approccio trasformativo per professionisti impegnati che apprezzano il loro tempo.
 
 ## OpenAI per la sintesi dei documenti
 

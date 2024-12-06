@@ -112,7 +112,7 @@ Ebben az átfogó útmutatóban felfedezte, hogyan szabadíthatja fel az Aspose.
 Igen! Beállíthatja, hogy a JavaScript meghatározott triggereken fusson, mint például a dokumentum megnyitása vagy egy gombra kattintás.
 
 ### Szerkeszthetem a JavaScriptet, miután hozzáadta a PDF-hez?
-Igen, betölthet egy meglévő PDF-et, hozzáférhet annak JavaScript-kódjához, módosíthatja a kódot, és újra mentheti a dokumentumot.
+Igen, betölthet egy meglévő PDF-et, hozzáférhet a JavaScripthez, módosíthatja a kódot, és újra mentheti a dokumentumot.
 
 ### A JavaScript eltávolítása hatással van a PDF-tartalom többi részére?
 Nem, a JavaScript eltávolítása csak a szkriptet érinti. A PDF tartalma változatlan marad.

@@ -107,7 +107,7 @@ Aspose.3D unterstützt hauptsächlich .NET, es sind aber Versionen für Java und
 
 ### Wo finde ich Unterstützung für Aspose.3D für .NET?
 
- Für Community-Support besuchen Sie die[Aspose.3D Forum](https://forum.aspose.com/c/3d/18).
+Für Community-Support besuchen Sie die[Aspose.3D Forum](https://forum.aspose.com/c/3d/18).
 
 ### Wie kann ich eine vorläufige Lizenz erhalten?
 

@@ -41,7 +41,7 @@ string dataDir = "Your Document Directory";
 
 ### 3. lépés: Nyissa meg a PDF- és XPS-folyamokat
 
-Ezután inicializálja a bemeneti XPS-fájl és a kimeneti PDF-fájl adatfolyamait:
+Ezután inicializálja a folyamokat mind a bemeneti XPS-, mind a kimeneti PDF-fájlhoz:
 
 ```csharp
 using (System.IO.Stream pdfStream = System.IO.File.Open(dataDir + "XPStoPDF_out.pdf", System.IO.FileMode.OpenOrCreate, System.IO.FileAccess.Write))

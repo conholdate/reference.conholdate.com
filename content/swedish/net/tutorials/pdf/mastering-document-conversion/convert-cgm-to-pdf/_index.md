@@ -1,7 +1,7 @@
 ---
 title: CGM till PDF-konvertering med Aspose.PDF för .NET
 linktitle: CGM till PDF-konvertering med Aspose.PDF för .NET
-second_title: Aspose.PDF för .NET API-referens
+second_title: Aspose.PDF för .NET API Referens
 description: Upptäck hur du enkelt konverterar CGM-filer (Computer Graphics Metafile) till PDF-format med Aspose.PDF för .NET. Perfekt för både utvecklare och designers.
 type: docs
 weight: 20

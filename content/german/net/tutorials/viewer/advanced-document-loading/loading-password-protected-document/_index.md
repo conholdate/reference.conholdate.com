@@ -9,7 +9,7 @@ url: /de/net/tutorials/viewer/advanced-document-loading/loading-password-protect
 ---
 ## Einführung
 
-In der digitalen Landschaft ist die Fähigkeit, verschiedene Dokumentformate zu verwalten und anzuzeigen, für Unternehmen und Einzelpersonen von entscheidender Bedeutung. GroupDocs.Viewer für .NET bietet Entwicklern eine robuste Lösung, um Dokumentanzeigefunktionen mühelos in ihre Anwendungen zu integrieren. Dieses Tutorial führt Sie Schritt für Schritt durch den Prozess des Ladens passwortgeschützter Dokumente und stellt sicher, dass Sie diese Funktion nahtlos in Ihre Projekte implementieren können.
+In der digitalen Landschaft ist die Fähigkeit, verschiedene Dokumentformate zu verwalten und anzuzeigen, für Unternehmen und Einzelpersonen von entscheidender Bedeutung. GroupDocs.Viewer für .NET bietet Entwicklern eine robuste Lösung, um Dokumentanzeigefunktionen mühelos in ihre Anwendungen zu integrieren. Dieses Tutorial führt Sie Schritt für Schritt durch den Prozess des Ladens kennwortgeschützter Dokumente und stellt sicher, dass Sie diese Funktion nahtlos in Ihre Projekte implementieren können.
 
 ## Voraussetzungen
 
@@ -54,7 +54,7 @@ Richten Sie die Ladeoptionen für Ihr passwortgeschütztes Dokument ein, einschl
 ```csharp
 LoadOptions loadOptions = new LoadOptions
 {
-    Password = "12345"  // Ersetzen Sie es durch das Passwort Ihres Dokuments.
+    Password = "12345"  // Ersetzen Sie durch das Passwort Ihres Dokuments.
 };
 ```
 

@@ -29,6 +29,6 @@ Het proces omvat het instellen van uw 3D-omgeving, het configureren van de camer
 
 ## Handleiding voor rendering-tutorials
 ### [Render 3D-modelleringsafbeelding met Aspose.3D voor .NET](./render-3d-modeling-image/)
-Leer hoe u primitieve 3D-modellen, waaronder dozen en cilinders, kunt maken en aanpassen en ze moeiteloos in FBX-formaat kunt opslaan. Of u nu een beginner of een ervaren ontwikkelaar bent, deze stapsgewijze tutorial.
+Leer hoe u primitieve 3D-modellen, waaronder dozen en cilinders, kunt maken en aanpassen en ze moeiteloos kunt opslaan in FBX-formaat. Of u nu een beginner of een ervaren ontwikkelaar bent, deze stapsgewijze tutorial.
 ### [Render een panoramaweergave van een 3D-scène met Aspose.3D voor .NET](./render-panorama-view-3d-scene/)
 Leer hoe u een verbluffend panoramisch beeld van een 3D-scène in uw .NET-toepassingen kunt renderen met Aspose.3D. Volg onze stapsgewijze handleiding voor meeslepende scènerendering.

@@ -107,7 +107,7 @@ Aspose.3D obsługuje głównie platformę .NET, ale dostępne są wersje dla Jav
 
 ### Gdzie mogę znaleźć pomoc techniczną dotyczącą Aspose.3D dla .NET?
 
- Aby uzyskać wsparcie społeczności, odwiedź stronę[Forum Aspose.3D](https://forum.aspose.com/c/3d/18).
+Aby uzyskać wsparcie społeczności, odwiedź stronę[Forum Aspose.3D](https://forum.aspose.com/c/3d/18).
 
 ### Jak mogę uzyskać tymczasową licencję?
 

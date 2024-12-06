@@ -17,7 +17,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants à disposition�
 
 1.  GroupDocs.Comparison pour la bibliothèque .NET : téléchargez et installez la bibliothèque à partir de[ce lien](https://releases.groupdocs.com/comparison/net/).
 2. Environnement de développement : assurez-vous que Visual Studio ou un autre outil de développement .NET est installé.
-3. Fichiers de documents : préparez vos fichiers de cellules source et cible (par exemple, des documents Excel) pour la comparaison.
+3. Fichiers de documents : préparez vos fichiers de cellules source et cible (par exemple, des documents Excel) pour comparaison.
 4. Connaissances de base de C# : Une familiarité avec le langage de programmation C# est recommandée pour une navigation fluide dans le code.
 
 ## Étape 1 : Importer les espaces de noms nécessaires

@@ -66,7 +66,7 @@ Esta configuración garantiza que las imágenes y otros recursos se manejen corr
 Document pdfDocument = new Document(dataDir + "HTMLToPDF.html", options);
 ```
 
-## Paso 4: Guardar el documento PDF
+## Paso 4: Guarde el documento PDF
 
 Por último, guarde el documento convertido como archivo PDF:
 

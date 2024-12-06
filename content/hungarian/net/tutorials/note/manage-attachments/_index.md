@@ -20,11 +20,11 @@ A kezdéshez be kell töltenie a módosítani kívánt OneNote-dokumentumot, és
 ## Egyéni ikonok beállítása a mellékletekhez  
 Az Aspose.Note for .NET egyik kiemelkedő funkciója az, hogy egyéni ikonokat állíthat be a mellékletekhez. Az ikonok beállítása személyre szabott és szervezettebb réteget ad OneNote-oldalaihoz. Az alapértelmezett ikonok használata helyett lecserélheti őket valami intuitívabbra vagy értelmesebbre az adott használati esetnek megfelelően.
 
-Például, ha projektdokumentumokat kezel, egyéni ikonokat használhat a különböző fájltípusok vagy állapotok megjelenítésére. Az Aspose.Note for .NET segítségével az ikon beállítása olyan egyszerű, mint a kép elérési útjának megadása és a melléklettel való összekapcsolása. Így minden alkalommal, amikor megtekinti a dokumentumot, az ikon megjelenik a melléklet mellett, így azonnal felismerhetővé válik.
+Például, ha projektdokumentumokat kezel, egyéni ikonokat használhat a különböző fájltípusok vagy állapotok megjelenítésére. Az Aspose.Note for .NET segítségével az ikon beállítása olyan egyszerű, mint a kép elérési útjának megadása és a melléklettel való összekapcsolása. Így minden alkalommal, amikor megnézi a dokumentumot, az ikon megjelenik a melléklet mellett, így azonnal felismerhető.
 [Útmutató a OneNote-dokumentumok fájl csatolásához az Aspose.Note segítségével](./attach-file-in-one-note-documents/)
 
 ## Mellékletek kezelése oktatóanyagok
 ### [Fájlok csatolása és ikonok beállítása az Aspose.Note for .NET programban](./attaching-files-setting-icons/)
-Ismerje meg lépésről lépésre, hogyan csatolhat fájlokat és állíthat be egyéni ikonokat a Microsoft OneNote dokumentumokban az Aspose.Note for .NET segítségével. Bővítse .NET-alkalmazását zökkenőmentes dokumentumkezelési és testreszabási funkciókkal.
+Ismerje meg lépésről lépésre, hogyan csatolhat fájlokat és állíthat be egyéni ikonokat a Microsoft OneNote dokumentumokban az Aspose.Note for .NET használatával. Bővítse .NET-alkalmazását zökkenőmentes dokumentumkezelési és testreszabási funkciókkal.
 ### [Útmutató a OneNote-dokumentumok fájl csatolásához az Aspose.Note segítségével](./attach-file-in-one-note-documents/)
 Ez az átfogó útmutató végigvezeti a fájlok OneNote-dokumentumokhoz való programozott csatolásának folyamatán, lehetővé téve a jegyzetelési és dokumentumkezelési feladatok emelését. Világos, lépésenkénti utasításokkal és hasznos GYIK-ekkel.

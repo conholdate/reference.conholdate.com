@@ -82,7 +82,7 @@ using (SmtpClient client = new SmtpClient())
 
 ## Conclusion
 
-Félicitations ! Vous avez converti avec succès un document DOCX en MHTML et l'avez envoyé par courrier électronique à l'aide d'Aspose.Words et d'Aspose.Email pour .NET. Ce processus consiste à charger le document, à le convertir en MHTML, à créer un message électronique et à l'envoyer via un client SMTP. Grâce à ces étapes, vous pouvez automatiser la conversion et l'envoi par courrier électronique de documents de manière transparente dans vos applications.
+Félicitations ! Vous avez converti avec succès un document DOCX en MHTML et l'avez envoyé par courrier électronique à l'aide d'Aspose.Words et d'Aspose.Email pour .NET. Ce processus implique le chargement du document, sa conversion en MHTML, la création d'un message électronique et son envoi via un client SMTP. Grâce à ces étapes, vous pouvez automatiser la conversion et l'envoi par courrier électronique de documents de manière transparente dans vos applications.
 
 ## FAQ
 

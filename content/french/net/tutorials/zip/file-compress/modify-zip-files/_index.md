@@ -17,7 +17,7 @@ Avant de commencer, assurez-vous de disposer des éléments suivants :
 
 1.  Bibliothèque Aspose.Zip pour .NET : installez la bibliothèque dans votre projet. Vous pouvez la télécharger[ici](https://releases.aspose.com/zip/net/).
    
-2. Répertoire de documents : créez un répertoire pour stocker vos fichiers zip. Remplacer`"Your Document Directory"` dans le code avec votre chemin réel.
+2.  Répertoire de documents : créez un répertoire pour stocker vos fichiers zip. Remplacer`"Your Document Directory"` dans le code avec votre chemin réel.
 
 ## Importer les espaces de noms nécessaires
 
@@ -126,7 +126,7 @@ Aspose.Zip est principalement conçu pour les applications .NET, mais Aspose pro
  Visitez le[Forum Aspose.Zip](https://forum.aspose.com/c/zip/37) pour du soutien et des discussions.
 
 ### Puis-je acheter une licence temporaire pour Aspose.Zip pour .NET ?
- Oui, vous pouvez obtenir un permis temporaire[ici](https://purchase.conholdate.com/temporary-license/).
+Oui, vous pouvez obtenir un permis temporaire[ici](https://purchase.conholdate.com/temporary-license/).
 
 ### Où puis-je trouver la documentation d'Aspose.Zip pour .NET ?
  La documentation complète est disponible[ici](https://reference.aspose.com/zip/net/).

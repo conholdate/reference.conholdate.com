@@ -319,7 +319,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to the Aspose.OMR for .NET** 
 
-Az Aspose.OMR for .NET egy olyan API, amely felismeri az OMR digitalizált lapképeiből származó optikai jeleket. Használható optikai jelek felismerésére különféle képformátumokban, például BMP, JPG, TIF, TIFF, GIF. Az API lehetővé teszi az ember által megjelölt adatok rögzítését dokumentum-űrlapokból, például felmérésekből, kérdőívekből, feleletválasztós vizsgadolgozatokból és egyéb tesztekből. Ezzel a megoldással nagy pontossággal lehet felismerni a beszkennelt képeket, sőt fényképeket is. A felismerés egy sablonjelölésen alapul, amely a beolvasott képekből felismerendő elemek grafikus leképezését tartalmazza.
+Az Aspose.OMR for .NET egy olyan API, amely felismeri az OMR digitalizált lapképeiből származó optikai jeleket. Használható optikai jelek felismerésére különféle képformátumokban, például BMP, JPG, TIF, TIFF, GIF. Az API lehetővé teszi az ember által megjelölt adatok rögzítését dokumentum-űrlapokból, például felmérésekből, kérdőívekből, feleletválasztós vizsgadolgozatokból és egyéb tesztekből. Ezzel a megoldással nagy pontossággal lehet felismerni a beszkennelt képeket, sőt fotókat is. A felismerés egy sablonjelölésen alapul, amely a beolvasott képekből felismerendő elemek grafikus leképezését tartalmazza.
 
 {{% /alert %}} 
 
@@ -351,7 +351,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to Aspose.SVG for .NET**
 
-Az Aspose.SVG for .NET API-t úgy tervezték, hogy az SVG-dokumentumok feldolgozásához és megjelenítéséhez a szolgáltatások széles skáláját biztosítsa. A Document Object Model (DOM) teljes mértékben kompatibilis a hivatalos SVG specifikációkkal, lehetővé téve az SVG csomópontok és tulajdonságaik teljes ellenőrzését. Könnyedén módosíthatja a dokumentumfát, hozzáadhat és eltávolíthat csomópontokat, módosíthatja a csomópont tulajdonságait, alkalmazhat szűrőket és szkripteket a hivatalos specifikációkban leírtak szerint. Az API lehetővé teszi az SVG-dokumentumok PDF és népszerű képformátumok, például BMP, PNG, JPEG és GIF formátumú konvertálását.
+Az Aspose.SVG for .NET API-t úgy tervezték, hogy az SVG-dokumentumok feldolgozásához és megjelenítéséhez a szolgáltatások széles skáláját biztosítsa. A Document Object Model (DOM) teljes mértékben kompatibilis a hivatalos SVG specifikációkkal, lehetővé téve az SVG csomópontok és tulajdonságaik teljes ellenőrzését. Könnyedén módosíthatja a dokumentumfát, hozzáadhat és eltávolíthat csomópontokat, módosíthatja a csomópont tulajdonságait, alkalmazhat szűrőket és szkripteket a hivatalos specifikációkban leírtak szerint. Az API lehetővé teszi, hogy SVG-dokumentumát PDF-be és olyan népszerű képformátumokká konvertálja, mint a BMP, PNG, JPEG és GIF.
 
 {{% /alert %}} 
 

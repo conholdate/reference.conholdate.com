@@ -108,7 +108,7 @@ Una volta completate le modifiche, è il momento di salvare la cartella di lavor
 workbook.Save(dataDir + "output.out.xls");
 ```
 
- Qui salviamo la cartella di lavoro come`output.out.xls`Puoi scegliere qualsiasi nome tu preferisca.
+ Qui salviamo la cartella di lavoro come`output.out.xls`Puoi scegliere il nome che preferisci.
 
 ## Passaggio 8: chiudere il flusso di file
 

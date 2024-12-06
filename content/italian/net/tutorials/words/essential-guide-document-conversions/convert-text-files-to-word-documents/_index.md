@@ -28,7 +28,7 @@ using Aspose.Words;
 
 ## Passaggio 1: caricare il file di testo
 
- Per prima cosa, devi caricare il file di testo in un Aspose.Words`Document` oggetto. Ecco come:
+Per prima cosa, devi caricare il file di testo in un Aspose.Words`Document` oggetto. Ecco come:
 
 ```csharp
 // Specificare il percorso della directory in cui si trova il file di testo
@@ -66,4 +66,4 @@ Sì, Aspose.Words supporta vari framework .NET, garantendo un'ampia compatibilit
 Sì, puoi facilmente elaborare in batch più file di testo utilizzando l'API Aspose.Words, semplificando le attività di conversione.
 
 ### Dove posso trovare ulteriori risorse e supporto per Aspose.Words?
- Visitare il[Documentazione di Aspose.Words](https://reference.aspose.com/words/net/) per informazioni approfondite e la[forum di supporto](https://forum.aspose.com/c/words/8) per assistenza.
+ Visita il[Documentazione di Aspose.Words](https://reference.aspose.com/words/net/) per informazioni approfondite e la[forum di supporto](https://forum.aspose.com/c/words/8) per assistenza.

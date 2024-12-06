@@ -106,7 +106,7 @@ Aspose.Imaging per .NET è una libreria affidabile per l'elaborazione di vari fo
 ### È richiesta una licenza per Aspose.Imaging per .NET?
  Sì, per la piena funzionalità è necessaria una licenza, che può essere acquistata[Qui](https://purchase.conholdate.com/buy) È disponibile una prova gratuita[Qui](https://releases.aspose.com/).
 
-### Altri formati di immagine possono essere convertiti in PDF utilizzando questa libreria?
+### È possibile convertire altri formati di immagine in PDF utilizzando questa libreria?
 Sì, Aspose.Imaging per .NET supporta la conversione di più formati di immagine in PDF.
 
 ### È possibile la conversione batch?

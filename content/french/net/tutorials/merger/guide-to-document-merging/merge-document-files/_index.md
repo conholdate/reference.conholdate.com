@@ -2,7 +2,7 @@
 title: Fusionner des fichiers de documents avec GroupDocs.Merger pour .NET
 linktitle: Fusionner des fichiers de documents avec GroupDocs.Merger pour .NET
 second_title: API .NET de GroupDocs.Merger
-description: Découvrez comment combiner de manière transparente plusieurs fichiers DOC en un seul document à l'aide de GroupDocs.Merger pour .NET. Ce didacticiel complet propose une approche claire, étape par étape, couvrant les conditions préalables, les extraits de code et les FAQ.
+description: Découvrez comment combiner de manière transparente plusieurs fichiers DOC en un seul document à l'aide de GroupDocs.Merger pour .NET. Ce didacticiel complet propose une approche claire, étape par étape, couvrant les prérequis, les extraits de code et les FAQ.
 type: docs
 weight: 10
 url: /fr/net/tutorials/merger/guide-to-document-merging/merge-document-files/
