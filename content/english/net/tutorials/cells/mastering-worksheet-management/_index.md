@@ -1,6 +1,6 @@
 ---
 title: Mastering Worksheet Management
-linktitle: Worksheet Management
+linktitle: Mastering Worksheet Management
 second_title: Aspose.Cells .NET Excel Processing API
 description: Explore Aspose.Cells for .NET Tutorials to master Excel automation. Learn adding/removing worksheets in new or existing Excel files programmatically.  
 type: docs
