@@ -1,6 +1,6 @@
 ---
 title: Mastering Excel Slicers Management
-linktitle: Excel Slicers Management
+linktitle: Mastering Excel Slicers Management
 second_title: Aspose.Cells .NET Excel Processing API
 description: Discover a detailed list of Aspose.Cells for .NET tutorials focused on managing Excel slicers, including adding, customizing, and updating slicers in Excel files.
 type: docs
