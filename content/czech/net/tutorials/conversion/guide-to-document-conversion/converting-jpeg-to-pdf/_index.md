@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // Vytvořte možnosti převodu PDF
 ```
 
 ## Krok 4: Proveďte konverzi
- Vyvolat`Convert`způsob provedení změny formátu. Předejte cestu k výstupnímu souboru spolu s možnostmi převodu:
+ Vyvolat`Convert` způsob provedení změny formátu. Předejte cestu k výstupnímu souboru spolu s možnostmi převodu:
 
 ```csharp
-converter.Convert(outputFile, options); // Proveďte konverzi
+converter.Convert(outputFile, options); //Proveďte konverzi
 ```
 
 ## Krok 5: Zobrazte zprávu o dokončení
@@ -92,4 +92,4 @@ Knihovna podporuje širokou škálu formátů, včetně obrázků, dokumentů, t
  Ano, zkušební verzi si můžete stáhnout z[Web GroupDocs](https://releases.groupdocs.com/).
 
 ### Kde mohu získat podporu týkající se GroupDocs.Conversion for .NET?
- Pro pomoc navštivte[GroupDocs.Conversion fórum](https://forum.groupdocs.com/c/conversion/11) spojit se s komunitou a vyhledat pomoc.
+Pro pomoc navštivte[GroupDocs.Conversion fórum](https://forum.groupdocs.com/c/conversion/11) spojit se s komunitou a vyhledat pomoc.

@@ -13,13 +13,13 @@ När det gäller att jämföra dokument, särskilt Excel-filer, kan användning 
 
 ## Jämföra celler från Path
 
- I den första handledningen,[Jämföra celler från Path - GroupDocs.Comparison för .NET](./comparing-cells-from-path/)kommer du att lära dig det knepiga med att jämföra cellinnehåll. Föreställ dig att du har två versioner av en rapport, och ditt jobb är att precisera vad som har förändrats. Denna handledning guidar dig genom att importera de nödvändiga namnrymden och ställa in ditt projekt. Du börjar med att initiera jämförelsevariabler, vilket kan låta komplicerat, men det är enklare än det ser ut!
+ I den första handledningen,[Jämföra celler från Path - GroupDocs.Comparison för .NET](./comparing-cells-from-path/), kommer du att lära dig det knepiga med att jämföra cellinnehåll. Föreställ dig att du har två versioner av en rapport, och ditt jobb är att precisera vad som har förändrats. Denna handledning guidar dig genom att importera de nödvändiga namnrymden och ställa in ditt projekt. Du börjar med att initiera jämförelsevariabler, vilket kan låta komplicerat, men det är enklare än det ser ut!
 
 Varför är detta viktigt? Tja, att snabbt kunna upptäcka ändringar kan spara timmar av manuell kontroll. Tänk till exempel på det som att leta efter en nål i en höstack; GroupDocs fungerar som din magnet och drar fram skillnaderna så att du kan fokusera på det som verkligen betyder något.
 
 ### Jämföra celler från Stream
 
- Därefter har vi handledningen på[Jämföra celler från Stream - GroupDocs.Comparison för .NET](./comparing-cells-from-stream/)Denna resurs dyker in på ett mer dynamiskt sätt att hantera jämförelser genom att använda strömmar. Varför skulle du vilja göra det här? Ibland kanske dina dokument inte sparas direkt på disken, särskilt om de genereras direkt av din applikation. Den här handledningen leder dig genom processen att importera nödvändiga namnutrymmen och initiera variabler steg för steg, vilket gör det tillgängligt för alla, oavsett kompetensnivå.
+ Därefter har vi handledningen på[Jämföra celler från Stream - GroupDocs.Comparison för .NET](./comparing-cells-from-stream/). Denna resurs dyker in på ett mer dynamiskt sätt att hantera jämförelser genom att använda strömmar. Varför skulle du vilja göra det här? Ibland kanske dina dokument inte sparas direkt på disken, särskilt om de genereras direkt av din applikation. Den här handledningen leder dig genom processen att importera nödvändiga namnutrymmen och initiera variabler steg för steg, vilket gör det tillgängligt för alla, oavsett kompetensnivå.
 
 Det som skiljer detta åt är hur det sömlöst integreras i applikationer där prestanda och hastighet är avgörande. Föreställ dig att springa ett maraton; att använda strömmar ger dig den där extra flexibiliteten, vilket gör att din applikation kan reagera snabbare samtidigt som den utför jämförelser.
 

@@ -47,7 +47,7 @@ Identifique la ubicación del archivo PSD de origen y dónde desea guardar la im
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Ruta al archivo PSD de origen
-string destName = dataDir + "result.png";   // Ruta para el archivo de imagen de salida
+string destName = dataDir + "result.png";   //Ruta para el archivo de imagen de salida
 ```
 
 ## Paso 3: Cargar la imagen PSD y gestionar fuentes no encontradas
@@ -89,7 +89,7 @@ using (var fileStream = new FileStream(destName, FileMode.Create))
 ## Preguntas frecuentes
 
 ### ¿Puedo usar Aspose.PSD con cualquier tipo de archivo de imagen?
- ¡Sí! Aspose.PSD admite varios formatos de imagen, incluidos PSD, PNG, JPEG y más. Para obtener una lista detallada, consulte la documentación[aquí](https://reference.aspose.com/psd/net/).
+¡Sí! Aspose.PSD admite varios formatos de imagen, incluidos PSD, PNG, JPEG y más. Para obtener una lista detallada, consulte la documentación[aquí](https://reference.aspose.com/psd/net/).
 
 ### ¿Cómo puedo obtener soporte para Aspose.PSD?
  Para obtener ayuda y soporte de la comunidad, visite el foro de soporte de Aspose.PSD[aquí](https://forum.aspose.com/c/psd/34).

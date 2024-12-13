@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Zacznijmy od załadowania dokumentu źródłowego i docelowego Worda i zainicjowania niezbędnych zmiennych.
 
 ```csharp
-// Załaduj dokumenty źródłowe i docelowe.
+//Załaduj dokumenty źródłowe i docelowe.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,7 +110,7 @@ Tak, możesz powtórzyć ten proces dla każdej zakładki i dodać tekst według
 W bieżącym przykładzie zakłada się, że mają tego samego rodzica. Jeśli nie, trzeba będzie wdrożyć bardziej złożoną obsługę.
 
 ### Czy oryginalne formatowanie dołączonego tekstu zostanie zachowane?
- Oczywiście! Używam`ImportFormatMode.KeepSourceFormatting` zapewnia zachowanie oryginalnego formatowania.
+ Oczywiście! Używam`ImportFormatMode.KeepSourceFormatting`zapewnia zachowanie oryginalnego formatowania.
 
 ### Czy można dodać tekst w określonym miejscu w dokumencie docelowym?
 Tak, możesz dodać tekst w dowolnym miejscu, przechodząc do odpowiedniego węzła w dokumencie docelowym.

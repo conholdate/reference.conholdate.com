@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## Bước 3: Tải siêu dữ liệu từ tài liệu
 
- Sử dụng`Metadata` lớp, bạn có thể tải siêu dữ liệu từ tài liệu được chỉ định. Hãy nhớ thay thế`"YourInputFile"` với đường dẫn đến tài liệu của bạn:
+ Sử dụng`Metadata` lớp, bạn có thể tải siêu dữ liệu từ tài liệu được chỉ định. Hãy nhớ thay thế`"YourInputFile"`với đường dẫn đến tài liệu của bạn:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

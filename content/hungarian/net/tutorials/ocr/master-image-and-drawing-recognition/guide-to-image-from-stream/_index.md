@@ -9,7 +9,7 @@ url: /hu/net/tutorials/ocr/master-image-and-drawing-recognition/guide-to-image-f
 ---
 ## Bevezetés
 
-Üdvözöljük az optikai karakterfelismerés (OCR) lenyűgöző világában az Aspose.OCR for .NET használatával! Akár tapasztalt fejlesztő, akár újonc az OCR-technológiában, ez az útmutató végigvezeti Önt a szövegek könnyű felismerésének folyamatán a képekből folyamok segítségével. Az Aspose.OCR for .NET egy hatékony könyvtár, amelyet a .NET-alkalmazásokba való zökkenőmentes integrációra terveztek, egyszerűsítve a szövegek kinyerését a képekből.
+Üdvözöljük az optikai karakterfelismerés (OCR) lenyűgöző világában az Aspose.OCR for .NET használatával! Akár tapasztalt fejlesztő, akár újonc az OCR-technológiában, ez az útmutató végigvezeti Önt a szövegek könnyű felismerésének folyamatán a képekből folyamok segítségével. Az Aspose.OCR for .NET egy hatékony könyvtár, amelyet a .NET-alkalmazásokba való zökkenőmentes integrációra terveztek, egyszerűsítve a szövegek képekből történő kinyerését.
 
 ## Előfeltételek
 
@@ -91,7 +91,7 @@ Igen, az Aspose.OCR számos nyelvet támogat, így sokoldalú megoldás a külö
 
 ### Hol kaphatok támogatást az Aspose.OCR-hez?
 
- Segítségért keresse fel a[Aspose.OCR fórum](https://forum.aspose.com/c/ocr/16) ahol a közösség tagjai és szakértői készek segíteni.
+Segítségért keresse fel a[Aspose.OCR fórum](https://forum.aspose.com/c/ocr/16) ahol a közösség tagjai és szakértői készek segíteni.
 
 ### Kaphatok ideiglenes engedélyt?
 

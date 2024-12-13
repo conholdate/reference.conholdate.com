@@ -16,7 +16,7 @@ Sind Sie bereit, Ihre Fähigkeiten zur Dokumentbearbeitung mit Aspose.Words für
 Bevor wir loslegen, stellen Sie sicher, dass Sie über Folgendes verfügen:
 
 1. Visual Studio: Jede mit .NET kompatible Version.
-2.  Aspose.Words für .NET: Laden Sie es herunter[Hier](https://releases.aspose.com/words/net/).
+2. Aspose.Words für .NET: Laden Sie es herunter[Hier](https://releases.aspose.com/words/net/).
 3. Grundlegende C#-Kenntnisse: Kenntnisse im Schreiben einfacher C#-Programme sind ausreichend.
 4. Ein Beispiel für ein Word-Dokument: Bereiten Sie für dieses Tutorial ein Word-Dokument (z. B. „Bookmarks.docx“) mit Lesezeichen vor.
 

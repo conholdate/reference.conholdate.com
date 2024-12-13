@@ -101,7 +101,7 @@ presentation.Save(Path.Combine(outputDir, "PresentationOutput.html"), SaveFormat
 Да, Aspose.Slides поддерживает анимацию при экспорте. Однако совместимость анимации в HTML зависит от сложности исходной презентации.
 
 ### Какие еще форматы можно экспортировать с помощью Aspose.Slides?
-Библиотека поддерживает множество форматов, включая PDF, PNG и SVG. См.[документация](https://reference.aspose.com/slides/net/) для получения подробной информации.
+ Библиотека поддерживает множество форматов, включая PDF, PNG и SVG. См.[документация](https://reference.aspose.com/slides/net/) для получения подробной информации.
 
 ### Доступна ли техническая поддержка для Aspose.Slides?
  Да, вы можете обратиться за помощью по адресу[Форум поддержки Aspose](https://forum.aspose.com/c/slides/11).

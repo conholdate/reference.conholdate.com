@@ -19,7 +19,7 @@ Než začneme, ujistěte se, že máte následující:
 Ujistěte se, že máte Visual Studio nebo jakékoli preferované .NET IDE nainstalované a nastavené pro váš projekt.
 
 ### 2. Aspose.HTML for .NET Library
-Stáhněte a nainstalujte knihovnu Aspose.HTML pro .NET. Najdete jej na následujícím odkazu:[Aspose.HTML for .NET](https://releases.aspose.com/html/net/).
+ Stáhněte a nainstalujte knihovnu Aspose.HTML pro .NET. Najdete jej na následujícím odkazu:[Aspose.HTML for .NET](https://releases.aspose.com/html/net/).
 
 ### 3. Základní znalost C# a .NET
 Základní znalost C# a .NET vám pomůže efektivně sledovat tento tutoriál.
@@ -52,7 +52,7 @@ HTMLDocument htmlDocument = new HTMLDocument(dataDir + "input.html");
 ```
 
 ## Krok 3: Nakonfigurujte možnosti uložení PDF
- Nastavit`PdfSaveOptions` definování nastavení převodu PDF, jako je kvalita obrazu a rozvržení. Můžete například nastavit kvalitu JPEG na 100:
+ Nastavit`PdfSaveOptions` k definování nastavení převodu PDF, jako je kvalita obrazu a rozvržení. Můžete například nastavit kvalitu JPEG na 100:
 
 ```csharp
 PdfSaveOptions options = new PdfSaveOptions
@@ -75,7 +75,7 @@ string outputPDF = dataDir + "HTMLtoPDF_Output.pdf";
 Converter.ConvertHTML(htmlDocument, options, outputPDF);
 ```
 
-A stejně tak je váš obsah HTML nyní úspěšně převeden do dokumentu PDF pomocí Aspose.HTML for .NET!
+stejně tak je váš obsah HTML nyní úspěšně převeden do dokumentu PDF pomocí Aspose.HTML for .NET!
 
 ## Závěr
 

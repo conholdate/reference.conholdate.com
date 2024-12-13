@@ -1,6 +1,6 @@
 ---
-title: Kezelje a fájlrendszer- és ZIP-bemeneteket az Aspose.TeX for .NET segítségével
-linktitle: Kezelje a fájlrendszer- és ZIP-bemeneteket az Aspose.TeX for .NET segítségével
+title: Kezelje a fájlrendszer és ZIP bemeneteket az Aspose.TeX for .NET segítségével
+linktitle: Kezelje a fájlrendszer és ZIP bemeneteket az Aspose.TeX for .NET segítségével
 second_title: Aspose.TeX .NET API
 description: Tanuljon meg hatékonyan konvertálni LaTeX dokumentumokat különböző formátumokba a könnyen követhető lépések segítségével, beleértve a konverziós beállításokat, a bemeneti könyvtárak megadását és a konverziók végrehajtását.
 type: docs

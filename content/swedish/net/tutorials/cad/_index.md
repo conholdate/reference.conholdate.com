@@ -12,4 +12,4 @@ is_root: true
 ### [Guide till CAD-funktioner och support](./guide-to-cad-features-and-support/)
 Utforska vår omfattande guide om Aspose.CAD för .NET-tutorials, perfekt för utvecklare som vill förbättra sin programvara med CAD-funktioner.
 ### [Guide för att exportera CAD-filer](./guide-to-exporting-cad-format/)
-Upptäck Aspose.CAD för .NET tutorials. Master exportera CAD-filer, konvertera CAD till rasterbilder och transformera DGN till PDF utan ansträngning.
+Upptäck Aspose.CAD för .NET tutorials. Master exportera CAD-filer, konvertera CAD till rasterbilder och omvandla DGN till PDF utan ansträngning.

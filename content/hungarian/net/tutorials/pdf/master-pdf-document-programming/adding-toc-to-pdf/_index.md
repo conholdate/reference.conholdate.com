@@ -119,7 +119,7 @@ Igen, teljes mértékben testreszabhatja a tartalomjegyzék megjelenését, bele
 
 ### Hogyan adhatok alcímeket a tartalomjegyzékhez?
 
- Alcímeket adhat hozzá a`Heading` szinten (pl.`Heading(2)`).
+Alcímeket adhat hozzá a`Heading` szinten (pl.`Heading(2)`).
 
 ### Lehetséges a TOC automatikus frissítése, ha a dokumentum megváltozik?
 

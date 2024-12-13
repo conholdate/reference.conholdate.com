@@ -16,7 +16,7 @@ In diesem Tutorial erfahren Sie, wie Sie DOC-Dateien mit GroupDocs.Merger für .
 Stellen Sie vor dem Start sicher, dass Sie über Folgendes verfügen:
 
 1. Visual Studio: Installieren Sie Visual Studio auf Ihrem Entwicklungscomputer.
-2.  GroupDocs.Merger für .NET: Laden Sie die Bibliothek herunter von[Webseite](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger für .NET: Laden Sie die Bibliothek herunter von[Webseite](https://releases.groupdocs.com/merger/net/).
 3. Grundkenntnisse in C#: Vertrautheit mit der Programmiersprache C# wird empfohlen.
 
 ## Erforderliche Namespaces importieren
@@ -46,7 +46,7 @@ Verwenden Sie den folgenden Codeausschnitt, um die Quell-DOC-Dateien zu laden, d
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Fügen Sie eine weitere DOC-Datei zum Zusammenführen hinzu
+    // Fügen Sie eine weitere DOC-Datei zum Zusammenführen hinzu
     merger.Join("path_to_second_doc.doc");
 
     // DOC-Dateien zusammenführen und das Ergebnis speichern
@@ -75,7 +75,7 @@ Absolut, es ist sowohl mit .NET Core als auch mit .NET Framework kompatibel.
 
 ### Ist für die kommerzielle Nutzung eine Lizenz erforderlich?
 
-Ja, für die kommerzielle Nutzung ist eine gültige Lizenz erforderlich. Sie können eine Lizenz erwerben bei[Gruppendokumente](https://purchase.groupdocs.com/buy).
+ Ja, für die kommerzielle Nutzung ist eine gültige Lizenz erforderlich. Sie können eine Lizenz erwerben bei[Gruppendokumente](https://purchase.groupdocs.com/buy).
 
 ### Kann ich GroupDocs.Merger für .NET kostenlos testen?
 

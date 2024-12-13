@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## Adım 1: Projenizi Kurun
 
-Öncelikle IDE'nizde yeni bir .NET projesi oluşturun. Aspose.Words kütüphanesine bir referans ekleyin. Henüz indirmediyseniz, bunu şuradan yapabilirsiniz:[Burada](https://releases.aspose.com/words/net/).
+ Öncelikle IDE'nizde yeni bir .NET projesi oluşturun. Aspose.Words kütüphanesine bir referans ekleyin. Henüz indirmediyseniz, bunu şuradan yapabilirsiniz:[Burada](https://releases.aspose.com/words/net/).
 
 ## Adım 2: Belge Dizinini Tanımlayın
 

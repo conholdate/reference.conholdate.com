@@ -99,10 +99,10 @@ Xin chúc mừng! Bạn đã thêm thành công tiếng Nhật làm ngôn ngữ 
  Có, cần có giấy phép để sử dụng cho mục đích thương mại. Bạn có thể mua một giấy phép[đây](https://purchase.aspose.com/buy) hoặc xin giấy phép tạm thời[đây](https://purchase.aspose.com/temporary-license/).
 
 ### Aspose.Words for .NET còn cung cấp những tính năng nào khác?
- Aspose.Words cho .NET cung cấp nhiều tính năng, bao gồm tạo tài liệu, chuyển đổi và thao tác. Khám phá[tài liệu](https://reference.aspose.com/words/net/) để biết thêm chi tiết.
+Aspose.Words cho .NET cung cấp nhiều tính năng, bao gồm tạo tài liệu, chuyển đổi và thao tác. Khám phá[tài liệu](https://reference.aspose.com/words/net/) để biết thêm chi tiết.
 
 ### Tôi có thể dùng thử Aspose.Words cho .NET trước khi mua không?
  Chắc chắn rồi! Bạn có thể tải xuống bản dùng thử miễn phí[đây](https://releases.aspose.com/).
 
 ### Tôi có thể nhận hỗ trợ cho Aspose.Words dành cho .NET ở đâu?
-Bạn có thể tìm kiếm sự hỗ trợ từ cộng đồng Aspose[đây](https://forum.aspose.com/c/words/8).
+ Bạn có thể tìm kiếm sự hỗ trợ từ cộng đồng Aspose[đây](https://forum.aspose.com/c/words/8).

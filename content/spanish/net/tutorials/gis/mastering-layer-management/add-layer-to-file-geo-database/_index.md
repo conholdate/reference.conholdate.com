@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // Crear una nueva capa con el sistema de referencia espacial WGS 84
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //Agregar un esquema de atributos
+        // Agregar un esquema de atributos
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // Crear y agregar una función

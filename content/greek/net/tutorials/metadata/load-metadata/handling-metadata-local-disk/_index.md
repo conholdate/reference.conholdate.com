@@ -90,7 +90,7 @@ using (Metadata metadata = new Metadata("Your Input File Path"))
  Λεπτομερή τεκμηρίωση είναι διαθέσιμη στο[GroupDocs.Μεταδεδομένα για τεκμηρίωση .NET](https://reference.groupdocs.com/metadata/net/).
 
 ### Υποστηρίζει το GroupDocs.Metadata μια δωρεάν δοκιμή;
-Ναι, μπορείτε να κάνετε λήψη μιας δωρεάν δοκιμής του GroupDocs.Metadata[εδώ](https://releases.groupdocs.com/).
+ Ναι, μπορείτε να κάνετε λήψη μιας δωρεάν δοκιμής του GroupDocs.Metadata[εδώ](https://releases.groupdocs.com/).
 
 ### Πού μπορώ να λάβω υποστήριξη για το GroupDocs.Metadata;
  Για υποστήριξη, επισκεφθείτε το[Φόρουμ GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) για κοινοτική βοήθεια και συζητήσεις.

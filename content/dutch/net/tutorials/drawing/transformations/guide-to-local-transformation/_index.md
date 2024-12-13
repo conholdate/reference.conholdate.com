@@ -13,7 +13,7 @@ Aspose.Drawing voor .NET stelt ontwikkelaars in staat om geavanceerde graphics t
 
 ## Vereisten
 
-1. Aspose.Drawing voor .NET: Download en installeer het vanaf[hier](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing voor .NET: Download en installeer het vanaf[hier](https://releases.aspose.com/drawing/net/).
 2. Documentmap: Kies een map om uw afbeeldingen op te slaan.
 3. Basiskennis van .NET: Kennis van C# en grafische programmeerconcepten.
 

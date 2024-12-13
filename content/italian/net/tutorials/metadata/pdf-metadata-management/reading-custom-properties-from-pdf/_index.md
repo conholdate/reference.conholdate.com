@@ -81,4 +81,4 @@ GroupDocs.Metadata supporta infatti un'ampia gamma di formati di file, tra cui d
  Sì, puoi accedere a un[prova gratuita](https://releases.groupdocs.com/) per esplorare le funzionalità di GroupDocs.Metadata.
 
 ### Come posso acquistare una licenza per GroupDocs.Metadata?
- Per acquisire una licenza, visitare il sito[pagina di acquisto](https://purchase.groupdocs.com/buy)Sono disponibili anche licenze temporanee[Qui](https://purchase.groupdocs.com/temporary-license/).
+ Per acquisire una licenza, visitare il sito[pagina di acquisto](https://purchase.groupdocs.com/buy) Sono disponibili anche licenze temporanee[Qui](https://purchase.groupdocs.com/temporary-license/).

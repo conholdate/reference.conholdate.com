@@ -55,7 +55,7 @@ doc.Sections[1].Remove();
 
 ## Conclusão
 
- Com o Aspose.Words para .NET, manipular documentos do Word é eficiente e direto. Excluir seções é apenas um dos muitos recursos poderosos à sua disposição. Não deixe de explorar o extenso[documentação](https://reference.aspose.com/words/net/) para descobrir mais recursos que podem aprimorar suas tarefas de processamento de documentos.
+Com o Aspose.Words para .NET, manipular documentos do Word é eficiente e direto. Excluir seções é apenas um dos muitos recursos poderosos à sua disposição. Não deixe de explorar o extenso[documentação](https://reference.aspose.com/words/net/) para descobrir mais recursos que podem aprimorar suas tarefas de processamento de documentos.
 
 ## Perguntas frequentes
 

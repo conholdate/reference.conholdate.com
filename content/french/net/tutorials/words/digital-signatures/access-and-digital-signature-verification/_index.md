@@ -16,7 +16,7 @@ Bonjour, passionnés de technologie ! Avez-vous déjà eu besoin de vérifier de
 Avant de commencer, assurez-vous d’avoir les éléments suivants à disposition :
 
 1. Visual Studio : assurez-vous qu’il est installé sur votre machine pour le codage.
-2.  Aspose.Words pour .NET : Téléchargez-le et installez-le depuis[ici](https://releases.aspose.com/words/net/)Si vous ne l'avez pas encore fait, profitez de votre essai gratuit[ici](https://releases.aspose.com/).
+2.  Aspose.Words pour .NET : Téléchargez-le et installez-le depuis[ici](https://releases.aspose.com/words/net/) Si vous ne l'avez pas encore fait, profitez de votre essai gratuit[ici](https://releases.aspose.com/).
 3. Un document Word signé numériquement : Ayez à portée de main un document Word avec une signature numérique pour vérification.
 
 ## Importation d'espaces de noms
@@ -142,7 +142,7 @@ Oui, il prend en charge toutes les versions de documents Microsoft Word, y compr
 
 ### Comment obtenir une licence temporaire pour Aspose.Words pour .NET ?
 
-Vous pouvez obtenir une licence temporaire auprès de[ici](https://purchase.aspose.com/temporary-license/), vous permettant d'explorer toutes les fonctionnalités de la bibliothèque sans limitations.
+ Vous pouvez obtenir une licence temporaire auprès de[ici](https://purchase.aspose.com/temporary-license/), vous permettant d'explorer toutes les fonctionnalités de la bibliothèque sans limitations.
 
 ### Où puis-je trouver plus de documentation sur Aspose.Words pour .NET ?
 

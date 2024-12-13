@@ -15,7 +15,7 @@ url: /ru/net/tutorials/words/words-processing-with-htmlsaveoptions/resolve-font-
 
 Прежде чем начать, убедитесь, что у вас есть все необходимое:
 
-1.  Aspose.Words для .NET: Загрузить[здесь](https://releases.aspose.com/words/net/).
+1. Aspose.Words для .NET: Загрузить[здесь](https://releases.aspose.com/words/net/).
 2.  Действующая лицензия: приобрести лицензию[здесь](https://purchase.aspose.com/buy) или получите временную лицензию[здесь](https://purchase.aspose.com/temporary-license/).
 3. Базовые знания C# и .NET: предполагается знакомство с основными концепциями программирования на C#.
 4. Visual Studio: подойдет любая версия, поддерживающая .NET Framework.
@@ -74,7 +74,7 @@ HtmlSaveOptions saveOptions = new HtmlSaveOptions(SaveFormat.Html)
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Мы называем`Save` метод на`Document` объект, указывающий выходной путь и параметры сохранения, которые мы настроили. Это создает HTML-файл с разрешенными именами шрифтов.
+ Мы называем`Save`метод на`Document` объект, указывающий выходной путь и параметры сохранения, которые мы настроили. Это создает HTML-файл с разрешенными именами шрифтов.
 
 ## Заключение
 
@@ -92,7 +92,7 @@ Aspose.Words для .NET — мощная библиотека, позволяю
  Да, но будут некоторые ограничения. Для полной функциональности вы можете приобрести лицензию[здесь](https://purchase.aspose.com/buy) или получите временную лицензию[здесь](https://purchase.aspose.com/temporary-license/).
 
 ### Почему мои шрифты некорректно отображаются в HTML?
- Эта проблема может возникнуть, если шрифты не были правильно разрешены во время конвертации.`ResolveFontNames = true` в`HtmlSaveOptions` может помочь это исправить.
+Эта проблема может возникнуть, если шрифты не были правильно разрешены во время конвертации.`ResolveFontNames = true` в`HtmlSaveOptions` может помочь это исправить.
 
 ### Где я могу получить поддержку по Aspose.Words для .NET?
  Вы можете получить поддержку от[Форум поддержки Aspose.Words](https://forum.aspose.com/c/words/8).

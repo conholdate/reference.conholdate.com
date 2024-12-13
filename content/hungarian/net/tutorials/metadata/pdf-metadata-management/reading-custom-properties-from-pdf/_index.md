@@ -9,7 +9,7 @@ url: /hu/net/tutorials/metadata/pdf-metadata-management/reading-custom-propertie
 ---
 ## Bevezetés
 
-.NET-fejlesztés világában a dokumentumokon belüli metaadatok hatékony kezelése elengedhetetlen az információk rendszerezéséhez és az értékes ismeretek kinyeréséhez. A GroupDocs.Metadata for .NET egy átfogó könyvtár, amely lehetővé teszi a fejlesztők számára a dokumentumok metaadatainak zökkenőmentes elérését és kezelését. Ez az oktatóanyag végigvezeti Önt az egyéni tulajdonságok PDF-fájlokból C# használatával történő kinyerésének folyamatán. 
+A .NET-fejlesztés világában a dokumentumokon belüli metaadatok hatékony kezelése elengedhetetlen az információk rendszerezéséhez és az értékes ismeretek kinyeréséhez. A GroupDocs.Metadata for .NET egy átfogó könyvtár, amely lehetővé teszi a fejlesztők számára a dokumentumok metaadatainak zökkenőmentes elérését és kezelését. Ez az oktatóanyag végigvezeti Önt az egyéni tulajdonságok PDF-fájlokból C# használatával történő kinyerésének folyamatán. 
 
 ## Előfeltételek
 
@@ -57,7 +57,7 @@ foreach (var property in customProperties)
 ```
 
 Ebben a kódban:
-- A beépített tulajdonságokat kiszűrjük, csak az egyedi tulajdonságokra koncentrálunk.
+- beépített tulajdonságokat kiszűrjük, csak az egyedi tulajdonságokra koncentrálunk.
 - Minden egyéni tulajdonság neve és értéke a konzolra kerül kinyomtatásra, ami megkönnyíti a PDF-ben található metaadatok megtekintését.
 
 ## Következtetés
@@ -81,4 +81,4 @@ Valójában a GroupDocs.Metadata fájlformátumok széles skáláját támogatja
  Igen, hozzáférhet a[ingyenes próbaverzió](https://releases.groupdocs.com/) hogy felfedezze a GroupDocs szolgáltatásait.Metadata.
 
 ### Hogyan vásárolhatok licencet a GroupDocs.Metadata számára?
- Az engedély megszerzéséhez látogasson el a[vásárlási oldal](https://purchase.groupdocs.com/buy) Ideiglenes engedélyek is rendelkezésre állnak[itt](https://purchase.groupdocs.com/temporary-license/).
+ Az engedély megszerzéséhez látogasson el a[vásárlási oldal](https://purchase.groupdocs.com/buy) . Ideiglenes engedélyek is rendelkezésre állnak[itt](https://purchase.groupdocs.com/temporary-license/).

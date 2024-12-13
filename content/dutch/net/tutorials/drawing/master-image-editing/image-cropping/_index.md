@@ -15,7 +15,7 @@ In het domein van .NET-ontwikkeling kan beeldmanipulatie een complexe taak zijn.
 
 Voordat we beginnen, moet u ervoor zorgen dat u het volgende heeft geregeld:
 
--  Aspose.Drawing Library: Zorg ervoor dat u de Aspose.Drawing-bibliotheek in uw .NET-project hebt geïntegreerd. U kunt deze downloaden[hier](https://releases.aspose.com/drawing/net/).
+- Aspose.Drawing Library: Zorg ervoor dat u de Aspose.Drawing-bibliotheek in uw .NET-project hebt geïntegreerd. U kunt deze downloaden[hier](https://releases.aspose.com/drawing/net/).
   
 -  Image Directory: Heb een aangewezen directory voor uw project images. U zult moeten vervangen`"Your Document Directory"` in de codefragmenten met het pad naar uw afbeeldingenmap.
 
@@ -37,7 +37,7 @@ Hiermee bereidt u uw omgeving voor op het werken met bitmaps en afbeeldingen.
 Bitmap bitmap = new Bitmap(1000, 800, System.Drawing.Imaging.PixelFormat.Format32bppPArgb);
 ```
 
-kunt de breedte en hoogte naar wens aanpassen.
+U kunt de breedte en hoogte naar wens aanpassen.
 
 ## Stap 3: Een grafisch object maken
 
@@ -115,4 +115,4 @@ Zeker! Aspose.Drawing blinkt uit in batchverwerking, waardoor het efficiënt is 
 
 ### Waar kan ik ondersteuning krijgen voor vragen over Aspose.Drawing?
 
- Voor hulp, bezoek de[Aspose.Tekening Forum](https://forum.aspose.com/c/diagram/17) om contact te leggen met de community en hulp te krijgen bij uw vragen.
+Voor hulp, bezoek de[Aspose.Tekening Forum](https://forum.aspose.com/c/diagram/17) om contact te leggen met de community en hulp te krijgen bij uw vragen.

@@ -94,7 +94,7 @@ Absolut! Aspose.Email für .NET unterstützt verschiedene Formate, darunter MSG,
 
 ### Bleiben die Zeitzoneninformationen im MHT-Format erhalten?
 
- Ja, die Zeitzoneninformationen bleiben während des Konvertierungsprozesses erhalten. Durch die Behandlung von Zeitzonenverschiebungen und die Verwendung der entsprechenden`TimeZoneInfo` Methoden können Sie eine genaue Zeitzonendarstellung in der MHT-Datei sicherstellen.
+ Ja, die Zeitzoneninformationen bleiben während des Konvertierungsprozesses erhalten. Durch die Behandlung von Zeitzonenverschiebungen und die Verwendung der entsprechenden`TimeZoneInfo`Methoden können Sie eine genaue Zeitzonendarstellung in der MHT-Datei sicherstellen.
 
 ### Wo finde ich weitere Dokumentation und Updates zu Aspose.Email für .NET?
 

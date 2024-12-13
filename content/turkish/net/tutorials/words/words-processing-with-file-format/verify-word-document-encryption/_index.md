@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Adım 3: Dosya Biçimini Algıla
 
- Şimdi şunu kullanacağız:`DetectFileFormat` yöntemden`FileFormatUtil`dosya biçimi hakkında bilgi toplamak için sınıf. Bu örnek için, şifrelenmiş belgenin "Encrypted.docx" olarak adlandırıldığını ve belirtilen dizinde bulunduğunu varsayıyoruz:
+ Şimdi şunu kullanacağız:`DetectFileFormat` yöntemden`FileFormatUtil` dosya biçimi hakkında bilgi toplamak için sınıf. Bu örnek için, şifrelenmiş belgenin "Encrypted.docx" olarak adlandırıldığını ve belirtilen dizinde bulunduğunu varsayıyoruz:
 
 ```csharp
 FileFormatInfo info = FileFormatUtil.DetectFileFormat(dataDir + "Encrypted.docx");
@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## Çözüm
 
- Ve işte bu kadar! Aspose.Words for .NET kullanarak bir Word belgesinin şifreleme durumunu başarıyla doğruladınız. Birkaç satır kodun bu tür görevleri nasıl basitleştirebildiği etkileyici. Herhangi bir sorunuz varsa veya herhangi bir sorunla karşılaşırsanız, bize ulaşmaktan çekinmeyin[Aspose Destek Forumu](https://forum.aspose.com/c/words/8).
+Ve işte bu kadar! Aspose.Words for .NET kullanarak bir Word belgesinin şifreleme durumunu başarıyla doğruladınız. Birkaç satır kodun bu tür görevleri nasıl basitleştirebildiği etkileyici. Herhangi bir sorunuz varsa veya herhangi bir sorunla karşılaşırsanız, bize ulaşmaktan çekinmeyin[Aspose Destek Forumu](https://forum.aspose.com/c/words/8).
 
 ## SSS
 

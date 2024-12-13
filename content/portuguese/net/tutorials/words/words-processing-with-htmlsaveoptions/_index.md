@@ -9,7 +9,7 @@ url: /pt/net/tutorials/words/words-processing-with-htmlsaveoptions/
 ---
 ## Introdução
 
-O Aspose.Words para .NET é um divisor de águas para desenvolvedores que trabalham com manipulação de documentos. Não se trata apenas de criar e editar documentos; trata-se de simplificar seu fluxo de trabalho com opções flexíveis e de alta qualidade. A capacidade de converter documentos em vários formatos, mantendo a integridade da formatação, é crucial para qualquer aplicativo. Mas por onde começar? Vamos analisar alguns tutoriais essenciais que você pode usar.
+Aspose.Words para .NET é um divisor de águas para desenvolvedores que trabalham com manipulação de documentos. Não se trata apenas de criar e editar documentos; trata-se de simplificar seu fluxo de trabalho com opções flexíveis e de alta qualidade. A capacidade de converter documentos em vários formatos, mantendo a integridade da formatação, é crucial para qualquer aplicativo. Mas por onde começar? Vamos analisar alguns tutoriais essenciais que você pode usar.
 
 
 ## [Exportar fontes como Base 64 para HTML](./export-fonts-as-base-64-to-html/):

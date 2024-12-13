@@ -57,7 +57,7 @@ Odemkněte potenciál Aspose.HTML pro .NET pomocí komplexních výukových prog
 
 ## Aspose.Imaging
 {{% alert color="primary" %}}
-Prozkoumejte odborné výukové programy pro Aspose.Imaging pro .NET. Naučte se manipulovat, převádět a zpracovávat obrázky pomocí podrobných průvodců, příkladů kódu a praktických poznatků. Ideální pro vývojáře, kteří chtějí zjednodušit úlohy zpracování obrázků v aplikacích .NET.
+Prozkoumejte odborné výukové programy pro Aspose.Imaging pro .NET. Naučte se manipulovat, převádět a zpracovávat obrázky pomocí podrobných průvodců, příkladů kódu a praktických informací. Ideální pro vývojáře, kteří chtějí zjednodušit úlohy zpracování obrázků v aplikacích .NET.
 {{% /alert %}}
 
 ### Výukové programy Aspose.Imaging
@@ -161,7 +161,7 @@ Objevte sílu Aspose.GIS pro .NET prostřednictvím obsáhlých výukových prog
 
 ## GroupDocs.Viewer
 {{% alert color="primary" %}}
-Objevte komplexní návody a příklady pro integraci GroupDocs.Viewer .NET do vašich aplikací. Naučte se krok za krokem techniky pro vylepšenou správu dokumentů.
+Objevte komplexní výukové programy a příklady pro integraci GroupDocs.Viewer .NET do vašich aplikací. Naučte se krok za krokem techniky pro vylepšenou správu dokumentů.
 {{% /alert %}}
 
 ### Výukové programy GroupDocs.Viewer

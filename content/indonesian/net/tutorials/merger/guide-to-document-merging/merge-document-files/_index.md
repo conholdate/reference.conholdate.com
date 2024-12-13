@@ -16,7 +16,7 @@ Dalam tutorial ini, kita akan menjelajahi cara menggabungkan file DOC menggunaka
 Sebelum memulai, pastikan Anda memiliki hal berikut:
 
 1. Visual Studio: Instal Visual Studio di mesin pengembangan Anda.
-2.  GroupDocs.Merger untuk .NET: Unduh pustaka dari[situs web](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger untuk .NET: Unduh pustaka dari[situs web](https://releases.groupdocs.com/merger/net/).
 3. Pengetahuan Dasar C#: Disarankan untuk memahami bahasa pemrograman C#.
 
 ## Mengimpor Ruang Nama yang Diperlukan
@@ -46,7 +46,7 @@ Gunakan potongan kode berikut untuk memuat file DOC sumber yang ingin Anda gabun
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Tambahkan file DOC lain untuk digabungkan
+    // Tambahkan file DOC lain untuk digabungkan
     merger.Join("path_to_second_doc.doc");
 
     // Gabungkan file DOC dan simpan hasilnya
@@ -75,7 +75,7 @@ Tentu saja, ini kompatibel dengan .NET Core dan .NET Framework.
 
 ### Apakah diperlukan lisensi untuk penggunaan komersial?
 
-Ya, lisensi yang valid diperlukan untuk penggunaan komersial. Anda dapat membeli lisensi dari[GrupDocs](https://purchase.groupdocs.com/buy).
+ Ya, lisensi yang valid diperlukan untuk penggunaan komersial. Anda dapat membeli lisensi dari[GrupDocs](https://purchase.groupdocs.com/buy).
 
 ### Dapatkah saya mencoba GroupDocs.Merger untuk .NET secara gratis?
 

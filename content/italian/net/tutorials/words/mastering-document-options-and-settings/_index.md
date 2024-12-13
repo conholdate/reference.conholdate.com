@@ -2,7 +2,7 @@
 title: Padroneggiare le opzioni e le impostazioni del documento
 linktitle: Padroneggiare le opzioni e le impostazioni del documento
 second_title: API di elaborazione dei documenti Aspose.Words
-description: Esplora i tutorial di Aspose.Words per .NET per padroneggiare le opzioni e le impostazioni dei documenti. Impara a ottimizzare per Word, i controlli grammaticali, i layout di pagina e le lingue di modifica.
+description: Esplora i tutorial di Aspose.Words per .NET per padroneggiare le opzioni e le impostazioni dei documenti. Impara a ottimizzare per Word, i controlli grammaticali, i layout di pagina e i linguaggi di modifica.
 type: docs
 weight: 1510
 url: /it/net/tutorials/words/mastering-document-options-and-settings/

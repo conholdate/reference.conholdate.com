@@ -56,7 +56,7 @@ Cấu hình các tùy chọn cho chữ ký văn bản của bạn, bao gồm n�
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // Vị trí X
+    Left = 50, //Vị trí X
     Top = 200, // Vị trí Y
     Width = 100, // Chiều rộng của chữ ký
     Height = 30, // Chiều cao của chữ ký

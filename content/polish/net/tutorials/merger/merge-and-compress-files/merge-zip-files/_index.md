@@ -9,7 +9,7 @@ url: /pl/net/tutorials/merger/merge-and-compress-files/merge-zip-files/
 ---
 ## Wstęp
 
-W świecie zarządzania dokumentami GroupDocs.Merger for .NET to solidne narzędzie dla deweloperów, którzy chcą bezproblemowo scalać i manipulować różnymi formatami plików. W tym samouczku nauczysz się, jak programowo scalać pliki ZIP przy użyciu tego potężnego interfejsu API. Na koniec będziesz mieć umiejętności potrzebne do zintegrowania funkcjonalności scalania plików ZIP z aplikacjami .NET.
+świecie zarządzania dokumentami GroupDocs.Merger for .NET to solidne narzędzie dla deweloperów, którzy chcą bezproblemowo scalać i manipulować różnymi formatami plików. W tym samouczku nauczysz się, jak programowo scalać pliki ZIP przy użyciu tego potężnego interfejsu API. Na koniec będziesz mieć umiejętności potrzebne do zintegrowania funkcjonalności scalania plików ZIP z aplikacjami .NET.
 
 ## Wymagania wstępne
 
@@ -30,7 +30,7 @@ using System.IO;
 
 ## Krok 1: Ustaw katalog wyjściowy i nazwę pliku
 
-Najpierw należy określić katalog wyjściowy, w którym zostanie zapisany scalony plik ZIP, i zdefiniować nazwę pliku wyjściowego:
+Najpierw należy określić katalog wyjściowy, w którym zostanie zapisany scalony plik ZIP, a także podać nazwę pliku wyjściowego:
 
 ```csharp
 string outputFolder = "Your_Output_Directory"; // Zastąp swoją rzeczywistą ścieżką
@@ -64,7 +64,7 @@ Console.WriteLine("\nZIP files merge completed successfully. Check the output in
 
 ## Wniosek
 
-tym samouczku dowiedziałeś się, jak scalać pliki ZIP za pomocą GroupDocs.Merger dla .NET. Postępując zgodnie z tymi prostymi krokami, możesz zintegrować możliwości scalania plików ZIP ze swoimi aplikacjami .NET, ulepszając procesy zarządzania dokumentami.
+W tym samouczku dowiedziałeś się, jak scalać pliki ZIP za pomocą GroupDocs.Merger dla .NET. Postępując zgodnie z tymi prostymi krokami, możesz zintegrować możliwości scalania plików ZIP ze swoimi aplikacjami .NET, ulepszając procesy zarządzania dokumentami.
 
 ## Najczęściej zadawane pytania
 
@@ -82,7 +82,7 @@ Tak, jest kompatybilny zarówno z aplikacjami .NET Framework, jak i .NET Core.
 
 ### Czy mogę dostosować proces scalania, np. określić kolejność plików w scalanym pliku ZIP?
 
-Tak, masz pełną kontrolę nad procesem scalania. Możesz określić kolejność plików, manipulując kolejnością, w jakiej wywołujesz`Join()` metoda.
+ Tak, masz pełną kontrolę nad procesem scalania. Możesz określić kolejność plików, manipulując kolejnością, w jakiej wywołujesz`Join()` metoda.
 
 ### Czy GroupDocs.Merger dla .NET wymaga licencji do użytku komercyjnego?
 

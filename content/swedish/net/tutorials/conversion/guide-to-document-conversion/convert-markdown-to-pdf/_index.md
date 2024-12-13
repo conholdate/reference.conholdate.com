@@ -19,7 +19,7 @@ Innan vi börjar, se till att du har följande inställning:
  Se till att du har .NET SDK installerat på din maskin. Du kan ladda ner den från[.NET webbplats](https://dotnet.microsoft.com/download).
 
 ### GroupDocs.Conversion för .NET Library
-Ladda ner GroupDocs.Conversion for .NET-biblioteket från[plats](https://releases.groupdocs.com/conversion/net/). Följ installationsinstruktionerna för att lägga till den i ditt projekt.
+ Ladda ner GroupDocs.Conversion for .NET-biblioteket från[plats](https://releases.groupdocs.com/conversion/net/)Följ installationsinstruktionerna för att lägga till den i ditt projekt.
 
 ## Steg 1: Importera nödvändiga namnområden
 Inkludera följande namnområden i ditt .NET-projekt för att komma åt GroupDocs-funktionerna:

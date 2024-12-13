@@ -31,7 +31,7 @@ using Aspose.Zip.Tar;
 
 ## 1단계: 문서 디렉토리 설정
 
-파일이 있는 디렉토리를 정의하는 것으로 시작합니다. 이는 압축 프로세스 전체에서 참조됩니다.
+파일이 있는 디렉토리를 정의하는 것으로 시작합니다. 이는 압축 프로세스 전반에 걸쳐 참조됩니다.
 
 ```csharp
 string dataDir = "Your Document Directory";

@@ -106,7 +106,7 @@ Bu kapsamlı kılavuzda, Aspose.PDF for .NET'in özelleştirilebilir JavaScript 
  Evet! İhtiyacınız olduğu kadar çok JavaScript işlevi ekleyebilirsiniz.`doc.JavaScript` koleksiyon.
 
 ### Varolmayan bir JavaScript fonksiyonunu kaldırmaya çalışırsam ne olur?
- Eğer fonksiyon mevcut değilse,`Remove` method bir hata atmaz, ancak hiçbir şeyi de kaldırmaz. Varolmayan işlevleri işlemek için ek hata işleme ekleyebilir veya kodu bunları yok sayacak şekilde değiştirebilirsiniz.
+ Eğer fonksiyon mevcut değilse,`Remove`method bir hata atmaz, ancak hiçbir şeyi de kaldırmaz. Varolmayan işlevleri işlemek için ek hata işleme ekleyebilir veya kodu bunları yok sayacak şekilde değiştirebilirsiniz.
 
 ### PDF açılır açılmaz JavaScript'i çalıştırmak mümkün müdür?
 Evet! JavaScript'i, belgeyi açmak veya bir düğmeye tıklamak gibi belirli tetikleyicilerde çalışacak şekilde yapılandırabilirsiniz.

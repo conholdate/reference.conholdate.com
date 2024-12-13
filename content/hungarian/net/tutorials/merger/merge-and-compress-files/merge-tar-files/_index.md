@@ -9,7 +9,7 @@ url: /hu/net/tutorials/merger/merge-and-compress-files/merge-tar-files/
 ---
 ## Bevezetés
 
-A szoftverfejlesztésben a hatékony adatkezelés kulcsfontosságú. Az egyik gyakori követelmény a fájlok programozott egyesítése. Itt ragyog a GroupDocs.Merger for .NET, amely lehetővé teszi a fejlesztők számára, hogy zökkenőmentesen egyesítsék a TAR (Tape Archive) fájlokat .NET-alkalmazásaikon belül. Ez az oktatóanyag átfogó útmutatót tartalmaz, lépésről lépésre és kódpéldákkal, hogy segítse az indulást.
+szoftverfejlesztésben a hatékony adatkezelés kulcsfontosságú. Az egyik gyakori követelmény a fájlok programozott egyesítése. Itt ragyog a GroupDocs.Merger for .NET, amely lehetővé teszi a fejlesztők számára, hogy zökkenőmentesen egyesítsék a TAR (Tape Archive) fájlokat .NET-alkalmazásaikon belül. Ez az oktatóanyag átfogó útmutatót tartalmaz, lépésről lépésre és kódpéldákkal, hogy segítse az indulást.
 
 ## Előfeltételek
 
@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Létrehozol egy újat`Merger` példány az első TAR-fájl elérési útjával.
 -  A`Join` módszer lehetővé teszi egy másik TAR-fájl hozzáadását az egyesítéshez (ez a lépés nem kötelező).
--  Végül hívj`Save`az egyesítési folyamat befejezéséhez és a kimeneti fájl beírásához a megadott könyvtárba.
+-  Végül hívj`Save` az egyesítési folyamat befejezéséhez és a kimeneti fájl beírásához a megadott könyvtárba.
 
 ## 3. lépés: Befejezési üzenet megjelenítése
 
@@ -73,7 +73,7 @@ Sikeresen megtanulta, hogyan lehet TAR-fájlokat egyesíteni a GroupDocs.Merger 
 
 ## GYIK
 
-### A GroupDocs.Merger képes kezelni a nagy TAR fájlokat?
+### GroupDocs.Merger képes kezelni a nagy TAR fájlokat?
 Igen, a GroupDocs.Merger a nagy TAR-fájlok hatékony feldolgozására készült optimalizált algoritmusok segítségével.
 
 ### A GroupDocs.Merger támogatja a TAR-on túli fájlformátumokat?

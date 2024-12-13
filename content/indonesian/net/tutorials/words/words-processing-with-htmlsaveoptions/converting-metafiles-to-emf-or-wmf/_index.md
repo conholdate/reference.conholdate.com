@@ -15,7 +15,7 @@ Mengelola dan mengonversi format gambar secara efisien merupakan bagian penting 
 
 Untuk memastikan pengalaman pengembangan yang lancar, pastikan prasyarat berikut terpenuhi:
 
-- Aspose.Words untuk .NET: Dapatkan versi terbaru dari[Aspose merilis halaman](https://releases.aspose.com/words/net/).
+-  Aspose.Words untuk .NET: Dapatkan versi terbaru dari[Aspose merilis halaman](https://releases.aspose.com/words/net/).
 - .NET Framework: Verifikasi pemasangan .NET Framework (atau .NET Core/5/6 tergantung lingkungan Anda).
 - Lingkungan Pengembangan: Visual Studio direkomendasikan karena fitur-fiturnya yang tangguh.
 - Kemampuan C#: Kemampuan dasar dalam pemrograman C# sangatlah penting.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## Langkah 4: Memuat HTML ke dalam Dokumen Word
 
-Gunakan opsi beban yang dikonfigurasi untuk membuat`Document` objek dari string HTML.
+ Gunakan opsi beban yang dikonfigurasi untuk membuat`Document` objek dari string HTML.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

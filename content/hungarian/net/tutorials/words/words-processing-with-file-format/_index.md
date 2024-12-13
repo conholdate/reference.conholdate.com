@@ -13,11 +13,11 @@ Elmerül a dokumentumfeldolgozás világában .NET-alkalmazásaiban? Ne keressen
 
 ## Dokumentumfájl formátum észlelése
 
- Először is a fájlformátumok megértése kulcsfontosságú. Előfordult már, hogy megnyitott egy dokumentumot, és azt tapasztalta, hogy nem abban a formában van, ahogyan azt várta? Vel[Dokumentumfájl formátum észlelése](./document-file-format-detection/)megtudhatja, hogyan azonosíthatja és kezelheti zökkenőmentesen a különböző dokumentumformátumokat. Részletes útmutatónk gyakorlati példákat kínál, amelyek biztosítják, hogy ezeket a technikákat könnyedén megvalósíthassa projektjeiben. A fájlformátumok felismerése megkímélheti a fejfájástól később, amikor különböző dokumentumtípusokkal dolgozik. 
+ Először is a fájlformátumok megértése kulcsfontosságú. Előfordult már, hogy megnyitott egy dokumentumot, és azt tapasztalta, hogy nem abban a formában van, ahogyan azt várta? Vel[Dokumentumfájl formátum észlelése](./document-file-format-detection/), megtudhatja, hogyan azonosíthatja és kezelheti zökkenőmentesen a különböző dokumentumformátumokat. Részletes útmutatónk gyakorlati példákat kínál, amelyek biztosítják, hogy ezeket a technikákat könnyedén megvalósíthassa projektjeiben. A fájlformátumok felismerése megkímélheti a fejfájástól később, amikor különböző dokumentumtípusokkal dolgozik. 
 
 ## Digitális aláírások észlelése Word dokumentumokban
 
- A digitális aláírás olyan, mint a digitális dokumentumvilág titkos kézfogása. Szeretné megbizonyosodni arról, hogy Word-dokumentumai biztonságosak és hitelesek? Tekintse meg oktatóanyagunkat[Digitális aláírások észlelése Word dokumentumokban](./detecting-digital-signatures/). Ez az átfogó útmutató végigvezeti a teljes folyamaton, a projekt beállításától az aláírások tényleges ellenőrzéséig. Egy olyan világban, ahol a dokumentumok integritása a legfontosabb, a digitális aláírások kezelésének ismerete megkülönböztetheti Önt a biztonsággal törődő fejlesztőként.
+ digitális aláírás olyan, mint a digitális dokumentumvilág titkos kézfogása. Szeretné megbizonyosodni arról, hogy Word-dokumentumai biztonságosak és hitelesek? Tekintse meg oktatóanyagunkat[Digitális aláírások észlelése Word dokumentumokban](./detecting-digital-signatures/). Ez az átfogó útmutató végigvezeti a teljes folyamaton, a projekt beállításától az aláírások tényleges ellenőrzéséig. Egy olyan világban, ahol a dokumentumok integritása a legfontosabb, a digitális aláírások kezelésének ismerete megkülönböztetheti Önt a biztonsággal törődő fejlesztőként.
 
 ## Ellenőrizze a Word dokumentum titkosítását
 

@@ -17,7 +17,7 @@ Innan du dyker in i koden är det viktigt att se till att du har de nödvändiga
 
 ### Aspose.Words för .NET
 
-För att komma igång behöver du Aspose.Words för .NET. Om du inte redan har gjort det, ladda ner den från[webbplats](https://releases.aspose.com/words/net/) . Om du är ny på Aspose.Words kan du prova det gratis genom att ladda ner en[gratis provperiod](https://releases.aspose.com/).
+För att komma igång behöver du Aspose.Words för .NET. Om du inte redan har gjort det, ladda ner det från[webbplats](https://releases.aspose.com/words/net/) . Om du är ny på Aspose.Words kan du prova det gratis genom att ladda ner en[gratis provperiod](https://releases.aspose.com/).
 
 ### Utvecklingsmiljö
 

@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Krok 5: Zainicjuj dołączony plik
 
- Określ ścieżkę do pliku, który chcesz dołączyć, używając`AttachedFile` klasa.
+ Określ ścieżkę do pliku, który chcesz dołączyć, używając`AttachedFile`klasa.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

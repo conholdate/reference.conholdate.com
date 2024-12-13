@@ -119,7 +119,7 @@ Evet, yazı tipi, boyutu ve hizalama dahil olmak üzere İçindekiler tablosunun
 
 ### İçindekiler tablosuna alt başlıklar nasıl eklenir?
 
- Alt başlıkları ayarlayarak ekleyebilirsiniz.`Heading` seviye (örneğin,`Heading(2)`).
+Alt başlıkları ayarlayarak ekleyebilirsiniz.`Heading` seviye (örneğin,`Heading(2)`).
 
 ### Belge değiştiğinde İçindekiler tablosunun otomatik olarak güncellenmesi mümkün müdür?
 

@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  Teraz utwórz instancję`Document` obiekt do reprezentowania pliku CGM w pamięci. Pozwala to na manipulowanie plikiem przed zapisaniem go jako PDF.
 
 ```csharp
-//Utwórz obiekt dokumentu
+// Utwórz obiekt dokumentu
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ Oczywiście! Aspose.PDF obsługuje wiele formatów, w tym HTML, XML i obrazy, co
 
 ### Gdzie mogę znaleźć pomoc dotyczącą Aspose.PDF?
 
- Aby uzyskać pomoc, odwiedź stronę[Forum wsparcia Aspose](https://forum.aspose.com/c/pdf/10), gdzie możesz zadać pytania i znaleźć rozwiązania typowych problemów.
+Aby uzyskać pomoc, odwiedź stronę[Forum wsparcia Aspose](https://forum.aspose.com/c/pdf/10)gdzie możesz zadać pytania i znaleźć rozwiązania typowych problemów.
 
 ### Jak kupić licencję na Aspose.PDF?
 

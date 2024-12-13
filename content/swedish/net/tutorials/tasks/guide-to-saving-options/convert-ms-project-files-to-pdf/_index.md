@@ -45,7 +45,7 @@ var project = new Project("Your_Project_File_Path.mpp");
 
 ## Steg 2: Konfigurera PDF-sparalternativ
 
-Ställ in alternativ för att anpassa utdata PDF. Aspose.Tasks för .NET ger flexibilitet för att kontrollera sidrendering, layout och andra aspekter.
+Ställ in alternativ för att anpassa utdata-PDF-filen. Aspose.Tasks för .NET ger flexibilitet för att kontrollera sidrendering, layout och andra aspekter.
 
 ```csharp
 var options = new PdfSaveOptions
@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Steg 4: Välj specifika sidor för export (valfritt)
 
- Ange de exakta sidor som ska inkluderas i PDF:en genom att fylla i`Pages` egendom. För att till exempel exportera sidorna 1 och 4:
+Ange de exakta sidor som ska inkluderas i PDF:en genom att fylla i`Pages` egendom. För att till exempel exportera sidorna 1 och 4:
 
 ```csharp
 options.Pages.Add(1);

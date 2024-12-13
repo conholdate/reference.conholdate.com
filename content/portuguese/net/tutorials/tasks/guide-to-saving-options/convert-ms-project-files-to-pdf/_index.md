@@ -9,7 +9,7 @@ url: /pt/net/tutorials/tasks/guide-to-saving-options/convert-ms-project-files-to
 ---
 ## Introdução
 
-gerenciamento eficiente de arquivos de projeto desempenha um papel fundamental em fluxos de trabalho simplificados e no sucesso do projeto. Usando o Aspose.Tasks para .NET, os desenvolvedores podem converter arquivos do Microsoft Project em formato PDF com precisão e flexibilidade. Neste guia, percorreremos o processo passo a passo para salvar arquivos do Microsoft Project (.mpp) como PDFs, completos com opções personalizáveis.
+O gerenciamento eficiente de arquivos de projeto desempenha um papel fundamental em fluxos de trabalho simplificados e no sucesso do projeto. Usando o Aspose.Tasks para .NET, os desenvolvedores podem converter arquivos do Microsoft Project em formato PDF com precisão e flexibilidade. Neste guia, percorreremos o processo passo a passo para salvar arquivos do Microsoft Project (.mpp) como PDFs, completos com opções personalizáveis.
 
 ## Pré-requisitos para usar Aspose.Tasks para .NET
 
@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Etapa 4: Selecione páginas específicas para exportação (opcional)
 
- Especifique as páginas exatas a serem incluídas no PDF preenchendo o`Pages` propriedade. Por exemplo, para exportar as páginas 1 e 4:
+Especifique as páginas exatas a serem incluídas no PDF preenchendo o`Pages` propriedade. Por exemplo, para exportar as páginas 1 e 4:
 
 ```csharp
 options.Pages.Add(1);

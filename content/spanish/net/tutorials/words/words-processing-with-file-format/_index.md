@@ -17,7 +17,7 @@ url: /es/net/tutorials/words/words-processing-with-file-format/
 
 ## Detección de firmas digitales en documentos de Word
 
- Las firmas digitales son como el apretón de manos secreto del mundo de los documentos digitales. ¿Quiere asegurarse de que sus documentos de Word sean seguros y auténticos? Consulte nuestro tutorial sobre[Detección de firmas digitales en documentos de Word](./detecting-digital-signatures/)Esta guía completa lo guiará a través de todo el proceso, desde la configuración del proyecto hasta la verificación de firmas. En un mundo donde la integridad de los documentos es primordial, saber cómo manejar las firmas digitales puede diferenciarlo como un desarrollador que se preocupa por la seguridad.
+Las firmas digitales son como el apretón de manos secreto del mundo de los documentos digitales. ¿Quiere asegurarse de que sus documentos de Word sean seguros y auténticos? Consulte nuestro tutorial sobre[Detección de firmas digitales en documentos de Word](./detecting-digital-signatures/)Esta guía completa lo guiará a través de todo el proceso, desde la configuración del proyecto hasta la verificación de firmas. En un mundo donde la integridad de los documentos es primordial, saber cómo manejar las firmas digitales puede diferenciarlo como un desarrollador que se preocupa por la seguridad.
 
 ## Verificar el cifrado de un documento de Word
 

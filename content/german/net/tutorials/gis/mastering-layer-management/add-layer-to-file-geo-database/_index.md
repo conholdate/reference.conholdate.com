@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // Erstellen Sie eine neue Ebene mit dem räumlichen Referenzsystem WGS 84
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //Hinzufügen eines Attributschemas
+        // Hinzufügen eines Attributschemas
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // Erstellen und Hinzufügen einer Funktion

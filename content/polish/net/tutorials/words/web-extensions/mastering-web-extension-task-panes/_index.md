@@ -9,7 +9,7 @@ url: /pl/net/tutorials/words/web-extensions/mastering-web-extension-task-panes/
 ---
 ## Wstęp  
 
-W tym kompleksowym przewodniku zagłębiamy się w potężną funkcjonalność integrowania okienek zadań rozszerzeń internetowych z dokumentami Word przy użyciu Aspose.Words dla .NET. Okienka zadań zapewniają użytkownikom dynamiczne, interaktywne narzędzia bezpośrednio w dokumentach Word, dzięki czemu przepływy pracy są płynniejsze i bardziej wydajne. Przyjrzyjmy się, jak można skonfigurować okienka zadań rozszerzeń internetowych za pomocą Aspose.Words.
+tym kompleksowym przewodniku zagłębiamy się w potężną funkcjonalność integrowania okienek zadań rozszerzeń internetowych z dokumentami Word przy użyciu Aspose.Words dla .NET. Okienka zadań zapewniają użytkownikom dynamiczne, interaktywne narzędzia bezpośrednio w dokumentach Word, dzięki czemu przepływy pracy są płynniejsze i bardziej wydajne. Przyjrzyjmy się, jak można skonfigurować okienka zadań rozszerzeń internetowych za pomocą Aspose.Words.
 
 ## Wymagania wstępne  
 

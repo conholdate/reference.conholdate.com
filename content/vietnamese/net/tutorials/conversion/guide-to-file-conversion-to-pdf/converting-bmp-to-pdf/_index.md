@@ -92,8 +92,8 @@ Không, thư viện này hoạt động độc lập và không yêu cầu bất
 
 ### Có phiên bản dùng thử để kiểm tra không?
 
-Có, bạn có thể tải xuống phiên bản dùng thử miễn phí từ[trang phát hành](https://releases.groupdocs.com/) để khám phá khả năng của thư viện trước khi mua.
+ Có, bạn có thể tải xuống phiên bản dùng thử miễn phí từ[trang phát hành](https://releases.groupdocs.com/) để khám phá khả năng của thư viện trước khi mua.
 
 ### Tôi có thể nhận được sự giúp đỡ hoặc hỗ trợ ở đâu?
 
- Nếu bạn gặp bất kỳ vấn đề nào, bạn có thể truy cập[Diễn đàn GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) để được cộng đồng hỗ trợ hoặc liên hệ với nhóm hỗ trợ của họ để được trợ giúp cá nhân.
+Nếu bạn gặp bất kỳ vấn đề nào, bạn có thể truy cập[Diễn đàn GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) để được cộng đồng hỗ trợ hoặc liên hệ với nhóm hỗ trợ của họ để được trợ giúp cá nhân.

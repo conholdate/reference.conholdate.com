@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Adım 4: İmza Nesnesini Başlatın
 
- Bir örneğini oluşturun`Signature` sınıf, belge dosya yolunu geçirerek:
+ Bir örneğini oluşturun`Signature`sınıf, belge dosya yolunu geçirerek:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

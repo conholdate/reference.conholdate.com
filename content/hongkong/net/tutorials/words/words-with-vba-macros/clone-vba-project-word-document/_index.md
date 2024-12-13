@@ -2,7 +2,7 @@
 title: 使用 Aspose.Words 在 Word 文件中複製 VBA 項目
 linktitle: 使用 Aspose.Words 在 Word 文件中複製 VBA 項目
 second_title: Aspose.Words 文件處理 API
-description: 了解如何使用 Aspose.Words for .NET 將 VBA 專案從一個 Word 文件無縫複製到另一個文件。本逐步教學將引導您完成設定。
+description: 了解如何使用 Aspose.Words for .NET 將 VBA 專案從一個 Word 文件無縫複製到另一個 Word 文件。本逐步教學將引導您完成設定。
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/words/words-with-vba-macros/clone-vba-project-word-document/

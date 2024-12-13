@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Låt oss börja med att ladda våra käll- och måldokument i Word och initiera de nödvändiga variablerna.
 
 ```csharp
-// Ladda käll- och måldokumenten.
+//Ladda käll- och måldokumenten.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,7 +110,7 @@ Ja, du kan upprepa processen för varje bokmärke och lägga till texten efter b
 Det aktuella exemplet förutsätter att de har samma förälder. Om de inte gör det måste du implementera mer komplex hantering.
 
 ### Kommer den ursprungliga formateringen av den bifogade texten att bevaras?
- Absolut! Använder`ImportFormatMode.KeepSourceFormatting` säkerställer att den ursprungliga formateringen bibehålls.
+ Absolut! Använder`ImportFormatMode.KeepSourceFormatting`säkerställer att den ursprungliga formateringen bibehålls.
 
 ### Är det möjligt att lägga till text till en specifik position i måldokumentet?
 Ja, du kan lägga till text till valfri plats genom att navigera till lämplig nod i måldokumentet.

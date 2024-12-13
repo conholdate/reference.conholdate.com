@@ -81,4 +81,4 @@ GroupDocs.Metadata ondersteunt een breed scala aan bestandsindelingen, waaronder
  Ja, u kunt toegang krijgen tot een[gratis proefperiode](https://releases.groupdocs.com/) om de functies van GroupDocs.Metadata te verkennen.
 
 ### Hoe kan ik een licentie voor GroupDocs.Metadata aanschaffen?
- Om een licentie te verkrijgen, bezoek dan de[aankooppagina](https://purchase.groupdocs.com/buy)Tijdelijke licenties zijn ook beschikbaar[hier](https://purchase.groupdocs.com/temporary-license/).
+ Om een licentie te verkrijgen, bezoek dan de[aankooppagina](https://purchase.groupdocs.com/buy) Tijdelijke licenties zijn ook beschikbaar[hier](https://purchase.groupdocs.com/temporary-license/).

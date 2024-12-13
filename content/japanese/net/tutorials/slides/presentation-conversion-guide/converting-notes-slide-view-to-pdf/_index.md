@@ -16,7 +16,7 @@ PowerPoint プレゼンテーションを頻繁に使用する場合は、詳細
 始める前に、次の要件を満たしていることを確認してください。
 
 - 開発環境: インストール[ビジュアルスタジオ](https://visualstudio.microsoft.com/)または任意の C# IDE。
-- Aspose.Slides for .NETライブラリ:ライブラリを以下からダウンロードしてください。[ここ](https://releases.aspose.com/slides/net/).
+-  Aspose.Slides for .NETライブラリ:ライブラリを以下からダウンロードしてください。[ここ](https://releases.aspose.com/slides/net/).
 - プレゼンテーションファイル: PowerPointファイル（例：`NotesFile.pptx`）変換の準備ができました。
 
 ## 環境の設定

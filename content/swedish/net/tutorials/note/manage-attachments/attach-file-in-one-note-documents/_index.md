@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Steg 5: Initiera den bifogade filen
 
- Ange sökvägen till filen som du vill bifoga med hjälp av`AttachedFile` klass.
+ Ange sökvägen till filen som du vill bifoga med hjälp av`AttachedFile`klass.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

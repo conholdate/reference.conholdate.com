@@ -15,7 +15,7 @@ Efektivní správa a převod obrazových formátů je klíčovou součástí vyt
 
 Chcete-li zajistit hladký vývoj, potvrďte, že jsou splněny následující předpoklady:
 
-- Aspose.Words for .NET: Získejte nejnovější verzi z[Aspose stránku vydání](https://releases.aspose.com/words/net/).
+-  Aspose.Words for .NET: Získejte nejnovější verzi z[Aspose stránku vydání](https://releases.aspose.com/words/net/).
 - .NET Framework: Ověřte instalaci .NET Framework (nebo .NET Core/5/6 v závislosti na vašem prostředí).
 - Vývojové prostředí: Visual Studio se doporučuje pro jeho robustní funkce.
 - Znalost C#: Základní znalost programování v C# je nezbytná.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## Krok 4: Načtěte HTML do dokumentu aplikace Word
 
-Pomocí konfigurovaných možností zatížení vytvořte a`Document` objekt z řetězce HTML.
+ Pomocí konfigurovaných možností zatížení vytvořte a`Document` objekt z řetězce HTML.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

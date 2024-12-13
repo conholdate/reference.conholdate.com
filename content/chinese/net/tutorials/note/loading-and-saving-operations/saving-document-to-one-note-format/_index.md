@@ -17,7 +17,7 @@ Aspose.Note 是一个强大的库，适用于希望通过 .NET 管理和操作 M
 
 1. 基本 C# 和 .NET 知识：需要熟悉 C# 编程语言和 .NET 框架。
    
-2. Aspose.Note for .NET 安装：从以下位置下载并安装 Aspose.Note 库：[Aspose 网站](https://releases.aspose.com/note/net/).
+2.  Aspose.Note for .NET 安装：从以下位置下载并安装 Aspose.Note 库：[Aspose 网站](https://releases.aspose.com/note/net/).
 
 3. 开发环境：设置合适的开发环境，例如Visual Studio。
 

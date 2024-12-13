@@ -62,14 +62,14 @@ Taka struktura upraszcza zarządzanie plikami.
 
 ## Krok 2: Pobierz listę plików
 
-Filtruj uszkodzone lub nieobsługiwane dokumenty, aby usprawnić przetwarzanie.
+Odfiltruj uszkodzone lub nieobsługiwane dokumenty, aby usprawnić przetwarzanie.
 
 ```csharp
 IEnumerable<string> fileList = Directory.GetFiles(dataDir)
     .Where(fileName => !fileName.EndsWith("Corrupted document.docx"));
 ```
 
-Dzięki filtrowanej liście masz pewność, że pracujesz tylko z prawidłowymi plikami.
+Lista filtrów zapewnia pracę wyłącznie z prawidłowymi plikami.
 
 ## Krok 3: Wykryj i sklasyfikuj formaty plików
 

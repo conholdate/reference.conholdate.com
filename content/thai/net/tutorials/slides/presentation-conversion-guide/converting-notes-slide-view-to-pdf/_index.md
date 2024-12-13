@@ -16,7 +16,7 @@ url: /th/net/tutorials/slides/presentation-conversion-guide/converting-notes-sli
 ก่อนที่จะดำน้ำ ให้แน่ใจว่าคุณปฏิบัติตามข้อกำหนดต่อไปนี้:
 
 -  สภาพแวดล้อมการพัฒนา: การติดตั้ง[วิชวลสตูดิโอ](https://visualstudio.microsoft.com/) หรือ IDE C# ใด ๆ
-- Aspose.Slides สำหรับไลบรารี .NET: ดาวน์โหลดไลบรารีจาก[ที่นี่](https://releases.aspose.com/slides/net/).
+-  Aspose.Slides สำหรับไลบรารี .NET: ดาวน์โหลดไลบรารีจาก[ที่นี่](https://releases.aspose.com/slides/net/).
 -  ไฟล์นำเสนอ: มีไฟล์ PowerPoint (เช่น`NotesFile.pptx`) พร้อมสำหรับการแปลง
 
 ## การตั้งค่าสภาพแวดล้อมของคุณ
@@ -73,7 +73,7 @@ options.NotesPosition = NotesPositions.BottomFull;
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
- ซึ่งจะสร้างไฟล์ PDF ชื่อ`Pdf_Notes_out.pdf` ในไดเร็กทอรีที่คุณระบุ ซึ่งมีสไลด์พร้อมบันทึกย่อ
+ซึ่งจะสร้างไฟล์ PDF ชื่อ`Pdf_Notes_out.pdf` ในไดเร็กทอรีที่คุณระบุ ซึ่งมีสไลด์พร้อมบันทึกย่อ
 
 ## บทสรุป
 
@@ -88,10 +88,10 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
  คุณสามารถดาวน์โหลดเวอร์ชันทดลองใช้งานฟรีได้จาก[ที่นี่](https://releases.aspose.com/).
 
 ### คำถามที่ 3: มีตัวเลือกการส่งออก PDF อื่น ๆ หรือไม่
-ใช่ คุณสามารถปรับแต่งแบบอักษร เค้าโครงหน้า การบีบอัด และอื่นๆ ได้โดยใช้`PdfOptions` ระดับ.
+ ใช่ คุณสามารถปรับแต่งแบบอักษร เค้าโครงหน้า การบีบอัด และอื่นๆ ได้โดยใช้`PdfOptions`ระดับ.
 
 ### คำถามที่ 4: ฉันสามารถส่งออกเฉพาะสไลด์บางอันได้หรือไม่
- แน่นอน! คุณสามารถเลือกสไลด์ที่ต้องการได้โดยใช้`Slides` คอลเลกชันใน`Presentation` ระดับ.
+ แน่นอน! คุณสามารถเลือกสไลด์ที่ต้องการได้โดยใช้`Slides` คอลเลกชันใน`Presentation`ระดับ.
 
 ### คำถามที่ 5: ฉันสามารถหาตัวอย่างเพิ่มเติมได้ที่ไหน
  เยี่ยมชม[เอกสาร Aspose.Slides สำหรับ .NET](https://reference.aspose.com/slides/net/) สำหรับตัวอย่างและกรณีการใช้งานเพิ่มเติม

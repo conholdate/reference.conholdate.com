@@ -36,7 +36,7 @@ using GroupDocs.Conversion.Options.Convert;
 ```
 
 ## Schritt 1: Ausgabeverzeichnis und Dateinamen festlegen
-Bestimmen Sie, wo Ihre konvertierte PDF-Datei gespeichert wird, und legen Sie den Namen für Ihre Ausgabedatei fest:
+Bestimmen Sie, wo Ihre konvertierte PDF-Datei gespeichert werden soll, und legen Sie den Namen für Ihre Ausgabedatei fest:
 
 ```csharp
 string outputFolder = "Your Document Directory"; // Geben Sie Ihr Verzeichnis an
@@ -61,13 +61,13 @@ var options = new PdfConvertOptions(); // PDF-Konvertierungsoptionen erstellen
 ```
 
 ## Schritt 4: Konvertierung durchführen
- Rufen Sie den`Convert`Methode, um die Formatänderung auszuführen. Geben Sie Ihren Ausgabedateipfad zusammen mit den Konvertierungsoptionen ein:
+ Rufen Sie den`Convert` Methode, um die Formatänderung auszuführen. Geben Sie Ihren Ausgabedateipfad zusammen mit den Konvertierungsoptionen ein:
 
 ```csharp
-converter.Convert(outputFile, options); // Führen Sie die Konvertierung durch
+converter.Convert(outputFile, options); //Führen Sie die Konvertierung durch
 ```
 
-## Schritt 5: Anzeige einer Abschlussmeldung
+## Schritt 5: Eine Abschlussmeldung anzeigen
 Sobald die Konvertierung abgeschlossen ist, empfiehlt es sich, den Benutzer zu informieren. Sie können die folgende Zeile hinzufügen:
 
 ```csharp
@@ -92,4 +92,4 @@ Die Bibliothek unterstützt eine große Bandbreite an Formaten, darunter Bilder,
  Ja, Sie können eine Testversion herunterladen von der[GroupDocs-Website](https://releases.groupdocs.com/).
 
 ### Wo erhalte ich Support zu GroupDocs.Conversion für .NET?
- Weitere Informationen finden Sie im[GroupDocs.Conversion-Forum](https://forum.groupdocs.com/c/conversion/11) um Kontakt mit der Community aufzunehmen und Hilfe zu suchen.
+Weitere Informationen finden Sie im[GroupDocs.Conversion-Forum](https://forum.groupdocs.com/c/conversion/11) um Kontakt mit der Community aufzunehmen und Hilfe zu suchen.

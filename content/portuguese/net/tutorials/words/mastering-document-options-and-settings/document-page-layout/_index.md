@@ -15,7 +15,7 @@ Configurar o layout da página do seu documento pode ser uma tarefa assustadora,
 
 Antes de começar, certifique-se de ter o seguinte:
 
--  Aspose.Words para .NET: Baixe-o[aqui](https://releases.aspose.com/words/net/).
+- Aspose.Words para .NET: Baixe-o[aqui](https://releases.aspose.com/words/net/).
 -  Uma licença válida: compre uma[aqui](https://purchase.aspose.com/buy) ou obter uma licença temporária[aqui](https://purchase.aspose.com/temporary-license/).
 - Noções básicas de programação em C#: Não se preocupe, vou manter as coisas simples.
 - Ambiente de Desenvolvimento Integrado (IDE): O Visual Studio é altamente recomendado.
@@ -86,7 +86,7 @@ Aspose.Words para .NET é uma biblioteca robusta para criar, modificar e convert
  Sim, você pode utilizá-lo com uma licença temporária, que você pode obter[aqui](https://purchase.aspose.com/temporary-license/).
 
 ### Como instalo o Aspose.Words para .NET?
- Faça o download em[aqui](https://releases.aspose.com/words/net/) e siga as instruções de instalação fornecidas.
+ Baixe-o de[aqui](https://releases.aspose.com/words/net/) e siga as instruções de instalação fornecidas.
 
 ### Quais idiomas o Aspose.Words suporta?
 O Aspose.Words oferece suporte a uma ampla variedade de idiomas, incluindo idiomas asiáticos, como chinês e japonês.

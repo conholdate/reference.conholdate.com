@@ -103,10 +103,10 @@ In questa guida completa, hai scoperto come sbloccare la potenza della funzional
 ## Domande frequenti
 
 ### Posso aggiungere più funzioni JavaScript a un singolo PDF?
- Sì! Puoi aggiungere tutte le funzioni JavaScript che desideri utilizzando`doc.JavaScript` collezione.
+ Sì! Puoi aggiungere tutte le funzioni JavaScript di cui hai bisogno utilizzando`doc.JavaScript` collezione.
 
 ### Cosa succede se provo a rimuovere una funzione JavaScript inesistente?
- Se la funzione non esiste,`Remove` metodo non genererà un errore, ma non rimuoverà nulla. Per gestire funzioni inesistenti, puoi aggiungere ulteriore gestione degli errori o modificare il codice per ignorarli.
+ Se la funzione non esiste,`Remove`metodo non genererà un errore, ma non rimuoverà nulla. Per gestire funzioni inesistenti, puoi aggiungere ulteriore gestione degli errori o modificare il codice per ignorarli.
 
 ### È possibile eseguire JavaScript non appena si apre il PDF?
 Sì! Puoi configurare JavaScript per l'esecuzione su trigger specifici, come l'apertura del documento o il clic su un pulsante.

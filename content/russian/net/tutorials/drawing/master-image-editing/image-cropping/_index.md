@@ -15,7 +15,7 @@ url: /ru/net/tutorials/drawing/master-image-editing/image-cropping/
 
 Прежде чем начать, убедитесь, что у вас есть следующее:
 
--  Библиотека Aspose.Drawing: Убедитесь, что вы интегрировали библиотеку Aspose.Drawing в свой проект .NET. Вы можете загрузить ее[здесь](https://releases.aspose.com/drawing/net/).
+- Библиотека Aspose.Drawing: Убедитесь, что вы интегрировали библиотеку Aspose.Drawing в свой проект .NET. Вы можете загрузить ее[здесь](https://releases.aspose.com/drawing/net/).
   
 -  Каталог изображений: Создайте специальный каталог для изображений вашего проекта. Вам нужно будет заменить`"Your Document Directory"` в фрагментах кода укажите путь к папке с изображениями.
 
@@ -115,4 +115,4 @@ bitmap.Save("Your Document Directory" + @"Images\Cropping_out.png");
 
 ### Где я могу получить поддержку по вопросам, связанным с Aspose.Drawing?
 
- Для получения помощи посетите[Форум Aspose.Drawing](https://forum.aspose.com/c/diagram/17) для связи с сообществом и поиска помощи по вашим вопросам.
+Для получения помощи посетите[Форум Aspose.Drawing](https://forum.aspose.com/c/diagram/17) для связи с сообществом и поиска помощи по вашим вопросам.

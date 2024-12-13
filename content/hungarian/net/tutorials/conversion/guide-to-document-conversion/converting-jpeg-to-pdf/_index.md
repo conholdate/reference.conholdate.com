@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // PDF-konverziós beállítások létreh
 ```
 
 ## 4. lépés: Hajtsa végre az átalakítást
- Hívja fel a`Convert`módszer a formátumváltás végrehajtására. Add meg a kimeneti fájl elérési útját a konverziós beállításokkal együtt:
+ Hívja fel a`Convert` módszer a formátumváltás végrehajtására. Add meg a kimeneti fájl elérési útját a konverziós beállításokkal együtt:
 
 ```csharp
-converter.Convert(outputFile, options); // Hajtsa végre az átalakítást
+converter.Convert(outputFile, options); //Hajtsa végre az átalakítást
 ```
 
 ## 5. lépés: Jelenítsen meg egy Befejezési üzenetet
@@ -86,10 +86,10 @@ Igen, kompatibilis több .NET-keretrendszerrel, beleértve a .NET Core-t és a .
 Teljesen! Párhuzamos feldolgozási technikákat alkalmazhat több fájl egyidejű konvertálásához.
 
 ### A GroupDocs.Conversion for .NET támogatja az összes fájlformátum közötti átalakítást?
-könyvtár formátumok széles skáláját támogatja, beleértve a képeket, dokumentumokat, táblázatokat, prezentációkat és egyebeket.
+A könyvtár formátumok széles skáláját támogatja, beleértve a képeket, dokumentumokat, táblázatokat, prezentációkat és egyebeket.
 
 ### Elérhető a GroupDocs.Conversion for .NET próbaverziója?
  Igen, letöltheti a próbaverziót a webhelyről[GroupDocs webhely](https://releases.groupdocs.com/).
 
 ### Hol kaphatok támogatást a GroupDocs.Conversion for .NET-hez?
- Segítségért keresse fel a[GroupDocs.Conversion fórum](https://forum.groupdocs.com/c/conversion/11) kapcsolatba lépni a közösséggel és segítséget kérni.
+Segítségért keresse fel a[GroupDocs.Conversion fórum](https://forum.groupdocs.com/c/conversion/11) kapcsolatba lépni a közösséggel és segítséget kérni.

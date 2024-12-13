@@ -14,7 +14,7 @@ url: /ja/net/tutorials/metadata/pdf-metadata-management/reading-built-in-propert
 始める前に、以下のものを用意してください。
 
 - Visual Studio: システムにインストールされていることを確認してください。
-- GroupDocs.Metadata for .NET: ダウンロードしてインストールしてください。[公式サイト](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata for .NET: ダウンロードしてインストールしてください。[公式サイト](https://releases.groupdocs.com/metadata/net/).
 - C# の基礎知識: C# と .NET フレームワークに精通していることが推奨されます。
 
 ## 名前空間のインポート
@@ -31,7 +31,7 @@ PDF ファイルからメタデータを読み取るには、次のコードを�
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // PDFファイルのルートパッケージにアクセスする
+    //PDFファイルのルートパッケージにアクセスする
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     //組み込みプロパティを取得して表示する

@@ -15,14 +15,14 @@ Nastavení rozvržení stránky vašeho dokumentu může být skličující úko
 
 Než začneme, ujistěte se, že máte následující:
 
--  Aspose.Words pro .NET: Stáhněte si ji[zde](https://releases.aspose.com/words/net/).
+- Aspose.Words pro .NET: Stáhněte si ji[zde](https://releases.aspose.com/words/net/).
 -  Platná licence: Kupte si jednu[zde](https://purchase.aspose.com/buy) nebo získat dočasnou licenci[zde](https://purchase.aspose.com/temporary-license/).
 - Základní porozumění programování v C#: Nebojte se, vše zjednoduším.
 - Integrované vývojové prostředí (IDE): Velmi doporučujeme Visual Studio.
 
 ## Importujte potřebné jmenné prostory
 
-Abyste mohli využívat funkce Aspose.Words, musíte do projektu importovat požadované jmenné prostory:
+Abyste mohli využívat funkce Aspose.Words, musíte do svého projektu importovat požadované jmenné prostory:
 
 ```csharp
 using System;

@@ -81,4 +81,4 @@ Trên thực tế, GroupDocs.Metadata hỗ trợ nhiều định dạng tệp, b
  Có, bạn có thể truy cập một[dùng thử miễn phí](https://releases.groupdocs.com/) để khám phá các tính năng của GroupDocs.Metadata.
 
 ### Làm thế nào tôi có thể mua giấy phép cho GroupDocs.Metadata?
- Để có được giấy phép, vui lòng truy cập[trang mua hàng](https://purchase.groupdocs.com/buy) Giấy phép tạm thời cũng có sẵn[đây](https://purchase.groupdocs.com/temporary-license/).
+ Để có được giấy phép, vui lòng truy cập[trang mua hàng](https://purchase.groupdocs.com/buy) . Giấy phép tạm thời cũng có sẵn[đây](https://purchase.groupdocs.com/temporary-license/).

@@ -91,7 +91,7 @@ Bár az Aspose.Words licenc nélkül is használható, egyes speciális funkció
  Töltse le a[weboldal](https://releases.aspose.com/words/net/) és kövesse a mellékelt telepítési utasításokat.
 
 ### Beállíthatok különböző mértékegységeket a dokumentum különböző szakaszaihoz?
- Teljesen! Testreszabhatja a margókat és beállításokat a különböző szakaszokhoz a segítségével`Section` osztály.
+ Teljesen! Testreszabhatja a margókat és beállításokat a különböző szakaszokhoz a segítségével`Section`osztály.
 
 ### Milyen egyéb funkciókat kínál az Aspose.Words?
  Az Aspose.Words a funkciók széles skáláját támogatja, beleértve a dokumentumkonverziót, a körlevél-egyesítést és a kiterjedt formázási lehetőségeket. Ellenőrizze a[dokumentáció](https://reference.aspose.com/words/net/) további részletekért.

@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
- 그만큼`InsertSignatureLine`이 방법은 서명 줄을 추가하고, 여기에 고유한 공급자 ID를 할당합니다.
+ 그만큼`InsertSignatureLine` 이 방법은 서명 줄을 추가하고, 여기에 고유한 공급자 ID를 할당합니다.
 
 ## 4단계: 문서 저장
 

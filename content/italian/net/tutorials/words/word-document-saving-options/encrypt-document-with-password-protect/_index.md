@@ -55,7 +55,7 @@ builder.Write("Hello, World!");
 
 - builder.Write("Hello, World!"): Aggiunge il testo "Hello, World!" al tuo documento.
 
-## Passaggio 3: impostare le opzioni di salvataggio per la protezione tramite password
+## Passaggio 3: imposta le opzioni di salvataggio per la protezione tramite password
 
 Ora arriva la parte critica: configurare le opzioni di salvataggio per abilitare la protezione tramite password.
 
@@ -96,4 +96,4 @@ Assolutamente! Puoi caricare un documento esistente e salvarlo con una nuova pas
 Sì, puoi salvare il documento senza specificare una password per rimuovere la protezione esistente.
 
 ### Quanto è sicura la crittografia fornita da Aspose.Words per .NET?
-Aspose.Words utilizza solidi standard di crittografia, garantendo una protezione efficace dei tuoi documenti.
+Aspose.Words utilizza standard di crittografia rigorosi, garantendo una protezione efficace dei tuoi documenti.

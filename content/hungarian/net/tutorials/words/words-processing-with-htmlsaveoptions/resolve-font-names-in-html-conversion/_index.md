@@ -15,7 +15,7 @@ Szia kódolótárs! Ha valaha is font problémákkal küszködött Word-dokument
 
 Mielőtt hozzákezdenénk, győződjön meg arról, hogy mindennel rendelkezik, amire szüksége van:
 
-1.  Aspose.Words for .NET: Töltse le[itt](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET: Töltse le[itt](https://releases.aspose.com/words/net/).
 2.  Érvényes licenc: Vásároljon licencet[itt](https://purchase.aspose.com/buy) vagy szerezzen ideiglenes engedélyt[itt](https://purchase.aspose.com/temporary-license/).
 3. Alapvető C# és .NET ismerete: Feltételezzük, hogy ismeri az alapvető programozási fogalmakat a C# nyelven.
 4. Visual Studio: Minden olyan verzió működik, amely támogatja a .NET-keretrendszert.
@@ -74,7 +74,7 @@ Végül a dokumentumot HTML-fájlként mentjük a beállított mentési beállí
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Hívjuk a`Save` módszer a`Document` objektumot, megadva a kimeneti útvonalat és az általunk konfigurált mentési beállításokat. Ez létrehoz egy HTML-fájlt a feloldott betűtípusnevekkel.
+ Hívjuk a`Save`módszer a`Document` objektumot, megadva a kimeneti útvonalat és az általunk konfigurált mentési beállításokat. Ez létrehoz egy HTML-fájlt a feloldott betűtípusnevekkel.
 
 ## Következtetés
 
@@ -92,7 +92,7 @@ Az Aspose.Words for .NET egy hatékony könyvtár, amely lehetővé teszi a fejl
  Igen, de ennek lesznek bizonyos korlátai. A teljes funkcionalitás érdekében licencet vásárolhat[itt](https://purchase.aspose.com/buy) vagy szerezzen ideiglenes engedélyt[itt](https://purchase.aspose.com/temporary-license/).
 
 ### Miért nem jelennek meg megfelelően a betűtípusaim a HTML-ben?
- Ez a probléma akkor fordulhat elő, ha a betűtípusok nincsenek megfelelően megoldva az átalakítás során. Beállítás`ResolveFontNames = true` be`HtmlSaveOptions` segíthet ennek kijavításában.
+Ez a probléma akkor fordulhat elő, ha a betűtípusok nincsenek megfelelően megoldva az átalakítás során. Beállítás`ResolveFontNames = true` be`HtmlSaveOptions` segíthet ennek kijavításában.
 
 ### Hol kaphatok támogatást az Aspose.Words for .NET-hez?
  Támogatást kaphat a[Aspose.Words támogatási fórum](https://forum.aspose.com/c/words/8).

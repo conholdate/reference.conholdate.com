@@ -19,7 +19,7 @@ Antes de comenzar, asegúrese de tener lo siguiente:
 Asegúrese de tener Visual Studio o cualquier IDE .NET preferido instalado y configurado para su proyecto.
 
 ### 2. Biblioteca Aspose.HTML para .NET
-Descargue e instale la biblioteca Aspose.HTML para .NET. Puede encontrarla en el siguiente enlace:[Aspose.HTML para .NET](https://releases.aspose.com/html/net/).
+ Descargue e instale la biblioteca Aspose.HTML para .NET. Puede encontrarla en el siguiente enlace:[Aspose.HTML para .NET](https://releases.aspose.com/html/net/).
 
 ### 3. Conocimientos básicos de C# y .NET
 Una comprensión fundamental de C# y .NET le ayudará a seguir este tutorial de manera eficaz.
@@ -52,7 +52,7 @@ HTMLDocument htmlDocument = new HTMLDocument(dataDir + "input.html");
 ```
 
 ## Paso 3: Configurar las opciones para guardar PDF
- Configuración`PdfSaveOptions`Para definir los ajustes de conversión de PDF, como la calidad de la imagen y el diseño. Por ejemplo, puede configurar la calidad JPEG en 100:
+ Configuración`PdfSaveOptions` Para definir los ajustes de conversión de PDF, como la calidad de la imagen y el diseño. Por ejemplo, puede configurar la calidad JPEG en 100:
 
 ```csharp
 PdfSaveOptions options = new PdfSaveOptions

@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Krok 3: Nakonfigurujte možnosti načítání HTML
 
- The`HtmlLoadOptions`třída v Aspose.Words nám umožňuje určit, jak má být obsah HTML interpretován. Chcete-li zajistit, aby se pole se seznamem vykreslilo jako značka strukturovaného dokumentu:
+ The`HtmlLoadOptions` třída v Aspose.Words nám umožňuje určit, jak má být obsah HTML interpretován. Chcete-li zajistit, aby se pole se seznamem vykreslilo jako značka strukturovaného dokumentu:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions
@@ -96,7 +96,7 @@ Tím se vygeneruje soubor aplikace Word obsahující správně vykreslené pole 
 
 ## Závěr
 
- Začlenění obsahu HTML, zejména polí formulářů, jako jsou pole se seznamem, do dokumentů aplikace Word pomocí Aspose.Words for .NET je při využití`HtmlLoadOptions`Tato příručka vás vybaví znalostmi, jak ovládat způsob vykreslování těchto prvků a zajistit, aby vaše dokumenty splňovaly požadavky uživatelů a projektů.
+ Začlenění obsahu HTML, zejména polí formulářů, jako jsou pole se seznamem, do dokumentů aplikace Word pomocí Aspose.Words for .NET je při využití`HtmlLoadOptions`. Tato příručka vás vybaví znalostmi, jak ovládat způsob vykreslování těchto prvků a zajistit, aby vaše dokumenty splňovaly požadavky uživatelů a projektů.
 
 ## FAQ
 

@@ -88,7 +88,7 @@ Console.WriteLine($"JSON: {result.GetJson()}");
 
 ## 步骤 7：执行您的应用程序
 
-运行你的应用程序。如果所有配置都正确，你应该会看到 OCR 过程成功执行：
+运行你的应用程序。如果所有配置都正确，你应该看到 OCR 过程成功执行：
 
 ```csharp
 Console.WriteLine("OCR process executed successfully.");

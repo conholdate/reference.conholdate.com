@@ -1,5 +1,5 @@
 ---
-title: Adjon hozzá oldalakat a PostScript-dokumentumokhoz az Aspose.Page for .NET használatával
+title: Oldalak hozzáadása PostScript-dokumentumokhoz az Aspose.Page for .NET használatával
 linktitle: AAdjon hozzá oldalakat a PostScript dokumentumokhoz
 second_title: Aspose.Page .NET API
 description: Fedezze fel, hogyan javíthatja .NET-alkalmazásait a PostScript dokumentumok Aspose.Page segítségével történő manipulálásával. Ez a lépésenkénti útmutató egyértelmű utasításokat ad a dokumentum inicializálásához.
@@ -47,10 +47,10 @@ using System.IO;
 string dataDir = "Your Document Directory"; // Állítsa be a dokumentumkönyvtár elérési útját
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //Állítsa be a mentési beállításokat A4-es mérethez
+    // Állítsa be a mentési beállításokat A4-es mérethez
     PsSaveOptions options = new PsSaveOptions();
     
-    // Hozzon létre egy új PostScript dokumentumot 2 oldallal
+    //Hozzon létre egy új PostScript dokumentumot 2 oldallal
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

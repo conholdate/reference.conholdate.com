@@ -15,7 +15,7 @@ En el ámbito del desarrollo .NET, la manipulación de imágenes puede ser una t
 
 Antes de comenzar, asegúrese de tener lo siguiente en su lugar:
 
--  Biblioteca Aspose.Drawing: asegúrese de haber integrado la biblioteca Aspose.Drawing en su proyecto .NET. Puede descargarla[aquí](https://releases.aspose.com/drawing/net/).
+- Biblioteca Aspose.Drawing: asegúrese de haber integrado la biblioteca Aspose.Drawing en su proyecto .NET. Puede descargarla[aquí](https://releases.aspose.com/drawing/net/).
   
 -  Directorio de imágenes: tenga un directorio designado para las imágenes de su proyecto. Deberá reemplazar`"Your Document Directory"` en los fragmentos de código con la ruta a la carpeta de imágenes.
 
@@ -115,4 +115,4 @@ Sí, Aspose.Drawing ofrece funciones de recorte avanzadas, lo que le permite ref
 
 ### ¿Dónde puedo obtener ayuda para consultas relacionadas con Aspose.Drawing?
 
- Para obtener ayuda, visite el sitio[Foro de Aspose.Drawing](https://forum.aspose.com/c/diagram/17) para conectarse con la comunidad y buscar ayuda para sus consultas.
+Para obtener ayuda, visite el sitio[Foro de Aspose.Drawing](https://forum.aspose.com/c/diagram/17) para conectarse con la comunidad y buscar ayuda para sus consultas.

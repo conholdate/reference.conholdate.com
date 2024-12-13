@@ -33,7 +33,7 @@ Po seřazení našich předpokladů a jmenných prostorů přejdeme k podrobném
 
 ## Krok 1: Inicializujte Document a DocumentBuilder
 
-Začneme vytvořením nového dokumentu aplikace Word a jeho inicializací`DocumentBuilder` objekt, který nám pomůže přidat obsah.
+ Začneme vytvořením nového dokumentu aplikace Word a jeho inicializací`DocumentBuilder` objekt, který nám pomůže přidat obsah.
 
 ```csharp
 // Definujte cestu k adresáři dokumentů.
@@ -56,7 +56,7 @@ Tento řádek přidá do dokumentu text „Zde je obrázek SVG: “ a poskytne k
 
 ## Krok 3: Vložte obrázek SVG
 
- Nyní přichází ta vzrušující část! Do našeho dokumentu vložíme obrázek SVG pomocí`InsertHtml` metoda.
+Nyní přichází ta vzrušující část! Do našeho dokumentu vložíme obrázek SVG pomocí`InsertHtml` metoda.
 
 ```csharp
 builder.InsertHtml(
@@ -68,7 +68,7 @@ builder.InsertHtml(
 
 Tento úryvek vloží jednoduchý mnohoúhelník SVG se zadanými body a styly. Neváhejte a přizpůsobte si SVG kód tak, aby vyhovoval vašim potřebám!
 
-## Krok 4: Definujte možnosti HtmlSaveOptions
+## Krok 4: Definujte HtmlSaveOptions
 
  Abychom zajistili, že se naše metasoubory uloží jako SVG, definujeme`HtmlSaveOptions` a nastavte`MetafileFormat` majetek do`HtmlMetafileFormat.Svg`.
 
@@ -83,7 +83,7 @@ Tato konfigurace říká Aspose.Words, aby při exportu do HTML převedl jakéko
 
 ## Krok 5: Uložte dokument
 
-Nakonec uložme náš dokument pomocí`Save` metoda`Document` třída.
+ Nakonec uložme náš dokument pomocí`Save` metoda`Document`třída.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

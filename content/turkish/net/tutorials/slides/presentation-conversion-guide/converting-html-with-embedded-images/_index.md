@@ -101,7 +101,7 @@ PowerPoint sunumlarını gömülü resimlerle HTML'ye dönüştürmek Aspose.Sli
 Evet, Aspose.Slides dışa aktarma sırasında animasyonları destekler. Ancak, HTML'deki animasyonların uyumluluğu orijinal sunumun karmaşıklığına bağlıdır.
 
 ### Aspose.Slides kullanılarak başka hangi formatlar dışa aktarılabilir?
-Kütüphane PDF, PNG ve SVG dahil olmak üzere çok sayıda formatı destekler.[belgeleme](https://reference.aspose.com/slides/net/) Ayrıntılar için.
+ Kütüphane PDF, PNG ve SVG dahil olmak üzere çok sayıda formatı destekler.[belgeleme](https://reference.aspose.com/slides/net/) Ayrıntılar için.
 
 ### Aspose.Slides için teknik destek mevcut mu?
  Evet, yardım isteyebilirsiniz.[Aspose destek forumu](https://forum.aspose.com/c/slides/11).

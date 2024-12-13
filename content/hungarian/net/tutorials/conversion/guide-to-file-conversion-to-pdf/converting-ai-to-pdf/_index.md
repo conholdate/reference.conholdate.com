@@ -17,7 +17,7 @@ Mielőtt elkezdené a fájlok konvertálását, győződjön meg arról, hogy be
 
 ### Telepítse a GroupDocs.Conversion for .NET programot
 
- GroupDocs.Conversion for .NET letölthető innen:[weboldal](https://releases.groupdocs.com/conversion/net/). Győződjön meg arról, hogy a projekt követelményeinek megfelelően telepítette.
+ A GroupDocs.Conversion for .NET letölthető innen:[weboldal](https://releases.groupdocs.com/conversion/net/). Győződjön meg arról, hogy a projekt követelményeinek megfelelően telepítette.
 
 ### AI-fájl forrása
 
@@ -59,7 +59,7 @@ Ezután állítsa be a PDF-konverzióhoz szükséges beállításokat:
 ```csharp
     var options = new PdfConvertOptions();
 ```
- Példány létrehozásával`PdfConvertOptions`testreszabhatja a beállításokat, például az oldalméretet, a margókat és egyebeket. Bár ez nem kötelező, rugalmasságot biztosít a konkrét követelményekhez.
+ Példány létrehozásával`PdfConvertOptions`, testreszabhatja a beállításokat, például az oldalméretet, a margókat és egyebeket. Bár ez nem kötelező, rugalmasságot biztosít a konkrét követelményekhez.
 
 ## 3. lépés: Hajtsa végre az átalakítást
 
@@ -77,7 +77,7 @@ A GroupDocs.Conversion for .NET segítségével az AI-fájlok PDF-be konvertál�
 
 ## GYIK
 
-### A GroupDocs.Conversion for .NET kompatibilis a .NET összes verziójával?
+### GroupDocs.Conversion for .NET kompatibilis a .NET összes verziójával?
 
 Igen, támogatja a .NET-keretrendszer 2.0-s és újabb verzióit, valamint a .NET Core-t és a .NET Standard-t.
 

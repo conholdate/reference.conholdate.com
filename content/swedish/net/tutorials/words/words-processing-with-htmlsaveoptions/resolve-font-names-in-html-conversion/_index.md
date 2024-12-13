@@ -15,7 +15,7 @@ Hej där, medkodare! Om du någonsin har kämpat med teckensnittsproblem när du
 
 Innan vi börjar, se till att du har allt du behöver:
 
-1.  Aspose.Words för .NET: Ladda ner det[här](https://releases.aspose.com/words/net/).
+1. Aspose.Words för .NET: Ladda ner det[här](https://releases.aspose.com/words/net/).
 2.  En giltig licens: Köp en licens[här](https://purchase.aspose.com/buy) eller få en tillfällig licens[här](https://purchase.aspose.com/temporary-license/).
 3. Grundläggande kunskaper i C# och .NET: Förtrogenhet med grundläggande programmeringskoncept i C# förutsätts.
 4. Visual Studio: Alla versioner som stöder .NET-ramverket fungerar.
@@ -74,7 +74,7 @@ Slutligen sparar vi dokumentet som en HTML-fil med hjälp av de konfigurerade sp
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Vi kallar`Save` metod på`Document` objekt, som anger utdatasökvägen och sparaalternativen vi konfigurerade. Detta genererar en HTML-fil med teckensnittsnamnen lösta.
+ Vi kallar`Save`metod på`Document` objekt, som anger utdatasökvägen och sparaalternativen vi konfigurerade. Detta genererar en HTML-fil med teckensnittsnamnen lösta.
 
 ## Slutsats
 
@@ -92,7 +92,7 @@ Aspose.Words för .NET är ett kraftfullt bibliotek som låter utvecklare skapa,
  Ja, men det kommer att ha vissa begränsningar. För full funktionalitet kan du köpa en licens[här](https://purchase.aspose.com/buy) eller få en tillfällig licens[här](https://purchase.aspose.com/temporary-license/).
 
 ### Varför visas inte mina teckensnitt korrekt i HTML?
- Det här problemet kan uppstå om teckensnitten inte löses korrekt under konverteringen. Miljö`ResolveFontNames = true` i`HtmlSaveOptions` kan hjälpa till att fixa detta.
+Det här problemet kan uppstå om teckensnitten inte löses korrekt under konverteringen. Miljö`ResolveFontNames = true` i`HtmlSaveOptions` kan hjälpa till att fixa detta.
 
 ### Var kan jag få support för Aspose.Words för .NET?
  Du kan få stöd från[Aspose.Words supportforum](https://forum.aspose.com/c/words/8).

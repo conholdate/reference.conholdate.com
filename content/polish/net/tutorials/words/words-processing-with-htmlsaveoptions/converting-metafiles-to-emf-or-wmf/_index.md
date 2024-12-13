@@ -15,7 +15,7 @@ Efektywne zarządzanie formatami obrazów i ich konwersja to kluczowa część t
 
 Aby zapewnić płynny przebieg prac rozwojowych, sprawdź, czy spełnione są następujące wymagania wstępne:
 
-- Aspose.Words dla .NET: Pobierz najnowszą wersję ze strony[Strona wydań Aspose](https://releases.aspose.com/words/net/).
+-  Aspose.Words dla .NET: Pobierz najnowszą wersję ze strony[Strona wydań Aspose](https://releases.aspose.com/words/net/).
 - .NET Framework: Sprawdź instalację .NET Framework (lub .NET Core/5/6 w zależności od środowiska).
 - Środowisko programistyczne: Ze względu na rozbudowaną funkcjonalność zaleca się korzystanie ze środowiska Visual Studio.
 - Znajomość języka C#: Podstawowa znajomość programowania w języku C# jest niezbędna.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## Krok 4: Załaduj kod HTML do dokumentu Word
 
-Użyj skonfigurowanych opcji ładowania, aby utworzyć`Document` obiekt z ciągu HTML.
+ Użyj skonfigurowanych opcji ładowania, aby utworzyć`Document` obiekt z ciągu HTML.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

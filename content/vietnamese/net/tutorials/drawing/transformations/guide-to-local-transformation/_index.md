@@ -13,7 +13,7 @@ Aspose.Drawing for .NET cho phép các nhà phát triển tạo đồ họa tinh
 
 ## Điều kiện tiên quyết
 
-1. Aspose.Drawing cho .NET: Tải xuống và cài đặt từ[đây](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing cho .NET: Tải xuống và cài đặt từ[đây](https://releases.aspose.com/drawing/net/).
 2. Thư mục tài liệu: Chọn thư mục để lưu hình ảnh của bạn.
 3. Kiến thức cơ bản về .NET: Có hiểu biết về C# và các khái niệm lập trình đồ họa.
 

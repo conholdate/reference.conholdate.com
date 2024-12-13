@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 Most mentsük a dokumentumot rögzített HTML-fájlként. Itt történik a varázslat!
 
 ```csharp
-//Konvertálja a dokumentumot rögzített HTML formátumba
+// Konvertálja a dokumentumot rögzített HTML formátumba
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

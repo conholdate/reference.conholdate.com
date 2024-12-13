@@ -19,7 +19,7 @@ Sebelum kita mulai, pastikan Anda telah menyiapkan hal berikut:
  Pastikan Anda telah menginstal .NET SDK di komputer Anda. Anda dapat mengunduhnya dari[Situs web .NET](https://dotnet.microsoft.com/download).
 
 ### GroupDocs.Conversion untuk Pustaka .NET
-Unduh pustaka GroupDocs.Conversion untuk .NET dari[lokasi](https://releases.groupdocs.com/conversion/net/)Ikuti petunjuk instalasi untuk menambahkannya ke proyek Anda.
+ Unduh pustaka GroupDocs.Conversion untuk .NET dari[lokasi](https://releases.groupdocs.com/conversion/net/)Ikuti petunjuk instalasi untuk menambahkannya ke proyek Anda.
 
 ## Langkah 1: Impor Namespace yang Diperlukan
 Dalam proyek .NET Anda, sertakan namespace berikut untuk mengakses fungsionalitas GroupDocs:

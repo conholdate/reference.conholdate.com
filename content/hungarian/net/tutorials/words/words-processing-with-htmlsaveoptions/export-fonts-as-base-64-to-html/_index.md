@@ -101,7 +101,7 @@ Gratulálok! Sikeresen beágyazta a betűtípusokat Base64-ként egy HTML-fájlb
 
 ### Mi az a Base64 kódolás?
 
-A Base64 egy módszer a bináris adatok (például a betűtípusok) szöveges formátumba való kódolására. A bináris adatokat ASCII karakterlánc-formátumba alakítja át, lehetővé téve a zökkenőmentes integrációt a szöveges formátumokba, például a HTML-be.
+Base64 egy módszer a bináris adatok (például a betűtípusok) szöveges formátumba való kódolására. A bináris adatokat ASCII karakterlánc-formátumba alakítja át, lehetővé téve a zökkenőmentes integrációt a szöveges formátumokba, például a HTML-be.
 
 ### Miért használjam a Base64-et a HTML-beli betűtípusokhoz?
 

@@ -94,7 +94,7 @@ Chắc chắn rồi! Aspose.Email for .NET hỗ trợ nhiều định dạng kh�
 
 ### Thông tin múi giờ có được lưu giữ theo định dạng MHT không?
 
- Có, thông tin múi giờ được bảo toàn trong quá trình chuyển đổi. Bằng cách xử lý các chênh lệch múi giờ và sử dụng`TimeZoneInfo` phương pháp này, bạn có thể đảm bảo biểu diễn múi giờ chính xác trong tệp MHT.
+ Có, thông tin múi giờ được bảo toàn trong quá trình chuyển đổi. Bằng cách xử lý các chênh lệch múi giờ và sử dụng`TimeZoneInfo`phương pháp này, bạn có thể đảm bảo biểu diễn múi giờ chính xác trong tệp MHT.
 
 ### Tôi có thể tìm thêm tài liệu và thông tin cập nhật về Aspose.Email cho .NET ở đâu?
 

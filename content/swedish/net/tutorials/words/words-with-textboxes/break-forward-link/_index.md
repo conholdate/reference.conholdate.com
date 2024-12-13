@@ -99,7 +99,7 @@ Och där har du det! 🎉 Du har framgångsrikt lärt dig hur man bryter fram l�
 
 ### Vad är syftet med att bryta fram länkar i textrutor?
 
-Genom att bryta fram länkar kan du omorganisera eller isolera innehåll i ditt dokument, vilket ger dig större kontroll över dess flöde och struktur.
+Genom att bryta framåt länkar kan du omorganisera eller isolera innehåll i ditt dokument, vilket ger dig större kontroll över dess flöde och struktur.
 
 ### Kan jag länka om textrutor efter att ha brutit länken?
 

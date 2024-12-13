@@ -63,7 +63,7 @@ options.RenderComments = true; // Habilitar la representación de comentarios
 ```
 
 ## Paso 5: Renderizar el documento con comentarios
- Llama al`View` método en el`Viewer` objeto con las opciones configuradas.
+ Llama al`View`método en el`Viewer` objeto con las opciones configuradas.
 
 ```csharp
 viewer.View(options);

@@ -54,8 +54,8 @@ Converter Shapefiles para GeoJSON é uma operação fundamental no processamento
 ### Posso converter vários shapefiles de uma só vez?
 Sim! Você pode fazer um loop por um diretório de Shapefiles e convertê-los coletivamente com pequenos ajustes no código de exemplo.
 
-### Aspose.GIS para .NET é compatível com todas as versões do .NET Framework?
-O Aspose.GIS para .NET é compatível com o .NET Framework 4.5 e superior.
+### O Aspose.GIS para .NET é compatível com todas as versões do .NET Framework?
+Aspose.GIS para .NET é compatível com o .NET Framework 4.5 e superior.
 
 ### A biblioteca oferece suporte a outros formatos geoespaciais?
 Absolutamente! A biblioteca suporta vários formatos geoespaciais, incluindo GeoTIFF, KML, GML, entre outros.

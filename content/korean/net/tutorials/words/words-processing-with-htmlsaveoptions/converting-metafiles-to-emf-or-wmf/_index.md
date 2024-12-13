@@ -15,7 +15,7 @@ url: /ko/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 
 원활한 개발 환경을 보장하려면 다음 전제 조건이 충족되는지 확인하세요.
 
-- .NET용 Aspose.Words: 다음에서 최신 버전을 얻으세요.[Aspose 릴리스 페이지](https://releases.aspose.com/words/net/).
+-  .NET용 Aspose.Words: 다음에서 최신 버전을 얻으세요.[Aspose 릴리스 페이지](https://releases.aspose.com/words/net/).
 - .NET Framework: .NET Framework(또는 사용자 환경에 따라 .NET Core/5/6)가 설치되어 있는지 확인하세요.
 - 개발 환경: Visual Studio는 강력한 기능을 갖추고 있어 권장됩니다.
 - C# 능숙도: C# 프로그래밍에 대한 기본적인 지식이 필수입니다.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## 4단계: Word 문서에 HTML 로드
 
-구성된 로드 옵션을 사용하여 다음을 생성합니다.`Document` HTML 문자열에서 객체를 가져옵니다.
+ 구성된 로드 옵션을 사용하여 다음을 생성합니다.`Document` HTML 문자열에서 객체를 가져옵니다.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

@@ -16,7 +16,7 @@ Om du ofta arbetar med PowerPoint-presentationer vet du hur viktigt det kan vara
 Innan du dyker in, se till att du uppfyller följande krav:
 
 -  Utvecklingsmiljö: Installera[Visual Studio](https://visualstudio.microsoft.com/) eller någon C# IDE.
-- Aspose.Slides för .NET Library: Ladda ner biblioteket från[här](https://releases.aspose.com/slides/net/).
+-  Aspose.Slides för .NET Library: Ladda ner biblioteket från[här](https://releases.aspose.com/slides/net/).
 -  Presentationsfil: Ha en PowerPoint-fil (t.ex.`NotesFile.pptx`) redo för konvertering.
 
 ## Ställa in din miljö
@@ -73,7 +73,7 @@ När dina alternativ är konfigurerade sparar du presentationen som en PDF. Så 
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
- Detta kommer att generera en PDF-fil med namnet`Pdf_Notes_out.pdf` i din angivna katalog, som innehåller bilder tillsammans med deras anteckningar.
+Detta kommer att generera en PDF-fil med namnet`Pdf_Notes_out.pdf` i din angivna katalog, som innehåller bilder tillsammans med deras anteckningar.
 
 ## Slutsats
 
@@ -88,10 +88,10 @@ Ja, Aspose.Slides för .NET är designat för att hantera presentationer av alla
  Du kan ladda ner en gratis testversion från[här](https://releases.aspose.com/).
 
 ### F3: Finns det andra PDF-exportalternativ?
-Ja, du kan anpassa teckensnitt, sidlayout, komprimering och mer med hjälp av`PdfOptions` klass.
+ Ja, du kan anpassa teckensnitt, sidlayout, komprimering och mer med hjälp av`PdfOptions`klass.
 
 ### F4: Kan jag exportera endast specifika bilder?
- Absolut! Du kan välja specifika bilder med hjälp av`Slides` samling i`Presentation` klass.
+ Absolut! Du kan välja specifika bilder med hjälp av`Slides` samling i`Presentation`klass.
 
 ### F5: Var kan jag hitta ytterligare exempel?
  Besök[Aspose.Slides för .NET-dokumentation](https://reference.aspose.com/slides/net/) för fler exempel och användningsfall.

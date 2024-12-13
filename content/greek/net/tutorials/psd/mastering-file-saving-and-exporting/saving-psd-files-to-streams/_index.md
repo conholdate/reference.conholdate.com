@@ -47,7 +47,7 @@ string dataDir = "C:\\YourDocumentDirectory\\";
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Διαδρομή προς το αρχείο προέλευσης PSD
-string destName = dataDir + "result.png";   // Διαδρομή για το αρχείο εικόνας εξόδου
+string destName = dataDir + "result.png";   //Διαδρομή για το αρχείο εικόνας εξόδου
 ```
 
 ## Βήμα 3: Φορτώστε την εικόνα PSD και χειριστείτε τις γραμματοσειρές που δεν βρέθηκαν
@@ -89,7 +89,7 @@ using (var fileStream = new FileStream(destName, FileMode.Create))
 ## Συχνές ερωτήσεις
 
 ### Μπορώ να χρησιμοποιήσω το Aspose.PSD με οποιοδήποτε τύπο αρχείου εικόνας;
- Ναί! Το Aspose.PSD υποστηρίζει διάφορες μορφές εικόνας, συμπεριλαμβανομένων των PSD, PNG, JPEG και άλλων. Για μια λεπτομερή λίστα, ελέγξτε την τεκμηρίωση[εδώ](https://reference.aspose.com/psd/net/).
+Ναί! Το Aspose.PSD υποστηρίζει διάφορες μορφές εικόνας, συμπεριλαμβανομένων των PSD, PNG, JPEG και άλλων. Για μια λεπτομερή λίστα, ελέγξτε την τεκμηρίωση[εδώ](https://reference.aspose.com/psd/net/).
 
 ### Πώς μπορώ να λάβω υποστήριξη για το Aspose.PSD;
  Για βοήθεια και υποστήριξη της κοινότητας, επισκεφτείτε το φόρουμ υποστήριξης Aspose.PSD[εδώ](https://forum.aspose.com/c/psd/34).

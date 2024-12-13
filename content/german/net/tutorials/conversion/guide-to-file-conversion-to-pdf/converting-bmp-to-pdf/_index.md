@@ -92,8 +92,8 @@ Nein, die Bibliothek ist eigenständig und erfordert keine zusätzlichen Abhäng
 
 ### Gibt es eine Testversion zum Ausprobieren?
 
-Ja, Sie können eine kostenlose Testversion herunterladen von der[Veröffentlichungsseite](https://releases.groupdocs.com/) um die Funktionen der Bibliothek vor dem Kauf zu erkunden.
+ Ja, Sie können eine kostenlose Testversion herunterladen von der[Veröffentlichungsseite](https://releases.groupdocs.com/) um die Funktionen der Bibliothek vor dem Kauf zu erkunden.
 
 ### Wo bekomme ich Hilfe oder Unterstützung?
 
- Wenn Sie auf Probleme stoßen, besuchen Sie bitte die[GroupDocs.Conversion-Forum](https://forum.groupdocs.com/c/conversion/11) für Community-gesteuerten Support oder wenden Sie sich an das Support-Team für persönliche Hilfe.
+Wenn Sie auf Probleme stoßen, besuchen Sie bitte die[GroupDocs.Conversion-Forum](https://forum.groupdocs.com/c/conversion/11) für Community-gesteuerten Support oder wenden Sie sich an das Support-Team für persönliche Hilfe.

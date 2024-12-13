@@ -44,7 +44,7 @@ Document doc = new Document(dataDir + "Document.docx");
 
 ## Шаг 2: Сохраните документ как MHTML
 
- Далее конвертируем загруженный документ в формат MHTML. Это делается с помощью`Save` Метод`Document` сорт.
+ Далее конвертируем загруженный документ в формат MHTML. Это делается с помощью`Save` Метод`Document`сорт.
 
 ```csharp
 using (Stream stream = new MemoryStream())
@@ -90,7 +90,7 @@ using (SmtpClient client = new SmtpClient())
 Конечно! Aspose.Words поддерживает широкий спектр форматов, позволяя вам конвертировать DOC, DOCX, RTF и другие в MHTML.
 
 ### Как добавить вложения к письму?
- Вы можете легко добавлять вложения, используя`Attachments` собственность`MailMessage` сорт.
+ Вы можете легко добавлять вложения, используя`Attachments` собственность`MailMessage`сорт.
 
 ### Совместим ли Aspose.Words с .NET Core?
 Да, Aspose.Words совместим с .NET Core, что делает его пригодным для использования в приложениях .NET Core.

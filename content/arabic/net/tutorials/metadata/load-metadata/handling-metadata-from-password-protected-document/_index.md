@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## الخطوة 3: تحميل البيانات الوصفية من المستند
 
- استخدام`Metadata` الصف، يمكنك تحميل البيانات الوصفية من المستند المحدد. تذكر استبدال`"YourInputFile"` مع المسار إلى مستندك:
+ استخدام`Metadata` الصف، يمكنك تحميل البيانات الوصفية من المستند المحدد. تذكر استبدال`"YourInputFile"`مع المسار إلى مستندك:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

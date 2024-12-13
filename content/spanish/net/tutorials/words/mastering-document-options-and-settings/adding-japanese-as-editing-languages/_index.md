@@ -99,10 +99,10 @@ Este código verifica si el idioma predeterminado de FarEast está configurado e
  Sí, se requiere una licencia para uso comercial. Puedes comprar una[aquí](https://purchase.aspose.com/buy) o obtener una licencia temporal[aquí](https://purchase.aspose.com/temporary-license/).
 
 ### ¿Qué otras características ofrece Aspose.Words para .NET?
- Aspose.Words para .NET ofrece una amplia gama de funciones, entre las que se incluyen la generación, conversión y manipulación de documentos. Explore[documentación](https://reference.aspose.com/words/net/) Para más detalles.
+Aspose.Words para .NET ofrece una amplia gama de funciones, entre las que se incluyen la generación, conversión y manipulación de documentos. Explore[documentación](https://reference.aspose.com/words/net/) Para más detalles.
 
 ### ¿Puedo probar Aspose.Words para .NET antes de comprarlo?
  ¡Por supuesto! Puedes descargar una versión de prueba gratuita[aquí](https://releases.aspose.com/).
 
 ### ¿Dónde puedo obtener soporte para Aspose.Words para .NET?
-Puede buscar apoyo en la comunidad Aspose[aquí](https://forum.aspose.com/c/words/8).
+ Puede buscar apoyo en la comunidad Aspose[aquí](https://forum.aspose.com/c/words/8).

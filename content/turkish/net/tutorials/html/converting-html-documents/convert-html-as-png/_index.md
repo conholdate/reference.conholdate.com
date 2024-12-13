@@ -17,7 +17,7 @@ Koda geçmeden önce her şeyin doğru şekilde ayarlandığından emin olalım:
 
 1.  .NET Framework/ .NET Core: Makinenizde .NET Framework veya .NET Core'un yüklü olduğundan emin olun. İndirebilirsiniz[.NET burada](https://dotnet.microsoft.com/download).
 
-2.  .NET Kütüphanesi için Aspose.HTML: Aspose.HTML kütüphanesine sahip olmanız gerekir. İndirebilirsiniz[Burada](https://releases.aspose.com/html/net/)veya ücretsiz deneyin[ücretsiz deneme](https://releases.aspose.com/).
+2.  .NET Kütüphanesi için Aspose.HTML: Aspose.HTML kütüphanesine sahip olmanız gerekir. İndirebilirsiniz[Burada](https://releases.aspose.com/html/net/) veya ücretsiz deneyin[ücretsiz deneme](https://releases.aspose.com/).
 
 3. IDE: Kodunuzu yazmak ve çalıştırmak için Visual Studio gibi uygun bir entegre geliştirme ortamı (IDE) önerilir.
 
@@ -53,7 +53,7 @@ Yapmak isteyeceğiniz ilk şey, görsellerinizi kaydedeceğiniz bir dizin oluşt
 string dataDir = "Your Data Directory"; // Dizin yolunuzu belirtin
 ```
 
--  Yer değiştirmek`"Your Data Directory"` çıktı PNG dosyalarınızı depolamak istediğiniz yol ile. Bu, aşağıdaki gibi bir şey olabilir`@"C:\work\"`.
+-  Yer değiştirmek`"Your Data Directory"`çıktı PNG dosyalarınızı depolamak istediğiniz yol ile. Bu, aşağıdaki gibi bir şey olabilir`@"C:\work\"`.
 
 ## Adım 2: Bir HTML Belge Nesnesi Oluşturun
 
@@ -79,11 +79,11 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  The`HtmlRenderer`HTML içeriğini görsellere dönüştürmek için başvuracağınız nesnedir. Perde arkasında işleme sürecini yönetir, böylece ihtiyacınız olana odaklanabilirsiniz!
+-  The`HtmlRenderer` HTML içeriğini görsellere dönüştürmek için başvuracağınız nesnedir. Perde arkasında işleme sürecini yönetir, böylece ihtiyacınız olana odaklanabilirsiniz!
 
 ## Adım 4: Görüntü Aygıtını Ayarlayın
 
- Şimdi hazırlamanın zamanı geldi`ImageDevice`. Bu, nihai PNG görüntüsünün oluşturulacağı oluşturma sürecimizin hedefidir.
+ Şimdi hazırlamanın zamanı geldi`ImageDevice`Bu, nihai PNG görüntüsünün oluşturulacağı oluşturma sürecimizin hedefidir.
 
 ```csharp
 using (ImageDevice device = new ImageDevice(dataDir + @"document_out.png"))

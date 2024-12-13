@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Langkah 3: Konfigurasikan Opsi Pemuatan HTML
 
- Itu`HtmlLoadOptions`class di Aspose.Words memungkinkan kita menentukan bagaimana konten HTML harus ditafsirkan. Untuk memastikan kotak kombo ditampilkan sebagai tag dokumen terstruktur:
+ Itu`HtmlLoadOptions` class di Aspose.Words memungkinkan kita menentukan bagaimana konten HTML harus ditafsirkan. Untuk memastikan kotak kombo ditampilkan sebagai tag dokumen terstruktur:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions

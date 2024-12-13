@@ -15,7 +15,7 @@ A szoftverfejlesztésben, különösen, ha jogi dokumentumokkal, szerződésekke
 
 Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik az alábbiakkal:
 
-1.  GroupDocs.Comparison for .NET: Töltse le és telepítse a könyvtárat innen[itt](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison for .NET: Töltse le és telepítse a könyvtárat innen[itt](https://releases.groupdocs.com/comparison/net/).
 2. Alapvető C# ismerete: Ez az oktatóanyag a C# programozás ismeretét feltételezi.
 3. Integrált fejlesztői környezet (IDE): Használjon olyan IDE-t, mint a Visual Studio a kódoláshoz.
 4. Összehasonlítandó dokumentumok: Készítse elő az összehasonlítani kívánt dokumentumokat, és győződjön meg arról, hogy elérhetők a C# kódból.
@@ -74,7 +74,7 @@ Console.WriteLine($"\nDocuments compared successfully.\nCheck output in {outputD
 
 ## Következtetés
 
-GroupDocs.Comparison for .NET robusztus platformot biztosít a dokumentumok zökkenőmentes összehasonlításához a C#-alkalmazásokon belül. A vázolt lépések követésével hatékonyan összehasonlíthatja a dokumentumokat, és egyszerűsítheti dokumentumfeldolgozási feladatait, növelve a termelékenységet és a pontosságot.
+A GroupDocs.Comparison for .NET robusztus platformot biztosít a dokumentumok zökkenőmentes összehasonlításához a C#-alkalmazásokon belül. A vázolt lépések követésével hatékonyan összehasonlíthatja a dokumentumokat, és egyszerűsítheti dokumentumfeldolgozási feladatait, növelve a termelékenységet és a pontosságot.
 
 ## GYIK
 
@@ -96,4 +96,4 @@ Teljesen! A GroupDocs.Comparison for .NET különféle testreszabási lehetősé
 
 ### Hol kérhetek segítséget vagy támogatást a GroupDocs.Comparison for .NET-hez kapcsolódóan?
 
-Segítségért keresse fel a GroupDocs.Comparison fórumot[itt](https://forum.groupdocs.com/c/comparison/12).
+ Segítségért keresse fel a GroupDocs.Comparison fórumot[itt](https://forum.groupdocs.com/c/comparison/12).

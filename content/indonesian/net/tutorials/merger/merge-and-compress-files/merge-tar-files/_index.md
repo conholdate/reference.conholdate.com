@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Anda membuat yang baru`Merger` contoh dengan jalur ke berkas TAR pertama Anda.
 -  Itu`Join` metode ini memungkinkan Anda menambahkan file TAR lain ke penggabungan (langkah ini opsional).
--  Akhirnya, telepon`Save`untuk menyelesaikan proses penggabungan dan menulis file keluaran ke direktori yang ditentukan.
+-  Akhirnya, telepon`Save` untuk menyelesaikan proses penggabungan dan menulis file keluaran ke direktori yang ditentukan.
 
 ## Langkah 3: Menampilkan Pesan Penyelesaian
 

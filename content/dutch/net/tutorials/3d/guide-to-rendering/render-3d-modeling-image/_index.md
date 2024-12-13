@@ -2,7 +2,7 @@
 title: Render 3D-modelleringsafbeelding met Aspose.3D voor .NET
 linktitle: Renderen van 3D-modelafbeelding van camera
 second_title: Aspose.3D .NET API
-description: Leer hoe u primitieve 3D-modellen, waaronder dozen en cilinders, kunt maken en aanpassen en ze moeiteloos kunt opslaan in FBX-formaat. Of u nu een beginner of een ervaren ontwikkelaar bent, deze stapsgewijze tutorial.
+description: Leer hoe u primitieve 3D-modellen, waaronder dozen en cilinders, kunt maken en aanpassen en ze moeiteloos in FBX-formaat kunt opslaan. Of u nu een beginner of een ervaren ontwikkelaar bent, deze stapsgewijze tutorial.
 type: docs
 weight: 11
 url: /nl/net/tutorials/3d/guide-to-rendering/render-3d-modeling-image/

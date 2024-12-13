@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 الآن، لنحفظ المستند كملف HTML ثابت. هنا تحدث السحر!
 
 ```csharp
-//تحويل المستند إلى HTML ثابت
+// تحويل المستند إلى HTML ثابت
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

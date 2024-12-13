@@ -17,7 +17,7 @@ Trước khi bắt đầu, vui lòng đảm bảo bạn đã đáp ứng đủ c
 
 1. Kiến thức cơ bản về C#: Giả định là bạn đã quen thuộc với ngôn ngữ lập trình C#.
 2.  Cài đặt Aspose.Tasks: Đảm bảo bạn đã cài đặt Aspose.Tasks cho .NET trong môi trường phát triển của mình. Bạn có thể dễ dàng tải xuống từ[Trang web Aspose](https://www.aspose.com).
-3. Tệp Microsoft Project: Chuẩn bị tệp Microsoft Project để chuyển đổi (có`.mpp` sự mở rộng).
+3.  Tệp Microsoft Project: Chuẩn bị tệp Microsoft Project để chuyển đổi (có`.mpp` sự mở rộng).
 
 ## Nhập các không gian tên cần thiết
 

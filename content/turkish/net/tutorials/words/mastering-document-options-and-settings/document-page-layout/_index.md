@@ -15,7 +15,7 @@ Belgenizin sayfa düzenini ayarlamak zorlu bir görev olabilir, ancak Aspose.Wor
 
 Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
--  Aspose.Words for .NET: İndirin[Burada](https://releases.aspose.com/words/net/).
+- Aspose.Words for .NET: İndirin[Burada](https://releases.aspose.com/words/net/).
 -  Geçerli bir lisans: Bir tane satın alın[Burada](https://purchase.aspose.com/buy) veya geçici bir lisans alın[Burada](https://purchase.aspose.com/temporary-license/).
 - C# programlamanın temel anlayışı: Merak etmeyin, işleri basit tutacağım.
 - Entegre Geliştirme Ortamı (IDE): Visual Studio şiddetle tavsiye edilir.

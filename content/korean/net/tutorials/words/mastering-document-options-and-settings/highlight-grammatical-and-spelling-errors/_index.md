@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## 1단계: 프로젝트 설정
 
-먼저 IDE에서 새 .NET 프로젝트를 만듭니다. Aspose.Words 라이브러리에 대한 참조를 추가합니다. 아직 다운로드하지 않았다면 다음에서 다운로드할 수 있습니다.[여기](https://releases.aspose.com/words/net/).
+ 먼저 IDE에서 새 .NET 프로젝트를 만듭니다. Aspose.Words 라이브러리에 대한 참조를 추가합니다. 아직 다운로드하지 않았다면 다음에서 다운로드할 수 있습니다.[여기](https://releases.aspose.com/words/net/).
 
 ## 2단계: 문서 디렉토리 정의
 

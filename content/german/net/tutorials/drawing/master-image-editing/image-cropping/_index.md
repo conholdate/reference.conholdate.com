@@ -15,7 +15,7 @@ Im Bereich der .NET-Entwicklung kann die Bildbearbeitung eine komplexe Aufgabe s
 
 Bevor wir beginnen, stellen Sie sicher, dass Sie Folgendes eingerichtet haben:
 
--  Aspose.Drawing-Bibliothek: Stellen Sie sicher, dass Sie die Aspose.Drawing-Bibliothek in Ihr .NET-Projekt integriert haben. Sie können sie herunterladen[Hier](https://releases.aspose.com/drawing/net/).
+- Aspose.Drawing-Bibliothek: Stellen Sie sicher, dass Sie die Aspose.Drawing-Bibliothek in Ihr .NET-Projekt integriert haben. Sie können sie herunterladen[Hier](https://releases.aspose.com/drawing/net/).
   
 -  Bildverzeichnis: Legen Sie ein bestimmtes Verzeichnis für Ihre Projektbilder fest. Sie müssen ersetzen`"Your Document Directory"` in den Codeausschnitten mit dem Pfad zu Ihrem Bildordner.
 
@@ -115,4 +115,4 @@ In der Tat! Aspose.Drawing zeichnet sich durch Stapelverarbeitung aus und ermög
 
 ### Wo erhalte ich Unterstützung bei Fragen zu Aspose.Drawing?
 
- Weitere Informationen finden Sie im[Aspose.Drawing Forum](https://forum.aspose.com/c/diagram/17) um mit der Community in Kontakt zu treten und Hilfe für Ihre Fragen zu erhalten.
+Weitere Informationen finden Sie im[Aspose.Drawing Forum](https://forum.aspose.com/c/diagram/17) um mit der Community in Kontakt zu treten und Hilfe für Ihre Fragen zu erhalten.

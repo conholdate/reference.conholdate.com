@@ -47,7 +47,7 @@ Xác định vị trí tệp PSD nguồn của bạn và nơi bạn muốn lưu 
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Đường dẫn đến tệp PSD nguồn của bạn
-string destName = dataDir + "result.png";   // Đường dẫn đến tệp hình ảnh đầu ra
+string destName = dataDir + "result.png";   //Đường dẫn đến tệp hình ảnh đầu ra
 ```
 
 ## Bước 3: Tải hình ảnh PSD và xử lý phông chữ không tìm thấy
@@ -89,7 +89,7 @@ Xin chúc mừng! Bạn đã học thành công cách lưu hình ảnh vào lu�
 ## Câu hỏi thường gặp
 
 ### Tôi có thể sử dụng Aspose.PSD với bất kỳ loại tệp hình ảnh nào không?
- Có! Aspose.PSD hỗ trợ nhiều định dạng hình ảnh, bao gồm PSD, PNG, JPEG và nhiều định dạng khác. Để biết danh sách chi tiết, hãy kiểm tra tài liệu[đây](https://reference.aspose.com/psd/net/).
+Có! Aspose.PSD hỗ trợ nhiều định dạng hình ảnh, bao gồm PSD, PNG, JPEG và nhiều định dạng khác. Để biết danh sách chi tiết, hãy kiểm tra tài liệu[đây](https://reference.aspose.com/psd/net/).
 
 ### Làm thế nào để tôi nhận được hỗ trợ cho Aspose.PSD?
  Để được hỗ trợ và cộng đồng hỗ trợ, hãy truy cập diễn đàn hỗ trợ Aspose.PSD[đây](https://forum.aspose.com/c/psd/34).

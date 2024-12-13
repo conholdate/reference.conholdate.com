@@ -64,7 +64,7 @@ Console.WriteLine("\nZIP files merge completed successfully. Check the output in
 
 ## Závěr
 
-tomto tutoriálu jste se naučili, jak sloučit soubory ZIP pomocí GroupDocs.Merger pro .NET. Dodržováním těchto jednoduchých kroků můžete integrovat možnosti slučování souborů ZIP do aplikací .NET a zlepšit tak procesy správy dokumentů.
+V tomto tutoriálu jste se naučili, jak sloučit soubory ZIP pomocí GroupDocs.Merger pro .NET. Dodržováním těchto jednoduchých kroků můžete integrovat možnosti slučování souborů ZIP do aplikací .NET a zlepšit tak procesy správy dokumentů.
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Ano, je kompatibilní s aplikacemi .NET Framework i .NET Core.
 
 ### Mohu přizpůsobit proces slučování, například zadat pořadí souborů ve sloučeném ZIP?
 
-Ano, máte plnou kontrolu nad procesem slučování. Pořadí souborů můžete určit manipulací s posloupností, ve které voláte`Join()` metoda.
+ Ano, máte plnou kontrolu nad procesem slučování. Pořadí souborů můžete určit manipulací s posloupností, ve které voláte`Join()` metoda.
 
 ### Vyžaduje GroupDocs.Merger for .NET licenci pro komerční použití?
 

@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // Создайте новый слой с пространственной системой координат WGS 84
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //Добавить схему атрибутов
+        // Добавить схему атрибутов
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // Создать и добавить функцию

@@ -15,7 +15,7 @@ url: /ru/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 
 Чтобы обеспечить бесперебойную разработку, убедитесь, что выполнены следующие предварительные условия:
 
-- Aspose.Words для .NET: Получите последнюю версию с сайта[Страница релизов Aspose](https://releases.aspose.com/words/net/).
+-  Aspose.Words для .NET: Получите последнюю версию с сайта[Страница релизов Aspose](https://releases.aspose.com/words/net/).
 - .NET Framework: проверьте установку .NET Framework (или .NET Core/5/6 в зависимости от вашей среды).
 - Среда разработки: рекомендуется использовать Visual Studio из-за ее надежных функций.
 - Знание C#: Базовые знания программирования на C# обязательны.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## Шаг 4: Загрузите HTML в документ Word
 
-Используйте настроенные параметры нагрузки для создания`Document` объект из HTML-строки.
+ Используйте настроенные параметры нагрузки для создания`Document` объект из HTML-строки.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))
@@ -88,7 +88,7 @@ HtmlSaveOptions saveOptions = new HtmlSaveOptions
 };
 ```
 
-## Шаг 6: Сохраните документ.
+## Шаг 6: Сохраните документ
 
 Сохраните документ, используя указанные параметры сохранения.
 

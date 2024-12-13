@@ -13,7 +13,7 @@ Aspose.Drawing for .NET 使开发人员能够通过局部转换创建复杂的�
 
 ## 先决条件
 
-1. Aspose.Drawing for .NET：从以下网址下载并安装[这里](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing for .NET：从以下网址下载并安装[这里](https://releases.aspose.com/drawing/net/).
 2. 文档目录：选择一个目录来保存您的图像。
 3. 基本 .NET 知识：熟悉 C# 和图形编程概念。
 

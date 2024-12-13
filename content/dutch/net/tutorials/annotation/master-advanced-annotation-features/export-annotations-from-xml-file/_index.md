@@ -31,7 +31,7 @@ using GroupDocs.Annotation;
 
 ## Stap 2: Initialiseer de Annotator
 
- Maak een exemplaar van de`Annotator` klasse, waarbij u het pad naar uw PDF-invoerbestand opgeeft:
+ Maak een exemplaar van de`Annotator` klasse, waarbij het pad naar uw invoer-PDF-bestand wordt opgegeven:
 
 ```csharp
 using (Annotator annotator = new Annotator("input.pdf"))

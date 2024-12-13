@@ -13,7 +13,7 @@ Sei stanco di lottare con diversi formati di file e il caos che portano con sé?
 
 ## Conversione da JPEG a PDF
 
- Immagina di avere una bella immagine JPEG e di volerla condividere come PDF rifinito. Bene, è qui che entra in gioco GroupDocs.Conversion. Convertire le immagini JPEG in documenti PDF è un gioco da ragazzi con questo potente strumento. Non importa se sei un professionista della codifica o un principiante; il nostro tutorial fornisce tutti i prerequisiti e gli snippet di codice essenziali per metterti sulla strada giusta. Ti guideremo nell'installazione della libreria, nella scrittura delle tue prime righe di codice e nell'esecuzione fluida della conversione. Perché impantanarsi in processi complicati quando puoi fare clic[per leggere di più](./converting-jpeg-to-pdf/) e iniziare subito?
+Immagina di avere una bella immagine JPEG e di volerla condividere come PDF rifinito. Bene, è qui che entra in gioco GroupDocs.Conversion. Convertire le immagini JPEG in documenti PDF è un gioco da ragazzi con questo potente strumento. Non importa se sei un professionista della codifica o un principiante; il nostro tutorial fornisce tutti i prerequisiti e gli snippet di codice essenziali per metterti sulla strada giusta. Ti guideremo nell'installazione della libreria, nella scrittura delle tue prime righe di codice e nell'esecuzione fluida della conversione. Perché impantanarsi in processi complicati quando puoi fare clic[per leggere di più](./converting-jpeg-to-pdf/) e iniziare subito?
 
 ## Convertire Markdown in PDF con GroupDocs.Conversion per .NET
 

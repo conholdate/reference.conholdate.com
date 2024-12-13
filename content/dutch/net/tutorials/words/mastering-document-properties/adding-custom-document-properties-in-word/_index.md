@@ -69,7 +69,7 @@ Laten we een aangepaste Booleaanse eigenschap toevoegen om aan te geven of het d
 customDocumentProperties.Add("Authorized", true);
 ```
 
- Deze regel voegt een eigenschap met de naam "Authorized" toe en stelt de waarde ervan in op`true`.
+ Deze regel voegt een eigenschap met de naam "Geautoriseerd" toe en stelt de waarde ervan in op`true`.
 
 ## Stap 5: Een stringeigenschap toevoegen
 

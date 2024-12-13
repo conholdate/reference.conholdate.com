@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Na koniec zapisz dokument, używając skonfigurowanych opcji. Spowoduje to wygenerowanie nowego pliku bez punktorów obrazkowych.
 
 ```csharp
-// Zapisz dokument z określonymi opcjami
+//Zapisz dokument z określonymi opcjami
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

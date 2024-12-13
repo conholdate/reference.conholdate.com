@@ -78,7 +78,7 @@ Agora você aprendeu como excluir uma linha por marcador em um documento do Word
 
 Sim, você pode iterar por vários favoritos e aplicar a mesma lógica de exclusão para cada um.
 
-### se o marcador não for encontrado?
+### E se o marcador não for encontrado?
 
  Se o marcador não estiver presente, o`bookmark` variável será`null`, e a remoção de linha subsequente será ignorada com segurança, evitando erros.
 

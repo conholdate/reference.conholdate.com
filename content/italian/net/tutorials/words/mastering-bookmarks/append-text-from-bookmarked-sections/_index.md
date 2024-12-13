@@ -22,7 +22,7 @@ Prima di iniziare, assicurati di avere quanto segue:
 
 ## Importa gli spazi dei nomi necessari
 
-Per prima cosa dobbiamo importare gli spazi dei nomi richiesti per accedere alle funzionalità di Aspose.Words.
+Per prima cosa, dobbiamo importare gli spazi dei nomi richiesti per accedere alle funzionalità di Aspose.Words.
 
 ```csharp
 using System;
@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Iniziamo caricando i documenti Word di origine e di destinazione e inizializzando le variabili necessarie.
 
 ```csharp
-// Caricare i documenti di origine e di destinazione.
+//Caricare i documenti di origine e di destinazione.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,7 +110,7 @@ Sì, puoi ripetere il procedimento per ogni segnalibro e aggiungere il testo sec
 L'esempio attuale presuppone che abbiano lo stesso genitore. In caso contrario, sarà necessario implementare una gestione più complessa.
 
 ### Verrà mantenuta la formattazione originale del testo allegato?
- Assolutamente! Utilizzando`ImportFormatMode.KeepSourceFormatting` garantisce che la formattazione originale venga mantenuta.
+ Assolutamente! Utilizzando`ImportFormatMode.KeepSourceFormatting`garantisce che la formattazione originale venga mantenuta.
 
 ### È possibile aggiungere del testo in una posizione specifica nel documento di destinazione?
 Sì, puoi aggiungere del testo in qualsiasi posizione desiderata navigando fino al nodo appropriato nel documento di destinazione.

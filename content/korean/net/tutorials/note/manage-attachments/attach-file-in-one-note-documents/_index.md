@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## 5단계: 첨부 파일 초기화
 
- 첨부하려는 파일의 경로를 지정하세요.`AttachedFile` 수업.
+ 첨부하려는 파일의 경로를 지정하세요.`AttachedFile`수업.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

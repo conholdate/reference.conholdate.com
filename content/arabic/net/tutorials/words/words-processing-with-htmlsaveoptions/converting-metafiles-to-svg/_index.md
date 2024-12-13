@@ -33,7 +33,7 @@ using Aspose.Words.Saving;
 
 ## الخطوة 1: تهيئة المستند وDocumentBuilder
 
-سنبدأ بإنشاء مستند Word جديد وتهيئة`DocumentBuilder` الكائن الذي سيساعدنا في إضافة المحتوى.
+ سنبدأ بإنشاء مستند Word جديد وتهيئة`DocumentBuilder` الكائن الذي سيساعدنا في إضافة المحتوى.
 
 ```csharp
 // قم بتحديد المسار إلى دليل المستندات.
@@ -56,7 +56,7 @@ builder.Write("Here is an SVG image: ");
 
 ## الخطوة 3: إدراج صورة SVG
 
- الآن يأتي الجزء المثير! سنقوم بإدراج صورة SVG في مستندنا باستخدام`InsertHtml` طريقة.
+الآن يأتي الجزء المثير! سنقوم بإدراج صورة SVG في مستندنا باستخدام`InsertHtml` طريقة.
 
 ```csharp
 builder.InsertHtml(
@@ -83,7 +83,7 @@ HtmlSaveOptions saveOptions = new HtmlSaveOptions
 
 ## الخطوة 5: احفظ المستند
 
-أخيرًا، دعنا نحفظ مستندنا باستخدام`Save` طريقة`Document` فصل.
+ أخيرًا، دعنا نحفظ مستندنا باستخدام`Save` طريقة`Document`فصل.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

@@ -91,7 +91,7 @@ Console.WriteLine("Image recognition executed successfully.");
 
 ### मुझे Aspose.OCR के लिए समर्थन कहां मिल सकता है?
 
- सहायता के लिए, यहां जाएं[Aspose.OCR फ़ोरम](https://forum.aspose.com/c/ocr/16) जहां समुदाय के सदस्य और विशेषज्ञ मदद के लिए तैयार रहते हैं।
+सहायता के लिए, यहां जाएं[Aspose.OCR फ़ोरम](https://forum.aspose.com/c/ocr/16) जहां समुदाय के सदस्य और विशेषज्ञ मदद के लिए तैयार रहते हैं।
 
 ### क्या मैं अस्थायी लाइसेंस प्राप्त कर सकता हूँ?
 

@@ -14,4 +14,4 @@ Aspose.Slides dla .NET to najlepsze narzędzie dla programistów, którzy chcą 
 ### [Samouczki dotyczące sterowania animacją slajdów głównych](./master-slide-animation-control/)
 Odkryj pełen potencjał swoich prezentacji dzięki tym kompleksowym samouczkom Aspose.Slides for .NET, które omawiają animacje slajdów i efekty animacji po slajdach.
 ### [Bezproblemowa konwersja prezentacji i przetwarzanie w programie PowerPoint](./presentation-conversion-guide/)
-Dowiedz się, jak bez wysiłku konwertować prezentacje programu PowerPoint za pomocą Aspose.Slides dla .NET, korzystając z naszych przejrzystych samouczków krok po kroku.
+Dowiedz się, jak bezproblemowo konwertować prezentacje programu PowerPoint za pomocą Aspose.Slides dla .NET, korzystając z naszych przejrzystych samouczków krok po kroku.

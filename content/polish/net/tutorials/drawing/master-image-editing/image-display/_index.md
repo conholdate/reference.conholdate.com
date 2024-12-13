@@ -9,13 +9,13 @@ url: /pl/net/tutorials/drawing/master-image-editing/image-display/
 ---
 ## Wstęp
 
-Witamy w naszym kompleksowym przewodniku po wyświetlaniu obrazów za pomocą Aspose.Drawing dla .NET! Ta potężna biblioteka umożliwia łatwą manipulację obrazami w aplikacjach .NET. Niezależnie od tego, czy chcesz ulepszyć interfejs użytkownika, czy stworzyć bogatą zawartość wizualną, ten samouczek przeprowadzi Cię przez każdy etap procesu.
+Witamy w naszym kompleksowym przewodniku po wyświetlaniu obrazów za pomocą Aspose.Drawing dla .NET! Ta potężna biblioteka umożliwia łatwą manipulację obrazami w aplikacjach .NET. Niezależnie od tego, czy chcesz ulepszyć swój interfejs użytkownika, czy stworzyć bogatą zawartość wizualną, ten samouczek przeprowadzi Cię przez każdy etap procesu.
 
 ## Wymagania wstępne
 
 Zanim zaczniesz, upewnij się, że spełnione są następujące wymagania wstępne:
 
-- Biblioteka Aspose.Drawing dla .NET: Pobierz i zainstaluj bibliotekę ze strony[strona wydania](https://releases.aspose.com/drawing/net/).
+-  Biblioteka Aspose.Drawing dla .NET: Pobierz i zainstaluj bibliotekę ze strony[strona wydania](https://releases.aspose.com/drawing/net/).
 - Środowisko .NET: Upewnij się, że Twoje środowisko programistyczne jest skonfigurowane do pracy z platformą .NET.
 - Katalog dokumentów: Utwórz katalog, w którym będziesz przechowywać swoje obrazy.
 - Plik obrazu: Przygotuj plik obrazu do wyświetlenia, np. „aspose_logo.png”.
@@ -88,7 +88,7 @@ Tak, Aspose.Drawing jest regularnie aktualizowany w celu zachowania zgodności z
 
 ### Jak poradzić sobie ze skalowaniem obrazu w Aspose.Drawing?
 
- Możesz dostosować skalę obrazu, modyfikując parametry w`DrawImage`metody, takiej jak określenie prostokąta docelowego.
+ Możesz dostosować skalę obrazu, modyfikując parametry w`DrawImage` metody, takiej jak określenie prostokąta docelowego.
 
 ### Czy istnieją jakieś kwestie licencyjne dotyczące korzystania z Aspose.Drawing w projektach komercyjnych?
 
@@ -96,4 +96,4 @@ Tak, Aspose.Drawing jest regularnie aktualizowany w celu zachowania zgodności z
 
 ### Gdzie mogę szukać pomocy, jeśli napotkam problemy lub będę miał pytania dotyczące Aspose.Drawing?
 
- Aby uzyskać pomoc, możesz odwiedzić stronę[Forum Aspose.Drawing](https://forum.aspose.com/c/diagram/17) aby nawiązać kontakt ze społecznością i uzyskać fachową pomoc.
+Aby uzyskać pomoc, możesz odwiedzić stronę[Forum Aspose.Drawing](https://forum.aspose.com/c/diagram/17) aby nawiązać kontakt ze społecznością i uzyskać fachową pomoc.

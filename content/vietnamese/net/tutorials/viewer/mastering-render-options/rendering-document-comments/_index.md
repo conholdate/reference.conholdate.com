@@ -63,7 +63,7 @@ options.RenderComments = true; // Cho phép hiển thị bình luận
 ```
 
 ## Bước 5: Hiển thị Tài liệu với Bình luận
- Gọi cho`View` phương pháp trên`Viewer` đối tượng với các tùy chọn được cấu hình.
+ Gọi cho`View`phương pháp trên`Viewer` đối tượng với các tùy chọn được cấu hình.
 
 ```csharp
 viewer.View(options);

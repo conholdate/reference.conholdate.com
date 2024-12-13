@@ -82,7 +82,7 @@ Ja, het is compatibel met zowel .NET Framework- als .NET Core-toepassingen.
 
 ### Kan ik het samenvoegingsproces aanpassen, bijvoorbeeld door de volgorde van de bestanden in de samengevoegde ZIP te specificeren?
 
-Ja, u hebt volledige controle over het samenvoegingsproces. U kunt de volgorde van bestanden specificeren door de volgorde te manipuleren waarin u de bestanden aanroept.`Join()` methode.
+ Ja, u hebt volledige controle over het samenvoegingsproces. U kunt de volgorde van bestanden specificeren door de volgorde te manipuleren waarin u de bestanden aanroept.`Join()` methode.
 
 ### Is er een licentie vereist voor GroupDocs.Merger voor .NET voor commercieel gebruik?
 

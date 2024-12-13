@@ -9,7 +9,7 @@ url: /tr/net/tutorials/ocr/optimization-ocr/guide-to-ocr-on-image-from-url/
 ---
 ## giriiş
 
-Optik Karakter Tanıma (OCR), geliştiricilerin metinsel bilgileri sorunsuz bir şekilde okuyabilen ve işleyebilen uygulamalar oluşturmasını sağlayan, resimlerden metin çıkarmak için temel bir teknolojidir. .NET için Aspose.OCR, OCR yeteneklerinin .NET uygulamalarınıza entegrasyonunu basitleştirmek için tasarlanmış sağlam bir kütüphanedir. Bu kılavuz, yalnızca birkaç basit adımda bir URL'den doğrudan bir resim üzerinde OCR'nin nasıl gerçekleştirileceğini gösterecektir.
+Optik Karakter Tanıma (OCR), geliştiricilerin metinsel bilgileri sorunsuz bir şekilde okuyabilen ve işleyebilen uygulamalar oluşturmasını sağlayan, resimlerden metin çıkarmak için olmazsa olmaz bir teknolojidir. .NET için Aspose.OCR, OCR yeteneklerinin .NET uygulamalarınıza entegrasyonunu basitleştirmek için tasarlanmış sağlam bir kütüphanedir. Bu kılavuz, sadece birkaç basit adımda bir URL'den doğrudan bir resim üzerinde OCR'nin nasıl gerçekleştirileceğini gösterecektir.
 
 ## Ön koşullar
 

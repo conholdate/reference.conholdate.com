@@ -49,7 +49,7 @@ graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 A continuación, apliquemos una transformación global al contexto gráfico. En este ejemplo, rotaremos todo el contexto gráfico 15 grados.
 
 ```csharp
-//Aplicar una transformación de rotación (15 grados)
+// Aplicar una transformación de rotación (15 grados)
 graphics.RotateTransform(15);
 ```
 

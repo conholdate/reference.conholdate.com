@@ -63,7 +63,7 @@ options.RenderComments = true; // Activer le rendu des commentaires
 ```
 
 ## Étape 5 : Afficher le document avec les commentaires
- Appelez le`View` méthode sur le`Viewer` objet avec les options configurées.
+ Appelez le`View`méthode sur le`Viewer` objet avec les options configurées.
 
 ```csharp
 viewer.View(options);

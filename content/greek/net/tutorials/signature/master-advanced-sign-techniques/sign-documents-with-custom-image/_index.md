@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Βήμα 4: Αρχικοποιήστε το αντικείμενο υπογραφής
 
- Δημιουργήστε ένα παράδειγμα του`Signature` κλάση, περνώντας στη διαδρομή αρχείου εγγράφου:
+ Δημιουργήστε ένα παράδειγμα του`Signature`κλάση, περνώντας στη διαδρομή αρχείου εγγράφου:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

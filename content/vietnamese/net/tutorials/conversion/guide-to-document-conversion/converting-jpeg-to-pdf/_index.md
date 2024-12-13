@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // Tạo tùy chọn chuyển đổi PDF
 ```
 
 ## Bước 4: Thực hiện chuyển đổi
- Gọi`Convert`phương pháp thực hiện thay đổi định dạng. Truyền vào đường dẫn tệp đầu ra của bạn cùng với các tùy chọn chuyển đổi:
+ Gọi`Convert` phương pháp thực hiện thay đổi định dạng. Truyền vào đường dẫn tệp đầu ra của bạn cùng với các tùy chọn chuyển đổi:
 
 ```csharp
-converter.Convert(outputFile, options); // Thực hiện chuyển đổi
+converter.Convert(outputFile, options); //Thực hiện chuyển đổi
 ```
 
 ## Bước 5: Hiển thị thông báo hoàn tất
@@ -92,4 +92,4 @@ Thư viện hỗ trợ nhiều định dạng, bao gồm hình ảnh, tài liệ
  Có, bạn có thể tải xuống phiên bản dùng thử từ[Trang web GroupDocs](https://releases.groupdocs.com/).
 
 ### Tôi có thể nhận hỗ trợ về GroupDocs.Conversion cho .NET ở đâu?
- Để được hỗ trợ, hãy truy cập[Diễn đàn GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) để kết nối với cộng đồng và tìm kiếm sự giúp đỡ.
+Để được hỗ trợ, hãy truy cập[Diễn đàn GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) để kết nối với cộng đồng và tìm kiếm sự giúp đỡ.

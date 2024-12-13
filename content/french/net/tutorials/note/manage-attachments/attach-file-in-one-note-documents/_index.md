@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Étape 5 : Initialiser le fichier joint
 
- Spécifiez le chemin d'accès au fichier que vous souhaitez joindre à l'aide du`AttachedFile` classe.
+ Spécifiez le chemin d'accès au fichier que vous souhaitez joindre à l'aide du`AttachedFile`classe.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

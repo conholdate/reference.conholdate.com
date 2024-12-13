@@ -19,7 +19,7 @@ Başlamadan önce aşağıdaki ayarların yapıldığından emin olun:
  Makinenizde .NET SDK'nın yüklü olduğundan emin olun. Bunu şuradan indirebilirsiniz:[.NET web sitesi](https://dotnet.microsoft.com/download).
 
 ### GroupDocs.Conversion .NET Kütüphanesi için
-GroupDocs.Conversion for .NET kitaplığını şu adresten indirin:[alan](https://releases.groupdocs.com/conversion/net/). Projenize eklemek için kurulum talimatlarını izleyin.
+ GroupDocs.Conversion for .NET kitaplığını şu adresten indirin:[alan](https://releases.groupdocs.com/conversion/net/)Projenize eklemek için kurulum talimatlarını izleyin.
 
 ## Adım 1: Gerekli Ad Alanlarını İçe Aktarın
 .NET projenizde, GroupDocs işlevlerine erişmek için aşağıdaki ad alanlarını ekleyin:

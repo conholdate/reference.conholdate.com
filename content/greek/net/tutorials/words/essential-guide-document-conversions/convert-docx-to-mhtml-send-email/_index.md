@@ -44,7 +44,7 @@ Document doc = new Document(dataDir + "Document.docx");
 
 ## Βήμα 2: Αποθηκεύστε το Έγγραφο ως MHTML
 
- Στη συνέχεια, μετατρέψτε το φορτωμένο έγγραφο σε μορφή MHTML. Αυτό γίνεται χρησιμοποιώντας το`Save` μέθοδος του`Document` τάξη.
+ Στη συνέχεια, μετατρέψτε το φορτωμένο έγγραφο σε μορφή MHTML. Αυτό γίνεται χρησιμοποιώντας το`Save` μέθοδος του`Document`τάξη.
 
 ```csharp
 using (Stream stream = new MemoryStream())
@@ -90,7 +90,7 @@ using (SmtpClient client = new SmtpClient())
 Απολύτως! Το Aspose.Words υποστηρίζει ένα ευρύ φάσμα μορφών, επιτρέποντάς σας να μετατρέψετε DOC, DOCX, RTF και άλλα σε MHTML.
 
 ### Πώς μπορώ να προσθέσω συνημμένα στο email;
- Μπορείτε εύκολα να προσθέσετε συνημμένα χρησιμοποιώντας το`Attachments` ιδιοκτησία του`MailMessage` τάξη.
+ Μπορείτε εύκολα να προσθέσετε συνημμένα χρησιμοποιώντας το`Attachments` ιδιοκτησία του`MailMessage`τάξη.
 
 ### Είναι το Aspose.Words συμβατό με .NET Core;
 Ναι, το Aspose.Words είναι συμβατό με .NET Core, καθιστώντας το κατάλληλο για χρήση σε εφαρμογές .NET Core.

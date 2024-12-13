@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- Ebben a lépésben inicializálja a`Document` osztály, amely vászonként szolgál leendő rétegeink számára. Ügyeljen arra, hogy cserélje ki`"YOUR DOCUMENT DIRECTORY"` a tényleges elérési úttal, ahová később menteni szeretné a PDF-fájlt.
+ Ebben a lépésben inicializálja a`Document` osztály, amely vászonként szolgál leendő rétegeink számára. Mindenképpen cserélje ki`"YOUR DOCUMENT DIRECTORY"` a tényleges elérési úttal, ahová később menteni szeretné a PDF-fájlt.
 
 ## 2. lépés: Hozzon létre egy új oldalt
 

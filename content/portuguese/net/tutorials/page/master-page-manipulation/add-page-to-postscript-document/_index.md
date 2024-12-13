@@ -47,10 +47,10 @@ Configure seu documento PostScript com as configurações desejadas:
 string dataDir = "Your Document Directory"; // Defina o caminho do diretório do seu documento
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //Configurar opções de salvamento para tamanho A4
+    // Configurar opções de salvamento para tamanho A4
     PsSaveOptions options = new PsSaveOptions();
     
-    // Crie um novo documento PostScript com 2 páginas
+    //Crie um novo documento PostScript com 2 páginas
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 
@@ -101,7 +101,7 @@ Parabéns! Você adicionou páginas com sucesso a um documento PostScript usando
 
 ## Perguntas frequentes
 
-### O Aspose.Page é compatível com outros formatos de documento?  
+### Aspose.Page é compatível com outros formatos de documento?  
 Aspose.Page é especializado em documentos PostScript. Para suporte com outros formatos, considere explorar outras bibliotecas Aspose adequadas às suas necessidades.
 
 ### Posso personalizar o tamanho da página no Aspose.Page?  

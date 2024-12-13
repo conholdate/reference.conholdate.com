@@ -58,7 +58,7 @@ Document doc = new Document(dataDir + "Bullet points with alternative font.docx"
 次に、ドキュメントで使用されているフォントがターゲットマシンから取得されるように保存オプションを設定する必要があります。`HtmlFixedSaveOptions`そして、`UseTargetMachineFonts`財産に`true`.
 
 ```csharp
-//ターゲットマシンのフォントを使用するように保存オプションを構成する
+//ターゲットマシンのフォントを使用するように保存オプションを設定します
 HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 {
     UseTargetMachineFonts = true

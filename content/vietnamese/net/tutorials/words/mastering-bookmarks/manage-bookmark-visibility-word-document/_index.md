@@ -16,7 +16,7 @@ Bạn đã sẵn sàng nâng cao kỹ năng thao tác tài liệu của mình v�
 Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
 
 1. Visual Studio: Bất kỳ phiên bản nào tương thích với .NET.
-2.  Aspose.Words cho .NET: Tải xuống[đây](https://releases.aspose.com/words/net/).
+2. Aspose.Words cho .NET: Tải xuống[đây](https://releases.aspose.com/words/net/).
 3. Kiến thức cơ bản về C#: Có khả năng viết các chương trình C# đơn giản là đủ.
 4. Một tài liệu Word mẫu: Chuẩn bị một tài liệu Word (ví dụ: "Bookmarks.docx") có chứa dấu trang cho hướng dẫn này.
 

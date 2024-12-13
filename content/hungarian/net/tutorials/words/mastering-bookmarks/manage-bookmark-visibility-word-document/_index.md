@@ -16,7 +16,7 @@ Készen áll arra, hogy javítsa dokumentumkezelési készségeit az Aspose.Word
 Mielőtt belemerülnénk, győződjön meg arról, hogy rendelkezik az alábbiakkal:
 
 1. Visual Studio: Bármilyen verzió, amely kompatibilis a .NET-tel.
-2.  Aspose.Words for .NET: Töltse le[itt](https://releases.aspose.com/words/net/).
+2. Aspose.Words for .NET: Töltse le[itt](https://releases.aspose.com/words/net/).
 3. Alapvető C# ismeretek: Az egyszerű C# programok írásának ismerete elegendő.
 4. Word-dokumentum minta: Készítsen egy Word-dokumentumot (pl. "Bookmarks.docx"), amely könyvjelzőket tartalmaz ehhez az oktatóanyaghoz.
 
@@ -32,7 +32,7 @@ Adja hozzá az Aspose.Wordst projektjéhez a NuGet Package Manager segítségév
 2. Keresse meg az "Aspose.Words" kifejezést.
 3. Telepítse a csomagot.
 
-projekt beállítása után kezdjük el a dokumentum betöltését.
+A projekt beállítása után kezdjük el a dokumentum betöltését.
 
 ## Névterek importálása
 
@@ -113,8 +113,8 @@ Gratulálok! Sikeresen megtanulta, hogyan jeleníthet meg és rejthet el könyvj
 
 ## GYIK
 
-### Válthatok több könyvjelzőt egyszerre?
- Igen, egyszerűen hívja a`ShowHideBookmarkedContent` módszert minden egyes átkapcsolni kívánt könyvjelzőhöz.
+### Válthatok egyszerre több könyvjelzőt?
+ Igen, egyszerűen hívja a`ShowHideBookmarkedContent` módszert minden átváltani kívánt könyvjelzőhöz.
 
 ### A tartalom elrejtése befolyásolja a dokumentum szerkezetét?
 Nem, a tartalom elrejtése csak annak láthatóságát befolyásolja; a tartalom érintetlen marad a dokumentumon belül.

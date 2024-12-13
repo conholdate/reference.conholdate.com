@@ -1,6 +1,6 @@
 ---
-title: Převod grafů Excelu do PDF pomocí Aspose.Cells pro .NET
-linktitle: Převod grafů Excelu do PDF pomocí Aspose.Cells pro .NET
+title: Převod grafů aplikace Excel do formátu PDF pomocí Aspose.Cells pro .NET
+linktitle: Převod grafů aplikace Excel do formátu PDF pomocí Aspose.Cells pro .NET
 second_title: Aspose.Cells .NET Excel Processing API
 description: Naučte se snadno převádět grafy Excelu do formátu PDF v .NET pomocí Aspose.Cells. Náš podrobný průvodce pokrývá předpoklady, nastavení, ukázky kódu a často kladené otázky.
 type: docs
@@ -9,7 +9,7 @@ url: /cs/net/tutorials/cells/conversion-to-pdf-file/convert-excel-charts-to-pdf/
 ---
 ## Zavedení
 
-Potřebujete průvodce převodem grafů z tabulek Excelu do formátu PDF v prostředí .NET? Tento článek je vaším komplexním zdrojem, který zahrnuje každý detail, který vám pomůže zvládnout proces s Aspose.Cells for .NET. Postupujte podle tohoto strukturovaného návodu a snadno převeďte grafy Excel na vysoce kvalitní soubory PDF.
+Potřebujete průvodce převodem grafů z tabulek Excelu do formátu PDF v prostředí .NET? Tento článek je vaším komplexním zdrojem, který zahrnuje každý detail, který vám pomůže zvládnout proces s Aspose.Cells for .NET. Postupujte podle tohoto strukturovaného návodu a snadno převeďte grafy Excel do vysoce kvalitních souborů PDF.
 
 ## Předpoklady
 

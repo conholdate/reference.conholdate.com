@@ -15,7 +15,7 @@ Selamat datang di panduan lengkap kami tentang menampilkan gambar menggunakan As
 
 Sebelum memulai, pastikan Anda memiliki prasyarat berikut:
 
-- Aspose.Drawing untuk Pustaka .NET: Unduh dan instal pustaka dari[halaman rilis](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing untuk Pustaka .NET: Unduh dan instal pustaka dari[halaman rilis](https://releases.aspose.com/drawing/net/).
 - Lingkungan .NET: Pastikan lingkungan pengembangan Anda disiapkan untuk bekerja dengan .NET.
 - Direktori Dokumen: Buat direktori untuk menyimpan gambar Anda.
 - Berkas Gambar: Siapkan berkas gambar untuk ditampilkan, seperti "aspose_logo.png."
@@ -88,7 +88,7 @@ Ya, Aspose.Drawing diperbarui secara berkala untuk menjaga kompatibilitas dengan
 
 ### Bagaimana saya dapat menangani penskalaan gambar di Aspose.Drawing?
 
- Anda dapat menyesuaikan skala gambar dengan mengubah parameter di`DrawImage`metode, seperti menentukan persegi panjang tujuan.
+ Anda dapat menyesuaikan skala gambar dengan mengubah parameter di`DrawImage` metode, seperti menentukan persegi panjang tujuan.
 
 ### Apakah ada pertimbangan lisensi untuk menggunakan Aspose.Drawing dalam proyek komersial?
 
@@ -96,4 +96,4 @@ Ya, Aspose.Drawing diperbarui secara berkala untuk menjaga kompatibilitas dengan
 
 ### Di mana saya dapat mencari bantuan jika saya mengalami masalah atau memiliki pertanyaan tentang Aspose.Drawing?
 
- Untuk dukungan, Anda dapat mengunjungi[Forum Aspose.Drawing](https://forum.aspose.com/c/diagram/17) untuk terhubung dengan komunitas dan mendapatkan bantuan ahli.
+Untuk dukungan, Anda dapat mengunjungi[Forum Aspose.Drawing](https://forum.aspose.com/c/diagram/17) untuk terhubung dengan komunitas dan mendapatkan bantuan ahli.

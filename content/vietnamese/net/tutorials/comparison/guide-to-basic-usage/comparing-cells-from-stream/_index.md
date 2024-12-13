@@ -15,7 +15,7 @@ Trong phát triển phần mềm, đặc biệt là khi xử lý các tài liệ
 
 Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
 
-1.  GroupDocs.Comparison cho .NET: Tải xuống và cài đặt thư viện từ[đây](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison cho .NET: Tải xuống và cài đặt thư viện từ[đây](https://releases.groupdocs.com/comparison/net/).
 2. Kiến thức cơ bản về C#: Hướng dẫn này giả định bạn đã quen thuộc với lập trình C#.
 3. Môi trường phát triển tích hợp (IDE): Sử dụng IDE như Visual Studio để mã hóa.
 4. Tài liệu để so sánh: Chuẩn bị các tài liệu bạn muốn so sánh và đảm bảo chúng có thể truy cập được từ mã C# của bạn.
@@ -96,4 +96,4 @@ Chắc chắn rồi! GroupDocs.Comparison cho .NET cung cấp nhiều tùy chọ
 
 ### Tôi có thể tìm kiếm sự trợ giúp hoặc hỗ trợ liên quan đến GroupDocs.Comparison cho .NET ở đâu?
 
-Để được hỗ trợ, hãy truy cập diễn đàn GroupDocs.Comparison[đây](https://forum.groupdocs.com/c/comparison/12).
+ Để được hỗ trợ, hãy truy cập diễn đàn GroupDocs.Comparison[đây](https://forum.groupdocs.com/c/comparison/12).

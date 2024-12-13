@@ -17,7 +17,7 @@ Než se pustíme do kódu, ujistěte se, že máte vše správně nastaveno:
 
 1.  .NET Framework/.NET Core: Ujistěte se, že máte na svém počítači nainstalováno rozhraní .NET Framework nebo .NET Core. Můžete si stáhnout[.NET zde](https://dotnet.microsoft.com/download).
 
-2.  Aspose.HTML for .NET Library: Budete potřebovat knihovnu Aspose.HTML. Můžete si jej stáhnout[zde](https://releases.aspose.com/html/net/)nebo to zkuste zdarma s a[zkušební verze zdarma](https://releases.aspose.com/).
+2.  Aspose.HTML for .NET Library: Budete potřebovat knihovnu Aspose.HTML. Můžete si jej stáhnout[zde](https://releases.aspose.com/html/net/) nebo to zkuste zdarma s a[zkušební verze zdarma](https://releases.aspose.com/).
 
 3. IDE: Pro psaní a spouštění kódu se doporučuje vhodné integrované vývojové prostředí (IDE), jako je Visual Studio.
 
@@ -53,7 +53,7 @@ První věc, kterou chcete udělat, je nastavit adresář, kam budete obrázky u
 string dataDir = "Your Data Directory"; // Zadejte cestu k adresáři
 ```
 
--  Nahradit`"Your Data Directory"` s cestou, kam chcete uložit výstupní soubory PNG. Tohle by mohlo být něco jako`@"C:\work\"`.
+-  Nahradit`"Your Data Directory"` cestou, kam chcete uložit výstupní soubory PNG. Tohle by mohlo být něco jako`@"C:\work\"`.
 
 ## Krok 2: Vytvořte objekt HTML dokumentu
 
@@ -79,11 +79,11 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  The`HtmlRenderer`je váš cílový objekt pro přeměnu obsahu HTML na obrázky. Zvládá proces vykreslování pod kapotou, takže se můžete soustředit na to, co potřebujete!
+-  The`HtmlRenderer` je váš cílový objekt pro přeměnu obsahu HTML na obrázky. Zvládá proces vykreslování pod kapotou, takže se můžete soustředit na to, co potřebujete!
 
 ## Krok 4: Nastavte obrazové zařízení
 
- Nyní je čas na přípravu`ImageDevice`. Toto je cíl pro náš proces vykreslování, kde bude vytvořen konečný obrázek PNG.
+ Nyní je čas na přípravu`ImageDevice`Toto je cíl pro náš proces vykreslování, kde bude vytvořen konečný obrázek PNG.
 
 ```csharp
 using (ImageDevice device = new ImageDevice(dataDir + @"document_out.png"))
@@ -94,7 +94,7 @@ using (ImageDevice device = new ImageDevice(dataDir + @"document_out.png"))
 
 - `ImageDevice` převezme úplnou cestu k souboru PNG, který má být vytvořen. Zde specifikujeme, že se má uložit jako`document_out.png` v našem dříve definovaném adresáři.
 
-## Krok 5: Přeneste dokument HTML do formátu PNG
+## Krok 5: Vykreslete dokument HTML do formátu PNG
 
 Nyní přichází ta vzrušující část – vykreslení našeho dokumentu HTML do obrázku PNG! Zde voláme metodu render pro dokončení převodu.
 
@@ -106,7 +106,7 @@ renderer.Render(device, document);
 
 ## Závěr
 
-tady to máte! Úspěšně jste vykreslili HTML jako obrázek PNG pomocí Aspose.HTML v .NET. Tento výkonný nástroj nabízí přímočarý způsob, jak programově manipulovat s obsahem HTML, čímž je generování a prezentace dokumentů snazší než kdy předtím. Ať už pracujete na webových aplikacích nebo vytváříte sestavy, tato metoda mění hru.
+A tady to máte! Úspěšně jste vykreslili HTML jako obrázek PNG pomocí Aspose.HTML v .NET. Tento výkonný nástroj nabízí přímočarý způsob, jak programově manipulovat s obsahem HTML, čímž je generování a prezentace dokumentů snazší než kdy předtím. Ať už pracujete na webových aplikacích nebo vytváříte sestavy, tato metoda mění hru.
 
 ## FAQ
 

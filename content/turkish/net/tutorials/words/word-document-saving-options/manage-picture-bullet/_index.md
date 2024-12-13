@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Son olarak, yapılandırılmış seçenekleri kullanarak belgeyi kaydedin. Bu, resim madde işaretleri olmadan yeni bir dosya oluşturacaktır.
 
 ```csharp
-// Belgeyi belirtilen seçeneklerle kaydedin
+//Belgeyi belirtilen seçeneklerle kaydedin
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

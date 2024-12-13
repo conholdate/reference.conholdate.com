@@ -26,7 +26,7 @@ Bevor wir mit dem Konvertierungsprozess beginnen, stellen wir sicher, dass Sie a
 2. Erstellen Sie ein neues Projekt: Öffnen Sie Ihre IDE, erstellen Sie ein neues .NET-Projekt und fügen Sie einen Verweis auf Aspose.Words hinzu.
 3. Bereiten Sie Ihr PDF-Dokument vor: Stellen Sie sicher, dass sich das PDF-Dokument, das Sie konvertieren möchten, in Ihrem Projektverzeichnis befindet.
 
-Wenn diese Grundvoraussetzungen erfüllt sind, können wir loslegen!
+Wenn diese wichtigen Voraussetzungen erfüllt sind, können wir loslegen!
 
 ## Namespaces importieren
 

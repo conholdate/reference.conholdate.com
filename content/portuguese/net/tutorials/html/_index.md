@@ -19,7 +19,7 @@ Quantas vezes você lutou com formatos de arquivo apenas para acabar frustrado? 
 
  Para aqueles que estão prontos para mergulhar mais fundo, recomendamos o[Convertendo documentos HTML](./converting-html-documents/) tutorial. Aqui, você aprenderá a converter HTML para formatos como PNG e EPUB para XPS. Cada tutorial enfatiza a experiência prática com exemplos fáceis de seguir, garantindo que você entenda os conceitos-chave rapidamente. 
 
-## Tutoriais Aspose.HTML para .NET
+## Tutoriais do Aspose.HTML para .NET
 ### [Dominando extensões e conversões HTML](./mastering-html-extensions-and-conversions/)
 Desbloqueie o poder do Aspose.HTML para .NET com nossos tutoriais sobre conversão de HTML para GIFs e PDFs. Transforme seus documentos sem esforço.
 ### [Convertendo documentos HTML](./converting-html-documents/)

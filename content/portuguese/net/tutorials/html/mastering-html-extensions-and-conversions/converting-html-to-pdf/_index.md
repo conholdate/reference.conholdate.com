@@ -19,7 +19,7 @@ Antes de começar, certifique-se de ter o seguinte:
 Certifique-se de ter o Visual Studio ou qualquer IDE .NET preferido instalado e configurado para seu projeto.
 
 ### 2. Biblioteca Aspose.HTML para .NET
-Baixe e instale a biblioteca Aspose.HTML para .NET. Você pode encontrá-la no seguinte link:[Aspose.HTML para .NET](https://releases.aspose.com/html/net/).
+ Baixe e instale a biblioteca Aspose.HTML para .NET. Você pode encontrá-la no seguinte link:[Aspose.HTML para .NET](https://releases.aspose.com/html/net/).
 
 ### 3. Conhecimento básico de C# e .NET
 Um conhecimento básico de C# e .NET ajudará você a acompanhar este tutorial de forma eficaz.
@@ -52,7 +52,7 @@ HTMLDocument htmlDocument = new HTMLDocument(dataDir + "input.html");
 ```
 
 ## Etapa 3: Configurar opções de salvamento de PDF
- Configurar`PdfSaveOptions`para definir suas configurações de conversão de PDF, como qualidade de imagem e layout. Por exemplo, você pode definir a qualidade JPEG para 100:
+ Configurar`PdfSaveOptions` para definir suas configurações de conversão de PDF, como qualidade de imagem e layout. Por exemplo, você pode definir a qualidade JPEG para 100:
 
 ```csharp
 PdfSaveOptions options = new PdfSaveOptions
@@ -75,7 +75,7 @@ string outputPDF = dataDir + "HTMLtoPDF_Output.pdf";
 Converter.ConvertHTML(htmlDocument, options, outputPDF);
 ```
 
-E assim, seu conteúdo HTML foi convertido com sucesso em um documento PDF usando o Aspose.HTML para .NET!
+assim, seu conteúdo HTML foi convertido com sucesso em um documento PDF usando o Aspose.HTML para .NET!
 
 ## Conclusão
 
@@ -83,7 +83,7 @@ Neste guia, exploramos o processo de conversão de HTML para PDF usando Aspose.H
 
 ## Perguntas frequentes
 
-### O que é Aspose.HTML para .NET?
+### que é Aspose.HTML para .NET?
 Aspose.HTML para .NET é uma biblioteca poderosa projetada para desenvolvedores manipularem e converterem conteúdo HTML em vários formatos, incluindo PDF, dentro de aplicativos .NET.
 
 ### Onde posso encontrar documentação do Aspose.HTML para .NET?

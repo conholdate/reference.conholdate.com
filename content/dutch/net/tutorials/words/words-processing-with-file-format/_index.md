@@ -13,11 +13,11 @@ Duikt u in de wereld van documentverwerking in uw .NET-applicaties? Zoek niet ve
 
 ## Detectie van documentbestandsindeling
 
- Ten eerste is het cruciaal om bestandsformaten te begrijpen. Heb je ooit een document geopend en ontdekt dat het niet de vorm heeft die je verwachtte? Met[Detectie van documentbestandsindeling](./document-file-format-detection/)leert u hoe u verschillende documentformaten naadloos kunt identificeren en beheren. Onze gedetailleerde gids biedt praktische voorbeelden, zodat u deze technieken eenvoudig in uw projecten kunt implementeren. Het herkennen van bestandsformaten kan u later hoofdpijn besparen bij het werken met verschillende documenttypen. 
+ Ten eerste is het cruciaal om bestandsformaten te begrijpen. Heb je ooit een document geopend en ontdekt dat het niet de vorm heeft die je verwachtte? Met[Detectie van documentbestandsindeling](./document-file-format-detection/), leert u hoe u verschillende documentformaten naadloos kunt identificeren en beheren. Onze gedetailleerde gids biedt praktische voorbeelden, zodat u deze technieken eenvoudig in uw projecten kunt implementeren. Het herkennen van bestandsformaten kan u later hoofdpijn besparen bij het werken met verschillende documenttypen. 
 
 ## Digitale handtekeningen detecteren in Word-documenten
 
- Digitale handtekeningen zijn als de geheime handdruk van de digitale documentwereld. Wilt u er zeker van zijn dat uw Word-documenten veilig en authentiek zijn? Bekijk onze tutorial over[Digitale handtekeningen detecteren in Word-documenten](./detecting-digital-signatures/). Deze uitgebreide gids leidt u door het hele proces, van het opzetten van het project tot het daadwerkelijk controleren op handtekeningen. In een wereld waarin documentintegriteit van het grootste belang is, kan het weten hoe u met digitale handtekeningen om moet gaan u onderscheiden als een ontwikkelaar die om beveiliging geeft.
+Digitale handtekeningen zijn als de geheime handdruk van de digitale documentwereld. Wilt u er zeker van zijn dat uw Word-documenten veilig en authentiek zijn? Bekijk onze tutorial over[Digitale handtekeningen detecteren in Word-documenten](./detecting-digital-signatures/). Deze uitgebreide gids leidt u door het hele proces, van het opzetten van het project tot het daadwerkelijk controleren op handtekeningen. In een wereld waarin documentintegriteit van het grootste belang is, kan het weten hoe u met digitale handtekeningen om moet gaan u onderscheiden als een ontwikkelaar die om beveiliging geeft.
 
 ## Controleer de encryptie van Word-documenten
 

@@ -91,7 +91,7 @@ Embora você possa usar o Aspose.Words sem uma licença, alguns recursos avança
  Baixe-o do[site](https://releases.aspose.com/words/net/) e siga as instruções de instalação fornecidas.
 
 ### Posso definir unidades diferentes para seções diferentes de um documento?
- Absolutamente! Você pode personalizar margens e configurações para diferentes seções usando o`Section` aula.
+ Absolutamente! Você pode personalizar margens e configurações para diferentes seções usando o`Section`aula.
 
 ### Quais outros recursos o Aspose.Words oferece?
  O Aspose.Words oferece suporte a uma ampla variedade de recursos, incluindo conversão de documentos, mala direta e opções de formatação abrangentes. Verifique o[documentação](https://reference.aspose.com/words/net/) para mais detalhes.

@@ -15,7 +15,7 @@ Att ställa in ditt dokuments sidlayout kan vara en skrämmande uppgift, men med
 
 Innan vi börjar, se till att du har följande:
 
--  Aspose.Words för .NET: Ladda ner det[här](https://releases.aspose.com/words/net/).
+- Aspose.Words för .NET: Ladda ner det[här](https://releases.aspose.com/words/net/).
 -  En giltig licens: Köp en[här](https://purchase.aspose.com/buy) eller skaffa en tillfällig licens[här](https://purchase.aspose.com/temporary-license/).
 - Grundläggande förståelse för C#-programmering: Oroa dig inte, jag ska hålla det enkelt.
 - Integrated Development Environment (IDE): Visual Studio rekommenderas starkt.

@@ -28,10 +28,10 @@ using Aspose.Words;
 
 ## Étape 1 : Charger le fichier texte
 
-Tout d'abord, vous devez charger le fichier texte dans un Aspose.Words`Document` objet. Voici comment procéder :
+ Tout d'abord, vous devez charger le fichier texte dans un Aspose.Words`Document` objet. Voici comment procéder :
 
 ```csharp
-// Spécifiez le chemin du répertoire où se trouve votre fichier texte
+//Spécifiez le chemin du répertoire où se trouve votre fichier texte
 string dataDir = "YOUR_DOCUMENT_DIRECTORY/";
 
 // Charger le fichier texte dans un objet Document

@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## Etapa 1: configure seu projeto
 
-Primeiro, crie um novo projeto .NET no seu IDE. Adicione uma referência à biblioteca Aspose.Words. Se você ainda não baixou, pode fazer isso em[aqui](https://releases.aspose.com/words/net/).
+ Primeiro, crie um novo projeto .NET no seu IDE. Adicione uma referência à biblioteca Aspose.Words. Se você ainda não baixou, pode fazer isso em[aqui](https://releases.aspose.com/words/net/).
 
 ## Etapa 2: Defina o diretório do documento
 

@@ -15,7 +15,7 @@ Ustawienie układu strony dokumentu może być trudnym zadaniem, ale dzięki Asp
 
 Zanim zaczniemy, upewnij się, że masz następujące rzeczy:
 
--  Aspose.Words dla .NET: Pobierz[Tutaj](https://releases.aspose.com/words/net/).
+- Aspose.Words dla .NET: Pobierz[Tutaj](https://releases.aspose.com/words/net/).
 -  Ważna licencja: Kup jedną[Tutaj](https://purchase.aspose.com/buy) lub uzyskaj tymczasową licencję[Tutaj](https://purchase.aspose.com/temporary-license/).
 - Podstawowa znajomość programowania w języku C#: Nie martw się, postaram się przedstawić sprawę w prosty sposób.
 - Zintegrowane środowisko programistyczne (IDE): zdecydowanie zalecane jest środowisko Visual Studio.

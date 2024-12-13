@@ -94,7 +94,7 @@ Assolutamente! Aspose.Email per .NET supporta vari formati, tra cui MSG, EML, PS
 
 ### Le informazioni sul fuso orario vengono conservate nel formato MHT?
 
- Sì, le informazioni sul fuso orario vengono conservate durante il processo di conversione. Gestire gli offset del fuso orario e utilizzare l'appropriato`TimeZoneInfo` metodi, è possibile garantire una rappresentazione accurata del fuso orario nel file MHT.
+ Sì, le informazioni sul fuso orario vengono conservate durante il processo di conversione. Gestire gli offset del fuso orario e utilizzare l'appropriato`TimeZoneInfo`metodi, è possibile garantire una rappresentazione accurata del fuso orario nel file MHT.
 
 ### Dove posso trovare ulteriore documentazione e aggiornamenti su Aspose.Email per .NET?
 

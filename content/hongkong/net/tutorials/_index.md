@@ -149,7 +149,7 @@ Aspose.Cells 教學和程式碼片段引導您完成不同的步驟，以充分�
 {{% /alert %}}
 
 ### Aspose.Tasks 教學課程
-- [Aspose.Tasks for .NET 教學課程](./tasks/)
+- [.NET 教學的 Aspose.Tasks](./tasks/)
 
 ## 地理資訊系統
 {{% alert color="primary" %}}
@@ -193,7 +193,7 @@ Aspose.Cells 教學和程式碼片段引導您完成不同的步驟，以充分�
 
 ## 群組文件.簽名
 {{% alert color="primary" %}}
-探索使用 GroupDocs.Signature for .NET 的綜合教學。透過清晰的逐步指南，學習實施數位簽章、自訂工作流程並增強文件安全性。
+探索使用 GroupDocs.Signature for .NET 的綜合教學。透過清晰的逐步指南，學習如何實施數位簽章、自訂工作流程並增強文件安全性。
 {{% /alert %}}
 
 ### GroupDocs.Signature 教程

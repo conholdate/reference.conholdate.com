@@ -62,7 +62,7 @@ Ez biztosítja, hogy a fájlkönyvtár készen álljon, és megakadályozza a hi
 Workbook workbook = new Workbook();
 ```
 
-Ez inicializál egy üres munkafüzetet. Ha egy meglévő munkafüzetet szeretne betölteni, adja meg a fájl elérési útját paraméterként:
+Ezzel inicializálja az üres munkafüzetet. Ha egy meglévő munkafüzetet szeretne betölteni, adja meg a fájl elérési útját paraméterként:
 
 ```csharp
 Workbook workbook = new Workbook(dataDir + "ExistingWorkbook.xlsx");

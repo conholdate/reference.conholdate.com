@@ -13,7 +13,7 @@ Aspose.Drawing pour .NET permet aux développeurs de créer des graphiques sophi
 
 ## Prérequis
 
-1. Aspose.Drawing pour .NET : Téléchargez-le et installez-le depuis[ici](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing pour .NET : Téléchargez-le et installez-le depuis[ici](https://releases.aspose.com/drawing/net/).
 2. Répertoire de documents : choisissez un répertoire pour enregistrer vos images.
 3. Connaissances de base de .NET : Familiarité avec C# et les concepts de programmation graphique.
 
@@ -80,7 +80,7 @@ En suivant ces étapes, vous pouvez facilement implémenter des transformations 
 ## FAQ
 
 ### Puis-je appliquer plusieurs transformations en séquence ?  
-Oui, vous pouvez enchaîner les transformations en utilisant la matrice.
+Oui, vous pouvez enchaîner des transformations en utilisant la matrice.
 
 ### Est-il adapté aux applications graphiques complexes ?  
 Absolument ! Aspose.Drawing prend en charge une large gamme d'opérations graphiques.

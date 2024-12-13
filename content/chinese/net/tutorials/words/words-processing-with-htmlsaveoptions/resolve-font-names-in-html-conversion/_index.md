@@ -15,7 +15,7 @@ url: /zh/net/tutorials/words/words-processing-with-htmlsaveoptions/resolve-font-
 
 在我们开始之前，请确保您已准备好所需的一切：
 
-1.  Aspose.Words for .NET：下载[这里](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET：下载[这里](https://releases.aspose.com/words/net/).
 2. 有效许可证：购买许可证[这里](https://purchase.aspose.com/buy)或获得临时执照[这里](https://purchase.aspose.com/temporary-license/).
 3. C# 和 .NET 的基础知识：假设熟悉 C# 中的基本编程概念。
 4. Visual Studio：任何支持.NET 框架的版本都可以使用。

@@ -2,7 +2,7 @@
 title: Преобразование в PDF с использованием Aspose.Cells в .NET
 linktitle: Преобразование в PDF с использованием Aspose.Cells в .NET
 second_title: API обработки Excel Aspose.Cells .NET
-description: Конвертируйте файлы Excel в PDF без усилий с Aspose.Cells для .NET. Откройте для себя пошаговые руководства, фрагменты кода и советы в наших всеобъемлющих руководствах.
+description: Конвертируйте файлы Excel в PDF без усилий с помощью Aspose.Cells для .NET. Откройте для себя пошаговые руководства, фрагменты кода и советы в наших всеобъемлющих руководствах.
 type: docs
 weight: 34
 url: /ru/net/tutorials/cells/conversion-to-pdf-file/

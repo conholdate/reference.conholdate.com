@@ -16,7 +16,7 @@ Si trabajas a menudo con presentaciones de PowerPoint, sabrás lo importante que
 Antes de sumergirte, asegúrate de cumplir los siguientes requisitos:
 
 -  Entorno de desarrollo: Instalar[Estudio visual](https://visualstudio.microsoft.com/) o cualquier IDE de C#.
-- Biblioteca Aspose.Slides para .NET: Descargue la biblioteca desde[aquí](https://releases.aspose.com/slides/net/).
+-  Biblioteca Aspose.Slides para .NET: Descargue la biblioteca desde[aquí](https://releases.aspose.com/slides/net/).
 -  Archivo de presentación: tenga un archivo de PowerPoint (por ejemplo,`NotesFile.pptx`) listo para la conversión.
 
 ## Configuración de su entorno
@@ -73,7 +73,7 @@ Una vez configuradas las opciones, guarde la presentación como PDF. A continuac
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
- Esto generará un archivo PDF llamado`Pdf_Notes_out.pdf` en el directorio especificado, que contiene diapositivas junto con sus notas.
+Esto generará un archivo PDF llamado`Pdf_Notes_out.pdf` en el directorio especificado, que contiene diapositivas junto con sus notas.
 
 ## Conclusión
 
@@ -88,10 +88,10 @@ Sí, Aspose.Slides para .NET está diseñado para manejar presentaciones de cual
  Puede descargar una versión de prueba gratuita desde[aquí](https://releases.aspose.com/).
 
 ### P3: ¿Hay otras opciones de exportación de PDF disponibles?
-Sí, puedes personalizar fuentes, diseño de página, compresión y más usando el`PdfOptions` clase.
+ Sí, puedes personalizar fuentes, diseño de página, compresión y más usando el`PdfOptions`clase.
 
 ### P4: ¿Puedo exportar sólo diapositivas específicas?
- ¡Por supuesto! Puedes seleccionar diapositivas específicas usando el`Slides` colección en el`Presentation` clase.
+ ¡Por supuesto! Puedes seleccionar diapositivas específicas usando el`Slides` colección en el`Presentation`clase.
 
 ### Q5: ¿Dónde puedo encontrar ejemplos adicionales?
  Visita el[Documentación de Aspose.Slides para .NET](https://reference.aspose.com/slides/net/) para más ejemplos y casos de uso.

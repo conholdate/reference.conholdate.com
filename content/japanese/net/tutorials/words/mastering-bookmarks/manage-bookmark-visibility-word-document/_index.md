@@ -16,7 +16,7 @@ Aspose.Words for .NET を使用してドキュメント操作スキルを向上�
 始める前に、以下のものを用意してください。
 
 1. Visual Studio: .NET と互換性のある任意のバージョン。
-2.  Aspose.Words for .NET: ダウンロード[ここ](https://releases.aspose.com/words/net/).
+2. Aspose.Words for .NET: ダウンロード[ここ](https://releases.aspose.com/words/net/).
 3. 基本的な C# の知識: 簡単な C# プログラムの記述に関する知識があれば十分です。
 4. サンプル Word 文書: このチュートリアル用のブックマークを含む Word 文書 (例: 「Bookmarks.docx」) を準備します。
 

@@ -92,8 +92,8 @@ Nie, biblioteka jest samodzielna i nie wymaga żadnych dodatkowych zależności 
 
 ### Czy jest dostępna wersja próbna do przetestowania?
 
-Tak, możesz pobrać bezpłatną wersję próbną ze strony[strona wydań](https://releases.groupdocs.com/) aby zapoznać się z możliwościami biblioteki przed zakupem.
+ Tak, możesz pobrać bezpłatną wersję próbną ze strony[strona wydań](https://releases.groupdocs.com/) aby zapoznać się z możliwościami biblioteki przed zakupem.
 
 ### Gdzie mogę uzyskać pomoc i wsparcie?
 
- Jeśli napotkasz jakiekolwiek problemy, możesz odwiedzić stronę[Forum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) Jeśli potrzebujesz wsparcia ze strony społeczności lub skontaktuj się z zespołem wsparcia, aby uzyskać spersonalizowaną pomoc.
+Jeśli napotkasz jakiekolwiek problemy, możesz odwiedzić stronę[Forum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) Jeśli potrzebujesz wsparcia ze strony społeczności lub skontaktuj się z zespołem wsparcia, aby uzyskać spersonalizowaną pomoc.

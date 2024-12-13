@@ -106,7 +106,7 @@ Dalam panduan lengkap ini, Anda telah menemukan cara untuk memanfaatkan kekuatan
  Ya! Anda dapat menambahkan fungsi JavaScript sebanyak yang diperlukan menggunakan`doc.JavaScript` koleksi.
 
 ### Apa yang terjadi jika saya mencoba menghapus fungsi JavaScript yang tidak ada?
- Jika fungsi tersebut tidak ada,`Remove` metode ini tidak akan memunculkan kesalahan, tetapi juga tidak akan menghapus apa pun. Untuk menangani fungsi yang tidak ada, Anda dapat menambahkan penanganan kesalahan tambahan atau mengubah kode untuk mengabaikannya.
+ Jika fungsi tersebut tidak ada,`Remove`metode ini tidak akan memunculkan kesalahan, tetapi juga tidak akan menghapus apa pun. Untuk menangani fungsi yang tidak ada, Anda dapat menambahkan penanganan kesalahan tambahan atau mengubah kode untuk mengabaikannya.
 
 ### Apakah mungkin untuk menjalankan JavaScript segera setelah PDF dibuka?
 Ya! Anda dapat mengonfigurasi JavaScript untuk berjalan pada pemicu tertentu, seperti membuka dokumen atau mengklik tombol.

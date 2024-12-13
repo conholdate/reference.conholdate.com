@@ -16,7 +16,7 @@ url: /zh/net/tutorials/merger/guide-to-document-merging/merge-document-files/
 在开始之前，请确保您已准备好以下物品：
 
 1. Visual Studio：在您的开发机器上安装 Visual Studio。
-2.  GroupDocs.Merger for .NET：从[网站](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger for .NET：从[网站](https://releases.groupdocs.com/merger/net/).
 3. C# 基础知识：建议熟悉 C# 编程语言。
 
 ## 导入所需的命名空间

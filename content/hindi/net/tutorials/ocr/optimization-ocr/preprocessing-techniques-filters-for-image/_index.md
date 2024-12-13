@@ -95,7 +95,7 @@ Console.WriteLine("Image recognition with preprocessing executed successfully.")
  आप लाइसेंसिंग विकल्पों का पता लगा सकते हैं और खरीदारी कर सकते हैं[यहाँ](https://purchase.conholdate.com/buy) . एक निःशुल्क परीक्षण भी उपलब्ध है[यहाँ](https://releases.aspose.com/) , और अस्थायी लाइसेंस प्राप्त किए जा सकते हैं[यहाँ](https://purchase.conholdate.com/temporary-license/).
 
 ### मैं Aspose.OCR के लिए समर्थन कहां पा सकता हूं?  
- सहायता के लिए, यहां जाएं[Aspose.OCR फ़ोरम](https://forum.aspose.com/c/ocr/16) समुदाय और समर्थन के लिए.
+सहायता के लिए, यहां जाएं[Aspose.OCR फ़ोरम](https://forum.aspose.com/c/ocr/16) समुदाय और समर्थन के लिए.
 
 ### Aspose.OCR किस छवि प्रारूप का समर्थन करता है?  
 Aspose.OCR विभिन्न प्रारूपों का समर्थन करता है, जिनमें PNG, JPEG, GIF, BMP और TIFF शामिल हैं।

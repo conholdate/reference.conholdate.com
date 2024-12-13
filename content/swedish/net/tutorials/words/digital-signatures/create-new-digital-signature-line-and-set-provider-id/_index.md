@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
- De`InsertSignatureLine`metod lägger till signaturraden och vi tilldelar den ett unikt leverantörs-ID.
+ De`InsertSignatureLine` metod lägger till signaturraden och vi tilldelar den ett unikt leverantörs-ID.
 
 ## Steg 4: Spara dokumentet
 

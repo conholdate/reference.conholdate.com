@@ -102,7 +102,7 @@ A tulajdonságok hasznosak konfigurációs beállítások vagy adatpontok meghat
 
 ## 7. lépés: Kösse össze a webbővítményt  
 
-A kiterjesztés hozzárendelése a dokumentum egy meghatározott részéhez:  
+kiterjesztés hozzárendelése a dokumentum egy meghatározott részéhez:  
 
 ```csharp
 taskPane.WebExtension.Bindings.Add(
@@ -140,7 +140,7 @@ Ez megjeleníti a konzolon található egyes munkaablak részleteit.
 
 ## Következtetés  
 
-webbővítmény munkaablakok Word dokumentumokba való integrálása az Aspose.Words for .NET használatával a statikus dokumentumokat dinamikus, interaktív felületekké alakítja. Az oktatóanyag követésével zökkenőmentesen konfigurálhatja és kezelheti a munkaablakokat, ami erőteljes fejlesztéseket tesz lehetővé a felhasználók számára.
+A webbővítmény munkaablakok Word dokumentumokba való integrálása az Aspose.Words for .NET használatával a statikus dokumentumokat dinamikus, interaktív felületekké alakítja. Az oktatóanyag követésével zökkenőmentesen konfigurálhatja és kezelheti a munkaablakokat, ami erőteljes fejlesztéseket tesz lehetővé a felhasználók számára.
 
 ## GYIK  
 

@@ -15,7 +15,7 @@ url: /ja/net/tutorials/comparison/guide-to-basic-usage/comparing-cells-from-stre
 
 始める前に、次のものがあることを確認してください。
 
-1.  GroupDocs.Comparison for .NET: ライブラリをダウンロードしてインストールします。[ここ](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison for .NET: ライブラリをダウンロードしてインストールします。[ここ](https://releases.groupdocs.com/comparison/net/).
 2. C# の基礎知識: このチュートリアルでは、C# プログラミングに精通していることを前提としています。
 3. 統合開発環境 (IDE): コーディングには Visual Studio などの IDE を使用します。
 4. 比較するドキュメント: 比較するドキュメントを準備し、C# コードからアクセスできることを確認します。

@@ -19,7 +19,7 @@ Voordat we beginnen, moet u ervoor zorgen dat u het volgende hebt ingesteld:
  Zorg ervoor dat u de .NET SDK op uw machine hebt geïnstalleerd. U kunt deze downloaden van de[.NET-website](https://dotnet.microsoft.com/download).
 
 ### GroupDocs.Conversion voor .NET-bibliotheek
-Download de GroupDocs.Conversion voor .NET-bibliotheek van de[plaats](https://releases.groupdocs.com/conversion/net/)Volg de installatie-instructies om het aan uw project toe te voegen.
+ Download de GroupDocs.Conversion voor .NET-bibliotheek van de[plaats](https://releases.groupdocs.com/conversion/net/)Volg de installatie-instructies om het aan uw project toe te voegen.
 
 ## Stap 1: Importeer de benodigde naamruimten
 Neem in uw .NET-project de volgende naamruimten op om toegang te krijgen tot de GroupDocs-functionaliteiten:
@@ -70,7 +70,7 @@ Console.WriteLine("\nConversion to PDF completed successfully. \nCheck output in
 ```
 
 ## Conclusie
-hebt nu geleerd hoe u Markdown-bestanden naar PDF kunt converteren met GroupDocs.Conversion voor .NET. Door deze stappen te volgen, kunt u eenvoudig bestandsconversiemogelijkheden integreren in uw toepassingen.
+U hebt nu geleerd hoe u Markdown-bestanden naar PDF kunt converteren met GroupDocs.Conversion voor .NET. Door deze stappen te volgen, kunt u eenvoudig bestandsconversiemogelijkheden integreren in uw toepassingen.
 
 ## Veelgestelde vragen
 

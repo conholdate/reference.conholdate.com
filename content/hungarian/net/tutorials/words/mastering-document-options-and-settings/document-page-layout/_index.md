@@ -15,7 +15,7 @@ A dokumentum oldalelrendezésének beállítása ijesztő feladat lehet, de az A
 
 Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik a következőkkel:
 
--  Aspose.Words for .NET: Töltse le[itt](https://releases.aspose.com/words/net/).
+- Aspose.Words for .NET: Töltse le[itt](https://releases.aspose.com/words/net/).
 -  Érvényes licenc: Vásároljon egyet[itt](https://purchase.aspose.com/buy) vagy ideiglenes engedélyt szerezni[itt](https://purchase.aspose.com/temporary-license/).
 - Alapvető ismeretek a C# programozásról: Ne aggódj, egyszerűnek fogom tartani a dolgokat.
 - Integrált fejlesztői környezet (IDE): A Visual Studio erősen ajánlott.
@@ -80,7 +80,7 @@ Gratulálok! Sikeresen beállította a dokumentum oldalelrendezését az Aspose.
 ## GYIK
 
 ### Mi az Aspose.Words for .NET?
-Az Aspose.Words for .NET egy robusztus könyvtár a dokumentumok létrehozásához, módosításához és konvertálásához különféle formátumokban a .NET-alkalmazásokon belül.
+Az Aspose.Words for .NET egy robusztus könyvtár a dokumentumok létrehozásához, módosításához és konvertálásához különféle formátumokban .NET-alkalmazásokon belül.
 
 ### Használhatom ingyenesen az Aspose.Words-t?
  Igen, ideiglenes licenccel tudod használni, amit megszerezhetsz[itt](https://purchase.aspose.com/temporary-license/).

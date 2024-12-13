@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## الخطوة 4: تهيئة كائن التوقيع
 
- إنشاء مثيل لـ`Signature` الفئة، تمرير مسار ملف المستند:
+ إنشاء مثيل لـ`Signature`الفئة، تمرير مسار ملف المستند:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

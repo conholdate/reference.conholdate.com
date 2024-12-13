@@ -15,7 +15,7 @@ Xin chào, các bạn lập trình viên! Nếu bạn đã từng vật lộn v�
 
 Trước khi bắt đầu, hãy đảm bảo bạn có mọi thứ cần thiết:
 
-1.  Aspose.Words cho .NET: Tải xuống[đây](https://releases.aspose.com/words/net/).
+1. Aspose.Words cho .NET: Tải xuống[đây](https://releases.aspose.com/words/net/).
 2.  Giấy phép hợp lệ: Mua giấy phép[đây](https://purchase.aspose.com/buy) hoặc xin giấy phép tạm thời[đây](https://purchase.aspose.com/temporary-license/).
 3. Kiến thức cơ bản về C# và .NET: Giả định là bạn đã quen thuộc với các khái niệm lập trình cơ bản trong C#.
 4. Visual Studio: Bất kỳ phiên bản nào hỗ trợ .NET framework đều có thể sử dụng được.
@@ -74,7 +74,7 @@ Cuối cùng, chúng ta lưu tài liệu dưới dạng tệp HTML bằng cách 
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Chúng tôi gọi là`Save` phương pháp trên`Document` đối tượng, chỉ định đường dẫn đầu ra và các tùy chọn lưu mà chúng tôi đã cấu hình. Điều này tạo ra một tệp HTML với các tên phông chữ đã được giải quyết.
+ Chúng tôi gọi là`Save`phương pháp trên`Document` đối tượng, chỉ định đường dẫn đầu ra và các tùy chọn lưu mà chúng tôi đã cấu hình. Điều này tạo ra một tệp HTML với các tên phông chữ đã được giải quyết.
 
 ## Phần kết luận
 
@@ -92,7 +92,7 @@ Aspose.Words for .NET là một thư viện mạnh mẽ cho phép các nhà phá
  Có, nhưng nó sẽ có một số hạn chế. Để có đầy đủ chức năng, bạn có thể mua giấy phép[đây](https://purchase.aspose.com/buy) hoặc xin giấy phép tạm thời[đây](https://purchase.aspose.com/temporary-license/).
 
 ### Tại sao phông chữ của tôi không hiển thị đúng trong HTML?
- Sự cố này có thể phát sinh nếu phông chữ không được giải quyết đúng cách trong quá trình chuyển đổi. Cài đặt`ResolveFontNames = true` TRONG`HtmlSaveOptions` có thể giúp khắc phục điều này.
+Sự cố này có thể phát sinh nếu phông chữ không được giải quyết đúng cách trong quá trình chuyển đổi. Cài đặt`ResolveFontNames = true` TRONG`HtmlSaveOptions` có thể giúp khắc phục điều này.
 
 ### Tôi có thể nhận hỗ trợ cho Aspose.Words dành cho .NET ở đâu?
  Bạn có thể nhận được sự hỗ trợ từ[Diễn đàn hỗ trợ Aspose.Words](https://forum.aspose.com/c/words/8).

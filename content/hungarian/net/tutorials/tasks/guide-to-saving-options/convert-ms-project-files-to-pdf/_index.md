@@ -9,7 +9,7 @@ url: /hu/net/tutorials/tasks/guide-to-saving-options/convert-ms-project-files-to
 ---
 ## Bevezetés
 
-hatékony projektfájl-kezelés kulcsszerepet játszik az egyszerűsített munkafolyamatokban és a projekt sikerében. Az Aspose.Tasks for .NET használatával a fejlesztők precízen és rugalmasan konvertálhatják a Microsoft Project fájlokat PDF formátumba. Ebben az útmutatóban lépésről lépésre végigvezetjük a Microsoft Project (.mpp) fájlok PDF-formátumban történő mentéséhez, testreszabható beállításokkal kiegészítve.
+A hatékony projektfájl-kezelés kulcsszerepet játszik az egyszerűsített munkafolyamatokban és a projekt sikerében. Az Aspose.Tasks for .NET használatával a fejlesztők precízen és rugalmasan konvertálhatják a Microsoft Project fájlokat PDF formátumba. Ebben az útmutatóban lépésről lépésre végigvezetjük a Microsoft Project (.mpp) fájlok PDF-formátumban történő mentéséhez, testreszabható beállításokkal kiegészítve.
 
 ## Az Aspose.Tasks for .NET használatának előfeltételei
 
@@ -19,7 +19,7 @@ A folytatás előtt győződjön meg arról, hogy a következő előfeltételek 
     Töltse le és telepítse a könyvtárat a[weboldal](https://releases.aspose.com/tasks/net/).
 
 2. Fejlesztési környezet  
-   A C# programozási nyelv gyakorlati ismerete és egy konfigurált .NET fejlesztői környezet.
+   C# programozási nyelv gyakorlati ismerete és egy konfigurált .NET fejlesztői környezet.
 
 3. Írja be a Microsoft Project fájlt  
     Legyen érvényes`.mpp` konvertálható fájl.
@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## 4. lépés: Adott oldalak kiválasztása exportáláshoz (opcionális)
 
- Adja meg a PDF-ben szerepeltetni kívánt oldalakat a következővel:`Pages` ingatlan. Például az 1. és 4. oldal exportálásához:
+Adja meg a PDF-ben szerepeltetni kívánt oldalakat a következővel:`Pages` ingatlan. Például az 1. és 4. oldal exportálásához:
 
 ```csharp
 options.Pages.Add(1);
@@ -82,7 +82,7 @@ project.Save("Output_PDF_File_Path.pdf", options);
 
 ## Következtetés
 
-Microsoft Project fájlok PDF formátumba konvertálása az Aspose.Tasks for .NET használatával zökkenőmentes és testreszabható élményt biztosít. A konkrét oldalak kiválasztásától a kötegelt exportálás automatizálásáig ez az eszköz lehetővé teszi a fejlesztők számára a projektfájlok hatékony kezelését.
+A Microsoft Project fájlok PDF formátumba konvertálása az Aspose.Tasks for .NET használatával zökkenőmentes és testreszabható élményt biztosít. A konkrét oldalak kiválasztásától a kötegelt exportálás automatizálásáig ez az eszköz lehetővé teszi a fejlesztők számára a projektfájlok hatékony kezelését.
 
 ## GYIK
 

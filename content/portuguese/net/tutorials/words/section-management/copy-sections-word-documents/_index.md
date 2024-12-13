@@ -103,7 +103,7 @@ Copiar seções entre documentos do Word não é mais uma tarefa assustadora com
 ### Posso copiar cabeçalhos e rodapés junto com seções?
 Sim, o Aspose.Words inclui automaticamente cabeçalhos, rodapés e outras propriedades específicas da seção ao importar seções.
 
-### Aspose.Words para .NET é compatível com versões mais antigas do Word?
+### O Aspose.Words para .NET é compatível com versões mais antigas do Word?
 Absolutamente. Ele suporta uma ampla gama de formatos, incluindo arquivos DOC legados.
 
 ### Como posso copiar conteúdo entre documentos sem perder a formatação?

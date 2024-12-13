@@ -35,7 +35,7 @@ Az alábbiakban bemutatjuk a részletes, lépésről lépésre történő megval
 
 ## 1. lépés: Hozzon létre egy új OneNote-dokumentumot
 
- Inicializáljon egy új OneNote-dokumentumot a`Document` osztály.
+ Inicializáljon egy új OneNote-dokumentumot a`Document`osztály.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ Az Aspose.Note támogatja a JPEG, PNG, BMP és GIF formátumokat a melléklet ik
 Az Aspose.Note nem ír elő kifejezett méretkorlátot, de ügyeljen arra, hogy a rendszererőforrások képesek legyenek kezelni a nagy fájlokat.
 
 ### Átméretezhetők az ikonok beállítása előtt?
-Igen, manipulálhatja az ikonképet a .NET segítségével`System.Drawing` csatolása előtt.
+ Igen, manipulálhatja az ikonképet a .NET segítségével`System.Drawing` csatolása előtt.
 
  További segítségért keresse fel a[dokumentáció](https://reference.aspose.com/words/net/) vagy nyúlj hozzá[Aspose támogatást](https://forum.aspose.com/c/words/8).

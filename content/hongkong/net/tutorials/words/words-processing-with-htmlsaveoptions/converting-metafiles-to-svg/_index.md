@@ -93,7 +93,7 @@ doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);
 
 ## 結論
 
-恭喜！您已使用 Aspose.Words for .NET 成功將 Word 文件中的圖元檔案轉換為 SVG。只需幾行程式碼，您就可以使用可縮放向量圖形增強文檔，使它們更具動態性和視覺吸引力。在您的專案中嘗試一下，祝您編碼愉快！
+恭喜！您已使用 Aspose.Words for .NET 成功將 Word 文件中的圖元檔案轉換為 SVG。只需幾行程式碼，您就可以使用可擴展的向量圖形增強文檔，使它們更具動態性和視覺吸引力。在您的專案中嘗試一下，祝您編碼愉快！
 
 ## 常見問題解答
 

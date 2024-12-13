@@ -95,7 +95,7 @@ Console.WriteLine("Image recognition executed successfully.");
 
 ### 我可以获得临时执照吗？
 
-是的，您可以随时获取临时测试许可证[关联](https://purchase.conholdate.com/temporary-license/).
+是的，请随时获取临时测试许可证[关联](https://purchase.conholdate.com/temporary-license/).
 
 ### 如何购买 Aspose.OCR for .NET？
 

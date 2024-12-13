@@ -119,7 +119,7 @@ Sim, você pode personalizar totalmente a aparência do índice, incluindo estil
 
 ### Como adiciono subtítulos ao índice?
 
- Você pode adicionar subtítulos ajustando o`Heading` nível (por exemplo,`Heading(2)`).
+Você pode adicionar subtítulos ajustando o`Heading` nível (por exemplo,`Heading(2)`).
 
 ### É possível atualizar o TOC automaticamente se o documento for alterado?
 

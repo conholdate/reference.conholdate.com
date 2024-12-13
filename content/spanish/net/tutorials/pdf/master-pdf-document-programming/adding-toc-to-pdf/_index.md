@@ -119,7 +119,7 @@ Sí, puedes personalizar completamente la apariencia de la tabla de contenidos, 
 
 ### ¿Cómo agrego subtítulos a la tabla de contenidos?
 
- Puede agregar subtítulos ajustando el`Heading` nivel (por ejemplo,`Heading(2)`).
+Puede agregar subtítulos ajustando el`Heading` nivel (por ejemplo,`Heading(2)`).
 
 ### ¿Es posible actualizar la tabla de contenidos automáticamente si el documento cambia?
 

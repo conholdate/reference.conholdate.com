@@ -29,7 +29,7 @@ Chcete-li začít s Aspose.PDF pro .NET, nastavte svůj projekt podle následuj�
 1. Otevřete Visual Studio.
 2. Vytvořte nový projekt C# Console Application.
 
-### Přidejte referenci Aspose.PDF
+### Přidejte odkaz Aspose.PDF
 
 1. Klepněte pravým tlačítkem myši na svůj projekt v Průzkumníku řešení.
 2. Vyberte Spravovat balíčky NuGet.
@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  Nyní vytvořte instanci a`Document` objekt, který bude reprezentovat váš soubor CGM v paměti. To vám umožní manipulovat se souborem před jeho uložením jako PDF.
 
 ```csharp
-//Objekt okamžitého dokumentu
+// Objekt okamžitého dokumentu
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ Absolutně! Aspose.PDF podporuje různé formáty, včetně HTML, XML a obrázk�
 
 ### Kde najdu podporu pro Aspose.PDF?
 
- Pro pomoc navštivte[Aspose fórum podpory](https://forum.aspose.com/c/pdf/10), kde můžete klást otázky a hledat řešení běžných problémů.
+Pro pomoc navštivte[Aspose fórum podpory](https://forum.aspose.com/c/pdf/10)kde můžete klást otázky a hledat řešení běžných problémů.
 
 ### Jak si koupím licenci pro Aspose.PDF?
 

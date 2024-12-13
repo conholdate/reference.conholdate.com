@@ -61,7 +61,7 @@ gen.Save($"{path}CodabarChecksumMod10.png", BarCodeImageFormat.Png);
 
 ## Steg 4: Generera Codabar-streckkod med Mod16 Checksum
 
-Slutligen, låt oss producera en Codabar-streckkod som använder en Mod16-kontrollsumma, lämplig för applikationer som kräver högre noggrannhet.
+Slutligen, låt oss ta fram en Codabar-streckkod som använder en Mod16-kontrollsumma, lämplig för applikationer som kräver högre noggrannhet.
 
 ```csharp
 gen.Parameters.Barcode.IsChecksumEnabled = EnableChecksum.Yes; // Aktivera kontrollsumma
@@ -71,7 +71,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 ## Slutsats
 
-Du har nu framgångsrikt skapat Codabar-streckkoder med olika kontrollsummatyper med Aspose.BarCode för .NET. Dessa kontrollsummor är viktiga för att upprätthålla integriteten hos den kodade datan, för att säkerställa att informationen som kan skannas är både korrekt och tillförlitlig.
+Du har nu framgångsrikt genererat Codabar-streckkoder med olika kontrollsummatyper med Aspose.BarCode för .NET. Dessa kontrollsummor är viktiga för att upprätthålla integriteten hos den kodade datan, för att säkerställa att informationen som kan skannas är både korrekt och tillförlitlig.
 
 Om du har några frågor eller stöter på problem, tveka inte att kontakta det livliga samhället på[Aspose.BarCode forum](https://forum.aspose.com/c/barcode/13).
 

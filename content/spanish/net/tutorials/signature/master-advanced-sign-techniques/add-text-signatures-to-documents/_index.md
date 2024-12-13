@@ -56,7 +56,7 @@ Configure las opciones para su firma de texto, incluido el contenido, la posici�
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // Posición X
+    Left = 50, //Posición X
     Top = 200, // Posición Y
     Width = 100, // Ancho de la firma
     Height = 30, // Altura de la firma

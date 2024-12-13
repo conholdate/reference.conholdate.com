@@ -90,7 +90,7 @@ using (Metadata metadata = new Metadata("Your Input File Path"))
  विस्तृत दस्तावेज यहां उपलब्ध है[.NET दस्तावेज़ीकरण के लिए GroupDocs.Metadata](https://reference.groupdocs.com/metadata/net/).
 
 ### क्या GroupDocs.Metadata निःशुल्क परीक्षण का समर्थन करता है?
-हां, आप GroupDocs.Metadata का निःशुल्क परीक्षण डाउनलोड कर सकते हैं[यहाँ](https://releases.groupdocs.com/).
+ हां, आप GroupDocs.Metadata का निःशुल्क परीक्षण डाउनलोड कर सकते हैं[यहाँ](https://releases.groupdocs.com/).
 
 ### मुझे GroupDocs.Metadata के लिए समर्थन कहां मिल सकता है?
  सहायता के लिए, यहां जाएं[GroupDocs.Metadata फ़ोरम](https://forum.groupdocs.com/c/metadata/14) सामुदायिक सहायता और चर्चा के लिए.

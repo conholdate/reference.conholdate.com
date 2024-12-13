@@ -51,7 +51,7 @@ Document doc = new Document(dataDir + "Rendering.docx");
 
 ## Adım 3: Görüntü Kaydetme Seçeneklerini Yapılandırın
 
- Şimdi heyecan verici kısım geliyor! Görüntü kaydetme seçeneklerini şu şekilde yapılandıracağız:`ImageSaveOptions` TIFF çıktımızın nasıl davranmasını istediğimizi belirtmek için sınıf.
+ Şimdi heyecan verici kısım geliyor! Görüntü kaydetme seçeneklerini kullanarak yapılandıracağız`ImageSaveOptions` TIFF çıktımızın nasıl davranmasını istediğimizi belirtmek için sınıf.
 
 ```csharp
 ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFormat.Tiff)

@@ -17,7 +17,7 @@ Sebelum memulai tutorial ini, pastikan Anda telah menyiapkan hal berikut:
 
 1. Pengetahuan Dasar C# dan .NET: Diperlukan pemahaman tentang bahasa pemrograman C# dan kerangka kerja .NET.
    
-2. Aspose.Note untuk Instalasi .NET: Unduh dan instal pustaka Aspose.Note dari[Situs web Aspose](https://releases.aspose.com/note/net/).
+2.  Aspose.Note untuk Instalasi .NET: Unduh dan instal pustaka Aspose.Note dari[Situs web Aspose](https://releases.aspose.com/note/net/).
 
 3. Lingkungan Pengembangan: Siapkan lingkungan pengembangan yang sesuai, seperti Visual Studio.
 

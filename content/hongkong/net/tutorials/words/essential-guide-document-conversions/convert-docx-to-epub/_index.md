@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## 第 2 步：載入 DOCX 文檔
 
-初始化Aspose.Words`Document`物件與 DOCX 檔案的路徑：
+初始化 Aspose.Words`Document`物件與 DOCX 檔案的路徑：
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY";

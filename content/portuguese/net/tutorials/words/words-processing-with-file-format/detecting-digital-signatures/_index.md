@@ -85,7 +85,7 @@ Detectar assinaturas digitais em documentos do Word usando o Aspose.Words para .
 
 ## Perguntas frequentes
 
-### Aspose.Words para .NET pode preservar assinaturas digitais ao salvar documentos?
+### O Aspose.Words para .NET pode preservar assinaturas digitais ao salvar documentos?
 
 Não, o Aspose.Words for .NET não preserva assinaturas digitais ao abrir ou salvar documentos. As assinaturas serão perdidas.
 

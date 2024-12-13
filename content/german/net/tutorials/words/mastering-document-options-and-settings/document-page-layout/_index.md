@@ -15,7 +15,7 @@ Das Einrichten des Seitenlayouts Ihres Dokuments kann eine gewaltige Aufgabe sei
 
 Bevor wir beginnen, stellen Sie sicher, dass Sie über Folgendes verfügen:
 
--  Aspose.Words für .NET: Laden Sie es herunter[Hier](https://releases.aspose.com/words/net/).
+- Aspose.Words für .NET: Laden Sie es herunter[Hier](https://releases.aspose.com/words/net/).
 -  Eine gültige Lizenz: Erwerben Sie eine[Hier](https://purchase.aspose.com/buy) oder eine temporäre Lizenz erwerben[Hier](https://purchase.aspose.com/temporary-license/).
 - Grundlegende Kenntnisse der C#-Programmierung: Keine Sorge, ich halte die Dinge einfach.
 - Integrierte Entwicklungsumgebung (IDE): Visual Studio wird dringend empfohlen.

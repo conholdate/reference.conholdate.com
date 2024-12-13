@@ -1,5 +1,5 @@
 ---
-title: 掌握在.NET 中使用 Aspose.CAD 进行 DGN 文件操作
+title: 掌握使用 .NET 中的 Aspose.CAD 进行 DGN 文件操作
 linktitle: 掌握 DGN 文件操作
 second_title: Aspose.CAD .NET - CAD 和 BIM 文件格式
 description: 了解如何加载 DGN 文件、遍历其元素、管理 2D 和 3D 实体以及将它们导出为光栅图像——同时利用 Aspose.CAD 库的强大功能。

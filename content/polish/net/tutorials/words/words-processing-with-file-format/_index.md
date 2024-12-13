@@ -13,11 +13,11 @@ Czy zanurzasz się w świat przetwarzania dokumentów w swoich aplikacjach .NET?
 
 ## Wykrywanie formatu pliku dokumentu
 
- Po pierwsze, zrozumienie formatów plików jest kluczowe. Czy kiedykolwiek otworzyłeś dokument, tylko po to, by odkryć, że nie jest w oczekiwanej formie?[Wykrywanie formatu pliku dokumentu](./document-file-format-detection/)nauczysz się, jak bezproblemowo identyfikować i zarządzać różnymi formatami dokumentów. Nasz szczegółowy przewodnik zawiera praktyczne przykłady, dzięki czemu możesz łatwo wdrożyć te techniki w swoich projektach. Rozpoznawanie formatów plików może oszczędzić Ci bólu głowy w przyszłości, gdy będziesz mieć do czynienia z różnymi typami dokumentów. 
+ Po pierwsze, zrozumienie formatów plików jest kluczowe. Czy kiedykolwiek otworzyłeś dokument, tylko po to, by odkryć, że nie jest w oczekiwanej formie?[Wykrywanie formatu pliku dokumentu](./document-file-format-detection/), nauczysz się, jak bezproblemowo identyfikować i zarządzać różnymi formatami dokumentów. Nasz szczegółowy przewodnik zawiera praktyczne przykłady, dzięki czemu możesz łatwo wdrożyć te techniki w swoich projektach. Rozpoznawanie formatów plików może oszczędzić Ci bólu głowy w przyszłości, gdy będziesz mieć do czynienia z różnymi typami dokumentów. 
 
 ## Wykrywanie podpisów cyfrowych w dokumentach Word
 
- Podpisy cyfrowe są jak tajny uścisk dłoni w świecie dokumentów cyfrowych. Chcesz mieć pewność, że Twoje dokumenty Word są bezpieczne i autentyczne? Sprawdź nasz samouczek na temat[Wykrywanie podpisów cyfrowych w dokumentach Word](./detecting-digital-signatures/). Ten kompleksowy przewodnik przeprowadzi Cię przez cały proces, od konfiguracji projektu do faktycznego sprawdzania podpisów. W świecie, w którym integralność dokumentów jest najważniejsza, wiedza o tym, jak obsługiwać podpisy cyfrowe, może wyróżnić Cię jako programistę, któremu zależy na bezpieczeństwie.
+Podpisy cyfrowe są jak tajny uścisk dłoni w świecie dokumentów cyfrowych. Chcesz mieć pewność, że Twoje dokumenty Word są bezpieczne i autentyczne? Sprawdź nasz samouczek na temat[Wykrywanie podpisów cyfrowych w dokumentach Word](./detecting-digital-signatures/). Ten kompleksowy przewodnik przeprowadzi Cię przez cały proces, od konfiguracji projektu do faktycznego sprawdzania podpisów. W świecie, w którym integralność dokumentów jest najważniejsza, wiedza o tym, jak obsługiwać podpisy cyfrowe, może wyróżnić Cię jako programistę, któremu zależy na bezpieczeństwie.
 
 ## Zweryfikuj szyfrowanie dokumentu Word
 

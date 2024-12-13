@@ -85,7 +85,7 @@ Ya, perpustakaan mendukung perbandingan berbagai format dokumen, termasuk lembar
 
 ### Bagaimana saya bisa mendapatkan dukungan untuk GroupDocs.Comparison untuk .NET?
 
- Untuk dukungan, kunjungi komunitas GroupDocs.Comparison[forum](https://forum.groupdocs.com/c/comparison/12).
+Untuk dukungan, kunjungi komunitas GroupDocs.Comparison[forum](https://forum.groupdocs.com/c/comparison/12).
 
 ### Di mana saya dapat membeli lisensi untuk GroupDocs.Comparison untuk .NET?
 

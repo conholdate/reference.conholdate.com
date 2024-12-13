@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Cuối cùng, lưu tài liệu bằng các tùy chọn đã cấu hình. Thao tác này sẽ tạo một tệp mới không có các dấu đầu dòng hình ảnh.
 
 ```csharp
-// Lưu tài liệu với các tùy chọn đã chỉ định
+//Lưu tài liệu với các tùy chọn đã chỉ định
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

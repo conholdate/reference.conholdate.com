@@ -15,7 +15,7 @@ url: /zh/net/tutorials/drawing/master-image-editing/image-cropping/
 
 在开始之前，请确保您已准备好以下事项：
 
--  Aspose.Drawing 库：确保您已将 Aspose.Drawing 库集成到您的 .NET 项目中。您可以下载它[这里](https://releases.aspose.com/drawing/net/).
+- Aspose.Drawing 库：确保您已将 Aspose.Drawing 库集成到您的 .NET 项目中。您可以下载它[这里](https://releases.aspose.com/drawing/net/).
   
 - 图片目录：为项目图片指定一个目录。你需要替换`"Your Document Directory"`在代码片段中添加图像文件夹的路径。
 

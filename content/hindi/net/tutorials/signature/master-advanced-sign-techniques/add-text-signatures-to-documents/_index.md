@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithText", 
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // एक्स स्थिति
+    Left = 50, //एक्स स्थिति
     Top = 200, // वाई स्थिति
     Width = 100, // हस्ताक्षर की चौड़ाई
     Height = 30, // हस्ताक्षर की ऊंचाई

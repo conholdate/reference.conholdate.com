@@ -92,7 +92,7 @@ Dengan mengikuti langkah-langkah ini, Anda telah berhasil melampirkan file tamba
 
 ### Apa itu PDF/A, dan mengapa itu penting?
 
-PDF/A adalah versi PDF standar yang dirancang untuk pengarsipan dokumen jangka panjang. Versi ini memastikan dokumen terlihat sama di perangkat apa pun dan kapan pun di masa mendatang, sehingga sangat penting untuk dokumen hukum, sejarah, dan dokumen penting lainnya.
+PDF/A adalah versi PDF standar yang dirancang untuk pengarsipan dokumen jangka panjang. Versi ini memastikan bahwa dokumen terlihat sama di perangkat apa pun dan kapan pun di masa mendatang, sehingga sangat penting untuk dokumen hukum, sejarah, dan dokumen penting lainnya.
 
 ### Bisakah saya melampirkan jenis file apa pun ke dokumen PDF?
 

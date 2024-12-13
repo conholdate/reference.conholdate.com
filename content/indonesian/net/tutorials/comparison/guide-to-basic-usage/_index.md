@@ -13,7 +13,7 @@ Jika ingin membandingkan dokumen, terutama file Excel, menggunakan alat yang tep
 
 ## Membandingkan Sel dari Path
 
- Pada tutorial pertama,[Membandingkan Sel dari Path - GroupDocs.Comparison untuk .NET](./comparing-cells-from-path/)Anda akan mempelajari seluk-beluk membandingkan konten sel. Bayangkan Anda memiliki dua versi laporan, dan tugas Anda adalah menentukan dengan tepat apa yang berubah. Tutorial ini memandu Anda dalam mengimpor namespace yang diperlukan dan menyiapkan proyek Anda. Anda akan mulai dengan menginisialisasi variabel perbandingan, yang mungkin terdengar rumit, tetapi sebenarnya lebih sederhana daripada yang terlihat!
+ Pada tutorial pertama,[Membandingkan Sel dari Path - GroupDocs.Comparison untuk .NET](./comparing-cells-from-path/), Anda akan mempelajari seluk-beluk membandingkan konten sel. Bayangkan Anda memiliki dua versi laporan, dan tugas Anda adalah menentukan dengan tepat apa yang berubah. Tutorial ini memandu Anda dalam mengimpor namespace yang diperlukan dan menyiapkan proyek Anda. Anda akan mulai dengan menginisialisasi variabel perbandingan, yang mungkin terdengar rumit, tetapi sebenarnya lebih sederhana daripada yang terlihat!
 
 Mengapa ini penting? Nah, kemampuan untuk mengenali perubahan dengan cepat dapat menghemat waktu Anda untuk melakukan pengecekan manual. Misalnya, anggap saja seperti mencari jarum dalam tumpukan jerami; GroupDocs bertindak sebagai magnet Anda, menarik perbedaan-perbedaan sehingga Anda dapat fokus pada hal-hal yang benar-benar penting.
 

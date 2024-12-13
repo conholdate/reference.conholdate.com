@@ -42,7 +42,7 @@ U kunt de Aspose.Words-bibliotheek installeren via de NuGet Package Manager:
 2. Selecteer NuGet-pakketten beheren.
 3. Zoek naar Aspose.Words en installeer het.
 
-U kunt ook de Package Manager Console gebruiken om het volgende uit te voeren:
+kunt ook de Package Manager Console gebruiken om het volgende uit te voeren:
 
 ```bash
 Install-Package Aspose.Words

@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // Δημιουργήστε επιλογ�
 ```
 
 ## Βήμα 4: Εκτελέστε τη Μετατροπή
- Επίκληση του`Convert`μέθοδος εκτέλεσης της αλλαγής μορφής. Περάστε στη διαδρομή του αρχείου εξόδου μαζί με τις επιλογές μετατροπής:
+ Επίκληση του`Convert` μέθοδος εκτέλεσης της αλλαγής μορφής. Περάστε στη διαδρομή του αρχείου εξόδου μαζί με τις επιλογές μετατροπής:
 
 ```csharp
-converter.Convert(outputFile, options); // Εκτελέστε τη μετατροπή
+converter.Convert(outputFile, options); //Εκτελέστε τη μετατροπή
 ```
 
 ## Βήμα 5: Εμφανίστε ένα μήνυμα ολοκλήρωσης
@@ -92,4 +92,4 @@ Console.WriteLine("\nConversion to PDF completed successfully.\nCheck output in 
  Ναι, μπορείτε να κάνετε λήψη μιας δοκιμαστικής έκδοσης από το[Ιστότοπος GroupDocs](https://releases.groupdocs.com/).
 
 ### Πού μπορώ να λάβω υποστήριξη σχετικά με το GroupDocs.Conversion για .NET;
- Για βοήθεια, επισκεφθείτε το[Φόρουμ GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) να συνδεθείτε με την κοινότητα και να αναζητήσετε βοήθεια.
+Για βοήθεια, επισκεφθείτε το[Φόρουμ GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) να συνδεθείτε με την κοινότητα και να αναζητήσετε βοήθεια.

@@ -99,10 +99,10 @@ Herzlichen Glückwunsch! Sie haben mit Aspose.Words für .NET erfolgreich Japani
  Ja, für die kommerzielle Nutzung ist eine Lizenz erforderlich. Sie können eine erwerben[Hier](https://purchase.aspose.com/buy) oder eine temporäre Lizenz erwerben[Hier](https://purchase.aspose.com/temporary-license/).
 
 ### Welche weiteren Funktionen bietet Aspose.Words für .NET?
- Aspose.Words für .NET bietet eine breite Palette an Funktionen, darunter Dokumenterstellung, -konvertierung und -bearbeitung. Entdecken Sie die[Dokumentation](https://reference.aspose.com/words/net/) für weitere Details.
+Aspose.Words für .NET bietet eine breite Palette an Funktionen, darunter Dokumenterstellung, -konvertierung und -bearbeitung. Entdecken Sie die[Dokumentation](https://reference.aspose.com/words/net/) für weitere Details.
 
 ### Kann ich Aspose.Words für .NET vor dem Kauf ausprobieren?
  Auf jeden Fall! Sie können eine kostenlose Testversion herunterladen[Hier](https://releases.aspose.com/).
 
 ### Wo erhalte ich Support für Aspose.Words für .NET?
-Sie können Unterstützung von der Aspose-Community erhalten[Hier](https://forum.aspose.com/c/words/8).
+ Sie können Unterstützung von der Aspose-Community erhalten[Hier](https://forum.aspose.com/c/words/8).

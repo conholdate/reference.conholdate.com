@@ -9,13 +9,13 @@ url: /pl/net/tutorials/drawing/master-image-editing/image-cropping/
 ---
 ## Wstęp
 
-dziedzinie rozwoju .NET manipulacja obrazami może być złożonym zadaniem. Na szczęście Aspose.Drawing zapewnia solidny zestaw narzędzi do pracy z obrazami, w tym możliwość precyzyjnego ich przycinania. W tym samouczku przeprowadzimy Cię przez prosty proces przycinania obrazów za pomocą Aspose.Drawing, co pozwoli Ci rozwinąć umiejętności przetwarzania obrazów!
+W dziedzinie rozwoju .NET manipulacja obrazami może być złożonym zadaniem. Na szczęście Aspose.Drawing zapewnia solidny zestaw narzędzi do pracy z obrazami, w tym możliwość precyzyjnego ich przycinania. W tym samouczku przeprowadzimy Cię przez prosty proces przycinania obrazów za pomocą Aspose.Drawing, co pozwoli Ci rozwinąć umiejętności przetwarzania obrazów!
 
 ## Wymagania wstępne
 
 Zanim zaczniemy, upewnij się, że masz następujące rzeczy:
 
--  Biblioteka Aspose.Drawing: Upewnij się, że zintegrowałeś bibliotekę Aspose.Drawing ze swoim projektem .NET. Możesz ją pobrać[Tutaj](https://releases.aspose.com/drawing/net/).
+- Biblioteka Aspose.Drawing: Upewnij się, że zintegrowałeś bibliotekę Aspose.Drawing ze swoim projektem .NET. Możesz ją pobrać[Tutaj](https://releases.aspose.com/drawing/net/).
   
 -  Katalog obrazów: Miej wyznaczony katalog dla obrazów swojego projektu. Będziesz musiał zastąpić`"Your Document Directory"` we fragmentach kodu podając ścieżkę do folderu z obrazami.
 
@@ -58,7 +58,7 @@ Teraz załaduj obraz, który chcesz przyciąć:
 Bitmap image = new Bitmap("Your Document Directory" + @"Images\aspose_logo.png");
 ```
 
- Zastępować`"Your Document Directory"` podając rzeczywistą ścieżkę do folderu z obrazem i zmieniając nazwę pliku według potrzeb.
+ Zastępować`"Your Document Directory"` podając rzeczywistą ścieżkę do folderu z obrazem i dostosowując nazwę pliku według potrzeb.
 
 ## Krok 5: Zdefiniuj prostokąty źródłowe i docelowe
 
@@ -115,4 +115,4 @@ Rzeczywiście! Aspose.Drawing wyróżnia się w przetwarzaniu wsadowym, co spraw
 
 ### Gdzie mogę uzyskać pomoc dotyczącą zapytań związanych z Aspose.Drawing?
 
- Aby uzyskać pomoc, odwiedź stronę[Forum Aspose.Drawing](https://forum.aspose.com/c/diagram/17) aby nawiązać kontakt ze społecznością i uzyskać pomoc w rozwiązaniu swoich pytań.
+Aby uzyskać pomoc, odwiedź stronę[Forum Aspose.Drawing](https://forum.aspose.com/c/diagram/17) aby nawiązać kontakt ze społecznością i uzyskać pomoc w rozwiązaniu swoich pytań.

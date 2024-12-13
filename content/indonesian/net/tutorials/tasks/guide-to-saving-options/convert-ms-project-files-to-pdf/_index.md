@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Langkah 4: Pilih Halaman Tertentu untuk Diekspor (Opsional)
 
- Tentukan halaman yang tepat untuk disertakan dalam PDF dengan mengisi`Pages` properti. Misalnya, untuk mengekspor halaman 1 dan 4:
+Tentukan halaman yang tepat untuk disertakan dalam PDF dengan mengisi`Pages` properti. Misalnya, untuk mengekspor halaman 1 dan 4:
 
 ```csharp
 options.Pages.Add(1);

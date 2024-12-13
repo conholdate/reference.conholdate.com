@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## الخطوة 3: اكتشاف تنسيق الملف
 
- الآن سوف نستخدم`DetectFileFormat` الطريقة من`FileFormatUtil`فئة لجمع المعلومات حول تنسيق الملف. في هذا المثال، نفترض أن المستند المشفر يحمل اسم "Encrypted.docx" ويقع في الدليل المحدد:
+ الآن سوف نستخدم`DetectFileFormat` الطريقة من`FileFormatUtil` فئة لجمع المعلومات حول تنسيق الملف. في هذا المثال، نفترض أن المستند المشفر يحمل اسم "Encrypted.docx" ويقع في الدليل المحدد:
 
 ```csharp
 FileFormatInfo info = FileFormatUtil.DetectFileFormat(dataDir + "Encrypted.docx");
@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## خاتمة
 
- وهذا كل شيء! لقد نجحت في التحقق من حالة تشفير مستند Word باستخدام Aspose.Words لـ .NET. من المثير للإعجاب كيف يمكن لبضعة أسطر من التعليمات البرمجية تبسيط مثل هذه المهام. إذا كانت لديك أي أسئلة أو واجهت أي مشكلات، فلا تتردد في التواصل معنا على[منتدى دعم Aspose](https://forum.aspose.com/c/words/8).
+وهذا كل شيء! لقد نجحت في التحقق من حالة تشفير مستند Word باستخدام Aspose.Words لـ .NET. من المثير للإعجاب كيف يمكن لبضعة أسطر من التعليمات البرمجية تبسيط مثل هذه المهام. إذا كانت لديك أي أسئلة أو واجهت أي مشكلات، فلا تتردد في التواصل معنا على[منتدى دعم Aspose](https://forum.aspose.com/c/words/8).
 
 ## الأسئلة الشائعة
 

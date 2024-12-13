@@ -47,7 +47,7 @@ string dataDir = "C:\\YourDocumentDirectory\\";
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // आपकी स्रोत PSD फ़ाइल का पथ
-string destName = dataDir + "result.png";   // आउटपुट छवि फ़ाइल के लिए पथ
+string destName = dataDir + "result.png";   //आउटपुट छवि फ़ाइल के लिए पथ
 ```
 
 ## चरण 3: PSD छवि लोड करें और न मिले फ़ॉन्ट को संभालें
@@ -89,7 +89,7 @@ using (var fileStream = new FileStream(destName, FileMode.Create))
 ## अक्सर पूछे जाने वाले प्रश्न
 
 ### क्या मैं किसी भी प्रकार की छवि फ़ाइल के साथ Aspose.PSD का उपयोग कर सकता हूँ?
- हाँ! Aspose.PSD PSD, PNG, JPEG, और अधिक सहित विभिन्न छवि प्रारूपों का समर्थन करता है। विस्तृत सूची के लिए, दस्तावेज़ देखें[यहाँ](https://reference.aspose.com/psd/net/).
+हाँ! Aspose.PSD PSD, PNG, JPEG, और अधिक सहित विभिन्न छवि प्रारूपों का समर्थन करता है। विस्तृत सूची के लिए, दस्तावेज़ देखें[यहाँ](https://reference.aspose.com/psd/net/).
 
 ### मैं Aspose.PSD के लिए समर्थन कैसे प्राप्त करूं?
  सहायता और सामुदायिक समर्थन के लिए, Aspose.PSD समर्थन फ़ोरम पर जाएँ[यहाँ](https://forum.aspose.com/c/psd/34).

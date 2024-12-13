@@ -9,7 +9,7 @@ url: /pl/net/tutorials/signature/master-advanced-sign-techniques/add-text-signat
 ---
 ## Wstęp
 
-W dzisiejszym cyfrowym krajobrazie elektroniczne podpisywanie dokumentów stało się niezbędne do usprawnienia przepływów pracy i oszczędzania zasobów. GroupDocs.Signature for .NET zapewnia potężne rozwiązanie do programowego dodawania podpisów tekstowych do różnych formatów dokumentów. Ten samouczek przeprowadzi Cię przez kroki podpisywania dokumentu tekstem za pomocą GroupDocs.Signature for .NET.
+dzisiejszym cyfrowym krajobrazie elektroniczne podpisywanie dokumentów stało się niezbędne do usprawnienia przepływów pracy i oszczędzania zasobów. GroupDocs.Signature for .NET zapewnia potężne rozwiązanie do programowego dodawania podpisów tekstowych do różnych formatów dokumentów. Ten samouczek przeprowadzi Cię przez kroki podpisywania dokumentu tekstem za pomocą GroupDocs.Signature for .NET.
 
 ## Wymagania wstępne
 
@@ -56,7 +56,7 @@ Skonfiguruj opcje podpisu tekstowego, w tym jego zawartość, położenie, rozmi
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // Pozycja X
+    Left = 50, //Pozycja X
     Top = 200, // Pozycja Y
     Width = 100, // Szerokość podpisu
     Height = 30, // Wysokość podpisu

@@ -60,7 +60,7 @@ using (Image image = Image.Create(saveOptions, 100, 100))
 ```csharp
 using (Graphics graphic = new Graphics(image))
 {
-    //用背景色清除圖形表面
+    //用背景顏色清除圖形表面
     graphic.Clear(Color.Yellow);
 
     //畫一個紅色矩形

@@ -80,7 +80,7 @@ mhtStream.CopyTo(fileStream);
 
 ## Wniosek
 
-W tym przewodniku dowiedziałeś się, jak konwertować wiadomości e-mail do formatu MHT, jednocześnie skutecznie obsługując informacje o strefie czasowej za pomocą Aspose.Email dla .NET. Wykonując te kroki i eksplorując dodatkowe opcje dostosowywania, możesz bezproblemowo zintegrować funkcjonalność konwersji wiadomości e-mail ze swoimi aplikacjami.
+tym przewodniku dowiedziałeś się, jak konwertować wiadomości e-mail do formatu MHT, jednocześnie skutecznie obsługując informacje o strefie czasowej za pomocą Aspose.Email dla .NET. Wykonując te kroki i eksplorując dodatkowe opcje dostosowywania, możesz bezproblemowo zintegrować funkcjonalność konwersji wiadomości e-mail ze swoimi aplikacjami.
 
 ## Najczęściej zadawane pytania
 
@@ -94,7 +94,7 @@ Oczywiście! Aspose.Email dla .NET obsługuje różne formaty, w tym MSG, EML, P
 
 ### Czy informacje o strefie czasowej są zachowywane w formacie MHT?
 
- Tak, informacje o strefie czasowej są zachowywane podczas procesu konwersji. Poprzez obsługę przesunięć strefy czasowej i używanie odpowiednich`TimeZoneInfo` metod, możesz zagwarantować dokładne przedstawienie strefy czasowej w pliku MHT.
+ Tak, informacje o strefie czasowej są zachowywane podczas procesu konwersji. Poprzez obsługę przesunięć strefy czasowej i używanie odpowiednich`TimeZoneInfo`metod, możesz zagwarantować dokładne przedstawienie strefy czasowej w pliku MHT.
 
 ### Gdzie mogę znaleźć dalszą dokumentację i aktualizacje dotyczące Aspose.Email dla platformy .NET?
 

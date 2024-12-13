@@ -19,7 +19,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
 Đảm bảo bạn đã cài đặt và thiết lập Visual Studio hoặc bất kỳ .NET IDE nào bạn thích cho dự án của mình.
 
 ### 2. Aspose.HTML cho thư viện .NET
-Tải xuống và cài đặt thư viện Aspose.HTML cho .NET. Bạn có thể tìm thấy nó tại liên kết sau:[Aspose.HTML cho .NET](https://releases.aspose.com/html/net/).
+ Tải xuống và cài đặt thư viện Aspose.HTML cho .NET. Bạn có thể tìm thấy nó tại liên kết sau:[Aspose.HTML cho .NET](https://releases.aspose.com/html/net/).
 
 ### 3. Kiến thức cơ bản về C# và .NET
 Hiểu biết cơ bản về C# và .NET sẽ giúp bạn thực hiện hướng dẫn này một cách hiệu quả.
@@ -52,7 +52,7 @@ HTMLDocument htmlDocument = new HTMLDocument(dataDir + "input.html");
 ```
 
 ## Bước 3: Cấu hình tùy chọn lưu PDF
- Cài đặt`PdfSaveOptions`để xác định cài đặt chuyển đổi PDF của bạn, chẳng hạn như chất lượng hình ảnh và bố cục. Ví dụ, bạn có thể đặt chất lượng JPEG thành 100:
+ Cài đặt`PdfSaveOptions` để xác định cài đặt chuyển đổi PDF của bạn, chẳng hạn như chất lượng hình ảnh và bố cục. Ví dụ, bạn có thể đặt chất lượng JPEG thành 100:
 
 ```csharp
 PdfSaveOptions options = new PdfSaveOptions

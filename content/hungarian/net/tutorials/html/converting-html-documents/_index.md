@@ -2,7 +2,7 @@
 title: HTML dokumentumok konvertálása
 linktitle: HTML dokumentumok konvertálása
 second_title: Aspose.HTML .NET HTML manipulációs API
-description: Sajátítsa el a HTML-dokumentumok konvertálását az Aspose.HTML for .NET segítségével! Ismerje meg, hogyan konvertálhat könnyedén HTML-t PNG-be és EPUB-t XPS-be az egyszerű útmutatóink segítségével.
+description: Sajátítsa el a HTML-dokumentumok konvertálását az Aspose.HTML for .NET segítségével! Tanulja meg könnyedén konvertálni a HTML-t PNG-re és az EPUB-t XPS-re egyszerű útmutatóink segítségével.
 type: docs
 weight: 29
 url: /hu/net/tutorials/html/converting-html-documents/

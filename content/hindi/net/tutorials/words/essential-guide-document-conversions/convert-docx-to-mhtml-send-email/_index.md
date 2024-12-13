@@ -44,7 +44,7 @@ Document doc = new Document(dataDir + "Document.docx");
 
 ## चरण 2: दस्तावेज़ को MHTML के रूप में सहेजें
 
- इसके बाद, लोड किए गए दस्तावेज़ को MHTML फ़ॉर्मेट में बदलें। यह काम करने के लिए`Save` की विधि`Document` कक्षा।
+ इसके बाद, लोड किए गए दस्तावेज़ को MHTML फ़ॉर्मेट में बदलें। यह काम करने के लिए`Save` की विधि`Document`कक्षा।
 
 ```csharp
 using (Stream stream = new MemoryStream())
@@ -90,7 +90,7 @@ using (SmtpClient client = new SmtpClient())
 बिल्कुल! Aspose.Words कई प्रकार के प्रारूपों का समर्थन करता है, जिससे आप DOC, DOCX, RTF, और अधिक को MHTML में परिवर्तित कर सकते हैं।
 
 ### मैं ईमेल में अनुलग्नक कैसे जोड़ सकता हूँ?
- आप आसानी से अनुलग्नक जोड़ सकते हैं`Attachments` की संपत्ति`MailMessage` कक्षा।
+ आप आसानी से अनुलग्नक जोड़ सकते हैं`Attachments` की संपत्ति`MailMessage`कक्षा।
 
 ### क्या Aspose.Words .NET कोर के साथ संगत है?
 हां, Aspose.Words .NET Core के साथ संगत है, जो इसे .NET Core अनुप्रयोगों में उपयोग के लिए उपयुक्त बनाता है।

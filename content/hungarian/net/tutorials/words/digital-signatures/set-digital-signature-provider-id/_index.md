@@ -42,7 +42,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Signature line.docx");
 ```
 
- Ügyeljen arra, hogy cserélje ki`"YOUR DOCUMENT DIRECTORY"` a tényleges elérési úttal, ahol a dokumentumot tárolják.
+ Mindenképpen cserélje ki`"YOUR DOCUMENT DIRECTORY"` a tényleges elérési úttal, ahol a dokumentumot tárolják.
 
 ## 3. lépés: Nyissa meg az aláírási sort
 
@@ -66,7 +66,7 @@ SignOptions signOptions = new SignOptions
 };
 ```
 
-Ezek a beállítások biztosítják, hogy az aláíráskor a megfelelő aláírás-szolgáltatói azonosító kerüljön alkalmazásra.
+Ezek a beállítások biztosítják, hogy az aláíráskor a megfelelő aláírás-szolgáltató azonosító kerüljön alkalmazásra.
 
 ## 5. lépés: Töltse be a digitális tanúsítványt
 

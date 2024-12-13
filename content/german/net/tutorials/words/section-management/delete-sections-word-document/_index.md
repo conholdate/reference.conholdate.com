@@ -55,7 +55,7 @@ doc.Sections[1].Remove();
 
 ## Abschluss
 
- Mit Aspose.Words für .NET ist die Bearbeitung von Word-Dokumenten effizient und unkompliziert. Das Löschen von Abschnitten ist nur eine der vielen leistungsstarken Funktionen, die Ihnen zur Verfügung stehen. Erkunden Sie unbedingt die umfangreichen[Dokumentation](https://reference.aspose.com/words/net/) um weitere Funktionen zu entdecken, die Ihre Dokumentverarbeitungsaufgaben verbessern können.
+Mit Aspose.Words für .NET ist die Bearbeitung von Word-Dokumenten effizient und unkompliziert. Das Löschen von Abschnitten ist nur eine der vielen leistungsstarken Funktionen, die Ihnen zur Verfügung stehen. Erkunden Sie unbedingt die umfangreichen[Dokumentation](https://reference.aspose.com/words/net/) um weitere Funktionen zu entdecken, die Ihre Dokumentverarbeitungsaufgaben verbessern können.
 
 ## Häufig gestellte Fragen
 

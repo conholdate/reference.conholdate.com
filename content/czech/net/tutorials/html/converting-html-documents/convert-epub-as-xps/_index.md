@@ -61,7 +61,7 @@ string dataDir = "Your Data Directory";
 
 ## Krok 2: Otevřete dokument EPUB pro čtení
 
- Pomocí`File.OpenRead` můžete otevřít dokument EPUB pro čtení. To umožňuje vaší aplikaci přístup k obsahu souboru EPUB.
+ Pomocí`File.OpenRead`můžete otevřít dokument EPUB pro čtení. To umožňuje vaší aplikaci přístup k obsahu souboru EPUB.
 
 ```csharp
 using (var fs = File.OpenRead(dataDir + "document.epub"))
@@ -77,7 +77,7 @@ using (var fs = File.OpenRead(dataDir + "document.epub"))
 ```csharp
 using (var device = new XpsDevice(dataDir + "document_out.xps"))
 {
-    // Logika vykreslování zde bude
+    // Logika vykreslování bude zde
 }
 ```
 
@@ -111,4 +111,4 @@ S Aspose.HTML můžete převést EPUB do různých formátů včetně XPS, PDF a
  Podporu můžete získat návštěvou stránky[Aspose fórum podpory](https://forum.aspose.com/c/html/29).
 
 ### Jak získám dočasnou licenci pro Aspose.HTML?
-Dočasnou licenci můžete získat od[tuto stránku](https://purchase.conholdate.com/temporary-license/).
+ Dočasnou licenci můžete získat od[tuto stránku](https://purchase.conholdate.com/temporary-license/).

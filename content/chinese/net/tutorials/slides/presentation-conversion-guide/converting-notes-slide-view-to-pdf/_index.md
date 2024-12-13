@@ -16,7 +16,7 @@ url: /zh/net/tutorials/slides/presentation-conversion-guide/converting-notes-sli
 在深入研究之前，请确保您满足以下要求：
 
 - 开发环境：安装[Visual Studio](https://visualstudio.microsoft.com/)或任何 C# IDE。
-- Aspose.Slides for .NET Library：从以下网址下载该库[这里](https://releases.aspose.com/slides/net/).
+-  Aspose.Slides for .NET Library：从以下网址下载该库[这里](https://releases.aspose.com/slides/net/).
 - 演示文件：准备一个 PowerPoint 文件（例如，`NotesFile.pptx`) 已准备好进行转换。
 
 ## 设置你的环境

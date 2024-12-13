@@ -15,7 +15,7 @@ Aspose.Drawing for .NET を使用して画像を表示する方法について�
 
 始める前に、次の前提条件が満たされていることを確認してください。
 
-- Aspose.Drawing for .NETライブラリ: ライブラリを以下のサイトからダウンロードしてインストールします。[リリースページ](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing for .NETライブラリ: ライブラリを以下のサイトからダウンロードしてインストールします。[リリースページ](https://releases.aspose.com/drawing/net/).
 - .NET 環境: 開発環境が .NET で動作するように設定されていることを確認します。
 - ドキュメント ディレクトリ: 画像を保存するためのディレクトリを作成します。
 - 画像ファイル: 「aspose_logo.png」などの表示用の画像ファイルを準備します。

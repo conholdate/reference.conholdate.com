@@ -9,7 +9,7 @@ url: /de/net/tutorials/words/html-fixed-save-options/target-machine-font/
 ---
 ## Einführung
 
-Willkommen in der faszinierenden Welt von Aspose.Words für .NET! Heute begeben wir uns auf eine Reise, um zu erkunden, wie man Schriftarten vom Zielcomputer beim Arbeiten mit Word-Dokumenten nutzen kann. Diese Funktion stellt sicher, dass Ihre Dokumente ihr beabsichtigtes Erscheinungsbild beibehalten, egal wo sie angezeigt werden. Tauchen wir ein!
+Willkommen in der faszinierenden Welt von Aspose.Words für .NET! Heute begeben wir uns auf eine Reise, um zu erkunden, wie Sie beim Arbeiten mit Word-Dokumenten Schriftarten vom Zielcomputer verwenden können. Diese Funktion stellt sicher, dass Ihre Dokumente ihr beabsichtigtes Erscheinungsbild beibehalten, unabhängig davon, wo sie angezeigt werden. Tauchen wir ein!
 
 ## Voraussetzungen
 
@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 Speichern wir das Dokument nun als feste HTML-Datei. Hier geschieht die Magie!
 
 ```csharp
-//Dokument in festes HTML konvertieren
+// Dokument in festes HTML konvertieren
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

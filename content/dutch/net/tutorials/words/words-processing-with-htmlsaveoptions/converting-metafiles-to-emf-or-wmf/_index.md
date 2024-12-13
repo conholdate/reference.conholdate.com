@@ -15,7 +15,7 @@ Het efficiënt beheren en converteren van afbeeldingsformaten is een cruciaal on
 
 Om een soepele ontwikkelervaring te garanderen, moet u controleren of aan de volgende vereisten is voldaan:
 
-- Aspose.Words voor .NET: Download de nieuwste versie van de[Aspose releases pagina](https://releases.aspose.com/words/net/).
+-  Aspose.Words voor .NET: Download de nieuwste versie van de[Aspose releases pagina](https://releases.aspose.com/words/net/).
 - .NET Framework: controleer de installatie van .NET Framework (of .NET Core/5/6, afhankelijk van uw omgeving).
 - Ontwikkelomgeving: Visual Studio wordt aanbevolen vanwege de robuuste functies.
 - C#-vaardigheid: Basiskennis van C#-programmering is essentieel.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## Stap 4: HTML in een Word-document laden
 
-Gebruik de geconfigureerde laadopties om een`Document` object uit de HTML-tekenreeks.
+ Gebruik de geconfigureerde laadopties om een`Document` object uit de HTML-tekenreeks.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

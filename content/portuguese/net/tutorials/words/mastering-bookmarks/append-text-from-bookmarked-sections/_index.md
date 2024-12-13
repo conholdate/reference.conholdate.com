@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Vamos começar carregando nossos documentos do Word de origem e destino e inicializando as variáveis necessárias.
 
 ```csharp
-// Carregue os documentos de origem e destino.
+//Carregue os documentos de origem e destino.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -109,8 +109,8 @@ Sim, você pode repetir o processo para cada marcador e acrescentar o texto conf
 ### E se os parágrafos inicial e final tiverem pais diferentes?
 O exemplo atual assume que eles têm o mesmo pai. Se não tiverem, você precisará implementar um tratamento mais complexo.
 
-### formatação original do texto anexado será preservada?
- Absolutamente! Usando`ImportFormatMode.KeepSourceFormatting` garante que a formatação original seja mantida.
+### A formatação original do texto anexado será preservada?
+ Absolutamente! Usando`ImportFormatMode.KeepSourceFormatting`garante que a formatação original seja mantida.
 
 ### É possível anexar texto a uma posição específica no documento de destino?
 Sim, você pode acrescentar texto em qualquer posição desejada navegando até o nó apropriado no documento de destino.

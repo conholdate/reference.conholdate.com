@@ -56,12 +56,12 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Krok 4: Inicializujte objekt podpisu
 
- Vytvořte instanci souboru`Signature` třídy, předáním cesty k souboru dokumentu:
+ Vytvořte instanci souboru`Signature`třídy, předáním cesty k souboru dokumentu:
 
 ```csharp
 using (Signature signature = new Signature(filePath))
 {
-    // Dodatečný kód bude uveden zde
+    // Dodatečný kód bude zde
 }
 ```
 

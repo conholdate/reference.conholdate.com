@@ -83,7 +83,7 @@ options.OutlineOptions.BookmarksOutlineLevels.Add("Nested Bookmark", 2);
 - `PdfSaveOptions`: Определяет, как документ сохраняется в формате PDF.
 - `BookmarksOutlineLevels`: Устанавливает иерархию закладок в PDF-файле.
 
-## Шаг 6: Сохраните документ.
+## Шаг 6: Сохраните документ
 
 Наконец, сохраните документ как PDF:
 

@@ -2,7 +2,7 @@
 title: Cellák összehasonlítása az útvonalból – GroupDocs.Comparison for .NET
 linktitle: Cellák összehasonlítása az elérési útból – GroupDocs.Comparison for .NET
 second_title: GroupDocs.Comparison .NET API
-description: Ez az oktatóanyag lépésről lépésre végigvezeti az Excel-cellatartalom összehasonlításának folyamatán, lehetővé téve a fejlesztőknek, hogy hatékonyan azonosítsák a dokumentumok közötti különbségeket és hasonlóságokat.
+description: Ez az oktatóanyag lépésről lépésre végigvezeti az Excel-cellatartalom összehasonlításának folyamatán, lehetővé téve a fejlesztők számára, hogy hatékonyan azonosítsák a dokumentumok közötti különbségeket és hasonlóságokat.
 type: docs
 weight: 10
 url: /hu/net/tutorials/comparison/guide-to-basic-usage/comparing-cells-from-path/
@@ -71,7 +71,7 @@ Gratulálok! Sikeresen megtanulta a GroupDocs.Comparison for .NET használatát 
 
 ## GYIK
 
-### GroupDocs.Comparison for .NET kompatibilis a különböző operációs rendszerekkel?
+### A GroupDocs.Comparison for .NET kompatibilis a különböző operációs rendszerekkel?
 
 A GroupDocs.Comparison for .NET elsősorban a Windows operációs rendszerekkel kompatibilis.
 
@@ -85,7 +85,7 @@ Igen, a könyvtár támogatja a különböző dokumentumformátumok összehasonl
 
 ### Hogyan kaphatok támogatást a GroupDocs.Comparison for .NET számára?
 
- Támogatásért keresse fel a GroupDocs.Comparison közösséget[fórum](https://forum.groupdocs.com/c/comparison/12).
+Támogatásért keresse fel a GroupDocs.Comparison közösséget[fórum](https://forum.groupdocs.com/c/comparison/12).
 
 ### Hol vásárolhatok licencet a GroupDocs.Comparison for .NET számára?
 

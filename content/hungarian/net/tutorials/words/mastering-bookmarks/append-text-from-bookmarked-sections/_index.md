@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Kezdjük azzal, hogy betöltjük a forrás és cél Word dokumentumainkat, és inicializáljuk a szükséges változókat.
 
 ```csharp
-// Töltse be a forrás- és céldokumentumot.
+//Töltse be a forrás- és céldokumentumot.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,7 +110,7 @@ Igen, megismételheti a folyamatot minden könyvjelzőnél, és szükség szerin
 A jelenlegi példa azt feltételezi, hogy ugyanaz a szülő. Ha nem, akkor összetettebb kezelést kell végrehajtania.
 
 ### Megmarad a hozzáfűzött szöveg eredeti formázása?
- Teljesen! Használata`ImportFormatMode.KeepSourceFormatting` biztosítja az eredeti formázás megőrzését.
+ Teljesen! Használata`ImportFormatMode.KeepSourceFormatting`biztosítja az eredeti formázás megőrzését.
 
 ### Lehetséges-e szöveget hozzáfűzni a céldokumentum egy adott helyéhez?
 Igen, bármilyen kívánt pozícióhoz hozzáfűzhet szöveget, ha a céldokumentum megfelelő csomópontjához navigál.

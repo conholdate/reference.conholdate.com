@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Krok 3: Skonfiguruj opcje ładowania HTML
 
- Ten`HtmlLoadOptions`Klasa w Aspose.Words pozwala nam określić, jak należy interpretować zawartość HTML. Aby upewnić się, że pole kombi jest renderowane jako strukturalny znacznik dokumentu:
+ Ten`HtmlLoadOptions` Klasa w Aspose.Words pozwala nam określić, jak należy interpretować zawartość HTML. Aby upewnić się, że pole kombi jest renderowane jako strukturalny znacznik dokumentu:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions
@@ -96,7 +96,7 @@ Spowoduje to wygenerowanie pliku Word zawierającego prawidłowo wyrenderowane p
 
 ## Wniosek
 
- Włączanie zawartości HTML, zwłaszcza pól formularzy, takich jak pola kombi, do dokumentów Word przy użyciu Aspose.Words dla .NET jest proste, gdy wykorzystuje się`HtmlLoadOptions`Ten przewodnik wyposaża Cię w wiedzę, aby kontrolować sposób renderowania tych elementów, zapewniając, że Twoje dokumenty spełniają wymagania użytkownika i projektu.
+ Włączanie zawartości HTML, zwłaszcza pól formularzy, takich jak pola kombi, do dokumentów Word przy użyciu Aspose.Words dla .NET jest proste, gdy wykorzystuje się`HtmlLoadOptions`. Ten przewodnik wyposaża Cię w wiedzę, aby kontrolować sposób renderowania tych elementów, zapewniając, że Twoje dokumenty spełniają wymagania użytkownika i projektu.
 
 ## Najczęściej zadawane pytania
 

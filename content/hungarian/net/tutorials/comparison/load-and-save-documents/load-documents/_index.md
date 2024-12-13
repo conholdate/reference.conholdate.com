@@ -19,7 +19,7 @@ Mielőtt belevágna az oktatóanyagba, győződjön meg arról, hogy beállítot
  Töltse le a GroupDocs.Comparison for .NET legújabb verzióját a webhelyről[weboldal](https://releases.groupdocs.com/comparison/net/) és telepítse a fejlesztői környezetébe.
 
 ### .NET Framework ismerete
-.NET keretrendszer és a C# programozás alapvető ismerete hasznos lesz, ha követi ezt az oktatóanyagot.
+A .NET keretrendszer és a C# programozás alapvető ismerete hasznos lesz, ha követi ezt az oktatóanyagot.
 
 ### Fejlesztési környezet
 Győződjön meg arról, hogy be van állítva egy IDE, például a Visual Studio, a C# kód írásához és végrehajtásához.

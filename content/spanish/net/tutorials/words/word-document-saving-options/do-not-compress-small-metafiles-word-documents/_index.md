@@ -18,7 +18,7 @@ Antes de sumergirse, asegúrese de tener los siguientes elementos listos:
 1.  Aspose.Words para .NET: Descargue e instale la última versión desde[Comunicados de Aspose](https://releases.aspose.com/words/net/).
 2. Entorno de desarrollo: utilice Visual Studio o cualquier IDE compatible.
 3. Comprensión básica de C#: será útil estar familiarizado con C# y el marco .NET.
-4.  Licencia de Aspose: Para desbloquear completamente Aspose.Words, adquiera una[licencia](https://purchase.aspose.com/buy)Se recomienda. Alternativamente, puede utilizar un[licencia temporal](https://purchase.aspose.com/temporary-license/) para fines de evaluación.
+4.  Licencia de Aspose: Para desbloquear completamente Aspose.Words, adquiera una[licencia](https://purchase.aspose.com/buy) Se recomienda. Alternativamente, puede utilizar un[licencia temporal](https://purchase.aspose.com/temporary-license/) para fines de evaluación.
 
 ## Importación de espacios de nombres
 
@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Paso 3: Configurar las opciones de guardado
 
- Ahora, configure las opciones de guardado para utilizar la función "No comprimir metarchivos pequeños" con el`DocSaveOptions` clase.
+ Ahora, configure las opciones de guardado para utilizar la función "No comprimir metarchivos pequeños" con el`DocSaveOptions`clase.
 
 ```csharp
 // Configurar las opciones de guardado con la función "No comprimir metarchivos pequeños"
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- Este paso crea una instancia de`DocSaveOptions` establece el`Compliance` propiedad a`PdfCompliance.PdfA1a`, garantizando que el documento se adhiera al estándar PDF/A-1a.
+ Este paso crea una instancia de`DocSaveOptions` y establece el`Compliance` propiedad a`PdfCompliance.PdfA1a`, garantizando que el documento se adhiera al estándar PDF/A-1a.
 
 ## Paso 4: Guardar el documento
 
 Por último, guarde el documento utilizando las opciones configuradas, asegurándose de que los metarchivos pequeños no queden comprimidos.
 
 ```csharp
-// Guardar el documento con las opciones especificadas
+//Guardar el documento con las opciones especificadas
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ Esta función es beneficiosa para preservar la calidad visual de pequeños metar
 
 ### ¿Necesito una licencia para usar Aspose.Words para .NET?
 
- Si bien puede utilizar Aspose.Words para .NET sin licencia para fines de evaluación, se necesita una licencia para obtener la funcionalidad completa. Puede comprar una licencia[aquí](https://purchase.aspose.com/buy) o prueba un[licencia temporal](https://purchase.aspose.com/temporary-license/) para evaluación.
+Si bien puede utilizar Aspose.Words para .NET sin licencia para fines de evaluación, se necesita una licencia para obtener la funcionalidad completa. Puede comprar una licencia[aquí](https://purchase.aspose.com/buy) o prueba un[licencia temporal](https://purchase.aspose.com/temporary-license/) para evaluación.
 
 ### ¿Cómo puedo asegurar que mis documentos cumplan con los estándares PDF/A?
 

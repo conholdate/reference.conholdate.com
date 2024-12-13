@@ -63,7 +63,7 @@ options.RenderComments = true; // Povolit vykreslování komentářů
 ```
 
 ## Krok 5: Vykreslení dokumentu s komentáři
- Zavolejte na`View` metoda na`Viewer` objekt s nakonfigurovanými možnostmi.
+ Zavolejte na`View`metoda na`Viewer` objekt s nakonfigurovanými možnostmi.
 
 ```csharp
 viewer.View(options);

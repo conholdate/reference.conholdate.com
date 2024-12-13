@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## Steg 1: Konfigurera ditt projekt
 
-Skapa först ett nytt .NET-projekt i din IDE. Lägg till en referens till Aspose.Words-biblioteket. Om du inte har laddat ner det än kan du göra det från[här](https://releases.aspose.com/words/net/).
+ Skapa först ett nytt .NET-projekt i din IDE. Lägg till en referens till Aspose.Words-biblioteket. Om du inte har laddat ner det än kan du göra det från[här](https://releases.aspose.com/words/net/).
 
 ## Steg 2: Definiera dokumentkatalogen
 

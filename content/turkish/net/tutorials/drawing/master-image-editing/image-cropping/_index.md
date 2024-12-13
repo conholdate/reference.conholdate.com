@@ -15,7 +15,7 @@ url: /tr/net/tutorials/drawing/master-image-editing/image-cropping/
 
 Başlamadan önce aşağıdakilerin mevcut olduğundan emin olun:
 
--  Aspose.Drawing Kütüphanesi: Aspose.Drawing kütüphanesini .NET projenize entegre ettiğinizden emin olun. İndirebilirsiniz[Burada](https://releases.aspose.com/drawing/net/).
+- Aspose.Drawing Kütüphanesi: Aspose.Drawing kütüphanesini .NET projenize entegre ettiğinizden emin olun. İndirebilirsiniz[Burada](https://releases.aspose.com/drawing/net/).
   
 -  Resim Dizini: Proje resimleriniz için belirlenmiş bir dizine sahip olun. Değiştirmeniz gerekecek`"Your Document Directory"` Resim klasörünüzün yolunu içeren kod parçacıkları.
 
@@ -115,4 +115,4 @@ Gerçekten! Aspose.Drawing toplu işlemede mükemmeldir ve tek bir işlemde bird
 
 ### Aspose.Drawing ile ilgili sorgular için desteği nereden alabilirim?
 
- Yardım için şu adresi ziyaret edin:[Aspose.Çizim Forumu](https://forum.aspose.com/c/diagram/17) Toplulukla bağlantı kurmak ve sorularınıza yanıt aramak için.
+Yardım için şu adresi ziyaret edin:[Aspose.Çizim Forumu](https://forum.aspose.com/c/diagram/17) Toplulukla bağlantı kurmak ve sorularınıza yanıt aramak için.

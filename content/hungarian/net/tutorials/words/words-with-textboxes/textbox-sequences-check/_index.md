@@ -101,7 +101,7 @@ if (textBox1.IsValidLinkTarget(textBox2))
 }
 ```
 
- Ebben a kódban`textBox2` következő szövegdobozaként van beállítva`textBox1`, összekapcsolt sorozatot hoz létre.
+ Ebben a kódban`textBox2` következő szövegdobozaként van beállítva`textBox1`, összekapcsolt sorozat létrehozása.
 
 ## 5. lépés: A dokumentum véglegesítése és mentése
 

@@ -119,7 +119,7 @@ Absoluut! Zoals in deze tutorial wordt gedemonstreerd, kunt u extra lettertypema
 
  Ja, u kunt een gratis proefversie downloaden[hier](https://releases.aspose.com/).
 
-### Waar kan ik extra ondersteuning krijgen en contact leggen met de community?
+### Waar kan ik aanvullende ondersteuning krijgen en contact leggen met de community?
 
  Voor ondersteuning en discussies in de community, bezoek de[Aspose.Page-forum](https://forum.aspose.com/c/page/39).
 

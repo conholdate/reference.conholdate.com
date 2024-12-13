@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Krok 4: Vyberte konkrétní stránky pro export (volitelné)
 
- Zadejte přesné stránky, které mají být zahrnuty do PDF, vyplněním`Pages` vlastnictví. Chcete-li například exportovat stránky 1 a 4:
+Zadejte přesné stránky, které mají být zahrnuty do PDF, vyplněním`Pages` vlastnictví. Chcete-li například exportovat stránky 1 a 4:
 
 ```csharp
 options.Pages.Add(1);
@@ -93,7 +93,7 @@ Ano, Aspose.Tasks umožňuje přizpůsobení písem, barev a rozvržení stráne
  Aspose.Tasks podporuje`.mpp` soubory z Microsoft Project 2003 a novější.
 
 ### Jak vykreslím všechna data projektu na jedné stránce PDF?
- Nastavte`RenderToSinglePage` majetek z`PdfSaveOptions` namítat proti`true`.
+ Nastavte`RenderToSinglePage` vlastnictvím`PdfSaveOptions` namítat proti`true`.
 
 ```csharp
 options.RenderToSinglePage = true;

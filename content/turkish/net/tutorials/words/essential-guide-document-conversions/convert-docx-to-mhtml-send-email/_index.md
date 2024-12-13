@@ -44,7 +44,7 @@ Document doc = new Document(dataDir + "Document.docx");
 
 ## Adım 2: Belgeyi MHTML olarak kaydedin
 
- Sonra, yüklenen belgeyi MHTML biçimine dönüştürün. Bu, şu şekilde yapılır:`Save` yöntemi`Document` sınıf.
+ Sonra, yüklenen belgeyi MHTML biçimine dönüştürün. Bu, şu şekilde yapılır:`Save` yöntemi`Document`sınıf.
 
 ```csharp
 using (Stream stream = new MemoryStream())
@@ -90,7 +90,7 @@ Tebrikler! Bir DOCX belgesini MHTML'ye başarıyla dönüştürdünüz ve Aspose
 Kesinlikle! Aspose.Words çok çeşitli formatları destekler ve DOC, DOCX, RTF ve daha fazlasını MHTML'ye dönüştürmenize olanak tanır.
 
 ### E-postaya nasıl ek ekleyebilirim?
- Eklentileri kullanarak kolayca ekleyebilirsiniz.`Attachments` mülkiyeti`MailMessage` sınıf.
+ Eklentileri kullanarak kolayca ekleyebilirsiniz.`Attachments` mülkiyeti`MailMessage`sınıf.
 
 ### Aspose.Words .NET Core ile uyumlu mu?
 Evet, Aspose.Words .NET Core ile uyumludur ve bu sayede .NET Core uygulamalarında kullanılmaya uygundur.

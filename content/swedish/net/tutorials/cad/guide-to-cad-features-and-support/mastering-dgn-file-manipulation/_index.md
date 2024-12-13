@@ -98,7 +98,7 @@ switch (element.Metadata.Type)
 Efter att ha manipulerat DGN-elementen kanske du vill exportera filen som en rasterbild. Detta kan enkelt åstadkommas med Aspose.CAD.
 
 ```csharp
-string outputFilePath = myDir + "Exported_Image.png"; // Definiera din utmatningsväg
+string outputFilePath = myDir + "Exported_Image.png"; // Definiera din utdataväg
 dgnImage.Save(outputFilePath, new Aspose.CAD.ImageOptions.PngOptions());
 Console.WriteLine($"\nThe DGN file exported successfully to raster image.\nFile saved at {outputFilePath}");
 ```

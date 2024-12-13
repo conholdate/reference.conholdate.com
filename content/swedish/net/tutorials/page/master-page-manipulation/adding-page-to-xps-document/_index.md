@@ -1,6 +1,6 @@
 ---
 title: Lägga till sidor till XPS-dokument med Aspose.Page för .NET
-linktitle: Lägga till sidor i XPS-dokument
+linktitle: Lägga till sidor till XPS-dokument
 second_title: Aspose.Page .NET API
 description: Lär dig hur du programmatiskt lägger till sidor i XPS-dokument med Aspose.Page för .NET. Den här omfattande guiden täcker förutsättningar, kodexempel och vanliga frågor.
 type: docs

@@ -66,7 +66,7 @@ using (Signature signature = new Signature(filePath))
 
 ## Wniosek
 
-W tym samouczku dowiedziałeś się, jak podpisać obraz metadanymi za pomocą GroupDocs.Signature dla .NET. Wykonując te kroki, możesz łatwo dodać podpisy metadanych do swoich aplikacji .NET, zwiększając funkcjonalność i integralność swoich obrazów.
+W tym samouczku dowiedziałeś się, jak podpisać obraz metadanymi za pomocą GroupDocs.Signature dla .NET. Postępując zgodnie z tymi krokami, możesz łatwo dodać podpisy metadanych do swoich aplikacji .NET, zwiększając funkcjonalność i integralność swoich obrazów.
 
 ## Najczęściej zadawane pytania
 

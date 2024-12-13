@@ -92,8 +92,8 @@ Não, a biblioteca é autônoma e não requer nenhuma dependência adicional par
 
 ### Existe uma versão de teste disponível para testes?
 
-Sim, você pode baixar uma versão de teste gratuita no[página de lançamentos](https://releases.groupdocs.com/) para explorar os recursos da biblioteca antes de comprar.
+ Sim, você pode baixar uma versão de teste gratuita no[página de lançamentos](https://releases.groupdocs.com/) para explorar os recursos da biblioteca antes de comprar.
 
 ### Onde posso obter ajuda ou suporte?
 
- Se você encontrar algum problema, você pode visitar o[Fórum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) para suporte orientado pela comunidade ou entre em contato com a equipe de suporte para assistência personalizada.
+Se você encontrar algum problema, você pode visitar o[Fórum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) para suporte orientado pela comunidade ou entre em contato com a equipe de suporte para assistência personalizada.

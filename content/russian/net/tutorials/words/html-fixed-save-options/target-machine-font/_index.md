@@ -65,12 +65,12 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 };
 ```
 
-## Шаг 3: Сохраните документ
+## Шаг 3: Сохраните документ.
 
 Теперь сохраним документ как фиксированный HTML-файл. Вот тут-то и происходит волшебство!
 
 ```csharp
-//Преобразовать документ в фиксированный HTML
+// Преобразовать документ в фиксированный HTML
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

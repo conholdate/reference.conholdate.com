@@ -16,7 +16,7 @@ Xin chào, những người đam mê công nghệ! Bạn đã bao giờ cần x�
 Trước khi bắt đầu, hãy đảm bảo bạn đã chuẩn bị những thứ sau:
 
 1. Visual Studio: Đảm bảo rằng bạn đã cài đặt nó trên máy để viết mã.
-2.  Aspose.Words cho .NET: Tải xuống và cài đặt từ[đây](https://releases.aspose.com/words/net/) Nếu bạn chưa dùng thử, hãy tải ngay bản dùng thử miễn phí[đây](https://releases.aspose.com/).
+2.  Aspose.Words cho .NET: Tải xuống và cài đặt từ[đây](https://releases.aspose.com/words/net/) . Nếu bạn chưa dùng thử, hãy tải ngay bản dùng thử miễn phí[đây](https://releases.aspose.com/).
 3. Tài liệu Word có chữ ký số: Chuẩn bị một tài liệu Word có chữ ký số để xác minh.
 
 ## Nhập không gian tên
@@ -142,7 +142,7 @@ Có, nó hỗ trợ tất cả các phiên bản tài liệu Microsoft Word, bao
 
 ### Làm thế nào để tôi có được giấy phép tạm thời cho Aspose.Words dành cho .NET?
 
-Bạn có thể xin giấy phép tạm thời từ[đây](https://purchase.aspose.com/temporary-license/), cho phép bạn khám phá đầy đủ các tính năng của thư viện mà không bị giới hạn.
+ Bạn có thể xin giấy phép tạm thời từ[đây](https://purchase.aspose.com/temporary-license/), cho phép bạn khám phá đầy đủ các tính năng của thư viện mà không bị giới hạn.
 
 ### Tôi có thể tìm thêm tài liệu về Aspose.Words cho .NET ở đâu?
 

@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## Bước 1: Thiết lập dự án của bạn
 
-Đầu tiên, hãy tạo một dự án .NET mới trong IDE của bạn. Thêm tham chiếu đến thư viện Aspose.Words. Nếu bạn chưa tải xuống, bạn có thể thực hiện từ[đây](https://releases.aspose.com/words/net/).
+ Đầu tiên, hãy tạo một dự án .NET mới trong IDE của bạn. Thêm tham chiếu đến thư viện Aspose.Words. Nếu bạn chưa tải xuống, bạn có thể thực hiện từ[đây](https://releases.aspose.com/words/net/).
 
 ## Bước 2: Xác định thư mục tài liệu
 

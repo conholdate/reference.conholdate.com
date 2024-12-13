@@ -14,7 +14,7 @@ Dalam tutorial ini, kita akan menjelajahi cara menggunakan GroupDocs.Metadata fo
 Sebelum kita mulai, pastikan Anda memiliki hal berikut:
 
 - Visual Studio: Pastikan telah terinstal di sistem Anda.
-- GroupDocs.Metadata untuk .NET: Unduh dan instal dari[situs web resmi](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata untuk .NET: Unduh dan instal dari[situs web resmi](https://releases.groupdocs.com/metadata/net/).
 - Pengetahuan Dasar C#: Disarankan untuk terbiasa dengan C# dan kerangka kerja .NET.
 
 ## Mengimpor Ruang Nama
@@ -31,7 +31,7 @@ Untuk membaca metadata dari berkas PDF, muat dokumen dan ekstrak propertinya men
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // Akses paket root file PDF
+    //Akses paket root file PDF
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // Mengambil dan menampilkan properti bawaan

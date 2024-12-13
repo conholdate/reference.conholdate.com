@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Βήμα 5: Αρχικοποιήστε το συνημμένο αρχείο
 
- Καθορίστε τη διαδρομή προς το αρχείο που θέλετε να επισυνάψετε χρησιμοποιώντας το`AttachedFile` τάξη.
+ Καθορίστε τη διαδρομή προς το αρχείο που θέλετε να επισυνάψετε χρησιμοποιώντας το`AttachedFile`τάξη.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

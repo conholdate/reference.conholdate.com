@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Beginnen wir mit dem Laden unserer Quell- und Ziel-Word-Dokumente und dem Initialisieren der erforderlichen Variablen.
 
 ```csharp
-// Laden Sie die Quell- und Zieldokumente.
+//Laden Sie die Quell- und Zieldokumente.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,7 +110,7 @@ Ja, Sie können den Vorgang für jedes Lesezeichen wiederholen und den Text nach
 Im aktuellen Beispiel wird davon ausgegangen, dass sie denselben übergeordneten Knoten haben. Ist dies nicht der Fall, müssen Sie eine komplexere Handhabung implementieren.
 
 ### Bleibt die ursprüngliche Formatierung des angehängten Textes erhalten?
- Auf jeden Fall! Mit`ImportFormatMode.KeepSourceFormatting` stellt sicher, dass die ursprüngliche Formatierung erhalten bleibt.
+ Auf jeden Fall! Mit`ImportFormatMode.KeepSourceFormatting`stellt sicher, dass die ursprüngliche Formatierung erhalten bleibt.
 
 ### Ist es möglich, Text an einer bestimmten Stelle im Zieldokument anzuhängen?
 Ja, Sie können Text an jeder gewünschten Position anhängen, indem Sie zum entsprechenden Knoten im Zieldokument navigieren.

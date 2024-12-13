@@ -15,7 +15,7 @@ Impostare il layout di pagina del tuo documento può essere un compito arduo, ma
 
 Prima di iniziare, assicurati di avere quanto segue:
 
--  Aspose.Words per .NET: Scaricalo[Qui](https://releases.aspose.com/words/net/).
+- Aspose.Words per .NET: Scaricalo[Qui](https://releases.aspose.com/words/net/).
 -  Una licenza valida: acquistane una[Qui](https://purchase.aspose.com/buy) o ottenere una licenza temporanea[Qui](https://purchase.aspose.com/temporary-license/).
 - Conoscenze di base della programmazione C#: non preoccuparti, semplificherò le cose.
 - Ambiente di sviluppo integrato (IDE): Visual Studio è altamente consigliato.

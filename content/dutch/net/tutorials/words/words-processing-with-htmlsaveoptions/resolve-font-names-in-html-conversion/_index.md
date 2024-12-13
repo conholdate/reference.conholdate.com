@@ -15,7 +15,7 @@ Hallo, mede-programmeur! Als je ooit problemen hebt gehad met lettertypen bij he
 
 Voordat we beginnen, zorg ervoor dat u alles heeft wat u nodig hebt:
 
-1.  Aspose.Words voor .NET: Download het[hier](https://releases.aspose.com/words/net/).
+1. Aspose.Words voor .NET: Download het[hier](https://releases.aspose.com/words/net/).
 2.  Een geldige licentie: Koop een licentie[hier](https://purchase.aspose.com/buy) of een tijdelijke licentie krijgen[hier](https://purchase.aspose.com/temporary-license/).
 3. Basiskennis van C# en .NET: Kennis van de basisconcepten van programmeren in C# wordt verondersteld.
 4. Visual Studio: elke versie die het .NET Framework ondersteunt, is geschikt.
@@ -74,7 +74,7 @@ Ten slotte slaan we het document op als een HTML-bestand met behulp van de gecon
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Wij noemen de`Save` methode op de`Document` object, met specificatie van het uitvoerpad en de opslagopties die we hebben geconfigureerd. Dit genereert een HTML-bestand met de lettertypenamen opgelost.
+ Wij noemen de`Save`methode op de`Document` object, met specificatie van het uitvoerpad en de opslagopties die we hebben geconfigureerd. Dit genereert een HTML-bestand met de lettertypenamen opgelost.
 
 ## Conclusie
 
@@ -92,7 +92,7 @@ Aspose.Words voor .NET is een krachtige bibliotheek waarmee ontwikkelaars progra
  Ja, maar het zal wat beperkingen hebben. Voor volledige functionaliteit kunt u een licentie kopen[hier](https://purchase.aspose.com/buy) of een tijdelijke licentie krijgen[hier](https://purchase.aspose.com/temporary-license/).
 
 ### Waarom worden mijn lettertypen niet correct weergegeven in HTML?
- Dit probleem kan zich voordoen als de lettertypen niet goed worden omgezet tijdens de conversie.`ResolveFontNames = true` in`HtmlSaveOptions` kan dit probleem verhelpen.
+Dit probleem kan zich voordoen als de lettertypen niet goed worden omgezet tijdens de conversie.`ResolveFontNames = true` in`HtmlSaveOptions` kan dit probleem verhelpen.
 
 ### Waar kan ik ondersteuning krijgen voor Aspose.Words voor .NET?
  U kunt ondersteuning krijgen van de[Aspose.Words ondersteuningsforum](https://forum.aspose.com/c/words/8).

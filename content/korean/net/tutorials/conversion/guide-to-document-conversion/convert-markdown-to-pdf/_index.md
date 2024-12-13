@@ -19,7 +19,7 @@ url: /ko/net/tutorials/conversion/guide-to-document-conversion/convert-markdown-
  컴퓨터에 .NET SDK가 설치되어 있는지 확인하세요. 여기에서 다운로드할 수 있습니다.[.NET 웹사이트](https://dotnet.microsoft.com/download).
 
 ### .NET 라이브러리를 위한 GroupDocs.Conversion
-.NET 라이브러리용 GroupDocs.Conversion을 다운로드하세요.[대지](https://releases.groupdocs.com/conversion/net/). 설치 지침에 따라 프로젝트에 추가하세요.
+ .NET 라이브러리용 GroupDocs.Conversion을 다운로드하세요.[대지](https://releases.groupdocs.com/conversion/net/)설치 지침에 따라 프로젝트에 추가하세요.
 
 ## 1단계: 필요한 네임스페이스 가져오기
 .NET 프로젝트에서 GroupDocs 기능에 액세스하려면 다음 네임스페이스를 포함하세요.

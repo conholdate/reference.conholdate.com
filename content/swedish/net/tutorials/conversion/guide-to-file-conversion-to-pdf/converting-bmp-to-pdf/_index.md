@@ -92,8 +92,8 @@ Nej, biblioteket är fristående och kräver inga ytterligare beroenden för gru
 
 ### Finns det en testversion tillgänglig för testning?
 
-Ja, du kan ladda ner en gratis testversion från[släpper sida](https://releases.groupdocs.com/) att utforska bibliotekets möjligheter innan du köper.
+ Ja, du kan ladda ner en gratis testversion från[släpper sida](https://releases.groupdocs.com/) att utforska bibliotekets möjligheter innan du köper.
 
 ### Var kan jag få hjälp eller stöd?
 
- Om du stöter på några problem kan du besöka[GroupDocs.Conversion-forum](https://forum.groupdocs.com/c/conversion/11) för community-driven support eller kontakta deras supportteam för personlig hjälp.
+Om du stöter på några problem kan du besöka[GroupDocs.Conversion-forum](https://forum.groupdocs.com/c/conversion/11) för community-driven support eller kontakta deras supportteam för personlig hjälp.

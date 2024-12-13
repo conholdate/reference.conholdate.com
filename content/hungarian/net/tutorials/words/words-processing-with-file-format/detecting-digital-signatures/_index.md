@@ -55,7 +55,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## 4. lépés: Ellenőrizze a fájlformátumot
 
-Annak biztosításához, hogy a dokumentum Word-fájl, fel kell ismernünk a formátumát:
+Annak biztosítására, hogy a dokumentum Word-fájl-e, fel kell ismernünk a formátumát:
 
 ```csharp
 FileFormatInfo info = FileFormatUtil.DetectFileFormat(Path.Combine(dataDir, "Digitally signed.docx"));

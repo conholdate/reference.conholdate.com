@@ -89,7 +89,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 doc.Save("plain_text.txt", SaveFormat.Text);
 ```
 
-这条线拯救了我们的`Document`作为纯文本文件，文件名为`plain_text.txt`。瞧！现在您有了一份干净的纯文本版本的原始 HTML 电子邮件！
+这条线拯救了我们的`Document`作为纯文本文件，名为`plain_text.txt`。瞧！现在您有了一份干净的纯文本版本的原始 HTML 电子邮件！
 
 ## 结论
 

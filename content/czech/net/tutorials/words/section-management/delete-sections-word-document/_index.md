@@ -55,7 +55,7 @@ doc.Sections[1].Remove();
 
 ## Závěr
 
- S Aspose.Words pro .NET je manipulace s dokumenty Wordu efektivní a přímočará. Odstranění sekcí je jen jednou z mnoha výkonných funkcí, které máte k dispozici. Nezapomeňte prozkoumat rozsáhlé[dokumentace](https://reference.aspose.com/words/net/) objevovat další možnosti, které mohou zlepšit vaše úlohy zpracování dokumentů.
+ Aspose.Words pro .NET je manipulace s dokumenty Wordu efektivní a přímočará. Odstranění sekcí je jen jednou z mnoha výkonných funkcí, které máte k dispozici. Nezapomeňte prozkoumat rozsáhlé[dokumentace](https://reference.aspose.com/words/net/) objevovat další možnosti, které mohou zlepšit vaše úlohy zpracování dokumentů.
 
 ## FAQ
 

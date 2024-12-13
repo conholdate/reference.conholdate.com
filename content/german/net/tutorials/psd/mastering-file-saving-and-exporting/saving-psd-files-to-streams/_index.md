@@ -47,7 +47,7 @@ Identifizieren Sie den Speicherort Ihrer PSD-Quelldatei und wo Sie das Bild spei
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Pfad zu Ihrer Quell-PSD-Datei
-string destName = dataDir + "result.png";   // Pfad für die Ausgabebilddatei
+string destName = dataDir + "result.png";   //Pfad für die Ausgabebilddatei
 ```
 
 ## Schritt 3: Laden Sie das PSD-Bild und behandeln Sie nicht gefundene Schriftarten
@@ -89,7 +89,7 @@ Herzlichen Glückwunsch! Sie haben erfolgreich gelernt, wie Sie mit Aspose.PSD f
 ## Häufig gestellte Fragen
 
 ### Kann ich Aspose.PSD mit jedem Bilddateityp verwenden?
- Ja! Aspose.PSD unterstützt verschiedene Bildformate, darunter PSD, PNG, JPEG und mehr. Eine detaillierte Liste finden Sie in der Dokumentation[Hier](https://reference.aspose.com/psd/net/).
+Ja! Aspose.PSD unterstützt verschiedene Bildformate, darunter PSD, PNG, JPEG und mehr. Eine detaillierte Liste finden Sie in der Dokumentation[Hier](https://reference.aspose.com/psd/net/).
 
 ### Wie erhalte ich Unterstützung für Aspose.PSD?
  Für Hilfe und Community-Support besuchen Sie das Aspose.PSD-Supportforum[Hier](https://forum.aspose.com/c/psd/34).

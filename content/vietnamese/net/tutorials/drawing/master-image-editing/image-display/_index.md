@@ -15,7 +15,7 @@ Chào mừng bạn đến với hướng dẫn toàn diện của chúng tôi v�
 
 Trước khi bắt đầu, hãy đảm bảo bạn đã đáp ứng các điều kiện tiên quyết sau:
 
-- Aspose.Drawing cho Thư viện .NET: Tải xuống và cài đặt thư viện từ[trang phát hành](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing cho Thư viện .NET: Tải xuống và cài đặt thư viện từ[trang phát hành](https://releases.aspose.com/drawing/net/).
 - Môi trường .NET: Đảm bảo môi trường phát triển của bạn được thiết lập để hoạt động với .NET.
 - Thư mục tài liệu: Tạo thư mục để lưu trữ hình ảnh của bạn.
 - Tệp hình ảnh: Chuẩn bị tệp hình ảnh để hiển thị, chẳng hạn như "aspose_logo.png".
@@ -88,7 +88,7 @@ Có, Aspose.Drawing được cập nhật thường xuyên để duy trì khả 
 
 ### Tôi có thể xử lý việc thay đổi kích thước hình ảnh trong Aspose.Drawing như thế nào?
 
- Bạn có thể điều chỉnh tỷ lệ hình ảnh bằng cách sửa đổi các thông số trong`DrawImage`phương pháp, chẳng hạn như chỉ định hình chữ nhật đích.
+ Bạn có thể điều chỉnh tỷ lệ hình ảnh bằng cách sửa đổi các thông số trong`DrawImage` phương pháp, chẳng hạn như chỉ định hình chữ nhật đích.
 
 ### Có cân nhắc về vấn đề cấp phép khi sử dụng Aspose.Drawing trong các dự án thương mại không?
 
@@ -96,4 +96,4 @@ Có, Aspose.Drawing được cập nhật thường xuyên để duy trì khả 
 
 ### Tôi có thể tìm kiếm sự trợ giúp ở đâu nếu gặp sự cố hoặc có thắc mắc về Aspose.Drawing?
 
- Để được hỗ trợ, bạn có thể truy cập[Diễn đàn Aspose.Drawing](https://forum.aspose.com/c/diagram/17) để kết nối với cộng đồng và tìm kiếm sự hỗ trợ từ chuyên gia.
+Để được hỗ trợ, bạn có thể truy cập[Diễn đàn Aspose.Drawing](https://forum.aspose.com/c/diagram/17) để kết nối với cộng đồng và tìm kiếm sự hỗ trợ từ chuyên gia.

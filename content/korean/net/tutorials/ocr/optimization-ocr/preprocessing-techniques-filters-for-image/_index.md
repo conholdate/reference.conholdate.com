@@ -95,7 +95,7 @@ Aspose.OCR for .NET은 이미지-텍스트 변환 프로세스를 간소화하�
  라이선싱 옵션을 탐색하고 구매할 수 있습니다.[여기](https://purchase.conholdate.com/buy) . 무료 체험판도 이용 가능합니다.[여기](https://releases.aspose.com/) , 그리고 임시 면허를 취득할 수 있습니다[여기](https://purchase.conholdate.com/temporary-license/).
 
 ### Aspose.OCR에 대한 지원은 어디에서 찾을 수 있나요?  
- 도움이 필요하면 다음을 방문하세요.[Aspose.OCR 포럼](https://forum.aspose.com/c/ocr/16) 커뮤니티와 지원을 위해.
+도움이 필요하면 다음을 방문하세요.[Aspose.OCR 포럼](https://forum.aspose.com/c/ocr/16) 커뮤니티와 지원을 위해.
 
 ### Aspose.OCR은 어떤 이미지 형식을 지원하나요?  
 Aspose.OCR은 PNG, JPEG, GIF, BMP, TIFF 등 다양한 형식을 지원합니다.

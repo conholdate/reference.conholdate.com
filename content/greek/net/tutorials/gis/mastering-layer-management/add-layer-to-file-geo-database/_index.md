@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // Δημιουργήστε ένα νέο επίπεδο με το σύστημα χωρικής αναφοράς WGS 84
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //Προσθέστε ένα σχήμα χαρακτηριστικών
+        // Προσθέστε ένα σχήμα χαρακτηριστικών
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // Δημιουργήστε και προσθέστε μια δυνατότητα

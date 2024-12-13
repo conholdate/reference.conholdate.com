@@ -13,7 +13,7 @@ Wenn es um die programmgesteuerte Verarbeitung von E-Mails geht, ist Aspose.Emai
 
 ## Konvertieren Sie E-Mails in C# in das MHT-Format mit Zeitzone
 
- Eine der häufigsten Aufgaben für Entwickler ist das Konvertieren von E-Mail-Nachrichten in verschiedene Formate. Wussten Sie, dass Sie E-Mails in das MHT-Format konvertieren können, ohne die Zeitzoneninformationen zu verlieren? Unsere Schritt-für-Schritt-Anleitung zu[Konvertieren von E-Mails in das MHT-Format mit Zeitzone in C#](./convert-emails-to-mht-format-with-timezone-in-csharp/)führt Sie durch den gesamten Prozess. Wir unterteilen jeden Schritt und erklären, wie Sie die Aspose.Email für .NET-Bibliothek verwenden, um dies zu erreichen. Stellen Sie sich vor, Sie senden eine E-Mail, die ihre ursprüngliche Formatierung und Zeitzonengenauigkeit beibehält – keine Verwirrung mehr für Ihre Empfänger!
+ Eine der häufigsten Aufgaben für Entwickler ist das Konvertieren von E-Mail-Nachrichten in verschiedene Formate. Wussten Sie, dass Sie E-Mails in das MHT-Format konvertieren und dabei die Zeitzoneninformationen beibehalten können? Unsere Schritt-für-Schritt-Anleitung zu[Konvertieren von E-Mails in das MHT-Format mit Zeitzone in C#](./convert-emails-to-mht-format-with-timezone-in-csharp/)führt Sie durch den gesamten Prozess. Wir unterteilen jeden Schritt und erklären, wie Sie die Aspose.Email für .NET-Bibliothek verwenden, um dies zu erreichen. Stellen Sie sich vor, Sie senden eine E-Mail, die ihre ursprüngliche Formatierung und Zeitzonengenauigkeit beibehält – keine Verwirrung mehr für Ihre Empfänger!
 
 ## Einfache Konvertierung von EML in MSG mit C#
 

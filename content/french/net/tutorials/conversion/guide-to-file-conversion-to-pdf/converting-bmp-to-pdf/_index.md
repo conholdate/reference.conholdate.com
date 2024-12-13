@@ -92,8 +92,8 @@ Non, la bibliothèque est autonome et ne nécessite aucune dépendance suppléme
 
 ### Existe-t-il une version d'essai disponible pour tester ?
 
-Oui, vous pouvez télécharger une version d'essai gratuite à partir du[page des communiqués](https://releases.groupdocs.com/) pour explorer les capacités de la bibliothèque avant d'acheter.
+ Oui, vous pouvez télécharger une version d'essai gratuite à partir du[page des communiqués](https://releases.groupdocs.com/) pour explorer les capacités de la bibliothèque avant d'acheter.
 
 ### Où puis-je obtenir de l’aide ou du soutien ?
 
- Si vous rencontrez des problèmes, vous pouvez visiter le[Forum sur la conversion de GroupDocs](https://forum.groupdocs.com/c/conversion/11) pour un soutien communautaire ou contactez leur équipe d'assistance pour une assistance personnalisée.
+Si vous rencontrez des problèmes, vous pouvez visiter le[Forum sur la conversion de GroupDocs](https://forum.groupdocs.com/c/conversion/11) pour un soutien communautaire ou contactez leur équipe d'assistance pour une assistance personnalisée.

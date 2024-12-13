@@ -92,8 +92,8 @@ Hayır, kütüphane bağımsızdır ve temel dönüştürme görevleri için her
 
 ### Test için deneme sürümü mevcut mu?
 
-Evet, ücretsiz deneme sürümünü şu adresten indirebilirsiniz:[sürüm sayfası](https://releases.groupdocs.com/) satın almadan önce kütüphanenin olanaklarını keşfetmek için.
+ Evet, ücretsiz deneme sürümünü şu adresten indirebilirsiniz:[sürüm sayfası](https://releases.groupdocs.com/) satın almadan önce kütüphanenin olanaklarını keşfetmek için.
 
 ### Yardım veya desteği nereden alabilirim?
 
- Herhangi bir sorunla karşılaşırsanız, şu adresi ziyaret edebilirsiniz:[GroupDocs.Conversion forumu](https://forum.groupdocs.com/c/conversion/11) Topluluk odaklı destek için veya kişiselleştirilmiş yardım için destek ekibiyle iletişime geçin.
+Herhangi bir sorunla karşılaşırsanız, şu adresi ziyaret edebilirsiniz:[GroupDocs.Conversion forumu](https://forum.groupdocs.com/c/conversion/11) Topluluk odaklı destek için veya kişiselleştirilmiş yardım için destek ekibiyle iletişime geçin.

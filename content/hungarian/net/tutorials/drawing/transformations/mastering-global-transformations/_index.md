@@ -49,7 +49,7 @@ graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 Ezután alkalmazzunk egy globális átalakítást a grafikus környezetre. Ebben a példában a teljes grafikus környezetet 15 fokkal elforgatjuk.
 
 ```csharp
-//Forgatás transzformáció alkalmazása (15 fok)
+// Forgatás transzformáció alkalmazása (15 fok)
 graphics.RotateTransform(15);
 ```
 

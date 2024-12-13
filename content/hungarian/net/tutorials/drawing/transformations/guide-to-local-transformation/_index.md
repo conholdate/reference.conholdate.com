@@ -9,11 +9,11 @@ url: /hu/net/tutorials/drawing/transformations/guide-to-local-transformation/
 ---
 ## Bevezetés
 
-Az Aspose.Drawing for .NET lehetővé teszi a fejlesztők számára, hogy kifinomult grafikákat készítsenek helyi átalakításokkal. Ez a rövid útmutató lépésről lépésre végigvezeti a helyi átalakítások beállításán.
+Az Aspose.Drawing for .NET lehetővé teszi a fejlesztők számára, hogy kifinomult grafikákat készítsenek helyi átalakításokkal. Ez a rövid útmutató lépésről lépésre végigvezeti Önt a helyi átalakítások beállításán.
 
 ## Előfeltételek
 
-1. Aspose.Drawing for .NET: Töltse le és telepítse a webhelyről[itt](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing for .NET: Töltse le és telepítse a webhelyről[itt](https://releases.aspose.com/drawing/net/).
 2. Dokumentumkönyvtár: Válasszon könyvtárat a képek mentéséhez.
 3. Alapvető .NET ismeretek: C# és grafikus programozási koncepciók ismerete.
 
@@ -39,7 +39,7 @@ Graphics graphics = Graphics.FromImage(bitmap);
 graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 ```
 
-### 3. lépés: Hozzon létre egy GraphicsPath-t
+### 3. lépés: Hozzon létre egy GraphicsPath-et
 
 Rajzolj ellipszist:
 

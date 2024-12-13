@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  Instanziieren Sie nun ein`Document` Objekt zur Darstellung Ihrer CGM-Datei im Speicher. Auf diese Weise können Sie die Datei bearbeiten, bevor Sie sie als PDF speichern.
 
 ```csharp
-//Document-Objekt instanziieren
+// Document-Objekt instanziieren
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ Auf jeden Fall! Aspose.PDF unterstützt eine Vielzahl von Formaten, darunter HTM
 
 ### Wo finde ich Unterstützung für Aspose.PDF?
 
- Weitere Informationen finden Sie im[Aspose-Supportforum](https://forum.aspose.com/c/pdf/10), wo Sie Fragen stellen und Lösungen für häufige Probleme finden können.
+Weitere Informationen finden Sie im[Aspose-Supportforum](https://forum.aspose.com/c/pdf/10)wo Sie Fragen stellen und Lösungen für häufige Probleme finden können.
 
 ### Wie erwerbe ich eine Lizenz für Aspose.PDF?
 

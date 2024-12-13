@@ -14,7 +14,7 @@ V tomto tutoriálu prozkoumáme, jak používat GroupDocs.Metadata pro .NET ke �
 Než začneme, ujistěte se, že máte následující:
 
 - Visual Studio: Ujistěte se, že je nainstalováno ve vašem systému.
-- GroupDocs.Metadata for .NET: Stáhněte si a nainstalujte jej z[oficiální stránky](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata for .NET: Stáhněte si a nainstalujte jej z[oficiální stránky](https://releases.groupdocs.com/metadata/net/).
 - Základní znalost C#: Doporučuje se znalost C# a frameworku .NET.
 
 ## Importovat jmenné prostory
@@ -31,7 +31,7 @@ Chcete-li číst metadata ze souboru PDF, načtěte dokument a extrahujte jeho v
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // Otevřete kořenový balíček souboru PDF
+    //Otevřete kořenový balíček souboru PDF
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // Načíst a zobrazit vestavěné vlastnosti
@@ -63,4 +63,4 @@ Vlastnosti metadat můžete upravit přístupem k příslušnému balíku dokume
 Ano, je kompatibilní s .NET Framework i .NET Core.
 
 ### Kde mohu najít podporu nebo se zeptat na otázky týkající se GroupDocs.Metadata?
- Pro podporu a komunitní diskuse navštivte[Fórum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14).
+ Pro podporu a komunitní diskuze navštivte[Fórum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14).

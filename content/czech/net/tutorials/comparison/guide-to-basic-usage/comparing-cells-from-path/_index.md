@@ -85,7 +85,7 @@ Ano, knihovna podporuje porovnávání různých formátů dokumentů, včetně 
 
 ### Jak mohu získat podporu pro GroupDocs.Comparison pro .NET?
 
- Pro podporu navštivte komunitu GroupDocs.Comparison[forum](https://forum.groupdocs.com/c/comparison/12).
+Pro podporu navštivte komunitu GroupDocs.Comparison[forum](https://forum.groupdocs.com/c/comparison/12).
 
 ### Kde si mohu zakoupit licenci pro GroupDocs.Comparison pro .NET?
 

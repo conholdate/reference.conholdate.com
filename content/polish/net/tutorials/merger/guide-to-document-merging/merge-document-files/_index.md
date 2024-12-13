@@ -9,14 +9,14 @@ url: /pl/net/tutorials/merger/guide-to-document-merging/merge-document-files/
 ---
 ## Wstęp
 
-tym samouczku pokażemy, jak scalać pliki DOC za pomocą GroupDocs.Merger dla .NET, potężnego API zaprojektowanego dla programistów do programowego łączenia, dzielenia i manipulowania różnymi formatami dokumentów, w tym plikami DOC. Udostępnimy Ci przewodnik krok po kroku, aby ułatwić ten proces.
+W tym samouczku pokażemy, jak scalać pliki DOC za pomocą GroupDocs.Merger dla .NET, potężnego API zaprojektowanego dla programistów do programowego łączenia, dzielenia i manipulowania różnymi formatami dokumentów, w tym plikami DOC. Udostępnimy Ci przewodnik krok po kroku, aby ułatwić ten proces.
 
 ## Wymagania wstępne
 
 Zanim zaczniesz, upewnij się, że masz następujące rzeczy:
 
 1. Visual Studio: Zainstaluj program Visual Studio na komputerze deweloperskim.
-2.  GroupDocs.Merger dla .NET: Pobierz bibliotekę z[strona internetowa](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger dla .NET: Pobierz bibliotekę z[strona internetowa](https://releases.groupdocs.com/merger/net/).
 3. Podstawowa znajomość języka C#: Zalecana jest znajomość języka programowania C#.
 
 ## Importuj wymagane przestrzenie nazw
@@ -46,7 +46,7 @@ Użyj poniższego fragmentu kodu, aby załadować pliki źródłowe DOC, które 
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Dodaj kolejny plik DOC do scalenia
+    // Dodaj kolejny plik DOC do scalenia
     merger.Join("path_to_second_doc.doc");
 
     // Połącz pliki DOC i zapisz wynik
@@ -55,13 +55,13 @@ using (var merger = new Merger("path_to_first_doc.doc"))
 ```
 
 
--  Zastępować`"path_to_first_doc.doc"` I`"path_to_second_doc.doc"` z pełnymi ścieżkami do plików DOC, które chcesz połączyć.
+-  Zastępować`"path_to_first_doc.doc"` I`"path_to_second_doc.doc"` z pełnymi ścieżkami do plików DOC, które chcesz scalić.
 -  Ten`merger.Join(...)` Metoda ta umożliwia dodanie dodatkowych plików DOC do procesu scalania.
 - `merger.Save(outputFile)` zapisuje scalony dokument jako`merged.doc` w określonym folderze wyjściowym.
 
 ## Wniosek
 
-W tym samouczku zademonstrowaliśmy, jak scalić pliki DOC za pomocą GroupDocs.Merger dla .NET. Wykonując te kroki, możesz efektywnie łączyć wiele plików DOC w jeden dokument programowo. Ten interfejs API oferuje intuicyjne i solidne rozwiązanie do manipulacji dokumentami w aplikacjach .NET.
+tym samouczku zademonstrowaliśmy, jak scalić pliki DOC za pomocą GroupDocs.Merger dla .NET. Wykonując te kroki, możesz efektywnie łączyć wiele plików DOC w jeden dokument programowo. Ten interfejs API oferuje intuicyjne i solidne rozwiązanie do manipulacji dokumentami w aplikacjach .NET.
 
 ## Najczęściej zadawane pytania
 
@@ -75,7 +75,7 @@ Oczywiście, jest kompatybilny zarówno z .NET Core, jak i .NET Framework.
 
 ### Czy do użytku komercyjnego wymagana jest licencja?
 
-Tak, ważna licencja jest wymagana do użytku komercyjnego. Licencję można kupić od[Dokumenty grupowe](https://purchase.groupdocs.com/buy).
+ Tak, ważna licencja jest wymagana do użytku komercyjnego. Licencję można kupić od[Dokumenty grupowe](https://purchase.groupdocs.com/buy).
 
 ### Czy mogę wypróbować GroupDocs.Merger dla .NET za darmo?
 

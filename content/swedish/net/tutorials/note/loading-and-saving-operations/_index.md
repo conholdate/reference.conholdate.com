@@ -27,7 +27,7 @@ Med tydliga instruktioner leder handledningen dig genom att ställa in, konverte
 
 [Kolla in handledningen för att spara OneNote-dokument som PDF-filer](./saving-one-note-document-pdf/).  
 
-## Handledning för OneNote-dokumenthantering
+## Handledningar för OneNote-dokumenthantering
 ### [Spara dokument i OneNote-format i Aspose.Note](./saving-document-to-one-note-format/)
 Lär dig hur du programmatiskt sparar OneNote-dokument med Aspose.Note för .NET i denna omfattande handledning. Upptäck en steg-för-steg-guide som leder dig genom hela processen – från att ladda befintliga OneNote-filer till att spara dem i önskat format.
 ### [Spara OneNote-dokument i PDF med Aspose.Note för .NET](./saving-one-note-document-pdf/)

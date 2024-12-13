@@ -15,7 +15,7 @@ url: /ja/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 
 スムーズな開発エクスペリエンスを確保するには、次の前提条件が満たされていることを確認してください。
 
-- Aspose.Words for .NET: 最新バージョンを以下から入手してください。[Aspose リリース ページ](https://releases.aspose.com/words/net/).
+-  Aspose.Words for .NET: 最新バージョンを以下から入手してください。[Aspose リリース ページ](https://releases.aspose.com/words/net/).
 - .NET Framework: .NET Framework (または環境に応じて .NET Core/5/6) のインストールを確認します。
 - 開発環境: 強力な機能を備えた Visual Studio が推奨されます。
 - C# の熟練度: C# プログラミングに関する基本的な知識が必須です。
@@ -100,7 +100,7 @@ document.Save(dataDir + "ConvertedDocument.emf", saveOptions);
 
 ## 結論
 
-このチュートリアルでは、Aspose.Words for .NET を使用して SVG 画像を EMF または WMF 形式に変換する方法について説明しました。これらの手順に従うことで、Word 文書の互換性と視覚的な忠実度を高めることができます。文書作成を自動化する場合でも、高品質のレポートを準備する場合でも、この方法によりシームレスな結果が保証されます。
+このチュートリアルでは、Aspose.Words for .NET を使用して SVG 画像を EMF または WMF 形式に変換する方法を説明しました。これらの手順に従うことで、Word 文書の互換性と視覚的な忠実度を高めることができます。文書作成を自動化する場合でも、高品質のレポートを準備する場合でも、この方法によりシームレスな結果が保証されます。
 
 ## よくある質問
 

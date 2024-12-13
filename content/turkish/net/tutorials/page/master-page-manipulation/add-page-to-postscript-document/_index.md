@@ -47,10 +47,10 @@ PostScript belgenizi istediğiniz yapılandırmalarla ayarlayın:
 string dataDir = "Your Document Directory"; // Belge dizin yolunuzu ayarlayın
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //A4 boyutu için kaydetme seçeneklerini ayarlayın
+    // A4 boyutu için kaydetme seçeneklerini ayarlayın
     PsSaveOptions options = new PsSaveOptions();
     
-    // 2 sayfadan oluşan yeni bir PostScript belgesi oluşturun
+    // sayfadan oluşan yeni bir PostScript belgesi oluşturun
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

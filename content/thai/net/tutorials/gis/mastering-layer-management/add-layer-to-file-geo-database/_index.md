@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // สร้างเลเยอร์ใหม่ด้วยระบบอ้างอิงเชิงพื้นที่ WGS 84
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //เพิ่มรูปแบบแอตทริบิวต์
+        // เพิ่มรูปแบบแอตทริบิวต์
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // สร้างและเพิ่มคุณสมบัติ

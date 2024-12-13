@@ -17,7 +17,7 @@ HTML 문서를 PNG 이미지로 손쉽게 변환하고 싶으신가요? 글쎄�
 
 1.  .NET Framework/ .NET Core: 컴퓨터에 .NET Framework 또는 .NET Core가 설치되어 있는지 확인하세요. 다운로드할 수 있습니다.[.NET 여기](https://dotnet.microsoft.com/download).
 
-2.  .NET 라이브러리용 Aspose.HTML: Aspose.HTML 라이브러리가 필요합니다. 다운로드할 수 있습니다.[여기](https://releases.aspose.com/html/net/)또는 무료로 사용해 보세요[무료 체험](https://releases.aspose.com/).
+2.  .NET 라이브러리용 Aspose.HTML: Aspose.HTML 라이브러리가 필요합니다. 다운로드할 수 있습니다.[여기](https://releases.aspose.com/html/net/) 또는 무료로 사용해 보세요[무료 체험](https://releases.aspose.com/).
 
 3. IDE: Visual Studio와 같은 적합한 통합 개발 환경(IDE)을 사용하여 코드를 작성하고 실행하는 것이 좋습니다.
 
@@ -53,7 +53,7 @@ using Aspose.Html.Rendering.Image;
 string dataDir = "Your Data Directory"; // 디렉토리 경로를 지정하세요
 ```
 
--  바꾸다`"Your Data Directory"` 출력 PNG 파일을 저장할 경로와 함께. 이것은 다음과 같을 수 있습니다.`@"C:\work\"`.
+-  바꾸다`"Your Data Directory"`출력 PNG 파일을 저장할 경로와 함께. 이것은 다음과 같을 수 있습니다.`@"C:\work\"`.
 
 ## 2단계: HTML 문서 개체 만들기
 
@@ -79,11 +79,11 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  그만큼`HtmlRenderer`HTML 콘텐츠를 이미지로 변환하는 데 필요한 객체입니다. 렌더링 프로세스를 후드 아래에서 처리하므로 필요한 것에 집중할 수 있습니다!
+-  그만큼`HtmlRenderer` HTML 콘텐츠를 이미지로 변환하는 데 필요한 객체입니다. 렌더링 프로세스를 후드 아래에서 처리하므로 필요한 것에 집중할 수 있습니다!
 
 ## 4단계: 이미지 장치 설정
 
- 이제 준비할 시간입니다.`ImageDevice`. 이는 최종 PNG 이미지가 생성되는 렌더링 프로세스의 대상입니다.
+ 이제 준비할 시간입니다.`ImageDevice`이는 최종 PNG 이미지가 생성되는 렌더링 프로세스의 대상입니다.
 
 ```csharp
 using (ImageDevice device = new ImageDevice(dataDir + @"document_out.png"))

@@ -1,7 +1,7 @@
 ---
 title: Lägga till Ta bort Javascript till PDF-dokument
 linktitle: Lägga till Ta bort Javascript till PDF-dokument
-second_title: Aspose.PDF för .NET API Referens
+second_title: Aspose.PDF för .NET API-referens
 description: Den här omfattande guiden visar hur du lägger till anpassade beteenden, utför beräkningar eller valideringar dynamiskt och integrerar med andra program.
 type: docs
 weight: 30
@@ -43,7 +43,7 @@ doc.Pages.Add();
 
 Det är här du ska börja bygga din JavaScript-tunga PDF.
 
-## Steg 2: Lägg till JavaScript i PDF:en
+## Steg 2: Lägg till JavaScript i PDF-filen
 
  Infoga JavaScript-funktioner i ditt dokument med hjälp av`doc.JavaScript` samling. Här är ett exempel:
 
@@ -54,7 +54,7 @@ doc.JavaScript["func2"] = "function func2() { alert('This is a test'); }";
 
 ## Steg 3: Spara PDF-filen med JavaScript
 
-Spara ditt uppdaterade dokument på disk:
+Spara ditt uppdaterade dokument på disken:
 
 ```csharp
 doc.Save(dataDir + "AddJavascript.pdf");
@@ -106,7 +106,7 @@ I den här omfattande guiden har du upptäckt hur du låser upp kraften i Aspose
  Ja! Du kan lägga till så många JavaScript-funktioner som behövs med hjälp av`doc.JavaScript` samling.
 
 ### Vad händer om jag försöker ta bort en icke-existerande JavaScript-funktion?
- Om funktionen inte finns,`Remove` Metoden ger inte ett fel, men den tar inte bort någonting. För att hantera icke-existerande funktioner kan du lägga till ytterligare felhantering eller modifiera koden för att ignorera dem.
+ Om funktionen inte finns,`Remove`Metoden ger inte ett fel, men den tar inte bort någonting. För att hantera icke-existerande funktioner kan du lägga till ytterligare felhantering eller modifiera koden för att ignorera dem.
 
 ### Är det möjligt att köra JavaScript så snart PDF-filen öppnas?
 Ja! Du kan konfigurera JavaScript för att köras på specifika utlösare, som att öppna dokumentet eller klicka på en knapp.

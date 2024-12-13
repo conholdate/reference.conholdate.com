@@ -16,7 +16,7 @@ Bent u klaar om uw documentmanipulatievaardigheden te verbeteren met Aspose.Word
 Voordat we beginnen, zorg ervoor dat u het volgende heeft:
 
 1. Visual Studio: elke versie die compatibel is met .NET.
-2.  Aspose.Words voor .NET: Download het[hier](https://releases.aspose.com/words/net/).
+2. Aspose.Words voor .NET: Download het[hier](https://releases.aspose.com/words/net/).
 3. Basiskennis van C#: Kennis van het schrijven van eenvoudige C#-programma's is voldoende.
 4. Een voorbeeld van een Word-document: Maak een Word-document (bijvoorbeeld 'Bladwijzers.docx') met bladwijzers voor deze tutorial.
 

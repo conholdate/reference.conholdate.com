@@ -99,10 +99,10 @@ Console.WriteLine(
  نعم، يلزم الحصول على ترخيص للاستخدام التجاري. يمكنك شراء ترخيص واحد[هنا](https://purchase.aspose.com/buy) أو الحصول على ترخيص مؤقت[هنا](https://purchase.aspose.com/temporary-license/).
 
 ### ما هي الميزات الأخرى التي يقدمها Aspose.Words لـ .NET؟
- يوفر Aspose.Words for .NET مجموعة واسعة من الميزات، بما في ذلك إنشاء المستندات وتحويلها ومعالجتها. استكشف[التوثيق](https://reference.aspose.com/words/net/) لمزيد من التفاصيل.
+يوفر Aspose.Words for .NET مجموعة واسعة من الميزات، بما في ذلك إنشاء المستندات وتحويلها ومعالجتها. استكشف[التوثيق](https://reference.aspose.com/words/net/) لمزيد من التفاصيل.
 
 ### هل يمكنني تجربة Aspose.Words لـ .NET قبل شرائه؟
  بالتأكيد! يمكنك تنزيل نسخة تجريبية مجانية[هنا](https://releases.aspose.com/).
 
 ### أين يمكنني الحصول على الدعم لـ Aspose.Words لـ .NET؟
-يمكنك طلب الدعم من مجتمع Aspose[هنا](https://forum.aspose.com/c/words/8).
+ يمكنك طلب الدعم من مجتمع Aspose[هنا](https://forum.aspose.com/c/words/8).

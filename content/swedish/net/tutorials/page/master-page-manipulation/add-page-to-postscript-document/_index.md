@@ -47,10 +47,10 @@ Konfigurera ditt PostScript-dokument med önskade konfigurationer:
 string dataDir = "Your Document Directory"; // Ställ in sökvägen till din dokumentkatalog
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //Ställ in sparalternativ för A4-storlek
+    // Ställ in sparalternativ för A4-storlek
     PsSaveOptions options = new PsSaveOptions();
     
-    // Skapa ett nytt PostScript-dokument med 2 sidor
+    //Skapa ett nytt PostScript-dokument med 2 sidor
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

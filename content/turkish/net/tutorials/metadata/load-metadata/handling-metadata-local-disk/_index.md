@@ -90,7 +90,7 @@ Bu eğitimde, dosya meta verilerini yönetmek için GroupDocs.Metadata for .NET'
  Ayrıntılı belgeler şu adreste mevcuttur:[GroupDocs. .NET Belgeleri için Metadata](https://reference.groupdocs.com/metadata/net/).
 
 ### GroupDocs.Metadata ücretsiz denemeyi destekliyor mu?
-Evet, GroupDocs'un ücretsiz deneme sürümünü indirebilirsiniz.Metadata[Burada](https://releases.groupdocs.com/).
+ Evet, GroupDocs'un ücretsiz deneme sürümünü indirebilirsiniz.Metadata[Burada](https://releases.groupdocs.com/).
 
 ### GroupDocs.Metadata için desteği nereden alabilirim?
  Destek için şu adresi ziyaret edin:[GroupDocs.Metadata forumu](https://forum.groupdocs.com/c/metadata/14) Topluluk yardımı ve tartışmaları için.

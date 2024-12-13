@@ -17,7 +17,7 @@ Voordat u begint met het converteren van bestanden, moet u ervoor zorgen dat u h
 
 ### GroupDocs.Conversion voor .NET installeren
 
- kunt GroupDocs.Conversion voor .NET downloaden van de[website](https://releases.groupdocs.com/conversion/net/)Zorg ervoor dat u het installeert volgens de vereisten van uw project.
+ U kunt GroupDocs.Conversion voor .NET downloaden van de[website](https://releases.groupdocs.com/conversion/net/)Zorg ervoor dat u het installeert volgens de vereisten van uw project.
 
 ### Bron AI-bestand
 
@@ -59,7 +59,7 @@ Stel vervolgens eventuele specifieke opties in die u nodig hebt voor de PDF-conv
 ```csharp
     var options = new PdfConvertOptions();
 ```
- Door een instantie van te maken`PdfConvertOptions`kunt u instellingen aanpassen zoals paginaformaat, marges en meer. Hoewel dit optioneel is, geeft het u flexibiliteit voor specifieke vereisten.
+ Door een instantie van te maken`PdfConvertOptions`, kunt u instellingen aanpassen zoals paginaformaat, marges en meer. Hoewel dit optioneel is, geeft het u flexibiliteit voor specifieke vereisten.
 
 ## Stap 3: Voer de conversie uit
 

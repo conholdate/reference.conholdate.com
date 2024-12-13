@@ -27,4 +27,4 @@ Aspose.Note for .NET 的突出功能之一是能夠為附件設定自訂圖示�
 ### [在 Aspose.Note for .NET 中附加文件和設定圖標](./attaching-files-setting-icons/)
 逐步了解如何使用 Aspose.Note for .NET 在 Microsoft OneNote 文件中附加文件和設定自訂圖示。透過無縫文件管理和自訂功能增強您的 .NET 應用程式。
 ### [使用 Aspose.Note 在 OneNote 文件中附加文件的指南](./attach-file-in-one-note-documents/)
-本綜合指南將引導您完成以程式設計方式將文件附加到 OneNote 文件的過程，讓您能夠提升筆記記錄和文件管理任務。提供清晰的逐步說明和有用的常見問題。
+本綜合指南將引導您完成以程式設計方式將文件附加到 OneNote 文件的流程，使您能夠提升筆記記錄和文件管理任務的能力。提供清晰的逐步說明和有用的常見問題。

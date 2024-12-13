@@ -106,13 +106,13 @@ Ebben az átfogó útmutatóban felfedezte, hogyan szabadíthatja fel az Aspose.
  Igen! Tetszőleges számú JavaScript-függvényt adhat hozzá a`doc.JavaScript` gyűjtemény.
 
 ### Mi történik, ha megpróbálok eltávolítani egy nem létező JavaScript-függvényt?
- Ha a függvény nem létezik, a`Remove` A módszer nem ad hibát, de nem is távolít el semmit. A nem létező függvények kezeléséhez további hibakezelést adhat hozzá, vagy módosíthatja a kódot, hogy figyelmen kívül hagyja azokat.
+ Ha a függvény nem létezik, a`Remove` módszer nem ad hibát, de nem is távolít el semmit. A nem létező függvények kezeléséhez további hibakezelést adhat hozzá, vagy módosíthatja a kódot, hogy figyelmen kívül hagyja azokat.
 
 ### Lehetséges a JavaScript futtatása a PDF megnyitása után?
 Igen! Beállíthatja, hogy a JavaScript meghatározott triggereken fusson, mint például a dokumentum megnyitása vagy egy gombra kattintás.
 
 ### Szerkeszthetem a JavaScriptet, miután hozzáadta a PDF-hez?
-Igen, betölthet egy meglévő PDF-et, hozzáférhet a JavaScripthez, módosíthatja a kódot, és újra mentheti a dokumentumot.
+Igen, betölthet egy meglévő PDF-et, hozzáférhet annak JavaScript-kódjához, módosíthatja a kódot, és újra mentheti a dokumentumot.
 
 ### A JavaScript eltávolítása hatással van a PDF-tartalom többi részére?
 Nem, a JavaScript eltávolítása csak a szkriptet érinti. A PDF tartalma változatlan marad.

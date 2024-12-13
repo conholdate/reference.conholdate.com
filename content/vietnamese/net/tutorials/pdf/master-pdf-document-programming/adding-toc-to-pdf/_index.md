@@ -119,7 +119,7 @@ Có, bạn có thể tùy chỉnh hoàn toàn giao diện của mục lục, bao
 
 ### Làm thế nào để thêm tiêu đề phụ vào Mục lục?
 
- Bạn có thể thêm tiêu đề phụ bằng cách điều chỉnh`Heading` mức độ (ví dụ,`Heading(2)`).
+Bạn có thể thêm tiêu đề phụ bằng cách điều chỉnh`Heading` mức độ (ví dụ,`Heading(2)`).
 
 ### Có thể tự động cập nhật Mục lục nếu tài liệu thay đổi không?
 

@@ -22,7 +22,7 @@ A merülés előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
 ## Névterek importálása
 
-A kódolás megkezdéséhez importálnia kell a szükséges névtereket. Ezek hozzáférést biztosítanak az Aspose.Words könyvtárhoz és más alapvető osztályokhoz.
+kódolás megkezdéséhez importálnia kell a szükséges névtereket. Ezek hozzáférést biztosítanak az Aspose.Words könyvtárhoz és más alapvető osztályokhoz.
 
 ```csharp
 using System;
@@ -99,10 +99,10 @@ Gratulálok! Sikeresen hozzáadta a japán nyelvet szerkesztési nyelvként a do
  Igen, kereskedelmi használatra engedély szükséges. Vásárolhat egyet[itt](https://purchase.aspose.com/buy) vagy ideiglenes engedélyt szerezni[itt](https://purchase.aspose.com/temporary-license/).
 
 ### Milyen egyéb funkciókat kínál az Aspose.Words for .NET?
- Az Aspose.Words for .NET szolgáltatások széles skáláját kínálja, beleértve a dokumentumok generálását, konvertálását és manipulálását. Fedezze fel a[dokumentáció](https://reference.aspose.com/words/net/) további részletekért.
+Az Aspose.Words for .NET szolgáltatások széles skáláját kínálja, beleértve a dokumentumok generálását, konvertálását és manipulálását. Fedezze fel a[dokumentáció](https://reference.aspose.com/words/net/) további részletekért.
 
 ### Kipróbálhatom az Aspose.Words for .NET-et a vásárlás előtt?
  Teljesen! Letölthet egy ingyenes próbaverziót[itt](https://releases.aspose.com/).
 
 ### Hol kaphatok támogatást az Aspose.Words for .NET-hez?
-Kérhet támogatást az Aspose közösségtől[itt](https://forum.aspose.com/c/words/8).
+ Kérhet támogatást az Aspose közösségtől[itt](https://forum.aspose.com/c/words/8).

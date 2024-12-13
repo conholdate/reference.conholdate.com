@@ -15,7 +15,7 @@ Ciao, amico programmatore! Se hai mai avuto problemi con i font quando hai salva
 
 Prima di iniziare, assicurati di avere tutto ciò di cui hai bisogno:
 
-1.  Aspose.Words per .NET: Scaricalo[Qui](https://releases.aspose.com/words/net/).
+1. Aspose.Words per .NET: Scaricalo[Qui](https://releases.aspose.com/words/net/).
 2.  Una licenza valida: Acquista una licenza[Qui](https://purchase.aspose.com/buy) o ottenere una licenza temporanea[Qui](https://purchase.aspose.com/temporary-license/).
 3. Conoscenza di base di C# e .NET: si presuppone la familiarità con i concetti di programmazione di base in C#.
 4. Visual Studio: funzionerà qualsiasi versione che supporti il framework .NET.
@@ -74,7 +74,7 @@ Infine, salviamo il documento come file HTML utilizzando le opzioni di salvatagg
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Chiamiamo il`Save` metodo sul`Document` oggetto, specificando il percorso di output e le opzioni di salvataggio che abbiamo configurato. Questo genera un file HTML con i nomi dei font risolti.
+ Chiamiamo il`Save`metodo sul`Document` oggetto, specificando il percorso di output e le opzioni di salvataggio che abbiamo configurato. Questo genera un file HTML con i nomi dei font risolti.
 
 ## Conclusione
 
@@ -92,7 +92,7 @@ Aspose.Words per .NET è una potente libreria che consente agli sviluppatori di 
  Sì, ma avrà alcune limitazioni. Per la piena funzionalità, puoi acquistare una licenza[Qui](https://purchase.aspose.com/buy) o ottenere una licenza temporanea[Qui](https://purchase.aspose.com/temporary-license/).
 
 ### Perché i miei font non vengono visualizzati correttamente in HTML?
- Questo problema può verificarsi se i font non vengono risolti correttamente durante la conversione. Impostazione`ResolveFontNames = true` In`HtmlSaveOptions` può aiutare a risolvere questo problema.
+Questo problema può verificarsi se i font non vengono risolti correttamente durante la conversione. Impostazione`ResolveFontNames = true` In`HtmlSaveOptions` può aiutare a risolvere questo problema.
 
 ### Dove posso ottenere supporto per Aspose.Words per .NET?
  Puoi ottenere supporto da[Forum di supporto di Aspose.Words](https://forum.aspose.com/c/words/8).

@@ -16,7 +16,7 @@ url: /ru/net/tutorials/merger/guide-to-document-merging/merge-document-files/
 Прежде чем начать, убедитесь, что у вас есть следующее:
 
 1. Visual Studio: установите Visual Studio на свой компьютер для разработки.
-2.  GroupDocs.Merger для .NET: Загрузите библиотеку с сайта[веб-сайт](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger для .NET: Загрузите библиотеку с сайта[веб-сайт](https://releases.groupdocs.com/merger/net/).
 3. Базовые знания C#: рекомендуется знакомство с языком программирования C#.
 
 ## Импорт требуемых пространств имен
@@ -46,7 +46,7 @@ string outputFile = Path.Combine(outputFolder, "merged.doc");
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Добавьте еще один файл DOC для объединения
+    // Добавьте еще один файл DOC для объединения
     merger.Join("path_to_second_doc.doc");
 
     // Объединить файлы DOC и сохранить результат
@@ -75,7 +75,7 @@ using (var merger = new Merger("path_to_first_doc.doc"))
 
 ### Требуется ли лицензия для коммерческого использования?
 
-Да, для коммерческого использования необходима действующая лицензия. Вы можете приобрести лицензию у[GroupDocs](https://purchase.groupdocs.com/buy).
+ Да, для коммерческого использования необходима действующая лицензия. Вы можете приобрести лицензию у[GroupDocs](https://purchase.groupdocs.com/buy).
 
 ### Могу ли я попробовать GroupDocs.Merger для .NET бесплатно?
 

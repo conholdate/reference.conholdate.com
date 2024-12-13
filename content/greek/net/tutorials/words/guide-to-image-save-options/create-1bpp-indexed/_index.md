@@ -66,7 +66,7 @@ ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFormat.Png)
 
 ## Βήμα 5: Αποθηκεύστε το έγγραφο ως εικόνα
 
- Τέλος, χρησιμοποιήστε το`Save` μέθοδος του`Document` αντικείμενο για αποθήκευση της μετατρεπόμενης εικόνας.
+ Τέλος, χρησιμοποιήστε το`Save` μέθοδος του`Document` αντικείμενο για να αποθηκεύσετε την εικόνα που έχει μετατραπεί.
 
 ```csharp
 doc.Save(dataDir + "ConvertedImage.Format1BppIndexed.Png", saveOptions);

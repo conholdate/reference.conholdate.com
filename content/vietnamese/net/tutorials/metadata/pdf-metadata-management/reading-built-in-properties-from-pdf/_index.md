@@ -14,7 +14,7 @@ Trong hướng dẫn này, chúng ta sẽ khám phá cách sử dụng GroupDocs
 Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
 
 - Visual Studio: Hãy đảm bảo rằng nó đã được cài đặt trên hệ thống của bạn.
-- GroupDocs.Metadata cho .NET: Tải xuống và cài đặt từ[trang web chính thức](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata cho .NET: Tải xuống và cài đặt từ[trang web chính thức](https://releases.groupdocs.com/metadata/net/).
 - Kiến thức cơ bản về C#: Khuyến khích người mới bắt đầu nên quen thuộc với C# và .NET framework.
 
 ## Nhập không gian tên
@@ -31,7 +31,7 @@ using Formats.Document;
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // Truy cập vào gói gốc của tệp PDF
+    //Truy cập vào gói gốc của tệp PDF
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // Truy xuất và hiển thị các thuộc tính tích hợp

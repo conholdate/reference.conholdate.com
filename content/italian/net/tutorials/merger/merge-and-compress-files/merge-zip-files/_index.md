@@ -82,7 +82,7 @@ Sì, è compatibile sia con le applicazioni .NET Framework che .NET Core.
 
 ### Posso personalizzare il processo di unione, ad esempio specificando l'ordine dei file nello ZIP unito?
 
-Sì, hai il pieno controllo sul processo di unione. Puoi specificare l'ordine dei file manipolando la sequenza in cui chiami il`Join()` metodo.
+ Sì, hai il pieno controllo sul processo di unione. Puoi specificare l'ordine dei file manipolando la sequenza in cui chiami il`Join()` metodo.
 
 ### GroupDocs.Merger per .NET richiede una licenza per uso commerciale?
 

@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 Agora, vamos salvar o documento como um arquivo HTML fixo. É aqui que a mágica acontece!
 
 ```csharp
-//Converter documento em HTML fixo
+// Converter documento em HTML fixo
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

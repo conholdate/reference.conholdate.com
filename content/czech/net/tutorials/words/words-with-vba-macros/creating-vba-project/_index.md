@@ -9,7 +9,7 @@ url: /cs/net/tutorials/words/words-with-vba-macros/creating-vba-project/
 ---
 ## Zavedení
 
-Ahoj, tech nadšenci! Jste připraveni ponořit se do vzrušujícího světa Visual Basic for Applications (VBA) v dokumentech aplikace Word? Ať už jste zkušený vývojář nebo teprve začínáte, tato příručka vás provede vytvořením projektu VBA v dokumentu aplikace Word pomocí Aspose.Words for .NET. Tato výkonná knihovna umožňuje automatizovat úlohy, vytvářet makra a vylepšovat funkce dokumentů aplikace Word. Začněme!
+Ahoj, tech nadšenci! Jste připraveni ponořit se do vzrušujícího světa Visual Basic for Applications (VBA) v dokumentech aplikace Word? Ať už jste zkušený vývojář nebo teprve začínáte, tento průvodce vás provede vytvořením projektu VBA v dokumentu aplikace Word pomocí Aspose.Words for .NET. Tato výkonná knihovna umožňuje automatizovat úlohy, vytvářet makra a vylepšovat funkce dokumentů aplikace Word. Začněme!
 
 ## Předpoklady
 

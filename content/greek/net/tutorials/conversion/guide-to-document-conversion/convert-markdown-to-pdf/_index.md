@@ -19,7 +19,7 @@ url: /el/net/tutorials/conversion/guide-to-document-conversion/convert-markdown-
  Βεβαιωθείτε ότι έχετε εγκαταστήσει το .NET SDK στον υπολογιστή σας. Μπορείτε να το κατεβάσετε από το[Ιστοσελίδα .NET](https://dotnet.microsoft.com/download).
 
 ### GroupDocs.Conversion για .NET Library
-Κάντε λήψη της βιβλιοθήκης GroupDocs.Conversion για .NET από το[τοποθεσία](https://releases.groupdocs.com/conversion/net/). Ακολουθήστε τις οδηγίες εγκατάστασης για να το προσθέσετε στο έργο σας.
+ Κάντε λήψη της βιβλιοθήκης GroupDocs.Conversion για .NET από το[τοποθεσία](https://releases.groupdocs.com/conversion/net/)Ακολουθήστε τις οδηγίες εγκατάστασης για να το προσθέσετε στο έργο σας.
 
 ## Βήμα 1: Εισαγάγετε τους απαραίτητους χώρους ονομάτων
 Στο έργο σας .NET, συμπεριλάβετε τους ακόλουθους χώρους ονομάτων για πρόσβαση στις λειτουργίες του GroupDocs:

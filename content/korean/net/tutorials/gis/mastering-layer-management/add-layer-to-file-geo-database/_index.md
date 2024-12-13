@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // WGS 84 공간 참조 시스템을 사용하여 새 레이어를 만듭니다.
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //속성 스키마 추가
+        // 속성 스키마 추가
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // 기능을 생성하고 추가하세요

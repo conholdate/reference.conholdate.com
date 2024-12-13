@@ -15,7 +15,7 @@ Aspose.Drawing for .NET kullanarak görselleri görüntülemeye ilişkin kapsaml
 
 Başlamadan önce, aşağıdaki ön koşulların mevcut olduğundan emin olun:
 
-- Aspose.Drawing for .NET Kütüphanesi: Kütüphaneyi şu adresten indirin ve yükleyin:[yayın sayfası](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing for .NET Kütüphanesi: Kütüphaneyi şu adresten indirin ve yükleyin:[yayın sayfası](https://releases.aspose.com/drawing/net/).
 - .NET Ortamı: Geliştirme ortamınızın .NET ile çalışacak şekilde ayarlandığından emin olun.
 - Belge Dizini: Görüntülerinizi saklamak için bir dizin oluşturun.
 - Resim Dosyası: "aspose_logo.png" gibi görüntülenmek üzere bir resim dosyası hazırlayın.
@@ -88,7 +88,7 @@ Evet, Aspose.Drawing en son .NET framework'leriyle uyumluluğunu korumak için d
 
 ### Aspose.Drawing'de resim ölçeklemeyi nasıl halledebilirim?
 
- Görüntü ölçeklemesini, parametreleri değiştirerek ayarlayabilirsiniz.`DrawImage`hedef dikdörtgeni belirtme gibi bir yöntem.
+ Görüntü ölçeklemesini, parametreleri değiştirerek ayarlayabilirsiniz.`DrawImage` hedef dikdörtgeni belirtme gibi bir yöntem.
 
 ### Aspose.Drawing'i ticari projelerde kullanırken lisanslama hususları var mı?
 
@@ -96,4 +96,4 @@ Evet, Aspose.Drawing en son .NET framework'leriyle uyumluluğunu korumak için d
 
 ### Aspose.Drawing ile ilgili sorunlarla karşılaşırsam veya sorularım olursa nereden yardım alabilirim?
 
- Destek için şu adresi ziyaret edebilirsiniz:[Aspose.Çizim forumu](https://forum.aspose.com/c/diagram/17) Toplulukla bağlantı kurmak ve uzman yardımı almak.
+Destek için şu adresi ziyaret edebilirsiniz:[Aspose.Çizim forumu](https://forum.aspose.com/c/diagram/17) Toplulukla bağlantı kurmak ve uzman yardımı almak.

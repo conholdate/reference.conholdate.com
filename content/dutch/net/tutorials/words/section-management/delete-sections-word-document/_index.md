@@ -55,7 +55,7 @@ doc.Sections[1].Remove();
 
 ## Conclusie
 
- Met Aspose.Words voor .NET is het manipuleren van Word-documenten efficiënt en eenvoudig. Secties verwijderen is slechts een van de vele krachtige functies die u tot uw beschikking hebt. Zorg ervoor dat u de uitgebreide[documentatie](https://reference.aspose.com/words/net/) om meer mogelijkheden te ontdekken die uw documentverwerkingstaken kunnen verbeteren.
+Met Aspose.Words voor .NET is het manipuleren van Word-documenten efficiënt en eenvoudig. Secties verwijderen is slechts een van de vele krachtige functies die u tot uw beschikking hebt. Zorg ervoor dat u de uitgebreide[documentatie](https://reference.aspose.com/words/net/) om meer mogelijkheden te ontdekken die uw documentverwerkingstaken kunnen verbeteren.
 
 ## Veelgestelde vragen
 

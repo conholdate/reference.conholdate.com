@@ -111,7 +111,7 @@ Aspose.PSD for .NET 튜토리얼로 이미지 품질을 손쉽게 향상하세�
 ### Aspose.PSD 튜토리얼
 - [.NET 튜토리얼을 위한 Aspose.PSD](./psd/)
 
-## 아스포즈.3D
+## 아스포지.3D
 {{% alert color="primary" %}}
 Aspose.3D for .NET 튜토리얼로 3D 모델링 및 애니메이션의 세계를 열어보세요. 렌더링에서 선형 압출까지, 프로젝트를 손쉽게 향상시키세요.
 {{% /alert %}}

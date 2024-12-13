@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Paso 3: Configurar las opciones de carga de HTML
 
- El`HtmlLoadOptions`La clase de Aspose.Words nos permite especificar cómo se debe interpretar el contenido HTML. Para garantizar que el cuadro combinado se represente como una etiqueta de documento estructurado:
+ El`HtmlLoadOptions` La clase de Aspose.Words nos permite especificar cómo se debe interpretar el contenido HTML. Para garantizar que el cuadro combinado se represente como una etiqueta de documento estructurado:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions

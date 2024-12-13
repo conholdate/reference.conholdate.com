@@ -18,4 +18,4 @@ Als Entwickler wissen Sie, wie wichtig es ist, die Dokumentenverwaltung in Ihren
 ## Tutorials zu Web-Erweiterungen
 | Titel | Beschreibung |
 | --- | --- |
-| [Beherrschen von Web-Erweiterungsaufgabenbereichen in Word-Dokumenten](./mastering-web-extension-task-panes/) | Erfahren Sie, wie Sie mit Aspose.Words für .NET Web Extension Task Panes in Word-Dokumenten hinzufügen und konfigurieren. Folgen Sie dieser umfassenden Anleitung für eine nahtlose Integration mit detaillierten Codebeispielen und Schritt-für-Schritt-Anleitungen.|
+| [Beherrschen von Web-Erweiterungsaufgabenbereichen in Word-Dokumenten](./mastering-web-extension-task-panes/) | Erfahren Sie, wie Sie mit Aspose.Words für .NET Web Extension Task Panes in Word-Dokumenten hinzufügen und konfigurieren. Folgen Sie dieser umfassenden Anleitung für eine nahtlose Integration mit detaillierten Codebeispielen und schrittweisen Anweisungen.|

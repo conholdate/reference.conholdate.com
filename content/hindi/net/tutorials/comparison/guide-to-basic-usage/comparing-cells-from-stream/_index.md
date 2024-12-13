@@ -15,7 +15,7 @@ url: /hi/net/tutorials/comparison/guide-to-basic-usage/comparing-cells-from-stre
 
 आरंभ करने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित हैं:
 
-1.  GroupDocs.तुलना के लिए .NET: डाउनलोड करें और से पुस्तकालय स्थापित करें[यहाँ](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.तुलना के लिए .NET: डाउनलोड करें और से पुस्तकालय स्थापित करें[यहाँ](https://releases.groupdocs.com/comparison/net/).
 2. C# का बुनियादी ज्ञान: इस ट्यूटोरियल के लिए C# प्रोग्रामिंग से परिचित होना अपेक्षित है।
 3. एकीकृत विकास वातावरण (आईडीई): कोडिंग के लिए विजुअल स्टूडियो जैसे आईडीई का उपयोग करें।
 4. तुलना करने के लिए दस्तावेज़: जिन दस्तावेज़ों की आप तुलना करना चाहते हैं उन्हें तैयार करें और सुनिश्चित करें कि वे आपके C# कोड से सुलभ हैं।
@@ -96,4 +96,4 @@ GroupDocs.Comparison for .NET आपके C# अनुप्रयोगों 
 
 ### मैं .NET के लिए GroupDocs.Comparison से संबंधित सहायता या समर्थन कहां से प्राप्त कर सकता हूं?
 
-सहायता के लिए, GroupDocs.Comparison फ़ोरम पर जाएँ[यहाँ](https://forum.groupdocs.com/c/comparison/12).
+ सहायता के लिए, GroupDocs.Comparison फ़ोरम पर जाएँ[यहाँ](https://forum.groupdocs.com/c/comparison/12).

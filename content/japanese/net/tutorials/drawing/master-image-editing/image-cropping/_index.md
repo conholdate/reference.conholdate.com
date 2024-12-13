@@ -15,7 +15,7 @@ url: /ja/net/tutorials/drawing/master-image-editing/image-cropping/
 
 始める前に、以下のものを用意しておいてください。
 
--  Aspose.Drawingライブラリ: Aspose.Drawingライブラリが.NETプロジェクトに統合されていることを確認してください。ダウンロードできます。[ここ](https://releases.aspose.com/drawing/net/).
+- Aspose.Drawingライブラリ: Aspose.Drawingライブラリが.NETプロジェクトに統合されていることを確認してください。ダウンロードできます。[ここ](https://releases.aspose.com/drawing/net/).
   
 - 画像ディレクトリ: プロジェクト画像用のディレクトリを用意します。`"Your Document Directory"`コード スニペットに画像フォルダーへのパスを追加します。
 

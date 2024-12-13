@@ -72,7 +72,7 @@ Console.WriteLine("\nPDF files merge completed successfully. \nCheck output in {
 是的，它支持合并受密码保护的 PDF 文件，只要您具有访问它们的必要权限。
 
 ### 我可以使用 GroupDocs.Merger 合并非 PDF 文档格式吗？
-不可以，GroupDocs.Merger 是专门为 PDF 操作而设计的，不能合并其他文档格式。
+不可以，GroupDocs.Merger 专为 PDF 操作而设计，不能合并其他文档格式。
 
 ### GroupDocs.Merger 是否与 .NET Core 应用程序兼容？
 是的，GroupDocs.Merger 与 .NET Framework 和 .NET Core 环境兼容，为现代应用程序开发提供了灵活性。

@@ -196,7 +196,7 @@ Aspose.Diagram 利用 Visio 服務提供的進階功能來操作伺服器上的 
 
 Aspose.CAD for Java 允許開發人員將 AutoCAD DWG、DWF 和 DXF 檔案轉換為 PDF 和光柵影像。它是本機 API，不需要安裝 AutoCAD 或任何軟體。
 
-您也可以轉換 AutoCAD 檔案中選定的圖層和佈局。轉換為 PDF 和光柵圖像的品質非常高。
+您也可以從 AutoCAD 檔案轉換選定的圖層和佈局。轉換為 PDF 和光柵圖像的品質非常高。
 
 在專案中使用 Aspose.CAD for Java 為您帶來以下好處：
 
@@ -219,7 +219,7 @@ Aspose.CAD for Java 允許開發人員將 AutoCAD DWG、DWF 和 DXF 檔案轉換
 
 **Welcome to Aspose.HTML for Java**
 
-Aspose.HTML for Java 是一種高階 HTML 操作 API，旨在直接在 Java 應用程式中執行各種 HTML 操作任務。該 API 還為 PDF 和 XPS 等固定佈局格式以及多種光柵影像格式提供高保真度渲染引擎。
+Aspose.HTML for Java 是一種高階 HTML 操作 API，旨在直接在 Java 應用程式中執行各種 HTML 操作任務。該 API 還為 PDF 和 XPS 等固定佈局格式以及多種光柵影像格式提供高保真渲染引擎。
 
 {{% /alert %}}
 
@@ -316,7 +316,7 @@ Aspose.PUB for Java API 可讓您在 Java 應用程式中使用 PUB 檔案。它
 
 **Welcome to Aspose.Font for Java**
 
-Aspose.Font for Java 是一個字體載入和繪圖函式庫。它支援多種字型格式，例如 TrueType（帶有 TrueType 集合）、CFF、OpenType 和 Type1。該 API 提供了豐富的功能來載入/儲存字體，並提供有關其資料結構以及所有字體類型支援的任何字形的資訊。它還提供所有字體類型的編碼資訊，表示字元代碼和字形標識符之間的對應。其渲染子系統可協助最終使用者渲染任何所需的字形或文字。可以透過使用簡單的圖形功能（移動點、畫線、曲線）來實現介面來呈現特殊字形。
+Aspose.Font for Java 是一個字體載入和繪圖函式庫。它支援多種字型格式，例如 TrueType（帶有 TrueType 集合）、CFF、OpenType 和 Type1。 API 提供了豐富的功能來載入/儲存字體，並提供有關其資料結構以及所有字體類型支援的任何字形的資訊。它還提供所有字體類型的編碼資訊，表示字元代碼和字形標識符之間的對應。其渲染子系統可協助最終使用者渲染任何所需的字形或文字。可以透過使用簡單的圖形功能（移動點、畫線、曲線）來實現介面來呈現特殊字形。
 {{% /alert %}}
 
 ## **Aspose.Font for Java**

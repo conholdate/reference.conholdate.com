@@ -82,7 +82,7 @@ Ja, es ist sowohl mit .NET Framework- als auch mit .NET Core-Anwendungen kompati
 
 ### Kann ich den Zusammenführungsprozess anpassen, beispielsweise die Reihenfolge der Dateien im zusammengeführten ZIP festlegen?
 
-Ja, Sie haben die volle Kontrolle über den Zusammenführungsprozess. Sie können die Reihenfolge der Dateien festlegen, indem Sie die Reihenfolge ändern, in der Sie die`Join()` Verfahren.
+ Ja, Sie haben die volle Kontrolle über den Zusammenführungsprozess. Sie können die Reihenfolge der Dateien festlegen, indem Sie die Reihenfolge ändern, in der Sie die`Join()` Verfahren.
 
 ### Benötigt GroupDocs.Merger für .NET eine Lizenz für die kommerzielle Nutzung?
 

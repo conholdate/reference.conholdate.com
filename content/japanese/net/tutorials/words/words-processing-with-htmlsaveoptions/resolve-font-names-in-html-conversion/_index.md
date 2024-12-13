@@ -15,7 +15,7 @@ url: /ja/net/tutorials/words/words-processing-with-htmlsaveoptions/resolve-font-
 
 始める前に、必要なものがすべて揃っていることを確認してください。
 
-1.  Aspose.Words for .NET: ダウンロード[ここ](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET: ダウンロード[ここ](https://releases.aspose.com/words/net/).
 2. 有効なライセンス: ライセンスを購入する[ここ](https://purchase.aspose.com/buy)または一時免許を取得する[ここ](https://purchase.aspose.com/temporary-license/).
 3. C# および .NET の基礎知識: C# の基本的なプログラミング概念を理解していることが前提となります。
 4. Visual Studio: .NET フレームワークをサポートするどのバージョンでも動作します。
@@ -78,7 +78,7 @@ doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 
 ## 結論
 
-これで完了です。これらの手順に従うことで、Aspose.Words for .NET を使用して Word 文書を HTML に変換するときにフォント名を正常に解決できました。これにより、フォントが正しく表示されるだけでなく、HTML 出力が洗練されてプロフェッショナルに見えるようになります。コーディングを楽しんでください。
+これで完了です。これらの手順に従うことで、Aspose.Words for .NET を使用して Word 文書を HTML に変換するときにフォント名を正常に解決できました。これにより、フォントが正しく表示されるだけでなく、HTML 出力が洗練されてプロフェッショナルに見えるようになります。コーディングをお楽しみください。
 
 ## よくある質問
 

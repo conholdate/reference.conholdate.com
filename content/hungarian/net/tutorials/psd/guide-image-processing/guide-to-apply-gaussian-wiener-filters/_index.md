@@ -19,7 +19,7 @@ Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik a következőkkel
    
 2. Mintakép: Készítsen legalább egy mintaképet PSD formátumban tesztelésre. Az Aspose.PSD dokumentációjában számos mintakép található.
 
-3. IDE-beállítás: A zökkenőmentes kódmegvalósításhoz egy .NET-kompatibilis Integrated Development Environment (IDE), például a Visual Studio ajánlott.
+3. IDE-beállítás: .NET-kompatibilis integrált fejlesztőkörnyezet (IDE), például a Visual Studio, ajánlott a zökkenőmentes kódmegvalósításhoz.
 
 ## 1. lépés: Importálja a szükséges névtereket
 

@@ -17,7 +17,7 @@ Zorg ervoor dat u het volgende hebt geregeld voordat u met deze tutorial begint:
 
 1. Basiskennis van C# en .NET: Kennis van de programmeertaal C# en het .NET Framework is vereist.
    
-2. Aspose.Note voor .NET-installatie: download en installeer de Aspose.Note-bibliotheek van de[Aspose-website](https://releases.aspose.com/note/net/).
+2.  Aspose.Note voor .NET-installatie: download en installeer de Aspose.Note-bibliotheek van de[Aspose-website](https://releases.aspose.com/note/net/).
 
 3. Ontwikkelomgeving: Stel een geschikte ontwikkelomgeving in, zoals Visual Studio.
 

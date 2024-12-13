@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Infine, salva il documento utilizzando le opzioni configurate. Questo genererà un nuovo file senza i punti elenco delle immagini.
 
 ```csharp
-// Salva il documento con le opzioni specificate
+//Salva il documento con le opzioni specificate
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

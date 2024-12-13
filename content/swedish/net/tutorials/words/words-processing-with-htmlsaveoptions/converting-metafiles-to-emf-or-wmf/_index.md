@@ -15,7 +15,7 @@ Att effektivt hantera och konvertera bildformat är en avgörande del av att ska
 
 För att säkerställa en smidig utvecklingsupplevelse, bekräfta att följande förutsättningar är uppfyllda:
 
-- Aspose.Words för .NET: Skaffa den senaste versionen från[Aspose releaser sida](https://releases.aspose.com/words/net/).
+-  Aspose.Words för .NET: Skaffa den senaste versionen från[Aspose releaser sida](https://releases.aspose.com/words/net/).
 - .NET Framework: Verifiera installationen av .NET Framework (eller .NET Core/5/6 beroende på din miljö).
 - Utvecklingsmiljö: Visual Studio rekommenderas för sina robusta funktioner.
 - C#-kunskaper: Grundläggande förtrogenhet med C#-programmering är viktigt.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## Steg 4: Ladda HTML i ett Word-dokument
 
-Använd de konfigurerade laddningsalternativen för att skapa en`Document` objekt från HTML-strängen.
+ Använd de konfigurerade laddningsalternativen för att skapa en`Document` objekt från HTML-strängen.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

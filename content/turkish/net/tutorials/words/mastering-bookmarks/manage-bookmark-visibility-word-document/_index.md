@@ -16,7 +16,7 @@ Aspose.Words for .NET ile belge düzenleme becerilerinizi geliştirmeye hazır m
 Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
 1. Visual Studio: .NET ile uyumlu herhangi bir sürüm.
-2.  Aspose.Words for .NET: İndirin[Burada](https://releases.aspose.com/words/net/).
+2. Aspose.Words for .NET: İndirin[Burada](https://releases.aspose.com/words/net/).
 3. Temel C# Bilgisi: Basit C# programları yazma konusunda bilgi sahibi olmak yeterli olacaktır.
 4. Örnek Bir Word Belgesi: Bu eğitim için yer imlerini içeren bir Word belgesi hazırlayın (örneğin, "Bookmarks.docx").
 

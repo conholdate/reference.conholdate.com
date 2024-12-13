@@ -15,7 +15,7 @@ Trong lĩnh vực phát triển .NET, việc xử lý hình ảnh có thể là 
 
 Trước khi bắt đầu, hãy đảm bảo bạn đã chuẩn bị những điều sau:
 
--  Thư viện Aspose.Drawing: Đảm bảo bạn đã tích hợp thư viện Aspose.Drawing vào dự án .NET của mình. Bạn có thể tải xuống[đây](https://releases.aspose.com/drawing/net/).
+- Thư viện Aspose.Drawing: Đảm bảo bạn đã tích hợp thư viện Aspose.Drawing vào dự án .NET của mình. Bạn có thể tải xuống[đây](https://releases.aspose.com/drawing/net/).
   
 -  Thư mục hình ảnh: Có một thư mục được chỉ định cho hình ảnh dự án của bạn. Bạn sẽ cần thay thế`"Your Document Directory"` trong đoạn mã có đường dẫn đến thư mục hình ảnh của bạn.
 
@@ -27,7 +27,7 @@ Bắt đầu bằng cách nhập các không gian tên cần thiết:
 using System.Drawing;
 ```
 
-Điều này sẽ chuẩn bị môi trường cho bạn làm việc với ảnh bitmap và đồ họa.
+Điều này sẽ chuẩn bị môi trường để bạn làm việc với ảnh bitmap và đồ họa.
 
 ## Bước 2: Tạo Bitmap
 
@@ -115,4 +115,4 @@ Thật vậy! Aspose.Drawing nổi trội trong xử lý hàng loạt, giúp x�
 
 ### Tôi có thể nhận hỗ trợ cho các câu hỏi liên quan đến Aspose.Drawing ở đâu?
 
- Để được hỗ trợ, hãy truy cập[Diễn đàn Aspose.Drawing](https://forum.aspose.com/c/diagram/17) để kết nối với cộng đồng và tìm kiếm sự trợ giúp cho các thắc mắc của bạn.
+Để được hỗ trợ, hãy truy cập[Diễn đàn Aspose.Drawing](https://forum.aspose.com/c/diagram/17) để kết nối với cộng đồng và tìm kiếm sự trợ giúp cho các thắc mắc của bạn.

@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 अब, आइए दस्तावेज़ को एक निश्चित HTML फ़ाइल के रूप में सेव करें। यहीं पर जादू होता है!
 
 ```csharp
-//दस्तावेज़ को निश्चित HTML में बदलें
+// दस्तावेज़ को निश्चित HTML में बदलें
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

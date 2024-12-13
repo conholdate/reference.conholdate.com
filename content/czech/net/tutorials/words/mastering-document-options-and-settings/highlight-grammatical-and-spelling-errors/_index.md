@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## Krok 1: Nastavte svůj projekt
 
-Nejprve vytvořte nový projekt .NET ve svém IDE. Přidejte odkaz na knihovnu Aspose.Words. Pokud jste si jej ještě nestáhli, můžete tak učinit z[zde](https://releases.aspose.com/words/net/).
+ Nejprve vytvořte nový projekt .NET ve svém IDE. Přidejte odkaz na knihovnu Aspose.Words. Pokud jste si jej ještě nestáhli, můžete tak učinit z[zde](https://releases.aspose.com/words/net/).
 
 ## Krok 2: Definujte adresář dokumentů
 

@@ -63,7 +63,7 @@ options.RenderComments = true; // Abilita il rendering dei commenti
 ```
 
 ## Passaggio 5: rendering del documento con commenti
- Chiama il`View` metodo sul`Viewer` oggetto con le opzioni configurate.
+ Chiama il`View`metodo sul`Viewer` oggetto con le opzioni configurate.
 
 ```csharp
 viewer.View(options);

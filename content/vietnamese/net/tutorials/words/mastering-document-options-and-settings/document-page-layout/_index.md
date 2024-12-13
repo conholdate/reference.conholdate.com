@@ -15,7 +15,7 @@ Thiết lập bố cục trang tài liệu của bạn có thể là một nhi�
 
 Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
 
--  Aspose.Words cho .NET: Tải xuống[đây](https://releases.aspose.com/words/net/).
+- Aspose.Words cho .NET: Tải xuống[đây](https://releases.aspose.com/words/net/).
 -  Giấy phép hợp lệ: Mua một giấy phép[đây](https://purchase.aspose.com/buy) hoặc xin giấy phép tạm thời[đây](https://purchase.aspose.com/temporary-license/).
 - Hiểu biết cơ bản về lập trình C#: Đừng lo, tôi sẽ giải thích đơn giản thôi.
 - Môi trường phát triển tích hợp (IDE): Visual Studio được khuyến khích sử dụng.

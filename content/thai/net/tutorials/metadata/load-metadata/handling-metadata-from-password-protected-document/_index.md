@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## ขั้นตอนที่ 3: โหลดข้อมูลเมตาจากเอกสาร
 
- การใช้`Metadata` คลาส คุณสามารถโหลดข้อมูลเมตาจากเอกสารที่ระบุได้ โปรดจำไว้ว่าต้องแทนที่`"YourInputFile"` พร้อมเส้นทางไปยังเอกสารของคุณ:
+ การใช้`Metadata` คลาส คุณสามารถโหลดข้อมูลเมตาจากเอกสารที่ระบุได้ โปรดจำไว้ว่าต้องแทนที่`"YourInputFile"`พร้อมเส้นทางไปยังเอกสารของคุณ:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

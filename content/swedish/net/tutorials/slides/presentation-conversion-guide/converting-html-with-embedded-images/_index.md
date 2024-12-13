@@ -101,7 +101,7 @@ Att konvertera PowerPoint-presentationer till HTML med inbäddade bilder är enk
 Ja, Aspose.Slides stöder animationer under export. Men kompatibiliteten för animationer i HTML beror på hur komplex den ursprungliga presentationen är.
 
 ### Vilka andra format kan exporteras med Aspose.Slides?
-Biblioteket stöder många format, inklusive PDF, PNG och SVG. Se till[dokumentation](https://reference.aspose.com/slides/net/) för detaljer.
+ Biblioteket stöder många format, inklusive PDF, PNG och SVG. Se till[dokumentation](https://reference.aspose.com/slides/net/) för detaljer.
 
 ### Finns teknisk support tillgänglig för Aspose.Slides?
  Ja, du kan söka hjälp på[Aspose supportforum](https://forum.aspose.com/c/slides/11).

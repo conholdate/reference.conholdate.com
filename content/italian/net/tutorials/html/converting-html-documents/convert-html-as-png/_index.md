@@ -17,7 +17,7 @@ Prima di passare al codice, assicuriamoci di aver impostato tutto correttamente:
 
 1.  .NET Framework/ .NET Core: assicurati di avere installato .NET Framework o .NET Core sul tuo computer. Puoi scaricare[.NET qui](https://dotnet.microsoft.com/download).
 
-2.  Libreria Aspose.HTML per .NET: avrai bisogno della libreria Aspose.HTML. Puoi scaricarla[Qui](https://releases.aspose.com/html/net/)oppure provalo gratuitamente con un[prova gratuita](https://releases.aspose.com/).
+2.  Libreria Aspose.HTML per .NET: avrai bisogno della libreria Aspose.HTML. Puoi scaricarla[Qui](https://releases.aspose.com/html/net/) oppure provalo gratuitamente con un[prova gratuita](https://releases.aspose.com/).
 
 3. IDE: per scrivere ed eseguire il codice si consiglia di utilizzare un ambiente di sviluppo integrato (IDE) adatto, come Visual Studio.
 
@@ -53,7 +53,7 @@ La prima cosa che vuoi fare è impostare una directory in cui salvare le tue imm
 string dataDir = "Your Data Directory"; // Specificare il percorso della directory
 ```
 
--  Sostituire`"Your Data Directory"` con il percorso in cui vuoi salvare i tuoi file PNG di output. Potrebbe essere qualcosa del tipo`@"C:\work\"`.
+-  Sostituire`"Your Data Directory"`con il percorso in cui vuoi salvare i tuoi file PNG di output. Potrebbe essere qualcosa del tipo`@"C:\work\"`.
 
 ## Passaggio 2: creare un oggetto documento HTML
 
@@ -79,7 +79,7 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  IL`HtmlRenderer`è il tuo oggetto di riferimento per trasformare contenuti HTML in immagini. Gestisce il processo di rendering in background, così puoi concentrarti su ciò di cui hai bisogno!
+-  IL`HtmlRenderer` è il tuo oggetto di riferimento per trasformare contenuti HTML in immagini. Gestisce il processo di rendering in background, così puoi concentrarti su ciò di cui hai bisogno!
 
 ## Passaggio 4: impostare il dispositivo di immagine
 

@@ -9,7 +9,7 @@ url: /nl/net/tutorials/barcode/mastering-codabar-encoding-and-checksum/guide-to-
 ---
 ## Invoering
 
-Codabar is een populaire lineaire barcodesymboliek die veel wordt gebruikt in verschillende branches vanwege de eenvoud en efficiëntie bij het labelen en identificeren. Een belangrijk kenmerk van Codabar is de checksumberekening, die helpt de nauwkeurigheid en integriteit van de gecodeerde gegevens te waarborgen. In deze handleiding leiden we u door de stappen om Codabar-barcodes te berekenen en genereren met verschillende checksumtypen met behulp van Aspose.BarCode voor .NET.
+Codabar is een populaire lineaire barcodesymboliek die veel wordt gebruikt in verschillende branches vanwege de eenvoud en efficiëntie bij het labelen en identificeren. Een belangrijk kenmerk van Codabar is de checksumberekening, die helpt de nauwkeurigheid en integriteit van de gecodeerde gegevens te garanderen. In deze handleiding leiden we u door de stappen om Codabar-barcodes te berekenen en genereren met verschillende checksumtypen met behulp van Aspose.BarCode voor .NET.
 
 ## Vereisten
 

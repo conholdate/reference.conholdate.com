@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## 3. lépés: Határozza meg a fájlformátumot
 
- Most használjuk a`DetectFileFormat` módszer a`FileFormatUtil`osztályt, hogy információkat gyűjtsön a fájlformátumról. Ebben a példában feltételezzük, hogy a titkosított dokumentum neve "Encrypted.docx", és a megadott könyvtárban található:
+ Most használjuk a`DetectFileFormat` módszer a`FileFormatUtil` osztályt, hogy információkat gyűjtsön a fájlformátumról. Ebben a példában feltételezzük, hogy a titkosított dokumentum neve "Encrypted.docx", és a megadott könyvtárban található:
 
 ```csharp
 FileFormatInfo info = FileFormatUtil.DetectFileFormat(dataDir + "Encrypted.docx");
@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## Következtetés
 
- És ennyi! Sikeresen ellenőrizte egy Word-dokumentum titkosítási állapotát az Aspose.Words for .NET használatával. Lenyűgöző, hogy néhány soros kód mennyire képes leegyszerűsíteni az ilyen feladatokat. Ha bármilyen kérdése van, vagy bármilyen problémája van, forduljon bizalommal a[Aspose támogatási fórum](https://forum.aspose.com/c/words/8).
+És ennyi! Sikeresen ellenőrizte egy Word-dokumentum titkosítási állapotát az Aspose.Words for .NET használatával. Lenyűgöző, hogy néhány soros kód mennyire képes leegyszerűsíteni az ilyen feladatokat. Ha bármilyen kérdése van, vagy bármilyen problémája van, forduljon bizalommal a[Aspose támogatási fórum](https://forum.aspose.com/c/words/8).
 
 ## GYIK
 

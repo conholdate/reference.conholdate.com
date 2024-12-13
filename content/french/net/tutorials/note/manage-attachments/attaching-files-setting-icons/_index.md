@@ -35,7 +35,7 @@ Vous trouverez ci-dessous la mise en œuvre détaillée étape par étape.
 
 ## Étape 1 : Créer un nouveau document OneNote
 
- Initialisez un nouveau document OneNote à l'aide de l'`Document` classe.
+ Initialisez un nouveau document OneNote à l'aide de l'`Document`classe.
 
 ```csharp
 Document doc = new Document();
@@ -117,13 +117,13 @@ Oui, vous pouvez joindre plusieurs fichiers en répétant le processus de pièce
 ### Quels formats d’image sont pris en charge pour les icônes ?
 Aspose.Note prend en charge les formats JPEG, PNG, BMP et GIF pour les icônes de pièces jointes.
 
-### Est-il possible de joindre dynamiquement des fichiers à partir d'URL externes ?
+### Est-il possible de joindre des fichiers de manière dynamique à partir d'URL externes ?
  Vous pouvez télécharger des fichiers à l'aide de bibliothèques .NET telles que`HttpClient` puis attachez-les à l'aide d'Aspose.Note.
 
 ### Existe-t-il des limitations quant à la taille des fichiers pour les pièces jointes ?
 Il n'y a pas de limite de taille explicite imposée par Aspose.Note, mais assurez-vous que les ressources de votre système peuvent gérer des fichiers volumineux.
 
 ### Les icônes peuvent-elles être redimensionnées avant d’être définies ?
-Oui, vous pouvez manipuler l'image de l'icône à l'aide de .NET`System.Drawing` bibliothèque avant de la joindre.
+ Oui, vous pouvez manipuler l'image de l'icône à l'aide de .NET`System.Drawing` bibliothèque avant de la joindre.
 
  Pour obtenir de l'aide, consultez le[documentation](https://reference.aspose.com/words/net/) ou contactez-nous[Assistance Aspose](https://forum.aspose.com/c/words/8).

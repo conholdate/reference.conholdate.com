@@ -74,11 +74,11 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
-Tato část ukazuje, jak vytvořit a`Graphics` objekt, vyčistěte povrch a přidejte dva obdélníky s odlišnými barvami a polohami. Jakmile jsou vaše kresby hotové, uložte obrázek, aby změny zůstaly zachovány.
+ Tato část ukazuje, jak vytvořit a`Graphics` objekt, vyčistěte povrch a přidejte dva obdélníky s odlišnými barvami a polohami. Jakmile jsou vaše kresby hotové, uložte obrázek, aby změny zůstaly zachovány.
 
 ## Krok 4: Uložte obrázek
 
- Uložení konečného obrázku je jednoduché, jak je znázorněno výše na obrázku`using` prohlášení kde`image.Save()` se volá automaticky, když je`using` blok končí.
+ Uložení konečného obrázku je jednoduché, jak je znázorněno výše na obrázku`using` prohlášení kde`image.Save()`se volá automaticky, když je`using` blok končí.
 
 ## Závěr
 

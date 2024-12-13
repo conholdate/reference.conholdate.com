@@ -15,7 +15,7 @@ url: /ko/net/tutorials/words/words-processing-with-htmlsaveoptions/resolve-font-
 
 시작하기 전에 필요한 모든 것이 있는지 확인하세요.
 
-1.  Aspose.Words for .NET: 다운로드[여기](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET: 다운로드[여기](https://releases.aspose.com/words/net/).
 2.  유효한 라이센스: 라이센스를 구매하세요[여기](https://purchase.aspose.com/buy) 또는 임시 면허를 받으세요[여기](https://purchase.aspose.com/temporary-license/).
 3. C# 및 .NET에 대한 기본 지식: C#의 기본 프로그래밍 개념에 익숙하다고 가정합니다.
 4. Visual Studio: .NET Framework를 지원하는 모든 버전이 작동합니다.
@@ -74,7 +74,7 @@ HtmlSaveOptions saveOptions = new HtmlSaveOptions(SaveFormat.Html)
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- 우리는 호출합니다`Save` 방법에 대한`Document` 객체, 출력 경로와 우리가 구성한 저장 옵션을 지정합니다. 이것은 글꼴 이름이 해결된 HTML 파일을 생성합니다.
+ 우리는 호출합니다`Save`방법에 대한`Document` 객체, 출력 경로와 우리가 구성한 저장 옵션을 지정합니다. 이것은 글꼴 이름이 해결된 HTML 파일을 생성합니다.
 
 ## 결론
 
@@ -92,7 +92,7 @@ Aspose.Words for .NET은 개발자가 Word 문서를 프로그래밍 방식으�
  네, 하지만 몇 가지 제한이 있습니다. 모든 기능을 사용하려면 라이센스를 구매하세요.[여기](https://purchase.aspose.com/buy) 또는 임시 면허를 받으세요[여기](https://purchase.aspose.com/temporary-license/).
 
 ### HTML에서 글꼴이 올바르게 표시되지 않는 이유는 무엇인가요?
- 이 문제는 변환 중에 글꼴이 제대로 해결되지 않으면 발생할 수 있습니다. 설정`ResolveFontNames = true` ~에`HtmlSaveOptions` 이 문제를 해결하는 데 도움이 될 수 있습니다.
+이 문제는 변환 중에 글꼴이 제대로 해결되지 않으면 발생할 수 있습니다. 설정`ResolveFontNames = true` ~에`HtmlSaveOptions` 이 문제를 해결하는 데 도움이 될 수 있습니다.
 
 ### Aspose.Words for .NET에 대한 지원은 어디에서 받을 수 있나요?
  당신은에서 지원을 받을 수 있습니다[Aspose.Words 지원 포럼](https://forum.aspose.com/c/words/8).

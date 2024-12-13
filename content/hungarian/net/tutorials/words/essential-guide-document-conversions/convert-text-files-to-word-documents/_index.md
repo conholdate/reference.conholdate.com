@@ -28,10 +28,10 @@ using Aspose.Words;
 
 ## 1. lépés: Töltse be a szöveges fájlt
 
-Először is be kell töltenie a szöveges fájlt egy Aspose.Words-be`Document` objektum. Íme, hogyan:
+ Először is be kell töltenie a szöveges fájlt egy Aspose.Words-be`Document` objektum. Íme, hogyan:
 
 ```csharp
-// Adja meg a könyvtár elérési útját, ahol a szövegfájl található
+//Adja meg a könyvtár elérési útját, ahol a szövegfájl található
 string dataDir = "YOUR_DOCUMENT_DIRECTORY/";
 
 // Töltse be a szövegfájlt egy dokumentum objektumba

@@ -99,10 +99,10 @@ Grattis! Du har framgångsrikt lagt till japanska som redigeringsspråk till dit
  Ja, en licens krävs för kommersiellt bruk. Du kan köpa en[här](https://purchase.aspose.com/buy) eller skaffa en tillfällig licens[här](https://purchase.aspose.com/temporary-license/).
 
 ### Vilka andra funktioner erbjuder Aspose.Words för .NET?
- Aspose.Words för .NET tillhandahåller ett brett utbud av funktioner, inklusive generering, konvertering och manipulering av dokument. Utforska[dokumentation](https://reference.aspose.com/words/net/) för mer information.
+Aspose.Words för .NET tillhandahåller ett brett utbud av funktioner, inklusive generering, konvertering och manipulering av dokument. Utforska[dokumentation](https://reference.aspose.com/words/net/) för mer information.
 
 ### Kan jag prova Aspose.Words för .NET innan jag köper det?
  Absolut! Du kan ladda ner en gratis testversion[här](https://releases.aspose.com/).
 
 ### Var kan jag få support för Aspose.Words för .NET?
-Du kan söka stöd från Aspose-gemenskapen[här](https://forum.aspose.com/c/words/8).
+ Du kan söka stöd från Aspose-gemenskapen[här](https://forum.aspose.com/c/words/8).

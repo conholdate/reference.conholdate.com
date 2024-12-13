@@ -25,7 +25,7 @@ Przed rozpoczęciem procesu konwersji należy upewnić się, że spełnione są 
    Skonfiguruj środowisko IDE zgodne z platformą .NET, np. Visual Studio.
 
 4. Wiedza o C#  
-   Aby zaimplementować fragmenty kodu zawarte w tym przewodniku, zalecana jest znajomość języka C#.
+   Aby wdrożyć fragmenty kodu zawarte w tym przewodniku, zalecana jest znajomość języka C#.
 
 ## Importuj niezbędne przestrzenie nazw
 
@@ -101,7 +101,7 @@ Konwersja prezentacji PowerPoint do HTML z osadzonymi obrazami jest prosta dzię
 Tak, Aspose.Slides obsługuje animacje podczas eksportu. Jednak zgodność animacji w HTML zależy od złożoności oryginalnej prezentacji.
 
 ### Jakie inne formaty można eksportować za pomocą Aspose.Slides?
-Biblioteka obsługuje wiele formatów, w tym PDF, PNG i SVG. Zapoznaj się z[dokumentacja](https://reference.aspose.com/slides/net/) Więcej szczegółów.
+ Biblioteka obsługuje wiele formatów, w tym PDF, PNG i SVG. Zapoznaj się z[dokumentacja](https://reference.aspose.com/slides/net/) Więcej szczegółów.
 
 ### Czy dla Aspose.Slides dostępna jest pomoc techniczna?
  Tak, możesz szukać pomocy na[Forum wsparcia Aspose](https://forum.aspose.com/c/slides/11).

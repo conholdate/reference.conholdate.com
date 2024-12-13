@@ -17,7 +17,7 @@ Bevor wir beginnen, stellen Sie bitte sicher, dass die folgenden Voraussetzungen
 
 1. Grundkenntnisse in C#: Vertrautheit mit der Programmiersprache C# wird vorausgesetzt.
 2.  Aspose.Tasks-Installation: Stellen Sie sicher, dass Sie Aspose.Tasks für .NET in Ihrer Entwicklungsumgebung installiert haben. Sie können es ganz einfach von der[Aspose-Website](https://www.aspose.com).
-3. Microsoft Project-Datei: Halten Sie eine Microsoft Project-Datei zur Konvertierung bereit (mit einer`.mpp` Verlängerung).
+3.  Microsoft Project-Datei: Halten Sie eine Microsoft Project-Datei zur Konvertierung bereit (mit einer`.mpp` Verlängerung).
 
 ## Erforderliche Namespaces importieren
 
@@ -47,7 +47,7 @@ var options = new HtmlSaveOptions();
 
 ## Schritt 3: Projektdaten als HTML speichern
 
- Jetzt ist es an der Zeit, Ihre Projektdaten im HTML-Format zu speichern. Geben Sie den Ausgabepfad anstelle von`"OutputFilePath.html"`.
+ Jetzt ist es an der Zeit, Ihre Projektdaten im HTML-Format zu speichern. Geben Sie den Ausgabepfad an anstelle von`"OutputFilePath.html"`.
 
 ```csharp
 project.Save("OutputFilePath.html", options);

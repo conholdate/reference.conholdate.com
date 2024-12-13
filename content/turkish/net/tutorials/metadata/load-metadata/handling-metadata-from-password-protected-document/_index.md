@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## Adım 3: Belgeden Meta Verileri Yükle
 
- Kullanımı`Metadata` sınıfı, belirtilen belgeden meta veri yükleyebilirsiniz. Değiştirmeyi unutmayın`"YourInputFile"` belgenizin yolunu belirtin:
+ Kullanımı`Metadata` sınıfı, belirtilen belgeden meta veri yükleyebilirsiniz. Değiştirmeyi unutmayın`"YourInputFile"`belgenizin yolunu belirtin:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

@@ -42,7 +42,7 @@ Diese Importe bieten Zugriff auf die erforderlichen Klassen und Methoden zur Dat
 
 ## Schritt 1: Verzeichnisse für organisierte Ausgabe initialisieren
 
-Erstellen Sie Verzeichnisse zum Speichern von Dateien basierend auf dem erkannten Format.
+Erstellen Sie Verzeichnisse zum Speichern von Dateien basierend auf ihrem erkannten Format.
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY/";

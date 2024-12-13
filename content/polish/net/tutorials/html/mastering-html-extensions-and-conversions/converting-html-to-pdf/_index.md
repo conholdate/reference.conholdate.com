@@ -19,7 +19,7 @@ Zanim zaczniemy, upewnij się, że masz następujące rzeczy:
 Upewnij się, że masz zainstalowany i skonfigurowany program Visual Studio lub inne preferowane środowisko IDE .NET na potrzeby swojego projektu.
 
 ### 2. Biblioteka Aspose.HTML dla .NET
-Pobierz i zainstaluj bibliotekę Aspose.HTML dla .NET. Znajdziesz ją pod poniższym linkiem:[Aspose.HTML dla .NET](https://releases.aspose.com/html/net/).
+ Pobierz i zainstaluj bibliotekę Aspose.HTML dla .NET. Znajdziesz ją pod poniższym linkiem:[Aspose.HTML dla .NET](https://releases.aspose.com/html/net/).
 
 ### 3. Podstawowa wiedza z zakresu C# i .NET
 Podstawowa znajomość języków C# i .NET pozwoli Ci efektywnie korzystać z tego samouczka.
@@ -52,7 +52,7 @@ HTMLDocument htmlDocument = new HTMLDocument(dataDir + "input.html");
 ```
 
 ## Krok 3: Skonfiguruj opcje zapisywania pliku PDF
- Organizować coś`PdfSaveOptions`aby zdefiniować ustawienia konwersji PDF, takie jak jakość obrazu i układ. Na przykład, możesz ustawić jakość JPEG na 100:
+ Organizować coś`PdfSaveOptions` aby zdefiniować ustawienia konwersji PDF, takie jak jakość obrazu i układ. Na przykład, możesz ustawić jakość JPEG na 100:
 
 ```csharp
 PdfSaveOptions options = new PdfSaveOptions
@@ -75,7 +75,7 @@ string outputPDF = dataDir + "HTMLtoPDF_Output.pdf";
 Converter.ConvertHTML(htmlDocument, options, outputPDF);
 ```
 
-I w ten oto sposób Twoja zawartość HTML została pomyślnie przekonwertowana na dokument PDF za pomocą Aspose.HTML dla .NET!
+w ten oto sposób Twoja zawartość HTML została pomyślnie przekonwertowana na dokument PDF za pomocą Aspose.HTML dla .NET!
 
 ## Wniosek
 
@@ -92,7 +92,7 @@ Aspose.HTML for .NET to zaawansowana biblioteka przeznaczona dla programistów, 
 ### Czy jest dostępna bezpłatna wersja próbna Aspose.HTML dla .NET?
  Tak, możesz pobrać bezpłatną wersję próbną Aspose.HTML dla .NET tutaj:[Aspose.HTML dla .NET Bezpłatna wersja próbna](https://releases.aspose.com/).
 
-### W jaki sposób mogę uzyskać tymczasową licencję na Aspose.HTML dla platformy .NET?
+### jaki sposób mogę uzyskać tymczasową licencję na Aspose.HTML dla platformy .NET?
  Możesz poprosić o tymczasową licencję, klikając ten link:[Tymczasowa licencja dla Aspose.HTML dla .NET](https://purchase.conholdate.com/temporary-license/).
 
 ### Gdzie mogę szukać pomocy technicznej dotyczącej Aspose.HTML dla .NET?

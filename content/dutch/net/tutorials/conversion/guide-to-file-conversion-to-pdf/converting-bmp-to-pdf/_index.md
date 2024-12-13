@@ -92,8 +92,8 @@ Nee, de bibliotheek is zelfstandig en vereist geen extra afhankelijkheden voor b
 
 ### Is er een proefversie beschikbaar om te testen?
 
-Ja, u kunt een gratis proefversie downloaden van de[releases pagina](https://releases.groupdocs.com/) om de mogelijkheden van de bibliotheek te verkennen voordat u tot aankoop overgaat.
+ Ja, u kunt een gratis proefversie downloaden van de[releases pagina](https://releases.groupdocs.com/) om de mogelijkheden van de bibliotheek te verkennen voordat u tot aankoop overgaat.
 
 ### Waar kan ik hulp of ondersteuning krijgen?
 
- Als u problemen ondervindt, kunt u de volgende website bezoeken:[GroupDocs.Conversion-forum](https://forum.groupdocs.com/c/conversion/11) voor community-gedreven ondersteuning of neem contact op met hun ondersteuningsteam voor persoonlijke assistentie.
+Als u problemen ondervindt, kunt u de volgende website bezoeken:[GroupDocs.Conversion-forum](https://forum.groupdocs.com/c/conversion/11) voor community-gedreven ondersteuning of neem contact op met hun ondersteuningsteam voor persoonlijke assistentie.

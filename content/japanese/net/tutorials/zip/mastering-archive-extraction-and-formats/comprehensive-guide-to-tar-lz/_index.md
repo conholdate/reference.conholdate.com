@@ -28,7 +28,7 @@ using Aspose.Zip.Tar;
 ```
 ## ステップ1: ドキュメントディレクトリを設定する
 
-パスを指定してドキュメントの場所を指定します。`dataDir`変数：
+ドキュメントの場所を指定するには、パスを割り当てます。`dataDir`変数：
 
 ```csharp
 string dataDir = "YourDocumentDirectoryPath"; //実際のパスに置き換えてください
@@ -51,7 +51,7 @@ using (TarArchive archive = new TarArchive())
 
 - `using (TarArchive archive = new TarArchive())` この行は、`TarArchive`クラスは、TAR アーカイブのコンテナーとして機能します。
 - `archive.CreateEntry("alice29.txt", dataDir + "alice29.txt")`: このメソッドは、指定されたファイルをアーカイブに追加します。
-- `archive.SaveLzipped(dataDir + "archive.tar.lz")`: この行は、作成された TAR アーカイブを LZ 形式で指定された場所に保存します。
+- `archive.SaveLzipped(dataDir + "archive.tar.lz")`: この行は、作成された TAR アーカイブを指定された場所に LZ 形式で保存します。
 
 ## ステップ3: 複数のファイルを圧縮する
 

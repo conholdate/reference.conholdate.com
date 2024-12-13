@@ -82,7 +82,7 @@ Evet, hem .NET Framework hem de .NET Core uygulamalarıyla uyumludur.
 
 ### Birleştirme sürecini özelleştirebilir miyim, örneğin birleştirilen ZIP'teki dosyaların sırasını belirleyebilir miyim?
 
-Evet, birleştirme süreci üzerinde tam kontrole sahipsiniz. Çağrı sırasını değiştirerek dosyaların sırasını belirtebilirsiniz.`Join()` yöntem.
+ Evet, birleştirme süreci üzerinde tam kontrole sahipsiniz. Çağrı sırasını değiştirerek dosyaların sırasını belirtebilirsiniz.`Join()` yöntem.
 
 ### GroupDocs.Merger for .NET'in ticari kullanımı için lisans gerekiyor mu?
 

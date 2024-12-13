@@ -13,7 +13,7 @@ Farklı dosya biçimleriyle ve bunların getirdiği kaosla uğraşmaktan yoruldu
 
 ## JPEG'i PDF'e dönüştürme
 
- Güzel bir JPEG resminiz olduğunu ve bunu cilalı bir PDF olarak paylaşmak istediğinizi hayal edin. İşte GroupDocs.Conversion tam da burada devreye giriyor. JPEG resimlerini PDF belgelerine dönüştürmek bu güçlü araçla çok kolay. Kodlama uzmanı veya yeni başlayan biri olmanız fark etmez; eğitimimiz sizi doğru yola sokmak için tüm ön koşulları ve temel kod parçacıklarını sağlar. Kütüphaneyi yükleme, ilk kod satırlarınızı yazma ve dönüştürmeyi sorunsuz bir şekilde yürütme konusunda size rehberlik edeceğiz. Tıklayabileceğiniz karmaşık süreçlerle neden uğraşasınız ki?[daha fazlasını okumak için](./converting-jpeg-to-pdf/) ve hemen başlayın?
+Güzel bir JPEG resminiz olduğunu ve bunu cilalı bir PDF olarak paylaşmak istediğinizi hayal edin. İşte GroupDocs.Conversion tam da burada devreye giriyor. JPEG resimlerini PDF belgelerine dönüştürmek bu güçlü araçla çok kolay. Kodlama uzmanı veya yeni başlayan biri olmanız fark etmez; eğitimimiz sizi doğru yola sokmak için tüm ön koşulları ve temel kod parçacıklarını sağlar. Kütüphaneyi yükleme, ilk kod satırlarınızı yazma ve dönüştürmeyi sorunsuz bir şekilde yürütme konusunda size rehberlik edeceğiz. Tıklayabileceğiniz karmaşık süreçlerle neden uğraşasınız ki?[daha fazlasını okumak için](./converting-jpeg-to-pdf/) ve hemen başlayın?
 
 ## Markdown'u GroupDocs.Conversion for .NET ile PDF'ye dönüştürün
 

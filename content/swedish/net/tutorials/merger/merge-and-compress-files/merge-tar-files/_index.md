@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Du skapar en ny`Merger` instans med sökvägen till din första TAR-fil.
 -  De`Join` metoden låter dig lägga till ytterligare en TAR-fil till sammanslagningen (detta steg är valfritt).
--  Till sist, ring`Save`för att slutföra sammanslagningsprocessen och skriva utdatafilen till den angivna katalogen.
+-  Till sist, ring`Save` för att slutföra sammanslagningsprocessen och skriva utdatafilen till den angivna katalogen.
 
 ## Steg 3: Visa meddelande om slutförande
 

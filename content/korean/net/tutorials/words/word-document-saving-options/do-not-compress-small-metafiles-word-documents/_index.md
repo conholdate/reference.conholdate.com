@@ -18,7 +18,7 @@ url: /ko/net/tutorials/words/word-document-saving-options/do-not-compress-small-
 1.  .NET용 Aspose.Words: 최신 버전을 다운로드하여 설치하세요.[Aspose 릴리스](https://releases.aspose.com/words/net/).
 2. 개발 환경: Visual Studio나 호환되는 IDE를 사용하세요.
 3. C#에 대한 기본적인 이해: C#와 .NET 프레임워크에 대한 지식이 도움이 됩니다.
-4.  Aspose 라이센스: Aspose.Words를 완전히 잠금 해제하려면 다음을 취득하세요.[특허](https://purchase.aspose.com/buy)권장됩니다. 또는 다음을 사용할 수 있습니다.[임시 면허](https://purchase.aspose.com/temporary-license/) 평가 목적으로.
+4.  Aspose 라이센스: Aspose.Words를 완전히 잠금 해제하려면 다음을 취득하세요.[특허](https://purchase.aspose.com/buy) 권장됩니다. 또는 다음을 사용할 수 있습니다.[임시 면허](https://purchase.aspose.com/temporary-license/) 평가 목적으로.
 
 ## 네임스페이스 가져오기
 
@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## 3단계: 저장 옵션 구성
 
- 이제 "작은 메타파일 압축 안 함" 기능을 활용하기 위해 저장 옵션을 구성하십시오.`DocSaveOptions` 수업.
+ 이제 "작은 메타파일 압축 안 함" 기능을 활용하기 위해 저장 옵션을 구성하십시오.`DocSaveOptions`수업.
 
 ```csharp
 // "작은 메타파일 압축 안 함" 기능으로 저장 옵션 구성
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- 이 단계에서는 인스턴스가 생성됩니다.`DocSaveOptions`그리고 설정합니다`Compliance` 재산에`PdfCompliance.PdfA1a`문서가 PDF/A-1a 표준을 준수하는지 확인합니다.
+ 이 단계에서는 인스턴스가 생성됩니다.`DocSaveOptions` 그리고 설정합니다`Compliance` 재산에`PdfCompliance.PdfA1a`문서가 PDF/A-1a 표준을 준수하는지 확인합니다.
 
 ## 4단계: 문서 저장
 
 마지막으로 구성된 옵션을 사용하여 문서를 저장하고 작은 메타파일이 압축되지 않도록 합니다.
 
 ```csharp
-// 지정된 옵션으로 문서를 저장합니다.
+//지정된 옵션으로 문서를 저장합니다.
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 
 ### Aspose.Words for .NET을 사용하려면 라이선스가 필요합니까?
 
- 평가 목적으로 Aspose.Words for .NET을 라이선스 없이 사용할 수 있지만, 전체 기능을 사용하려면 라이선스가 필요합니다. 라이선스를 구매할 수 있습니다.[여기](https://purchase.aspose.com/buy) 또는 시도해보세요[임시 면허](https://purchase.aspose.com/temporary-license/) 평가를 위해서.
+평가 목적으로 Aspose.Words for .NET을 라이선스 없이 사용할 수 있지만, 전체 기능을 사용하려면 라이선스가 필요합니다. 라이선스를 구매할 수 있습니다.[여기](https://purchase.aspose.com/buy) 또는 시도해보세요[임시 면허](https://purchase.aspose.com/temporary-license/) 평가를 위해서.
 
 ### 내 문서가 PDF/A 표준을 준수하는지 어떻게 확인할 수 있나요?
 

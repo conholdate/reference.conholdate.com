@@ -32,7 +32,7 @@ using Aspose.Imaging.Sources;
 
 ## Paso 2: Crea una imagen
 
-A continuación, crearemos una nueva imagen. El siguiente fragmento de código demuestra cómo configurar una imagen con propiedades específicas:
+continuación, crearemos una nueva imagen. El siguiente fragmento de código demuestra cómo configurar una imagen con propiedades específicas:
 
 ```csharp
 string dataDir = "Your Document Directory/rectangles.bmp"; // Ruta donde se guardará la imagen
@@ -74,11 +74,11 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
-Esta sección demuestra cómo crear un`Graphics` Objeto, limpia la superficie y agrega dos rectángulos con colores y posiciones distintos. Una vez que hayas terminado los dibujos, guarda la imagen para conservar los cambios.
+ Esta sección demuestra cómo crear un`Graphics` Objeto, limpia la superficie y agrega dos rectángulos con colores y posiciones distintos. Una vez que hayas terminado los dibujos, guarda la imagen para conservar los cambios.
 
 ## Paso 4: Guarda la imagen
 
- Guardar la imagen final es sencillo, como se muestra arriba.`using` declaración donde`image.Save()` se llama automáticamente cuando el`using` El bloque termina.
+ Guardar la imagen final es sencillo, como se muestra arriba.`using` declaración donde`image.Save()`se llama automáticamente cuando el`using` El bloque termina.
 
 ## Conclusión
 

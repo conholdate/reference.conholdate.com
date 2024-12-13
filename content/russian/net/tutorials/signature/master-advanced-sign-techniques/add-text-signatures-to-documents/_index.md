@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithText", 
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // X-позиция
+    Left = 50, //X-позиция
     Top = 200, // Y-позиция
     Width = 100, // Ширина подписи
     Height = 30, // Высота подписи

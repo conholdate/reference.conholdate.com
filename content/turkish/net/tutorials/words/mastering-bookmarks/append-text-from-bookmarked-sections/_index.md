@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Kaynak ve hedef Word belgelerimizi yükleyerek ve gerekli değişkenleri başlatarak başlayalım.
 
 ```csharp
-// Kaynak ve hedef belgeleri yükleyin.
+//Kaynak ve hedef belgeleri yükleyin.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,7 +110,7 @@ Evet, her yer imi için işlemi tekrarlayabilir ve ihtiyacınıza göre metin ek
 Mevcut örnek, aynı ebeveyne sahip olduklarını varsayar. Eğer sahip değillerse, daha karmaşık bir işleme uygulamanız gerekecektir.
 
 ### Eklenen metnin orijinal biçimi korunacak mı?
- Kesinlikle! Kullanarak`ImportFormatMode.KeepSourceFormatting` orijinal biçimlendirmenin korunmasını sağlar.
+ Kesinlikle! Kullanarak`ImportFormatMode.KeepSourceFormatting`orijinal biçimlendirmenin korunmasını sağlar.
 
 ### Hedef belgede belirli bir konuma metin eklemek mümkün müdür?
 Evet, hedef belgedeki uygun düğüme giderek istediğiniz herhangi bir konuma metin ekleyebilirsiniz.

@@ -18,7 +18,7 @@ Innan vi fortsätter, se till att du har följande:
 1. Aspose.GIS för .NET Library  
     Ladda ner och installera biblioteket från[Aspose.GIS för .NET-sida](https://reference.aspose.com/gis/net/).
 
-2. En filgeodatabas (GDB) Dataset  
+2. En filgeodatabas (GDB) datauppsättning  
    Se till att du har en befintlig GDB-datauppsättning för operationen.
 
 3. Utvecklingsmiljö  
@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // Skapa ett nytt lager med WGS 84 rumsliga referenssystem
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //Lägg till ett attributschema
+        // Lägg till ett attributschema
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // Skapa och lägg till en funktion

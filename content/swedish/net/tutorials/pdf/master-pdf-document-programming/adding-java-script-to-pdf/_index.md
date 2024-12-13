@@ -1,7 +1,7 @@
 ---
 title: Lägga till Java-skript till PDF-fil
 linktitle: Lägg till Java Script PDF-fil
-second_title: Aspose.PDF för .NET API Referens
+second_title: Aspose.PDF för .NET API-referens
 description: Det här dokumentet ger en omfattande guide för att lägga till interaktiva element som popup-varningar eller automatiska utskriftsfunktioner till PDF-dokument med Aspose.PDF för .NET.
 type: docs
 weight: 10

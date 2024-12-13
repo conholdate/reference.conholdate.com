@@ -47,10 +47,10 @@ Siapkan dokumen PostScript Anda dengan konfigurasi yang diinginkan:
 string dataDir = "Your Document Directory"; // Tetapkan jalur direktori dokumen Anda
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //Siapkan opsi penyimpanan untuk ukuran A4
+    // Siapkan opsi penyimpanan untuk ukuran A4
     PsSaveOptions options = new PsSaveOptions();
     
-    // Buat dokumen PostScript baru dengan 2 halaman
+    //Buat dokumen PostScript baru dengan 2 halaman
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

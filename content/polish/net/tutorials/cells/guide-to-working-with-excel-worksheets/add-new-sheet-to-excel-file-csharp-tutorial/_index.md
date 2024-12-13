@@ -26,7 +26,7 @@ Zanim zaczniesz kodować, sprawdź, czy masz przygotowane następujące elementy
 1. Uruchom program Visual Studio i utwórz nowy projekt.
 2.  Przejdź do`Tools` >`NuGet Package Manager` >`Manage NuGet Packages for Solution`.
 3. Wyszukaj Aspose.Cells i zainstaluj najnowszą wersję.  
-   Po zainstalowaniu biblioteka będzie gotowa do użycia w projekcie.
+   Po zainstalowaniu biblioteka jest gotowa do użycia w projekcie.
 
 
 ## Importuj wymagane przestrzenie nazw

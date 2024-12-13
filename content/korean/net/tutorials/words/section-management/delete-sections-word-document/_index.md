@@ -55,7 +55,7 @@ doc.Sections[1].Remove();
 
 ## 결론
 
- Aspose.Words for .NET을 사용하면 Word 문서를 효율적이고 간단하게 조작할 수 있습니다. 섹션 삭제는 여러분이 사용할 수 있는 여러 강력한 기능 중 하나일 뿐입니다. 광범위한[선적 서류 비치](https://reference.aspose.com/words/net/) 문서 처리 작업을 향상시킬 수 있는 더 많은 기능을 알아보세요.
+Aspose.Words for .NET을 사용하면 Word 문서를 효율적이고 간단하게 조작할 수 있습니다. 섹션 삭제는 여러분이 사용할 수 있는 여러 강력한 기능 중 하나일 뿐입니다. 광범위한[선적 서류 비치](https://reference.aspose.com/words/net/) 문서 처리 작업을 향상시킬 수 있는 더 많은 기능을 알아보세요.
 
 ## 자주 묻는 질문
 

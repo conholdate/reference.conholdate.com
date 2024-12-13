@@ -19,7 +19,7 @@ Antes de comenzar, asegúrese de tener la siguiente configuración:
  Asegúrese de tener instalado el SDK de .NET en su equipo. Puede descargarlo desde[Sitio web .NET](https://dotnet.microsoft.com/download).
 
 ### Biblioteca GroupDocs.Conversion para .NET
-Descargue la biblioteca GroupDocs.Conversion para .NET desde[sitio](https://releases.groupdocs.com/conversion/net/)Siga las instrucciones de instalación para agregarlo a su proyecto.
+ Descargue la biblioteca GroupDocs.Conversion para .NET desde[sitio](https://releases.groupdocs.com/conversion/net/)Siga las instrucciones de instalación para agregarlo a su proyecto.
 
 ## Paso 1: Importar los espacios de nombres necesarios
 En su proyecto .NET, incluya los siguientes espacios de nombres para acceder a las funcionalidades de GroupDocs:

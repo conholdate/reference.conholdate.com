@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Langkah 5: Inisialisasi File Terlampir
 
- Tentukan jalur ke file yang ingin Anda lampirkan menggunakan`AttachedFile` kelas.
+ Tentukan jalur ke file yang ingin Anda lampirkan menggunakan`AttachedFile`kelas.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

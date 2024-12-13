@@ -15,7 +15,7 @@ url: /hi/net/tutorials/words/mastering-document-options-and-settings/document-pa
 
 आरंभ करने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित हैं:
 
--  .NET के लिए Aspose.Words: इसे डाउनलोड करें[यहाँ](https://releases.aspose.com/words/net/).
+- .NET के लिए Aspose.Words: इसे डाउनलोड करें[यहाँ](https://releases.aspose.com/words/net/).
 -  वैध लाइसेंस: एक खरीदें[यहाँ](https://purchase.aspose.com/buy) या अस्थायी लाइसेंस प्राप्त करें[यहाँ](https://purchase.aspose.com/temporary-license/).
 - C# प्रोग्रामिंग की बुनियादी समझ: चिंता न करें, मैं चीजों को सरल रखूंगा।
 - एकीकृत विकास वातावरण (आईडीई): विजुअल स्टूडियो अत्यधिक अनुशंसित है।

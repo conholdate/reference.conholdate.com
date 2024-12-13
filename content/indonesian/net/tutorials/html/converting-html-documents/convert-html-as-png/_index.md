@@ -17,7 +17,7 @@ Sebelum kita masuk ke kode, mari pastikan Anda telah menyiapkan semuanya dengan 
 
 1.  .NET Framework/ .NET Core: Pastikan Anda telah menginstal .NET Framework atau .NET Core di komputer Anda. Anda dapat mengunduh[.NET di sini](https://dotnet.microsoft.com/download).
 
-2.  Pustaka Aspose.HTML untuk .NET: Anda harus memiliki pustaka Aspose.HTML. Anda dapat mengunduhnya[Di Sini](https://releases.aspose.com/html/net/)atau coba gratis dengan[uji coba gratis](https://releases.aspose.com/).
+2.  Pustaka Aspose.HTML untuk .NET: Anda harus memiliki pustaka Aspose.HTML. Anda dapat mengunduhnya[Di Sini](https://releases.aspose.com/html/net/) atau coba gratis dengan[uji coba gratis](https://releases.aspose.com/).
 
 3. IDE: Lingkungan pengembangan terintegrasi (IDE) yang sesuai seperti Visual Studio direkomendasikan untuk menulis dan menjalankan kode Anda.
 
@@ -53,7 +53,7 @@ Hal pertama yang ingin Anda lakukan adalah menyiapkan direktori tempat Anda akan
 string dataDir = "Your Data Directory"; // Tentukan jalur direktori Anda
 ```
 
--  Mengganti`"Your Data Directory"` dengan jalur tempat Anda ingin menyimpan file PNG keluaran Anda. Ini bisa berupa sesuatu seperti`@"C:\work\"`.
+-  Mengganti`"Your Data Directory"`dengan jalur tempat Anda ingin menyimpan file PNG keluaran Anda. Ini bisa berupa sesuatu seperti`@"C:\work\"`.
 
 ## Langkah 2: Buat Objek Dokumen HTML
 
@@ -79,7 +79,7 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  Itu`HtmlRenderer`adalah objek andalan Anda untuk mengubah konten HTML menjadi gambar. Objek ini menangani proses rendering secara mendalam, sehingga Anda dapat fokus pada apa yang Anda butuhkan!
+-  Itu`HtmlRenderer` adalah objek andalan Anda untuk mengubah konten HTML menjadi gambar. Objek ini menangani proses rendering secara mendalam, sehingga Anda dapat fokus pada apa yang Anda butuhkan!
 
 ## Langkah 4: Siapkan Perangkat Gambar
 

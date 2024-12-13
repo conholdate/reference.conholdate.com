@@ -28,10 +28,10 @@ using Aspose.Words;
 
 ## Langkah 1: Muat File Teks
 
-Pertama, Anda perlu memuat file teks ke Aspose.Words`Document` objek. Berikut caranya:
+ Pertama, Anda perlu memuat file teks ke Aspose.Words`Document` objek. Berikut caranya:
 
 ```csharp
-// Tentukan jalur direktori tempat file teks Anda berada
+//Tentukan jalur direktori tempat file teks Anda berada
 string dataDir = "YOUR_DOCUMENT_DIRECTORY/";
 
 // Memuat file teks ke dalam objek Dokumen

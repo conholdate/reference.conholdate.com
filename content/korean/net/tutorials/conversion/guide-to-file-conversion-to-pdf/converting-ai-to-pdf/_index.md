@@ -17,7 +17,7 @@ url: /ko/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-
 
 ### .NET용 GroupDocs.Conversion 설치
 
-.NET용 GroupDocs.Conversion을 다음에서 다운로드할 수 있습니다.[웹사이트](https://releases.groupdocs.com/conversion/net/)프로젝트 요구 사항에 따라 설치하세요.
+ .NET용 GroupDocs.Conversion을 다음에서 다운로드할 수 있습니다.[웹사이트](https://releases.groupdocs.com/conversion/net/)프로젝트 요구 사항에 따라 설치하세요.
 
 ### 소스 AI 파일
 
@@ -59,7 +59,7 @@ using (var converter = new GroupDocs.Conversion.Converter("Path to Your AI File"
 ```csharp
     var options = new PdfConvertOptions();
 ```
- 인스턴스를 생성하여`PdfConvertOptions`페이지 크기, 여백 등의 설정을 사용자 정의할 수 있습니다. 이는 선택 사항이지만 특정 요구 사항에 대한 유연성을 제공합니다.
+ 인스턴스를 생성하여`PdfConvertOptions`, 페이지 크기, 여백 등의 설정을 사용자 정의할 수 있습니다. 이는 선택 사항이지만 특정 요구 사항에 대한 유연성을 제공합니다.
 
 ## 3단계: 변환 수행
 

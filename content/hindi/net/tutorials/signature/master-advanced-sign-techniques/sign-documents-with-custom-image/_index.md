@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## चरण 4: हस्ताक्षर ऑब्जेक्ट को आरंभ करें
 
- इसका एक उदाहरण बनाएं`Signature` क्लास, दस्तावेज़ फ़ाइल पथ में पासिंग:
+ इसका एक उदाहरण बनाएं`Signature`क्लास, दस्तावेज़ फ़ाइल पथ में पासिंग:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

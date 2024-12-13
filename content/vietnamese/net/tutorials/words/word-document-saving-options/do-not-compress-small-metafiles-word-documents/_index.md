@@ -18,7 +18,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã chuẩn bị sẵn nhữ
 1.  Aspose.Words cho .NET: Tải xuống và cài đặt phiên bản mới nhất từ[Aspose phát hành](https://releases.aspose.com/words/net/).
 2. Môi trường phát triển: Sử dụng Visual Studio hoặc bất kỳ IDE tương thích nào.
 3. Hiểu biết cơ bản về C#: Sự quen thuộc với C# và .NET framework sẽ rất hữu ích.
-4.  Giấy phép Aspose: Để mở khóa hoàn toàn Aspose.Words, hãy mua[giấy phép](https://purchase.aspose.com/buy)được khuyến khích. Ngoài ra, bạn có thể sử dụng[giấy phép tạm thời](https://purchase.aspose.com/temporary-license/) cho mục đích đánh giá.
+4.  Giấy phép Aspose: Để mở khóa hoàn toàn Aspose.Words, hãy mua[giấy phép](https://purchase.aspose.com/buy) được khuyến khích. Ngoài ra, bạn có thể sử dụng[giấy phép tạm thời](https://purchase.aspose.com/temporary-license/) cho mục đích đánh giá.
 
 ## Nhập không gian tên
 
@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Bước 3: Cấu hình tùy chọn lưu
 
- Bây giờ, hãy cấu hình các tùy chọn lưu để sử dụng tính năng "Không nén các tệp siêu dữ liệu nhỏ" với`DocSaveOptions` lớp học.
+ Bây giờ, hãy cấu hình các tùy chọn lưu để sử dụng tính năng "Không nén các tệp siêu dữ liệu nhỏ" với`DocSaveOptions`lớp học.
 
 ```csharp
 // Cấu hình tùy chọn lưu với tính năng "Không nén các tệp siêu dữ liệu nhỏ"
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- Bước này tạo ra một trường hợp của`DocSaveOptions`và thiết lập`Compliance` tài sản để`PdfCompliance.PdfA1a`, đảm bảo tài liệu tuân thủ tiêu chuẩn PDF/A-1a.
+ Bước này tạo ra một trường hợp của`DocSaveOptions` và thiết lập`Compliance` tài sản để`PdfCompliance.PdfA1a`, đảm bảo tài liệu tuân thủ tiêu chuẩn PDF/A-1a.
 
 ## Bước 4: Lưu tài liệu
 
 Cuối cùng, lưu tài liệu bằng các tùy chọn đã cấu hình, đảm bảo rằng các siêu tệp nhỏ không bị nén.
 
 ```csharp
-// Lưu tài liệu với các tùy chọn đã chỉ định
+//Lưu tài liệu với các tùy chọn đã chỉ định
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ Chắc chắn rồi! Aspose.Words for .NET cung cấp các tùy chọn lưu có 
 
 ### Tôi có cần giấy phép để sử dụng Aspose.Words cho .NET không?
 
- Mặc dù bạn có thể sử dụng Aspose.Words cho .NET mà không cần giấy phép cho mục đích đánh giá, nhưng cần có giấy phép để có đầy đủ chức năng. Bạn có thể mua giấy phép[đây](https://purchase.aspose.com/buy) hoặc thử một[giấy phép tạm thời](https://purchase.aspose.com/temporary-license/) để đánh giá.
+Mặc dù bạn có thể sử dụng Aspose.Words cho .NET mà không cần giấy phép cho mục đích đánh giá, nhưng cần có giấy phép để có đầy đủ chức năng. Bạn có thể mua giấy phép[đây](https://purchase.aspose.com/buy) hoặc thử một[giấy phép tạm thời](https://purchase.aspose.com/temporary-license/) để đánh giá.
 
 ### Làm thế nào tôi có thể đảm bảo tài liệu của mình tuân thủ tiêu chuẩn PDF/A?
 

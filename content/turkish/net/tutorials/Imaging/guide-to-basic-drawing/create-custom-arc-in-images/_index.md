@@ -38,7 +38,7 @@ using System.IO;
 ## Adım 1: Görüntüyü Oluşturun ve Akışı Kaydedin
 
 ```csharp
-//Görüntünün kaydedileceği dizini tanımlayın
+// Görüntünün kaydedileceği dizini tanımlayın
 string dataDir = "Your Document Directory"; // Bunu tercih ettiğiniz yola güncelleyin
 
 // BMP görüntüsünü kaydetmek için bir akış oluşturun

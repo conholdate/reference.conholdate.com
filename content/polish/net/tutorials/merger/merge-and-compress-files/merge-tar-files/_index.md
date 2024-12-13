@@ -9,7 +9,7 @@ url: /pl/net/tutorials/merger/merge-and-compress-files/merge-tar-files/
 ---
 ## Wstęp
 
-W rozwoju oprogramowania kluczowe znaczenie ma wydajna manipulacja danymi. Jednym z powszechnych wymagań jest programowe scalanie plików. W tym miejscu GroupDocs.Merger dla .NET błyszczy, umożliwiając programistom bezproblemowe scalanie plików TAR (Tape Archive) w ramach ich aplikacji .NET. Ten samouczek zawiera kompleksowy przewodnik, uzupełniony o instrukcje krok po kroku i przykłady kodu, które pomogą Ci zacząć.
+rozwoju oprogramowania kluczowe znaczenie ma wydajna manipulacja danymi. Jednym z powszechnych wymagań jest programowe scalanie plików. W tym miejscu GroupDocs.Merger dla .NET błyszczy, umożliwiając programistom bezproblemowe scalanie plików TAR (Tape Archive) w ramach ich aplikacji .NET. Ten samouczek zawiera kompleksowy przewodnik, uzupełniony o instrukcje krok po kroku i przykłady kodu, które pomogą Ci zacząć.
 
 ## Wymagania wstępne
 
@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Tworzysz nowy`Merger` wystąpienie ze ścieżką do pierwszego pliku TAR.
 -  Ten`Join` Metoda ta umożliwia dodanie kolejnego pliku TAR do scalenia (ten krok jest opcjonalny).
--  Na koniec zadzwoń`Save`aby zakończyć proces scalania i zapisać plik wyjściowy w określonym katalogu.
+-  Na koniec zadzwoń`Save` aby zakończyć proces scalania i zapisać plik wyjściowy w określonym katalogu.
 
 ## Krok 3: Wyświetl komunikat o zakończeniu
 

@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Crei un nuovo`Merger` istanza con il percorso al primo file TAR.
 -  IL`Join` Il metodo consente di aggiungere un altro file TAR alla fusione (questo passaggio è facoltativo).
--  Infine, chiama`Save`per completare il processo di unione e scrivere il file di output nella directory specificata.
+-  Infine, chiama`Save` per completare il processo di unione e scrivere il file di output nella directory specificata.
 
 ## Passaggio 3: visualizzare il messaggio di completamento
 

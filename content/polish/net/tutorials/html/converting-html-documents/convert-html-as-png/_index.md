@@ -17,7 +17,7 @@ Zanim przejdziemy do kodu, upewnijmy się, że wszystko skonfigurowałeś popraw
 
 1.  .NET Framework/ .NET Core: Upewnij się, że na Twoim komputerze jest zainstalowany .NET Framework lub .NET Core. Możesz pobrać[.NET tutaj](https://dotnet.microsoft.com/download).
 
-2.  Aspose.HTML dla biblioteki .NET: Będziesz potrzebować biblioteki Aspose.HTML. Możesz ją pobrać[Tutaj](https://releases.aspose.com/html/net/)lub wypróbuj za darmo z[bezpłatny okres próbny](https://releases.aspose.com/).
+2.  Aspose.HTML dla biblioteki .NET: Będziesz potrzebować biblioteki Aspose.HTML. Możesz ją pobrać[Tutaj](https://releases.aspose.com/html/net/) lub wypróbuj za darmo z[bezpłatny okres próbny](https://releases.aspose.com/).
 
 3. IDE: Do pisania i uruchamiania kodu zalecane jest korzystanie z odpowiedniego zintegrowanego środowiska programistycznego (IDE), takiego jak Visual Studio.
 
@@ -53,7 +53,7 @@ Pierwszą rzeczą, którą chcesz zrobić, jest utworzenie katalogu, w którym b
 string dataDir = "Your Data Directory"; // Określ ścieżkę do katalogu
 ```
 
--  Zastępować`"Your Data Directory"` ze ścieżką, w której chcesz przechowywać pliki wyjściowe PNG. Może to być coś takiego`@"C:\work\"`.
+-  Zastępować`"Your Data Directory"`ze ścieżką, w której chcesz przechowywać pliki wyjściowe PNG. Może to być coś takiego`@"C:\work\"`.
 
 ## Krok 2: Utwórz obiekt dokumentu HTML
 
@@ -79,11 +79,11 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  Ten`HtmlRenderer`jest Twoim obiektem do przekształcania treści HTML w obrazy. Obsługuje proces renderowania pod maską, więc możesz skupić się na tym, czego potrzebujesz!
+-  Ten`HtmlRenderer` jest Twoim obiektem do przekształcania treści HTML w obrazy. Obsługuje proces renderowania pod maską, więc możesz skupić się na tym, czego potrzebujesz!
 
 ## Krok 4: Skonfiguruj urządzenie do przetwarzania obrazu
 
- Teraz czas na przygotowanie`ImageDevice`. To jest cel naszego procesu renderowania, w którym zostanie utworzony końcowy obraz PNG.
+ Teraz czas na przygotowanie`ImageDevice`To jest cel naszego procesu renderowania, w którym zostanie utworzony końcowy obraz PNG.
 
 ```csharp
 using (ImageDevice device = new ImageDevice(dataDir + @"document_out.png"))
@@ -106,7 +106,7 @@ renderer.Render(device, document);
 
 ## Wniosek
 
-masz to! Udało Ci się wyrenderować HTML jako obraz PNG przy użyciu Aspose.HTML w .NET. To potężne narzędzie oferuje prosty sposób na programowe manipulowanie zawartością HTML, dzięki czemu generowanie i prezentowanie dokumentów jest łatwiejsze niż kiedykolwiek. Niezależnie od tego, czy pracujesz nad aplikacjami internetowymi, czy tworzysz raporty, ta metoda zmienia zasady gry.
+I masz to! Udało Ci się wyrenderować HTML jako obraz PNG przy użyciu Aspose.HTML w .NET. To potężne narzędzie oferuje prosty sposób na programowe manipulowanie zawartością HTML, dzięki czemu generowanie i prezentowanie dokumentów jest łatwiejsze niż kiedykolwiek. Niezależnie od tego, czy pracujesz nad aplikacjami internetowymi, czy tworzysz raporty, ta metoda zmienia zasady gry.
 
 ## Najczęściej zadawane pytania
 

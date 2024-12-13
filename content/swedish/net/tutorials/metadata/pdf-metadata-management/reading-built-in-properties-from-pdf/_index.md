@@ -14,7 +14,7 @@ I den här handledningen kommer vi att utforska hur du använder GroupDocs.Metad
 Innan vi börjar, se till att du har följande:
 
 - Visual Studio: Se till att den är installerad på ditt system.
-- GroupDocs.Metadata for .NET: Ladda ner och installera det från[officiella webbplats](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata for .NET: Ladda ner och installera det från[officiella webbplats](https://releases.groupdocs.com/metadata/net/).
 - Grundläggande kunskaper i C#: Bekantskap med C# och .NET-ramverket rekommenderas.
 
 ## Importera namnområden
@@ -31,7 +31,7 @@ För att läsa metadata från en PDF-fil, ladda dokumentet och extrahera dess eg
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // Öppna rotpaketet för PDF-filen
+    //Öppna rotpaketet för PDF-filen
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // Hämta och visa inbyggda egenskaper

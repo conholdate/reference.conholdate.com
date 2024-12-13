@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Adım 3: HTML Yükleme Seçeneklerini Yapılandırın
 
- The`HtmlLoadOptions`Aspose.Words'deki sınıf, HTML içeriğinin nasıl yorumlanacağını belirtmemize olanak tanır. Birleşik kutunun yapılandırılmış bir belge etiketi olarak işlenmesini sağlamak için:
+ The`HtmlLoadOptions` Aspose.Words'deki sınıf, HTML içeriğinin nasıl yorumlanacağını belirtmemize olanak tanır. Birleşik kutunun yapılandırılmış bir belge etiketi olarak işlenmesini sağlamak için:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions

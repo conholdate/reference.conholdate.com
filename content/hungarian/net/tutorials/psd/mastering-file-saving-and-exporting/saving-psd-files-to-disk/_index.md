@@ -37,7 +37,7 @@ using Aspose.PSD.ImageOptions;
 string dataDir = "Your Document Directory";
 ```
 
- Ügyeljen arra, hogy cserélje ki`"Your Document Directory"` a tényleges úttal.
+ Mindenképpen cserélje ki`"Your Document Directory"` a tényleges úttal.
 
 ## 2. lépés: Adja meg a forrás és a cél elérési útját
 

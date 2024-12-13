@@ -47,7 +47,7 @@ string dataDir = "C:\\YourDocumentDirectory\\";
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Путь к исходному PSD-файлу
-string destName = dataDir + "result.png";   // Путь к выходному файлу изображения
+string destName = dataDir + "result.png";   //Путь к выходному файлу изображения
 ```
 
 ## Шаг 3: Загрузите изображение PSD и обработайте ненайденные шрифты
@@ -89,7 +89,7 @@ using (var fileStream = new FileStream(destName, FileMode.Create))
 ## Часто задаваемые вопросы
 
 ### Могу ли я использовать Aspose.PSD с любым типом файла изображения?
- Да! Aspose.PSD поддерживает различные форматы изображений, включая PSD, PNG, JPEG и другие. Подробный список см. в документации[здесь](https://reference.aspose.com/psd/net/).
+Да! Aspose.PSD поддерживает различные форматы изображений, включая PSD, PNG, JPEG и другие. Подробный список см. в документации[здесь](https://reference.aspose.com/psd/net/).
 
 ### Как получить поддержку по Aspose.PSD?
  Для получения помощи и поддержки сообщества посетите форум поддержки Aspose.PSD[здесь](https://forum.aspose.com/c/psd/34).

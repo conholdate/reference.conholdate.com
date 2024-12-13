@@ -15,7 +15,7 @@ Nello sviluppo software, specialmente quando si ha a che fare con documenti lega
 
 Prima di iniziare, assicurati di avere quanto segue:
 
-1.  GroupDocs.Comparison per .NET: Scarica e installa la libreria da[Qui](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison per .NET: Scarica e installa la libreria da[Qui](https://releases.groupdocs.com/comparison/net/).
 2. Conoscenza di base di C#: per questo tutorial si presuppone la familiarità con la programmazione C#.
 3. Ambiente di sviluppo integrato (IDE): utilizzare un IDE come Visual Studio per la codifica.
 4. Documenti da confrontare: prepara i documenti che desideri confrontare e assicurati che siano accessibili dal tuo codice C#.
@@ -96,4 +96,4 @@ Assolutamente! GroupDocs.Comparison per .NET offre varie opzioni di personalizza
 
 ### Dove posso cercare aiuto o supporto in relazione a GroupDocs.Comparison per .NET?
 
-Per assistenza, visita il forum GroupDocs.Comparison[Qui](https://forum.groupdocs.com/c/comparison/12).
+ Per assistenza, visita il forum GroupDocs.Comparison[Qui](https://forum.groupdocs.com/c/comparison/12).

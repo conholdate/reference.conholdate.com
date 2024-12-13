@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## Langkah 1: Siapkan Proyek Anda
 
-Pertama, buat proyek .NET baru di IDE Anda. Tambahkan referensi ke pustaka Aspose.Words. Jika Anda belum mengunduhnya, Anda dapat melakukannya dari[Di Sini](https://releases.aspose.com/words/net/).
+ Pertama, buat proyek .NET baru di IDE Anda. Tambahkan referensi ke pustaka Aspose.Words. Jika Anda belum mengunduhnya, Anda dapat melakukannya dari[Di Sini](https://releases.aspose.com/words/net/).
 
 ## Langkah 2: Tentukan Direktori Dokumen
 

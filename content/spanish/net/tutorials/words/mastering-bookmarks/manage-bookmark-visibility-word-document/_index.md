@@ -16,7 +16,7 @@ url: /es/net/tutorials/words/mastering-bookmarks/manage-bookmark-visibility-word
 Antes de comenzar, asegúrese de tener lo siguiente:
 
 1. Visual Studio: Cualquier versión compatible con .NET.
-2.  Aspose.Words para .NET: Descárgalo[aquí](https://releases.aspose.com/words/net/).
+2. Aspose.Words para .NET: Descárgalo[aquí](https://releases.aspose.com/words/net/).
 3. Conocimientos básicos de C#: será suficiente estar familiarizado con la escritura de programas simples de C#.
 4. Un documento de Word de muestra: prepare un documento de Word (por ejemplo, "Bookmarks.docx") que contenga marcadores para este tutorial.
 

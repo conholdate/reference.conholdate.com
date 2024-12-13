@@ -53,7 +53,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to the GroupDocs.Comparison for .NET**
 
-Összehasonlítja és egyesíti a Microsoft Word, Excel, PowerPoint, openDocument ODT, PDF, szöveges és HTML dokumentumokat. A dokumentum-összehasonlító API összehasonlítja a tartalmat, hogy észlelje a szavak, bekezdések és karakterek változásait. Összehasonlítja a stílusmódosításokat is, mint például a betűméret, a félkövér, a dőlt stb. A különbségek összefoglalója külön eredményfájlba mentve
+Összehasonlítja és egyesíti a Microsoft Word, Excel, PowerPoint, openDocument ODT, PDF, szöveges és HTML dokumentumokat. A dokumentum-összehasonlító API összehasonlítja a tartalmat, hogy észlelje a szavak, bekezdések és karakterek változásait. Ezenkívül összehasonlítja a stílusmódosításokat, például a betűméretet, félkövér, dőlt stb.
 
 {{% /alert %}} 
 ## **GroupDocs.Comparison for .NET**

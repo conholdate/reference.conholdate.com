@@ -9,7 +9,7 @@ url: /sv/net/tutorials/signature/master-advanced-sign-techniques/add-text-signat
 ---
 ## Introduktion
 
-I dagens digitala landskap har elektronisk dokumentsignering blivit avgörande för att effektivisera arbetsflöden och spara resurser. GroupDocs.Signature för .NET tillhandahåller en kraftfull lösning för att programmatiskt lägga till textsignaturer till olika dokumentformat. Denna handledning guidar dig genom stegen för att signera ett dokument med text med GroupDocs.Signature för .NET.
+dagens digitala landskap har elektronisk dokumentsignering blivit avgörande för att effektivisera arbetsflöden och spara resurser. GroupDocs.Signature för .NET tillhandahåller en kraftfull lösning för att programmatiskt lägga till textsignaturer till olika dokumentformat. Denna handledning guidar dig genom stegen för att signera ett dokument med text med GroupDocs.Signature för .NET.
 
 ## Förutsättningar
 
@@ -56,7 +56,7 @@ Konfigurera alternativen för din textsignatur, inklusive innehåll, position, s
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // X-position
+    Left = 50, //X-position
     Top = 200, // Y-position
     Width = 100, // Signaturens bredd
     Height = 30, // Signaturens höjd

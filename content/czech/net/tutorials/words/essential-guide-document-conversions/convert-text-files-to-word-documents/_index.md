@@ -28,10 +28,10 @@ using Aspose.Words;
 
 ## Krok 1: Načtěte textový soubor
 
-Nejprve musíte načíst textový soubor do Aspose.Words`Document` objekt. Zde je postup:
+ Nejprve musíte načíst textový soubor do Aspose.Words`Document` objekt. Zde je postup:
 
 ```csharp
-// Zadejte cestu k adresáři, kde se nachází váš textový soubor
+//Zadejte cestu k adresáři, kde se nachází váš textový soubor
 string dataDir = "YOUR_DOCUMENT_DIRECTORY/";
 
 // Načtěte textový soubor do objektu dokumentu

@@ -21,7 +21,7 @@ Postępując zgodnie z naszym samouczkiem[Konwersja HTML z osadzonymi obrazami](
 
 Następnie omówmy inny przydatny samouczek: konwersję prezentacji PowerPoint z Notes Slide View do formatu PDF. Jest to szczególnie przydatne, gdy chcesz udostępnić slajdy wraz z notatkami prezentera, ułatwiając odbiorcom śledzenie. 
 
- Z naszym przewodnikiem na temat[Konwertowanie widoku slajdu notatek do formatu PDF](./converting-notes-slide-view-to-pdf/)odkryjesz, jak bez wysiłku przekonwertować swoje prezentacje na profesjonalny dokument PDF. Wyobraź sobie, że możesz wysłać swój zestaw ze wszystkimi notatkami, dzięki czemu wszyscy będą na tej samej stronie — dosłownie! Samouczek przeprowadzi Cię przez każdy krok, zapewniając szczegółowe instrukcje, aby mieć pewność, że nie przegapisz żadnego uderzenia. Niezależnie od tego, czy chodzi o spotkanie, webinarium czy warsztat, ta funkcja zmienia zasady gry, pomagając Ci przedstawić swoje pomysły w sposób jasny i skuteczny.
+ Z naszym przewodnikiem na temat[Konwertowanie widoku slajdu notatek do formatu PDF](./converting-notes-slide-view-to-pdf/)odkryjesz, jak bez wysiłku przekonwertować swoje prezentacje na profesjonalny dokument PDF. Wyobraź sobie, że możesz wysłać swój zestaw ze wszystkimi notatkami, dzięki czemu wszyscy będą na tej samej stronie — dosłownie! Samouczek przeprowadzi Cię przez każdy krok, zapewniając szczegółowe instrukcje, aby mieć pewność, że nie przegapisz żadnego uderzenia. Niezależnie od tego, czy chodzi o spotkanie, webinarium czy warsztat, ta funkcja zmienia zasady gry, pomagając Ci przedstawić swoje pomysły jasno i skutecznie.
 
 ## Samouczki dotyczące konwersji prezentacji
 ### [Konwersja HTML z osadzonymi obrazami przy użyciu Aspose.Slides](./converting-html-with-embedded-images/)

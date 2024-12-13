@@ -33,7 +33,7 @@ Nu we de vereisten en naamruimten hebben geregeld, gaan we verder met de stapsge
 
 ## Stap 1: Initialiseer het document en DocumentBuilder
 
-We beginnen met het maken van een nieuw Word-document en het initialiseren van de`DocumentBuilder` object, waarmee we inhoud kunnen toevoegen.
+ We beginnen met het maken van een nieuw Word-document en het initialiseren van de`DocumentBuilder` object, waarmee we inhoud kunnen toevoegen.
 
 ```csharp
 // Definieer het pad naar de documentenmap.
@@ -56,7 +56,7 @@ Met deze regel voegt u de tekst 'Hier is een SVG-afbeelding:' toe aan uw documen
 
 ## Stap 3: SVG-afbeelding invoegen
 
- Nu komt het spannende gedeelte! We voegen een SVG-afbeelding in ons document in met behulp van de`InsertHtml` methode.
+Nu komt het spannende gedeelte! We voegen een SVG-afbeelding in ons document in met behulp van de`InsertHtml` methode.
 
 ```csharp
 builder.InsertHtml(
@@ -83,7 +83,7 @@ Deze configuratie vertelt Aspose.Words om alle metabestanden in het document naa
 
 ## Stap 5: Sla het document op
 
-Laten we ten slotte ons document opslaan met behulp van de`Save` methode van de`Document` klas.
+ Laten we ten slotte ons document opslaan met behulp van de`Save` methode van de`Document`klas.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

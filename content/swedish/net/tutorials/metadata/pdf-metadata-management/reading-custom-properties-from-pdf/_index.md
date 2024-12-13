@@ -9,7 +9,7 @@ url: /sv/net/tutorials/metadata/pdf-metadata-management/reading-custom-propertie
 ---
 ## Introduktion
 
-en värld av .NET-utveckling är effektiv hantering av metadata i dokument avgörande för att organisera information och extrahera värdefulla insikter. GroupDocs.Metadata för .NET är ett omfattande bibliotek som ger utvecklare möjlighet att få åtkomst till och manipulera dokumentmetadata sömlöst. Denna handledning guidar dig genom processen att extrahera anpassade egenskaper från PDF-filer med C#. 
+I en värld av .NET-utveckling är effektiv hantering av metadata i dokument avgörande för att organisera information och extrahera värdefulla insikter. GroupDocs.Metadata för .NET är ett omfattande bibliotek som ger utvecklare möjlighet att få åtkomst till och manipulera dokumentmetadata sömlöst. Denna handledning guidar dig genom processen att extrahera anpassade egenskaper från PDF-filer med C#. 
 
 ## Förutsättningar
 
@@ -81,4 +81,4 @@ GroupDocs.Metadata stöder faktiskt ett brett utbud av filformat, inklusive Word
  Ja, du kan komma åt en[gratis provperiod](https://releases.groupdocs.com/) för att utforska funktionerna i GroupDocs.Metadata.
 
 ### Hur kan jag köpa en licens för GroupDocs.Metadata?
- För att skaffa en licens, besök[köpsidan](https://purchase.groupdocs.com/buy) Tillfälliga licenser finns också tillgängliga[här](https://purchase.groupdocs.com/temporary-license/).
+ För att skaffa en licens, besök[köpsidan](https://purchase.groupdocs.com/buy) . Tillfälliga licenser finns också tillgängliga[här](https://purchase.groupdocs.com/temporary-license/).

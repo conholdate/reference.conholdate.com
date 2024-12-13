@@ -80,7 +80,7 @@ mhtStream.CopyTo(fileStream);
 
 ## Slutsats
 
-I den här guiden har du lärt dig hur du konverterar e-postmeddelanden till MHT-format samtidigt som du effektivt hanterar tidszonsinformation med Aspose.Email för .NET. Genom att följa dessa steg och utforska ytterligare anpassningsalternativ kan du sömlöst integrera e-postkonverteringsfunktioner i dina applikationer.
+den här guiden har du lärt dig hur du konverterar e-postmeddelanden till MHT-format samtidigt som du effektivt hanterar tidszonsinformation med Aspose.Email för .NET. Genom att följa dessa steg och utforska ytterligare anpassningsalternativ kan du sömlöst integrera e-postkonverteringsfunktioner i dina applikationer.
 
 ## FAQ's
 
@@ -94,7 +94,7 @@ Absolut! Aspose.Email för .NET stöder olika format, inklusive MSG, EML, PST oc
 
 ### Bevaras tidszonsinformation i MHT-format?
 
- Ja, tidszonsinformationen bevaras under konverteringsprocessen. Genom att hantera tidszonförskjutningar och använda lämpliga`TimeZoneInfo` metoder kan du säkerställa korrekt tidszonrepresentation i MHT-filen.
+ Ja, tidszonsinformationen bevaras under konverteringsprocessen. Genom att hantera tidszonförskjutningar och använda lämpliga`TimeZoneInfo`metoder kan du säkerställa korrekt tidszonrepresentation i MHT-filen.
 
 ### Var kan jag hitta ytterligare dokumentation och uppdateringar om Aspose.Email för .NET?
 

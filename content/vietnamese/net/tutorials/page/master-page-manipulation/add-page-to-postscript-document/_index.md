@@ -47,10 +47,10 @@ Thiết lập tài liệu PostScript của bạn với cấu hình mong muốn:
 string dataDir = "Your Document Directory"; // Đặt đường dẫn thư mục tài liệu của bạn
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //Thiết lập tùy chọn lưu cho kích thước A4
+    // Thiết lập tùy chọn lưu cho kích thước A4
     PsSaveOptions options = new PsSaveOptions();
     
-    // Tạo một tài liệu PostScript mới với 2 trang
+    //Tạo một tài liệu PostScript mới với 2 trang
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

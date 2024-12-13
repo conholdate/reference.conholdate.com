@@ -96,7 +96,7 @@ Converter.ConvertHTML(htmlDocument, options, outputFile);
 是的！Aspose.HTML 提供了解析和修改 HTML 文档的广泛功能。
 
 ### HTML 文档有大小限制吗？  
-尽管 Aspose.HTML 专为提高性能而设计，但大型文档可能需要更多内存。请确保您的系统满足必要的资源要求。
+尽管 Aspose.HTML 专为提高性能而设计，但大型文档可能需要更多内存。确保您的系统满足必要的资源要求。
 
 ### 在哪里可以找到详尽的文档？  
 有关详细文档、代码示例和 API 参考，请查看[Aspose.HTML for .NET 文档](https://reference.aspose.com/html/net/).

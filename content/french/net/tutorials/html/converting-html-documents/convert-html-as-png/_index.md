@@ -17,7 +17,7 @@ Avant de passer au code, assurons-nous que tout est correctement configuré :
 
 1.  .NET Framework/.NET Core : Assurez-vous que .NET Framework ou .NET Core est installé sur votre ordinateur. Vous pouvez télécharger[.NET ici](https://dotnet.microsoft.com/download).
 
-2.  Bibliothèque Aspose.HTML pour .NET : vous aurez besoin de la bibliothèque Aspose.HTML. Vous pouvez la télécharger[ici](https://releases.aspose.com/html/net/)ou essayez-le gratuitement avec un[essai gratuit](https://releases.aspose.com/).
+2.  Bibliothèque Aspose.HTML pour .NET : vous aurez besoin de la bibliothèque Aspose.HTML. Vous pouvez la télécharger[ici](https://releases.aspose.com/html/net/) ou essayez-le gratuitement avec un[essai gratuit](https://releases.aspose.com/).
 
 3. IDE : un environnement de développement intégré (IDE) adapté comme Visual Studio est recommandé pour écrire et exécuter votre code.
 
@@ -45,7 +45,7 @@ using Aspose.Html.Rendering.Image;
 
 Maintenant que nous avons posé le décor, décomposons le processus de rendu HTML sous forme d'image PNG en étapes détaillées et faciles à suivre.
 
-## Étape 1 : Configuration du répertoire de données
+## Étape 1 : Configurer le répertoire de données
 
 La première chose à faire est de créer un répertoire dans lequel vous allez enregistrer vos images. Ce répertoire sert de répertoire de stockage pour les fichiers PNG générés.
 
@@ -53,7 +53,7 @@ La première chose à faire est de créer un répertoire dans lequel vous allez 
 string dataDir = "Your Data Directory"; // Spécifiez votre chemin de répertoire
 ```
 
--  Remplacer`"Your Data Directory"` avec le chemin où vous souhaitez stocker vos fichiers PNG de sortie. Cela pourrait être quelque chose comme`@"C:\work\"`.
+-  Remplacer`"Your Data Directory"`avec le chemin où vous souhaitez stocker vos fichiers PNG de sortie. Cela pourrait être quelque chose comme`@"C:\work\"`.
 
 ## Étape 2 : Créer un objet de document HTML
 
@@ -79,11 +79,11 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  Le`HtmlRenderer`est votre objet de référence pour transformer du contenu HTML en images. Il gère le processus de rendu en arrière-plan, afin que vous puissiez vous concentrer sur ce dont vous avez besoin !
+-  Le`HtmlRenderer` est votre objet de référence pour transformer du contenu HTML en images. Il gère le processus de rendu en arrière-plan, afin que vous puissiez vous concentrer sur ce dont vous avez besoin !
 
 ## Étape 4 : Configuration du périphérique d’image
 
- Il est maintenant temps de préparer le`ImageDevice`. Il s’agit de la cible de notre processus de rendu où l’image PNG finale sera créée.
+ Il est maintenant temps de préparer le`ImageDevice`Il s’agit de la cible de notre processus de rendu où l’image PNG finale sera créée.
 
 ```csharp
 using (ImageDevice device = new ImageDevice(dataDir + @"document_out.png"))

@@ -49,7 +49,7 @@ graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 Tiếp theo, chúng ta hãy áp dụng phép biến đổi toàn cục cho ngữ cảnh đồ họa. Trong ví dụ này, chúng ta sẽ xoay toàn bộ ngữ cảnh đồ họa 15 độ.
 
 ```csharp
-//Áp dụng phép biến đổi xoay (15 độ)
+// Áp dụng phép biến đổi xoay (15 độ)
 graphics.RotateTransform(15);
 ```
 

@@ -74,11 +74,11 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
- tej sekcji pokazano, jak utworzyć`Graphics` obiekt, wyczyść powierzchnię i dodaj dwa prostokąty o różnych kolorach i pozycjach. Po zakończeniu rysunków zapisz obraz, aby zachować zmiany.
+ W tej sekcji pokazano, jak utworzyć`Graphics` obiekt, wyczyść powierzchnię i dodaj dwa prostokąty o różnych kolorach i pozycjach. Po zakończeniu rysunków zapisz obraz, aby zachować zmiany.
 
 ## Krok 4: Zapisz obraz
 
- Zapisywanie ostatecznego obrazu jest proste, jak pokazano powyżej`using` oświadczenie gdzie`image.Save()` jest wywoływany automatycznie, gdy`using` blok się kończy.
+ Zapisywanie ostatecznego obrazu jest proste, jak pokazano powyżej`using` oświadczenie gdzie`image.Save()`jest wywoływany automatycznie, gdy`using` blok się kończy.
 
 ## Wniosek
 

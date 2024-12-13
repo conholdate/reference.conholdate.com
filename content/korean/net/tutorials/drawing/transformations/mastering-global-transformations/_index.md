@@ -49,7 +49,7 @@ graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 다음으로, 그래픽 컨텍스트에 글로벌 변환을 적용해 보겠습니다. 이 예에서 우리는 전체 그래픽 컨텍스트를 15도 회전할 것입니다.
 
 ```csharp
-//회전 변환 적용(15도)
+// 회전 변환 적용(15도)
 graphics.RotateTransform(15);
 ```
 

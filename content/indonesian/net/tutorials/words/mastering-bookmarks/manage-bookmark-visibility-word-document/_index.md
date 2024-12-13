@@ -16,7 +16,7 @@ Apakah Anda siap untuk meningkatkan keterampilan manipulasi dokumen Anda dengan 
 Sebelum kita mulai, pastikan Anda memiliki hal berikut:
 
 1. Visual Studio: Versi apa pun yang kompatibel dengan .NET.
-2.  Aspose.Words untuk .NET: Unduh[Di Sini](https://releases.aspose.com/words/net/).
+2. Aspose.Words untuk .NET: Unduh[Di Sini](https://releases.aspose.com/words/net/).
 3. Pengetahuan Dasar C#: Kemampuan menulis program C# sederhana sudah cukup.
 4. Contoh Dokumen Word: Siapkan dokumen Word (misalnya, "Bookmarks.docx") yang berisi bookmark untuk tutorial ini.
 

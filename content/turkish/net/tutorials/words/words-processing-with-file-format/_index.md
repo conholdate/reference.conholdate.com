@@ -13,11 +13,11 @@ url: /tr/net/tutorials/words/words-processing-with-file-format/
 
 ## Belge Dosya Biçimi Algılama
 
- Öncelikle, dosya biçimlerini anlamak çok önemlidir. Hiç bir belgeyi açıp beklediğiniz biçimde olmadığını gördünüz mü?[Belge Dosya Biçimi Algılama](./document-file-format-detection/)çeşitli belge biçimlerini sorunsuz bir şekilde nasıl tanımlayıp yöneteceğinizi öğreneceksiniz. Ayrıntılı kılavuzumuz, bu teknikleri projelerinizde kolayca uygulayabilmenizi sağlayacak uygulamalı örnekler sunar. Dosya biçimlerini tanımak, farklı belge türleriyle uğraşırken daha sonra baş ağrılarından kurtulmanızı sağlayabilir. 
+ Öncelikle, dosya biçimlerini anlamak çok önemlidir. Hiç bir belgeyi açıp beklediğiniz biçimde olmadığını gördünüz mü?[Belge Dosya Biçimi Algılama](./document-file-format-detection/), çeşitli belge biçimlerini sorunsuz bir şekilde nasıl tanımlayıp yöneteceğinizi öğreneceksiniz. Ayrıntılı kılavuzumuz, bu teknikleri projelerinizde kolayca uygulayabilmenizi sağlayacak uygulamalı örnekler sunar. Dosya biçimlerini tanımak, farklı belge türleriyle uğraşırken daha sonra baş ağrılarından kurtulmanızı sağlayabilir. 
 
 ## Word Belgelerinde Dijital İmzaların Algılanması
 
- Dijital imzalar, dijital belge dünyasının gizli el sıkışması gibidir. Word belgelerinizin güvenli ve gerçek olduğundan emin olmak ister misiniz? Eğitimimize göz atın[Word Belgelerinde Dijital İmzaların Algılanması](./detecting-digital-signatures/). Bu kapsamlı rehber, proje kurulumundan imzaları gerçekten kontrol etmeye kadar tüm süreçte size yol gösterir. Belge bütünlüğünün en önemli olduğu bir dünyada, dijital imzaların nasıl işleneceğini bilmek, güvenliğe önem veren bir geliştirici olarak sizi diğerlerinden ayırabilir.
+Dijital imzalar, dijital belge dünyasının gizli el sıkışması gibidir. Word belgelerinizin güvenli ve gerçek olduğundan emin olmak ister misiniz? Eğitimimize göz atın[Word Belgelerinde Dijital İmzaların Algılanması](./detecting-digital-signatures/). Bu kapsamlı rehber, proje kurulumundan imzaları gerçekten kontrol etmeye kadar tüm süreçte size yol gösterir. Belge bütünlüğünün en önemli olduğu bir dünyada, dijital imzaların nasıl işleneceğini bilmek, güvenliğe önem veren bir geliştirici olarak sizi diğerlerinden ayırabilir.
 
 ## Word Belgesi Şifrelemesini Doğrula
 

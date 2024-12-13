@@ -16,7 +16,7 @@ Halo, penggemar teknologi! Pernahkah Anda perlu memverifikasi tanda tangan digit
 Sebelum kita mulai, pastikan Anda telah menyiapkan hal berikut:
 
 1. Visual Studio: Pastikan telah terinstal di komputer Anda untuk pengkodean.
-2.  Aspose.Words untuk .NET: Unduh dan instal dari[Di Sini](https://releases.aspose.com/words/net/)Jika Anda belum melakukannya, dapatkan uji coba gratis Anda[Di Sini](https://releases.aspose.com/).
+2.  Aspose.Words untuk .NET: Unduh dan instal dari[Di Sini](https://releases.aspose.com/words/net/) Jika Anda belum melakukannya, dapatkan uji coba gratis Anda[Di Sini](https://releases.aspose.com/).
 3. Dokumen Word yang Ditandatangani Secara Digital: Siapkan dokumen Word dengan tanda tangan digital untuk verifikasi.
 
 ## Mengimpor Ruang Nama
@@ -142,7 +142,7 @@ Ya, ini mendukung semua versi dokumen Microsoft Word, termasuk DOC, DOCX, RTF, d
 
 ### Bagaimana cara mendapatkan lisensi sementara untuk Aspose.Words untuk .NET?
 
-Anda dapat memperoleh lisensi sementara dari[Di Sini](https://purchase.aspose.com/temporary-license/), memungkinkan Anda menjelajahi fitur perpustakaan secara lengkap tanpa batasan.
+ Anda dapat memperoleh lisensi sementara dari[Di Sini](https://purchase.aspose.com/temporary-license/), memungkinkan Anda menjelajahi fitur perpustakaan secara lengkap tanpa batasan.
 
 ### Di mana saya dapat menemukan dokumentasi lebih lanjut tentang Aspose.Words untuk .NET?
 

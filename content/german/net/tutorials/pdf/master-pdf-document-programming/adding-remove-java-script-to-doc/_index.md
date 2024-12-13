@@ -45,7 +45,7 @@ Hier beginnen Sie mit der Erstellung Ihrer JavaScript-lastigen PDF-Datei.
 
 ## Schritt 2: JavaScript zum PDF hinzufügen
 
- Fügen Sie JavaScript-Funktionen in Ihr Dokument ein, indem Sie`doc.JavaScript` Sammlung. Hier ist ein Beispiel:
+ Fügen Sie JavaScript-Funktionen in Ihr Dokument ein, indem Sie den`doc.JavaScript` Sammlung. Hier ist ein Beispiel:
 
 ```csharp
 doc.JavaScript["func1"] = "function func1() { console.log('Hello'); }";
@@ -106,7 +106,7 @@ In diesem umfassenden Handbuch erfahren Sie, wie Sie die Leistungsfähigkeit der
  Ja! Sie können beliebig viele JavaScript-Funktionen hinzufügen, indem Sie`doc.JavaScript` Sammlung.
 
 ### Was passiert, wenn ich versuche, eine nicht vorhandene JavaScript-Funktion zu entfernen?
- Wenn die Funktion nicht existiert,`Remove` Methode wirft keinen Fehler aus, entfernt aber auch nichts. Um nicht vorhandene Funktionen zu behandeln, können Sie zusätzliche Fehlerbehandlungen hinzufügen oder den Code ändern, um sie zu ignorieren.
+ Wenn die Funktion nicht existiert,`Remove`Methode wirft keinen Fehler aus, entfernt aber auch nichts. Um nicht vorhandene Funktionen zu behandeln, können Sie zusätzliche Fehlerbehandlungen hinzufügen oder den Code ändern, um sie zu ignorieren.
 
 ### Ist es möglich, JavaScript auszuführen, sobald das PDF geöffnet wird?
 Ja! Sie können JavaScript so konfigurieren, dass es bei bestimmten Auslösern ausgeführt wird, z. B. beim Öffnen des Dokuments oder beim Klicken auf eine Schaltfläche.

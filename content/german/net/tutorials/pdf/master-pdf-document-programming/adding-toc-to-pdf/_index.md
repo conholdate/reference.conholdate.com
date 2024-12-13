@@ -119,7 +119,7 @@ Ja, Sie können das Erscheinungsbild des Inhaltsverzeichnisses einschließlich S
 
 ### Wie füge ich dem Inhaltsverzeichnis Unterüberschriften hinzu?
 
- Sie können Unterüberschriften hinzufügen, indem Sie die`Heading` Ebene (z. B.`Heading(2)`).
+Sie können Unterüberschriften hinzufügen, indem Sie die`Heading` Ebene (z. B.`Heading(2)`).
 
 ### Ist es möglich, das Inhaltsverzeichnis automatisch zu aktualisieren, wenn sich das Dokument ändert?
 

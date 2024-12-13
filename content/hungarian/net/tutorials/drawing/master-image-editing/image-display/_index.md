@@ -15,7 +15,7 @@ url: /hu/net/tutorials/drawing/master-image-editing/image-display/
 
 Mielőtt elkezdené, győződjön meg arról, hogy megvannak az alábbi előfeltételek:
 
-- Aspose.Drawing for .NET Library: Töltse le és telepítse a könyvtárat a[kiadási oldal](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing for .NET Library: Töltse le és telepítse a könyvtárat a[kiadási oldal](https://releases.aspose.com/drawing/net/).
 - .NET-környezet: Győződjön meg arról, hogy fejlesztői környezete úgy van beállítva, hogy működjön a .NET-tel.
 - Dokumentumkönyvtár: Hozzon létre egy könyvtárat a képek tárolására.
 - Képfájl: Készítsen elő egy képfájlt a megjelenítéshez, például „aspose_logo.png”.
@@ -32,7 +32,7 @@ Most bontsuk le a kép Aspose.Drawing használatával történő megjelenítés�
 
 ## 1. lépés: Bitmap létrehozása
 
- Kezdje a létrehozásával a`Bitmap` objektum, amely vászonként fog működni a képed számára:
+ Kezdje azzal, hogy létrehoz egy`Bitmap` objektum, amely vászonként fog működni a képed számára:
 
 ```csharp
 Bitmap bitmap = new Bitmap(1000, 800, System.Drawing.Imaging.PixelFormat.Format32bppPArgb);
@@ -88,7 +88,7 @@ Igen, az Aspose.Drawing rendszeresen frissül a legújabb .NET-keretrendszerekke
 
 ### Hogyan kezelhetem a képméretezést az Aspose.Drawing programban?
 
- A képméretezést a paraméterek módosításával állíthatja be`DrawImage`módszerrel, például a cél téglalap megadásával.
+ A képméretezést a paraméterek módosításával állíthatja be`DrawImage` módszerrel, például a cél téglalap megadásával.
 
 ### Vannak-e licencelési szempontok az Aspose.Drawing kereskedelmi projektekben történő használatához?
 
@@ -96,4 +96,4 @@ Igen, az Aspose.Drawing rendszeresen frissül a legújabb .NET-keretrendszerekke
 
 ### Hol kérhetek segítséget, ha problémákba ütközöm, vagy kérdéseim vannak az Aspose.Drawing-el kapcsolatban?
 
- Támogatásért látogassa meg a[Aspose.Rajz fórum](https://forum.aspose.com/c/diagram/17) kapcsolatba lépni a közösséggel és szakértői segítséget találni.
+Támogatásért látogassa meg a[Aspose.Rajz fórum](https://forum.aspose.com/c/diagram/17) kapcsolatba lépni a közösséggel és szakértői segítséget találni.

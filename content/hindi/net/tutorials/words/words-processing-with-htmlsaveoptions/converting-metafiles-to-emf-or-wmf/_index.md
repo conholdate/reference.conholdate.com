@@ -15,7 +15,7 @@ url: /hi/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 
 सुचारू विकास अनुभव सुनिश्चित करने के लिए, पुष्टि करें कि निम्नलिखित पूर्वापेक्षाएँ पूरी हो गई हैं:
 
-- .NET के लिए Aspose.Words: नवीनतम संस्करण प्राप्त करें[Aspose रिलीज़ पेज](https://releases.aspose.com/words/net/).
+-  .NET के लिए Aspose.Words: नवीनतम संस्करण प्राप्त करें[Aspose रिलीज़ पेज](https://releases.aspose.com/words/net/).
 - .NET फ्रेमवर्क: .NET फ्रेमवर्क (या आपके वातावरण के आधार पर .NET Core/5/6) की स्थापना सत्यापित करें।
 - विकास पर्यावरण: विज़ुअल स्टूडियो को इसकी मजबूत विशेषताओं के लिए अनुशंसित किया जाता है।
 - C# प्रवीणता: C# प्रोग्रामिंग से बुनियादी परिचित होना आवश्यक है।
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## चरण 4: HTML को Word दस्तावेज़ में लोड करें
 
-बनाने के लिए कॉन्फ़िगर किए गए लोड विकल्पों का उपयोग करें`Document` HTML स्ट्रिंग से ऑब्जेक्ट.
+ बनाने के लिए कॉन्फ़िगर किए गए लोड विकल्पों का उपयोग करें`Document` HTML स्ट्रिंग से ऑब्जेक्ट.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

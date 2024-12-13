@@ -35,7 +35,7 @@ using System.Drawing.Imaging;
 
 ## الخطوة 1: إنشاء مستند OneNote جديد
 
- قم بتهيئة مستند OneNote جديد باستخدام`Document` فصل.
+ قم بتهيئة مستند OneNote جديد باستخدام`Document`فصل.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ doc.Save(dataDir);
 لا يوجد حد حجم صريح مفروض بواسطة Aspose.Note، ولكن تأكد من أن موارد النظام لديك قادرة على التعامل مع الملفات الكبيرة.
 
 ### هل يمكن تغيير حجم الرموز قبل تعيينها؟
-نعم، يمكنك معالجة صورة الرمز باستخدام .NET`System.Drawing` المكتبة قبل إرفاقها.
+ نعم، يمكنك معالجة صورة الرمز باستخدام .NET`System.Drawing` المكتبة قبل إرفاقها.
 
  لمزيد من المساعدة، استكشف[التوثيق](https://reference.aspose.com/words/net/) أو تواصل معنا[دعم Aspose](https://forum.aspose.com/c/words/8).

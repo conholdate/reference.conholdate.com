@@ -16,7 +16,7 @@ Olá, entusiastas da tecnologia! Você já precisou verificar assinaturas digita
 Antes de começar, certifique-se de ter o seguinte pronto:
 
 1. Visual Studio: certifique-se de que ele esteja instalado na sua máquina para codificação.
-2.  Aspose.Words para .NET: Baixe e instale em[aqui](https://releases.aspose.com/words/net/) Se ainda não o fez, pegue sua avaliação gratuita[aqui](https://releases.aspose.com/).
+2.  Aspose.Words para .NET: Baixe e instale em[aqui](https://releases.aspose.com/words/net/) . Se ainda não o fez, pegue sua avaliação gratuita[aqui](https://releases.aspose.com/).
 3. Um documento do Word assinado digitalmente: tenha um documento do Word com uma assinatura digital em mãos para verificação.
 
 ## Importando namespaces
@@ -142,7 +142,7 @@ Sim, ele suporta todas as versões de documentos do Microsoft Word, incluindo DO
 
 ### Como obtenho uma licença temporária para o Aspose.Words para .NET?
 
-Você pode obter uma licença temporária em[aqui](https://purchase.aspose.com/temporary-license/), permitindo que você explore todos os recursos da biblioteca sem limitações.
+ Você pode obter uma licença temporária em[aqui](https://purchase.aspose.com/temporary-license/), permitindo que você explore todos os recursos da biblioteca sem limitações.
 
 ### Onde posso encontrar mais documentação sobre o Aspose.Words para .NET?
 

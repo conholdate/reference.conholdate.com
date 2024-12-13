@@ -9,9 +9,9 @@ url: /hu/net/tutorials/words/words-processing-with-file-format/document-file-for
 ---
 ## Bevezetés
 
-különböző dokumentumformátumok hatékony kezelése és rendszerezése kritikus fontosságú a mai digitális környezetben. Az Aspose.Words for .NET robusztus megoldást kínál a különböző fájltípusok észlelésére és feldolgozására. Ebben az útmutatóban részletesen bemutatjuk a dokumentumformátumok észlelésének folyamatát, biztosítva a pontosságot és megtakarítva az értékes időt.
+A különböző dokumentumformátumok hatékony kezelése és rendszerezése kritikus fontosságú a mai digitális környezetben. Az Aspose.Words for .NET robusztus megoldást kínál a különböző fájltípusok észlelésére és feldolgozására. Ebben az útmutatóban részletesen bemutatjuk a dokumentumformátumok észlelésének folyamatát, biztosítva a pontosságot és megtakarítva az értékes időt.
 
-## A dokumentumfelismerés előfeltételei
+## dokumentumfelismerés előfeltételei
 
 Mielőtt elkezdené, győződjön meg arról, hogy a következő követelmények teljesülnek:
 
@@ -60,7 +60,7 @@ Directory.CreateDirectory(pre97Dir);
 
 Ez a struktúra leegyszerűsíti a fájlkezelést.
 
-## 2. lépés: Fájllista lekérése
+## 2. lépés: Töltse le a fájllistát
 
 Szűrje ki a sérült vagy nem támogatott dokumentumokat a feldolgozás egyszerűsítése érdekében.
 
@@ -69,7 +69,7 @@ IEnumerable<string> fileList = Directory.GetFiles(dataDir)
     .Where(fileName => !fileName.EndsWith("Corrupted document.docx"));
 ```
 
-A szűrt lista biztosítja, hogy csak érvényes fájlokkal dolgozzon.
+szűrt lista biztosítja, hogy csak érvényes fájlokkal dolgozzon.
 
 ## 3. lépés: Fájlformátumok észlelése és kategorizálása
 
@@ -117,7 +117,7 @@ Az Aspose.Words for .NET használatával a dokumentumfájl-formátumok észlelé
 ## GYIK
 
 ### Mi a fő célja a dokumentumformátumok észlelésének?  
-formátumok észlelése megkönnyíti a dokumentumkezelést azáltal, hogy a fájlokat meghatározott munkafolyamatokhoz vagy alkalmazásokhoz kategorizálja.
+A formátumok észlelése megkönnyíti a dokumentumkezelést azáltal, hogy a fájlokat meghatározott munkafolyamatokhoz vagy alkalmazásokhoz kategorizálja.
 
 ### Az Aspose.Words támogatja a titkosított fájlokat?  
 Igen, képes észlelni a titkosítást, és ennek megfelelően feldolgozni a titkosított dokumentumokat.

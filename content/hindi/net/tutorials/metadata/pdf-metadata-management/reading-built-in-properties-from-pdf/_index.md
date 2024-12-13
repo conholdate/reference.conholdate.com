@@ -14,7 +14,7 @@ url: /hi/net/tutorials/metadata/pdf-metadata-management/reading-built-in-propert
 शुरू करने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित हैं:
 
 - विज़ुअल स्टूडियो: सुनिश्चित करें कि यह आपके सिस्टम पर स्थापित है।
-- .NET के लिए GroupDocs.Metadata: इसे से डाउनलोड करें और इंस्टॉल करें[आधिकारिक वेबसाइट](https://releases.groupdocs.com/metadata/net/).
+-  .NET के लिए GroupDocs.Metadata: इसे से डाउनलोड करें और इंस्टॉल करें[आधिकारिक वेबसाइट](https://releases.groupdocs.com/metadata/net/).
 - C# का बुनियादी ज्ञान: C# और .NET फ्रेमवर्क से परिचित होना अनुशंसित है।
 
 ## नामस्थान आयात करें
@@ -31,7 +31,7 @@ using Formats.Document;
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // पीडीएफ फाइल के रूट पैकेज तक पहुंचें
+    //पीडीएफ फाइल के रूट पैकेज तक पहुंचें
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // अंतर्निहित गुण पुनर्प्राप्त करें और प्रदर्शित करें

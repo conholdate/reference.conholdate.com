@@ -19,7 +19,7 @@ So geht's: Laden Sie Ihre CAD-Datei, konfigurieren Sie Ihre Rasterungsoptionen u
  Benötigen Sie weitere Informationen? Sehen Sie sich das vollständige Tutorial an unter[Exportieren von CAD zur Rasterbildkonvertierung](./export-cad-to-raster-image-conversion/).  
 
 ## Konvertieren Sie DGN in PDF in Aspose.CAD für .NET  
-Hatten Sie schon einmal Probleme mit der Konvertierung von DGN-Dateien in PDFs? Stellen Sie es sich so vor, als würden Sie einen Entwurf in ein elegantes, portables Dokument verwandeln. Mit Aspose.CAD für .NET ersparen Sie sich den Aufwand und kommen direkt zum Ergebnis. Diese Bibliothek unterstützt die präzise Konvertierung von DGN in PDF, wobei jedes Detail erhalten bleibt – perfekt für die gemeinsame Nutzung professioneller Designs.  
+Hatten Sie schon einmal Probleme mit der Konvertierung von DGN-Dateien in PDFs? Stellen Sie es sich so vor, als würden Sie einen Entwurf in ein elegantes, portables Dokument verwandeln. Mit Aspose.CAD für .NET ersparen Sie sich den Aufwand und kommen direkt zu den Ergebnissen. Diese Bibliothek unterstützt die präzise Konvertierung von DGN in PDF, wobei jedes Detail erhalten bleibt – perfekt für die gemeinsame Nutzung professioneller Designs.  
 
 Hier ist ein kurzer Überblick: Importieren Sie die DGN-Datei, legen Sie Ihre Rendering-Optionen fest und speichern Sie die Ausgabe als PDF. Diese Methode gewährleistet Genauigkeit und reduziert gleichzeitig die manuelle Arbeit. Außerdem ist sie flexibel genug für Entwickler aller Niveaus, vom Anfänger bis zum CAD-Experten.  
 

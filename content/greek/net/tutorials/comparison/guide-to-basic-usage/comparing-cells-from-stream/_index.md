@@ -15,7 +15,7 @@ url: /el/net/tutorials/comparison/guide-to-basic-usage/comparing-cells-from-stre
 
 Πριν ξεκινήσετε, βεβαιωθείτε ότι έχετε τα εξής:
 
-1.  GroupDocs.Comparison για .NET: Λήψη και εγκατάσταση της βιβλιοθήκης από[εδώ](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison για .NET: Λήψη και εγκατάσταση της βιβλιοθήκης από[εδώ](https://releases.groupdocs.com/comparison/net/).
 2. Βασικές γνώσεις C#: Εξοικείωση με τον προγραμματισμό C# θεωρείται δεδομένο για αυτό το σεμινάριο.
 3. Ενσωματωμένο περιβάλλον ανάπτυξης (IDE): Χρησιμοποιήστε ένα IDE όπως το Visual Studio για κωδικοποίηση.
 4. Έγγραφα προς σύγκριση: Προετοιμάστε τα έγγραφα που θέλετε να συγκρίνετε και βεβαιωθείτε ότι είναι προσβάσιμα από τον κωδικό C#.
@@ -96,4 +96,4 @@ Console.WriteLine($"\nDocuments compared successfully.\nCheck output in {outputD
 
 ### Πού μπορώ να αναζητήσω βοήθεια ή υποστήριξη σχετικά με το GroupDocs.Comparison για .NET;
 
-Για βοήθεια, επισκεφτείτε το φόρουμ GroupDocs.Comparison[εδώ](https://forum.groupdocs.com/c/comparison/12).
+ Για βοήθεια, επισκεφτείτε το φόρουμ GroupDocs.Comparison[εδώ](https://forum.groupdocs.com/c/comparison/12).

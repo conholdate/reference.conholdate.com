@@ -16,7 +16,7 @@ In deze tutorial gaan we onderzoeken hoe u DOC-bestanden kunt samenvoegen met be
 Voordat u begint, moet u ervoor zorgen dat u over het volgende beschikt:
 
 1. Visual Studio: Installeer Visual Studio op uw ontwikkelcomputer.
-2.  GroupDocs.Merger voor .NET: Download de bibliotheek van de[website](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger voor .NET: Download de bibliotheek van de[website](https://releases.groupdocs.com/merger/net/).
 3. Basiskennis van C#: Kennis van de programmeertaal C# wordt aanbevolen.
 
 ## Vereiste naamruimten importeren
@@ -46,7 +46,7 @@ Gebruik het volgende codefragment om de bron-DOC-bestanden te laden die u wilt s
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Voeg nog een DOC-bestand toe om samen te voegen
+    // Voeg nog een DOC-bestand toe om samen te voegen
     merger.Join("path_to_second_doc.doc");
 
     // DOC-bestanden samenvoegen en het resultaat opslaan
@@ -75,7 +75,7 @@ Absoluut, het is compatibel met zowel .NET Core als .NET Framework.
 
 ### Is er een licentie nodig voor commercieel gebruik?
 
-Ja, een geldige licentie is nodig voor commercieel gebruik. U kunt een licentie kopen bij[Groepsdocumenten](https://purchase.groupdocs.com/buy).
+ Ja, een geldige licentie is nodig voor commercieel gebruik. U kunt een licentie kopen bij[Groepsdocumenten](https://purchase.groupdocs.com/buy).
 
 ### Kan ik GroupDocs.Merger voor .NET gratis uitproberen?
 

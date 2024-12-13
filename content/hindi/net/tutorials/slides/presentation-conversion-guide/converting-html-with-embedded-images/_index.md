@@ -101,7 +101,7 @@ presentation.Save(Path.Combine(outputDir, "PresentationOutput.html"), SaveFormat
 हां, Aspose.Slides निर्यात के दौरान एनिमेशन का समर्थन करता है। हालाँकि, HTML में एनिमेशन की अनुकूलता मूल प्रस्तुति की जटिलता पर निर्भर करती है।
 
 ### Aspose.Slides का उपयोग करके अन्य कौन से प्रारूप निर्यात किए जा सकते हैं?
-यह लाइब्रेरी PDF, PNG और SVG सहित कई प्रारूपों का समर्थन करती है।[प्रलेखन](https://reference.aspose.com/slides/net/) जानकारी के लिए।
+ यह लाइब्रेरी PDF, PNG और SVG सहित कई प्रारूपों का समर्थन करती है।[प्रलेखन](https://reference.aspose.com/slides/net/) जानकारी के लिए।
 
 ### क्या Aspose.Slides के लिए तकनीकी सहायता उपलब्ध है?
  हां, आप सहायता मांग सकते हैं[Aspose समर्थन मंच](https://forum.aspose.com/c/slides/11).

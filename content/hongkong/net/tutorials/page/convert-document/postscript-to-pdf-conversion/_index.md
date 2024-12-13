@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/page/convert-document/postscript-to-pdf-conversion/
 ---
 ## 介紹
 
-在軟體開發的動態領域，Aspose.Page for .NET 是一款功能強大的工具，專為無縫 PostScript 到 PDF 轉換而設計。本教學將引導您完成使用 Aspose.Page 的有效流程，無論您是經驗豐富的開發人員還是剛剛涉足文件處理領域。
+在軟體開發的動態領域，Aspose.Page for .NET 是一款功能強大的工具，專為無縫 PostScript 到 PDF 轉換而設計。無論您是經驗豐富的開發人員還是剛剛涉足文件處理領域，本教學都將引導您完成使用 Aspose.Page 的有效流程。
 
 ## 先決條件
 

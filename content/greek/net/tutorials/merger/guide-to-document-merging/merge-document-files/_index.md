@@ -16,7 +16,7 @@ url: /el/net/tutorials/merger/guide-to-document-merging/merge-document-files/
 Πριν ξεκινήσετε, βεβαιωθείτε ότι έχετε τα εξής:
 
 1. Visual Studio: Εγκαταστήστε το Visual Studio στο μηχάνημα ανάπτυξης.
-2.  GroupDocs.Merger για .NET: Κάντε λήψη της βιβλιοθήκης από το[δικτυακός τόπος](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger για .NET: Κάντε λήψη της βιβλιοθήκης από το[δικτυακός τόπος](https://releases.groupdocs.com/merger/net/).
 3. Βασικές γνώσεις C#: Συνιστάται η εξοικείωση με τη γλώσσα προγραμματισμού C#.
 
 ## Εισαγωγή απαιτούμενων χώρων ονομάτων
@@ -46,7 +46,7 @@ string outputFile = Path.Combine(outputFolder, "merged.doc");
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Προσθέστε ένα άλλο αρχείο DOC για συγχώνευση
+    // Προσθέστε ένα άλλο αρχείο DOC για συγχώνευση
     merger.Join("path_to_second_doc.doc");
 
     // Συγχωνεύστε αρχεία DOC και αποθηκεύστε το αποτέλεσμα
@@ -75,7 +75,7 @@ using (var merger = new Merger("path_to_first_doc.doc"))
 
 ### Απαιτεί άδεια για εμπορική χρήση;
 
-Ναι, απαιτείται έγκυρη άδεια για εμπορική χρήση. Μπορείτε να αγοράσετε άδεια από[GroupDocs](https://purchase.groupdocs.com/buy).
+ Ναι, απαιτείται έγκυρη άδεια για εμπορική χρήση. Μπορείτε να αγοράσετε άδεια από[GroupDocs](https://purchase.groupdocs.com/buy).
 
 ### Μπορώ να δοκιμάσω το GroupDocs.Merger για .NET δωρεάν;
 

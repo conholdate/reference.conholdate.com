@@ -47,10 +47,10 @@ Richten Sie Ihr PostScript-Dokument mit den gewünschten Konfigurationen ein:
 string dataDir = "Your Document Directory"; // Legen Sie den Pfad für Ihr Dokumentverzeichnis fest
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //Speicheroptionen für das Format A4 einrichten
+    // Speicheroptionen für das Format A4 einrichten
     PsSaveOptions options = new PsSaveOptions();
     
-    // Erstellen Sie ein neues PostScript-Dokument mit 2 Seiten
+    //Erstellen Sie ein neues PostScript-Dokument mit 2 Seiten
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

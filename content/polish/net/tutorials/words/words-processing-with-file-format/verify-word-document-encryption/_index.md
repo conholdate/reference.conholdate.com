@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Krok 3: Wykryj format pliku
 
- Teraz użyjemy`DetectFileFormat` metoda z`FileFormatUtil`klasa do zbierania informacji o formacie pliku. W tym przykładzie zakładamy, że zaszyfrowany dokument nazywa się „Encrypted.docx” i znajduje się w określonym katalogu:
+ Teraz użyjemy`DetectFileFormat` metoda z`FileFormatUtil` klasa do zbierania informacji o formacie pliku. W tym przykładzie zakładamy, że zaszyfrowany dokument nazywa się „Encrypted.docx” i znajduje się w określonym katalogu:
 
 ```csharp
 FileFormatInfo info = FileFormatUtil.DetectFileFormat(dataDir + "Encrypted.docx");
@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## Wniosek
 
- I to wszystko! Udało Ci się zweryfikować status szyfrowania dokumentu Word przy użyciu Aspose.Words dla .NET. To imponujące, jak kilka linijek kodu może uprościć takie zadania. Jeśli masz jakieś pytania lub napotkasz jakieś problemy, skontaktuj się z nami pod adresem[Forum wsparcia Aspose](https://forum.aspose.com/c/words/8).
+ to wszystko! Udało Ci się zweryfikować status szyfrowania dokumentu Word przy użyciu Aspose.Words dla .NET. To imponujące, jak kilka linijek kodu może uprościć takie zadania. Jeśli masz jakieś pytania lub napotkasz jakieś problemy, skontaktuj się z nami pod adresem[Forum wsparcia Aspose](https://forum.aspose.com/c/words/8).
 
 ## Najczęściej zadawane pytania
 

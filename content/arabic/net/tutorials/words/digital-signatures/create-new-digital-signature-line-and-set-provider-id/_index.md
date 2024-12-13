@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
- ال`InsertSignatureLine`تضيف الطريقة سطر التوقيع، ونقوم بتعيين معرف مزود فريد له.
+ ال`InsertSignatureLine` تضيف الطريقة سطر التوقيع، ونقوم بتعيين معرف مزود فريد له.
 
 ## الخطوة 4: حفظ المستند
 

@@ -84,7 +84,7 @@ using (var fileStream = new FileStream(destName, FileMode.Create))
 
 ## 結論
 
-恭喜！您已成功學習如何使用 Aspose.PSD for .NET 將圖像儲存到流中。該庫使您能夠在 .NET 應用程式中有效地操作圖像，從而釋放創造力和功能的大量可能性。
+恭喜！您已成功學習如何使用 Aspose.PSD for .NET 將圖像儲存到流中。該程式庫使您能夠在 .NET 應用程式中有效地操作圖像，從而釋放創造力和功能的大量可能性。
 
 ## 常見問題解答
 

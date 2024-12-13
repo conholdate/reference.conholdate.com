@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  ตอนนี้สร้างตัวอย่าง`Document` วัตถุที่จะแสดงไฟล์ CGM ของคุณในหน่วยความจำ ช่วยให้คุณสามารถจัดการไฟล์ก่อนบันทึกเป็น PDF
 
 ```csharp
-//สร้างอินสแตนซ์ของวัตถุเอกสาร
+// สร้างอินสแตนซ์ของวัตถุเอกสาร
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ CGM ย่อมาจาก Computer Graphics Metafile ซึ่งเป็น
 
 ### ฉันสามารถค้นหาการสนับสนุนสำหรับ Aspose.PDF ได้ที่ไหน
 
- หากต้องการความช่วยเหลือ โปรดไปที่[ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/pdf/10)ซึ่งคุณสามารถสอบถามคำถามและหาแนวทางแก้ไขปัญหาทั่วไปได้
+หากต้องการความช่วยเหลือ โปรดไปที่[ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/pdf/10)ซึ่งคุณสามารถสอบถามคำถามและหาแนวทางแก้ไขปัญหาทั่วไปได้
 
 ### ฉันจะซื้อใบอนุญาตสำหรับ Aspose.PDF ได้อย่างไร
 

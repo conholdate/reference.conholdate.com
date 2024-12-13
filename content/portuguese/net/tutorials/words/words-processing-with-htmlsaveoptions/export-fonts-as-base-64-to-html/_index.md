@@ -113,7 +113,7 @@ Sim! O Aspose.Words para .NET suporta a incorporação de vários recursos, incl
 
 ### E se meu documento tiver várias fontes?
 
-Aspose.Words para .NET manipula todas as fontes usadas no seu documento, incorporando-as como Base64 no arquivo HTML de saída.
+O Aspose.Words para .NET manipula todas as fontes usadas no seu documento, incorporando-as como Base64 no arquivo HTML de saída.
 
 ### O Aspose.Words para .NET é gratuito?
 

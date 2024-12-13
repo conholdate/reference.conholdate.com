@@ -72,7 +72,7 @@ string outputFile = dataDir + "HTMLtoGIF_Output.gif";
 
 ## Stap 5: Converteer HTML naar GIF
 
-Voer ten slotte de conversie uit door de`Converter` klas:
+ Voer ten slotte de conversie uit door de`Converter` klas:
 
 ```csharp
 Converter.ConvertHTML(htmlDocument, options, outputFile);
@@ -82,7 +82,7 @@ En dat is alles! U hebt succesvol een HTML-document omgezet naar een GIF-afbeeld
 
 ## Conclusie
 
-U hebt geleerd hoe u Aspose.HTML voor .NET kunt gebruiken om HTML-documenten efficiënt om te zetten in GIF's. Dit proces is met name handig voor het genereren van beeldrepresentaties van webcontent voor verschillende toepassingen.
+hebt geleerd hoe u Aspose.HTML voor .NET kunt gebruiken om HTML-documenten efficiënt om te zetten in GIF's. Dit proces is met name handig voor het genereren van beeldrepresentaties van webcontent voor verschillende toepassingen.
 
 ## Veelgestelde vragen
 

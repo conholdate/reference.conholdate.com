@@ -30,7 +30,7 @@ using Aspose.PSD.ImageOptions;
 
 ## 步骤 1：加载源图像
 
-定义文档目录的路径以及源 PSD 文件和输出文件的名称：
+定义文档目录的路径以及源 PSD 文件的路径和输出文件的名称：
 
 ```csharp
 //指定文档目录的路径
@@ -61,7 +61,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 ## 结论
 
-恭喜！您已成功使用 Aspose.PSD for .NET 实现 Bradley Threshold 技术。此方法可以极大地改善各种应用程序（从文档分析到图形设计）的图像分割。
+恭喜！您已成功使用 Aspose.PSD for .NET 实现 Bradley Threshold 技术。此方法可以大大改善从文档分析到图形设计等各种应用程序的图像分割。
 
 ## 常见问题解答
 

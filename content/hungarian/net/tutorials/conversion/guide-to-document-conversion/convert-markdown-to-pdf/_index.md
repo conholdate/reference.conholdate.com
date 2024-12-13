@@ -19,7 +19,7 @@ Mielőtt elkezdené, győződjön meg arról, hogy az alábbiakat beállította:
  Győződjön meg arról, hogy a .NET SDK telepítve van a gépen. Letöltheti a[.NET webhely](https://dotnet.microsoft.com/download).
 
 ### GroupDocs.Conversion for .NET Library
-Töltse le a GroupDocs.Conversion for .NET könyvtárat a[telek](https://releases.groupdocs.com/conversion/net/). Kövesse a telepítési utasításokat, hogy hozzáadja a projekthez.
+ Töltse le a GroupDocs.Conversion for .NET könyvtárat a[telek](https://releases.groupdocs.com/conversion/net/)Kövesse a telepítési utasításokat, hogy hozzáadja a projekthez.
 
 ## 1. lépés: Importálja a szükséges névtereket
 A GroupDocs funkcióinak eléréséhez a .NET-projektben vegye fel a következő névtereket:
@@ -74,7 +74,7 @@ Megtanulta, hogyan konvertálhat Markdown fájlokat PDF-be a GroupDocs.Conversio
 
 ## GYIK
 
-### A GroupDocs.Conversion for .NET kompatibilis a .NET összes verziójával?
+### GroupDocs.Conversion for .NET kompatibilis a .NET összes verziójával?
 Igen, támogatja a különböző .NET-keretrendszer-verziókat.
 
 ### A Markdownon kívül más fájlokat is konvertálhatok PDF-be?

@@ -15,7 +15,7 @@ Vítejte v našem komplexním průvodci zobrazováním obrázků pomocí Aspose.
 
 Než začnete, ujistěte se, že máte splněny tyto předpoklady:
 
-- Aspose.Drawing for .NET Library: Stáhněte a nainstalujte knihovnu z[stránka vydání](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing for .NET Library: Stáhněte a nainstalujte knihovnu z[stránka vydání](https://releases.aspose.com/drawing/net/).
 - Prostředí .NET: Ujistěte se, že je vaše vývojové prostředí nastaveno pro práci s .NET.
 - Adresář dokumentů: Vytvořte adresář pro ukládání obrázků.
 - Soubor obrázku: Připravte soubor obrázku k zobrazení, například "aspose_logo.png."
@@ -88,12 +88,12 @@ Ano, Aspose.Drawing je pravidelně aktualizován, aby byla zachována kompatibil
 
 ### Jak mohu zvládnout změnu měřítka obrázku v Aspose.Drawing?
 
- Měřítko obrazu můžete upravit úpravou parametrů v`DrawImage`metodu, například určení cílového obdélníku.
+ Měřítko obrazu můžete upravit úpravou parametrů v`DrawImage` metodu, například určení cílového obdélníku.
 
 ### Existují úvahy o licencování pro použití Aspose.Drawing v komerčních projektech?
 
- Podrobnosti a možnosti licencování naleznete na adrese[nákupní stránku](https://purchase.conholdate.com/buy).
+ Podrobnosti o licencování a možnosti naleznete na[nákupní stránku](https://purchase.conholdate.com/buy).
 
 ### Kde mohu vyhledat pomoc, pokud narazím na problémy nebo mám dotazy ohledně Aspose.Drawing?
 
- Pro podporu můžete navštívit[Aspose. Kreslící fórum](https://forum.aspose.com/c/diagram/17) spojit se s komunitou a vyhledat odbornou pomoc.
+Pro podporu můžete navštívit[Aspose. Kreslící fórum](https://forum.aspose.com/c/diagram/17) spojit se s komunitou a vyhledat odbornou pomoc.

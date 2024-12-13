@@ -16,7 +16,7 @@ Aspose.Words for .NET으로 문서 조작 기술을 향상시킬 준비가 되�
 자세한 내용을 살펴보기 전에 다음 사항이 있는지 확인하세요.
 
 1. Visual Studio: .NET과 호환되는 모든 버전.
-2.  Aspose.Words for .NET: 다운로드[여기](https://releases.aspose.com/words/net/).
+2. Aspose.Words for .NET: 다운로드[여기](https://releases.aspose.com/words/net/).
 3. 기본 C# 지식: 간단한 C# 프로그램을 작성하는 데 익숙하면 충분합니다.
 4. 샘플 Word 문서: 이 튜토리얼을 위한 북마크가 포함된 Word 문서(예: "Bookmarks.docx")를 준비하세요.
 

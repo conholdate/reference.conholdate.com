@@ -16,7 +16,7 @@ Jste připraveni zlepšit své dovednosti v manipulaci s dokumenty pomocí Aspos
 Než se ponoříme, ujistěte se, že máte následující:
 
 1. Visual Studio: Jakákoli verze kompatibilní s .NET.
-2.  Aspose.Words pro .NET: Stáhněte si ji[zde](https://releases.aspose.com/words/net/).
+2. Aspose.Words pro .NET: Stáhněte si ji[zde](https://releases.aspose.com/words/net/).
 3. Základní znalost C#: Postačí znalost psaní jednoduchých C# programů.
 4. Ukázkový dokument aplikace Word: Připravte dokument aplikace Word (např. "Bookmarks.docx") obsahující záložky pro tento výukový program.
 

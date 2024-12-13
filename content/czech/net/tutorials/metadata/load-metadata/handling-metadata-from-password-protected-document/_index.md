@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## Krok 3: Načtěte metadata z dokumentu
 
- Pomocí`Metadata` třídy, můžete načíst metadata ze zadaného dokumentu. Nezapomeňte vyměnit`"YourInputFile"` s cestou k vašemu dokumentu:
+ Pomocí`Metadata` třídy, můžete načíst metadata ze zadaného dokumentu. Nezapomeňte vyměnit`"YourInputFile"` cestou k vašemu dokumentu:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

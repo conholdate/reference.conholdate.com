@@ -90,4 +90,4 @@ Sim! Você pode converter de vários formatos, incluindo DOC, DOCX e HTML para R
 Definitivamente! Integre o código fornecido em seus aplicativos ou scripts para automatizar conversões de documentos perfeitamente.
 
 ### Onde posso encontrar mais suporte?
- Para obter assistência, visite o[Fórum de suporte Aspose](https://forum.aspose.com/c/words/8) para se conectar com a comunidade e obter ajuda especializada.
+Para obter assistência, visite o[Fórum de suporte Aspose](https://forum.aspose.com/c/words/8) para se conectar com a comunidade e obter ajuda especializada.

@@ -33,7 +33,7 @@ Setelah prasyarat dan namespace kita beres, mari beralih ke panduan langkah demi
 
 ## Langkah 1: Inisialisasi Dokumen dan DocumentBuilder
 
-Kita akan mulai dengan membuat dokumen Word baru dan menginisialisasi`DocumentBuilder` objek, yang akan membantu kami menambahkan konten.
+ Kita akan mulai dengan membuat dokumen Word baru dan menginisialisasi`DocumentBuilder` objek, yang akan membantu kami menambahkan konten.
 
 ```csharp
 // Tentukan jalur ke direktori dokumen.
@@ -56,7 +56,7 @@ Baris ini menambahkan teks "Berikut adalah gambar SVG: " ke dokumen Anda, menyed
 
 ## Langkah 3: Masukkan Gambar SVG
 
- Sekarang tibalah bagian yang menarik! Kita akan memasukkan gambar SVG ke dalam dokumen kita menggunakan`InsertHtml` metode.
+Sekarang tibalah bagian yang menarik! Kita akan memasukkan gambar SVG ke dalam dokumen kita menggunakan`InsertHtml` metode.
 
 ```csharp
 builder.InsertHtml(
@@ -83,7 +83,7 @@ Konfigurasi ini memberitahu Aspose.Words untuk mengonversi metafile apa pun dala
 
 ## Langkah 5: Simpan Dokumen
 
-Terakhir, mari kita simpan dokumen kita menggunakan`Save` metode dari`Document` kelas.
+ Terakhir, mari kita simpan dokumen kita menggunakan`Save` metode dari`Document`kelas.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

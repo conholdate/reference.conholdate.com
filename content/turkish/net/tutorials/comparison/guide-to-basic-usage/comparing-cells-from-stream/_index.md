@@ -15,7 +15,7 @@ Yazılım geliştirmede, özellikle yasal belgeler, sözleşmeler veya herhangi 
 
 Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
-1.  GroupDocs.Comparison for .NET: Kütüphaneyi şu adresten indirin ve yükleyin:[Burada](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison for .NET: Kütüphaneyi şu adresten indirin ve yükleyin:[Burada](https://releases.groupdocs.com/comparison/net/).
 2. Temel C# Bilgisi: Bu eğitim için C# programlamaya aşina olunduğu varsayılmaktadır.
 3. Entegre Geliştirme Ortamı (IDE): Kodlama için Visual Studio gibi bir IDE kullanın.
 4. Karşılaştırılacak Belgeler: Karşılaştırmak istediğiniz belgeleri hazırlayın ve bunların C# kodunuzdan erişilebilir olduğundan emin olun.
@@ -96,4 +96,4 @@ Kesinlikle! GroupDocs.Comparison for .NET, çıktıyı ihtiyaçlarınıza göre 
 
 ### GroupDocs.Comparison for .NET ile ilgili yardım veya desteği nereden alabilirim?
 
-Yardım için GroupDocs.Comparison forumunu ziyaret edin[Burada](https://forum.groupdocs.com/c/comparison/12).
+ Yardım için GroupDocs.Comparison forumunu ziyaret edin[Burada](https://forum.groupdocs.com/c/comparison/12).

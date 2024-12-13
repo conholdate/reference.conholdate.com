@@ -4,7 +4,7 @@ linktitle: GroupDocs.Metadata .NET oktatóanyagokhoz
 type: docs
 weight: 10
 url: /hu/net/tutorials/metadata/
-description: Részletes példák és lépésenkénti utasítások segítségével megtudhatja, hogyan kezelheti a metaadatokat különböző fájlformátumokban.
+description: Részletes példák és lépésenkénti utasítások segítségével megtudhatja, hogyan kezelheti a különböző fájlformátumok metaadatait.
 is_root: true
 ---
 

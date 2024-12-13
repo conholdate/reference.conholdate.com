@@ -46,7 +46,7 @@ Definiera sökvägen till signaturbilden som du tänker använda:
 string imagePath = "signature_handwrite.jpg";
 ```
 
-## Steg 3: Ange sökväg för utdatafil
+## Steg 3: Ställ in sökväg för utdatafil
 
 Bestäm var du vill spara det signerade dokumentet:
 
@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Steg 4: Initiera signaturobjektet
 
- Skapa en instans av`Signature` klass, passerar i dokumentets sökväg:
+ Skapa en instans av`Signature`klass, passerar i dokumentets sökväg:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

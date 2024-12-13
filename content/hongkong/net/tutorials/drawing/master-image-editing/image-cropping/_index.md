@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/drawing/master-image-editing/image-cropping/
 
 在我們開始之前，請確保您已準備好以下內容：
 
--  Aspose.Drawing 函式庫：確保您已將 Aspose.Drawing 函式庫整合到您的 .NET 專案中。你可以下載它[這裡](https://releases.aspose.com/drawing/net/).
+- Aspose.Drawing 函式庫：確保您已將 Aspose.Drawing 函式庫整合到您的 .NET 專案中。你可以下載它[這裡](https://releases.aspose.com/drawing/net/).
   
 - 影像目錄：為您的專案影像指定一個目錄。你需要更換`"Your Document Directory"`在程式碼片段中包含圖像資料夾的路徑。
 

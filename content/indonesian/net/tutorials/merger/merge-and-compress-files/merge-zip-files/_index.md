@@ -82,7 +82,7 @@ Ya, kompatibel dengan aplikasi .NET Framework dan .NET Core.
 
 ### Dapatkah saya menyesuaikan proses penggabungan, seperti menentukan urutan file dalam ZIP yang digabungkan?
 
-Ya, Anda memiliki kendali penuh atas proses penggabungan. Anda dapat menentukan urutan file dengan memanipulasi urutan pemanggilan perintah.`Join()` metode.
+ Ya, Anda memiliki kendali penuh atas proses penggabungan. Anda dapat menentukan urutan file dengan memanipulasi urutan pemanggilan perintah.`Join()` metode.
 
 ### Apakah GroupDocs.Merger untuk .NET memerlukan lisensi untuk penggunaan komersial?
 

@@ -9,7 +9,7 @@ url: /de/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 ---
 ## Einführung
 
-Hallo, Programmierbegeisterte! Wollten Sie schon immer Ihre Word-Dokumente mit skalierbaren Vektorgrafiken aufwerten? Dann sind Sie hier genau richtig! In diesem Tutorial erfahren Sie, wie Sie Metadateien in Ihren Word-Dokumenten mithilfe der leistungsstarken Aspose.Words-Bibliothek für .NET in SVG konvertieren. Am Ende verfügen Sie über die Fähigkeiten, Ihre Dokumente optisch ansprechend und vielseitig zu gestalten. Lassen Sie uns anfangen!
+Hallo, Programmierbegeisterte! Wollten Sie schon immer Ihre Word-Dokumente mit skalierbaren Vektorgrafiken aufwerten? Dann sind Sie hier genau richtig! In diesem Tutorial erfahren Sie, wie Sie Metadateien in Ihren Word-Dokumenten mithilfe der leistungsstarken Bibliothek Aspose.Words für .NET in SVG konvertieren. Am Ende verfügen Sie über die Fähigkeiten, Ihre Dokumente optisch ansprechend und vielseitig zu gestalten. Lassen Sie uns anfangen!
 
 ## Voraussetzungen
 
@@ -33,7 +33,7 @@ Nachdem wir die Voraussetzungen und Namespaces geklärt haben, können wir mit d
 
 ## Schritt 1: Initialisieren Sie das Dokument und den DocumentBuilder
 
-Wir beginnen mit der Erstellung eines neuen Word-Dokuments und der Initialisierung des`DocumentBuilder` Objekt, das uns beim Hinzufügen von Inhalten hilft.
+ Wir beginnen mit der Erstellung eines neuen Word-Dokuments und der Initialisierung des`DocumentBuilder` Objekt, das uns beim Hinzufügen von Inhalten hilft.
 
 ```csharp
 // Definieren Sie den Pfad zum Dokumentenverzeichnis.
@@ -56,7 +56,7 @@ Diese Zeile fügt Ihrem Dokument den Text „Hier ist ein SVG-Bild:“ hinzu und
 
 ## Schritt 3: SVG-Bild einfügen
 
- Jetzt kommt der spannende Teil! Wir fügen ein SVG-Bild in unser Dokument ein, mit dem`InsertHtml` Verfahren.
+Jetzt kommt der spannende Teil! Wir fügen ein SVG-Bild in unser Dokument ein, mit dem`InsertHtml` Verfahren.
 
 ```csharp
 builder.InsertHtml(
@@ -83,7 +83,7 @@ Diese Konfiguration weist Aspose.Words an, beim Exportieren nach HTML alle Metad
 
 ## Schritt 5: Speichern Sie das Dokument
 
-Zum Schluss speichern wir unser Dokument mit dem`Save` Methode der`Document` Klasse.
+ Zum Schluss speichern wir unser Dokument mit dem`Save` Methode der`Document`Klasse.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

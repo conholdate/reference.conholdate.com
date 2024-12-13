@@ -17,7 +17,7 @@ url: /ar/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-
 
 ### تثبيت GroupDocs.Conversion لـ .NET
 
-يمكنك تنزيل GroupDocs.Conversion لـ .NET من[موقع إلكتروني](https://releases.groupdocs.com/conversion/net/)تأكد من تثبيته وفقًا لمتطلبات مشروعك.
+ يمكنك تنزيل GroupDocs.Conversion لـ .NET من[موقع إلكتروني](https://releases.groupdocs.com/conversion/net/)تأكد من تثبيته وفقًا لمتطلبات مشروعك.
 
 ### ملف مصدر الذكاء الاصطناعي
 

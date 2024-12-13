@@ -94,7 +94,7 @@ Absoluut! Aspose.Email voor .NET ondersteunt verschillende formaten, waaronder M
 
 ### Wordt tijdzone-informatie bewaard in het MHT-formaat?
 
- Ja, tijdzone-informatie blijft behouden tijdens het conversieproces. Door tijdzone-offsets te verwerken en de juiste`TimeZoneInfo` Met behulp van deze methoden kunt u een nauwkeurige weergave van de tijdzone in het MHT-bestand garanderen.
+ Ja, tijdzone-informatie blijft behouden tijdens het conversieproces. Door tijdzone-offsets te verwerken en de juiste`TimeZoneInfo`Met behulp van deze methoden kunt u een nauwkeurige weergave van de tijdzone in het MHT-bestand garanderen.
 
 ### Waar kan ik meer documentatie en updates vinden over Aspose.Email voor .NET?
 

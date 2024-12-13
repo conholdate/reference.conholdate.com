@@ -9,7 +9,7 @@ url: /cs/net/tutorials/words/mastering-document-options-and-settings/set-russian
 ---
 ## Zavedení
 
-V našem stále vícejazyčném světě je zásadní přizpůsobení dokumentů tak, aby vyhovovaly různým jazykovým preferencím. Pokud pracujete s Aspose.Words for .NET, tento tutoriál vás provede procesem nastavení ruštiny jako výchozího jazyka pro úpravy ve vašich dokumentech aplikace Word. 
+V našem stále vícejazyčném světě je zásadní přizpůsobení dokumentů tak, aby vyhovovaly různým jazykovým preferencím. Pokud pracujete s Aspose.Words pro .NET, tento tutoriál vás provede procesem nastavení ruštiny jako výchozího jazyka pro úpravy ve vašich dokumentech aplikace Word. 
 
 ## Předpoklady
 

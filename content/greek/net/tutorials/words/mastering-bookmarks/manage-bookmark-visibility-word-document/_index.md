@@ -16,7 +16,7 @@ url: /el/net/tutorials/words/mastering-bookmarks/manage-bookmark-visibility-word
 Πριν βουτήξουμε, βεβαιωθείτε ότι έχετε τα εξής:
 
 1. Visual Studio: Οποιαδήποτε έκδοση συμβατή με .NET.
-2.  Aspose.Words για .NET: Κάντε λήψη του[εδώ](https://releases.aspose.com/words/net/).
+2. Aspose.Words για .NET: Κάντε λήψη του[εδώ](https://releases.aspose.com/words/net/).
 3. Βασικές γνώσεις C#: Η εξοικείωση με τη σύνταξη απλών προγραμμάτων C# αρκεί.
 4. Δείγμα εγγράφου Word: Προετοιμάστε ένα έγγραφο του Word (π.χ. "Bookmarks.docx") που περιέχει σελιδοδείκτες για αυτό το σεμινάριο.
 

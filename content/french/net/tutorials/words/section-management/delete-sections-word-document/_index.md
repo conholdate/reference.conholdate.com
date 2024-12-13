@@ -55,7 +55,7 @@ doc.Sections[1].Remove();
 
 ## Conclusion
 
- Avec Aspose.Words pour .NET, la manipulation des documents Word est efficace et simple. La suppression de sections n'est qu'une des nombreuses fonctionnalités puissantes à votre disposition. N'oubliez pas d'explorer les nombreuses fonctionnalités[documentation](https://reference.aspose.com/words/net/) pour découvrir davantage de fonctionnalités qui peuvent améliorer vos tâches de traitement de documents.
+Avec Aspose.Words pour .NET, la manipulation des documents Word est efficace et simple. La suppression de sections n'est qu'une des nombreuses fonctionnalités puissantes à votre disposition. N'oubliez pas d'explorer les nombreuses fonctionnalités[documentation](https://reference.aspose.com/words/net/) pour découvrir davantage de fonctionnalités qui peuvent améliorer vos tâches de traitement de documents.
 
 ## FAQ
 

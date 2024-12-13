@@ -53,7 +53,7 @@ using Aspose.Cells;
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 ```
 
-代替`"YOUR DOCUMENT DIRECTORY"`與你的實際路徑`book1.xls`文件駐留。將此視為在開始公路旅行之前向您的 GPS 提供正確的地址！
+代替`"YOUR DOCUMENT DIRECTORY"`與您的實際路徑`book1.xls`文件駐留。將此視為在開始公路旅行之前向您的 GPS 提供正確的地址！
 
 ## 步驟 2：使用 FileStream 開啟 Excel 文件
 
@@ -85,7 +85,7 @@ workbook.Worksheets.RemoveAt(0);
 
 在此範例中，我們將刪除集合中的第一個工作表（請記住，索引是從零開始的）。這就像扔掉你已經很久沒有穿過的一隻鞋子 - 重新調整你的 Excel 文檔以僅保留你需要的內容！
 
-## 第四步：儲存修改後的工作簿
+## 步驟4：儲存修改後的工作簿
 
 刪除工作表後，您必須儲存變更。您可以透過這種方式將結果寫回 Excel 文件，從而使變更永久化。
 
@@ -93,7 +93,7 @@ workbook.Worksheets.RemoveAt(0);
 workbook.Save(dataDir + "output.out.xls");
 ```
 
-您可以選擇透過變更來使用新名稱儲存它`"output.out.xls"`任何你想要的。想像一下，點擊 Word 文件上的「儲存」按鈕 - 您想要保留所做的修改。
+您可以選擇透過變更來使用新名稱儲存它`"output.out.xls"`任何你想要的。想像一下，點擊 Word 文件上的「儲存」按鈕 — 您希望保留所做的修改。
 
 ## 第5步：關閉文件流
 

@@ -94,7 +94,7 @@ Tentu saja! Aspose.Email untuk .NET mendukung berbagai format, termasuk MSG, EML
 
 ### Apakah informasi zona waktu disimpan dalam format MHT?
 
- Ya, informasi zona waktu dipertahankan selama proses konversi. Dengan menangani pergeseran zona waktu dan menggunakan alat yang sesuai,`TimeZoneInfo` metode ini, Anda dapat memastikan representasi zona waktu yang akurat dalam file MHT.
+ Ya, informasi zona waktu dipertahankan selama proses konversi. Dengan menangani pergeseran zona waktu dan menggunakan alat yang sesuai,`TimeZoneInfo`metode ini, Anda dapat memastikan representasi zona waktu yang akurat dalam file MHT.
 
 ### Di mana saya dapat menemukan dokumentasi dan pembaruan lebih lanjut tentang Aspose.Email untuk .NET?
 

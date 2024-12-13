@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
- Ο`InsertSignatureLine`μέθοδος προσθέτει τη γραμμή υπογραφής και της εκχωρούμε ένα μοναδικό αναγνωριστικό παρόχου.
+ Ο`InsertSignatureLine` μέθοδος προσθέτει τη γραμμή υπογραφής και της εκχωρούμε ένα μοναδικό αναγνωριστικό παρόχου.
 
 ## Βήμα 4: Αποθηκεύστε το έγγραφο
 

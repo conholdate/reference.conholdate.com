@@ -94,7 +94,7 @@ Absolument ! Aspose.Email pour .NET prend en charge divers formats, notamment M
 
 ### Les informations de fuseau horaire sont-elles conservées au format MHT ?
 
- Oui, les informations de fuseau horaire sont conservées pendant le processus de conversion. En gérant les décalages de fuseau horaire et en utilisant les paramètres appropriés`TimeZoneInfo` méthodes, vous pouvez garantir une représentation précise du fuseau horaire dans le fichier MHT.
+ Oui, les informations de fuseau horaire sont conservées pendant le processus de conversion. En gérant les décalages de fuseau horaire et en utilisant les paramètres appropriés`TimeZoneInfo`méthodes, vous pouvez garantir une représentation précise du fuseau horaire dans le fichier MHT.
 
 ### Où puis-je trouver plus de documentation et de mises à jour sur Aspose.Email pour .NET ?
 

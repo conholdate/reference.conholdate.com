@@ -81,4 +81,4 @@ foreach (var property in customProperties)
  네, 접근할 수 있습니다[무료 체험](https://releases.groupdocs.com/) GroupDocs.Metadata의 기능을 살펴보세요.
 
 ### GroupDocs.Metadata 라이선스는 어떻게 구매할 수 있나요?
- 라이센스를 취득하려면 다음을 방문하십시오.[구매 페이지](https://purchase.groupdocs.com/buy) 임시 라이센스도 사용 가능합니다.[여기](https://purchase.groupdocs.com/temporary-license/).
+ 라이센스를 취득하려면 다음을 방문하십시오.[구매 페이지](https://purchase.groupdocs.com/buy) . 임시 라이센스도 사용 가능합니다.[여기](https://purchase.groupdocs.com/temporary-license/).

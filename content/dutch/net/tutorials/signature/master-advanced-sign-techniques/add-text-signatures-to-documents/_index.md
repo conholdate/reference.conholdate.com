@@ -56,7 +56,7 @@ Configureer de opties voor uw teksthandtekening, waaronder de inhoud, positie, g
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // X-positie
+    Left = 50, //X-positie
     Top = 200, // Y-positie
     Width = 100, // Breedte van de handtekening
     Height = 30, // Hoogte van de handtekening

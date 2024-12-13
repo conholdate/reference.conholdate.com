@@ -16,7 +16,7 @@ url: /zh-hant/net/tutorials/merger/guide-to-document-merging/merge-document-file
 在開始之前，請確保您具備以下條件：
 
 1. Visual Studio：在開發電腦上安裝 Visual Studio。
-2.  GroupDocs.Merger for .NET：從以下位置下載庫：[網站](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger for .NET：從以下位置下載庫：[網站](https://releases.groupdocs.com/merger/net/).
 3. C# 基礎知識：建議熟悉 C# 程式語言。
 
 ## 導入所需的命名空間

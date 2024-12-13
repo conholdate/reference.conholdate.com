@@ -56,7 +56,7 @@ Konfigurasikan opsi untuk tanda tangan teks Anda, termasuk konten, posisi, ukura
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // Posisi X
+    Left = 50, //Posisi X
     Top = 200, // Posisi Y
     Width = 100, // Lebar tanda tangan
     Height = 30, // Tinggi tanda tangan

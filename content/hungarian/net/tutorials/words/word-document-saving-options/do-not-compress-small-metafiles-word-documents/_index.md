@@ -9,7 +9,7 @@ url: /hu/net/tutorials/words/word-document-saving-options/do-not-compress-small-
 ---
 ## Bevezetés
 
-A dokumentumfeldolgozás világában a fájlok mentésének módja nagyban befolyásolhatja azok minőségét és funkcionalitását. Az Aspose.Words for .NET olyan funkciókkal rendelkezik, amelyek segítségével precízen mentheti a Word dokumentumokat. Az egyik figyelemre méltó funkció a "Ne tömörítsen kis metafájlokat" opció. Ez az oktatóanyag végigvezeti Önt a funkció használatán, hogy biztosítsa a metafájlok sértetlenségének megőrzését. Kezdjük is!
+dokumentumfeldolgozás világában a fájlok mentésének módja nagyban befolyásolhatja azok minőségét és funkcionalitását. Az Aspose.Words for .NET olyan funkciókkal rendelkezik, amelyek segítségével precízen mentheti a Word dokumentumokat. Az egyik figyelemre méltó funkció a "Ne tömörítsen kis metafájlokat" opció. Ez az oktatóanyag végigvezeti Önt a funkció használatán, hogy biztosítsa a metafájlok sértetlenségének megőrzését. Kezdjük is!
 
 ## Előfeltételek
 
@@ -18,7 +18,7 @@ Mielőtt merülne, győződjön meg arról, hogy készen áll a következő tár
 1.  Aspose.Words for .NET: Töltse le és telepítse a legújabb verziót innen[Aspose Releases](https://releases.aspose.com/words/net/).
 2. Fejlesztési környezet: Használja a Visual Studio-t vagy bármely kompatibilis IDE-t.
 3. A C# alapvető ismerete: Hasznos lesz a C# és a .NET keretrendszer ismerete.
-4.  Aspose Licenc: Az Aspose.Words teljes feloldásához, megszerzése a[engedély](https://purchase.aspose.com/buy)ajánlott. Alternatív megoldásként használhatja a[ideiglenes engedély](https://purchase.aspose.com/temporary-license/) értékelési célokra.
+4.  Aspose Licenc: Az Aspose.Words teljes feloldásához, megszerzése a[engedély](https://purchase.aspose.com/buy) ajánlott. Alternatív megoldásként használhatja a[ideiglenes engedély](https://purchase.aspose.com/temporary-license/) értékelési célokra.
 
 ## Névterek importálása
 
@@ -53,11 +53,11 @@ DocumentBuilder builder = new DocumentBuilder(doc);
 builder.Writeln("Text added to a document.");
 ```
 
- Itt, a`Document` Az objektum inicializálva van, és a`DocumentBuilder` szöveg beszúrására szolgál. A`Writeln` metódus szövegsort fűz a dokumentumhoz.
+ Itt, a`Document` Az objektum inicializálva van, és a`DocumentBuilder` szöveg beszúrására szolgál. A`Writeln` metódus egy sor szöveget fűz a dokumentumhoz.
 
 ## 3. lépés: Konfigurálja a mentési beállításokat
 
- Most állítsa be a mentési beállításokat a "Ne tömörítsen kis metafájlokat" funkció használatához a`DocSaveOptions` osztály.
+ Most állítsa be a mentési beállításokat a "Ne tömörítsen kis metafájlokat" funkció használatához a`DocSaveOptions`osztály.
 
 ```csharp
 // Konfigurálja a mentési beállításokat a "Ne tömörítsen kis metafájlokat" funkcióval
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- Ez a lépés egy példányt hoz létre a`DocSaveOptions`és beállítja a`Compliance` tulajdonát`PdfCompliance.PdfA1a`, biztosítva, hogy a dokumentum megfeleljen a PDF/A-1a szabványnak.
+ Ez a lépés egy példányt hoz létre a`DocSaveOptions` és beállítja a`Compliance` tulajdonát`PdfCompliance.PdfA1a`, biztosítva, hogy a dokumentum megfeleljen a PDF/A-1a szabványnak.
 
 ## 4. lépés: Mentse el a dokumentumot
 
 Végül mentse a dokumentumot a beállított beállításokkal, ügyelve arra, hogy a kis metafájlok ne legyenek tömörítve.
 
 ```csharp
-// Mentse el a dokumentumot a megadott opciókkal
+//Mentse el a dokumentumot a megadott opciókkal
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ Teljesen! Az Aspose.Words for .NET konfigurálható mentési lehetőségeket kí
 
 ### Szükségem van licencre az Aspose.Words for .NET használatához?
 
- Míg az Aspose.Words for .NET licenc nélkül is használható kiértékelési célokra, a teljes funkcionalitáshoz licenc szükséges. Vásárolhat licencet[itt](https://purchase.aspose.com/buy) vagy próbálja meg a[ideiglenes engedély](https://purchase.aspose.com/temporary-license/) értékeléshez.
+Míg az Aspose.Words for .NET licenc nélkül is használható kiértékelési célokra, a teljes funkcionalitáshoz licenc szükséges. Vásárolhat licencet[itt](https://purchase.aspose.com/buy) vagy próbálja meg a[ideiglenes engedély](https://purchase.aspose.com/temporary-license/) értékeléshez.
 
 ### Hogyan biztosíthatom, hogy a dokumentumaim megfeleljenek a PDF/A szabványoknak?
 

@@ -14,7 +14,7 @@ Neste tutorial, exploraremos como usar o GroupDocs.Metadata for .NET para ler e 
 Antes de começar, certifique-se de ter o seguinte:
 
 - Visual Studio: certifique-se de que ele esteja instalado no seu sistema.
-- GroupDocs.Metadata para .NET: Baixe e instale-o do[site oficial](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata para .NET: Baixe e instale-o do[site oficial](https://releases.groupdocs.com/metadata/net/).
 - Conhecimento básico de C#: Recomenda-se familiaridade com C# e o framework .NET.
 
 ## Importar namespaces
@@ -31,7 +31,7 @@ Para ler metadados de um arquivo PDF, carregue o documento e extraia suas propri
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // Acesse o pacote raiz do arquivo PDF
+    //Acesse o pacote raiz do arquivo PDF
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // Recuperar e exibir propriedades internas

@@ -9,7 +9,7 @@ url: /ja/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-
 ---
 ## 導入
 
-このチュートリアルでは、GroupDocs.Conversion for .NET を使用して AI ファイルを PDF 形式に効率的に変換する方法について説明します。熟練した開発者でも、初心者でも、このガイドではプロセスをステップごとに説明します。
+このチュートリアルでは、GroupDocs.Conversion for .NET を使用して AI ファイルを PDF 形式に効率的に変換する方法について説明します。経験豊富な開発者でも、初心者でも、このガイドではプロセスを段階的に説明します。
 
 ## 前提条件
 
@@ -17,7 +17,7 @@ url: /ja/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-
 
 ### GroupDocs.Conversion for .NET をインストールする
 
-GroupDocs.Conversion for .NETは以下からダウンロードできます。[Webサイト](https://releases.groupdocs.com/conversion/net/)プロジェクトの要件に従ってインストールするようにしてください。
+ GroupDocs.Conversion for .NETは以下からダウンロードできます。[Webサイト](https://releases.groupdocs.com/conversion/net/)プロジェクトの要件に従ってインストールするようにしてください。
 
 ### ソース AI ファイル
 

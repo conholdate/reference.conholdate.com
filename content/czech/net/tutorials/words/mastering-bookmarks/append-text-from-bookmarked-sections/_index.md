@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Začněme načtením našich zdrojových a cílových dokumentů Wordu a inicializací potřebných proměnných.
 
 ```csharp
-// Načtěte zdrojové a cílové dokumenty.
+//Načtěte zdrojové a cílové dokumenty.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,7 +110,7 @@ Ano, postup můžete opakovat pro každou záložku a přidat text podle potřeb
 Aktuální příklad předpokládá, že mají stejného rodiče. Pokud ne, budete muset implementovat složitější manipulaci.
 
 ### Bude zachováno původní formátování připojeného textu?
- Absolutně! Použití`ImportFormatMode.KeepSourceFormatting` zajišťuje zachování původního formátování.
+ Absolutně! Použití`ImportFormatMode.KeepSourceFormatting`zajišťuje zachování původního formátování.
 
 ### Je možné připojit text na konkrétní pozici v cílovém dokumentu?
 Ano, můžete přidat text na libovolné požadované místo tak, že přejdete na příslušný uzel v cílovém dokumentu.

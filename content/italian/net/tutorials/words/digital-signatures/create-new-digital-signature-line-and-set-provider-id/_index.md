@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
- IL`InsertSignatureLine`aggiunge la riga della firma e le assegniamo un ID provider univoco.
+ IL`InsertSignatureLine` aggiunge la riga della firma e le assegniamo un ID provider univoco.
 
 ## Passaggio 4: Salvare il documento
 

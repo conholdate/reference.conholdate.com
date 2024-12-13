@@ -15,7 +15,7 @@ Configurer la mise en page de votre document peut être une tâche ardue, mais a
 
 Avant de commencer, assurez-vous de disposer des éléments suivants :
 
--  Aspose.Words pour .NET : Téléchargez-le[ici](https://releases.aspose.com/words/net/).
+- Aspose.Words pour .NET : Téléchargez-le[ici](https://releases.aspose.com/words/net/).
 -  Une licence valide : Achetez-en une[ici](https://purchase.aspose.com/buy) ou obtenir un permis temporaire[ici](https://purchase.aspose.com/temporary-license/).
 - Compréhension de base de la programmation C# : ne vous inquiétez pas, je vais garder les choses simples.
 - Environnement de développement intégré (IDE) : Visual Studio est fortement recommandé.

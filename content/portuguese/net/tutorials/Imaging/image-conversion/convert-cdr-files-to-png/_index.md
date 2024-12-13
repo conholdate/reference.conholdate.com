@@ -15,7 +15,7 @@ Você está procurando uma maneira poderosa e eficiente de converter arquivos Co
 
 Antes de começar, certifique-se de ter os seguintes pré-requisitos:
 
-1.  Aspose.Imaging para .NET: Baixe e instale o Aspose.Imaging para .NET do[site](https://releases.aspose.com/imaging/net/)Você pode escolher entre uma versão de teste gratuita ou uma versão comprada, de acordo com suas necessidades.
+1.  Aspose.Imaging para .NET: Baixe e instale o Aspose.Imaging para .NET do[site](https://releases.aspose.com/imaging/net/). Você pode escolher entre uma versão de teste gratuita ou uma versão comprada, de acordo com suas necessidades.
 
 2. Ambiente de desenvolvimento C#: configure um ambiente de desenvolvimento C# no seu sistema, como o Visual Studio ou qualquer editor de código preferido.
 
@@ -100,7 +100,7 @@ Absolutamente! O Aspose.Imaging for .NET suporta conversões únicas e em lote d
 
 ### Quais outros formatos de imagem o Aspose.Imaging suporta?
 
-O Aspose.Imaging suporta uma ampla variedade de formatos de imagem, incluindo BMP, JPEG, TIFF e muitos outros.
+Aspose.Imaging suporta uma ampla variedade de formatos de imagem, incluindo BMP, JPEG, TIFF e muitos outros.
 
 ### Onde posso obter suporte ou tirar dúvidas sobre o Aspose.Imaging for .NET?
 

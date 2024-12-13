@@ -9,13 +9,13 @@ url: /cs/net/tutorials/drawing/master-image-editing/image-cropping/
 ---
 ## Zavedení
 
-oblasti vývoje .NET může být manipulace s obrázky složitým úkolem. Naštěstí Aspose.Drawing poskytuje robustní sadu nástrojů pro práci s obrázky, včetně možnosti je přesně oříznout. V tomto tutoriálu vás provedeme přímočarým procesem ořezávání obrázků pomocí Aspose.Drawing, což vám umožní vylepšit vaše dovednosti při zpracování obrázků!
+V oblasti vývoje .NET může být manipulace s obrázky složitým úkolem. Naštěstí Aspose.Drawing poskytuje robustní sadu nástrojů pro práci s obrázky, včetně možnosti je přesně oříznout. V tomto tutoriálu vás provedeme přímočarým procesem ořezávání obrázků pomocí Aspose.Drawing, což vám umožní vylepšit vaše dovednosti při zpracování obrázků!
 
 ## Předpoklady
 
 Než začneme, ujistěte se, že máte připraveno následující:
 
--  Knihovna Aspose.Drawing: Ujistěte se, že jste do svého projektu .NET integrovali knihovnu Aspose.Drawing. Můžete si jej stáhnout[zde](https://releases.aspose.com/drawing/net/).
+- Knihovna Aspose.Drawing: Ujistěte se, že jste do svého projektu .NET integrovali knihovnu Aspose.Drawing. Můžete si jej stáhnout[zde](https://releases.aspose.com/drawing/net/).
   
 -  Adresář obrázků: Mějte určený adresář pro obrázky projektu. Budete muset vyměnit`"Your Document Directory"` ve úryvcích kódu s cestou ke složce s obrázky.
 
@@ -115,4 +115,4 @@ Opravdu! Aspose.Drawing vyniká v dávkovém zpracování, takže je efektivní 
 
 ### Kde mohu získat podporu pro dotazy související s Aspose.Drawing?
 
- Pro pomoc navštivte[Aspose.Drawing Forum](https://forum.aspose.com/c/diagram/17) spojit se s komunitou a vyhledat pomoc pro vaše dotazy.
+Pro pomoc navštivte[Aspose.Drawing Forum](https://forum.aspose.com/c/diagram/17) spojit se s komunitou a vyhledat pomoc pro vaše dotazy.

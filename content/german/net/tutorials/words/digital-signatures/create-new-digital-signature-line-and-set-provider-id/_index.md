@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
- Der`InsertSignatureLine`Methode fügt die Signaturzeile hinzu und wir weisen ihr eine eindeutige Provider-ID zu.
+ Der`InsertSignatureLine` Methode fügt die Signaturzeile hinzu und wir weisen ihr eine eindeutige Provider-ID zu.
 
 ## Schritt 4: Speichern Sie das Dokument
 

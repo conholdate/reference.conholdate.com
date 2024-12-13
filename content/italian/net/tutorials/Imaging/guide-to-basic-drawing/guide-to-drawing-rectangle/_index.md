@@ -74,11 +74,11 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
-Questa sezione illustra come creare un`Graphics` oggetto, pulisci la superficie e aggiungi due rettangoli con colori e posizioni distinti. Una volta completati i disegni, salva l'immagine per rendere permanenti le modifiche.
+ Questa sezione illustra come creare un`Graphics` oggetto, pulisci la superficie e aggiungi due rettangoli con colori e posizioni distinti. Una volta completati i disegni, salva l'immagine per rendere permanenti le modifiche.
 
 ## Passaggio 4: salva l'immagine
 
- Il salvataggio dell'immagine finale è semplice, come mostrato sopra nell'`using` dichiarazione dove`image.Save()` viene chiamato automaticamente quando il`using` estremità del blocco.
+ Il salvataggio dell'immagine finale è semplice, come mostrato sopra nell'`using` dichiarazione dove`image.Save()`viene chiamato automaticamente quando il`using` estremità del blocco.
 
 ## Conclusione
 

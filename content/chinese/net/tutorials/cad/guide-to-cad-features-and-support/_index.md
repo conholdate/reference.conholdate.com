@@ -22,5 +22,5 @@ url: /zh/net/tutorials/cad/guide-to-cad-features-and-support/
 ## CAD 功能和支持教程指南
 ### [使用 Aspose.CAD for .NET 读取 DWT 文件](./read-dwt-files/)
 逐步了解如何有效地读取 DWT 文件、导航 CAD 实体以及将 CAD 功能无缝集成到您的项目中。
-### [掌握在.NET 中使用 Aspose.CAD 进行 DGN 文件操作](./mastering-dgn-file-manipulation/)
+### [掌握使用 .NET 中的 Aspose.CAD 进行 DGN 文件操作](./mastering-dgn-file-manipulation/)
 了解如何加载 DGN 文件、遍历其元素、管理 2D 和 3D 实体以及将它们导出为光栅图像——同时利用 Aspose.CAD 库的强大功能。

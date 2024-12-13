@@ -39,7 +39,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Ügyeljen arra, hogy cserélje ki`"YOUR DOCUMENT DIRECTORY"` a dokumentum tényleges elérési útjával.
+ Mindenképpen cserélje ki`"YOUR DOCUMENT DIRECTORY"` a dokumentum tényleges elérési útjával.
 
 ## 2. lépés: Az egyéni dokumentum tulajdonságainak elérése
 

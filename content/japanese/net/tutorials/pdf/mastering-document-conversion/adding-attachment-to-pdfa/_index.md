@@ -64,7 +64,7 @@ doc.Convert(dataDir + "log.txt", Aspose.Pdf.PdfFormat.PDF_A_3A, ConvertErrorActi
 
 - ログ ファイルのパスを指定します。
 - 選ぶ`PDF_A_3A`埋め込みファイルをサポートする形式（`PDF`そうではありません。
-- 使用`ConvertErrorAction.Delete`PDF/A 標準に準拠していない要素を削除します。
+- 使用`ConvertErrorAction.Delete` PDF/A 標準に準拠していない要素を削除します。
 
 ## ステップ5: 結果のPDF/Aドキュメントを保存する
 

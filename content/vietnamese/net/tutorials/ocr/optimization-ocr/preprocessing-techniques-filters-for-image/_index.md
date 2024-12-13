@@ -95,7 +95,7 @@ Có, Aspose.OCR rất linh hoạt và hỗ trợ cả ứng dụng máy tính đ
  Bạn có thể khám phá các tùy chọn cấp phép và thực hiện mua hàng[đây](https://purchase.conholdate.com/buy) . Một bản dùng thử miễn phí cũng có sẵn[đây](https://releases.aspose.com/) và có thể xin được giấy phép tạm thời[đây](https://purchase.conholdate.com/temporary-license/).
 
 ### Tôi có thể tìm thấy sự hỗ trợ cho Aspose.OCR ở đâu?  
- Để được hỗ trợ, hãy truy cập[Diễn đàn Aspose.OCR](https://forum.aspose.com/c/ocr/16) vì cộng đồng và sự hỗ trợ.
+Để được hỗ trợ, hãy truy cập[Diễn đàn Aspose.OCR](https://forum.aspose.com/c/ocr/16) vì cộng đồng và sự hỗ trợ.
 
 ### Aspose.OCR hỗ trợ những định dạng hình ảnh nào?  
 Aspose.OCR hỗ trợ nhiều định dạng khác nhau, bao gồm PNG, JPEG, GIF, BMP và TIFF.

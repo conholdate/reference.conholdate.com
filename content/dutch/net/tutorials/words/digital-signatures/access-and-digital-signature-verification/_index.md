@@ -16,7 +16,7 @@ Hallo, tech-enthousiastelingen! Heb je ooit digitale handtekeningen in een Word-
 Voordat we beginnen, zorg ervoor dat u het volgende bij de hand hebt:
 
 1. Visual Studio: Zorg ervoor dat dit op uw computer is geïnstalleerd voordat u gaat coderen.
-2.  Aspose.Words voor .NET: Download en installeer het vanaf[hier](https://releases.aspose.com/words/net/) Als je dat nog niet hebt gedaan, pak dan je gratis proefperiode[hier](https://releases.aspose.com/).
+2.  Aspose.Words voor .NET: Download en installeer het vanaf[hier](https://releases.aspose.com/words/net/) . Als je dat nog niet hebt gedaan, pak dan je gratis proefperiode[hier](https://releases.aspose.com/).
 3. Een digitaal ondertekend Word-document: Zorg dat u een Word-document met een digitale handtekening bij de hand hebt ter verificatie.
 
 ## Naamruimten importeren
@@ -142,7 +142,7 @@ Ja, het ondersteunt alle versies van Microsoft Word-documenten, inclusief DOC, D
 
 ### Hoe krijg ik een tijdelijke licentie voor Aspose.Words voor .NET?
 
- kunt een tijdelijke vergunning verkrijgen bij[hier](https://purchase.aspose.com/temporary-license/), zodat u alle functies van de bibliotheek zonder beperkingen kunt verkennen.
+ U kunt een tijdelijke vergunning verkrijgen bij[hier](https://purchase.aspose.com/temporary-license/), zodat u alle functies van de bibliotheek zonder beperkingen kunt verkennen.
 
 ### Waar kan ik meer documentatie vinden over Aspose.Words voor .NET?
 

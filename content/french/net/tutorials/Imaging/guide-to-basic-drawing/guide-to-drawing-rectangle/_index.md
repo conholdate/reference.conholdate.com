@@ -74,11 +74,11 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
-Cette section montre comment créer un`Graphics` objet, effacez la surface et ajoutez deux rectangles avec des couleurs et des positions distinctes. Une fois vos dessins terminés, enregistrez l'image pour conserver vos modifications.
+ Cette section montre comment créer un`Graphics` objet, effacez la surface et ajoutez deux rectangles avec des couleurs et des positions distinctes. Une fois vos dessins terminés, enregistrez l'image pour conserver vos modifications.
 
 ## Étape 4 : Enregistrer l'image
 
- L'enregistrement de l'image finale est simple, comme indiqué ci-dessus dans le`using` déclaration où`image.Save()` est appelé automatiquement lorsque le`using` les extrémités du bloc.
+ L'enregistrement de l'image finale est simple, comme indiqué ci-dessus dans le`using` déclaration où`image.Save()`est appelé automatiquement lorsque le`using` les extrémités du bloc.
 
 ## Conclusion
 

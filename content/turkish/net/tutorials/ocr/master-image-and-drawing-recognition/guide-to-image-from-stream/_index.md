@@ -91,7 +91,7 @@ Evet, Aspose.OCR çok sayıda dili destekler ve bu da onu çeşitli OCR ihtiyaç
 
 ### Aspose.OCR için desteği nereden alabilirim?
 
- Yardım için şu adresi ziyaret edin:[Aspose.OCR Forum](https://forum.aspose.com/c/ocr/16) Topluluk üyeleri ve uzmanların yardım etmeye hazır olduğu bir yer.
+Yardım için şu adresi ziyaret edin:[Aspose.OCR Forum](https://forum.aspose.com/c/ocr/16) Topluluk üyeleri ve uzmanların yardım etmeye hazır olduğu bir yer.
 
 ### Geçici ehliyet alabilir miyim?
 

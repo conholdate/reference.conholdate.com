@@ -38,7 +38,7 @@ using System.IO;
 ## Paso 1: Crea la imagen y guarda la transmisión
 
 ```csharp
-//Define el directorio donde guardar la imagen
+// Define el directorio donde guardar la imagen
 string dataDir = "Your Document Directory"; // Actualice esto a su ruta preferida
 
 // Crea una secuencia para guardar la imagen BMP
@@ -61,7 +61,7 @@ using (FileStream stream = new FileStream(Path.Combine(dataDir, "DrawingArc_out.
 
 ## Paso 2: Inicializar el contexto gráfico
 
-A continuación, inicializamos el contexto gráfico para manipular la imagen:
+continuación, inicializamos el contexto gráfico para manipular la imagen:
 
 ```csharp
         // Inicializar el objeto Gráficos y establecer un color de fondo

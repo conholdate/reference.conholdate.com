@@ -68,7 +68,7 @@ doc.Sections.Add(sectionToAdd);
 ```
 
 - `Section sectionToAdd = new Section(doc);`同じドキュメント内に新しいセクションを作成します。
-- `doc.Sections.Add(sectionToAdd);`新しく作成されたセクションをドキュメントのセクション コレクションに追加します。
+- `doc.Sections.Add(sectionToAdd);`この新しく作成されたセクションをドキュメントのセクション コレクションに追加します。
 
 ## ステップ4: 新しいセクションにコンテンツを追加する
 

@@ -38,7 +38,7 @@ using System.IO;
 ## Krok 1: Utwórz obraz i zapisz strumień
 
 ```csharp
-//Zdefiniuj katalog, w którym chcesz zapisać obraz
+// Zdefiniuj katalog, w którym chcesz zapisać obraz
 string dataDir = "Your Document Directory"; // Zaktualizuj to do preferowanej ścieżki
 
 // Utwórz strumień, aby zapisać obraz BMP

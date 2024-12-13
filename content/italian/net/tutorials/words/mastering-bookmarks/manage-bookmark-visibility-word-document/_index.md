@@ -16,7 +16,7 @@ Siete pronti a migliorare le vostre capacità di manipolazione dei documenti con
 Prima di iniziare, assicurati di avere quanto segue:
 
 1. Visual Studio: qualsiasi versione compatibile con .NET.
-2.  Aspose.Words per .NET: Scaricalo[Qui](https://releases.aspose.com/words/net/).
+2. Aspose.Words per .NET: Scaricalo[Qui](https://releases.aspose.com/words/net/).
 3. Conoscenza di base del linguaggio C#: è sufficiente avere familiarità con la scrittura di semplici programmi in C#.
 4. Un esempio di documento Word: preparare un documento Word (ad esempio, "Bookmarks.docx") contenente i segnalibri per questa esercitazione.
 

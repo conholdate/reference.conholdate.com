@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## 3. lépés: Konfigurálja a HTML-betöltési beállításokat
 
- A`HtmlLoadOptions`osztály az Aspose.Words-ben lehetővé teszi számunkra, hogy meghatározzuk, hogyan kell értelmezni a HTML tartalmat. A kombinált doboz strukturált dokumentumcímkeként való megjelenítéséhez tegye a következőket:
+ A`HtmlLoadOptions` osztály az Aspose.Words-ben lehetővé teszi számunkra, hogy meghatározzuk, hogyan kell értelmezni a HTML tartalmat. A kombinált doboz strukturált dokumentumcímkeként való megjelenítéséhez tegye a következőket:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions
@@ -96,12 +96,12 @@ Ez létrehoz egy Word-fájlt, amely tartalmazza a megfelelően megjelenített ko
 
 ## Következtetés
 
- A HTML-tartalom, különösen az űrlapmezők, például a kombinált mezők beépítése Word dokumentumokba az Aspose.Words for .NET használatával egyszerű, ha kihasználja`HtmlLoadOptions`Ez az útmutató felvértezi azokat az ismereteket, amelyek segítségével szabályozhatja ezen elemek megjelenítési módját, biztosítva ezzel, hogy a dokumentumok megfeleljenek a felhasználói és projektkövetelményeknek.
+ A HTML-tartalom, különösen az űrlapmezők, például a kombinált mezők beépítése Word dokumentumokba az Aspose.Words for .NET használatával egyszerű, ha kihasználja`HtmlLoadOptions`. Ez az útmutató felvértezi azokat az ismereteket, amelyek segítségével szabályozhatja ezen elemek megjelenítési módját, biztosítva ezzel, hogy a dokumentumok megfeleljenek a felhasználói és projektkövetelményeknek.
 
 ## GYIK
 
 ###  Mi az`HtmlControlType` in Aspose.Words for .NET?
-`HtmlControlType` meghatározza, hogy a HTML űrlapvezérlők hogyan jelenjenek meg a Word dokumentumokban. A lehetőségek közé tartozik`StructuredDocumentTag`, `InlineText`, és mások.
+`HtmlControlType` meghatározza, hogy a HTML űrlapvezérlők hogyan jelenjenek meg a Word dokumentumokban. A lehetőségek közé tartozik`StructuredDocumentTag`, `InlineText`és mások.
 
 ### Testreszabhatom a kombinált mezőt renderelés után?
 Igen, módosíthatja a kombinált mezőt az Aspose.Words API használatával, például új beállítások hozzáadásával vagy tulajdonságok módosításával.

@@ -9,7 +9,7 @@ url: /zh/net/tutorials/words/mastering-document-properties/remove-custom-documen
 ---
 ## 介绍
 
-管理 Word 文件中的自定义文档属性通常会成为一项繁琐的任务，尤其是在处理大量文档时。但是，使用 Aspose.Words for .NET，该过程变得无缝且高效。在本指南中，我们将演示如何使用 Aspose.Words for .NET 从 Word 文件中删除自定义文档属性。无论您是清理元数据还是自动化文档处理，本教程都将向您展示如何处理此任务。
+管理 Word 文件中的自定义文档属性通常是一项繁琐的任务，尤其是在处理大量文档时。但是，使用 Aspose.Words for .NET，该过程变得无缝且高效。在本指南中，我们将演示如何使用 Aspose.Words for .NET 从 Word 文件中删除自定义文档属性。无论您是清理元数据还是自动化文档处理，本教程都将向您展示如何处理此任务。
 
 ## 先决条件
 

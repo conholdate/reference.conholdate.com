@@ -9,7 +9,7 @@ url: /cs/net/tutorials/words/web-extensions/mastering-web-extension-task-panes/
 ---
 ## Zavedení  
 
-V tomto komplexním průvodci se ponoříme do výkonných funkcí integrace podoken úloh rozšíření webu do dokumentů aplikace Word pomocí Aspose.Words for .NET. Panely úloh umožňují uživatelům využívat dynamické, interaktivní nástroje přímo v dokumentech aplikace Word, díky čemuž jsou pracovní postupy plynulejší a efektivnější. Pojďme prozkoumat, jak můžete nastavit a nakonfigurovat podokna úloh rozšíření webu pomocí Aspose.Words.
+tomto komplexním průvodci se ponoříme do výkonných funkcí integrace podoken úloh rozšíření webu do dokumentů aplikace Word pomocí Aspose.Words for .NET. Panely úloh umožňují uživatelům využívat dynamické, interaktivní nástroje přímo v dokumentech aplikace Word, díky čemuž jsou pracovní postupy plynulejší a efektivnější. Pojďme prozkoumat, jak můžete nastavit a nakonfigurovat podokna úloh rozšíření webu pomocí Aspose.Words.
 
 ## Předpoklady  
 

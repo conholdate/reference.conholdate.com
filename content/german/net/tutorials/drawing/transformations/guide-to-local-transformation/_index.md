@@ -13,7 +13,7 @@ Aspose.Drawing für .NET ermöglicht Entwicklern die Erstellung anspruchsvoller 
 
 ## Voraussetzungen
 
-1. Aspose.Drawing für .NET: Laden Sie es herunter und installieren Sie es von[Hier](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing für .NET: Laden Sie es herunter und installieren Sie es von[Hier](https://releases.aspose.com/drawing/net/).
 2. Dokumentverzeichnis: Wählen Sie ein Verzeichnis zum Speichern Ihrer Bilder.
 3. Grundlegende .NET-Kenntnisse: Vertrautheit mit C# und Konzepten der Grafikprogrammierung.
 

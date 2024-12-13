@@ -17,7 +17,7 @@ Innan vi börjar konvertera filer, se till att du har följande inställning:
 
 ### Installera GroupDocs.Conversion för .NET
 
-Du kan ladda ner GroupDocs.Conversion för .NET från[webbplats](https://releases.groupdocs.com/conversion/net/). Se till att du installerar den enligt dina projektkrav.
+ Du kan ladda ner GroupDocs.Conversion för .NET från[webbplats](https://releases.groupdocs.com/conversion/net/). Se till att du installerar den enligt dina projektkrav.
 
 ### Källa AI-fil
 
@@ -59,7 +59,7 @@ Ställ sedan in eventuella specifika alternativ du kan behöva för PDF-konverte
 ```csharp
     var options = new PdfConvertOptions();
 ```
- Genom att skapa en instans av`PdfConvertOptions`kan du anpassa inställningar som sidstorlek, marginaler och mer. Även om detta är valfritt ger det dig flexibilitet för specifika krav.
+ Genom att skapa en instans av`PdfConvertOptions`, kan du anpassa inställningar som sidstorlek, marginaler och mer. Även om detta är valfritt ger det dig flexibilitet för specifika krav.
 
 ## Steg 3: Utför konverteringen
 
