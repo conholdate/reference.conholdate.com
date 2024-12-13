@@ -68,7 +68,7 @@ doc.Save(dataDir + "ConvertedDocument.docx");
 
  Genom att åberopa`Save` metod på vår`Document` Exempelvis anger vi sökvägen och formatet för utdatafilen, i det här fallet sparar vi den som en Docx-fil.
 
-## Steg 4: Kör konverteringen
+## Steg 4: Köra konverteringen
 
 Med vår kod uppsatt är det dags att köra projektet och se Aspose.Words för .NET i aktion. Kör ditt program, och voilà! Du bör hitta din PDF konverterad till ett Word-dokument i den angivna katalogen.
 

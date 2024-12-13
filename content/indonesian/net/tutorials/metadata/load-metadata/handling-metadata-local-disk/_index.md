@@ -90,7 +90,7 @@ Dalam tutorial ini, kami telah menjajaki cara efektif menggunakan GroupDocs.Meta
  Dokumentasi terperinci tersedia di[GroupDocs.Metadata untuk Dokumentasi .NET](https://reference.groupdocs.com/metadata/net/).
 
 ### Apakah GroupDocs.Metadata mendukung uji coba gratis?
-Ya, Anda dapat mengunduh uji coba gratis GroupDocs.Metadata[Di Sini](https://releases.groupdocs.com/).
+ Ya, Anda dapat mengunduh uji coba gratis GroupDocs.Metadata[Di Sini](https://releases.groupdocs.com/).
 
 ### Di mana saya bisa mendapatkan dukungan untuk GroupDocs.Metadata?
  Untuk dukungan, kunjungi[Forum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) untuk bantuan dan diskusi komunitas.

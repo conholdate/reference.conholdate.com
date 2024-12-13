@@ -2,7 +2,7 @@
 title: GroupDocs.Signature を使用してメタデータで PDF に署名するためのガイド
 linktitle: メタデータを使用して PDF に署名するためのガイド
 second_title: GroupDocs.Signature .NET API
-description: GroupDocs.Signature for .NET を使用してメタデータで署名することにより、強化されたセキュリティと追跡可能性で PDF ドキュメントを強化する方法を学びます。この包括的なチュートリアルでは、明確な手順を説明します。
+description: GroupDocs.Signature for .NET を使用してメタデータで署名し、強化されたセキュリティと追跡可能性で PDF ドキュメントを強化する方法を学びます。この包括的なチュートリアルでは、明確な手順を説明します。
 type: docs
 weight: 11
 url: /ja/net/tutorials/signature/master-document-signing/signing-pdf-with-metadata/

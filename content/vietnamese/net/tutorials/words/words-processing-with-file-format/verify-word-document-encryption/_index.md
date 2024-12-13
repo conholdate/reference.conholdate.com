@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Bước 3: Phát hiện định dạng tệp
 
- Bây giờ, chúng ta sẽ sử dụng`DetectFileFormat` phương pháp từ`FileFormatUtil`lớp để thu thập thông tin về định dạng tệp. Đối với ví dụ này, chúng tôi giả sử tài liệu được mã hóa có tên là "Encrypted.docx" và nằm trong thư mục được chỉ định:
+ Bây giờ, chúng ta sẽ sử dụng`DetectFileFormat` phương pháp từ`FileFormatUtil` lớp để thu thập thông tin về định dạng tệp. Đối với ví dụ này, chúng tôi giả sử tài liệu được mã hóa có tên là "Encrypted.docx" và nằm trong thư mục được chỉ định:
 
 ```csharp
 FileFormatInfo info = FileFormatUtil.DetectFileFormat(dataDir + "Encrypted.docx");
@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## Phần kết luận
 
- Và thế là xong! Bạn đã xác minh thành công trạng thái mã hóa của một tài liệu Word bằng Aspose.Words cho .NET. Thật ấn tượng khi chỉ cần một vài dòng mã có thể đơn giản hóa các tác vụ như vậy. Nếu bạn có bất kỳ câu hỏi hoặc gặp bất kỳ vấn đề nào, hãy liên hệ với chúng tôi qua[Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/words/8).
+Và thế là xong! Bạn đã xác minh thành công trạng thái mã hóa của một tài liệu Word bằng Aspose.Words cho .NET. Thật ấn tượng khi chỉ cần một vài dòng mã có thể đơn giản hóa các tác vụ như vậy. Nếu bạn có bất kỳ câu hỏi hoặc gặp bất kỳ vấn đề nào, hãy liên hệ với chúng tôi qua[Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/words/8).
 
 ## Câu hỏi thường gặp
 

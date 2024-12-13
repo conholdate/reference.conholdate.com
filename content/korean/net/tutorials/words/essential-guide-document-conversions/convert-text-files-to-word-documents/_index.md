@@ -28,10 +28,10 @@ using Aspose.Words;
 
 ## 1단계: 텍스트 파일 로드
 
-먼저 Aspose.Words에 텍스트 파일을 로드해야 합니다.`Document` 객체. 방법은 다음과 같습니다.
+ 먼저 Aspose.Words에 텍스트 파일을 로드해야 합니다.`Document` 객체. 방법은 다음과 같습니다.
 
 ```csharp
-// 텍스트 파일이 있는 디렉토리 경로를 지정하세요
+//텍스트 파일이 있는 디렉토리 경로를 지정하세요
 string dataDir = "YOUR_DOCUMENT_DIRECTORY/";
 
 // 텍스트 파일을 Document 객체에 로드합니다.

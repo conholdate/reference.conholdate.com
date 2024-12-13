@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Terakhir, simpan dokumen menggunakan opsi yang dikonfigurasi. Ini akan menghasilkan file baru tanpa gambar poin.
 
 ```csharp
-// Simpan dokumen dengan opsi yang ditentukan
+//Simpan dokumen dengan opsi yang ditentukan
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

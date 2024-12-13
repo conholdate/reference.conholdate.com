@@ -15,7 +15,7 @@ url: /ar/net/tutorials/words/mastering-document-options-and-settings/document-pa
 
 قبل أن نبدأ، تأكد من أن لديك ما يلي:
 
--  Aspose.Words for .NET: قم بتنزيله[هنا](https://releases.aspose.com/words/net/).
+- Aspose.Words for .NET: قم بتنزيله[هنا](https://releases.aspose.com/words/net/).
 -  رخصة صالحة: قم بشراء واحدة[هنا](https://purchase.aspose.com/buy) أو الحصول على ترخيص مؤقت[هنا](https://purchase.aspose.com/temporary-license/).
 - الفهم الأساسي لبرمجة C#: لا تقلق، سأبقي الأمور بسيطة.
 - بيئة التطوير المتكاملة (IDE): يوصى بشدة باستخدام Visual Studio.

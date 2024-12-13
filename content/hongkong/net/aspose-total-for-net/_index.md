@@ -59,7 +59,7 @@ Aspose.Cells for .NET 是一個電子表格程式庫，允許軟體開發人員�
 
 **Welcome to Aspose.Email for .NET**
 
-Aspose.Email for .NET 是一套靈活且易於使用的 .NET 類別庫，匯集在一起產生最獨特且功能強大的電子郵件程式設計元件。 Aspose.Email 可讓您快速輕鬆地將複雜的訊息檔案處理編碼到您的應用程式中，節省您的時間和精力。
+Aspose.Email for .NET 是一套靈活且易於使用的 .NET 類別庫，匯集在一起產生最獨特、最強大的電子郵件程式設計元件。 Aspose.Email 可讓您快速輕鬆地將複雜的訊息檔案處理編碼到您的應用程式中，節省您的時間和精力。
 
 Aspose.Email實現了多種網路協議，例如SMTP、MIME、POP3、IMAP；訊息檔案格式，例如 EML、MSG、MHT；郵件儲存格式，例如 PST 和 MBOX；和 Exchange 伺服器，允許開發人員建立各種電子郵件處理應用程式。 Aspose.Email 可協助開發人員進行編程，而不會迷失在訊息格式細節的複雜性中。
 
@@ -302,7 +302,7 @@ Aspose.Page 是一個 .NET API，旨在允許開發人員使用 XPS 和 EPS/PS �
 
 Aspose.PSD for .NET 是允許對 PSD 檔案格式進行廣泛操作的產品。該產品不需要安裝 Adobe Photoshop。 Aspose.PSD for .NET 允許編輯 PSD 檔案、更新圖層屬性、新增浮水印、執行圖形操作或將一種檔案格式轉換為另一種檔案格式。該產品支援不同的自動化場景，為開發人員提供協助。
 
-目前，Aspose.PSD for .NET 支援 PSD 和 PSB 檔案格式進行載入和操作。未來的版本將允許載入更多 PSD 檔案格式。 Aspose.PSD for .NET 允許匯出為各種光柵檔案格式，如 TIFF、JPEG、JPEG2000、PNG、GIF、BMP，並且將會增加更多支援匯出的檔案格式。該產品使用的演算法可以有效地編輯 PSD 檔案並保持良好的效能。該產品正在積極開發中，並將添加許多有用的功能來支援市場需求。例如，.NET Core 支援正在積極開發。
+目前，Aspose.PSD for .NET 支援 PSD 和 PSB 檔案格式進行載入和操作。未來的版本將允許載入更多 PSD 檔案格式。 Aspose.PSD for .NET 允許匯出為各種光柵檔案格式，例如 TIFF、JPEG、JPEG2000、PNG、GIF、BMP，並且將添加更多支援匯出的檔案格式。該產品使用的演算法可以有效地編輯 PSD 檔案並保持良好的效能。該產品正在積極開發中，並將添加許多有用的功能來支援市場需求。例如，.NET Core 支援正在積極開發。
 
 {{% /alert %}} 
 

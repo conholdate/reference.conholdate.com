@@ -9,7 +9,7 @@ url: /pl/net/tutorials/metadata/load-metadata/handling-metadata-local-disk/
 ---
 ## Wstęp
 
-W świecie rozwoju .NET efektywne zarządzanie metadanymi plików może znacznie zwiększyć funkcjonalność aplikacji. GroupDocs.Metadata dla .NET zapewnia potężne podejście do odczytywania, edytowania i usuwania metadanych z plików. Ten samouczek przeprowadzi Cię przez ładowanie metadanych z plików w systemie lokalnym przy użyciu tej biblioteki, wyposażając Cię w narzędzia do bezproblemowego obsługiwania metadanych.
+świecie rozwoju .NET efektywne zarządzanie metadanymi plików może znacznie zwiększyć funkcjonalność aplikacji. GroupDocs.Metadata dla .NET zapewnia potężne podejście do odczytywania, edytowania i usuwania metadanych z plików. Ten samouczek przeprowadzi Cię przez ładowanie metadanych z plików w systemie lokalnym przy użyciu tej biblioteki, wyposażając Cię w narzędzia do bezproblemowego obsługiwania metadanych.
 
 ## Wymagania wstępne
 
@@ -79,7 +79,7 @@ using (Metadata metadata = new Metadata("Your Input File Path"))
 
 ## Wniosek
 
-W tym samouczku sprawdziliśmy, jak skutecznie używać GroupDocs.Metadata dla .NET do zarządzania metadanymi plików. Wykonując te kroki, możesz ulepszyć swoje aplikacje .NET o solidne możliwości obsługi plików, dzięki czemu zarządzanie metadanymi stanie się proste i wydajne.
+tym samouczku sprawdziliśmy, jak skutecznie używać GroupDocs.Metadata dla .NET do zarządzania metadanymi plików. Wykonując te kroki, możesz ulepszyć swoje aplikacje .NET o solidne możliwości obsługi plików, dzięki czemu zarządzanie metadanymi stanie się proste i wydajne.
 
 ## Najczęściej zadawane pytania
 
@@ -90,10 +90,10 @@ W tym samouczku sprawdziliśmy, jak skutecznie używać GroupDocs.Metadata dla .
  Szczegółowa dokumentacja dostępna jest pod adresem[GroupDocs.Metadata dla dokumentacji .NET](https://reference.groupdocs.com/metadata/net/).
 
 ### Czy GroupDocs.Metadata obsługuje bezpłatną wersję próbną?
-Tak, możesz pobrać bezpłatną wersję próbną GroupDocs.Metadata[Tutaj](https://releases.groupdocs.com/).
+ Tak, możesz pobrać bezpłatną wersję próbną GroupDocs.Metadata[Tutaj](https://releases.groupdocs.com/).
 
 ### Gdzie mogę uzyskać pomoc dotyczącą GroupDocs.Metadata?
- Aby uzyskać pomoc, odwiedź stronę[Forum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) w celu uzyskania pomocy i dyskusji ze strony społeczności.
+ Aby uzyskać pomoc, odwiedź stronę[Forum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) w celu uzyskania pomocy i dyskusji społeczności.
 
 ### Jakie formaty plików obsługuje GroupDocs.Metadata?
 GroupDocs.Metadata obsługuje wiele formatów, w tym DOCX, XLSX, PDF, JPG, PNG i inne.

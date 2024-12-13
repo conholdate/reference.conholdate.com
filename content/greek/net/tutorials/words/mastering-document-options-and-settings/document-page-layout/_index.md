@@ -15,7 +15,7 @@ url: /el/net/tutorials/words/mastering-document-options-and-settings/document-pa
 
 Πριν ξεκινήσουμε, βεβαιωθείτε ότι έχετε τα εξής:
 
--  Aspose.Words για .NET: Κάντε λήψη του[εδώ](https://releases.aspose.com/words/net/).
+- Aspose.Words για .NET: Κάντε λήψη του[εδώ](https://releases.aspose.com/words/net/).
 -  Μια έγκυρη άδεια χρήσης: Αγοράστε μία[εδώ](https://purchase.aspose.com/buy) ή να αποκτήσετε προσωρινή άδεια[εδώ](https://purchase.aspose.com/temporary-license/).
 - Βασική κατανόηση του προγραμματισμού C#: Μην ανησυχείτε, θα κρατήσω τα πράγματα απλά.
 - Ενσωματωμένο περιβάλλον ανάπτυξης (IDE): Το Visual Studio συνιστάται ιδιαίτερα.

@@ -101,7 +101,7 @@ presentation.Save(Path.Combine(outputDir, "PresentationOutput.html"), SaveFormat
 Ναι, το Aspose.Slides υποστηρίζει κινούμενα σχέδια κατά την εξαγωγή. Ωστόσο, η συμβατότητα των κινούμενων εικόνων σε HTML εξαρτάται από την πολυπλοκότητα της αρχικής παρουσίασης.
 
 ### Ποιες άλλες μορφές μπορούν να εξαχθούν χρησιμοποιώντας το Aspose.Slides;
-Η βιβλιοθήκη υποστηρίζει πολλές μορφές, όπως PDF, PNG και SVG. Ανατρέξτε στο[απόδειξη με έγγραφα](https://reference.aspose.com/slides/net/) για λεπτομέρειες.
+ Η βιβλιοθήκη υποστηρίζει πολλές μορφές, όπως PDF, PNG και SVG. Ανατρέξτε στο[απόδειξη με έγγραφα](https://reference.aspose.com/slides/net/) για λεπτομέρειες.
 
 ### Διατίθεται τεχνική υποστήριξη για το Aspose.Slides;
  Ναι, μπορείτε να ζητήσετε βοήθεια για το[Aspose forum υποστήριξης](https://forum.aspose.com/c/slides/11).

@@ -61,7 +61,7 @@ string dataDir = "Your Data Directory";
 
 ## 2단계: 읽기 위해 EPUB 문서 열기
 
- 사용하여`File.OpenRead` 방법을 사용하면 EPUB 문서를 열어서 읽을 수 있습니다. 이를 통해 애플리케이션에서 EPUB 파일의 내용에 액세스할 수 있습니다.
+ 사용하여`File.OpenRead`방법을 사용하면 EPUB 문서를 열어서 읽을 수 있습니다. 이를 통해 애플리케이션에서 EPUB 파일의 내용에 액세스할 수 있습니다.
 
 ```csharp
 using (var fs = File.OpenRead(dataDir + "document.epub"))
@@ -111,4 +111,4 @@ Aspose.HTML을 사용하면 EPUB를 XPS, PDF 등 다양한 형식으로 변환�
  방문하면 지원을 받을 수 있습니다.[Aspose 지원 포럼](https://forum.aspose.com/c/html/29).
 
 ### Aspose.HTML에 대한 임시 라이선스를 얻으려면 어떻게 해야 하나요?
-임시면허는 다음에서 받을 수 있습니다.[이 페이지](https://purchase.conholdate.com/temporary-license/).
+ 임시면허는 다음에서 받을 수 있습니다.[이 페이지](https://purchase.conholdate.com/temporary-license/).

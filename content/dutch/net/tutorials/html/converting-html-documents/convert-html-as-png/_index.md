@@ -17,7 +17,7 @@ Voordat we met de code beginnen, willen we ervoor zorgen dat alles correct is in
 
 1.  .NET Framework/ .NET Core: Zorg ervoor dat u .NET Framework of .NET Core op uw machine hebt geïnstalleerd. U kunt downloaden[.NET hier](https://dotnet.microsoft.com/download).
 
-2.  Aspose.HTML voor .NET-bibliotheek: U hebt de Aspose.HTML-bibliotheek nodig. U kunt deze downloaden[hier](https://releases.aspose.com/html/net/)of probeer het gratis met een[gratis proefperiode](https://releases.aspose.com/).
+2.  Aspose.HTML voor .NET-bibliotheek: U hebt de Aspose.HTML-bibliotheek nodig. U kunt deze downloaden[hier](https://releases.aspose.com/html/net/) of probeer het gratis met een[gratis proefperiode](https://releases.aspose.com/).
 
 3. IDE: Voor het schrijven en uitvoeren van uw code wordt een geschikte geïntegreerde ontwikkelomgeving (IDE) zoals Visual Studio aanbevolen.
 
@@ -53,7 +53,7 @@ Het eerste wat u wilt doen is een directory instellen waar u uw afbeeldingen ops
 string dataDir = "Your Data Directory"; // Geef uw directorypad op
 ```
 
--  Vervangen`"Your Data Directory"` met het pad waar u uw output PNG-bestanden wilt opslaan. Dit kan zoiets zijn als`@"C:\work\"`.
+-  Vervangen`"Your Data Directory"`met het pad waar u uw output PNG-bestanden wilt opslaan. Dit kan zoiets zijn als`@"C:\work\"`.
 
 ## Stap 2: Een HTML-documentobject maken
 
@@ -79,7 +79,7 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  De`HtmlRenderer`is uw go-to object voor het omzetten van HTML-inhoud in afbeeldingen. Het behandelt het renderingproces onder de motorkap, zodat u zich kunt concentreren op wat u nodig hebt!
+-  De`HtmlRenderer` is uw go-to object voor het omzetten van HTML-inhoud in afbeeldingen. Het behandelt het renderingproces onder de motorkap, zodat u zich kunt concentreren op wat u nodig hebt!
 
 ## Stap 4: Stel het beeldapparaat in
 

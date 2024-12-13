@@ -47,7 +47,7 @@ string dataDir = "C:\\YourDocumentDirectory\\";
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // المسار إلى ملف PSD المصدر الخاص بك
-string destName = dataDir + "result.png";   // المسار لملف الصورة الناتجة
+string destName = dataDir + "result.png";   //المسار لملف الصورة الناتجة
 ```
 
 ## الخطوة 3: تحميل صورة PSD والتعامل مع الخطوط غير الموجودة
@@ -89,7 +89,7 @@ using (var fileStream = new FileStream(destName, FileMode.Create))
 ## الأسئلة الشائعة
 
 ### هل يمكنني استخدام Aspose.PSD مع أي نوع من ملفات الصور؟
- نعم! يدعم Aspose.PSD تنسيقات صور مختلفة، بما في ذلك PSD وPNG وJPEG والمزيد. للحصول على قائمة مفصلة، راجع الوثائق[هنا](https://reference.aspose.com/psd/net/).
+نعم! يدعم Aspose.PSD تنسيقات صور مختلفة، بما في ذلك PSD وPNG وJPEG والمزيد. للحصول على قائمة مفصلة، راجع الوثائق[هنا](https://reference.aspose.com/psd/net/).
 
 ### كيف أحصل على الدعم لـ Aspose.PSD؟
  للحصول على المساعدة ودعم المجتمع، قم بزيارة منتدى دعم Aspose.PSD[هنا](https://forum.aspose.com/c/psd/34).

@@ -9,7 +9,7 @@ url: /sv/net/tutorials/words/use-htmlloadoptions/html-combo-box-form-fields-with
 ---
 ## Introduktion
 
-I den dynamiska världen av dokumentautomatisering är det ofta en utmaning att integrera HTML-innehåll sömlöst i Word-dokument. Med Aspose.Words för .NET kan vi manipulera HTML med precision och rendera det till Word-dokument. Den här guiden utforskar hur du använder HTML-laddningsalternativ för att styra hur ett formulärfält med kombinationsruta infogas, vilket säkerställer exakt rendering och funktionalitet.
+I dokumentautomatiseringens dynamiska värld är det ofta en utmaning att integrera HTML-innehåll sömlöst i Word-dokument. Med Aspose.Words för .NET kan vi manipulera HTML med precision och rendera det till Word-dokument. Den här guiden utforskar hur du använder HTML-laddningsalternativ för att styra hur ett formulärfält med kombinationsruta infogas, vilket säkerställer exakt rendering och funktionalitet.
 
 ## Förutsättningar
 
@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Steg 3: Konfigurera HTML-laddningsalternativ
 
- De`HtmlLoadOptions`klass i Aspose.Words låter oss specificera hur HTML-innehåll ska tolkas. För att säkerställa att kombinationsrutan renderas som en strukturerad dokumenttagg:
+ De`HtmlLoadOptions` klass i Aspose.Words låter oss specificera hur HTML-innehåll ska tolkas. För att säkerställa att kombinationsrutan renderas som en strukturerad dokumenttagg:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions
@@ -96,7 +96,7 @@ Detta genererar en Word-fil som innehåller det korrekt renderade kombinationsru
 
 ## Slutsats
 
- Att införliva HTML-innehåll, särskilt formulärfält som kombinationsrutor, i Word-dokument med Aspose.Words för .NET är enkelt när man använder sig av`HtmlLoadOptions`Den här guiden utrustar dig med kunskapen för att kontrollera hur dessa element renderas, vilket säkerställer att dina dokument uppfyller användar- och projektkrav.
+ Att införliva HTML-innehåll, särskilt formulärfält som kombinationsrutor, i Word-dokument med Aspose.Words för .NET är enkelt när man använder sig av`HtmlLoadOptions`. Den här guiden utrustar dig med kunskapen för att kontrollera hur dessa element renderas, vilket säkerställer att dina dokument uppfyller användar- och projektkrav.
 
 ## FAQ's
 

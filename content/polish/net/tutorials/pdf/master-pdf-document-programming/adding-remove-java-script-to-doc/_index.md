@@ -106,7 +106,7 @@ W tym kompleksowym przewodniku odkryłeś, jak odblokować moc Aspose.PDF dla do
  Tak! Możesz dodać tyle funkcji JavaScript, ile potrzebujesz, używając`doc.JavaScript` kolekcja.
 
 ### Co się stanie, jeśli spróbuję usunąć nieistniejącą funkcję JavaScript?
- Jeżeli funkcja nie istnieje,`Remove` Metoda nie zgłosi błędu, ale też niczego nie usunie. Aby obsłużyć nieistniejące funkcje, możesz dodać dodatkową obsługę błędów lub zmodyfikować kod, aby je zignorować.
+ Jeżeli funkcja nie istnieje,`Remove`Metoda nie zgłosi błędu, ale też niczego nie usunie. Aby obsłużyć nieistniejące funkcje, możesz dodać dodatkową obsługę błędów lub zmodyfikować kod, aby je zignorować.
 
 ### Czy można uruchomić JavaScript od razu po otwarciu pliku PDF?
 Tak! Możesz skonfigurować JavaScript tak, aby działał na określonych wyzwalaczach, takich jak otwieranie dokumentu lub klikanie przycisku.

@@ -34,7 +34,7 @@ using Aspose.Words.Loading;
 
 ## 第 1 步：設定 LoadOptions
 
-首先，建立一個實例`LoadOptions`，您可以在其中指定文件的語言首選項。
+首先，建立一個實例`LoadOptions`，您將在其中指定文件的語言首選項。
 
 ```csharp
 LoadOptions loadOptions = new LoadOptions();
@@ -99,7 +99,7 @@ Console.WriteLine(
 是的，商業用途需要許可證。您可以購買一個[這裡](https://purchase.aspose.com/buy)或獲得臨時許可證[這裡](https://purchase.aspose.com/temporary-license/).
 
 ### Aspose.Words for .NET 還提供哪些其他功能？
- Aspose.Words for .NET 提供了廣泛的功能，包括文件產生、轉換和操作。探索[文件](https://reference.aspose.com/words/net/)了解更多詳情。
+Aspose.Words for .NET 提供了廣泛的功能，包括文件產生、轉換和操作。探索[文件](https://reference.aspose.com/words/net/)了解更多詳情。
 
 ### 可以在購買前試用 Aspose.Words for .NET 嗎？
 絕對地！您可以下載免費試用版[這裡](https://releases.aspose.com/).

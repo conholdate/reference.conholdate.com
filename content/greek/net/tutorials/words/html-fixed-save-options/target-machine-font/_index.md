@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 Τώρα, ας αποθηκεύσουμε το έγγραφο ως σταθερό αρχείο HTML. Εδώ συμβαίνει η μαγεία!
 
 ```csharp
-//Μετατροπή εγγράφου σε σταθερό HTML
+// Μετατροπή εγγράφου σε σταθερό HTML
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

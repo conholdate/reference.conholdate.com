@@ -15,7 +15,7 @@ Dalam pengembangan perangkat lunak, terutama saat menangani dokumen hukum, kontr
 
 Sebelum memulai, pastikan Anda memiliki hal berikut:
 
-1.  GroupDocs.Comparison untuk .NET: Unduh dan instal pustaka dari[Di Sini](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison untuk .NET: Unduh dan instal pustaka dari[Di Sini](https://releases.groupdocs.com/comparison/net/).
 2. Pengetahuan Dasar C#: Diasumsikan bahwa tutorial ini dipahami dengan baik tentang pemrograman C#.
 3. Lingkungan Pengembangan Terpadu (IDE): Gunakan IDE seperti Visual Studio untuk pengkodean.
 4. Dokumen untuk Dibandingkan: Siapkan dokumen yang ingin Anda bandingkan dan pastikan dokumen tersebut dapat diakses dari kode C# Anda.
@@ -96,4 +96,4 @@ Tentu saja! GroupDocs.Comparison untuk .NET menawarkan berbagai opsi penyesuaian
 
 ### Di mana saya dapat mencari bantuan atau dukungan terkait GroupDocs.Comparison untuk .NET?
 
-Untuk bantuan, kunjungi forum GroupDocs.Comparison[Di Sini](https://forum.groupdocs.com/c/comparison/12).
+ Untuk bantuan, kunjungi forum GroupDocs.Comparison[Di Sini](https://forum.groupdocs.com/c/comparison/12).

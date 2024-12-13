@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Шаг 3: Настройте параметры загрузки HTML
 
- The`HtmlLoadOptions`класс в Aspose.Words позволяет нам указать, как следует интерпретировать HTML-контент. Чтобы гарантировать, что поле со списком отображается как структурированный тег документа:
+ The`HtmlLoadOptions` класс в Aspose.Words позволяет нам указать, как следует интерпретировать HTML-контент. Чтобы гарантировать, что поле со списком отображается как структурированный тег документа:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions

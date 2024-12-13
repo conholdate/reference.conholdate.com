@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## Βήμα 1: Ρύθμιση του έργου σας
 
-Αρχικά, δημιουργήστε ένα νέο έργο .NET στο IDE σας. Προσθέστε μια αναφορά στη βιβλιοθήκη Aspose.Words. Εάν δεν το έχετε κατεβάσει ακόμα, μπορείτε να το κάνετε από[εδώ](https://releases.aspose.com/words/net/).
+ Αρχικά, δημιουργήστε ένα νέο έργο .NET στο IDE σας. Προσθέστε μια αναφορά στη βιβλιοθήκη Aspose.Words. Εάν δεν το έχετε κατεβάσει ακόμα, μπορείτε να το κάνετε από[εδώ](https://releases.aspose.com/words/net/).
 
 ## Βήμα 2: Ορίστε τον Κατάλογο Εγγράφων
 
@@ -86,7 +86,7 @@ doc.Save(dataDir + "Document_With_Errors_Highlighted.docx");
 Απολύτως! Το Aspose.Words ενσωματώνεται απρόσκοπτα με τα έργα σας .NET.
 
 ### Πώς μπορώ να εγκαταστήσω το Aspose.Words για .NET;
- Κατεβάστε τη βιβλιοθήκη από το[Aspose website](https://releases.aspose.com/words/net/) και προσθέστε το στο έργο σας ως αναφορά.
+ Κατεβάστε τη βιβλιοθήκη από το[Aspose ιστότοπο](https://releases.aspose.com/words/net/) και προσθέστε το στο έργο σας ως αναφορά.
 
 ### Υπάρχει δωρεάν δοκιμή για το Aspose.Words για .NET;
  Ναι, μπορείτε να αποκτήσετε δωρεάν δοκιμή από[εδώ](https://releases.aspose.com/).

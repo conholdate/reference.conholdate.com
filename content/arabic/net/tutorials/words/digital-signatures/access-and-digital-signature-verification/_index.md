@@ -16,7 +16,7 @@ url: /ar/net/tutorials/words/digital-signatures/access-and-digital-signature-ver
 قبل أن نبدأ، تأكد من أن لديك ما يلي جاهزًا:
 
 1. Visual Studio: تأكد من تثبيته على جهازك من أجل الترميز.
-2.  Aspose.Words for .NET: قم بتنزيله وتثبيته من[هنا](https://releases.aspose.com/words/net/)إذا لم تقم بذلك بعد، فاحصل على نسختك التجريبية المجانية[هنا](https://releases.aspose.com/).
+2.  Aspose.Words for .NET: قم بتنزيله وتثبيته من[هنا](https://releases.aspose.com/words/net/) إذا لم تقم بذلك بعد، فاحصل على نسختك التجريبية المجانية[هنا](https://releases.aspose.com/).
 3. مستند Word موقّع رقميًا: احتفظ بمستند Word يحتوي على توقيع رقمي للتحقق منه.
 
 ## استيراد المساحات الاسمية
@@ -142,7 +142,7 @@ catch (Exception ex)
 
 ### كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Words لـ .NET؟
 
-يمكنك الحصول على ترخيص مؤقت من[هنا](https://purchase.aspose.com/temporary-license/)، مما يسمح لك باستكشاف الميزات الكاملة للمكتبة دون قيود.
+ يمكنك الحصول على ترخيص مؤقت من[هنا](https://purchase.aspose.com/temporary-license/)، مما يسمح لك باستكشاف الميزات الكاملة للمكتبة دون قيود.
 
 ### أين يمكنني العثور على مزيد من الوثائق حول Aspose.Words لـ .NET؟
 

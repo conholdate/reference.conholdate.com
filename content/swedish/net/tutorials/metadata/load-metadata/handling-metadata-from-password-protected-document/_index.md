@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## Steg 3: Ladda metadata från dokumentet
 
- Med hjälp av`Metadata` klass, kan du ladda metadata från det angivna dokumentet. Kom ihåg att byta ut`"YourInputFile"` med sökvägen till ditt dokument:
+ Med hjälp av`Metadata` klass, kan du ladda metadata från det angivna dokumentet. Kom ihåg att byta ut`"YourInputFile"`med sökvägen till ditt dokument:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))
@@ -72,7 +72,7 @@ I den här handledningen lärde vi oss hur man laddar metadata från lösenordss
 ## FAQ's
 
 ### Är GroupDocs.Metadata for .NET kompatibelt med alla dokumentformat?
-Ja, det stöder ett brett utbud av format inklusive PDF, Microsoft Office-dokument, bilder, videor och mer.
+Ja, den stöder ett brett utbud av format inklusive PDF, Microsoft Office-dokument, bilder, videor och mer.
 
 ### Kan jag ändra metadata i ett dokument med GroupDocs.Metadata?
 Absolut! Biblioteket låter dig extrahera, uppdatera och ta bort metadataegenskaper sömlöst.

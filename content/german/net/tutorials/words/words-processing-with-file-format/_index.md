@@ -17,7 +17,7 @@ Tauchen Sie in die Welt der Dokumentenverarbeitung in Ihren .NET-Anwendungen ein
 
 ## Erkennen digitaler Signaturen in Word-Dokumenten
 
- Digitale Signaturen sind wie der geheime Handschlag der digitalen Dokumentenwelt. Möchten Sie sicherstellen, dass Ihre Word-Dokumente sicher und authentisch sind? Schauen Sie sich unser Tutorial an unter[Erkennen digitaler Signaturen in Word-Dokumenten](./detecting-digital-signatures/). Dieser umfassende Leitfaden führt Sie durch den gesamten Prozess, von der Projekteinrichtung bis zur eigentlichen Überprüfung auf Signaturen. In einer Welt, in der die Dokumentintegrität von größter Bedeutung ist, kann das Wissen über den Umgang mit digitalen Signaturen Sie als Entwickler hervorheben, dem Sicherheit am Herzen liegt.
+Digitale Signaturen sind wie der geheime Handschlag der digitalen Dokumentenwelt. Möchten Sie sicherstellen, dass Ihre Word-Dokumente sicher und authentisch sind? Schauen Sie sich unser Tutorial an unter[Erkennen digitaler Signaturen in Word-Dokumenten](./detecting-digital-signatures/). Dieser umfassende Leitfaden führt Sie durch den gesamten Prozess, von der Projekteinrichtung bis zur eigentlichen Überprüfung auf Signaturen. In einer Welt, in der die Dokumentintegrität von größter Bedeutung ist, kann das Wissen über den Umgang mit digitalen Signaturen Sie als Entwickler hervorheben, dem Sicherheit am Herzen liegt.
 
 ## Überprüfen der Word-Dokumentverschlüsselung
 

@@ -90,4 +90,4 @@ Ja! Sie können verschiedene Formate, einschließlich DOC, DOCX und HTML, in RTF
 Auf jeden Fall! Integrieren Sie den bereitgestellten Code in Ihre Anwendungen oder Skripte, um Dokumentkonvertierungen nahtlos zu automatisieren.
 
 ### Wo finde ich weitere Unterstützung?
- Weitere Informationen finden Sie im[Aspose Support Forum](https://forum.aspose.com/c/words/8) um mit der Community in Kontakt zu treten und fachkundige Hilfe zu erhalten.
+Weitere Informationen finden Sie im[Aspose Support Forum](https://forum.aspose.com/c/words/8) um mit der Community in Kontakt zu treten und fachkundige Hilfe zu erhalten.

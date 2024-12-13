@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Étape 4 : Sélectionner des pages spécifiques à exporter (facultatif)
 
- Spécifiez les pages exactes à inclure dans le PDF en renseignant le champ`Pages` propriété. Par exemple, pour exporter les pages 1 et 4 :
+Spécifiez les pages exactes à inclure dans le PDF en renseignant le champ`Pages` propriété. Par exemple, pour exporter les pages 1 et 4 :
 
 ```csharp
 options.Pages.Add(1);

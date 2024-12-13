@@ -15,7 +15,7 @@ Hej, kolego koderze! Jeśli kiedykolwiek zmagałeś się z problemami z czcionka
 
 Zanim zaczniemy, upewnij się, że masz wszystko, czego potrzebujesz:
 
-1.  Aspose.Words dla .NET: Pobierz[Tutaj](https://releases.aspose.com/words/net/).
+1. Aspose.Words dla .NET: Pobierz[Tutaj](https://releases.aspose.com/words/net/).
 2.  Ważna licencja: Kup licencję[Tutaj](https://purchase.aspose.com/buy) lub uzyskaj tymczasową licencję[Tutaj](https://purchase.aspose.com/temporary-license/).
 3. Podstawowa znajomość języka C# i .NET: Zakłada się znajomość podstawowych koncepcji programowania w języku C#.
 4. Visual Studio: będzie działać każda wersja obsługująca platformę .NET.
@@ -74,7 +74,7 @@ Na koniec zapisujemy dokument jako plik HTML, korzystając z skonfigurowanych op
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Nazywamy`Save` metoda na`Document` obiekt, określając ścieżkę wyjściową i skonfigurowane opcje zapisu. Generuje to plik HTML z rozwiązanymi nazwami czcionek.
+ Nazywamy`Save`metoda na`Document` obiekt, określając ścieżkę wyjściową i skonfigurowane opcje zapisu. Generuje to plik HTML z rozwiązanymi nazwami czcionek.
 
 ## Wniosek
 
@@ -89,10 +89,10 @@ Aspose.Words for .NET to zaawansowana biblioteka umożliwiająca programistom pr
  Możesz pobrać Aspose.Words dla .NET z[Tutaj](https://releases.aspose.com/words/net/). Postępuj zgodnie z instrukcjami instalacji podanymi w dokumentacji.
 
 ### Czy mogę używać Aspose.Words dla .NET bez licencji?
- Tak, ale będzie miał pewne ograniczenia. Aby uzyskać pełną funkcjonalność, możesz kupić licencję[Tutaj](https://purchase.aspose.com/buy) lub uzyskaj tymczasową licencję[Tutaj](https://purchase.aspose.com/temporary-license/).
+ Tak, ale będzie mieć pewne ograniczenia. Aby uzyskać pełną funkcjonalność, możesz kupić licencję[Tutaj](https://purchase.aspose.com/buy) lub uzyskaj tymczasową licencję[Tutaj](https://purchase.aspose.com/temporary-license/).
 
 ### Dlaczego moje czcionki nie są prawidłowo wyświetlane w HTML?
- Ten problem może wystąpić, jeśli czcionki nie zostaną prawidłowo rozwiązane podczas konwersji. Ustawienie`ResolveFontNames = true` W`HtmlSaveOptions` może pomóc to naprawić.
+Ten problem może wystąpić, jeśli czcionki nie zostaną prawidłowo rozwiązane podczas konwersji. Ustawienie`ResolveFontNames = true` W`HtmlSaveOptions` może pomóc to naprawić.
 
 ### Gdzie mogę uzyskać pomoc dotyczącą Aspose.Words dla .NET?
  Możesz uzyskać wsparcie od[Forum wsparcia Aspose.Words](https://forum.aspose.com/c/words/8).

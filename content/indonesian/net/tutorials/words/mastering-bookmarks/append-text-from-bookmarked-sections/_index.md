@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Mari kita mulai dengan memuat dokumen Word sumber dan tujuan dan menginisialisasi variabel yang diperlukan.
 
 ```csharp
-// Muat dokumen sumber dan tujuan.
+//Muat dokumen sumber dan tujuan.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,7 +110,7 @@ Ya, Anda dapat mengulangi proses untuk setiap penanda buku dan menambahkan teks 
 Contoh saat ini mengasumsikan bahwa mereka memiliki induk yang sama. Jika tidak, Anda perlu menerapkan penanganan yang lebih rumit.
 
 ### Apakah format asli teks yang ditambahkan akan dipertahankan?
- Tentu saja! Menggunakan`ImportFormatMode.KeepSourceFormatting` memastikan format asli dipertahankan.
+ Tentu saja! Menggunakan`ImportFormatMode.KeepSourceFormatting`memastikan format asli dipertahankan.
 
 ### Apakah mungkin untuk menambahkan teks ke posisi tertentu dalam dokumen tujuan?
 Ya, Anda dapat menambahkan teks ke posisi mana pun yang diinginkan dengan menavigasi ke simpul yang sesuai dalam dokumen tujuan.

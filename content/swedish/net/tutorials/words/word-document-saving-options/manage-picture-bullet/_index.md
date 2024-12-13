@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Slutligen sparar du dokumentet med de konfigurerade alternativen. Detta kommer att generera en ny fil utan bildpunkterna.
 
 ```csharp
-// Spara dokumentet med de angivna alternativen
+//Spara dokumentet med de angivna alternativen
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

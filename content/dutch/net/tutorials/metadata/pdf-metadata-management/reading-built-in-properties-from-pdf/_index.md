@@ -14,7 +14,7 @@ In deze tutorial gaan we onderzoeken hoe u GroupDocs.Metadata voor .NET kunt geb
 Voordat we beginnen, zorg ervoor dat u het volgende heeft:
 
 - Visual Studio: Zorg ervoor dat dit op uw systeem is geïnstalleerd.
-- GroupDocs.Metadata voor .NET: Download en installeer het vanaf de[officiële website](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata voor .NET: Download en installeer het vanaf de[officiële website](https://releases.groupdocs.com/metadata/net/).
 - Basiskennis van C#: Kennis van C# en het .NET Framework wordt aanbevolen.
 
 ## Naamruimten importeren
@@ -31,7 +31,7 @@ Om metagegevens uit een PDF-bestand te lezen, laadt u het document en extraheert
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // Toegang tot het rootpakket van het PDF-bestand
+    //Toegang tot het rootpakket van het PDF-bestand
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // Ingebouwde eigenschappen ophalen en weergeven
@@ -57,7 +57,7 @@ Ja, het ondersteunt een breed scala aan formaten, waaronder DOCX, XLSX, PPTX, PD
  Absoluut! U kunt een gratis proefperiode krijgen via de[GroupDocs.Metadata-website](https://releases.groupdocs.com/).
 
 ### Hoe kan ik metagegevenseigenschappen wijzigen met behulp van GroupDocs.Metadata?
-U kunt metagegevenseigenschappen wijzigen door het relevante documentpakket te openen en indien nodig nieuwe waarden in te stellen.
+kunt metagegevenseigenschappen wijzigen door het relevante documentpakket te openen en indien nodig nieuwe waarden in te stellen.
 
 ### Ondersteunt GroupDocs.Metadata .NET Core?
 Ja, het is compatibel met zowel .NET Framework als .NET Core.

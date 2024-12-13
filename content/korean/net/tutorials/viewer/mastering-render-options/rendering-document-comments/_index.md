@@ -63,7 +63,7 @@ options.RenderComments = true; // 댓글 렌더링 활성화
 ```
 
 ## 5단계: 주석이 있는 문서 렌더링
- 전화하다`View` 방법에 대한`Viewer` 구성된 옵션이 있는 개체입니다.
+ 전화하다`View`방법에 대한`Viewer` 구성된 옵션이 있는 개체입니다.
 
 ```csharp
 viewer.View(options);

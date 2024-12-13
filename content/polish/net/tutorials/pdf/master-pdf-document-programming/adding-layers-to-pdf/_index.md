@@ -9,7 +9,7 @@ url: /pl/net/tutorials/pdf/master-pdf-document-programming/adding-layers-to-pdf/
 ---
 ## Wstęp
 
-Jak widzieliśmy w tym samouczku, dodawanie warstw do pliku PDF jest łatwiejsze niż mogłoby się wydawać. Dzięki Aspose.PDF dla .NET możliwości są praktycznie nieograniczone. Możesz wzbogacić swoje dokumenty o różne elementy artystyczne, dostosowując się do preferencji użytkownika i poprawiając ogólne wrażenia.
+Jak widzieliśmy w tym samouczku, dodawanie warstw do pliku PDF jest łatwiejsze niż mogłoby się wydawać. Dzięki Aspose.PDF dla .NET możliwości są praktycznie nieograniczone. Możesz wzbogacić swoje dokumenty o różne elementy artystyczne, dostosowując je do preferencji użytkownika i poprawiając ogólne wrażenia.
 
 ## Wymagania wstępne
 

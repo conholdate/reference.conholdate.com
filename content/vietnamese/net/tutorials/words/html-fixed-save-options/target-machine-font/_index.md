@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 Bây giờ, hãy lưu tài liệu dưới dạng tệp HTML cố định. Đây chính là nơi phép thuật xảy ra!
 
 ```csharp
-//Chuyển đổi tài liệu sang HTML cố định
+// Chuyển đổi tài liệu sang HTML cố định
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

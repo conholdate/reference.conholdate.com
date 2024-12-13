@@ -17,7 +17,7 @@ Aspose.Tasks for .NET を使用して Microsoft Project ファイルを HTML 形
 
 1. C# の基礎知識: C# プログラミング言語に精通していることが前提となります。
 2.  Aspose.Tasksのインストール: 開発環境にAspose.Tasks for .NETがインストールされていることを確認してください。[Aspose ウェブサイト](https://www.aspose.com).
-3. Microsoft Projectファイル: 変換用のMicrosoft Projectファイルを用意します（`.mpp`拡大）。
+3.  Microsoft Projectファイル: 変換用のMicrosoft Projectファイルを用意します（`.mpp`拡大）。
 
 ## 必要な名前空間のインポート
 

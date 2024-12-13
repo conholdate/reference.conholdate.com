@@ -95,7 +95,7 @@ Ja, Aspose.OCR is veelzijdig en ondersteunt zowel desktop- als webapplicaties di
  U kunt licentieopties verkennen en aankopen doen[hier](https://purchase.conholdate.com/buy) . Een gratis proefperiode is ook beschikbaar[hier](https://releases.aspose.com/) , en tijdelijke licenties kunnen worden verkregen[hier](https://purchase.conholdate.com/temporary-license/).
 
 ### Waar kan ik ondersteuning vinden voor Aspose.OCR?  
- Voor hulp, bezoek de[Aspose.OCR-forum](https://forum.aspose.com/c/ocr/16) voor gemeenschap en steun.
+Voor hulp, bezoek de[Aspose.OCR-forum](https://forum.aspose.com/c/ocr/16) voor gemeenschap en steun.
 
 ### Welke afbeeldingsformaten ondersteunt Aspose.OCR?  
 Aspose.OCR ondersteunt verschillende formaten, waaronder PNG, JPEG, GIF, BMP en TIFF.

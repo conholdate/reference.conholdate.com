@@ -38,7 +38,7 @@ using System.IO;
 ## Steg 1: Skapa bilden och spara strömmen
 
 ```csharp
-//Definiera katalogen för att spara bilden
+// Definiera katalogen för att spara bilden
 string dataDir = "Your Document Directory"; // Uppdatera detta till din önskade sökväg
 
 // Skapa en ström för att spara BMP-bilden

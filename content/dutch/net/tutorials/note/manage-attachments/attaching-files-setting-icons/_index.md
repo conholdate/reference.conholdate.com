@@ -35,7 +35,7 @@ Hieronder vindt u de gedetailleerde, stapsgewijze implementatie.
 
 ## Stap 1: Maak een nieuw OneNote-document
 
- Initialiseer een nieuw OneNote-document met behulp van de`Document` klas.
+ Initialiseer een nieuw OneNote-document met behulp van de`Document`klas.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ Aspose.Note ondersteunt de indelingen JPEG, PNG, BMP en GIF voor bijlagepictogra
 Aspose.Let op: zorg ervoor dat uw systeembronnen grote bestanden aankunnen.
 
 ### Kunnen pictogrammen worden aangepast voordat ze worden ingesteld?
-Ja, u kunt de pictogramafbeelding manipuleren met behulp van .NET's`System.Drawing` bibliotheek voordat u deze koppelt.
+ Ja, u kunt de pictogramafbeelding manipuleren met behulp van .NET's`System.Drawing` bibliotheek voordat u deze koppelt.
 
  Voor verdere hulp kunt u de volgende pagina's raadplegen:[documentatie](https://reference.aspose.com/words/net/) of neem contact op met[Aspose-ondersteuning](https://forum.aspose.com/c/words/8).

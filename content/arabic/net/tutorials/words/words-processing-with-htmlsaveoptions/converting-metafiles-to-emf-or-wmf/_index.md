@@ -15,7 +15,7 @@ url: /ar/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 
 لضمان تجربة تطوير سلسة، تأكد من استيفاء المتطلبات الأساسية التالية:
 
-- Aspose.Words لـ .NET: احصل على أحدث إصدار من[صفحة إصدارات Aspose](https://releases.aspose.com/words/net/).
+-  Aspose.Words لـ .NET: احصل على أحدث إصدار من[صفحة إصدارات Aspose](https://releases.aspose.com/words/net/).
 - .NET Framework: تحقق من تثبيت .NET Framework (أو .NET Core/5/6 حسب بيئتك).
 - بيئة التطوير: يوصى باستخدام Visual Studio لميزاته القوية.
 - إتقان لغة C#: المعرفة الأساسية ببرمجة لغة C# أمر ضروري.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## الخطوة 4: تحميل HTML إلى مستند Word
 
-استخدم خيارات التحميل المُهيأة لإنشاء`Document` كائن من سلسلة HTML.
+ استخدم خيارات التحميل المُهيأة لإنشاء`Document` كائن من سلسلة HTML.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

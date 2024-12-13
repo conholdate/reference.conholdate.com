@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Commençons par charger nos documents Word source et de destination et initialiser les variables nécessaires.
 
 ```csharp
-// Chargez les documents source et de destination.
+//Chargez les documents source et de destination.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,7 +110,7 @@ Oui, vous pouvez répéter le processus pour chaque signet et ajouter le texte s
 L'exemple actuel suppose qu'ils ont le même parent. Si ce n'est pas le cas, vous devrez mettre en œuvre une gestion plus complexe.
 
 ### La mise en forme originale du texte ajouté sera-t-elle préservée ?
- Absolument ! En utilisant`ImportFormatMode.KeepSourceFormatting` garantit que le formatage d'origine est conservé.
+ Absolument ! En utilisant`ImportFormatMode.KeepSourceFormatting`garantit que le formatage d'origine est conservé.
 
 ### Est-il possible d'ajouter du texte à une position spécifique dans le document de destination ?
 Oui, vous pouvez ajouter du texte à n’importe quelle position souhaitée en naviguant vers le nœud approprié dans le document de destination.

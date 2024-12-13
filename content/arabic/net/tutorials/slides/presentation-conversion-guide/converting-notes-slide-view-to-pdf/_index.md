@@ -16,7 +16,7 @@ url: /ar/net/tutorials/slides/presentation-conversion-guide/converting-notes-sli
 قبل الغوص، تأكد من استيفاء المتطلبات التالية:
 
 -  بيئة التطوير: التثبيت[فيجوال ستوديو](https://visualstudio.microsoft.com/) أو أي C# IDE.
-- Aspose.Slides لمكتبة .NET: قم بتنزيل المكتبة من[هنا](https://releases.aspose.com/slides/net/).
+-  Aspose.Slides لمكتبة .NET: قم بتنزيل المكتبة من[هنا](https://releases.aspose.com/slides/net/).
 -  ملف العرض التقديمي: لديك ملف PowerPoint (على سبيل المثال،`NotesFile.pptx`) جاهزة للتحويل.
 
 ## إعداد البيئة الخاصة بك
@@ -73,7 +73,7 @@ options.NotesPosition = NotesPositions.BottomFull;
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
- سيؤدي هذا إلى إنشاء ملف PDF باسم`Pdf_Notes_out.pdf` في الدليل المحدد الخاص بك، والذي يحتوي على الشرائح مع ملاحظاتها.
+سيؤدي هذا إلى إنشاء ملف PDF باسم`Pdf_Notes_out.pdf` في الدليل المحدد الخاص بك، والذي يحتوي على الشرائح مع ملاحظاتها.
 
 ## خاتمة
 
@@ -88,10 +88,10 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
  يمكنك تنزيل نسخة تجريبية مجانية من[هنا](https://releases.aspose.com/).
 
 ### س3: هل هناك خيارات أخرى متاحة لتصدير ملفات PDF؟
-نعم، يمكنك تخصيص الخطوط وتخطيط الصفحة والضغط والمزيد باستخدام`PdfOptions` فصل.
+ نعم، يمكنك تخصيص الخطوط وتخطيط الصفحة والضغط والمزيد باستخدام`PdfOptions`فصل.
 
 ### س4: هل يمكنني تصدير شرائح محددة فقط؟
- بالتأكيد! يمكنك تحديد شرائح معينة باستخدام`Slides` مجموعة في`Presentation` فصل.
+ بالتأكيد! يمكنك تحديد شرائح معينة باستخدام`Slides` مجموعة في`Presentation`فصل.
 
 ### س5: أين يمكنني العثور على أمثلة إضافية؟
  قم بزيارة[توثيق Aspose.Slides لـ .NET](https://reference.aspose.com/slides/net/) لمزيد من الأمثلة وحالات الاستخدام.

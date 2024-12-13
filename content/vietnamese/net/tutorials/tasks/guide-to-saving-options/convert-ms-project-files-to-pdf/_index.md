@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Bước 4: Chọn các trang cụ thể để xuất (Tùy chọn)
 
- Chỉ định các trang chính xác sẽ được đưa vào PDF bằng cách điền vào`Pages` thuộc tính. Ví dụ, để xuất trang 1 và 4:
+Chỉ định các trang chính xác sẽ được đưa vào PDF bằng cách điền vào`Pages` thuộc tính. Ví dụ, để xuất trang 1 và 4:
 
 ```csharp
 options.Pages.Add(1);

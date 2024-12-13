@@ -102,7 +102,7 @@ using (ImageDevice device = new ImageDevice(dataDir + @"document_out.png"))
 renderer.Render(device, document);
 ```
 
-- 使用方法`Render`方法の`HtmlRenderer`、あなたは`ImageDevice`そして`HTMLDocument`このアクションにより、指定した HTML が PNG 画像に変換され、その画像は先ほど指定したディレクトリに保存されます。
+- 使用方法`Render`方法の`HtmlRenderer` 、あなたは`ImageDevice`そして`HTMLDocument`このアクションにより、指定した HTML が PNG 画像に変換され、その画像は先ほど指定したディレクトリに保存されます。
 
 ## 結論
 

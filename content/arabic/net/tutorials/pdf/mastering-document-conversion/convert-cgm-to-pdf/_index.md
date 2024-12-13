@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  الآن، قم بإنشاء مثيل`Document` كائن لتمثيل ملف CGM الخاص بك في الذاكرة. يتيح لك هذا معالجة الملف قبل حفظه بتنسيق PDF.
 
 ```csharp
-//إنشاء كائن مستند
+// إنشاء كائن مستند
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ CGM تعني Computer Graphics Metafile، وهو تنسيق ملف مصمم لت
 
 ### أين يمكنني العثور على الدعم لـ Aspose.PDF؟
 
- للحصول على المساعدة، قم بزيارة[منتدى دعم Aspose](https://forum.aspose.com/c/pdf/10)حيث يمكنك طرح الأسئلة والعثور على حلول للقضايا الشائعة.
+للحصول على المساعدة، قم بزيارة[منتدى دعم Aspose](https://forum.aspose.com/c/pdf/10)حيث يمكنك طرح الأسئلة والعثور على حلول للقضايا الشائعة.
 
 ### كيف يمكنني شراء ترخيص لـ Aspose.PDF؟
 

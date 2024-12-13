@@ -38,7 +38,7 @@ using System.IO;
 ## Langkah 1: Buat Gambar dan Simpan Aliran
 
 ```csharp
-//Tentukan direktori untuk menyimpan gambar
+// Tentukan direktori untuk menyimpan gambar
 string dataDir = "Your Document Directory"; // Perbarui ini ke jalur pilihan Anda
 
 // Buat aliran untuk menyimpan gambar BMP

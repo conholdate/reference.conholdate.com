@@ -91,7 +91,7 @@ Ano, Aspose.OCR podporuje mnoho jazyků, což z něj činí univerzální řeše
 
 ### Kde mohu získat podporu pro Aspose.OCR?
 
- Pro pomoc navštivte[Fórum Aspose.OCR](https://forum.aspose.com/c/ocr/16) kde jsou členové komunity a odborníci připraveni pomoci.
+Pro pomoc navštivte[Fórum Aspose.OCR](https://forum.aspose.com/c/ocr/16) kde jsou členové komunity a odborníci připraveni pomoci.
 
 ### Mohu získat dočasnou licenci?
 

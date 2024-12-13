@@ -19,7 +19,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã thiết lập xong nhữ
  Hãy đảm bảo rằng bạn đã cài đặt .NET SDK trên máy của mình. Bạn có thể tải xuống từ[Trang web .NET](https://dotnet.microsoft.com/download).
 
 ### GroupDocs.Conversion cho Thư viện .NET
-Tải xuống thư viện GroupDocs.Conversion cho .NET từ[địa điểm](https://releases.groupdocs.com/conversion/net/). Làm theo hướng dẫn cài đặt để thêm vào dự án của bạn.
+ Tải xuống thư viện GroupDocs.Conversion cho .NET từ[địa điểm](https://releases.groupdocs.com/conversion/net/)Làm theo hướng dẫn cài đặt để thêm vào dự án của bạn.
 
 ## Bước 1: Nhập các không gian tên cần thiết
 Trong dự án .NET của bạn, hãy bao gồm các không gian tên sau để truy cập các chức năng của GroupDocs:

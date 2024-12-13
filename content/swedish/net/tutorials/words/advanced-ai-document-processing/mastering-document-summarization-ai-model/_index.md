@@ -63,7 +63,7 @@ string MyDir = "YOUR_DOCUMENT_DIRECTORY";
 string ArtifactsDir = "YOUR_ARTIFACTS_DIRECTORY";
 ```
 
- Ersätta`YOUR_DOCUMENT_DIRECTORY` och`YOUR_ARTIFACTS_DIRECTORY` med sökvägarna för in- och utdatakataloger.
+ Ersätta`YOUR_DOCUMENT_DIRECTORY` och`YOUR_ARTIFACTS_DIRECTORY` med sökvägarna för in- och utmatningskataloger.
 
 ## Steg 2: Ladda dokumenten för att sammanfatta
 

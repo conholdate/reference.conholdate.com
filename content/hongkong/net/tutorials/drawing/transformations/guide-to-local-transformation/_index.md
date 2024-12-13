@@ -13,7 +13,7 @@ Aspose.Drawing for .NET 使開發人員能夠透過本機轉換創建複雜的�
 
 ## 先決條件
 
-1. Aspose.Drawing for .NET：從以下位置下載並安裝它[這裡](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing for .NET：從以下位置下載並安裝它[這裡](https://releases.aspose.com/drawing/net/).
 2. 文件目錄：選擇儲存影像的目錄。
 3. 基本 .NET 知識：熟悉 C# 和圖形程式設計概念。
 

@@ -17,7 +17,7 @@ url: /hi/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-
 
 ### .NET के लिए GroupDocs.Conversion स्थापित करें
 
-आप .NET के लिए GroupDocs.Conversion से डाउनलोड कर सकते हैं[वेबसाइट](https://releases.groupdocs.com/conversion/net/)सुनिश्चित करें कि आप इसे अपनी परियोजना आवश्यकताओं के अनुसार स्थापित करें।
+ आप .NET के लिए GroupDocs.Conversion से डाउनलोड कर सकते हैं[वेबसाइट](https://releases.groupdocs.com/conversion/net/)सुनिश्चित करें कि आप इसे अपनी परियोजना आवश्यकताओं के अनुसार स्थापित करें।
 
 ### स्रोत AI फ़ाइल
 
@@ -59,7 +59,7 @@ using (var converter = new GroupDocs.Conversion.Converter("Path to Your AI File"
 ```csharp
     var options = new PdfConvertOptions();
 ```
- का एक उदाहरण बनाकर`PdfConvertOptions`आप पेज आकार, मार्जिन और बहुत कुछ जैसी सेटिंग्स को कस्टमाइज़ कर सकते हैं। हालांकि यह वैकल्पिक है, लेकिन यह आपको विशिष्ट आवश्यकताओं के लिए लचीलापन देता है।
+ का एक उदाहरण बनाकर`PdfConvertOptions`, आप पेज आकार, मार्जिन और बहुत कुछ जैसी सेटिंग्स को कस्टमाइज़ कर सकते हैं। हालांकि यह वैकल्पिक है, लेकिन यह आपको विशिष्ट आवश्यकताओं के लिए लचीलापन देता है।
 
 ## चरण 3: रूपांतरण करें
 

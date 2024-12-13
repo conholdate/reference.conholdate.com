@@ -85,7 +85,7 @@ archive.SaveGzipped(dataDir + "archive.tar.gz");
 Aspose.Zip for .NET は大きなファイルの処理に最適化されており、ファイル サイズに厳密な制限はありません。
 
 ### Aspose.Zip for .NET のサポートはどこで見つかりますか?
-コミュニティ主導のサポートフォーラムを探索できます[ここ](https://forum.aspose.com/c/zip/37)サポートや他の開発者とのつながりのため。
+コミュニティ主導のサポートフォーラムをご覧ください[ここ](https://forum.aspose.com/c/zip/37)サポートや他の開発者とのつながりのため。
 
 ### 購入前に Aspose.Zip for .NET を無料で試すことはできますか?
-もちろんです！無料試用版にアクセスしてください[ここ](https://releases.aspose.com/zip/net)ライブラリの機能を調べます。
+もちろんです！無料トライアル版にアクセスしてください[ここ](https://releases.aspose.com/zip/net)ライブラリの機能を調べます。

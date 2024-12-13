@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 마지막으로 구성된 옵션을 사용하여 문서를 저장합니다. 이렇게 하면 그림 글머리 기호가 없는 새 파일이 생성됩니다.
 
 ```csharp
-// 지정된 옵션으로 문서를 저장합니다.
+//지정된 옵션으로 문서를 저장합니다.
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

@@ -49,7 +49,7 @@ graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 Selanjutnya, mari terapkan transformasi global ke konteks grafis. Dalam contoh ini, kita akan memutar seluruh konteks grafis sebesar 15 derajat.
 
 ```csharp
-//Terapkan transformasi rotasi (15 derajat)
+// Terapkan transformasi rotasi (15 derajat)
 graphics.RotateTransform(15);
 ```
 

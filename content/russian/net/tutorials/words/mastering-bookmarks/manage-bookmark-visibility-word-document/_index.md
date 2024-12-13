@@ -16,7 +16,7 @@ url: /ru/net/tutorials/words/mastering-bookmarks/manage-bookmark-visibility-word
 Прежде чем приступить к работе, убедитесь, что у вас есть следующее:
 
 1. Visual Studio: любая версия, совместимая с .NET.
-2.  Aspose.Words для .NET: Загрузить[здесь](https://releases.aspose.com/words/net/).
+2. Aspose.Words для .NET: Загрузить[здесь](https://releases.aspose.com/words/net/).
 3. Базовые знания C#: достаточно уметь писать простые программы на C#.
 4. Образец документа Word: подготовьте документ Word (например, «Bookmarks.docx»), содержащий закладки для этого урока.
 

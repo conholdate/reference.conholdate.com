@@ -7,7 +7,7 @@ type: docs
 weight: 1520
 url: /hu/net/tutorials/words/mastering-document-properties/
 ---
-##Bevezetés  
+## Bevezetés  
 
 Az Aspose.Words for .NET hatékony funkciók széles skáláját kínálja a Word dokumentumok kezeléséhez, megkönnyítve a metaadatok kezelését és a formázást. Az egyik ilyen funkció a dokumentum tulajdonságainak elsajátítása. Ebben a cikkben olyan oktatóanyagokat mutatunk be, amelyek az egyéni dokumentumtulajdonságok hozzáadásával, a szükségtelen metaadatok eltávolításával és a mértékegységek konvertálásával foglalkoznak a továbbfejlesztett dokumentumkezelés érdekében. Nézzük meg, hogyan segíthetnek ezek az oktatóanyagok a munkafolyamat javításában.
 
@@ -31,6 +31,6 @@ Néha a Word dokumentumok szükségtelen metaadatokat halmozhatnak fel, példáu
 | Cím | Leírás |
 | --- | --- |
 | [Egyéni dokumentumtulajdonságok hozzáadása a Wordben](./adding-custom-document-properties-in-word/) | Ismerje meg, hogyan javíthatja Word-dokumentumait egyéni dokumentumtulajdonságokkal az Aspose.Words for .NET használatával. Ez az átfogó útmutató végigvezeti Önt a folyamaton. |
-| [Távolítsa el az egyéni dokumentumtulajdonságokat a Word-fájlokból](./remove-custom-document-properties-in-word-files/) | Ismerje meg, hogyan távolíthat el egyéni dokumentumtulajdonságokat Word-fájlokból az Aspose.Words for .NET használatával. Ez a részletes útmutató lépésről lépésre nyújt útmutatást a dokumentumok metaadatainak hatékony tisztításához, így időt takaríthat meg a dokumentumkezelés és az automatizálás terén. |
+| [Távolítsa el az egyéni dokumentum tulajdonságait a Word fájlokból](./remove-custom-document-properties-in-word-files/) | Ismerje meg, hogyan távolíthat el egyéni dokumentumtulajdonságokat Word-fájlokból az Aspose.Words for .NET használatával. Ez a részletes útmutató lépésről lépésre nyújt útmutatást a dokumentumok metaadatainak hatékony tisztításához, így időt takaríthat meg a dokumentumkezelés és az automatizálás terén. |
 | [Személyes adatok eltávolítása a Word dokumentumokból](./remove-personal-information-word-document/) | Ismerje meg, hogyan távolíthat el személyes adatokat, beleértve a metaadatokat és a szerző adatait a Word-dokumentumokból az Aspose.Words for .NET segítségével. |
 | [Konvertálás a mértékegységek között](./converting-between-measurement-units/) | Ismerje meg, hogyan kezelheti hatékonyan a margókat, fejléceket és lábléceket Word dokumentumokban az Aspose.Words for .NET segítségével. Ez a részletes útmutató végigvezeti a mértékegységek átváltásán. |

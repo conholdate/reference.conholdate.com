@@ -92,8 +92,8 @@ Nem, a könyvtár önálló, és nem igényel további függőséget az alapvet�
 
 ### Létezik próbaverzió tesztelésre?
 
-Igen, letölthet egy ingyenes próbaverziót a webhelyről[kiadások oldala](https://releases.groupdocs.com/) hogy vásárlás előtt fedezze fel a könyvtár lehetőségeit.
+ Igen, letölthet egy ingyenes próbaverziót a webhelyről[kiadások oldala](https://releases.groupdocs.com/) hogy vásárlás előtt fedezze fel a könyvtár lehetőségeit.
 
 ### Hol kaphatok segítséget vagy támogatást?
 
- Ha bármilyen problémába ütközik, keresse fel a[GroupDocs.Conversion fórum](https://forum.groupdocs.com/c/conversion/11) közösségvezérelt támogatásért, vagy lépjen kapcsolatba ügyfélszolgálati csapatával személyre szabott segítségért.
+Ha bármilyen problémába ütközik, keresse fel a[GroupDocs.Conversion fórum](https://forum.groupdocs.com/c/conversion/11) közösségvezérelt támogatásért, vagy lépjen kapcsolatba ügyfélszolgálati csapatával személyre szabott segítségért.

@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  Ahora, crea una instancia`Document` Objeto para representar el archivo CGM en la memoria. Esto le permite manipular el archivo antes de guardarlo como PDF.
 
 ```csharp
-//Crear una instancia del objeto Documento
+// Crear una instancia del objeto Documento
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ CGM significa Computer Graphics Metafile, un formato de archivo diseñado para a
 
 ### ¿Dónde puedo encontrar soporte para Aspose.PDF?
 
- Para obtener ayuda, visite el sitio[Foro de soporte de Aspose](https://forum.aspose.com/c/pdf/10), donde podrás hacer preguntas y encontrar soluciones a problemas comunes.
+Para obtener ayuda, visite el sitio[Foro de soporte de Aspose](https://forum.aspose.com/c/pdf/10)donde podrás hacer preguntas y encontrar soluciones a problemas comunes.
 
 ### ¿Cómo compro una licencia para Aspose.PDF?
 

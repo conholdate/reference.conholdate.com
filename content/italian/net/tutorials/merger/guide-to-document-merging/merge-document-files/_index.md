@@ -16,7 +16,7 @@ In questo tutorial, esploreremo come unire file DOC usando GroupDocs.Merger per 
 Prima di iniziare, assicurati di avere quanto segue:
 
 1. Visual Studio: installa Visual Studio sul tuo computer di sviluppo.
-2.  GroupDocs.Merger per .NET: Scarica la libreria da[sito web](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger per .NET: Scarica la libreria da[sito web](https://releases.groupdocs.com/merger/net/).
 3. Conoscenza di base di C#: si consiglia la familiarità con il linguaggio di programmazione C#.
 
 ## Importa gli spazi dei nomi richiesti
@@ -46,7 +46,7 @@ Utilizzare il seguente frammento di codice per caricare i file DOC sorgente che 
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Aggiungi un altro file DOC da unire
+    // Aggiungi un altro file DOC da unire
     merger.Join("path_to_second_doc.doc");
 
     // Unisci i file DOC e salva il risultato
@@ -75,7 +75,7 @@ Assolutamente sì, è compatibile sia con .NET Core che con .NET Framework.
 
 ### È necessaria una licenza per l'uso commerciale?
 
-Sì, è necessaria una licenza valida per l'uso commerciale. Puoi acquistare una licenza da[Documenti di gruppo](https://purchase.groupdocs.com/buy).
+ Sì, è necessaria una licenza valida per l'uso commerciale. Puoi acquistare una licenza da[Documenti di gruppo](https://purchase.groupdocs.com/buy).
 
 ### Posso provare GroupDocs.Merger per .NET gratuitamente?
 

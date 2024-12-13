@@ -111,7 +111,7 @@ Di seguito sono riportati i link ad alcune risorse utili che potrebbero servirti
 
 **Welcome to Aspose.BarCode for .NET** 
 
-Aspose.BarCode per .NET è un set di componenti di generazione e riconoscimento di codici a barre creati per consentire agli sviluppatori di aggiungere funzionalità di codici a barre nelle loro applicazioni .NET. Aspose.BarCode fornisce controlli basati su GUI per visualizzare codici a barre in Windows Forms ed espone un semplice set di classi che consentono agli sviluppatori di creare codici a barre nel backend. Aspose.BarCode è conforme alla maggior parte degli standard e delle specifiche dei codici a barre disponibili oggigiorno. Aspose.BarCode per .NET non si limita a creare codici a barre, ma fornisce un framework completo per controllare quasi tutto ciò che li riguarda.
+Aspose.BarCode per .NET è un set di componenti di generazione e riconoscimento di codici a barre creati per consentire agli sviluppatori di aggiungere funzionalità di codici a barre nelle loro applicazioni .NET. Aspose.BarCode fornisce controlli basati su GUI per visualizzare codici a barre in Windows Forms ed espone un semplice set di classi che consentono agli sviluppatori di creare codici a barre nel backend. Aspose.BarCode è conforme alla maggior parte degli standard e delle specifiche di codici a barre disponibili oggigiorno. Aspose.BarCode per .NET non si limita a creare codici a barre, ma fornisce un framework completo per controllare quasi tutto ciò che li riguarda.
 
 {{% /alert %}} 
 

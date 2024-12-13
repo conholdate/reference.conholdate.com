@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## Langkah 3: Muat Metadata dari Dokumen
 
- Menggunakan`Metadata` kelas, Anda dapat memuat metadata dari dokumen yang ditentukan. Ingatlah untuk mengganti`"YourInputFile"` dengan jalur ke dokumen Anda:
+ Menggunakan`Metadata` kelas, Anda dapat memuat metadata dari dokumen yang ditentukan. Ingatlah untuk mengganti`"YourInputFile"`dengan jalur ke dokumen Anda:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

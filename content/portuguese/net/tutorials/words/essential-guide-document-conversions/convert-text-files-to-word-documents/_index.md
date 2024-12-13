@@ -28,10 +28,10 @@ using Aspose.Words;
 
 ## Etapa 1: Carregue o arquivo de texto
 
-Primeiro, você precisa carregar o arquivo de texto em um Aspose.Words`Document` objeto. Veja como:
+ Primeiro, você precisa carregar o arquivo de texto em um Aspose.Words`Document` objeto. Veja como:
 
 ```csharp
-// Especifique o caminho do diretório onde seu arquivo de texto está localizado
+//Especifique o caminho do diretório onde seu arquivo de texto está localizado
 string dataDir = "YOUR_DOCUMENT_DIRECTORY/";
 
 // Carregue o arquivo de texto em um objeto Document
@@ -59,7 +59,7 @@ Sim, o Aspose.Words é otimizado para lidar com grandes arquivos de texto de for
 ### Este método preserva a formatação do texto?
 Absolutamente! A conversão para o formato de documento Word mantém a formatação básica do texto, incluindo estilos de fonte e parágrafos.
 
-### Aspose.Words é compatível com diferentes frameworks .NET?
+### O Aspose.Words é compatível com diferentes frameworks .NET?
 Sim, o Aspose.Words oferece suporte a vários frameworks .NET, garantindo ampla compatibilidade entre diferentes ambientes.
 
 ### Posso converter vários arquivos de texto em lote usando o Aspose.Words?

@@ -119,7 +119,7 @@ Sì, puoi personalizzare completamente l'aspetto del sommario, inclusi stile, di
 
 ### Come posso aggiungere sottotitoli all'indice?
 
- È possibile aggiungere sottotitoli modificando il`Heading` livello (ad esempio,`Heading(2)`).
+È possibile aggiungere sottotitoli modificando il`Heading` livello (ad esempio,`Heading(2)`).
 
 ### È possibile aggiornare automaticamente l'indice se il documento cambia?
 

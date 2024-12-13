@@ -111,7 +111,7 @@ U kunt een .pfx-bestand verkrijgen bij een certificeringsinstantie (CA) of er ze
 
 ### Is het mogelijk om meerdere documenten tegelijk te ondertekenen?
 
-Absoluut! Je kunt door meerdere documenten heen bladeren en het ondertekeningsproces op elk document toepassen.
+Absoluut! Je kunt door meerdere documenten heen lopen en het ondertekeningsproces op elk document toepassen.
 
 ### Wat als mijn document geen handtekeningregel heeft?
 

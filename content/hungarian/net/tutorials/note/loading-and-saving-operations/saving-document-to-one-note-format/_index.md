@@ -17,7 +17,7 @@ Mielőtt elkezdené ezt az oktatóanyagot, győződjön meg arról, hogy a hely�
 
 1. Alapszintű C# és .NET ismeretek: A C# programozási nyelv és a .NET keretrendszer ismerete szükséges.
    
-2. Aspose.Note .NET telepítéshez: Töltse le és telepítse az Aspose.Note könyvtárat a[Aspose honlapja](https://releases.aspose.com/note/net/).
+2.  Aspose.Note .NET telepítéshez: Töltse le és telepítse az Aspose.Note könyvtárat a[Aspose honlapja](https://releases.aspose.com/note/net/).
 
 3. Fejlesztési környezet: Hozzon létre egy megfelelő fejlesztői környezetet, például a Visual Studio-t.
 

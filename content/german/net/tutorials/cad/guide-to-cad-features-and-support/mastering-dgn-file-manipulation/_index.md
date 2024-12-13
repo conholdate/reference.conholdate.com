@@ -65,7 +65,7 @@ Man unterscheidet zwischen 2D- und 3D-DGN-Elementen. Im Folgenden erfahren Sie, 
 
 ### 2D-Objekte handhaben
 
-Sie können zuvor unterstützte 2D-Objekte mit einem Switch-Case-Block verwalten.
+Sie können zuvor unterstützte 2D-Entitäten mit einem Switch-Case-Block verwalten.
 
 ```csharp
 switch (element.Metadata.Type)

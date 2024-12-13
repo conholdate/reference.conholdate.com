@@ -38,7 +38,7 @@ using System.IO;
 ## Krok 1: Vytvořte obrázek a uložte stream
 
 ```csharp
-//Definujte adresář pro uložení obrázku
+// Definujte adresář pro uložení obrázku
 string dataDir = "Your Document Directory"; // Aktualizujte tuto cestu na preferovanou cestu
 
 // Vytvořte stream pro uložení obrázku BMP

@@ -92,8 +92,8 @@ No, la libreria è autonoma e non richiede dipendenze aggiuntive per le attivit�
 
 ### Esiste una versione di prova disponibile per i test?
 
-Sì, puoi scaricare una versione di prova gratuita da[pagina delle release](https://releases.groupdocs.com/) per esplorare le funzionalità della biblioteca prima dell'acquisto.
+ Sì, puoi scaricare una versione di prova gratuita da[pagina delle release](https://releases.groupdocs.com/) per esplorare le funzionalità della biblioteca prima dell'acquisto.
 
 ### Dove posso trovare aiuto o supporto?
 
- Se riscontri problemi, puoi visitare il[Forum di GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) per ricevere supporto dalla community oppure contatta il team di supporto per ricevere assistenza personalizzata.
+Se riscontri problemi, puoi visitare il[Forum di GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) per ricevere supporto dalla community oppure contatta il team di supporto per ricevere assistenza personalizzata.

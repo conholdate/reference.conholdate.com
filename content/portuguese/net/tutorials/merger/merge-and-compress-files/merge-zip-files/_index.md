@@ -82,7 +82,7 @@ Sim, ele é compatível com aplicativos .NET Framework e .NET Core.
 
 ### Posso personalizar o processo de mesclagem, como especificar a ordem dos arquivos no ZIP mesclado?
 
-Sim, você tem controle total sobre o processo de mesclagem. Você pode especificar a ordem dos arquivos manipulando a sequência em que você chama o`Join()` método.
+ Sim, você tem controle total sobre o processo de mesclagem. Você pode especificar a ordem dos arquivos manipulando a sequência em que você chama o`Join()` método.
 
 ### O GroupDocs.Merger para .NET requer uma licença para uso comercial?
 

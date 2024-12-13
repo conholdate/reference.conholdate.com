@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Bạn tạo một cái mới`Merger` trường hợp có đường dẫn đến tệp TAR đầu tiên của bạn.
 -  Các`Join` Phương pháp này cho phép bạn thêm một tệp TAR khác vào bản hợp nhất (bước này là tùy chọn).
--  Cuối cùng, gọi`Save`để hoàn tất quá trình hợp nhất và ghi tệp đầu ra vào thư mục đã chỉ định.
+-  Cuối cùng, gọi`Save` để hoàn tất quá trình hợp nhất và ghi tệp đầu ra vào thư mục đã chỉ định.
 
 ## Bước 3: Hiển thị thông báo hoàn tất
 

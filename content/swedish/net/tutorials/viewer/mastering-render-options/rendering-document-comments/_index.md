@@ -63,7 +63,7 @@ options.RenderComments = true; // Aktivera rendering av kommentarer
 ```
 
 ## Steg 5: Gör dokumentet med kommentarer
- Ring`View` metod på`Viewer` objekt med de konfigurerade alternativen.
+ Ring`View`metod på`Viewer` objekt med de konfigurerade alternativen.
 
 ```csharp
 viewer.View(options);

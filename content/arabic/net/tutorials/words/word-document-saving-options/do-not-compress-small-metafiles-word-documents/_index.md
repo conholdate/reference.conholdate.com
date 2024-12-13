@@ -18,7 +18,7 @@ url: /ar/net/tutorials/words/word-document-saving-options/do-not-compress-small-
 1.  Aspose.Words for .NET: قم بتنزيل أحدث إصدار وتثبيته من[إصدارات Aspose](https://releases.aspose.com/words/net/).
 2. بيئة التطوير: استخدم Visual Studio أو أي بيئة تطوير متكاملة متوافقة.
 3. الفهم الأساسي للغة C#: سيكون من المفيد التعرف على لغة C# وإطار عمل .NET.
-4.  ترخيص Aspose: لفتح Aspose.Words بالكامل، يجب الحصول على ترخيص Aspose.Words.[رخصة](https://purchase.aspose.com/buy)يوصى بذلك. بدلاً من ذلك، يمكنك استخدام[رخصة مؤقتة](https://purchase.aspose.com/temporary-license/) لأغراض التقييم.
+4.  ترخيص Aspose: لفتح Aspose.Words بالكامل، يجب الحصول على ترخيص Aspose.Words.[رخصة](https://purchase.aspose.com/buy) يوصى بذلك. بدلاً من ذلك، يمكنك استخدام[رخصة مؤقتة](https://purchase.aspose.com/temporary-license/) لأغراض التقييم.
 
 ## استيراد المساحات الاسمية
 
@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## الخطوة 3: تكوين خيارات الحفظ
 
- الآن، قم بتكوين خيارات الحفظ للاستفادة من ميزة "عدم ضغط الملفات التعريفية الصغيرة" مع`DocSaveOptions` فصل.
+ الآن، قم بتكوين خيارات الحفظ للاستفادة من ميزة "عدم ضغط الملفات التعريفية الصغيرة" مع`DocSaveOptions`فصل.
 
 ```csharp
 // قم بتكوين خيارات الحفظ باستخدام ميزة "عدم ضغط الملفات التعريفية الصغيرة"
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- هذه الخطوة تنشئ مثيلًا لـ`DocSaveOptions`ويضع`Compliance` الممتلكات ل`PdfCompliance.PdfA1a`، التأكد من أن الوثيقة تلتزم بمعيار PDF/A-1a.
+ هذه الخطوة تنشئ مثيلًا لـ`DocSaveOptions` ويضع`Compliance` الممتلكات ل`PdfCompliance.PdfA1a`، التأكد من أن الوثيقة تلتزم بمعيار PDF/A-1a.
 
 ## الخطوة 4: حفظ المستند
 
 أخيرًا، احفظ المستند باستخدام الخيارات المخصصة، مع التأكد من عدم ضغط الملفات التعريفية الصغيرة.
 
 ```csharp
-// حفظ المستند بالخيارات المحددة
+//حفظ المستند بالخيارات المحددة
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 
 ### هل أحتاج إلى ترخيص لاستخدام Aspose.Words لـ .NET؟
 
- على الرغم من أنه يمكنك استخدام Aspose.Words لـ .NET بدون ترخيص لأغراض التقييم، إلا أن الترخيص مطلوب للحصول على الوظائف الكاملة. يمكنك شراء ترخيص[هنا](https://purchase.aspose.com/buy) أو حاول[رخصة مؤقتة](https://purchase.aspose.com/temporary-license/) للتقييم.
+على الرغم من أنه يمكنك استخدام Aspose.Words لـ .NET بدون ترخيص لأغراض التقييم، إلا أن الترخيص مطلوب للحصول على الوظائف الكاملة. يمكنك شراء ترخيص[هنا](https://purchase.aspose.com/buy) أو حاول[رخصة مؤقتة](https://purchase.aspose.com/temporary-license/) للتقييم.
 
 ### كيف يمكنني التأكد من أن مستنداتي تتوافق مع معايير PDF/A؟
 

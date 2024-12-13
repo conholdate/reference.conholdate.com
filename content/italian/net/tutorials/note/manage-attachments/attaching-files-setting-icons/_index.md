@@ -35,7 +35,7 @@ Di seguito è riportata l'implementazione dettagliata passo dopo passo.
 
 ## Passaggio 1: creare un nuovo documento OneNote
 
- Inizializzare un nuovo documento OneNote utilizzando`Document` classe.
+ Inizializzare un nuovo documento OneNote utilizzando`Document`classe.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ Aspose.Note supporta i formati JPEG, PNG, BMP e GIF per le icone degli allegati.
 Aspose.Note non impone alcun limite di dimensione esplicito, ma assicurati che le risorse del tuo sistema possano gestire file di grandi dimensioni.
 
 ### È possibile ridimensionare le icone prima di impostarle?
-Sì, puoi manipolare l'immagine dell'icona usando .NET`System.Drawing` libreria prima di allegarlo.
+ Sì, puoi manipolare l'immagine dell'icona usando .NET`System.Drawing` libreria prima di allegarlo.
 
  Per ulteriore assistenza, esplora il[documentazione](https://reference.aspose.com/words/net/) o contattaci[Supporto Aspose](https://forum.aspose.com/c/words/8).

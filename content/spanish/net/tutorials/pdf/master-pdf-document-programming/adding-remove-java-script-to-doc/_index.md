@@ -106,7 +106,7 @@ En esta guía completa, ha descubierto cómo aprovechar al máximo la funcionali
  ¡Sí! Puedes agregar tantas funciones de JavaScript como necesites usando el`doc.JavaScript` recopilación.
 
 ### ¿Qué sucede si intento eliminar una función de JavaScript inexistente?
- Si la función no existe, la`Remove` El método no generará un error, pero tampoco eliminará nada. Para manejar funciones inexistentes, puede agregar un manejo de errores adicional o modificar el código para ignorarlas.
+ Si la función no existe, la`Remove`El método no generará un error, pero tampoco eliminará nada. Para manejar funciones inexistentes, puede agregar un manejo de errores adicional o modificar el código para ignorarlas.
 
 ### ¿Es posible ejecutar JavaScript tan pronto como se abre el PDF?
 ¡Sí! Puedes configurar JavaScript para que se ejecute en situaciones específicas, como abrir el documento o hacer clic en un botón.

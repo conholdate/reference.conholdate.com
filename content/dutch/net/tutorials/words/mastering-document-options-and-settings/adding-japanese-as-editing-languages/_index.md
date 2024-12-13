@@ -54,7 +54,7 @@ Met deze regel configureert u Aspose.Words om Japans te behandelen als de bewerk
 
 ## Stap 3: Geef de documentdirectory op
 
-Geef nu het pad op naar uw documentenmap, waar uw voorbeelddocument zich bevindt.
+Geef nu het pad op naar uw documentmap, waar uw voorbeelddocument zich bevindt.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
@@ -99,10 +99,10 @@ Gefeliciteerd! U hebt Japans succesvol toegevoegd als bewerkingstaal aan uw docu
  Ja, voor commercieel gebruik is een licentie vereist. U kunt er een kopen[hier](https://purchase.aspose.com/buy) of een tijdelijke licentie verkrijgen[hier](https://purchase.aspose.com/temporary-license/).
 
 ### Welke andere functies biedt Aspose.Words voor .NET?
- Aspose.Words voor .NET biedt een breed scala aan functies, waaronder het genereren, converteren en manipuleren van documenten. Ontdek de[documentatie](https://reference.aspose.com/words/net/) voor meer informatie.
+Aspose.Words voor .NET biedt een breed scala aan functies, waaronder het genereren, converteren en manipuleren van documenten. Ontdek de[documentatie](https://reference.aspose.com/words/net/) voor meer informatie.
 
 ### Kan ik Aspose.Words voor .NET uitproberen voordat ik het koop?
  Absoluut! Je kunt een gratis proefversie downloaden[hier](https://releases.aspose.com/).
 
 ### Waar kan ik ondersteuning krijgen voor Aspose.Words voor .NET?
- kunt ondersteuning zoeken bij de Aspose-community[hier](https://forum.aspose.com/c/words/8).
+ U kunt ondersteuning zoeken bij de Aspose-community[hier](https://forum.aspose.com/c/words/8).

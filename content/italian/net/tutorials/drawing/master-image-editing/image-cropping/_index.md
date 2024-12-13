@@ -15,7 +15,7 @@ Nel regno dello sviluppo .NET, la manipolazione delle immagini può essere un co
 
 Prima di iniziare, assicurati di avere a disposizione quanto segue:
 
--  Libreria Aspose.Drawing: assicurati di aver integrato la libreria Aspose.Drawing nel tuo progetto .NET. Puoi scaricarla[Qui](https://releases.aspose.com/drawing/net/).
+- Libreria Aspose.Drawing: assicurati di aver integrato la libreria Aspose.Drawing nel tuo progetto .NET. Puoi scaricarla[Qui](https://releases.aspose.com/drawing/net/).
   
 -  Directory delle immagini: avere una directory designata per le immagini del progetto. Dovrai sostituire`"Your Document Directory"` nei frammenti di codice con il percorso alla cartella delle immagini.
 
@@ -115,4 +115,4 @@ In effetti! Aspose.Drawing eccelle nell'elaborazione in batch, rendendo efficien
 
 ### Dove posso ottenere supporto per le query relative ad Aspose.Drawing?
 
- Per assistenza, visita il[Forum di Aspose.Drawing](https://forum.aspose.com/c/diagram/17) per entrare in contatto con la comunità e cercare aiuto per le tue domande.
+Per assistenza, visita il[Forum di Aspose.Drawing](https://forum.aspose.com/c/diagram/17) per entrare in contatto con la comunità e cercare aiuto per le tue domande.

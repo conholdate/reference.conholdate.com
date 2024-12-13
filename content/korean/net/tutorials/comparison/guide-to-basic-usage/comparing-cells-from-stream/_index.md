@@ -15,7 +15,7 @@ url: /ko/net/tutorials/comparison/guide-to-basic-usage/comparing-cells-from-stre
 
 시작하기 전에 다음 사항이 있는지 확인하세요.
 
-1.  .NET용 GroupDocs.Comparison: 라이브러리를 다운로드하고 설치하세요.[여기](https://releases.groupdocs.com/comparison/net/).
+1. .NET용 GroupDocs.Comparison: 라이브러리를 다운로드하고 설치하세요.[여기](https://releases.groupdocs.com/comparison/net/).
 2. C#에 대한 기본 지식: 이 튜토리얼에서는 C# 프로그래밍에 대한 지식이 있다고 가정합니다.
 3. 통합 개발 환경(IDE): Visual Studio와 같은 IDE를 사용하여 코딩하세요.
 4. 비교할 문서: 비교하려는 문서를 준비하고 C# 코드에서 액세스할 수 있는지 확인하세요.
@@ -96,4 +96,4 @@ Console.WriteLine($"\nDocuments compared successfully.\nCheck output in {outputD
 
 ### GroupDocs.Comparison for .NET과 관련된 도움이나 지원을 어디에서 받을 수 있나요?
 
-도움이 필요하면 GroupDocs.Comparison 포럼을 방문하세요.[여기](https://forum.groupdocs.com/c/comparison/12).
+ 도움이 필요하면 GroupDocs.Comparison 포럼을 방문하세요.[여기](https://forum.groupdocs.com/c/comparison/12).

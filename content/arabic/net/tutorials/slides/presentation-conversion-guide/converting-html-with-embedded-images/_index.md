@@ -101,7 +101,7 @@ presentation.Save(Path.Combine(outputDir, "PresentationOutput.html"), SaveFormat
 نعم، يدعم Aspose.Slides الرسوم المتحركة أثناء التصدير. ومع ذلك، فإن توافق الرسوم المتحركة في HTML يعتمد على تعقيد العرض التقديمي الأصلي.
 
 ### ما هي التنسيقات الأخرى التي يمكن تصديرها باستخدام Aspose.Slides؟
-تدعم المكتبة العديد من التنسيقات، بما في ذلك PDF وPNG وSVG. راجع[التوثيق](https://reference.aspose.com/slides/net/) للتفاصيل.
+ تدعم المكتبة العديد من التنسيقات، بما في ذلك PDF وPNG وSVG. راجع[التوثيق](https://reference.aspose.com/slides/net/) للتفاصيل.
 
 ### هل يتوفر الدعم الفني لـ Aspose.Slides؟
  نعم يمكنك طلب المساعدة على[منتدى دعم Aspose](https://forum.aspose.com/c/slides/11).

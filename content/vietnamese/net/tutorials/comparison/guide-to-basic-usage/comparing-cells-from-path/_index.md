@@ -85,7 +85,7 @@ Có, thư viện hỗ trợ so sánh nhiều định dạng tài liệu khác nh
 
 ### Làm thế nào tôi có thể nhận được hỗ trợ cho GroupDocs.Comparison dành cho .NET?
 
- Để được hỗ trợ, hãy truy cập cộng đồng GroupDocs.Comparison[diễn đàn](https://forum.groupdocs.com/c/comparison/12).
+Để được hỗ trợ, hãy truy cập cộng đồng GroupDocs.Comparison[diễn đàn](https://forum.groupdocs.com/c/comparison/12).
 
 ### Tôi có thể mua giấy phép GroupDocs.Comparison cho .NET ở đâu?
 

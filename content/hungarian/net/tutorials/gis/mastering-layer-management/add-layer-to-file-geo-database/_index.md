@@ -9,7 +9,7 @@ url: /hu/net/tutorials/gis/mastering-layer-management/add-layer-to-file-geo-data
 ---
 ## Bevezetés
 
-földrajzi információs rendszer (GIS) technológiája kulcsszerepet játszik a modern adatelemzésben és -vizualizációban. Az Aspose.GIS for .NET egy kivételes könyvtár, amely lehetővé teszi a fejlesztők számára a földrajzi adatok hatékony kezelését. Ez a részletes útmutató bemutatja, hogyan adhat hozzá új réteget egy fájl geoadatbázis (GDB) adatkészlethez az Aspose.GIS for .NET használatával. Kövesse ezeket az átfogó lépéseket a rétegek zökkenőmentes integrálásához és GIS-képességeinek fejlesztéséhez.
+földrajzi információs rendszer (GIS) technológiája kulcsszerepet játszik a modern adatelemzésben és -vizualizációban. Az Aspose.GIS for .NET egy kivételes könyvtár, amely lehetővé teszi a fejlesztők számára a földrajzi adatok hatékony kezelését. Ez a részletes útmutató azt mutatja be, hogyan adhat hozzá új réteget egy fájl geoadatbázis (GDB) adatkészlethez az Aspose.GIS for .NET használatával. Kövesse ezeket az átfogó lépéseket a rétegek zökkenőmentes integrálásához és GIS-képességeinek fejlesztéséhez.
 
 ## Előfeltételek a rétegek hozzáadásához a GDB fájlhoz
 
@@ -32,7 +32,7 @@ Mielőtt folytatnánk, győződjön meg arról, hogy rendelkezik az alábbiakkal
 
 ## Kötelező névterek importálása
 
-A kódolás előtt adja meg az Aspose.GIS funkciók eléréséhez szükséges alapvető névtereket. Adja hozzá a következő kódrészletet a projekt elejéhez:
+kódolás előtt adja meg az Aspose.GIS funkciók eléréséhez szükséges alapvető névtereket. Adja hozzá a következő kódrészletet a projekt elejéhez:
 
 ```csharp
 using Aspose.Gis;
@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // Hozzon létre egy új réteget WGS 84 térbeli referenciarendszerrel
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //Adjon hozzá egy attribútumsémát
+        // Adjon hozzá egy attribútumsémát
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // Hozzon létre és adjon hozzá egy funkciót
@@ -115,7 +115,7 @@ Az Aspose.GIS for .NET egy földrajzi adatok feldolgozására és manipulálás�
 Igen, az Aspose.GIS lehetővé teszi több réteg létrehozását és kezelését egy adatkészleten belül.
 
 ### Milyen térbeli referenciarendszerek támogatottak?
-könyvtár számos térbeli referenciarendszert támogat, beleértve a WGS 84-et, NAD 83-at és az egyéni CRS-t.
+A könyvtár számos térbeli referenciarendszert támogat, beleértve a WGS 84-et, NAD 83-at és az egyéni CRS-t.
 
 ### Hol találok támogatást?
  Látogassa meg a[Aspose.GIS fórum](https://forum.aspose.com/c/gis/33) közösségi megbeszélésekre és támogatásra.

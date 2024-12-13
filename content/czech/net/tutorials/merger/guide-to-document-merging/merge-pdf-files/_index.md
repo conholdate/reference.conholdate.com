@@ -61,7 +61,7 @@ Console.WriteLine("\nPDF files merge completed successfully. \nCheck output in {
 ```
 
 ## Závěr
-tomto tutoriálu jsme prozkoumali, jak efektivně sloučit soubory PDF pomocí GroupDocs.Merger for .NET. Pomocí těchto kroků můžete snadno sloučit více dokumentů PDF do jednoho souboru ve svých aplikacích .NET a zlepšit tak procesy správy dokumentů.
+V tomto tutoriálu jsme prozkoumali, jak efektivně sloučit soubory PDF pomocí GroupDocs.Merger for .NET. Pomocí těchto kroků můžete snadno sloučit více dokumentů PDF do jednoho souboru ve svých aplikacích .NET a zlepšit tak procesy správy dokumentů.
 
 ## FAQ
 

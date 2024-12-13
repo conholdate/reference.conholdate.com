@@ -15,7 +15,7 @@ La gestión y conversión eficiente de formatos de imagen es una parte fundament
 
 Para garantizar una experiencia de desarrollo fluida, confirme que se cumplan los siguientes requisitos previos:
 
-- Aspose.Words para .NET: Obtenga la última versión de[Página de lanzamiento de Aspose](https://releases.aspose.com/words/net/).
+-  Aspose.Words para .NET: Obtenga la última versión de[Página de lanzamiento de Aspose](https://releases.aspose.com/words/net/).
 - .NET Framework: Verifique la instalación de .NET Framework (o .NET Core/5/6 según su entorno).
 - Entorno de desarrollo: Se recomienda Visual Studio por sus sólidas características.
 - Conocimiento de C#: Es esencial tener familiaridad básica con la programación en C#.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## Paso 4: Cargar HTML en un documento de Word
 
-Utilice las opciones de carga configuradas para crear una`Document` objeto de la cadena HTML.
+ Utilice las opciones de carga configuradas para crear una`Document` objeto de la cadena HTML.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

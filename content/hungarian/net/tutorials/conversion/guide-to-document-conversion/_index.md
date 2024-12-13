@@ -13,7 +13,7 @@ Eleged van a különböző fájlformátumokkal és az általuk okozott káosszal
 
 ## JPEG konvertálása PDF-be
 
- Képzeld el, hogy van egy gyönyörű JPEG-képed, és szeretnéd megosztani csiszolt PDF-ként. Nos, itt lép be a GroupDocs.Conversion. Ezzel a hatékony eszközzel gyerekjáték a JPEG-képek PDF-dokumentummá konvertálása. Nem számít, hogy profi kódoló vagy kezdő; oktatóanyagunk minden előfeltételt és alapvető kódrészletet tartalmaz ahhoz, hogy a helyes úton haladjon. Végigvezetjük a könyvtár telepítésén, az első kódsorok megírásán és az átalakítás zökkenőmentes végrehajtásán. Miért akadna el a bonyolult folyamatokban, ha kattinthat[többet olvasni](./converting-jpeg-to-pdf/) és azonnal kezdeni?
+Képzeld el, hogy van egy gyönyörű JPEG-képed, és szeretnéd megosztani csiszolt PDF-ként. Nos, itt lép be a GroupDocs.Conversion. Ezzel a hatékony eszközzel gyerekjáték a JPEG-képek PDF-dokumentummá konvertálása. Nem számít, hogy profi kódoló vagy kezdő; oktatóanyagunk minden előfeltételt és alapvető kódrészletet tartalmaz ahhoz, hogy a helyes úton haladjon. Végigvezetjük a könyvtár telepítésén, az első kódsorok megírásán és az átalakítás zökkenőmentes végrehajtásán. Miért akadna el a bonyolult folyamatokban, ha kattinthat[többet olvasni](./converting-jpeg-to-pdf/) és azonnal kezdeni?
 
 ## Konvertálja a Markdown-t PDF-be a GroupDocs.Conversion for .NET segítségével
 

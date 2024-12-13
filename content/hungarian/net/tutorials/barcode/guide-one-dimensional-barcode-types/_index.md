@@ -27,4 +27,4 @@ Senki sem szereti a rendszer összeomlását, igaz? Főleg nem, ha vonalkód gen
 ### [A vonalkód magasságának testreszabása az Aspose.BarCode segítségével a .NET-ben](./customizing-barcode-height/)
 Ismerje meg, hogyan állíthatja be az egydimenziós vonalkódok magasságát a .NET-ben az Aspose.BarCode segítségével a pontos testreszabás érdekében. Hozzon létre tökéletes vonalkódokat könnyedén!
 ### [Generáció és kivételkezelés az Aspose.BarCode segítségével .NET-hez](./generation-and-exception-handling/)
-Tanulja meg, hogyan lehet hatékonyan generálni egydimenziós vonalkódokat az Aspose.BarCode for .NET használatával, a robusztus kivételkezelési technikákra összpontosítva.
+Tanulja meg, hogyan hozhat létre hatékonyan egydimenziós vonalkódokat az Aspose.BarCode for .NET használatával, a robusztus kivételkezelési technikákra összpontosítva.

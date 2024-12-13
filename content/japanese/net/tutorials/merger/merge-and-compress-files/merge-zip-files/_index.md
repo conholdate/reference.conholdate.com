@@ -86,4 +86,4 @@ Console.WriteLine("\nZIP files merge completed successfully. Check the output in
 
 ### GroupDocs.Merger for .NET を商用利用するにはライセンスが必要ですか?
 
-はい、商用利用には有効なライセンスが必要です。ライセンスは[ここ](https://purchase.groupdocs.com/buy).
+はい、商用利用には有効なライセンスが必要です。ライセンスは取得できます[ここ](https://purchase.groupdocs.com/buy).

@@ -7,7 +7,7 @@ type: docs
 weight: 1520
 url: /cs/net/tutorials/words/mastering-document-properties/
 ---
-##Zavedení  
+## Zavedení  
 
 Aspose.Words for .NET nabízí širokou škálu výkonných funkcí pro manipulaci s dokumenty Wordu, což usnadňuje správu metadat a formátování. Jednou z takových funkcí je ovládání vlastností dokumentu. V tomto článku se ponoříme do výukových programů, které pokrývají přidávání vlastních vlastností dokumentu, odstraňování zbytečných metadat a dokonce převod měrných jednotek pro vylepšenou správu dokumentů. Pojďme prozkoumat, jak mohou tyto výukové programy pomoci zlepšit váš pracovní postup.
 
@@ -17,7 +17,7 @@ Přidání vlastních vlastností dokumentu může být neuvěřitelně užiteč
 
 ## Odebrání uživatelských vlastností dokumentu v souborech aplikace Word  
 
-Někdy se v dokumentech aplikace Word mohou hromadit zbytečná metadata, jako jsou vlastní vlastnosti, které byly přidány pro jednorázové použití. V tomto kurzu se naučíte, jak vyčistit dokumenty odstraněním těchto nežádoucích uživatelských vlastností. Aspose.Words for .NET tento proces urychluje a zefektivňuje, pomáhá vám snížit nepořádek a zachovat integritu vašich dokumentů. Tento tutoriál vás provede jednotlivými kroky a zajistí, že vaše soubory zůstanou uspořádané a bez zbytečných informací.[Přečtěte si více](./remove-custom-document-properties-in-word-files/).
+Někdy se v dokumentech aplikace Word mohou hromadit zbytečná metadata, jako jsou vlastní vlastnosti, které byly přidány pro jednorázové použití. V tomto kurzu se naučíte, jak vyčistit dokumenty odstraněním těchto nežádoucích uživatelských vlastností. Aspose.Words for .NET tento proces zrychluje a zefektivňuje, pomáhá vám snížit nepořádek a zachovat integritu vašich dokumentů. Tento tutoriál vás provede jednotlivými kroky a zajistí, že vaše soubory zůstanou uspořádané a bez zbytečných informací.[Přečtěte si více](./remove-custom-document-properties-in-word-files/).
 
 ## Odebrání osobních údajů z dokumentů aplikace Word  
 

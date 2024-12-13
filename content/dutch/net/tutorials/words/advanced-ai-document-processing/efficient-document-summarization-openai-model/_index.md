@@ -25,7 +25,7 @@ Zorg ervoor dat u een compatibele .NET Framework-versie hebt. Deze tutorial is c
 ### Geïntegreerde ontwikkelomgeving
 Door Visual Studio als uw IDE te gebruiken, wordt het coderings- en foutopsporingsproces eenvoudiger.
 
-## Noodzakelijke bibliotheken importeren
+## Importeren van benodigde bibliotheken
 
 Importeer de vereiste bibliotheken in uw project om ervoor te zorgen dat u toegang hebt tot de benodigde klassen en methoden voor het bewerken en samenvatten van documenten.
 

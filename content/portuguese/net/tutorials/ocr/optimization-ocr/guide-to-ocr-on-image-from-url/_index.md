@@ -9,7 +9,7 @@ url: /pt/net/tutorials/ocr/optimization-ocr/guide-to-ocr-on-image-from-url/
 ---
 ## Introdução
 
-O Reconhecimento Óptico de Caracteres (OCR) é uma tecnologia essencial para extrair texto de imagens, permitindo que desenvolvedores criem aplicativos que podem ler e processar informações textuais perfeitamente. O Aspose.OCR para .NET é uma biblioteca robusta projetada para simplificar a integração de recursos de OCR em seus aplicativos .NET. Este guia ilustrará como executar OCR em uma imagem diretamente de uma URL em apenas algumas etapas simples.
+Reconhecimento Óptico de Caracteres (OCR) é uma tecnologia essencial para extrair texto de imagens, permitindo que desenvolvedores criem aplicativos que podem ler e processar informações textuais perfeitamente. O Aspose.OCR para .NET é uma biblioteca robusta projetada para simplificar a integração de recursos de OCR em seus aplicativos .NET. Este guia ilustrará como executar OCR em uma imagem diretamente de uma URL em apenas algumas etapas simples.
 
 ## Pré-requisitos
 

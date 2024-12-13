@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 이제 문서를 고정 HTML 파일로 저장해 보겠습니다. 여기서 마법이 일어납니다!
 
 ```csharp
-//문서를 고정 HTML로 변환
+// 문서를 고정 HTML로 변환
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

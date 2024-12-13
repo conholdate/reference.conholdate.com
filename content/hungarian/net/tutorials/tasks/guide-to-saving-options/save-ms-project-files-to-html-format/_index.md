@@ -17,7 +17,7 @@ Mielőtt elkezdené, győződjön meg arról, hogy a következő előfeltételek
 
 1. Alapvető C# ismerete: Feltételezzük a C# programozási nyelv ismeretét.
 2.  Az Aspose.Tasks telepítése: Győződjön meg arról, hogy az Aspose.Tasks for .NET telepítve van a fejlesztői környezetében. Könnyen beszerezheti a[Aspose honlapja](https://www.aspose.com).
-3. Microsoft Project fájl: Készítsen egy Microsoft Project fájlt a konvertálásra (a`.mpp` kiterjesztés).
+3.  Microsoft Project fájl: Készítsen egy Microsoft Project fájlt a konvertálásra (a`.mpp` kiterjesztés).
 
 ## A szükséges névterek importálása
 

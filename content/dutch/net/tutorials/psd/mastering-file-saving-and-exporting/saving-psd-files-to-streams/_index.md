@@ -47,7 +47,7 @@ Identificeer de locatie van uw PSD-bronbestand en waar u de afbeelding wilt opsl
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Pad naar uw PSD-bronbestand
-string destName = dataDir + "result.png";   // Pad voor het uitvoerafbeeldingsbestand
+string destName = dataDir + "result.png";   //Pad voor het uitvoerafbeeldingsbestand
 ```
 
 ## Stap 3: PSD-afbeelding laden en niet-gevonden lettertypen verwerken
@@ -89,7 +89,7 @@ Gefeliciteerd! U hebt succesvol geleerd hoe u afbeeldingen kunt opslaan in een s
 ## Veelgestelde vragen
 
 ### Kan ik Aspose.PSD gebruiken met elk type afbeelding?
- Ja! Aspose.PSD ondersteunt verschillende afbeeldingsformaten, waaronder PSD, PNG, JPEG en meer. Voor een gedetailleerde lijst, bekijk de documentatie[hier](https://reference.aspose.com/psd/net/).
+Ja! Aspose.PSD ondersteunt verschillende afbeeldingsformaten, waaronder PSD, PNG, JPEG en meer. Voor een gedetailleerde lijst, bekijk de documentatie[hier](https://reference.aspose.com/psd/net/).
 
 ### Hoe krijg ik ondersteuning voor Aspose.PSD?
  Voor hulp en community-ondersteuning kunt u terecht op het Aspose.PSD-ondersteuningsforum[hier](https://forum.aspose.com/c/psd/34).

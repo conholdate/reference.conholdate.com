@@ -16,7 +16,7 @@ Merhaba teknoloji meraklıları! Hiç Word belgesinde dijital imzaları doğrula
 Başlamadan önce aşağıdakilerin hazır olduğundan emin olun:
 
 1. Visual Studio: Kodlama için makinenizde kurulu olduğundan emin olun.
-2.  Aspose.Words for .NET: Buradan indirin ve kurun[Burada](https://releases.aspose.com/words/net/) Eğer henüz yapmadıysanız, ücretsiz denemenizi alın[Burada](https://releases.aspose.com/).
+2.  Aspose.Words for .NET: Buradan indirin ve kurun[Burada](https://releases.aspose.com/words/net/) . Eğer henüz yapmadıysanız, ücretsiz denemenizi alın[Burada](https://releases.aspose.com/).
 3. Dijital İmzalı Word Belgesi: Doğrulama için dijital imzalı bir Word belgesini elinizde bulundurun.
 
 ## Ad Alanlarını İçe Aktarma
@@ -142,7 +142,7 @@ Evet, DOC, DOCX, RTF ve daha fazlası dahil olmak üzere Microsoft Word belgeler
 
 ### Aspose.Words for .NET için geçici lisansı nasıl alabilirim?
 
-Geçici lisansı şuradan alabilirsiniz:[Burada](https://purchase.aspose.com/temporary-license/), kütüphanenin tüm özelliklerini sınırlama olmaksızın keşfetmenize olanak tanır.
+ Geçici lisansı şuradan alabilirsiniz:[Burada](https://purchase.aspose.com/temporary-license/), kütüphanenin tüm özelliklerini sınırlama olmaksızın keşfetmenize olanak tanır.
 
 ### Aspose.Words for .NET hakkında daha fazla dokümanı nerede bulabilirim?
 

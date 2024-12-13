@@ -56,7 +56,7 @@ Configure as opções para sua assinatura de texto, incluindo conteúdo, posiç�
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // Posição X
+    Left = 50, //Posição X
     Top = 200, // Posição Y
     Width = 100, // Largura da assinatura
     Height = 30, // Altura da assinatura

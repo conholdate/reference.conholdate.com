@@ -64,7 +64,7 @@ Teljesen! Az Aspose.Words teljes mértékben támogatja a .NET Core-t és a .NET
 
 ### Hol találhatok további példákat és dokumentációt az Aspose.Words-hez?
 
- Részletes példákért és kiterjedt API-referenciáért látogassa meg a[Aspose.Words .NET dokumentációhoz](https://reference.aspose.com/words/net/).
+ Részletes példákért és kiterjedt API-referenciáért látogasson el a[Aspose.Words .NET dokumentációhoz](https://reference.aspose.com/words/net/).
 
 ### Hogyan kaphatok támogatást az Aspose.Words-szal kapcsolatos problémákhoz?
 

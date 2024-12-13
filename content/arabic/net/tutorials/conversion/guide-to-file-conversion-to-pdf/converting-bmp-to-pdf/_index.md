@@ -92,8 +92,8 @@ Console.WriteLine($"Conversion to PDF completed successfully. Check the output i
 
 ### هل هناك نسخة تجريبية متاحة للاختبار؟
 
-نعم، يمكنك تنزيل نسخة تجريبية مجانية من[صفحة الإصدارات](https://releases.groupdocs.com/) لاستكشاف إمكانيات المكتبة قبل الشراء.
+ نعم، يمكنك تنزيل نسخة تجريبية مجانية من[صفحة الإصدارات](https://releases.groupdocs.com/) لاستكشاف إمكانيات المكتبة قبل الشراء.
 
 ### أين يمكنني الحصول على المساعدة أو الدعم؟
 
- إذا واجهت أي مشاكل، يمكنك زيارة[منتدى GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) للحصول على الدعم المجتمعي أو الاتصال بفريق الدعم الخاص بهم للحصول على مساعدة شخصية.
+إذا واجهت أي مشاكل، يمكنك زيارة[منتدى GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) للحصول على الدعم المجتمعي أو الاتصال بفريق الدعم الخاص بهم للحصول على مساعدة شخصية.

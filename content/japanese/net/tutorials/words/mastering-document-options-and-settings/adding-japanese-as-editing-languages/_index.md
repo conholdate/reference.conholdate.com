@@ -99,10 +99,10 @@ Console.WriteLine(
 はい、商用利用にはライセンスが必要です。ライセンスを購入することができます。[ここ](https://purchase.aspose.com/buy)または一時ライセンスを取得する[ここ](https://purchase.aspose.com/temporary-license/).
 
 ### Aspose.Words for .NET には他にどのような機能がありますか?
- Aspose.Words for .NETは、ドキュメントの生成、変換、操作など、幅広い機能を提供します。[ドキュメント](https://reference.aspose.com/words/net/)詳細についてはこちらをご覧ください。
+Aspose.Words for .NETは、ドキュメントの生成、変換、操作など、幅広い機能を提供します。[ドキュメント](https://reference.aspose.com/words/net/)詳細についてはこちらをご覧ください。
 
 ### Aspose.Words for .NET を購入する前に試用できますか?
 もちろんです！無料トライアルをダウンロードできます[ここ](https://releases.aspose.com/).
 
 ### Aspose.Words for .NET のサポートはどこで受けられますか?
-Asposeコミュニティからサポートを受けることができます[ここ](https://forum.aspose.com/c/words/8).
+ Asposeコミュニティからサポートを受けることができます[ここ](https://forum.aspose.com/c/words/8).

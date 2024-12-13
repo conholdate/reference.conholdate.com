@@ -19,7 +19,7 @@ url: /ru/net/tutorials/conversion/guide-to-document-conversion/convert-markdown-
  Убедитесь, что на вашем компьютере установлен .NET SDK. Вы можете загрузить его с[.NET-сайт](https://dotnet.microsoft.com/download).
 
 ### GroupDocs.Conversion для библиотеки .NET
-Загрузите библиотеку GroupDocs.Conversion для .NET с сайта[сайт](https://releases.groupdocs.com/conversion/net/). Следуйте инструкциям по установке, чтобы добавить его в свой проект.
+ Загрузите библиотеку GroupDocs.Conversion для .NET с сайта[сайт](https://releases.groupdocs.com/conversion/net/)Следуйте инструкциям по установке, чтобы добавить его в свой проект.
 
 ## Шаг 1: Импорт необходимых пространств имен
 В свой проект .NET включите следующие пространства имен для доступа к функциям GroupDocs:

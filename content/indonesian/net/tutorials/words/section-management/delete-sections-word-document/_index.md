@@ -55,7 +55,7 @@ doc.Sections[1].Remove();
 
 ## Kesimpulan
 
- Dengan Aspose.Words untuk .NET, memanipulasi dokumen Word menjadi efisien dan mudah. Menghapus bagian hanyalah salah satu dari sekian banyak fitur hebat yang tersedia. Pastikan untuk menjelajahi[dokumentasi](https://reference.aspose.com/words/net/) untuk menemukan lebih banyak kemampuan yang dapat meningkatkan tugas pemrosesan dokumen Anda.
+Dengan Aspose.Words untuk .NET, memanipulasi dokumen Word menjadi efisien dan mudah. Menghapus bagian hanyalah salah satu dari sekian banyak fitur hebat yang tersedia. Pastikan untuk menjelajahi[dokumentasi](https://reference.aspose.com/words/net/) untuk menemukan lebih banyak kemampuan yang dapat meningkatkan tugas pemrosesan dokumen Anda.
 
 ## Pertanyaan yang Sering Diajukan
 

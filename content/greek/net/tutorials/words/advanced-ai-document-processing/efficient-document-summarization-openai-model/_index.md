@@ -17,9 +17,9 @@ url: /el/net/tutorials/words/advanced-ai-document-processing/efficient-document-
 Βεβαιωθείτε ότι έχετε μια συμβατή έκδοση πλαισίου .NET. Αυτό το σεμινάριο είναι συμβατό με .NET 5.0 και νεότερη έκδοση.
 
 ### Εγκαταστήστε το Aspose.Words για .NET
- Κατεβάστε το πακέτο Aspose.Words για .NET από το[Aspose website](https://releases.aspose.com/words/net/)και εγκαταστήστε το στο έργο σας χρησιμοποιώντας το NuGet Package Manager στο Visual Studio.
+ Κατεβάστε το πακέτο Aspose.Words για .NET από το[Aspose ιστότοπο](https://releases.aspose.com/words/net/)και εγκαταστήστε το στο έργο σας χρησιμοποιώντας το NuGet Package Manager στο Visual Studio.
 
-### Αποκτήστε ένα κλειδί API OpenAI
+### Αποκτήστε ένα κλειδί OpenAI API
  Για να αποκτήσετε πρόσβαση στα μοντέλα γλώσσας του OpenAI, θα χρειαστείτε ένα κλειδί API. Εγγραφείτε στο[Ιστότοπος OpenAI](https://openai.com/)ανακτήστε το κλειδί σας και διατηρήστε το ασφαλές για ενσωμάτωση.
 
 ### Ολοκληρωμένο Αναπτυξιακό Περιβάλλον
@@ -115,4 +115,4 @@ combinedSummary.Save(ArtifactsDir + "CombinedSummary.docx");
 Χρησιμοποιήστε το NuGet Package Manager στο Visual Studio για να εγκαταστήσετε το Aspose.Words αναζητώντας το πακέτο και επιλέγοντας "Εγκατάσταση".
 
 ### Είναι το Aspose.Words διαθέσιμο δωρεάν;
- Μπορείτε να κάνετε λήψη μιας δωρεάν δοκιμής του Aspose.Words για να δοκιμάσετε τις δυνατότητές του μέσω του[Aspose website](https://releases.aspose.com/).
+ Μπορείτε να κάνετε λήψη μιας δωρεάν δοκιμής του Aspose.Words για να δοκιμάσετε τις δυνατότητές του μέσω του[Aspose ιστότοπο](https://releases.aspose.com/).

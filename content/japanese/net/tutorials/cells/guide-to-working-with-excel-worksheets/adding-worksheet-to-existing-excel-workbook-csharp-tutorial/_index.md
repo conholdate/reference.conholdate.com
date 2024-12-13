@@ -2,7 +2,7 @@
 title: 既存の Excel ブックにワークシートを追加する C# チュートリアル
 linktitle: 既存の Excel ブックにワークシートを追加する C# チュートリアル
 second_title: Aspose.Cells for .NET API リファレンス
-description: Aspose.Cells for .NET を使用して、既存の Excel ブックに新しいワークシートをプログラムで追加する方法を学びます。このステップ バイ ステップ ガイドでは、変更されたブックを保存する方法について説明しており、開発者にとって簡単です。
+description: Aspose.Cells for .NET を使用して、既存の Excel ブックに新しいワークシートをプログラムで追加する方法を学びます。このステップ バイ ステップ ガイドでは、変更されたブックを保存する方法について説明し、開発者にとって簡単にします。
 type: docs
 weight: 10
 url: /ja/net/tutorials/cells/guide-to-working-with-excel-worksheets/adding-worksheet-to-existing-excel-workbook-csharp-tutorial/

@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
- The`InsertSignatureLine`metodu imza satırını ekler ve buna benzersiz bir sağlayıcı kimliği atarız.
+ The`InsertSignatureLine` metodu imza satırını ekler ve buna benzersiz bir sağlayıcı kimliği atarız.
 
 ## Adım 4: Belgeyi Kaydedin
 

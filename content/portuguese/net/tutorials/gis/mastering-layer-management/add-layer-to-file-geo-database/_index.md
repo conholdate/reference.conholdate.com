@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // Crie uma nova camada com o sistema de referência espacial WGS 84
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //Adicionar um esquema de atributo
+        // Adicionar um esquema de atributo
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // Criar e adicionar um recurso
@@ -115,7 +115,7 @@ Aspose.GIS para .NET é uma biblioteca projetada para processar e manipular dado
 Sim, o Aspose.GIS permite criar e gerenciar múltiplas camadas dentro de um conjunto de dados.
 
 ### Quais sistemas de referência espacial são suportados?
-biblioteca suporta vários sistemas de referência espacial, incluindo WGS 84, NAD 83 e CRS personalizado.
+A biblioteca suporta vários sistemas de referência espacial, incluindo WGS 84, NAD 83 e CRS personalizado.
 
 ### Onde posso encontrar suporte?
  Visite o[Fórum Aspose.GIS](https://forum.aspose.com/c/gis/33) para discussões e apoio à comunidade.

@@ -16,7 +16,7 @@ url: /ja/net/tutorials/merger/guide-to-document-merging/merge-document-files/
 始める前に、次のものを用意してください。
 
 1. Visual Studio: 開発マシンに Visual Studio をインストールします。
-2.  GroupDocs.Merger for .NET: ライブラリを以下からダウンロードしてください。[Webサイト](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger for .NET: ライブラリを以下からダウンロードしてください。[Webサイト](https://releases.groupdocs.com/merger/net/).
 3. C# の基礎知識: C# プログラミング言語に精通していることが推奨されます。
 
 ## 必要な名前空間をインポートする

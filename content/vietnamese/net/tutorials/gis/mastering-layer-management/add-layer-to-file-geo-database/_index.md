@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // Tạo một lớp mới với hệ thống tham chiếu không gian WGS 84
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //Thêm một lược đồ thuộc tính
+        // Thêm một lược đồ thuộc tính
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // Tạo và thêm một tính năng

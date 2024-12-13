@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // Buat opsi konversi PDF
 ```
 
 ## Langkah 4: Jalankan Konversi
- Memanggil`Convert`metode untuk menjalankan perubahan format. Masukkan jalur berkas keluaran Anda beserta opsi konversi:
+ Memanggil`Convert` metode untuk menjalankan perubahan format. Masukkan jalur berkas keluaran Anda beserta opsi konversi:
 
 ```csharp
-converter.Convert(outputFile, options); // Lakukan konversi
+converter.Convert(outputFile, options); //Lakukan konversi
 ```
 
 ## Langkah 5: Menampilkan Pesan Penyelesaian
@@ -92,4 +92,4 @@ Pustaka mendukung berbagai macam format, termasuk gambar, dokumen, lembar kerja,
  Ya, Anda dapat mengunduh versi uji coba dari[Situs web GroupDocs](https://releases.groupdocs.com/).
 
 ### Di mana saya bisa mendapatkan dukungan mengenai GroupDocs.Conversion untuk .NET?
- Untuk bantuan, kunjungi[Forum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) untuk terhubung dengan masyarakat dan mencari bantuan.
+Untuk bantuan, kunjungi[Forum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) untuk terhubung dengan masyarakat dan mencari bantuan.

@@ -17,7 +17,7 @@ Aspose.Note는 .NET을 통해 Microsoft OneNote 문서를 관리하고 조작하
 
 1. 기본적인 C# 및 .NET 지식: C# 프로그래밍 언어와 .NET 프레임워크에 대한 지식이 필요합니다.
    
-2. .NET용 Aspose.Note 설치: Aspose.Note 라이브러리를 다운로드하여 설치하세요.[Aspose 웹사이트](https://releases.aspose.com/note/net/).
+2.  .NET용 Aspose.Note 설치: Aspose.Note 라이브러리를 다운로드하여 설치하세요.[Aspose 웹사이트](https://releases.aspose.com/note/net/).
 
 3. 개발 환경: Visual Studio와 같은 적합한 개발 환경을 설정합니다.
 

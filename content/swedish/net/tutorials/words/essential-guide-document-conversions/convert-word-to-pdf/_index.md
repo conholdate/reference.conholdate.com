@@ -65,7 +65,7 @@ Document doc = new Document(dataDir + "YourDocument.docx");
 
 ## Steg 3: Konvertera och spara som PDF
 
-Nu till den spännande delen – att spara dokumentet som en PDF. Använd bara följande kodrad:
+Nu till den spännande delen – att spara dokumentet som en PDF. Använd helt enkelt följande kodrad:
 
 ```csharp
 doc.Save(dataDir + "ConvertedDocument.pdf");

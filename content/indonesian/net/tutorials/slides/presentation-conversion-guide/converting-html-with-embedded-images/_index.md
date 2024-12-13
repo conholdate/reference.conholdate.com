@@ -101,7 +101,7 @@ Mengonversi presentasi PowerPoint ke HTML dengan gambar tertanam mudah dilakukan
 Ya, Aspose.Slides mendukung animasi selama ekspor. Namun, kompatibilitas animasi dalam HTML bergantung pada kompleksitas presentasi asli.
 
 ### Format lain apa yang dapat diekspor menggunakan Aspose.Slides?
-Pustaka ini mendukung banyak format, termasuk PDF, PNG, dan SVG. Lihat[dokumentasi](https://reference.aspose.com/slides/net/) untuk rinciannya.
+ Pustaka ini mendukung banyak format, termasuk PDF, PNG, dan SVG. Lihat[dokumentasi](https://reference.aspose.com/slides/net/) untuk rinciannya.
 
 ### Apakah dukungan teknis tersedia untuk Aspose.Slides?
  Ya, Anda dapat mencari bantuan di[Forum dukungan Aspose](https://forum.aspose.com/c/slides/11).

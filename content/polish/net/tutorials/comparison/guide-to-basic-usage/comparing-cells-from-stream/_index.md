@@ -15,7 +15,7 @@ W rozwoju oprogramowania, zwłaszcza w przypadku dokumentów prawnych, umów lub
 
 Zanim zaczniesz, upewnij się, że masz następujące rzeczy:
 
-1.  GroupDocs.Comparison dla .NET: Pobierz i zainstaluj bibliotekę z[Tutaj](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison dla .NET: Pobierz i zainstaluj bibliotekę z[Tutaj](https://releases.groupdocs.com/comparison/net/).
 2. Podstawowa znajomość języka C#: Zakłada się, że uczestnicy tego kursu znają podstawy programowania w języku C#.
 3. Zintegrowane środowisko programistyczne (IDE): Użyj środowiska IDE, takiego jak Visual Studio, do kodowania.
 4. Dokumenty do porównania: Przygotuj dokumenty, które chcesz porównać i upewnij się, że są dostępne z poziomu kodu C#.
@@ -96,4 +96,4 @@ Oczywiście! GroupDocs.Comparison dla .NET oferuje różne opcje dostosowywania,
 
 ### Gdzie mogę szukać pomocy lub wsparcia w zakresie GroupDocs.Comparison dla platformy .NET?
 
-Aby uzyskać pomoc, odwiedź forum GroupDocs.Comparison[Tutaj](https://forum.groupdocs.com/c/comparison/12).
+ Aby uzyskać pomoc, odwiedź forum GroupDocs.Comparison[Tutaj](https://forum.groupdocs.com/c/comparison/12).

@@ -47,7 +47,7 @@ string dataDir = "C:\\YourDocumentDirectory\\";
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // 소스 PSD 파일에 대한 경로
-string destName = dataDir + "result.png";   // 출력 이미지 파일의 경로
+string destName = dataDir + "result.png";   //출력 이미지 파일의 경로
 ```
 
 ## 3단계: PSD 이미지 로드 및 찾을 수 없는 글꼴 처리
@@ -89,7 +89,7 @@ using (var fileStream = new FileStream(destName, FileMode.Create))
 ## 자주 묻는 질문
 
 ### Aspose.PSD를 모든 유형의 이미지 파일에 사용할 수 있나요?
- 네! Aspose.PSD는 PSD, PNG, JPEG 등 다양한 이미지 형식을 지원합니다. 자세한 목록은 설명서를 확인하세요.[여기](https://reference.aspose.com/psd/net/).
+네! Aspose.PSD는 PSD, PNG, JPEG 등 다양한 이미지 형식을 지원합니다. 자세한 목록은 설명서를 확인하세요.[여기](https://reference.aspose.com/psd/net/).
 
 ### Aspose.PSD에 대한 지원은 어떻게 받을 수 있나요?
  지원 및 커뮤니티 지원을 받으려면 Aspose.PSD 지원 포럼을 방문하세요.[여기](https://forum.aspose.com/c/psd/34).

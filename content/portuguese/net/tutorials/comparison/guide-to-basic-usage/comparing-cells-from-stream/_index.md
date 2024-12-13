@@ -15,7 +15,7 @@ No desenvolvimento de software, especialmente ao lidar com documentos legais, co
 
 Antes de começar, certifique-se de ter o seguinte:
 
-1.  GroupDocs.Comparison para .NET: Baixe e instale a biblioteca de[aqui](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison para .NET: Baixe e instale a biblioteca de[aqui](https://releases.groupdocs.com/comparison/net/).
 2. Conhecimento básico de C#: Neste tutorial, pressupõe-se familiaridade com programação em C#.
 3. Ambiente de Desenvolvimento Integrado (IDE): use um IDE como o Visual Studio para codificação.
 4. Documentos para comparar: prepare os documentos que deseja comparar e certifique-se de que eles estejam acessíveis no seu código C#.
@@ -74,7 +74,7 @@ Console.WriteLine($"\nDocuments compared successfully.\nCheck output in {outputD
 
 ## Conclusão
 
-GroupDocs.Comparison for .NET fornece uma plataforma robusta para comparação de documentos sem interrupções dentro de seus aplicativos C#. Seguindo as etapas descritas, você pode comparar documentos de forma eficiente e agilizar suas tarefas de processamento de documentos, aumentando a produtividade e a precisão.
+O GroupDocs.Comparison for .NET fornece uma plataforma robusta para comparação de documentos sem interrupções dentro de seus aplicativos C#. Seguindo as etapas descritas, você pode comparar documentos de forma eficiente e agilizar suas tarefas de processamento de documentos, aumentando a produtividade e a precisão.
 
 ## Perguntas frequentes
 
@@ -96,4 +96,4 @@ Com certeza! O GroupDocs.Comparison for .NET oferece várias opções de persona
 
 ### Onde posso buscar ajuda ou suporte relacionado ao GroupDocs.Comparison para .NET?
 
-Para obter assistência, visite o fórum GroupDocs.Comparison[aqui](https://forum.groupdocs.com/c/comparison/12).
+ Para obter assistência, visite o fórum GroupDocs.Comparison[aqui](https://forum.groupdocs.com/c/comparison/12).

@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  Şimdi bir örnek oluşturun`Document` CGM dosyanızı bellekte temsil eden nesne. Bu, dosyayı PDF olarak kaydetmeden önce düzenlemenize olanak tanır.
 
 ```csharp
-//Belge nesnesini örnekle
+// Belge nesnesini örnekle
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ Kesinlikle! Aspose.PDF, HTML, XML ve resimler dahil olmak üzere çeşitli forma
 
 ### Aspose.PDF için desteği nerede bulabilirim?
 
- Yardım için şu adresi ziyaret edin:[Aspose destek forumu](https://forum.aspose.com/c/pdf/10)Sorularınızı sorabileceğiniz ve sık karşılaşılan sorunlara çözüm bulabileceğiniz bir yer.
+Yardım için şu adresi ziyaret edin:[Aspose destek forumu](https://forum.aspose.com/c/pdf/10)Sorularınızı sorabileceğiniz ve sık karşılaşılan sorunlara çözüm bulabileceğiniz bir yer.
 
 ### Aspose.PDF için lisans nasıl satın alabilirim?
 

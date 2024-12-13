@@ -9,7 +9,7 @@ url: /pl/net/tutorials/3d/guide-to-rendering/
 ---
 ## Wstęp
 
-Aspose.3D for .NET to Twoja biblioteka do wszystkiego, co 3D. Niezależnie od tego, czy modelujesz, renderujesz, czy pracujesz ze złożonymi scenami 3D, te samouczki ułatwią Ci podróż. Zanurzmy się w dwóch podstawowych przewodnikach, które rozpoczną Twoją przygodę z programowaniem 3D!  
+Aspose.3D for .NET to Twoja biblioteka do wszystkiego, co 3D. Niezależnie od tego, czy modelujesz, renderujesz, czy pracujesz ze złożonymi scenami 3D, te samouczki uproszczą Twoją podróż. Zanurzmy się w dwóch podstawowych przewodnikach, które rozpoczną Twoją przygodę z programowaniem 3D!  
 
 ## Renderowanie obrazu modelowania 3D za pomocą Aspose.3D dla .NET  
 

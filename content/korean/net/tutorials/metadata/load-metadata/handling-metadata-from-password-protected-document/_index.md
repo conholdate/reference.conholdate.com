@@ -31,7 +31,7 @@ using System;
 
 ## 2단계: 암호로 보호된 문서에 대한 로드 옵션 설정
 
- 암호로 보호된 문서에서 메타데이터를 로드하려면 로드 옵션을 구성해야 합니다. 문서 암호를 지정하세요.`LoadOptions` 물체:
+ 암호로 보호된 문서에서 메타데이터를 로드하려면 로드 옵션을 구성해야 합니다.`LoadOptions` 물체:
 
 ```csharp
 var loadOptions = new LoadOptions
@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## 3단계: 문서에서 메타데이터 로드
 
- 사용하여`Metadata` 클래스에서 지정된 문서에서 메타데이터를 로드할 수 있습니다. 다음을 바꾸는 것을 기억하세요.`"YourInputFile"` 문서 경로:
+ 사용하여`Metadata` 클래스에서 지정된 문서에서 메타데이터를 로드할 수 있습니다. 다음을 바꾸는 것을 기억하세요.`"YourInputFile"`문서 경로:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

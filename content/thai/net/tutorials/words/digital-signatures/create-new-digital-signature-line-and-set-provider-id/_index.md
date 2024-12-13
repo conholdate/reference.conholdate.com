@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
- การ`InsertSignatureLine`วิธีการเพิ่มบรรทัดลายเซ็น และเรากำหนด ID ผู้ให้บริการเฉพาะให้กับบรรทัดนั้น
+ การ`InsertSignatureLine` วิธีการเพิ่มบรรทัดลายเซ็น และเรากำหนด ID ผู้ให้บริการเฉพาะให้กับบรรทัดนั้น
 
 ## ขั้นตอนที่ 4: บันทึกเอกสาร
 

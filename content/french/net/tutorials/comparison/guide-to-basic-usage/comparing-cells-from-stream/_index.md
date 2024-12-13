@@ -15,7 +15,7 @@ Dans le développement de logiciels, en particulier lorsqu'il s'agit de document
 
 Avant de commencer, assurez-vous de disposer des éléments suivants :
 
-1.  GroupDocs.Comparison pour .NET : téléchargez et installez la bibliothèque à partir de[ici](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison pour .NET : téléchargez et installez la bibliothèque à partir de[ici](https://releases.groupdocs.com/comparison/net/).
 2. Connaissances de base de C# : une familiarité avec la programmation C# est supposée pour ce didacticiel.
 3. Environnement de développement intégré (IDE) : utilisez un IDE comme Visual Studio pour le codage.
 4. Documents à comparer : préparez les documents que vous souhaitez comparer et assurez-vous qu'ils sont accessibles depuis votre code C#.
@@ -96,4 +96,4 @@ Absolument ! GroupDocs.Comparison pour .NET propose diverses options de personn
 
 ### Où puis-je chercher de l’aide ou du support concernant GroupDocs.Comparison pour .NET ?
 
-Pour obtenir de l'aide, visitez le forum GroupDocs.Comparison[ici](https://forum.groupdocs.com/c/comparison/12).
+ Pour obtenir de l'aide, visitez le forum GroupDocs.Comparison[ici](https://forum.groupdocs.com/c/comparison/12).

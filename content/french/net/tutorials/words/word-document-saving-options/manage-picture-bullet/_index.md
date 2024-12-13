@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Enfin, enregistrez le document en utilisant les options configurées. Cela générera un nouveau fichier sans les puces d'image.
 
 ```csharp
-// Enregistrer le document avec les options spécifiées
+//Enregistrer le document avec les options spécifiées
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

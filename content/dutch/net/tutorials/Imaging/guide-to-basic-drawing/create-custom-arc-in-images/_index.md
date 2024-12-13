@@ -38,7 +38,7 @@ using System.IO;
 ## Stap 1: Maak de afbeelding en sla de stream op
 
 ```csharp
-//Definieer de map waarin de afbeelding moet worden opgeslagen
+// Definieer de map waarin de afbeelding moet worden opgeslagen
 string dataDir = "Your Document Directory"; // Werk dit bij naar uw voorkeurspad
 
 // Maak een stream om de BMP-afbeelding op te slaan
@@ -105,7 +105,7 @@ De afbeelding is nu opgeslagen met de getekende boog.
 
 ## Conclusie
 
-U hebt met succes een eenvoudige toepassing gemaakt die een boog in een afbeelding tekent met Aspose.Imaging voor .NET. Met slechts een paar stappen kunt u nu bogen en andere vormen implementeren, waarmee u een creatieve flair toevoegt aan uw beeldverwerkingstaken.
+hebt met succes een eenvoudige toepassing gemaakt die een boog in een afbeelding tekent met Aspose.Imaging voor .NET. Met slechts een paar stappen kunt u nu bogen en andere vormen implementeren, waarmee u een creatieve flair toevoegt aan uw beeldverwerkingstaken.
 
 ## Veelgestelde vragen
 

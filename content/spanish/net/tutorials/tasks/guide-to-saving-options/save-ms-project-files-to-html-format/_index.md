@@ -17,7 +17,7 @@ Antes de comenzar, asegúrese de tener los siguientes requisitos previos:
 
 1. Conocimientos básicos de C#: Se supone familiaridad con el lenguaje de programación C#.
 2.  Instalación de Aspose.Tasks: Asegúrese de tener Aspose.Tasks para .NET instalado en su entorno de desarrollo. Puede obtenerlo fácilmente desde[Sitio web de Aspose](https://www.aspose.com).
-3. Archivo de Microsoft Project: tenga un archivo de Microsoft Project listo para la conversión (con un`.mpp` extensión).
+3.  Archivo de Microsoft Project: tenga un archivo de Microsoft Project listo para la conversión (con un`.mpp` extensión).
 
 ## Importación de los espacios de nombres necesarios
 

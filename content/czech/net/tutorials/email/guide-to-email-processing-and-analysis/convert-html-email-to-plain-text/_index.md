@@ -58,7 +58,7 @@ Dále musíme z e-mailové zprávy vytáhnout obsah HTML. Představte si tento k
 string htmlBody = message.HtmlBody;
 ```
 
- Přístupem k`HtmlBody` majetek z`MailMessage` je nyní obsah HTML uložen v řetězcové proměnné s názvem`htmlBody`.
+ Přístupem k`HtmlBody` vlastnictvím`MailMessage` je nyní obsah HTML uložen v řetězcové proměnné s názvem`htmlBody`.
 
 ### Krok 3: Připravte se na převod HTML na prostý text
 

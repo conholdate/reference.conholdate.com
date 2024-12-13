@@ -14,7 +14,7 @@ url: /zh-hant/net/tutorials/metadata/pdf-metadata-management/reading-built-in-pr
 在我們開始之前，請確保您具備以下條件：
 
 - Visual Studio：確保它已安裝在您的系統上。
-- GroupDocs.Metadata for .NET：從下列位置下載並安裝：[官方網站](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata for .NET：從下列位置下載並安裝：[官方網站](https://releases.groupdocs.com/metadata/net/).
 - C# 基礎：建議熟悉 C# 和 .NET 架構。
 
 ## 導入命名空間

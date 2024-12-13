@@ -38,7 +38,7 @@ using Aspose.Words;
 
 Ajoutez la bibliothèque Aspose.Words à votre projet à l’aide de NuGet :
 
-- Cliquez avec le bouton droit sur votre projet dans l’Explorateur de solutions.
+- Faites un clic droit sur votre projet dans l’Explorateur de solutions.
 - Choisissez « Gérer les packages NuGet ».
 - Recherchez « Aspose.Words » et installez la dernière version.
 

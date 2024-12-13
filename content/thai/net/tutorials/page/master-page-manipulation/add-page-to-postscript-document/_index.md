@@ -47,10 +47,10 @@ using System.IO;
 string dataDir = "Your Document Directory"; // ตั้งค่าเส้นทางไดเรกทอรีเอกสารของคุณ
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //ตั้งค่าตัวเลือกการบันทึกสำหรับขนาด A4
+    // ตั้งค่าตัวเลือกการบันทึกสำหรับขนาด A4
     PsSaveOptions options = new PsSaveOptions();
     
-    // สร้างเอกสาร PostScript ใหม่ที่มี 2 หน้า
+    //สร้างเอกสาร PostScript ใหม่ที่มี 2 หน้า
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

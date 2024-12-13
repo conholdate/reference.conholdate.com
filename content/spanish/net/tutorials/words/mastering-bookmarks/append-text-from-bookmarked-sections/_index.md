@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Comencemos cargando nuestros documentos de Word de origen y destino e inicializando las variables necesarias.
 
 ```csharp
-// Cargue los documentos de origen y destino.
+//Cargue los documentos de origen y destino.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -60,7 +60,7 @@ if (startPara == null || endPara == null)
     throw new InvalidOperationException("Bookmark start or end does not have a valid paragraph parent.");
 ```
 
-## Paso 3: Validar los padres del párrafo
+## Paso 3: Validar los párrafos principales
 
 Necesitamos asegurarnos de que tanto el párrafo inicial como el final compartan el mismo nodo principal. Este es un enfoque simplificado para evitar complicaciones.
 
@@ -110,7 +110,7 @@ Sí, puedes repetir el proceso para cada marcador y agregar el texto según sea 
 En el ejemplo actual se supone que tienen el mismo padre. Si no es así, deberá implementar un manejo más complejo.
 
 ### ¿Se conservará el formato original del texto adjunto?
- ¡Por supuesto! Utilizando`ImportFormatMode.KeepSourceFormatting` garantiza que se mantenga el formato original.
+ ¡Por supuesto! Utilizando`ImportFormatMode.KeepSourceFormatting`garantiza que se mantenga el formato original.
 
 ### ¿Es posible añadir texto a una posición específica en el documento de destino?
 Sí, puede agregar texto en cualquier posición deseada navegando al nodo apropiado en el documento de destino.

@@ -119,7 +119,7 @@ Tak, możesz w pełni dostosować wygląd spisu treści, łącznie ze stylem, ro
 
 ### Jak dodać podtytuły do spisu treści?
 
- Możesz dodać podtytuły, dostosowując`Heading` poziom (np.`Heading(2)`).
+Możesz dodać podtytuły, dostosowując`Heading` poziom (np.`Heading(2)`).
 
 ### Czy istnieje możliwość automatycznej aktualizacji spisu treści w przypadku zmian w dokumencie?
 

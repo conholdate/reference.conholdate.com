@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Por fim, salve o documento usando as opções configuradas. Isso gerará um novo arquivo sem os marcadores de imagem.
 
 ```csharp
-// Salve o documento com as opções especificadas
+//Salve o documento com as opções especificadas
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

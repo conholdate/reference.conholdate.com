@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## Paso 3: Cargar metadatos del documento
 
- Usando el`Metadata` Clase, puede cargar metadatos del documento especificado. Recuerde reemplazar`"YourInputFile"` con la ruta a su documento:
+ Usando el`Metadata` Clase, puede cargar metadatos del documento especificado. Recuerde reemplazar`"YourInputFile"`con la ruta a su documento:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

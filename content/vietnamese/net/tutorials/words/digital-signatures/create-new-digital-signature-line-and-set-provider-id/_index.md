@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
- Các`InsertSignatureLine`phương pháp này thêm dòng chữ ký và chúng tôi gán cho nó một ID nhà cung cấp duy nhất.
+ Các`InsertSignatureLine` phương pháp này thêm dòng chữ ký và chúng tôi gán cho nó một ID nhà cung cấp duy nhất.
 
 ## Bước 4: Lưu tài liệu
 

@@ -13,7 +13,7 @@ Apakah Anda lelah berjuang dengan berbagai format file dan kekacauan yang ditimb
 
 ## Mengonversi JPEG ke PDF
 
- Bayangkan memiliki gambar JPEG yang indah dan ingin membagikannya sebagai PDF yang telah dipoles. Nah, di sinilah GroupDocs.Conversion hadir. Mengonversi gambar JPEG ke dokumen PDF menjadi sangat mudah dengan alat yang hebat ini. Tidak masalah apakah Anda seorang ahli pengodean atau pemula; tutorial kami menyediakan semua prasyarat dan cuplikan kode penting untuk mengarahkan Anda ke jalur yang benar. Kami akan memandu Anda melalui penginstalan pustaka, penulisan baris kode pertama, dan pelaksanaan konversi dengan lancar. Mengapa harus terhambat oleh proses yang rumit jika Anda dapat mengklik[untuk membaca lebih lanjut](./converting-jpeg-to-pdf/) dan langsung memulai?
+Bayangkan memiliki gambar JPEG yang indah dan ingin membagikannya sebagai PDF yang telah dipoles. Nah, di sinilah GroupDocs.Conversion hadir. Mengonversi gambar JPEG ke dokumen PDF menjadi sangat mudah dengan alat yang hebat ini. Tidak masalah apakah Anda seorang ahli pengodean atau pemula; tutorial kami menyediakan semua prasyarat dan cuplikan kode penting untuk mengarahkan Anda ke jalur yang benar. Kami akan memandu Anda melalui penginstalan pustaka, penulisan baris kode pertama, dan pelaksanaan konversi dengan lancar. Mengapa harus terhambat oleh proses yang rumit jika Anda dapat mengklik[untuk membaca lebih lanjut](./converting-jpeg-to-pdf/) dan langsung memulai?
 
 ## Konversi Markdown ke PDF dengan GroupDocs.Conversion untuk .NET
 

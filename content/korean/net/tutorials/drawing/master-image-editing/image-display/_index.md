@@ -15,7 +15,7 @@ Aspose.Drawing for .NET을 사용하여 이미지를 표시하는 포괄적인 �
 
 시작하기 전에 다음 전제 조건이 충족되었는지 확인하세요.
 
-- .NET 라이브러리용 Aspose.Drawing: 라이브러리를 다운로드하여 설치하세요.[릴리스 페이지](https://releases.aspose.com/drawing/net/).
+-  .NET 라이브러리용 Aspose.Drawing: 라이브러리를 다운로드하여 설치하세요.[릴리스 페이지](https://releases.aspose.com/drawing/net/).
 - .NET 환경: 개발 환경이 .NET을 사용할 수 있도록 설정되어 있는지 확인하세요.
 - 문서 디렉토리: 이미지를 저장할 디렉토리를 만듭니다.
 - 이미지 파일: "aspose_logo.png"와 같이 표시할 이미지 파일을 준비합니다.
@@ -88,7 +88,7 @@ bitmap.Save(@"Your Document Directory\Images\Display_out.png");
 
 ### Aspose.Drawing에서 이미지 크기 조정을 어떻게 처리할 수 있나요?
 
- 매개변수를 수정하여 이미지 크기를 조정할 수 있습니다.`DrawImage`대상 사각형을 지정하는 것과 같은 방법입니다.
+ 매개변수를 수정하여 이미지 크기를 조정할 수 있습니다.`DrawImage` 대상 사각형을 지정하는 것과 같은 방법입니다.
 
 ### 상업 프로젝트에서 Aspose.Drawing을 사용하는 데 라이선스 고려 사항이 있습니까?
 
@@ -96,4 +96,4 @@ bitmap.Save(@"Your Document Directory\Images\Display_out.png");
 
 ### Aspose.Drawing에 문제가 발생하거나 궁금한 점이 있으면 어디에서 도움을 받을 수 있나요?
 
- 지원을 받으려면 다음을 방문하세요.[Aspose.Drawing 포럼](https://forum.aspose.com/c/diagram/17) 지역 사회와 소통하고 전문가의 도움을 받으세요.
+지원을 받으려면 다음을 방문하세요.[Aspose.Drawing 포럼](https://forum.aspose.com/c/diagram/17) 지역 사회와 소통하고 전문가의 도움을 받으세요.

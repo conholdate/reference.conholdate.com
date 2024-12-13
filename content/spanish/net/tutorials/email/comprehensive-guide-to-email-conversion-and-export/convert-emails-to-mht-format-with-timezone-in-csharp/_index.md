@@ -94,7 +94,7 @@ En esta guía, aprendió a convertir mensajes de correo electrónico al formato 
 
 ### ¿Se conserva la información de la zona horaria en el formato MHT?
 
- Sí, la información de la zona horaria se conserva durante el proceso de conversión. Al gestionar las diferencias de zona horaria y utilizar los ajustes adecuados`TimeZoneInfo` métodos, puede garantizar una representación precisa de la zona horaria en el archivo MHT.
+ Sí, la información de la zona horaria se conserva durante el proceso de conversión. Al gestionar las diferencias de zona horaria y utilizar los ajustes adecuados`TimeZoneInfo`métodos, puede garantizar una representación precisa de la zona horaria en el archivo MHT.
 
 ### ¿Dónde puedo encontrar más documentación y actualizaciones sobre Aspose.Email para .NET?
 

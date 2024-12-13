@@ -15,7 +15,7 @@ url: /zh/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 
 为了确保顺畅的开发体验，请确认满足以下先决条件：
 
-- Aspose.Words for .NET：从获取最新版本[Aspose 发布页面](https://releases.aspose.com/words/net/).
+-  Aspose.Words for .NET：从获取最新版本[Aspose 发布页面](https://releases.aspose.com/words/net/).
 - .NET Framework：验证 .NET Framework（或 .NET Core/5/6，取决于您的环境）的安装。
 - 开发环境：推荐使用 Visual Studio，因为它的功能强大。
 - C# 熟练程度：必须基本熟悉 C# 编程。
@@ -114,7 +114,7 @@ EMF 是 WMF 的增强版本，可以更好地支持复杂的图形和更大的�
 是的，Aspose.Words for .NET 支持 .NET Core 和 .NET 5/6，使其适用于现代跨平台应用程序。
 
 ### 我可以在输出中保留原始 SVG 格式吗？
-不，此方法专门将 SVG 转换为 EMF/WMF。但是，您可以保留原始 SVG，直接将其嵌入文档中，而无需进行转换。
+不是，此方法专门将 SVG 转换为 EMF/WMF。但是，您可以保留原始 SVG，直接将其嵌入文档中，而无需进行转换。
 
 ### 在哪里可以下载 Aspose.Words 的免费试用版？
 您可以从[Aspose 发布页面](https://releases.aspose.com/).

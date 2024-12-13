@@ -16,7 +16,7 @@ url: /hi/net/tutorials/words/mastering-bookmarks/manage-bookmark-visibility-word
 इससे पहले कि हम आगे बढ़ें, सुनिश्चित करें कि आपके पास निम्नलिखित चीजें हैं:
 
 1. विजुअल स्टूडियो: .NET के साथ संगत कोई भी संस्करण।
-2.  .NET के लिए Aspose.Words: इसे डाउनलोड करें[यहाँ](https://releases.aspose.com/words/net/).
+2. .NET के लिए Aspose.Words: इसे डाउनलोड करें[यहाँ](https://releases.aspose.com/words/net/).
 3. बुनियादी C# ज्ञान: सरल C# प्रोग्राम लिखने की जानकारी पर्याप्त होगी।
 4. एक नमूना वर्ड दस्तावेज़: इस ट्यूटोरियल के लिए बुकमार्क्स युक्त एक वर्ड दस्तावेज़ (जैसे, "Bookmarks.docx") तैयार करें।
 

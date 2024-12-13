@@ -17,7 +17,7 @@ Trước khi bắt đầu hướng dẫn này, hãy đảm bảo bạn đã chu�
 
 1. Kiến thức cơ bản về C# và .NET: Bắt buộc phải quen thuộc với ngôn ngữ lập trình C# và .NET framework.
    
-2. Aspose.Note để cài đặt .NET: Tải xuống và cài đặt thư viện Aspose.Note từ[Trang web Aspose](https://releases.aspose.com/note/net/).
+2.  Aspose.Note để cài đặt .NET: Tải xuống và cài đặt thư viện Aspose.Note từ[Trang web Aspose](https://releases.aspose.com/note/net/).
 
 3. Môi trường phát triển: Thiết lập môi trường phát triển phù hợp, chẳng hạn như Visual Studio.
 

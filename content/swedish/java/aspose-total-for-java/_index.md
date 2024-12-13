@@ -27,7 +27,7 @@ Följande är länkarna till några användbara resurser som du kan behöva för
 
 **Welcome to Aspose.PDF for Java**
 
-Aspose.PDF är en Java-komponent byggd för att göra det möjligt för utvecklare att skapa PDF-dokument, vare sig de är enkla eller komplexa, i farten programmatiskt. Aspose.PDF för Java tillåter utvecklare att infoga tabeller, grafer, bilder, hyperlänkar, anpassade typsnitt - och mer - i PDF-dokument. Dessutom är det också möjligt att komprimera PDF-dokument. Aspose.PDF för Java tillhandahåller utmärkta säkerhetsfunktioner för att utveckla säkra PDF-dokument. Och den mest distinkta egenskapen hos Aspose.PDF för Java är att den stöder skapandet av PDF-dokument genom både ett API och från XML-mallar
+Aspose.PDF är en Java-komponent byggd för att tillåta utvecklare att skapa PDF-dokument, vare sig de är enkla eller komplexa, i farten programmatiskt. Aspose.PDF för Java tillåter utvecklare att infoga tabeller, grafer, bilder, hyperlänkar, anpassade typsnitt - och mer - i PDF-dokument. Dessutom är det också möjligt att komprimera PDF-dokument. Aspose.PDF för Java tillhandahåller utmärkta säkerhetsfunktioner för att utveckla säkra PDF-dokument. Och den mest distinkta egenskapen hos Aspose.PDF för Java är att den stöder skapandet av PDF-dokument genom både ett API och från XML-mallar
 
 {{% /alert %}}
 
@@ -125,7 +125,7 @@ Följande är länkarna till några användbara resurser som du kan behöva för
 
 **Welcome to Aspose.Tasks for Java!**
 
-Aspose.Tasks för Java är ett klassbibliotek som gör det möjligt för Java-applikationsutvecklare att bädda in funktionaliteten för att bearbeta Microsoft Project®-dokument (MPP/MPT/XLS) utan att ens använda Microsoft Project®. API:et eliminerar därför kravet på Microsoft Office Automation i sådana applikationer. Aspose.Tasks för Java är hämtat från sin motsvarande .NET-produkt och är en mogen produkt som erbjuder stabilitet och flexibilitet. Komponenten ger ett lättanvänt API för att manipulera projektfiler, vilket sparar tid och pengar jämfört med att utveckla liknande funktioner från grunden.
+Aspose.Tasks for Java är ett klassbibliotek som gör det möjligt för Java-applikationsutvecklare att bädda in funktionaliteten för att bearbeta Microsoft Project®-dokument (MPP/MPT/XLS) utan att ens använda Microsoft Project®. API:et eliminerar därför kravet på Microsoft Office Automation i sådana applikationer. Aspose.Tasks för Java är hämtat från sin motsvarande .NET-produkt och är en mogen produkt som erbjuder stabilitet och flexibilitet. Komponenten ger ett lättanvänt API för att manipulera projektfiler, vilket sparar tid och pengar jämfört med att utveckla liknande funktioner från grunden.
 
 {{% /alert %}}
 
@@ -151,7 +151,7 @@ Aspose.OCR för Java kommer med fullfjädrade demos och fungerande exempel skriv
 
 Följande är länkarna till några användbara resurser som du kan behöva för att utföra dina uppgifter.
 
-- [Aspose.OCR för Java API Referensguide](https://reference.aspose.com/ocr/java)
+- [Referensguide för Aspose.OCR för Java API](https://reference.aspose.com/ocr/java)
 
 {{% alert color="primary" %}}
 
@@ -227,7 +227,7 @@ Aspose.HTML för Java är ett avancerat HTML-manipulerings-API byggt för att ut
 
 Följande är länkarna till några användbara resurser som du kan behöva för att utföra dina uppgifter.
 
-- [Referensguide för Aspose.HTML för Java API](https://reference.aspose.com/html/java)
+- [Aspose.HTML för Java API Referensguide](https://reference.aspose.com/html/java)
 
 {{% alert color="primary" %}}
 

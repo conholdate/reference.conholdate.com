@@ -83,7 +83,7 @@ Document summaryDoc = model.Summarize(doc1, new SummarizeOptions() { SummaryLeng
 summaryDoc.Save(ArtifactsDir + "SingleDocSummary.docx");
 ```
 
- Ezzel elmentheti egy rövid összefoglalót`doc1` a kijelölt kimeneti könyvtárban.
+ Ezzel elmentheti a rövid összefoglalót`doc1` a kijelölt kimeneti könyvtárban.
 
 ## 6. lépés: Foglaljon össze több dokumentumot
 

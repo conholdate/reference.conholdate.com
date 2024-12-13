@@ -13,7 +13,7 @@ Aspose.Drawing för .NET gör det möjligt för utvecklare att skapa sofistikera
 
 ## Förutsättningar
 
-1. Aspose.Drawing för .NET: Ladda ner och installera den från[här](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing för .NET: Ladda ner och installera den från[här](https://releases.aspose.com/drawing/net/).
 2. Dokumentkatalog: Välj en katalog för att spara dina bilder.
 3. Grundläggande .NET-kunskaper: Bekantskap med C# och grafiska programmeringskoncept.
 

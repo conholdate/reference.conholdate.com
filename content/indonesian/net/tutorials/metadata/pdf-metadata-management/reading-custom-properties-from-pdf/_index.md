@@ -81,4 +81,4 @@ Memang, GroupDocs.Metadata mendukung beragam format file, termasuk dokumen Word,
  Ya, Anda dapat mengakses[uji coba gratis](https://releases.groupdocs.com/) untuk menjelajahi fitur GroupDocs.Metadata.
 
 ### Bagaimana saya dapat membeli lisensi untuk GroupDocs.Metadata?
- Untuk mendapatkan lisensi, silakan kunjungi[halaman pembelian](https://purchase.groupdocs.com/buy)Lisensi sementara juga tersedia[Di Sini](https://purchase.groupdocs.com/temporary-license/).
+ Untuk mendapatkan lisensi, silakan kunjungi[halaman pembelian](https://purchase.groupdocs.com/buy) Lisensi sementara juga tersedia[Di Sini](https://purchase.groupdocs.com/temporary-license/).

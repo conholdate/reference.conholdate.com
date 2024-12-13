@@ -15,7 +15,7 @@ url: /el/net/tutorials/words/words-processing-with-htmlsaveoptions/resolve-font-
 
 Πριν ξεκινήσουμε, βεβαιωθείτε ότι έχετε όλα όσα χρειάζεστε:
 
-1.  Aspose.Words για .NET: Κάντε λήψη του[εδώ](https://releases.aspose.com/words/net/).
+1. Aspose.Words για .NET: Κάντε λήψη του[εδώ](https://releases.aspose.com/words/net/).
 2.  Μια έγκυρη άδεια: Αγορά μιας άδειας[εδώ](https://purchase.aspose.com/buy) ή πάρτε μια προσωρινή άδεια[εδώ](https://purchase.aspose.com/temporary-license/).
 3. Βασικές γνώσεις C# και .NET: Εξοικείωση με βασικές έννοιες προγραμματισμού σε C# θεωρείται δεδομένο.
 4. Visual Studio: Οποιαδήποτε έκδοση υποστηρίζει το πλαίσιο .NET θα λειτουργήσει.
@@ -74,7 +74,7 @@ HtmlSaveOptions saveOptions = new HtmlSaveOptions(SaveFormat.Html)
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Καλούμε το`Save` μέθοδος στο`Document` αντικείμενο, καθορίζοντας τη διαδρομή εξόδου και τις επιλογές αποθήκευσης που διαμορφώσαμε. Αυτό δημιουργεί ένα αρχείο HTML με τα ονόματα των γραμματοσειρών επιλυμένα.
+ Καλούμε το`Save`μέθοδος στο`Document` αντικείμενο, καθορίζοντας τη διαδρομή εξόδου και τις επιλογές αποθήκευσης που διαμορφώσαμε. Αυτό δημιουργεί ένα αρχείο HTML με τα ονόματα των γραμματοσειρών επιλυμένα.
 
 ## Σύναψη
 
@@ -92,7 +92,7 @@ doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
  Ναι, αλλά θα έχει κάποιους περιορισμούς. Για πλήρη λειτουργικότητα, μπορείτε να αγοράσετε μια άδεια χρήσης[εδώ](https://purchase.aspose.com/buy) ή πάρτε μια προσωρινή άδεια[εδώ](https://purchase.aspose.com/temporary-license/).
 
 ### Γιατί οι γραμματοσειρές μου δεν εμφανίζονται σωστά σε HTML;
- Αυτό το ζήτημα μπορεί να προκύψει εάν οι γραμματοσειρές δεν επιλυθούν σωστά κατά τη μετατροπή. Σύνθεση`ResolveFontNames = true` σε`HtmlSaveOptions` μπορεί να βοηθήσει να διορθωθεί αυτό.
+Αυτό το ζήτημα μπορεί να προκύψει εάν οι γραμματοσειρές δεν επιλυθούν σωστά κατά τη μετατροπή. Σύνθεση`ResolveFontNames = true` σε`HtmlSaveOptions` μπορεί να βοηθήσει να διορθωθεί αυτό.
 
 ### Πού μπορώ να λάβω υποστήριξη για το Aspose.Words για .NET;
  Μπορείτε να λάβετε υποστήριξη από το[Φόρουμ υποστήριξης Aspose.Words](https://forum.aspose.com/c/words/8).

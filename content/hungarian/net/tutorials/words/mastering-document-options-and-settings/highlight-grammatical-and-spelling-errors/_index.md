@@ -21,7 +21,7 @@ Mielőtt elkezdenénk, győződjön meg arról, hogy rendelkezik a következőkk
 
 ## Névterek importálása
 
-A kezdéshez importálnia kell a szükséges névtereket. Ez biztosítja, hogy kódja hozzáférjen az Aspose.Words könyvtár összes funkciójához.
+kezdéshez importálnia kell a szükséges névtereket. Ez biztosítja, hogy kódja hozzáférjen az Aspose.Words könyvtár összes funkciójához.
 
 ```csharp
 using Aspose.Words;
@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## 1. lépés: Állítsa be projektjét
 
-Először hozzon létre egy új .NET-projektet az IDE-ben. Adjon hozzá hivatkozást az Aspose.Words könyvtárhoz. Ha még nem töltötte le, megteheti innen[itt](https://releases.aspose.com/words/net/).
+ Először hozzon létre egy új .NET-projektet az IDE-ben. Adjon hozzá hivatkozást az Aspose.Words könyvtárhoz. Ha még nem töltötte le, megteheti innen[itt](https://releases.aspose.com/words/net/).
 
 ## 2. lépés: Határozza meg a dokumentumkönyvtárat
 

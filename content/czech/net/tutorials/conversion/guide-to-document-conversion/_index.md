@@ -13,7 +13,7 @@ Už vás nebaví bojovat s různými formáty souborů a chaosem, který přiná
 
 ## Převod JPEG do PDF
 
- Představte si, že máte krásný obrázek JPEG a chcete jej sdílet jako vyleštěné PDF. No, to je místo, kde GroupDocs.Conversion vstupuje do hry. Převod obrázků JPEG na dokumenty PDF je s tímto výkonným nástrojem hračka. Nezáleží na tom, zda jste profesionál v kódování nebo nováček; náš tutoriál poskytuje všechny předpoklady a základní úryvky kódu, které vás navedou na správnou cestu. Provedeme vás instalací knihovny, napsáním prvních řádků kódu a hladkým provedením převodu. Proč se zabředávat do složitých procesů, když můžete klikat[přečíst více](./converting-jpeg-to-pdf/) a začít okamžitě?
+Představte si, že máte krásný obrázek JPEG a chcete jej sdílet jako vyleštěné PDF. No, to je místo, kde GroupDocs.Conversion vstupuje do hry. Převod obrázků JPEG na dokumenty PDF je s tímto výkonným nástrojem hračka. Nezáleží na tom, zda jste profesionál v kódování nebo nováček; náš tutoriál poskytuje všechny předpoklady a základní úryvky kódu, které vás navedou na správnou cestu. Provedeme vás instalací knihovny, napsáním prvních řádků kódu a hladkým provedením převodu. Proč se zabředávat do složitých procesů, když můžete klikat[přečíst více](./converting-jpeg-to-pdf/) a začít okamžitě?
 
 ## Převeďte Markdown do PDF pomocí GroupDocs.Conversion for .NET
 

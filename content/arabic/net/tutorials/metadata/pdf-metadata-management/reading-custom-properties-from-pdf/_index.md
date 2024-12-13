@@ -81,4 +81,4 @@ foreach (var property in customProperties)
  نعم يمكنك الوصول إلى[نسخة تجريبية مجانية](https://releases.groupdocs.com/) لاستكشاف ميزات GroupDocs.Metadata.
 
 ### كيف يمكنني شراء ترخيص لـ GroupDocs.Metadata؟
- للحصول على الترخيص، يرجى زيارة[صفحة الشراء](https://purchase.groupdocs.com/buy) التراخيص المؤقتة متاحة أيضًا[هنا](https://purchase.groupdocs.com/temporary-license/).
+ للحصول على الترخيص، يرجى زيارة[صفحة الشراء](https://purchase.groupdocs.com/buy) . التراخيص المؤقتة متاحة أيضًا[هنا](https://purchase.groupdocs.com/temporary-license/).

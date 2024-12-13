@@ -33,7 +33,7 @@ using Aspose.Words.Saving;
 
 ## चरण 1: दस्तावेज़ और दस्तावेज़बिल्डर को आरंभ करें
 
-हम एक नया वर्ड दस्तावेज़ बनाकर और उसे आरंभ करके शुरू करेंगे`DocumentBuilder` ऑब्जेक्ट, जो हमें सामग्री जोड़ने में मदद करेगा।
+ हम एक नया वर्ड दस्तावेज़ बनाकर और उसे आरंभ करके शुरू करेंगे`DocumentBuilder` ऑब्जेक्ट, जो हमें सामग्री जोड़ने में मदद करेगा।
 
 ```csharp
 // दस्तावेज़ निर्देशिका का पथ निर्धारित करें.
@@ -56,7 +56,7 @@ builder.Write("Here is an SVG image: ");
 
 ## चरण 3: SVG छवि डालें
 
- अब आता है रोमांचक हिस्सा! हम अपने दस्तावेज़ में SVG छवि डालेंगे`InsertHtml` तरीका।
+अब आता है रोमांचक हिस्सा! हम अपने दस्तावेज़ में SVG छवि डालेंगे`InsertHtml` तरीका।
 
 ```csharp
 builder.InsertHtml(
@@ -83,7 +83,7 @@ HtmlSaveOptions saveOptions = new HtmlSaveOptions
 
 ## चरण 5: दस्तावेज़ सहेजें
 
-अंत में, आइए अपने दस्तावेज़ को सेव करें`Save` की विधि`Document` कक्षा।
+ अंत में, आइए अपने दस्तावेज़ को सेव करें`Save` की विधि`Document`कक्षा।
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

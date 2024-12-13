@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  이제 인스턴스화하세요`Document` 메모리에서 CGM 파일을 나타내는 객체입니다. 이를 통해 PDF로 저장하기 전에 파일을 조작할 수 있습니다.
 
 ```csharp
-//Document 객체 인스턴스화
+// Document 객체 인스턴스화
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ CGM은 Computer Graphics Metafile의 약자로, 2D 벡터 그래픽과 래스터
 
 ### Aspose.PDF에 대한 지원은 어디에서 찾을 수 있나요?
 
- 도움이 필요하면 다음을 방문하세요.[Aspose 지원 포럼](https://forum.aspose.com/c/pdf/10), 일반적인 문제에 대한 질문을 하고 해결책을 찾을 수 있습니다.
+도움이 필요하면 다음을 방문하세요.[Aspose 지원 포럼](https://forum.aspose.com/c/pdf/10)일반적인 문제에 대한 질문을 하고 해결책을 찾을 수 있습니다.
 
 ### Aspose.PDF 라이선스는 어떻게 구매하나요?
 

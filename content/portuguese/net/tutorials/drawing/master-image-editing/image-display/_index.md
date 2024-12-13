@@ -15,7 +15,7 @@ Bem-vindo ao nosso guia abrangente sobre como exibir imagens usando o Aspose.Dra
 
 Antes de começar, certifique-se de ter estes pré-requisitos em vigor:
 
-- Biblioteca Aspose.Drawing para .NET: Baixe e instale a biblioteca do[página de lançamento](https://releases.aspose.com/drawing/net/).
+-  Biblioteca Aspose.Drawing para .NET: Baixe e instale a biblioteca do[página de lançamento](https://releases.aspose.com/drawing/net/).
 - Ambiente .NET: certifique-se de que seu ambiente de desenvolvimento esteja configurado para funcionar com .NET.
 - Diretório de documentos: crie um diretório para armazenar suas imagens.
 - Arquivo de imagem: prepare um arquivo de imagem para exibição, como "aspose_logo.png".
@@ -88,7 +88,7 @@ Sim, o Aspose.Drawing é atualizado regularmente para manter a compatibilidade c
 
 ### Como posso lidar com o dimensionamento de imagens no Aspose.Drawing?
 
- Você pode ajustar a escala da imagem modificando os parâmetros no`DrawImage`método, como especificar o retângulo de destino.
+ Você pode ajustar a escala da imagem modificando os parâmetros no`DrawImage` método, como especificar o retângulo de destino.
 
 ### Há considerações de licenciamento para usar o Aspose.Drawing em projetos comerciais?
 
@@ -96,4 +96,4 @@ Sim, o Aspose.Drawing é atualizado regularmente para manter a compatibilidade c
 
 ### Onde posso buscar ajuda se tiver problemas ou dúvidas sobre o Aspose.Drawing?
 
- Para obter suporte, você pode visitar o[Fórum Aspose.Drawing](https://forum.aspose.com/c/diagram/17) para se conectar com a comunidade e encontrar assistência especializada.
+Para obter suporte, você pode visitar o[Fórum Aspose.Drawing](https://forum.aspose.com/c/diagram/17) para se conectar com a comunidade e encontrar assistência especializada.

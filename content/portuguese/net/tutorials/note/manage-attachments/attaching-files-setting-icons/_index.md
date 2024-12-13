@@ -35,7 +35,7 @@ Abaixo está a implementação detalhada passo a passo.
 
 ## Etapa 1: Crie um novo documento do OneNote
 
- Inicialize um novo documento do OneNote usando o`Document` aula.
+ Inicialize um novo documento do OneNote usando o`Document`aula.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ O Aspose.Note suporta os formatos JPEG, PNG, BMP e GIF para ícones de anexo.
 Não há um limite de tamanho explícito imposto pelo Aspose.Note, mas certifique-se de que os recursos do seu sistema podem lidar com arquivos grandes.
 
 ### Os ícones podem ser redimensionados antes de serem definidos?
-Sim, você pode manipular a imagem do ícone usando o .NET`System.Drawing` biblioteca antes de anexá-la.
+ Sim, você pode manipular a imagem do ícone usando o .NET`System.Drawing` biblioteca antes de anexá-la.
 
  Para obter mais assistência, explore o[documentação](https://reference.aspose.com/words/net/) ou entre em contato com[Suporte Aspose](https://forum.aspose.com/c/words/8).

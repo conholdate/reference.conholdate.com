@@ -18,7 +18,7 @@ url: /el/net/tutorials/words/word-document-saving-options/do-not-compress-small-
 1.  Aspose.Words για .NET: Κάντε λήψη και εγκατάσταση της πιο πρόσφατης έκδοσης από[Aspose Releases](https://releases.aspose.com/words/net/).
 2. Περιβάλλον ανάπτυξης: Χρησιμοποιήστε το Visual Studio ή οποιοδήποτε συμβατό IDE.
 3. Βασική κατανόηση της C#: Η εξοικείωση με την C# και το πλαίσιο .NET θα είναι χρήσιμη.
-4.  Άδεια χρήσης Aspose: Για να ξεκλειδώσετε πλήρως το Aspose.Words, αποκτώντας α[άδεια](https://purchase.aspose.com/buy)συνιστάται. Εναλλακτικά, μπορείτε να χρησιμοποιήσετε α[προσωρινή άδεια](https://purchase.aspose.com/temporary-license/) για σκοπούς αξιολόγησης.
+4.  Άδεια χρήσης Aspose: Για να ξεκλειδώσετε πλήρως το Aspose.Words, αποκτώντας α[άδεια](https://purchase.aspose.com/buy) συνιστάται. Εναλλακτικά, μπορείτε να χρησιμοποιήσετε α[προσωρινή άδεια](https://purchase.aspose.com/temporary-license/) για σκοπούς αξιολόγησης.
 
 ## Εισαγωγή χώρων ονομάτων
 
@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Βήμα 3: Διαμόρφωση επιλογών αποθήκευσης
 
- Τώρα, διαμορφώστε τις επιλογές αποθήκευσης για να χρησιμοποιήσετε τη δυνατότητα "Do Not Compress Small Metafiles" με το`DocSaveOptions` τάξη.
+ Τώρα, διαμορφώστε τις επιλογές αποθήκευσης για να χρησιμοποιήσετε τη δυνατότητα "Do Not Compress Small Metafiles" με το`DocSaveOptions`τάξη.
 
 ```csharp
 // Διαμορφώστε τις επιλογές αποθήκευσης με τη λειτουργία "Do Not Compress Small Metafiles".
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- Αυτό το βήμα δημιουργεί ένα παράδειγμα του`DocSaveOptions`και ορίζει το`Compliance` ιδιοκτησία σε`PdfCompliance.PdfA1a`, διασφαλίζοντας ότι το έγγραφο συμμορφώνεται με το πρότυπο PDF/A-1a.
+ Αυτό το βήμα δημιουργεί ένα παράδειγμα του`DocSaveOptions` και ορίζει το`Compliance` ιδιοκτησία σε`PdfCompliance.PdfA1a`, διασφαλίζοντας ότι το έγγραφο συμμορφώνεται με το πρότυπο PDF/A-1a.
 
 ## Βήμα 4: Αποθηκεύστε το έγγραφο
 
 Τέλος, αποθηκεύστε το έγγραφο χρησιμοποιώντας τις διαμορφωμένες επιλογές, διασφαλίζοντας ότι τα μικρά μετααρχεία δεν συμπιέζονται.
 
 ```csharp
-// Αποθηκεύστε το έγγραφο με τις καθορισμένες επιλογές
+//Αποθηκεύστε το έγγραφο με τις καθορισμένες επιλογές
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 
 ### Χρειάζομαι άδεια χρήσης για να χρησιμοποιήσω το Aspose.Words για .NET;
 
- Ενώ μπορείτε να χρησιμοποιήσετε το Aspose.Words για .NET χωρίς άδεια χρήσης για σκοπούς αξιολόγησης, απαιτείται άδεια χρήσης για πλήρη λειτουργικότητα. Μπορείτε να αγοράσετε μια άδεια[εδώ](https://purchase.aspose.com/buy) ή δοκιμάστε α[προσωρινή άδεια](https://purchase.aspose.com/temporary-license/) για αξιολόγηση.
+Ενώ μπορείτε να χρησιμοποιήσετε το Aspose.Words για .NET χωρίς άδεια χρήσης για σκοπούς αξιολόγησης, απαιτείται άδεια χρήσης για πλήρη λειτουργικότητα. Μπορείτε να αγοράσετε μια άδεια[εδώ](https://purchase.aspose.com/buy) ή δοκιμάστε α[προσωρινή άδεια](https://purchase.aspose.com/temporary-license/) για αξιολόγηση.
 
 ### Πώς μπορώ να διασφαλίσω ότι τα έγγραφά μου συμμορφώνονται με τα πρότυπα PDF/A;
 

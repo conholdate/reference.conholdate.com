@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## Krok 3: Załaduj metadane z dokumentu
 
- Korzystanie z`Metadata` class, możesz załadować metadane z określonego dokumentu. Pamiętaj, aby zastąpić`"YourInputFile"` ze ścieżką do Twojego dokumentu:
+ Korzystanie z`Metadata` class, możesz załadować metadane z określonego dokumentu. Pamiętaj, aby zastąpić`"YourInputFile"`ze ścieżką do Twojego dokumentu:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

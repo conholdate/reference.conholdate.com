@@ -15,7 +15,7 @@ Ahoj, kolego kodéru! Pokud jste se někdy potýkali s problémy s písmy při u
 
 Než začneme, ujistěte se, že máte vše, co potřebujete:
 
-1.  Aspose.Words pro .NET: Stáhněte si ji[zde](https://releases.aspose.com/words/net/).
+1. Aspose.Words pro .NET: Stáhněte si ji[zde](https://releases.aspose.com/words/net/).
 2.  Platná licence: Kupte si licenci[zde](https://purchase.aspose.com/buy) nebo získat dočasnou licenci[zde](https://purchase.aspose.com/temporary-license/).
 3. Základní znalost C# a .NET: Předpokládá se znalost základních programovacích konceptů v C#.
 4. Visual Studio: Bude fungovat jakákoli verze, která podporuje framework .NET.
@@ -74,7 +74,7 @@ Nakonec dokument uložíme jako soubor HTML pomocí nakonfigurovaných možnost�
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Zavoláme na`Save` metoda na`Document` objekt s uvedením výstupní cesty a možností uložení, které jsme nakonfigurovali. Tím se vygeneruje soubor HTML s vyřešenými názvy písem.
+ Zavoláme na`Save`metoda na`Document` objekt s uvedením výstupní cesty a možností uložení, které jsme nakonfigurovali. Tím se vygeneruje soubor HTML s vyřešenými názvy písem.
 
 ## Závěr
 
@@ -91,8 +91,8 @@ Aspose.Words for .NET je výkonná knihovna, která umožňuje vývojářům vyt
 ### Mohu používat Aspose.Words pro .NET bez licence?
  Ano, ale bude mít určitá omezení. Pro plnou funkčnost si můžete zakoupit licenci[zde](https://purchase.aspose.com/buy) nebo získat dočasnou licenci[zde](https://purchase.aspose.com/temporary-license/).
 
-### Proč se moje písma v HTML nezobrazují správně?
- K tomuto problému může dojít, pokud nejsou písma během převodu správně vyřešena. Nastavení`ResolveFontNames = true` v`HtmlSaveOptions` může to pomoci opravit.
+### Proč se moje písma nezobrazují správně v HTML?
+ tomuto problému může dojít, pokud nejsou písma během převodu správně vyřešena. Nastavení`ResolveFontNames = true` v`HtmlSaveOptions` může to pomoci opravit.
 
 ### Kde mohu získat podporu pro Aspose.Words pro .NET?
  Můžete získat podporu od[Fórum podpory Aspose.Words](https://forum.aspose.com/c/words/8).

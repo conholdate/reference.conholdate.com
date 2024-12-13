@@ -61,7 +61,7 @@ string dataDir = "Your Data Directory";
 
 ## 2. lépés: Nyissa meg az EPUB-dokumentumot olvasásra
 
- A`File.OpenRead` módszerrel megnyithatja olvasásra az EPUB dokumentumot. Ez lehetővé teszi az alkalmazás számára, hogy hozzáférjen az EPUB-fájl tartalmához.
+ A`File.OpenRead`módszerrel megnyithatja olvasásra az EPUB dokumentumot. Ez lehetővé teszi az alkalmazás számára, hogy hozzáférjen az EPUB-fájl tartalmához.
 
 ```csharp
 using (var fs = File.OpenRead(dataDir + "document.epub"))
@@ -111,4 +111,4 @@ Az Aspose.HTML segítségével az EPUB-t különféle formátumokká konvertálh
  Támogatást kaphat, ha ellátogat a[Aspose támogatási fórum](https://forum.aspose.com/c/html/29).
 
 ### Hogyan szerezhetek ideiglenes licencet az Aspose.HTML-hez?
-Ideiglenes jogosítványt szerezhet be[ezt az oldalt](https://purchase.conholdate.com/temporary-license/).
+ Ideiglenes jogosítványt szerezhet be[ezt az oldalt](https://purchase.conholdate.com/temporary-license/).

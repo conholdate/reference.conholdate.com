@@ -9,7 +9,7 @@ url: /hu/net/tutorials/metadata/load-metadata/handling-metadata-from-password-pr
 ---
 ## Bevezetés
 
-A metaadatkezelés elengedhetetlen a különböző .NET-alkalmazásokban, legyen szó PDF-ről, képről vagy Word-dokumentumról. Ez az oktatóanyag végigvezeti a metaadatok kinyerésének folyamatán a jelszóval védett dokumentumokból a GroupDocs.Metadata for .NET használatával.
+metaadatkezelés elengedhetetlen a különböző .NET-alkalmazásokban, legyen szó PDF-ről, képről vagy Word-dokumentumról. Ez az oktatóanyag végigvezeti a metaadatok kinyerésének folyamatán a jelszóval védett dokumentumokból a GroupDocs.Metadata for .NET használatával.
 
 ## Előfeltételek
 
@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## 3. lépés: Töltse be a metaadatokat a dokumentumból
 
- A`Metadata` osztályban, a megadott dokumentumból tölthet be metaadatokat. Ne felejtse el cserélni`"YourInputFile"` a dokumentum elérési útjával:
+ A`Metadata` osztályban, a megadott dokumentumból tölthet be metaadatokat. Ne felejtse el cserélni`"YourInputFile"` dokumentum elérési útjával:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))
@@ -55,7 +55,7 @@ using (var metadata = new Metadata("YourInputFile", loadOptions))
 
 ## 4. lépés: A metaadat-tulajdonságok elérése és kezelése
 
-metaadatok betöltése után hozzáférhet a tulajdonságaihoz. Íme egy példa konkrét metaadat-attribútumok lekérésére:
+A metaadatok betöltése után hozzáférhet a tulajdonságaihoz. Íme egy példa konkrét metaadat-attribútumok lekérésére:
 
 ```csharp
 var documentMetadata = (DocMetadata)metadata.GetRootPackage();
@@ -63,7 +63,7 @@ Console.WriteLine("Author: " + documentMetadata.Author);
 Console.WriteLine("Title: " + documentMetadata.Title);
 ```
 
- Ügyeljen arra, hogy cserélje ki`DocMetadata` a dokumentum formátumának megfelelő osztállyal, mint pl`PdfMetadata` vagy`WordProcessingMetadata`.
+ Mindenképpen cserélje ki`DocMetadata` a dokumentum formátumának megfelelő osztállyal, mint pl`PdfMetadata` vagy`WordProcessingMetadata`.
 
 ## Következtetés
 

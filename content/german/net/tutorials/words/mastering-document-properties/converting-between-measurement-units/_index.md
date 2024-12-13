@@ -91,7 +91,7 @@ Obwohl Sie Aspose.Words ohne Lizenz verwenden können, sind einige erweiterte Fu
  Laden Sie es herunter von[Webseite](https://releases.aspose.com/words/net/) und befolgen Sie die bereitgestellten Installationsanweisungen.
 
 ### Kann ich für unterschiedliche Abschnitte eines Dokuments unterschiedliche Einheiten festlegen?
- Absolut! Sie können Ränder und Einstellungen für verschiedene Abschnitte anpassen, indem Sie`Section` Klasse.
+ Absolut! Sie können Ränder und Einstellungen für verschiedene Abschnitte anpassen, indem Sie`Section`Klasse.
 
 ### Welche weiteren Funktionen bietet Aspose.Words?
  Aspose.Words unterstützt eine Vielzahl von Funktionen, darunter Dokumentkonvertierung, Serienbriefe und umfangreiche Formatierungsoptionen. Überprüfen Sie die[Dokumentation](https://reference.aspose.com/words/net/) für weitere Details.

@@ -15,7 +15,7 @@ Het instellen van de pagina-indeling van uw document kan een ontmoedigende taak 
 
 Voordat we beginnen, zorg ervoor dat u het volgende heeft:
 
--  Aspose.Words voor .NET: Download het[hier](https://releases.aspose.com/words/net/).
+- Aspose.Words voor .NET: Download het[hier](https://releases.aspose.com/words/net/).
 -  Een geldige licentie: Koop er een[hier](https://purchase.aspose.com/buy) of een tijdelijke licentie verkrijgen[hier](https://purchase.aspose.com/temporary-license/).
 - Basiskennis van C#-programmering: Maak je geen zorgen, ik houd het simpel.
 - Integrated Development Environment (IDE): Visual Studio wordt sterk aanbevolen.

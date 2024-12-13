@@ -13,7 +13,7 @@ url: /el/net/tutorials/drawing/transformations/guide-to-local-transformation/
 
 ## Προαπαιτούμενα
 
-1. Aspose.Drawing για .NET: Κάντε λήψη και εγκαταστήστε το από[εδώ](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing για .NET: Κάντε λήψη και εγκαταστήστε το από[εδώ](https://releases.aspose.com/drawing/net/).
 2. Κατάλογος εγγράφων: Επιλέξτε έναν κατάλογο για να αποθηκεύσετε τις εικόνες σας.
 3. Βασικές γνώσεις .NET: Εξοικείωση με την C# και τις έννοιες προγραμματισμού γραφικών.
 

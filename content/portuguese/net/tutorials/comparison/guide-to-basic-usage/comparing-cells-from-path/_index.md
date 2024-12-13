@@ -71,7 +71,7 @@ Parabéns! Você aprendeu com sucesso como usar GroupDocs.Comparison for .NET pa
 
 ## Perguntas frequentes
 
-### GroupDocs.Comparison for .NET é compatível com diferentes sistemas operacionais?
+### O GroupDocs.Comparison for .NET é compatível com diferentes sistemas operacionais?
 
 O GroupDocs.Comparison for .NET é compatível principalmente com sistemas operacionais Windows.
 
@@ -85,7 +85,7 @@ Sim, a biblioteca oferece suporte à comparação de vários formatos de documen
 
 ### Como posso obter suporte para o GroupDocs.Comparison para .NET?
 
- Para obter suporte, visite a comunidade GroupDocs.Comparison[fórum](https://forum.groupdocs.com/c/comparison/12).
+Para obter suporte, visite a comunidade GroupDocs.Comparison[fórum](https://forum.groupdocs.com/c/comparison/12).
 
 ### Onde posso comprar uma licença para o GroupDocs.Comparison para .NET?
 

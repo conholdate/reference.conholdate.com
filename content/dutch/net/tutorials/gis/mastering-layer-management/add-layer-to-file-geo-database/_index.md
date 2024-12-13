@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // Maak een nieuwe laag met het WGS 84 ruimtelijk referentiesysteem
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //Een kenmerkschema toevoegen
+        // Een kenmerkschema toevoegen
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // Een functie maken en toevoegen

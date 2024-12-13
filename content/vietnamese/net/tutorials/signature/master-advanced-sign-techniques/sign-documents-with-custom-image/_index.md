@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Bước 4: Khởi tạo đối tượng chữ ký
 
- Tạo một phiên bản của`Signature` lớp, truyền vào đường dẫn tệp tài liệu:
+ Tạo một phiên bản của`Signature`lớp, truyền vào đường dẫn tệp tài liệu:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

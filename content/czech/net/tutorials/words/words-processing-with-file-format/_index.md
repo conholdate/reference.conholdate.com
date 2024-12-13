@@ -13,11 +13,11 @@ Ponoříte se do světa zpracování dokumentů ve vašich .NET aplikacích? Už
 
 ## Detekce formátu souboru dokumentu
 
- Za prvé, pochopení formátů souborů je zásadní. Stalo se vám někdy, že jste otevřeli dokument, abyste zjistili, že není ve formě, kterou jste očekávali? S[Detekce formátu souboru dokumentu](./document-file-format-detection/)naučíte se bezproblémově identifikovat a spravovat různé formáty dokumentů. Náš podrobný průvodce poskytuje praktické příklady, které zajistí, že tyto techniky můžete snadno implementovat do svých projektů. Rozpoznávání formátů souborů vám může později ušetřit bolesti hlavy při práci s různými typy dokumentů. 
+ Za prvé, pochopení formátů souborů je zásadní. Stalo se vám někdy, že jste otevřeli dokument, abyste zjistili, že není ve formě, kterou jste očekávali? S[Detekce formátu souboru dokumentu](./document-file-format-detection/), naučíte se bezproblémově identifikovat a spravovat různé formáty dokumentů. Náš podrobný průvodce poskytuje praktické příklady, které zajistí, že tyto techniky můžete snadno implementovat do svých projektů. Rozpoznávání formátů souborů vám může později ušetřit bolesti hlavy při práci s různými typy dokumentů. 
 
 ## Detekce digitálních podpisů v dokumentech aplikace Word
 
- Digitální podpisy jsou jako tajné podání ruky ve světě digitálních dokumentů. Chcete mít jistotu, že jsou vaše dokumenty Word bezpečné a autentické? Podívejte se na náš tutoriál na[Detekce digitálních podpisů v dokumentech aplikace Word](./detecting-digital-signatures/). Tento komplexní průvodce vás provede celým procesem, od nastavení projektu až po skutečnou kontrolu podpisů. Ve světě, kde je prvořadá integrita dokumentů, vás znalost, jak zacházet s digitálními podpisy, může odlišit od vývojářů, kteří se starají o bezpečnost.
+Digitální podpisy jsou jako tajné podání ruky ve světě digitálních dokumentů. Chcete mít jistotu, že jsou vaše dokumenty Word bezpečné a autentické? Podívejte se na náš tutoriál na[Detekce digitálních podpisů v dokumentech aplikace Word](./detecting-digital-signatures/). Tento komplexní průvodce vás provede celým procesem, od nastavení projektu až po skutečnou kontrolu podpisů. Ve světě, kde je prvořadá integrita dokumentů, vás znalost, jak zacházet s digitálními podpisy, může odlišit od vývojářů, kteří se starají o bezpečnost.
 
 ## Ověřte šifrování dokumentů aplikace Word
 

@@ -81,4 +81,4 @@ foreach (var property in customProperties)
  Да, вы можете получить доступ к[бесплатная пробная версия](https://releases.groupdocs.com/) для изучения возможностей GroupDocs.Metadata.
 
 ### Как я могу приобрести лицензию на GroupDocs.Metadata?
- Чтобы приобрести лицензию, посетите сайт[страница покупки](https://purchase.groupdocs.com/buy) Временные лицензии также доступны.[здесь](https://purchase.groupdocs.com/temporary-license/).
+ Чтобы приобрести лицензию, посетите сайт[страница покупки](https://purchase.groupdocs.com/buy) . Временные лицензии также доступны.[здесь](https://purchase.groupdocs.com/temporary-license/).

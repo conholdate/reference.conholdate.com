@@ -16,7 +16,7 @@ Czy jesteś gotowy, aby podnieść swoje umiejętności manipulacji dokumentami 
 Zanim przejdziemy do konkretów, upewnij się, że masz następujące rzeczy:
 
 1. Visual Studio: dowolna wersja zgodna z .NET.
-2.  Aspose.Words dla .NET: Pobierz[Tutaj](https://releases.aspose.com/words/net/).
+2. Aspose.Words dla .NET: Pobierz[Tutaj](https://releases.aspose.com/words/net/).
 3. Podstawowa wiedza o języku C#: Wystarczy znajomość pisania prostych programów w języku C#.
 4. Przykładowy dokument Word: Przygotuj dokument Word (np. „Zakładki.docx”) zawierający zakładki na potrzeby tego samouczka.
 

@@ -80,13 +80,13 @@ mhtStream.CopyTo(fileStream);
 
 ## Závěr
 
-V této příručce jste se naučili, jak převádět e-mailové zprávy do formátu MHT a zároveň efektivně zpracovávat informace o časovém pásmu pomocí Aspose.Email for .NET. Dodržením těchto kroků a prozkoumáním dalších možností přizpůsobení můžete do svých aplikací bez problémů integrovat funkci převodu e-mailů.
+této příručce jste se naučili, jak převádět e-mailové zprávy do formátu MHT a zároveň efektivně zpracovávat informace o časovém pásmu pomocí Aspose.Email for .NET. Dodržením těchto kroků a prozkoumáním dalších možností přizpůsobení můžete do svých aplikací bez problémů integrovat funkci převodu e-mailů.
 
 ## FAQ
 
 ### Jak nakládám s přílohami během převodu e-mailu?
 
- Chcete-li spravovat přílohy, použijte`Attachments` majetek z`MailMessage` třída. Procházejte přílohy a ukládejte je podle potřeby během procesu převodu.
+ Chcete-li spravovat přílohy, použijte`Attachments` vlastnictvím`MailMessage` třída. Procházejte přílohy a ukládejte je podle potřeby během procesu převodu.
 
 ### Mohu pomocí Aspose.Email for .NET převést e-maily do jiných formátů?
 
@@ -94,7 +94,7 @@ Absolutně! Aspose.Email pro .NET podporuje různé formáty, včetně MSG, EML,
 
 ### Jsou informace o časovém pásmu zachovány ve formátu MHT?
 
- Ano, informace o časovém pásmu jsou během procesu převodu zachovány. Zpracováním posunů časových pásem a použitím vhodných`TimeZoneInfo` metod, můžete zajistit přesnou reprezentaci časového pásma v souboru MHT.
+ Ano, informace o časovém pásmu jsou během procesu převodu zachovány. Zpracováním posunů časových pásem a použitím vhodných`TimeZoneInfo`metod, můžete zajistit přesnou reprezentaci časového pásma v souboru MHT.
 
 ### Kde najdu další dokumentaci a aktualizace o Aspose.Email pro .NET?
 

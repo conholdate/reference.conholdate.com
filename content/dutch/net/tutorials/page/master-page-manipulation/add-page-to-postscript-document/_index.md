@@ -47,10 +47,10 @@ Stel uw PostScript-document in met de gewenste configuraties:
 string dataDir = "Your Document Directory"; // Stel het pad van uw documentdirectory in
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //Stel opslagopties in voor A4-formaat
+    // Stel opslagopties in voor A4-formaat
     PsSaveOptions options = new PsSaveOptions();
     
-    // Maak een nieuw PostScript-document met 2 pagina's
+    //Maak een nieuw PostScript-document met 2 pagina's
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

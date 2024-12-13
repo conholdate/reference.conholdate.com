@@ -20,7 +20,7 @@ A kezdéshez gondoskodjon megfelelő fejlesztői környezetről:
 
 ## Az Aspose.Email telepítése .NET-hez
 
-Az Aspose.Email for .NET egy hatékony könyvtár, amely leegyszerűsíti az e-mail-feldolgozási feladatokat. Kövesse az alábbi lépéseket a telepítéshez:
+Az Aspose.Email for .NET egy hatékony könyvtár, amely leegyszerűsíti az e-mail-feldolgozási feladatokat. A telepítéshez kövesse az alábbi lépéseket:
 
 1. Nyissa meg projektjét a Visual Studióban.
 2. Lépjen az Eszközök > NuGet csomagkezelő > NuGet csomagok kezelése a megoldáshoz menüpontra.
@@ -94,7 +94,7 @@ Teljesen! Az Aspose.Email for .NET különféle formátumokat támogat, beleért
 
 ### Megőrzik az időzóna információkat MHT formátumban?
 
- Igen, az időzóna információi megőrződnek a konverziós folyamat során. Az időzóna-eltolások kezelésével és a megfelelő használatával`TimeZoneInfo` módszerekkel biztosíthatja az időzóna pontos megjelenítését az MHT-fájlban.
+ Igen, az időzóna információi megőrződnek a konverziós folyamat során. Az időzóna-eltolások kezelésével és a megfelelő használatával`TimeZoneInfo`módszerekkel biztosíthatja az időzóna pontos megjelenítését az MHT-fájlban.
 
 ### Hol találhatok további dokumentációt és frissítéseket az Aspose.Email for .NET-hez?
 

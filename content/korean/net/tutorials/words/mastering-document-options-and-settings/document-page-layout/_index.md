@@ -15,7 +15,7 @@ url: /ko/net/tutorials/words/mastering-document-options-and-settings/document-pa
 
 시작하기 전에 다음 사항이 있는지 확인하세요.
 
--  Aspose.Words for .NET: 다운로드[여기](https://releases.aspose.com/words/net/).
+- Aspose.Words for .NET: 다운로드[여기](https://releases.aspose.com/words/net/).
 -  유효한 라이센스: 하나 구매하세요[여기](https://purchase.aspose.com/buy) 또는 임시 면허를 취득하다[여기](https://purchase.aspose.com/temporary-license/).
 - C# 프로그래밍에 대한 기본적인 이해: 걱정하지 마세요. 간단하게 설명해 드리겠습니다.
 - 통합 개발 환경(IDE): Visual Studio를 적극 권장합니다.

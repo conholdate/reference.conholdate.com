@@ -42,7 +42,7 @@ using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 }
 ```
 
- Σημείωση: Αντικαταστήστε`"YourInputFile.pdf"` με τη διαδρομή του αρχείου PDF σας.
+ Σημείωση: Αντικατάσταση`"YourInputFile.pdf"` με τη διαδρομή του αρχείου PDF σας.
 
 ## Βήμα 3: Ανάκτηση και εμφάνιση προσαρμοσμένων ιδιοτήτων
 
@@ -81,4 +81,4 @@ foreach (var property in customProperties)
  Ναι, μπορείτε να έχετε πρόσβαση σε ένα[δωρεάν δοκιμή](https://releases.groupdocs.com/) για να εξερευνήσετε τις δυνατότητες του GroupDocs.Metadata.
 
 ### Πώς μπορώ να αγοράσω άδεια χρήσης για το GroupDocs.Metadata;
- Για να αποκτήσετε άδεια, επισκεφθείτε το[σελίδα αγοράς](https://purchase.groupdocs.com/buy) Διατίθενται επίσης προσωρινές άδειες[εδώ](https://purchase.groupdocs.com/temporary-license/).
+ Για να αποκτήσετε άδεια, επισκεφθείτε το[σελίδα αγοράς](https://purchase.groupdocs.com/buy) . Διατίθενται επίσης προσωρινές άδειες[εδώ](https://purchase.groupdocs.com/temporary-license/).

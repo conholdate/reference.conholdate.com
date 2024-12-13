@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## Stap 3: Metagegevens laden vanuit het document
 
- Met behulp van de`Metadata` klasse, kunt u metadata laden van het opgegeven document. Vergeet niet om te vervangen`"YourInputFile"` met het pad naar uw document:
+ Met behulp van de`Metadata` klasse, kunt u metadata laden van het opgegeven document. Vergeet niet om te vervangen`"YourInputFile"`met het pad naar uw document:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

@@ -81,4 +81,4 @@ GroupDocs.Metadata skutečně podporuje širokou škálu formátů souborů, vč
  Ano, máte přístup k a[zkušební verze zdarma](https://releases.groupdocs.com/) prozkoumat funkce GroupDocs.Metadata.
 
 ### Jak si mohu zakoupit licenci pro GroupDocs.Metadata?
- Chcete-li získat licenci, navštivte stránku[nákupní stránku](https://purchase.groupdocs.com/buy) K dispozici jsou také dočasné licence[zde](https://purchase.groupdocs.com/temporary-license/).
+ Chcete-li získat licenci, navštivte stránku[nákupní stránku](https://purchase.groupdocs.com/buy) . K dispozici jsou také dočasné licence[zde](https://purchase.groupdocs.com/temporary-license/).

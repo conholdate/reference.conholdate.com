@@ -13,7 +13,7 @@ Aspose.Drawing untuk .NET memungkinkan pengembang membuat grafik canggih melalui
 
 ## Prasyarat
 
-1. Aspose.Drawing untuk .NET: Unduh dan instal dari[Di Sini](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing untuk .NET: Unduh dan instal dari[Di Sini](https://releases.aspose.com/drawing/net/).
 2. Direktori Dokumen: Pilih direktori untuk menyimpan gambar Anda.
 3. Pengetahuan Dasar .NET: Keakraban dengan C# dan konsep pemrograman grafis.
 

@@ -38,7 +38,7 @@ using System.IO;
 ## Passaggio 1: creare l'immagine e salvare lo streaming
 
 ```csharp
-//Definisci la directory in cui salvare l'immagine
+// Definisci la directory in cui salvare l'immagine
 string dataDir = "Your Document Directory"; // Aggiorna questo al tuo percorso preferito
 
 // Crea un flusso per salvare l'immagine BMP

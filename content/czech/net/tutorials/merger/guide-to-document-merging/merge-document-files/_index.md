@@ -9,14 +9,14 @@ url: /cs/net/tutorials/merger/guide-to-document-merging/merge-document-files/
 ---
 ## Zavedení
 
-tomto tutoriálu prozkoumáme, jak sloučit soubory DOC pomocí GroupDocs.Merger for .NET, výkonného API navrženého pro vývojáře k programové kombinaci, rozdělení a manipulaci s různými formáty dokumentů, včetně souborů DOC. Poskytneme vám průvodce krok za krokem, který vám tento proces usnadní.
+V tomto tutoriálu prozkoumáme, jak sloučit soubory DOC pomocí GroupDocs.Merger for .NET, výkonného rozhraní API navrženého pro vývojáře k programové kombinaci, rozdělení a manipulaci s různými formáty dokumentů, včetně souborů DOC. Poskytneme vám průvodce krok za krokem, který vám tento proces usnadní.
 
 ## Předpoklady
 
 Než začnete, ujistěte se, že máte následující:
 
 1. Visual Studio: Nainstalujte Visual Studio na vývojový stroj.
-2.  GroupDocs.Merger pro .NET: Stáhněte si knihovnu z[webové stránky](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger pro .NET: Stáhněte si knihovnu z[webové stránky](https://releases.groupdocs.com/merger/net/).
 3. Základní znalost C#: Doporučuje se znalost programovacího jazyka C#.
 
 ## Importujte požadované jmenné prostory
@@ -46,7 +46,7 @@ Pomocí následujícího fragmentu kódu načtěte zdrojové soubory DOC, které
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Přidejte další soubor DOC ke sloučení
+    // Přidejte další soubor DOC ke sloučení
     merger.Join("path_to_second_doc.doc");
 
     // Sloučit soubory DOC a uložit výsledek
@@ -61,7 +61,7 @@ using (var merger = new Merger("path_to_first_doc.doc"))
 
 ## Závěr
 
-V tomto tutoriálu jsme si ukázali, jak sloučit soubory DOC pomocí GroupDocs.Merger pro .NET. Pomocí těchto kroků můžete efektivně kombinovat více souborů DOC do jednoho dokumentu programově. Toto API nabízí intuitivní a robustní řešení pro manipulaci s dokumenty ve vašich aplikacích .NET.
+tomto tutoriálu jsme si ukázali, jak sloučit soubory DOC pomocí GroupDocs.Merger pro .NET. Pomocí těchto kroků můžete efektivně kombinovat více souborů DOC do jednoho dokumentu programově. Toto API nabízí intuitivní a robustní řešení pro manipulaci s dokumenty ve vašich aplikacích .NET.
 
 ## FAQ
 
@@ -75,7 +75,7 @@ Absolutně je kompatibilní s .NET Core i .NET Framework.
 
 ### Vyžaduje to licenci pro komerční použití?
 
-Ano, pro komerční využití je nutná platná licence. Licenci si můžete zakoupit od[GroupDocs](https://purchase.groupdocs.com/buy).
+ Ano, pro komerční využití je nutná platná licence. Licenci si můžete zakoupit od[GroupDocs](https://purchase.groupdocs.com/buy).
 
 ### Mohu vyzkoušet GroupDocs.Merger for .NET zdarma?
 
@@ -83,4 +83,4 @@ Ano, pro komerční využití je nutná platná licence. Licenci si můžete zak
 
 ### Kde mohu získat technickou podporu pro GroupDocs.Merger pro .NET?
 
- Technickou pomoc a podporu komunity můžete vyhledat na[fórum GroupDocs](https://forum.groupdocs.com/c/merger/32).
+ Technickou pomoc a podporu komunity můžete vyhledat na[Fórum GroupDocs](https://forum.groupdocs.com/c/merger/32).

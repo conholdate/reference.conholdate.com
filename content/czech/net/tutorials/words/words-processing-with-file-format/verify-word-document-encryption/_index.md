@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Krok 3: Zjistěte formát souboru
 
- Nyní použijeme`DetectFileFormat` metoda z`FileFormatUtil`třídy pro shromažďování informací o formátu souboru. V tomto příkladu předpokládáme, že zašifrovaný dokument se jmenuje „Encrypted.docx“ a je umístěn v určeném adresáři:
+ Nyní použijeme`DetectFileFormat` metoda z`FileFormatUtil` třídy pro shromažďování informací o formátu souboru. V tomto příkladu předpokládáme, že zašifrovaný dokument se jmenuje „Encrypted.docx“ a je umístěn v určeném adresáři:
 
 ```csharp
 FileFormatInfo info = FileFormatUtil.DetectFileFormat(dataDir + "Encrypted.docx");
@@ -46,7 +46,7 @@ FileFormatInfo info = FileFormatUtil.DetectFileFormat(dataDir + "Encrypted.docx"
 
 ## Krok 4: Zkontrolujte, zda je dokument zašifrován
 
- Chcete-li zjistit, zda je dokument zašifrován, můžeme použít`IsEncrypted` majetek z`FileFormatInfo` objekt. Tato vlastnost se vrací`true` je-li dokument zašifrován, a`false` jinak. Výsledek zobrazíme v konzoli:
+ Chcete-li zjistit, zda je dokument zašifrován, můžeme použít`IsEncrypted` vlastnictvím`FileFormatInfo` objekt. Tato vlastnost se vrací`true` je-li dokument zašifrován, a`false` jinak. Výsledek zobrazíme v konzoli:
 
 ```csharp
 Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## Závěr
 
- A je to! Úspěšně jste ověřili stav šifrování dokumentu aplikace Word pomocí Aspose.Words for .NET. Je působivé, jak pár řádků kódu může zjednodušit takové úkoly. Pokud máte nějaké dotazy nebo narazíte na nějaké problémy, neváhejte se obrátit na[Aspose Support Forum](https://forum.aspose.com/c/words/8).
+ je to! Úspěšně jste ověřili stav šifrování dokumentu aplikace Word pomocí Aspose.Words for .NET. Je působivé, jak pár řádků kódu může zjednodušit takové úkoly. Pokud máte nějaké dotazy nebo narazíte na nějaké problémy, neváhejte se obrátit na[Aspose Support Forum](https://forum.aspose.com/c/words/8).
 
 ## FAQ
 

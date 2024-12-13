@@ -19,7 +19,7 @@ url: /zh-hant/net/tutorials/words/digital-signatures/set-digital-signature-provi
 2. 開發環境：Visual Studio 或任何 C# 相容 IDE。
 3.  Word 文件：帶有簽名行的文件（例如，`Signature line.docx`）。
 4. 數位憑證：A`.pfx`證書文件（例如，`morzal.pfx`）。
-5. C# 基礎：熟悉基本 C# 概念將會很有幫助。
+5. C# 基礎：熟悉基本 C# 概念將會有所幫助。
 
 現在，讓我們開始行動吧！
 
@@ -91,7 +91,7 @@ DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx",
 
 ## 結論
 
-恭喜！您已使用 Aspose.Words for .NET 在 Word 文件中成功設定簽名提供者 ID。此過程不僅可以保護您的文檔，還可以確保它們符合數位簽章標準。請隨意使用您自己的文件進行嘗試！
+恭喜！您已使用 Aspose.Words for .NET 在 Word 文件中成功設定了簽章提供者 ID。此過程不僅可以保護您的文檔，還可以確保它們符合數位簽章標準。請隨意使用您自己的文件進行嘗試！
 
 如果您有任何疑問或需要進一步協助，請查看下面的常見問題或訪問[Aspose 支援論壇](https://forum.aspose.com/c/words/8).
 

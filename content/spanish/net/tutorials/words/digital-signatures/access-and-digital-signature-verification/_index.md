@@ -16,7 +16,7 @@ url: /es/net/tutorials/words/digital-signatures/access-and-digital-signature-ver
 Antes de comenzar, asegúrese de tener listo lo siguiente:
 
 1. Visual Studio: asegúrese de que esté instalado en su máquina para codificar.
-2.  Aspose.Words para .NET: Descárguelo e instálelo desde[aquí](https://releases.aspose.com/words/net/)Si aún no lo has hecho, consigue tu prueba gratuita[aquí](https://releases.aspose.com/).
+2.  Aspose.Words para .NET: Descárguelo e instálelo desde[aquí](https://releases.aspose.com/words/net/) Si aún no lo has hecho, consigue tu prueba gratuita[aquí](https://releases.aspose.com/).
 3. Un documento de Word firmado digitalmente: tenga a mano un documento de Word con una firma digital para verificación.
 
 ## Importación de espacios de nombres
@@ -142,7 +142,7 @@ Sí, es compatible con todas las versiones de documentos de Microsoft Word, incl
 
 ### ¿Cómo puedo obtener una licencia temporal de Aspose.Words para .NET?
 
-Puede obtener una licencia temporal en[aquí](https://purchase.aspose.com/temporary-license/), lo que le permite explorar todas las funciones de la biblioteca sin limitaciones.
+ Puede obtener una licencia temporal en[aquí](https://purchase.aspose.com/temporary-license/), lo que le permite explorar todas las funciones de la biblioteca sin limitaciones.
 
 ### ¿Dónde puedo encontrar más documentación sobre Aspose.Words para .NET?
 

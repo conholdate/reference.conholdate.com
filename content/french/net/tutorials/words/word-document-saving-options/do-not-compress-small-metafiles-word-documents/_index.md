@@ -18,7 +18,7 @@ Avant de plonger, assurez-vous d’avoir les éléments suivants prêts :
 1.  Aspose.Words pour .NET : téléchargez et installez la dernière version à partir de[Sorties d'Aspose](https://releases.aspose.com/words/net/).
 2. Environnement de développement : utilisez Visual Studio ou tout autre IDE compatible.
 3. Compréhension de base de C# : une connaissance de C# et du framework .NET sera utile.
-4.  Licence Aspose : Pour déverrouiller complètement Aspose.Words, acquérir un[licence](https://purchase.aspose.com/buy)est recommandé. Alternativement, vous pouvez utiliser un[permis temporaire](https://purchase.aspose.com/temporary-license/) à des fins d'évaluation.
+4.  Licence Aspose : Pour déverrouiller complètement Aspose.Words, acquérir un[licence](https://purchase.aspose.com/buy) est recommandé. Alternativement, vous pouvez utiliser un[permis temporaire](https://purchase.aspose.com/temporary-license/) à des fins d'évaluation.
 
 ## Importation d'espaces de noms
 
@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Étape 3 : Configurer les options d’enregistrement
 
- Maintenant, configurez les options de sauvegarde pour utiliser la fonction « Ne pas compresser les petits métafichiers » avec le`DocSaveOptions` classe.
+ Maintenant, configurez les options de sauvegarde pour utiliser la fonction « Ne pas compresser les petits métafichiers » avec le`DocSaveOptions`classe.
 
 ```csharp
 // Configurer les options de sauvegarde avec la fonction « Ne pas compresser les petits métafichiers »
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- Cette étape crée une instance de`DocSaveOptions`et définit le`Compliance` propriété à`PdfCompliance.PdfA1a`, garantissant que le document est conforme à la norme PDF/A-1a.
+ Cette étape crée une instance de`DocSaveOptions` et définit le`Compliance` propriété à`PdfCompliance.PdfA1a`, garantissant que le document est conforme à la norme PDF/A-1a.
 
 ## Étape 4 : Enregistrer le document
 
 Enfin, enregistrez le document en utilisant les options configurées, en vous assurant que les petits métafichiers ne sont pas compressés.
 
 ```csharp
-// Enregistrer le document avec les options spécifiées
+//Enregistrer le document avec les options spécifiées
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ Absolument ! Aspose.Words pour .NET propose des options d'enregistrement configu
 
 ### Ai-je besoin d'une licence pour utiliser Aspose.Words pour .NET ?
 
- Bien que vous puissiez utiliser Aspose.Words pour .NET sans licence à des fins d'évaluation, une licence est nécessaire pour bénéficier de toutes les fonctionnalités. Vous pouvez acheter une licence[ici](https://purchase.aspose.com/buy) ou essayez un[permis temporaire](https://purchase.aspose.com/temporary-license/) pour évaluation.
+Bien que vous puissiez utiliser Aspose.Words pour .NET sans licence à des fins d'évaluation, une licence est nécessaire pour bénéficier de toutes les fonctionnalités. Vous pouvez acheter une licence[ici](https://purchase.aspose.com/buy) ou essayez un[permis temporaire](https://purchase.aspose.com/temporary-license/) pour évaluation.
 
 ### Comment puis-je m’assurer que mes documents sont conformes aux normes PDF/A ?
 

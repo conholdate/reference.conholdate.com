@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Speichern Sie das Dokument abschließend mit den konfigurierten Optionen. Dadurch wird eine neue Datei ohne Bildaufzählungszeichen erstellt.
 
 ```csharp
-// Speichern Sie das Dokument mit den angegebenen Optionen
+//Speichern Sie das Dokument mit den angegebenen Optionen
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

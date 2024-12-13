@@ -101,7 +101,7 @@ La conversion de présentations PowerPoint en HTML avec des images intégrées e
 Oui, Aspose.Slides prend en charge les animations lors de l'exportation. Cependant, la compatibilité des animations en HTML dépend de la complexité de la présentation d'origine.
 
 ### Quels autres formats peuvent être exportés à l'aide d'Aspose.Slides ?
-La bibliothèque prend en charge de nombreux formats, notamment PDF, PNG et SVG. Reportez-vous à la[documentation](https://reference.aspose.com/slides/net/) pour plus de détails.
+ La bibliothèque prend en charge de nombreux formats, notamment PDF, PNG et SVG. Reportez-vous à la[documentation](https://reference.aspose.com/slides/net/) pour plus de détails.
 
 ### Un support technique est-il disponible pour Aspose.Slides ?
  Oui, vous pouvez demander de l'aide sur le[Forum d'assistance Aspose](https://forum.aspose.com/c/slides/11).

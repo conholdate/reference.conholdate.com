@@ -15,7 +15,7 @@ Bij softwareontwikkeling, met name bij het werken met juridische documenten, con
 
 Voordat u begint, moet u ervoor zorgen dat u over het volgende beschikt:
 
-1.  GroupDocs.Comparison voor .NET: Download en installeer de bibliotheek van[hier](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison voor .NET: Download en installeer de bibliotheek van[hier](https://releases.groupdocs.com/comparison/net/).
 2. Basiskennis van C#: Voor deze tutorial wordt ervan uitgegaan dat u bekend bent met C#-programmering.
 3. Integrated Development Environment (IDE): Gebruik een IDE zoals Visual Studio voor codering.
 4. Te vergelijken documenten: bereid de documenten voor die u wilt vergelijken en zorg ervoor dat ze toegankelijk zijn vanuit uw C#-code.
@@ -96,4 +96,4 @@ Absoluut! GroupDocs.Comparison voor .NET biedt verschillende aanpassingsopties o
 
 ### Waar kan ik hulp of ondersteuning krijgen met betrekking tot GroupDocs.Comparison voor .NET?
 
-Voor hulp kunt u terecht op het GroupDocs.Comparison forum[hier](https://forum.groupdocs.com/c/comparison/12).
+ Voor hulp kunt u terecht op het GroupDocs.Comparison forum[hier](https://forum.groupdocs.com/c/comparison/12).

@@ -2,7 +2,7 @@
 title: 使用特定編碼檢視文件的綜合指南
 linktitle: 使用特定編碼檢視文件的綜合指南
 second_title: GroupDocs.Viewer .NET API
-description: 了解如何使用 GroupDocs.Viewer for .NET 將文件檢視功能整合到您的 .NET 應用程式中。本詳細指南將引導您完成安裝、設定和渲染各種文件格式。
+description: 了解如何使用 GroupDocs.Viewer for .NET 將文件檢視功能整合到 .NET 應用程式中。本詳細指南將引導您完成安裝、設定和渲染各種文件格式。
 type: docs
 weight: 11
 url: /zh-hant/net/tutorials/viewer/advanced-document-loading/document-viewing-with-specific-encoding/

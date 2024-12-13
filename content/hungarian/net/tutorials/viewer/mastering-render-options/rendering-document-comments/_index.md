@@ -63,7 +63,7 @@ options.RenderComments = true; // Megjegyzések megjelenítésének engedélyez�
 ```
 
 ## 5. lépés: Rendelje meg a dokumentumot megjegyzésekkel
- Hívja a`View` módszer a`Viewer` objektumot a beállított opciókkal.
+ Hívja a`View`módszer a`Viewer` objektumot a beállított opciókkal.
 
 ```csharp
 viewer.View(options);

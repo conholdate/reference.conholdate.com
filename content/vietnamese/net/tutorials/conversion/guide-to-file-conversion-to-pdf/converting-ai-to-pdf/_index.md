@@ -17,7 +17,7 @@ Trước khi bắt đầu chuyển đổi tệp, hãy đảm bảo bạn đã th
 
 ### Cài đặt GroupDocs.Conversion cho .NET
 
-Bạn có thể tải xuống GroupDocs.Conversion cho .NET từ[trang web](https://releases.groupdocs.com/conversion/net/). Đảm bảo bạn cài đặt nó theo đúng yêu cầu của dự án.
+ Bạn có thể tải xuống GroupDocs.Conversion cho .NET từ[trang web](https://releases.groupdocs.com/conversion/net/). Đảm bảo bạn cài đặt nó theo đúng yêu cầu của dự án.
 
 ### Tệp AI nguồn
 
@@ -59,7 +59,7 @@ Tiếp theo, thiết lập bất kỳ tùy chọn cụ thể nào bạn có th�
 ```csharp
     var options = new PdfConvertOptions();
 ```
- Bằng cách tạo ra một trường hợp của`PdfConvertOptions`bạn có thể tùy chỉnh các thiết lập như kích thước trang, lề, v.v. Mặc dù tùy chọn này nhưng nó mang lại cho bạn sự linh hoạt cho các yêu cầu cụ thể.
+ Bằng cách tạo ra một trường hợp của`PdfConvertOptions`, bạn có thể tùy chỉnh các thiết lập như kích thước trang, lề, v.v. Mặc dù tùy chọn này nhưng nó mang lại cho bạn sự linh hoạt cho các yêu cầu cụ thể.
 
 ## Bước 3: Thực hiện chuyển đổi
 

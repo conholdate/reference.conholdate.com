@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## चरण 3: दस्तावेज़ से मेटाडेटा लोड करें
 
- का उपयोग`Metadata` क्लास में, आप निर्दिष्ट दस्तावेज़ से मेटाडेटा लोड कर सकते हैं। प्रतिस्थापित करना याद रखें`"YourInputFile"` अपने दस्तावेज़ के पथ के साथ:
+ का उपयोग`Metadata` क्लास में, आप निर्दिष्ट दस्तावेज़ से मेटाडेटा लोड कर सकते हैं। प्रतिस्थापित करना याद रखें`"YourInputFile"`अपने दस्तावेज़ के पथ के साथ:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

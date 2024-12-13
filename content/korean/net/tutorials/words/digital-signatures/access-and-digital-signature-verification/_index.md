@@ -16,7 +16,7 @@ url: /ko/net/tutorials/words/digital-signatures/access-and-digital-signature-ver
 시작하기 전에 다음 사항을 준비하세요.
 
 1. Visual Studio: 코딩을 위해 컴퓨터에 설치되어 있는지 확인하세요.
-2.  Aspose.Words for .NET: 여기에서 다운로드하고 설치하세요.[여기](https://releases.aspose.com/words/net/)아직 사용하지 않으셨다면 무료 체험판을 받아보세요.[여기](https://releases.aspose.com/).
+2.  Aspose.Words for .NET: 여기에서 다운로드하고 설치하세요.[여기](https://releases.aspose.com/words/net/) 아직 사용하지 않으셨다면 무료 체험판을 받아보세요.[여기](https://releases.aspose.com/).
 3. 디지털 서명된 Word 문서: 확인을 위해 디지털 서명이 있는 Word 문서를 준비해 두세요.
 
 ## 네임스페이스 가져오기
@@ -142,7 +142,7 @@ catch (Exception ex)
 
 ### Aspose.Words for .NET에 대한 임시 라이선스를 받으려면 어떻게 해야 하나요?
 
-임시면허는 다음에서 받을 수 있습니다.[여기](https://purchase.aspose.com/temporary-license/), 제한 없이 라이브러리의 모든 기능을 탐색할 수 있습니다.
+ 임시면허는 다음에서 받을 수 있습니다.[여기](https://purchase.aspose.com/temporary-license/), 제한 없이 라이브러리의 모든 기능을 탐색할 수 있습니다.
 
 ### .NET용 Aspose.Words에 대한 추가 문서는 어디에서 찾을 수 있나요?
 

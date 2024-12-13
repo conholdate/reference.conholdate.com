@@ -96,7 +96,7 @@ Console.WriteLine($"\nDocument saved successfully.\nCheck output in {outputPath}
 
 ### 我可以將多個按鈕元件新增到單一 PDF 文件中嗎？
 
-是的，您可以根據需要向 PDF 文件添加任意數量的按鈕元件。
+是的，您可以根據需要在 PDF 文件中新增任意數量的按鈕元件。
 
 ### GroupDocs.Annotation for .NET 支援其他檔案格式嗎？
 

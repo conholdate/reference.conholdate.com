@@ -55,7 +55,7 @@ doc.Sections[1].Remove();
 
 ## Következtetés
 
- Az Aspose.Words for .NET segítségével a Word dokumentumok kezelése hatékony és egyszerű. A szakaszok törlése csak egy a számos hatékony funkció közül, amelyek rendelkezésére áll. Feltétlenül fedezze fel a kiterjedt[dokumentáció](https://reference.aspose.com/words/net/) hogy további lehetőségeket fedezzen fel, amelyek javíthatják dokumentumfeldolgozási feladatait.
+Az Aspose.Words for .NET segítségével a Word dokumentumok kezelése hatékony és egyszerű. A szakaszok törlése csak egy a számos hatékony funkció közül, amelyek rendelkezésére áll. Feltétlenül fedezze fel a kiterjedt[dokumentáció](https://reference.aspose.com/words/net/) hogy további lehetőségeket fedezzen fel, amelyek javíthatják dokumentumfeldolgozási feladatait.
 
 ## GYIK
 

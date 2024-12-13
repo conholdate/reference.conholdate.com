@@ -101,7 +101,7 @@ Félicitations ! Vous avez intégré avec succès des polices au format Base64 
 
 ### Qu'est-ce que l'encodage Base64 ?
 
-Base64 est une méthode de codage de données binaires (comme les polices) dans un format texte. Elle transforme les données binaires en format de chaîne ASCII, permettant une intégration transparente dans des formats textuels comme HTML.
+Base64 est une méthode d'encodage de données binaires (comme les polices) dans un format texte. Elle transforme les données binaires en format de chaîne ASCII, permettant une intégration transparente dans des formats textuels comme HTML.
 
 ### Pourquoi devrais-je utiliser Base64 pour les polices en HTML ?
 

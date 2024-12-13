@@ -15,7 +15,7 @@ Jika ingin membuat aplikasi .NET yang kaya fitur dengan kemampuan penyuntingan g
  Pernahkah Anda ingin memangkas bagian gambar yang tidak diperlukan dan fokus pada bagian yang benar-benar penting? Dengan[Pemotongan Gambar dengan Aspose.Drawing di .NET](./image-cropping/) tutorial ini, Anda akan mempelajari cara memotong gambar langkah demi langkah. Mulai dari memuat Bitmap hingga menentukan persegi panjang pemotongan, semuanya tercakup. Ditambah lagi, Anda akan menemukan cara menyimpan gambar yang dimodifikasi dalam berbagai format. Ini seperti memberikan potongan rambut profesional pada gambar Anda!  
 
 ## Tampilan Gambar dengan Aspose.Drawing  
- Apa gunanya aplikasi tanpa visual yang memukau?[Tampilan Gambar dengan Aspose.Drawing di .NET](./image-display/) tutorial ini hadir untuk membantu Anda menguasainya. Panduan ini memandu Anda melalui proses memuat dan merender gambar langsung dalam aplikasi .NET Anda. Semudah menyalakan sakelar lampu! Baik itu menampilkan logo perusahaan atau galeri foto, tutorial ini memastikan Anda berhasil setiap saat.
+ Apa gunanya aplikasi tanpa visual yang memukau?[Tampilan Gambar dengan Aspose.Drawing di .NET](./image-display/) tutorial ini akan membantu Anda menguasainya. Panduan ini memandu Anda melalui proses memuat dan merender gambar langsung dalam aplikasi .NET Anda. Semudah menyalakan sakelar lampu! Baik itu menampilkan logo perusahaan atau galeri foto, tutorial ini memastikan Anda berhasil setiap saat.
   
 ## Tutorial Mengedit Gambar Master
 ### [Pemotongan Gambar dengan Aspose.Drawing di .NET](./image-cropping/)

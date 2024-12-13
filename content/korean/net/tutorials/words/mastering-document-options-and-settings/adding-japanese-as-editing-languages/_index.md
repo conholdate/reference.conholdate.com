@@ -99,10 +99,10 @@ Console.WriteLine(
  네, 상업적 사용에는 라이센스가 필요합니다. 하나를 구매할 수 있습니다.[여기](https://purchase.aspose.com/buy) 또는 임시 면허를 취득하다[여기](https://purchase.aspose.com/temporary-license/).
 
 ### Aspose.Words for .NET은 어떤 다른 기능을 제공합니까?
- Aspose.Words for .NET은 문서 생성, 변환 및 조작을 포함한 광범위한 기능을 제공합니다. 탐색[선적 서류 비치](https://reference.aspose.com/words/net/) 자세한 내용은.
+Aspose.Words for .NET은 문서 생성, 변환 및 조작을 포함한 광범위한 기능을 제공합니다. 탐색[선적 서류 비치](https://reference.aspose.com/words/net/) 자세한 내용은.
 
 ### 구매하기 전에 Aspose.Words for .NET을 사용해볼 수 있나요?
  물론입니다! 무료 체험판을 다운로드할 수 있습니다.[여기](https://releases.aspose.com/).
 
 ### Aspose.Words for .NET에 대한 지원은 어디에서 받을 수 있나요?
-Aspose 커뮤니티에서 지원을 받을 수 있습니다.[여기](https://forum.aspose.com/c/words/8).
+ Aspose 커뮤니티에서 지원을 받을 수 있습니다.[여기](https://forum.aspose.com/c/words/8).

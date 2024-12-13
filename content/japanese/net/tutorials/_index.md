@@ -137,7 +137,7 @@ Aspose.TeX for .NET を使用すると、LaTeX デザインを簡単に習得で
 
 ## Aspose.Note
 {{% alert color="primary" %}}
-包括的なチュートリアルで Aspose.Note for .NET をマスターし、添付ファイル、ハイパーリンク、画像などを詳しく調べます。OneNote ドキュメントの操作性を向上させます。
+包括的なチュートリアルで Aspose.Note for .NET をマスターしましょう。添付ファイル、ハイパーリンク、画像などを詳しく調べます。OneNote ドキュメントの操作性を向上させます。
 {{% /alert %}}
 
 ### Aspose.Note チュートリアル

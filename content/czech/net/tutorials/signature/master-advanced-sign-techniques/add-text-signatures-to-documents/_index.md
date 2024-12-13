@@ -9,7 +9,7 @@ url: /cs/net/tutorials/signature/master-advanced-sign-techniques/add-text-signat
 ---
 ## Zavedení
 
-V dnešním digitálním prostředí se elektronické podepisování dokumentů stalo nezbytným pro zefektivnění pracovních postupů a úsporu zdrojů. GroupDocs.Signature for .NET poskytuje výkonné řešení pro programové přidávání textových podpisů do různých formátů dokumentů. Tento tutoriál vás provede kroky k podepsání dokumentu pomocí textu pomocí GroupDocs.Signature for .NET.
+dnešním digitálním prostředí se elektronické podepisování dokumentů stalo nezbytným pro zefektivnění pracovních postupů a úsporu zdrojů. GroupDocs.Signature for .NET poskytuje výkonné řešení pro programové přidávání textových podpisů do různých formátů dokumentů. Tento tutoriál vás provede kroky k podepsání dokumentu pomocí textu pomocí GroupDocs.Signature for .NET.
 
 ## Předpoklady
 
@@ -56,7 +56,7 @@ Nakonfigurujte možnosti pro váš textový podpis, včetně obsahu, pozice, vel
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // pozice X
+    Left = 50, //pozice X
     Top = 200, // Y pozice
     Width = 100, // Šířka podpisu
     Height = 30, // Výška podpisu

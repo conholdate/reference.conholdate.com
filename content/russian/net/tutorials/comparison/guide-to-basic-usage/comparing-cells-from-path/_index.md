@@ -85,7 +85,7 @@ GroupDocs.Comparison для .NET в первую очередь совмести
 
 ### Как я могу получить поддержку по GroupDocs.Comparison для .NET?
 
- Для получения поддержки посетите сообщество GroupDocs.Comparison[форум](https://forum.groupdocs.com/c/comparison/12).
+Для получения поддержки посетите сообщество GroupDocs.Comparison[форум](https://forum.groupdocs.com/c/comparison/12).
 
 ### Где можно приобрести лицензию на GroupDocs.Comparison для .NET?
 

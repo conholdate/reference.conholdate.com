@@ -9,13 +9,13 @@ url: /ja/net/tutorials/words/mastering-document-options-and-settings/document-pa
 ---
 ## 導入
 
-ドキュメントのページ レイアウトを設定するのは大変な作業ですが、Aspose.Words for .NET を使用すると、思ったよりも簡単です。詳細なレポートを作成する場合でも、クリエイティブな作品をフォーマットする場合でも、適切に構成されたドキュメントが重要です。このガイドでは、ドキュメントのレイアウトを効果的に管理するための重要な手順を説明します。
+ドキュメントのページ レイアウトを設定するのは大変な作業ですが、Aspose.Words for .NET を使用すると、思ったよりも簡単です。詳細なレポートを作成する場合でも、クリエイティブな作品をフォーマットする場合でも、適切に構成されたドキュメントが鍵となります。このガイドでは、ドキュメントのレイアウトを効果的に管理するための重要な手順を説明します。
 
 ## 前提条件
 
 始める前に、以下のものを用意してください。
 
--  Aspose.Words for .NET: ダウンロード[ここ](https://releases.aspose.com/words/net/).
+- Aspose.Words for .NET: ダウンロード[ここ](https://releases.aspose.com/words/net/).
 - 有効なライセンス: 1つ購入[ここ](https://purchase.aspose.com/buy)または一時ライセンスを取得する[ここ](https://purchase.aspose.com/temporary-license/).
 - C# プログラミングの基本的な理解: 心配しないでください。簡単に説明します。
 - 統合開発環境 (IDE): Visual Studio を強くお勧めします。

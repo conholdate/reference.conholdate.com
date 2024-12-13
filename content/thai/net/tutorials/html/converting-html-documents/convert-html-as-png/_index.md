@@ -17,7 +17,7 @@ url: /th/net/tutorials/html/converting-html-documents/convert-html-as-png/
 
 1.  .NET Framework/ .NET Core: ตรวจสอบให้แน่ใจว่าคุณได้ติดตั้ง .NET Framework หรือ .NET Core ไว้ในเครื่องของคุณแล้ว คุณสามารถดาวน์โหลดได้[.NET ที่นี่](https://dotnet.microsoft.com/download).
 
-2.  Aspose.HTML สำหรับไลบรารี .NET: คุณจะต้องมีไลบรารี Aspose.HTML คุณสามารถดาวน์โหลดได้[ที่นี่](https://releases.aspose.com/html/net/)หรือลองใช้งานฟรีด้วย[ทดลองใช้งานฟรี](https://releases.aspose.com/).
+2.  Aspose.HTML สำหรับไลบรารี .NET: คุณจะต้องมีไลบรารี Aspose.HTML คุณสามารถดาวน์โหลดได้[ที่นี่](https://releases.aspose.com/html/net/) หรือลองใช้งานฟรีด้วย[ทดลองใช้งานฟรี](https://releases.aspose.com/).
 
 3. IDE: แนะนำให้ใช้สภาพแวดล้อมการพัฒนาแบบบูรณาการ (IDE) ที่เหมาะสม เช่น Visual Studio สำหรับการเขียนและรันโค้ดของคุณ
 
@@ -53,7 +53,7 @@ using Aspose.Html.Rendering.Image;
 string dataDir = "Your Data Directory"; // ระบุเส้นทางไดเร็กทอรีของคุณ
 ```
 
--  แทนที่`"Your Data Directory"` ด้วยเส้นทางที่คุณต้องการเก็บไฟล์ PNG เอาต์พุตของคุณ อาจเป็นอะไรทำนองนี้`@"C:\work\"`.
+-  แทนที่`"Your Data Directory"`ด้วยเส้นทางที่คุณต้องการเก็บไฟล์ PNG เอาต์พุตของคุณ อาจเป็นอะไรทำนองนี้`@"C:\work\"`.
 
 ## ขั้นตอนที่ 2: สร้างวัตถุเอกสาร HTML
 
@@ -79,7 +79,7 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  การ`HtmlRenderer`เป็นอ็อบเจ็กต์หลักของคุณในการแปลงเนื้อหา HTML ให้เป็นรูปภาพ โดยจะจัดการกระบวนการเรนเดอร์เบื้องหลัง ดังนั้นคุณจึงสามารถมุ่งเน้นไปที่สิ่งที่คุณต้องการได้!
+-  การ`HtmlRenderer` เป็นอ็อบเจ็กต์หลักของคุณในการแปลงเนื้อหา HTML ให้เป็นรูปภาพ โดยจะจัดการกระบวนการเรนเดอร์เบื้องหลัง ดังนั้นคุณจึงสามารถมุ่งเน้นไปที่สิ่งที่คุณต้องการได้!
 
 ## ขั้นตอนที่ 4: ตั้งค่าอุปกรณ์รับภาพ
 

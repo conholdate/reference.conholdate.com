@@ -82,7 +82,7 @@ Console.WriteLine("Are the baselines equal? " + areEqual);
 var assignment = project.ResourceAssignments.GetByUid(3);
 var baseline = assignment.Baselines.First();
 
-baseline.Cost += 1000;  // Προσαρμογή του βασικού κόστους
+baseline.Cost += 1000;  // Προσαρμογή βασικού κόστους
 baseline.Work = baseline.Work.Add(TimeSpan.FromHours(10));  // Προσθήκη ωρών εργασίας
 
 Console.WriteLine("Modified Baseline Cost: " + baseline.Cost);

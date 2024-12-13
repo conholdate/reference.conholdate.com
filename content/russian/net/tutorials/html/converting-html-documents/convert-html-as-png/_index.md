@@ -17,7 +17,7 @@ url: /ru/net/tutorials/html/converting-html-documents/convert-html-as-png/
 
 1.  .NET Framework/ .NET Core: Убедитесь, что на вашем компьютере установлен .NET Framework или .NET Core. Вы можете скачать[.NET здесь](https://dotnet.microsoft.com/download).
 
-2.  Библиотека Aspose.HTML для .NET: Вам понадобится библиотека Aspose.HTML. Вы можете загрузить ее[здесь](https://releases.aspose.com/html/net/)или попробуйте бесплатно с[бесплатная пробная версия](https://releases.aspose.com/).
+2.  Библиотека Aspose.HTML для .NET: Вам понадобится библиотека Aspose.HTML. Вы можете загрузить ее[здесь](https://releases.aspose.com/html/net/) или попробуйте бесплатно с[бесплатная пробная версия](https://releases.aspose.com/).
 
 3. IDE: Для написания и запуска кода рекомендуется использовать подходящую интегрированную среду разработки (IDE), например Visual Studio.
 
@@ -53,7 +53,7 @@ using Aspose.Html.Rendering.Image;
 string dataDir = "Your Data Directory"; // Укажите путь к каталогу
 ```
 
--  Заменять`"Your Data Directory"` с путем, где вы хотите сохранить ваши выходные файлы PNG. Это может быть что-то вроде`@"C:\work\"`.
+-  Заменять`"Your Data Directory"`с путем, где вы хотите сохранить ваши выходные файлы PNG. Это может быть что-то вроде`@"C:\work\"`.
 
 ## Шаг 2: Создание объекта HTML-документа
 
@@ -79,11 +79,11 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  The`HtmlRenderer`ваш объект для превращения HTML-контента в изображения. Он обрабатывает процесс рендеринга под капотом, так что вы можете сосредоточиться на том, что вам нужно!
+-  The`HtmlRenderer` ваш объект для превращения HTML-контента в изображения. Он обрабатывает процесс рендеринга под капотом, так что вы можете сосредоточиться на том, что вам нужно!
 
 ## Шаг 4: Настройка устройства обработки изображений
 
- Теперь пришло время подготовить`ImageDevice`. Это цель нашего процесса рендеринга, в ходе которого будет создано финальное изображение PNG.
+ Теперь пришло время подготовить`ImageDevice`Это цель нашего процесса рендеринга, в ходе которого будет создано финальное изображение PNG.
 
 ```csharp
 using (ImageDevice device = new ImageDevice(dataDir + @"document_out.png"))

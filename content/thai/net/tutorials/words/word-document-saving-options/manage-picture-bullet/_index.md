@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 สุดท้าย ให้บันทึกเอกสารโดยใช้ตัวเลือกที่กำหนดค่าไว้ ซึ่งจะสร้างไฟล์ใหม่โดยไม่มีเครื่องหมายหัวข้อรูปภาพ
 
 ```csharp
-// บันทึกเอกสารด้วยตัวเลือกที่ระบุ
+//บันทึกเอกสารด้วยตัวเลือกที่ระบุ
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

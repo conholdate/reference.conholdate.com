@@ -102,7 +102,7 @@ Gratulálok! Most tanulta meg, hogyan adhat szakaszokat egy Word-dokumentumhoz a
 
 ### Mi az a szakasz egy Word dokumentumban?
 
-A szakasz egy szegmens a Word-dokumentumban, amelynek saját elrendezése és formázása lehet, például fejlécek, láblécek és oszlopok, amelyek segítik a tartalom kezelhető részekre strukturálását.
+A szakasz egy szegmens a Word-dokumentumban, amelynek saját elrendezése és formázása lehet, például fejlécek, láblécek és oszlopok, amelyek segítenek a tartalom kezelhető részekre strukturálásában.
 
 ### Hozzáadhatok több szakaszt egy Word dokumentumhoz?
 

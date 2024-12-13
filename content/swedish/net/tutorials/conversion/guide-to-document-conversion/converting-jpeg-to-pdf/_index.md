@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // Skapa PDF-konverteringsalternativ
 ```
 
 ## Steg 4: Utför konverteringen
- Åberopa`Convert`metod för att utföra formatändringen. Skicka in din utdatafilsökväg tillsammans med konverteringsalternativen:
+ Åberopa`Convert` metod för att utföra formatändringen. Skicka in din utdatafilsökväg tillsammans med konverteringsalternativen:
 
 ```csharp
-converter.Convert(outputFile, options); // Utför konverteringen
+converter.Convert(outputFile, options); //Utför konverteringen
 ```
 
 ## Steg 5: Visa ett meddelande om slutförande
@@ -92,4 +92,4 @@ Biblioteket stöder ett brett utbud av format, inklusive bilder, dokument, kalky
  Ja, du kan ladda ner en testversion från[GroupDocs webbplats](https://releases.groupdocs.com/).
 
 ### Var kan jag få support angående GroupDocs.Conversion for .NET?
- För hjälp, besök[GroupDocs.Conversion-forum](https://forum.groupdocs.com/c/conversion/11) att få kontakt med samhället och söka hjälp.
+För hjälp, besök[GroupDocs.Conversion-forum](https://forum.groupdocs.com/c/conversion/11) att få kontakt med samhället och söka hjälp.

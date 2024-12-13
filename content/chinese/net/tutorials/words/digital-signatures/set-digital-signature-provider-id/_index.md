@@ -42,7 +42,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Signature line.docx");
 ```
 
-确保更换`"YOUR DOCUMENT DIRECTORY"`使用存储文档的实际路径。
+确保更换`"YOUR DOCUMENT DIRECTORY"`使用您的文档存储的实际路径。
 
 ## 步骤 3：访问签名行
 

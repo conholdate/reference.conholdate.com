@@ -7,7 +7,7 @@ type: docs
 weight: 1520
 url: /id/net/tutorials/words/mastering-document-properties/
 ---
-##Perkenalan  
+## Perkenalan  
 
 Aspose.Words untuk .NET menawarkan berbagai fitur canggih untuk memanipulasi dokumen Word, sehingga memudahkan pengelolaan metadata dan pemformatan. Salah satu fitur tersebut adalah menguasai properti dokumen. Dalam artikel ini, kita akan menyelami tutorial yang mencakup penambahan properti dokumen kustom, penghapusan metadata yang tidak diperlukan, dan bahkan mengonversi unit pengukuran untuk manajemen dokumen yang lebih baik. Mari kita bahas bagaimana tutorial ini dapat membantu meningkatkan alur kerja Anda.
 

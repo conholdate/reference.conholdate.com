@@ -61,7 +61,7 @@ string dataDir = "Your Data Directory";
 
 ## Bước 2: Mở Tài liệu EPUB để Đọc
 
- Sử dụng`File.OpenRead` phương pháp, bạn có thể mở tài liệu EPUB để đọc. Điều này cho phép ứng dụng của bạn truy cập vào nội dung của tệp EPUB.
+ Sử dụng`File.OpenRead`phương pháp, bạn có thể mở tài liệu EPUB để đọc. Điều này cho phép ứng dụng của bạn truy cập vào nội dung của tệp EPUB.
 
 ```csharp
 using (var fs = File.OpenRead(dataDir + "document.epub"))
@@ -111,4 +111,4 @@ Với Aspose.HTML, bạn có thể chuyển đổi EPUB sang nhiều định d�
  Bạn có thể nhận được hỗ trợ bằng cách truy cập[Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/html/29).
 
 ### Làm thế nào để tôi có được giấy phép tạm thời cho Aspose.HTML?
-Bạn có thể xin giấy phép tạm thời từ[trang này](https://purchase.conholdate.com/temporary-license/).
+ Bạn có thể xin giấy phép tạm thời từ[trang này](https://purchase.conholdate.com/temporary-license/).

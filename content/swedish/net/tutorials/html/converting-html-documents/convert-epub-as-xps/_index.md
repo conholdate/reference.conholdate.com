@@ -61,7 +61,7 @@ string dataDir = "Your Data Directory";
 
 ## Steg 2: Öppna EPUB-dokumentet för läsning
 
- Med hjälp av`File.OpenRead` metod kan du öppna EPUB-dokumentet för läsning. Detta gör att din applikation kan komma åt innehållet i EPUB-filen.
+ Med hjälp av`File.OpenRead`metod kan du öppna EPUB-dokumentet för läsning. Detta gör att din applikation kan komma åt innehållet i EPUB-filen.
 
 ```csharp
 using (var fs = File.OpenRead(dataDir + "document.epub"))
@@ -111,4 +111,4 @@ Med Aspose.HTML kan du konvertera EPUB till olika format inklusive XPS, PDF och 
  Du kan få stöd genom att besöka[Aspose supportforum](https://forum.aspose.com/c/html/29).
 
 ### Hur får jag en tillfällig licens för Aspose.HTML?
-Du kan få en tillfällig licens från[denna sida](https://purchase.conholdate.com/temporary-license/).
+ Du kan få en tillfällig licens från[denna sida](https://purchase.conholdate.com/temporary-license/).

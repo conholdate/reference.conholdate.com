@@ -167,13 +167,13 @@ Níže jsou uvedeny odkazy na některé užitečné zdroje, které můžete pot�
 
 **Welcome to the GroupDocs.Viewer for Java**
 
-Výkonná komponenta prohlížeče dokumentů, která vám umožňuje zobrazit více než 50 formátů dokumentů ve vašich aplikacích Java. Prohlížeč může dokumenty jak rastrovat, tak je převádět do formátu SVG+HTML+CSS, čímž poskytuje vysoce věrné vykreslování skutečného textu. GroupDocs.Viewer umožňuje získat reprezentaci ve formátu HTML nebo obrázku pro celý dokument, stránku po stránce nebo vlastní rozsah stránek.
+Výkonná komponenta prohlížeče dokumentů, která vám umožňuje zobrazit více než 50 formátů dokumentů ve vašich aplikacích Java. Prohlížeč může dokumenty jak rastrovat, tak je převádět do SVG+HTML+CSS, čímž poskytuje vysoce věrné vykreslování skutečného textu. GroupDocs.Viewer umožňuje získat reprezentaci ve formátu HTML nebo obrázku pro celý dokument, stránku po stránce nebo vlastní rozsah stránek.
 
 {{% /alert %}} 
 ## **GroupDocs.Viewer for Java**
 Níže jsou uvedeny odkazy na některé užitečné zdroje, které můžete potřebovat ke splnění svých úkolů.
 
-- [Referenční příručka GroupDocs.Viewer pro Java API](https://apireference.groupdocs.com/viewer/java)
+- [Referenční příručka rozhraní GroupDocs.Viewer for Java API](https://apireference.groupdocs.com/viewer/java)
 
 {{% alert color="primary" %}} 
 

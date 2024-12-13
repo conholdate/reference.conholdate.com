@@ -59,7 +59,7 @@ VectorLayer.Convert(sampleGeoJsonPath, Drivers.GeoJson, outputFilePath, Drivers.
 
 ## Következtetés
 
-A GeoJSON átalakítása TopoJSON-ra a térinformatikai adatkezelés kulcsfontosságú folyamata, amely leegyszerűsíti a földrajzi információk hatékony tárolását és továbbítását. Az Aspose.GIS for .NET esetében ez a funkció egyszerű, így elérhetővé válik a .NET-fejlesztők számára.
+A GeoJSON átalakítása TopoJSON-ra a térinformatikai adatkezelés kulcsfontosságú folyamata, amely ésszerűsíti a földrajzi információk hatékony tárolását és továbbítását. Az Aspose.GIS for .NET esetében ez a funkció egyszerű, így elérhetővé válik a .NET-fejlesztők számára.
 
 ## GYIK
 

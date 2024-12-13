@@ -63,7 +63,7 @@ options.RenderComments = true; // Aktivieren der Kommentardarstellung
 ```
 
 ## Schritt 5: Rendern Sie das Dokument mit Kommentaren
- Rufen Sie die`View` Methode auf der`Viewer` Objekt mit den konfigurierten Optionen.
+ Rufen Sie die`View`Methode auf der`Viewer` Objekt mit den konfigurierten Optionen.
 
 ```csharp
 viewer.View(options);

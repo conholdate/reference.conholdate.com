@@ -15,7 +15,7 @@ Görüntü formatlarını etkin bir şekilde yönetmek ve dönüştürmek, profe
 
 Sorunsuz bir geliştirme deneyimi sağlamak için aşağıdaki ön koşulların karşılandığından emin olun:
 
-- Aspose.Words for .NET: En son sürümü edinin[Aspose sürüm sayfası](https://releases.aspose.com/words/net/).
+-  Aspose.Words for .NET: En son sürümü edinin[Aspose sürüm sayfası](https://releases.aspose.com/words/net/).
 - .NET Framework: .NET Framework'ün (veya ortamınıza bağlı olarak .NET Core/5/6'nın) kurulumunu doğrulayın.
 - Geliştirme Ortamı: Sağlam özellikleri nedeniyle Visual Studio önerilir.
 - C# Yeterliliği: C# programlamaya ilişkin temel bilgiye sahip olmak önemlidir.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## Adım 4: HTML'yi bir Word Belgesine Yükleyin
 
-Yapılandırılmış yükleme seçeneklerini kullanarak bir yükleme oluşturun`Document` HTML dizesinden nesne.
+ Yapılandırılmış yükleme seçeneklerini kullanarak bir yükleme oluşturun`Document` HTML dizesinden nesne.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

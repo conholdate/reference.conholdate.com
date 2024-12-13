@@ -99,10 +99,10 @@ Tebrikler! Aspose.Words for .NET kullanarak belgenize Japonca'yı düzenleme dil
  Evet, ticari kullanım için lisans gereklidir. Bir tane satın alabilirsiniz[Burada](https://purchase.aspose.com/buy) veya geçici bir lisans alın[Burada](https://purchase.aspose.com/temporary-license/).
 
 ### Aspose.Words for .NET başka hangi özellikleri sunuyor?
- Aspose.Words for .NET, belge oluşturma, dönüştürme ve düzenleme dahil olmak üzere çok çeşitli özellikler sunar.[belgeleme](https://reference.aspose.com/words/net/) Daha detaylı bilgi için.
+Aspose.Words for .NET, belge oluşturma, dönüştürme ve düzenleme dahil olmak üzere çok çeşitli özellikler sunar.[belgeleme](https://reference.aspose.com/words/net/) Daha detaylı bilgi için.
 
 ### Aspose.Words for .NET'i satın almadan önce deneyebilir miyim?
  Kesinlikle! Ücretsiz denemeyi indirebilirsiniz[Burada](https://releases.aspose.com/).
 
 ### Aspose.Words for .NET için desteği nereden alabilirim?
-Aspose topluluğundan destek alabilirsiniz[Burada](https://forum.aspose.com/c/words/8).
+ Aspose topluluğundan destek alabilirsiniz[Burada](https://forum.aspose.com/c/words/8).

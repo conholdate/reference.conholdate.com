@@ -16,7 +16,7 @@ url: /zh-hant/net/tutorials/ocr/optimization-ocr/guide-to-ocr-on-image-from-url/
 在開始之前，請確保您具備以下先決條件：
 
 -  Aspose.OCR for .NET：從以下位置下載 Aspose.OCR 庫並將其整合到您的 .NET 專案中：[發布頁面](https://releases.aspose.com/ocr/net/).
-- 開發環境：在您的電腦上設定.NET開發環境（建議使用Visual Studio）。
+- 開發環境：在您的電腦上設定.NET開發環境（建議Visual Studio）。
 
 ## 步驟1：導入必要的命名空間
 

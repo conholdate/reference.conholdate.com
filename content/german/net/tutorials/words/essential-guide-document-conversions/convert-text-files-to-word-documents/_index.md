@@ -28,10 +28,10 @@ using Aspose.Words;
 
 ## Schritt 1: Laden Sie die Textdatei
 
-Zuerst müssen Sie die Textdatei in ein Aspose.Words laden`Document` Objekt. So geht's:
+ Zuerst müssen Sie die Textdatei in ein Aspose.Words laden`Document` Objekt. So geht's:
 
 ```csharp
-// Geben Sie den Verzeichnispfad an, in dem sich Ihre Textdatei befindet
+//Geben Sie den Verzeichnispfad an, in dem sich Ihre Textdatei befindet
 string dataDir = "YOUR_DOCUMENT_DIRECTORY/";
 
 // Laden Sie die Textdatei in ein Dokumentobjekt

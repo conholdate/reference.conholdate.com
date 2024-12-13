@@ -1,7 +1,7 @@
 ---
 title: CGM till PDF-konvertering med Aspose.PDF för .NET
 linktitle: CGM till PDF-konvertering med Aspose.PDF för .NET
-second_title: Aspose.PDF för .NET API Referens
+second_title: Aspose.PDF för .NET API-referens
 description: Upptäck hur du enkelt konverterar CGM-filer (Computer Graphics Metafile) till PDF-format med Aspose.PDF för .NET. Perfekt för både utvecklare och designers.
 type: docs
 weight: 20
@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  Instantiera nu en`Document` objekt för att representera din CGM-fil i minnet. Detta gör att du kan manipulera filen innan du sparar den som en PDF.
 
 ```csharp
-//Instantiera dokumentobjekt
+// Instantiera dokumentobjekt
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ Absolut! Aspose.PDF stöder en mängd olika format, inklusive HTML, XML och bild
 
 ### Var kan jag hitta support för Aspose.PDF?
 
- För hjälp, besök[Aspose supportforum](https://forum.aspose.com/c/pdf/10), där du kan ställa frågor och hitta lösningar på vanliga problem.
+För hjälp, besök[Aspose supportforum](https://forum.aspose.com/c/pdf/10)där du kan ställa frågor och hitta lösningar på vanliga problem.
 
 ### Hur köper jag en licens för Aspose.PDF?
 

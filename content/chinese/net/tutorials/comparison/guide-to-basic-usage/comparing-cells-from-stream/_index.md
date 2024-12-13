@@ -15,7 +15,7 @@ url: /zh/net/tutorials/comparison/guide-to-basic-usage/comparing-cells-from-stre
 
 开始之前，请确保您已准备好以下物品：
 
-1.  GroupDocs.Comparison for .NET：从以下位置下载并安装该库[这里](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison for .NET：从以下位置下载并安装该库[这里](https://releases.groupdocs.com/comparison/net/).
 2. C# 基础知识：本教程假设您熟悉 C# 编程。
 3. 集成开发环境（IDE）：使用 Visual Studio 之类的 IDE 进行编码。
 4. 要比较的文档：准备您想要比较的文档并确保它们可以通过您的 C# 代码访问。

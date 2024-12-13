@@ -14,7 +14,7 @@ Bu eğitimde, PDF dosyalarındaki meta verileri okumak ve düzenlemek için Grou
 Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
 - Visual Studio: Sisteminizde kurulu olduğundan emin olun.
-- GroupDocs.Metadata for .NET: Bunu şu adresten indirin ve kurun:[resmi web sitesi](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata for .NET: Bunu şu adresten indirin ve kurun:[resmi web sitesi](https://releases.groupdocs.com/metadata/net/).
 - Temel C# Bilgisi: C# ve .NET framework'üne aşinalık önerilir.
 
 ## Ad Alanlarını İçe Aktar
@@ -31,7 +31,7 @@ Bir PDF dosyasından meta verileri okumak için, belgeyi yükleyin ve aşağıda
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // PDF dosyasının kök paketine erişin
+    //PDF dosyasının kök paketine erişin
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // Yerleşik özellikleri al ve görüntüle

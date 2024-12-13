@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // إنشاء خيارات تحويل PDF
 ```
 
 ## الخطوة 4: تنفيذ التحويل
- استدعاء`Convert`الطريقة لتنفيذ تغيير التنسيق. مرر مسار ملف الإخراج الخاص بك مع خيارات التحويل:
+ استدعاء`Convert` الطريقة لتنفيذ تغيير التنسيق. مرر مسار ملف الإخراج الخاص بك مع خيارات التحويل:
 
 ```csharp
-converter.Convert(outputFile, options); // قم بإجراء التحويل
+converter.Convert(outputFile, options); //قم بإجراء التحويل
 ```
 
 ## الخطوة 5: عرض رسالة الإكمال
@@ -92,4 +92,4 @@ Console.WriteLine("\nConversion to PDF completed successfully.\nCheck output in 
  نعم، يمكنك تنزيل النسخة التجريبية من[موقع GroupDocs](https://releases.groupdocs.com/).
 
 ### أين يمكنني الحصول على الدعم فيما يتعلق بـ GroupDocs.Conversion لـ .NET؟
- للحصول على المساعدة، قم بزيارة[منتدى GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) للتواصل مع المجتمع وطلب المساعدة.
+للحصول على المساعدة، قم بزيارة[منتدى GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) للتواصل مع المجتمع وطلب المساعدة.

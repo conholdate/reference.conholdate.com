@@ -17,7 +17,7 @@ Dosyaları dönüştürmeye başlamadan önce aşağıdaki ayarların yapıldı�
 
 ### .NET için GroupDocs.Conversion'ı yükleyin
 
-GroupDocs.Conversion for .NET'i şu adresten indirebilirsiniz:[web sitesi](https://releases.groupdocs.com/conversion/net/). Projenizin gereksinimlerine uygun şekilde kurulumunu yaptığınızdan emin olun.
+ GroupDocs.Conversion for .NET'i şu adresten indirebilirsiniz:[web sitesi](https://releases.groupdocs.com/conversion/net/). Projenizin gereksinimlerine uygun şekilde kurulumunu yaptığınızdan emin olun.
 
 ### Kaynak AI Dosyası
 
@@ -59,7 +59,7 @@ Daha sonra PDF dönüştürme için ihtiyaç duyabileceğiniz özel seçenekleri
 ```csharp
     var options = new PdfConvertOptions();
 ```
- Bir örnek oluşturarak`PdfConvertOptions`sayfa boyutu, kenar boşlukları ve daha fazlası gibi ayarları özelleştirebilirsiniz. Bu isteğe bağlı olsa da, belirli gereksinimler için size esneklik sağlar.
+ Bir örnek oluşturarak`PdfConvertOptions`, sayfa boyutu, kenar boşlukları ve daha fazlası gibi ayarları özelleştirebilirsiniz. Bu isteğe bağlı olsa da, belirli gereksinimler için size esneklik sağlar.
 
 ## Adım 3: Dönüştürmeyi Gerçekleştirin
 

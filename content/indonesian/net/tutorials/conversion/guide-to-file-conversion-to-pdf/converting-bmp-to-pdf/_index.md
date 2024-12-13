@@ -92,8 +92,8 @@ Tidak, pustaka ini berdiri sendiri dan tidak memerlukan dependensi tambahan untu
 
 ### Apakah ada versi uji coba yang tersedia untuk pengujian?
 
-Ya, Anda dapat mengunduh versi uji coba gratis dari[halaman rilis](https://releases.groupdocs.com/) untuk menjelajahi kemampuan perpustakaan sebelum membeli.
+ Ya, Anda dapat mengunduh versi uji coba gratis dari[halaman rilis](https://releases.groupdocs.com/) untuk menjelajahi kemampuan perpustakaan sebelum membeli.
 
 ### Di mana saya bisa mendapatkan bantuan atau dukungan?
 
- Jika Anda mengalami masalah, Anda dapat mengunjungi[Forum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) untuk dukungan berbasis komunitas atau hubungi tim dukungan mereka untuk bantuan yang dipersonalisasi.
+Jika Anda mengalami masalah, Anda dapat mengunjungi[Forum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) untuk dukungan berbasis komunitas atau hubungi tim dukungan mereka untuk bantuan yang dipersonalisasi.

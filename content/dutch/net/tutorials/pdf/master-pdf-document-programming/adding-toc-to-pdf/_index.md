@@ -19,7 +19,7 @@ Zorg ervoor dat u het volgende bij de hand hebt voordat u begint:
 2.  Ontwikkelomgeving: Stel een .NET-ontwikkelomgeving in, zoals Visual Studio.
 3.   Licentie: Vraag indien nodig een tijdelijke licentie aan; ga naar[Aspose.Pdf-licentiepagina](https://asposepdf.com/developers) voor meer informatie.
 
-Noodzakelijke bibliotheken importeren
+Importeren van benodigde bibliotheken
 
 ```csharp
 using System.IO;
@@ -119,7 +119,7 @@ Ja, u kunt het uiterlijk van de inhoudsopgave volledig aanpassen, inclusief het 
 
 ### Hoe voeg ik subkoppen toe aan de inhoudsopgave?
 
- U kunt subkoppen toevoegen door de`Heading` niveau (bijv.`Heading(2)`).
+ kunt subkoppen toevoegen door de`Heading` niveau (bijv.`Heading(2)`).
 
 ### Is het mogelijk om de inhoudsopgave automatisch bij te werken als het document verandert?
 

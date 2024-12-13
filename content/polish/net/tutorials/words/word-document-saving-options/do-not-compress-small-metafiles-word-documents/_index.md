@@ -2,14 +2,14 @@
 title: Nie kompresuj małych metaplików w dokumentach Word
 linktitle: Nie kompresuj małych metaplików w dokumentach Word
 second_title: Aspose.Words API przetwarzania dokumentów
-description: tym przewodniku znajdziesz opis krok po kroku procesu korzystania z funkcji „Nie kompresuj małych metaplików”, dzięki której Twoje dokumenty zachowają integralność i jakość przez cały proces zapisywania.
+description: W tym przewodniku znajdziesz opis krok po kroku procesu korzystania z funkcji „Nie kompresuj małych metaplików”, dzięki której Twoje dokumenty zachowają integralność i jakość przez cały proces zapisywania.
 type: docs
 weight: 10
 url: /pl/net/tutorials/words/word-document-saving-options/do-not-compress-small-metafiles-word-documents/
 ---
 ## Wstęp
 
-W świecie przetwarzania dokumentów sposób zapisywania plików może mieć ogromny wpływ na ich jakość i funkcjonalność. Aspose.Words dla .NET zawiera funkcje, które pomogą Ci zapisywać dokumenty Word z precyzją. Jedną z godnych uwagi funkcji jest opcja „Nie kompresuj małych metaplików”. Ten samouczek przeprowadzi Cię przez korzystanie z tej funkcji, aby zapewnić integralność Twoich metaplików. Zaczynajmy!
+świecie przetwarzania dokumentów sposób zapisywania plików może mieć ogromny wpływ na ich jakość i funkcjonalność. Aspose.Words dla .NET zawiera funkcje, które pomogą Ci zapisywać dokumenty Word z precyzją. Jedną z godnych uwagi funkcji jest opcja „Nie kompresuj małych metaplików”. Ten samouczek przeprowadzi Cię przez korzystanie z tej funkcji, aby zapewnić integralność Twoich metaplików. Zaczynajmy!
 
 ## Wymagania wstępne
 
@@ -18,7 +18,7 @@ Zanim zanurzysz się w wodzie, upewnij się, że masz przygotowane następujące
 1.  Aspose.Words dla .NET: Pobierz i zainstaluj najnowszą wersję z[Wydania Aspose](https://releases.aspose.com/words/net/).
 2. Środowisko programistyczne: Użyj Visual Studio lub dowolnego kompatybilnego środowiska IDE.
 3. Podstawowa znajomość języka C#: Znajomość języka C# i platformy .NET będzie pomocna.
-4.  Licencja Aspose: Aby w pełni odblokować Aspose.Words, należy uzyskać[licencja](https://purchase.aspose.com/buy)jest zalecane. Alternatywnie, możesz użyć[licencja tymczasowa](https://purchase.aspose.com/temporary-license/) w celach ewaluacyjnych.
+4.  Licencja Aspose: Aby w pełni odblokować Aspose.Words, należy uzyskać[licencja](https://purchase.aspose.com/buy) jest zalecane. Alternatywnie, możesz użyć[licencja tymczasowa](https://purchase.aspose.com/temporary-license/) w celach ewaluacyjnych.
 
 ## Importowanie przestrzeni nazw
 
@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Krok 3: Skonfiguruj opcje zapisywania
 
- Teraz skonfiguruj opcje zapisu, aby wykorzystać funkcję „Nie kompresuj małych metaplików”`DocSaveOptions` klasa.
+ Teraz skonfiguruj opcje zapisu, aby wykorzystać funkcję „Nie kompresuj małych metaplików”`DocSaveOptions`klasa.
 
 ```csharp
 // Skonfiguruj opcje zapisu z funkcją „Nie kompresuj małych metaplików”
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- Ten krok tworzy instancję`DocSaveOptions` ustawia`Compliance` nieruchomość do`PdfCompliance.PdfA1a`, zapewniając zgodność dokumentu ze standardem PDF/A-1a.
+ Ten krok tworzy instancję`DocSaveOptions` i ustawia`Compliance` nieruchomość do`PdfCompliance.PdfA1a`, zapewniając zgodność dokumentu ze standardem PDF/A-1a.
 
 ## Krok 4: Zapisz dokument
 
 Na koniec zapisz dokument, korzystając z skonfigurowanych opcji, upewniając się, że małe metapliki nie zostaną skompresowane.
 
 ```csharp
-// Zapisz dokument z określonymi opcjami
+//Zapisz dokument z określonymi opcjami
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ Oczywiście! Aspose.Words dla .NET oferuje konfigurowalne opcje zapisu dla róż
 
 ### Czy potrzebuję licencji, aby używać Aspose.Words dla .NET?
 
- Chociaż możesz używać Aspose.Words dla .NET bez licencji w celach ewaluacyjnych, licencja jest wymagana do pełnej funkcjonalności. Możesz kupić licencję[Tutaj](https://purchase.aspose.com/buy) lub spróbuj[licencja tymczasowa](https://purchase.aspose.com/temporary-license/) do oceny.
+Chociaż możesz używać Aspose.Words dla .NET bez licencji w celach ewaluacyjnych, licencja jest wymagana do pełnej funkcjonalności. Możesz kupić licencję[Tutaj](https://purchase.aspose.com/buy) lub spróbuj[licencja tymczasowa](https://purchase.aspose.com/temporary-license/) do oceny.
 
 ### Jak mogę mieć pewność, że moje dokumenty są zgodne ze standardami PDF/A?
 

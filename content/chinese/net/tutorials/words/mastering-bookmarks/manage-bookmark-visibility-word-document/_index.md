@@ -16,7 +16,7 @@ url: /zh/net/tutorials/words/mastering-bookmarks/manage-bookmark-visibility-word
 在深入研究之前，请确保您具备以下条件：
 
 1. Visual Studio：任何与 .NET 兼容的版本。
-2.  Aspose.Words for .NET：下载[这里](https://releases.aspose.com/words/net/).
+2. Aspose.Words for .NET：下载[这里](https://releases.aspose.com/words/net/).
 3. 基本 C# 知识：熟悉编写简单的 C# 程序就足够了。
 4. 示例 Word 文档：准备一个包含本教程的书签的 Word 文档（例如“Bookmarks.docx”）。
 

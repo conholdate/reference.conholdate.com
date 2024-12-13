@@ -28,10 +28,10 @@ using Aspose.Words;
 
 ## Steg 1: Ladda textfilen
 
-Först måste du ladda textfilen i en Aspose.Words`Document` objekt. Så här gör du:
+ Först måste du ladda textfilen i en Aspose.Words`Document` objekt. Så här gör du:
 
 ```csharp
-// Ange katalogsökvägen där din textfil finns
+//Ange katalogsökvägen där din textfil finns
 string dataDir = "YOUR_DOCUMENT_DIRECTORY/";
 
 // Ladda textfilen i ett dokumentobjekt

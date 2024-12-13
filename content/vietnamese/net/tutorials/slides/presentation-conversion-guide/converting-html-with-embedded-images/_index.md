@@ -101,7 +101,7 @@ Chuyển đổi bản trình bày PowerPoint sang HTML có hình ảnh nhúng r�
 Có, Aspose.Slides hỗ trợ hoạt ảnh trong quá trình xuất. Tuy nhiên, khả năng tương thích của hoạt ảnh trong HTML phụ thuộc vào độ phức tạp của bản trình bày gốc.
 
 ### Aspose.Slides có thể xuất ra những định dạng nào khác?
-Thư viện hỗ trợ nhiều định dạng, bao gồm PDF, PNG và SVG. Tham khảo[tài liệu](https://reference.aspose.com/slides/net/) để biết thêm chi tiết.
+ Thư viện hỗ trợ nhiều định dạng, bao gồm PDF, PNG và SVG. Tham khảo[tài liệu](https://reference.aspose.com/slides/net/) để biết thêm chi tiết.
 
 ### Có hỗ trợ kỹ thuật cho Aspose.Slides không?
  Có, bạn có thể tìm kiếm sự hỗ trợ trên[Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/slides/11).

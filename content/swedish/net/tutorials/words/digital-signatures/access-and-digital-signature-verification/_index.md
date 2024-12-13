@@ -16,7 +16,7 @@ Hej, teknikentusiaster! Har du någonsin behövt verifiera digitala signaturer i
 Innan vi börjar, se till att du har följande redo:
 
 1. Visual Studio: Se till att den är installerad på din dator för kodning.
-2.  Aspose.Words för .NET: Ladda ner och installera det från[här](https://releases.aspose.com/words/net/) Om du inte har gjort det ännu, ta din kostnadsfria provperiod[här](https://releases.aspose.com/).
+2.  Aspose.Words för .NET: Ladda ner och installera det från[här](https://releases.aspose.com/words/net/) . Om du inte har gjort det ännu, ta din kostnadsfria provperiod[här](https://releases.aspose.com/).
 3. Ett digitalt signerat Word-dokument: Ha ett Word-dokument med en digital signatur till hands för verifiering.
 
 ## Importera namnområden
@@ -142,7 +142,7 @@ Ja, den stöder alla versioner av Microsoft Word-dokument, inklusive DOC, DOCX, 
 
 ### Hur får jag en tillfällig licens för Aspose.Words för .NET?
 
-Du kan få en tillfällig licens från[här](https://purchase.aspose.com/temporary-license/), så att du kan utforska alla funktioner i biblioteket utan begränsningar.
+ Du kan få en tillfällig licens från[här](https://purchase.aspose.com/temporary-license/), så att du kan utforska alla funktioner i biblioteket utan begränsningar.
 
 ### Var kan jag hitta mer dokumentation om Aspose.Words för .NET?
 

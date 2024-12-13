@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  Τώρα, στιγμιαία α`Document` αντικείμενο να αντιπροσωπεύει το αρχείο CGM στη μνήμη. Αυτό σας επιτρέπει να χειριστείτε το αρχείο πριν το αποθηκεύσετε ως PDF.
 
 ```csharp
-//Δημιουργία αντικειμένου εγγράφου
+// Δημιουργία αντικειμένου εγγράφου
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -98,11 +98,11 @@ doc.Save(dataDir + "TECHDRAW_out.pdf");
 
 ### Υπάρχει δωρεάν δοκιμή διαθέσιμη;
 
- Ναι, το Aspose προσφέρει μια δωρεάν δοκιμή που μπορείτε να κατεβάσετε από το[Aspose website](https://releases.aspose.com/).
+ Ναι, το Aspose προσφέρει μια δωρεάν δοκιμή που μπορείτε να κατεβάσετε από το[Aspose ιστότοπο](https://releases.aspose.com/).
 
 ### Πού μπορώ να βρω υποστήριξη για το Aspose.PDF;
 
- Για βοήθεια, επισκεφθείτε το[Aspose forum υποστήριξης](https://forum.aspose.com/c/pdf/10), όπου μπορείτε να κάνετε ερωτήσεις και να βρείτε λύσεις σε κοινά ζητήματα.
+Για βοήθεια, επισκεφθείτε το[Aspose forum υποστήριξης](https://forum.aspose.com/c/pdf/10)όπου μπορείτε να κάνετε ερωτήσεις και να βρείτε λύσεις σε κοινά ζητήματα.
 
 ### Πώς μπορώ να αγοράσω άδεια χρήσης για το Aspose.PDF;
 

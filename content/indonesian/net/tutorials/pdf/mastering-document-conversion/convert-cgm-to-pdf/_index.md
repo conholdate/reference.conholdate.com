@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  Sekarang, buat instance sebuah`Document` objek untuk mewakili berkas CGM Anda di memori. Ini memungkinkan Anda untuk memanipulasi berkas sebelum menyimpannya sebagai PDF.
 
 ```csharp
-//Membuat instance objek Dokumen
+// Membuat instance objek Dokumen
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ Tentu saja! Aspose.PDF mendukung berbagai format, termasuk HTML, XML, dan gambar
 
 ### Di mana saya dapat menemukan dukungan untuk Aspose.PDF?
 
- Untuk bantuan, kunjungi[Forum dukungan Aspose](https://forum.aspose.com/c/pdf/10), tempat Anda dapat mengajukan pertanyaan dan menemukan solusi untuk masalah umum.
+Untuk bantuan, kunjungi[Forum dukungan Aspose](https://forum.aspose.com/c/pdf/10)tempat Anda dapat mengajukan pertanyaan dan menemukan solusi untuk masalah umum.
 
 ### Bagaimana cara membeli lisensi untuk Aspose.PDF?
 

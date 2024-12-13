@@ -63,7 +63,7 @@ options.RenderComments = true; // Weergave van opmerkingen inschakelen
 ```
 
 ## Stap 5: Het document renderen met opmerkingen
- Bel de`View` methode op de`Viewer` object met de geconfigureerde opties.
+ Bel de`View`methode op de`Viewer` object met de geconfigureerde opties.
 
 ```csharp
 viewer.View(options);

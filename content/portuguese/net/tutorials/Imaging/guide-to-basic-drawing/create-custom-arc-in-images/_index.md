@@ -38,7 +38,7 @@ using System.IO;
 ## Etapa 1: Crie a imagem e salve o fluxo
 
 ```csharp
-//Defina o diretório para salvar a imagem
+// Defina o diretório para salvar a imagem
 string dataDir = "Your Document Directory"; // Atualize isso para seu caminho preferido
 
 // Crie um fluxo para salvar a imagem BMP

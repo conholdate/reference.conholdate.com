@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  Bây giờ, hãy khởi tạo một`Document` đối tượng để biểu diễn tệp CGM của bạn trong bộ nhớ. Điều này cho phép bạn thao tác tệp trước khi lưu dưới dạng PDF.
 
 ```csharp
-//Khởi tạo đối tượng Tài liệu
+// Khởi tạo đối tượng Tài liệu
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ Hoàn toàn đúng! Aspose.PDF hỗ trợ nhiều định dạng, bao gồm HTML
 
 ### Tôi có thể tìm hỗ trợ cho Aspose.PDF ở đâu?
 
- Để được hỗ trợ, hãy truy cập[Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/pdf/10), nơi bạn có thể đặt câu hỏi và tìm giải pháp cho những vấn đề thường gặp.
+Để được hỗ trợ, hãy truy cập[Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/pdf/10)nơi bạn có thể đặt câu hỏi và tìm giải pháp cho những vấn đề thường gặp.
 
 ### Làm thế nào để mua giấy phép cho Aspose.PDF?
 

@@ -55,7 +55,7 @@ doc.Sections[1].Remove();
 
 ## Slutsats
 
- Med Aspose.Words för .NET är det effektivt och enkelt att manipulera Word-dokument. Att ta bort avsnitt är bara en av de många kraftfulla funktionerna till ditt förfogande. Se till att utforska det omfattande[dokumentation](https://reference.aspose.com/words/net/) för att upptäcka fler funktioner som kan förbättra dina dokumentbearbetningsuppgifter.
+Med Aspose.Words för .NET är det effektivt och enkelt att manipulera Word-dokument. Att ta bort avsnitt är bara en av de många kraftfulla funktionerna till ditt förfogande. Se till att utforska det omfattande[dokumentation](https://reference.aspose.com/words/net/) för att upptäcka fler funktioner som kan förbättra dina dokumentbearbetningsuppgifter.
 
 ## FAQ's
 

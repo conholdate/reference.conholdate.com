@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // PDF 변환 옵션 만들기
 ```
 
 ## 4단계: 변환 실행
- 호출하다`Convert`형식 변경을 실행하는 방법입니다. 변환 옵션과 함께 출력 파일 경로를 전달합니다.
+ 호출하다`Convert` 형식 변경을 실행하는 방법입니다. 변환 옵션과 함께 출력 파일 경로를 전달합니다.
 
 ```csharp
-converter.Convert(outputFile, options); // 변환을 수행하세요
+converter.Convert(outputFile, options); //변환을 수행하세요
 ```
 
 ## 5단계: 완료 메시지 표시
@@ -92,4 +92,4 @@ Console.WriteLine("\nConversion to PDF completed successfully.\nCheck output in 
  네, 체험판을 다운로드할 수 있습니다.[GroupDocs 웹사이트](https://releases.groupdocs.com/).
 
 ### GroupDocs.Conversion for .NET과 관련하여 지원은 어디서 받을 수 있나요?
- 도움이 필요하면 다음을 방문하세요.[GroupDocs.Conversion 포럼](https://forum.groupdocs.com/c/conversion/11) 지역사회와 연결하고 도움을 구합니다.
+도움이 필요하면 다음을 방문하세요.[GroupDocs.Conversion 포럼](https://forum.groupdocs.com/c/conversion/11) 지역사회와 연결하고 도움을 구합니다.

@@ -101,7 +101,7 @@ Mit Aspose.Slides für .NET ist das Konvertieren von PowerPoint-Präsentationen 
 Ja, Aspose.Slides unterstützt Animationen beim Export. Die Kompatibilität von Animationen in HTML hängt jedoch von der Komplexität der ursprünglichen Präsentation ab.
 
 ### Welche anderen Formate können mit Aspose.Slides exportiert werden?
-Die Bibliothek unterstützt zahlreiche Formate, darunter PDF, PNG und SVG. Weitere Informationen finden Sie im[Dokumentation](https://reference.aspose.com/slides/net/) für Details.
+ Die Bibliothek unterstützt zahlreiche Formate, darunter PDF, PNG und SVG. Weitere Informationen finden Sie im[Dokumentation](https://reference.aspose.com/slides/net/) für Details.
 
 ### Gibt es technischen Support für Aspose.Slides?
  Ja, Sie können Hilfe anfordern auf der[Aspose-Supportforum](https://forum.aspose.com/c/slides/11).

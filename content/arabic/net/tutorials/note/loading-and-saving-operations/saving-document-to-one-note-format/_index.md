@@ -17,7 +17,7 @@ Aspose.Note هي مكتبة قوية للمطورين الذين يتطلعون 
 
 1. المعرفة الأساسية بلغة C# و.NET: مطلوب معرفة بلغة البرمجة C# وإطار عمل .NET.
    
-2. Aspose.Note لتثبيت .NET: قم بتنزيل مكتبة Aspose.Note وتثبيتها من[موقع اسبوس](https://releases.aspose.com/note/net/).
+2.  Aspose.Note لتثبيت .NET: قم بتنزيل مكتبة Aspose.Note وتثبيتها من[موقع اسبوس](https://releases.aspose.com/note/net/).
 
 3. بيئة التطوير: قم بإعداد بيئة تطوير مناسبة، مثل Visual Studio.
 

@@ -22,7 +22,7 @@ Než se ponoříme, ujistěte se, že máte vše, co potřebujete:
 
 ## Import nezbytných jmenných prostorů
 
-Začněme importem základních jmenných prostorů. To nám umožní pracovat s dokumenty a tvary aplikace Word bez námahy.
+Začněme importem základních jmenných prostorů. Ty nám umožní bez námahy pracovat s dokumenty a tvary aplikace Word.
 
 ```csharp
 using Aspose.Words;
@@ -41,7 +41,7 @@ Chcete-li inicializovat nový dokument aplikace Word, použijte následující �
 Document doc = new Document();
 ```
 
-Tím se vytvoří nový, prázdný dokument Word připravený pro váš kreativní dotek.
+Vytvoří se tak nový, prázdný dokument Word připravený pro váš kreativní dotek.
 
 ## Krok 2: Přidání textového pole
 
@@ -93,7 +93,7 @@ textBox.Previous?.BreakForwardLink();
 
 ## Závěr
 
-A tady to máte! 🎉 Úspěšně jste se naučili, jak přerušit odkazy vpřed v textových polích pomocí Aspose.Words for .NET. Ať už děláte v dokumentu pořádek, připravujete ho na nový formát nebo prostě jen experimentujete, tyto kroky vám pomohou spravovat textová pole s přesností. Přerušení spojení je jako rozmotání uzlu – někdy je to nutné, aby bylo vše úhledné a uspořádané.
+A tady to máte! 🎉 Úspěšně jste se naučili, jak přerušit odkazy vpřed v textových polích pomocí Aspose.Words for .NET. Ať už děláte v dokumentu pořádek, připravujete ho na nový formát nebo prostě jen experimentujete, tyto kroky vám pomohou spravovat textová pole s přesností. Přerušení odkazů je jako rozmotání uzlu – někdy je to nutné, aby bylo vše úhledné a uspořádané.
 
 ## FAQ
 

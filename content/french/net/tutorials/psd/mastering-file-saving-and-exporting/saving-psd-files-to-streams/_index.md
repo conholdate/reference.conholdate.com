@@ -47,7 +47,7 @@ Identifiez l'emplacement de votre fichier PSD source et l'endroit où vous souha
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Chemin vers votre fichier PSD source
-string destName = dataDir + "result.png";   // Chemin d'accès au fichier image de sortie
+string destName = dataDir + "result.png";   //Chemin d'accès au fichier image de sortie
 ```
 
 ## Étape 3 : charger l'image PSD et gérer les polices introuvables
@@ -66,7 +66,7 @@ using (Image image = Image.Load(sourceFile))
         // En option, vous pouvez réinitialiser la position du flux si nécessaire
         stream.Position = 0;
 
-        // Des traitements ultérieurs, tels que l'enregistrement dans un fichier ou l'envoi sur un réseau, peuvent être effectués ici.
+        // D'autres traitements, comme l'enregistrement dans un fichier ou l'envoi sur un réseau, peuvent être effectués ici.
     }
 }
 ```
@@ -89,7 +89,7 @@ Félicitations ! Vous avez appris avec succès à enregistrer des images dans u
 ## FAQ
 
 ### Puis-je utiliser Aspose.PSD avec n’importe quel type de fichier image ?
- Oui ! Aspose.PSD prend en charge plusieurs formats d'image, notamment PSD, PNG, JPEG, etc. Pour une liste détaillée, consultez la documentation[ici](https://reference.aspose.com/psd/net/).
+Oui ! Aspose.PSD prend en charge plusieurs formats d'image, notamment PSD, PNG, JPEG, etc. Pour une liste détaillée, consultez la documentation[ici](https://reference.aspose.com/psd/net/).
 
 ### Comment obtenir de l'aide pour Aspose.PSD ?
  Pour obtenir de l'aide et un soutien communautaire, visitez le forum d'assistance Aspose.PSD[ici](https://forum.aspose.com/c/psd/34).

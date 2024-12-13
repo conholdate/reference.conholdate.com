@@ -69,7 +69,7 @@ IEnumerable<string> fileList = Directory.GetFiles(dataDir)
     .Where(fileName => !fileName.EndsWith("Corrupted document.docx"));
 ```
 
-A lista filtrada garante que você trabalhe apenas com arquivos válidos.
+lista filtrada garante que você trabalhe apenas com arquivos válidos.
 
 ## Etapa 3: Detectar e categorizar formatos de arquivo
 
@@ -117,7 +117,7 @@ Ao alavancar o Aspose.Words para .NET, detectar formatos de arquivo de documento
 ## Perguntas frequentes
 
 ### Qual é o principal objetivo de detectar formatos de documentos?  
-detecção de formatos ajuda a otimizar o manuseio de documentos categorizando arquivos para fluxos de trabalho ou aplicativos específicos.
+A detecção de formatos ajuda a otimizar o manuseio de documentos categorizando arquivos para fluxos de trabalho ou aplicativos específicos.
 
 ### O Aspose.Words suporta arquivos criptografados?  
 Sim, ele pode detectar criptografia e processar documentos criptografados adequadamente.

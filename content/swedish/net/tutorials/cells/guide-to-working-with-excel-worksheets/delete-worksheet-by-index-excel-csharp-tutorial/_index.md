@@ -18,7 +18,7 @@ Innan vi dyker in i koden, låt oss se till att du har allt klart:
 1. Grundläggande kunskaper i C#: Du bör vara bekväm med att skriva grundläggande C#-program. Om du kan skapa och köra en enkel C#-applikation är du redo!
 2.  Aspose.Cells Library: Detta är vårt huvudsakliga verktyg. Ladda ner och installera Aspose.Cells-biblioteket för .NET från[här](https://releases.aspose.com/cells/net/).
 3. Visual Studio eller vilken C# IDE som helst: Du behöver en integrerad utvecklingsmiljö (IDE) som Visual Studio för att skriva och köra din kod. Om det var ett tag sedan du senast öppnade den, är det nu dags att damma av den!
-4.  En befintlig Excel-fil: Se till att du har en Excel-fil till hands som du vill arbeta med. För den här handledningen kommer vi att använda`book1.xls`, men använd gärna alla kompatibla filer.
+4.  En befintlig Excel-fil: Se till att du har en Excel-fil till hands som du vill arbeta med. För den här handledningen kommer vi att använda`book1.xls`, men använd gärna vilken fil som helst.
 
 ## Importera paket
 

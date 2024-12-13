@@ -9,7 +9,7 @@ url: /pl/net/tutorials/merger/guide-to-document-merging/merge-pdf-files/
 ---
 ## Wstęp
 
-świecie zarządzania dokumentami scalanie plików PDF jest częstym wymogiem dla deweloperów. Niezależnie od tego, czy kompilujesz raporty, tworzysz faktury czy łączysz dokumentację użytkownika, niezawodne rozwiązanie jest niezbędne. GroupDocs.Merger dla .NET zapewnia wydajną i solidną opcję płynnego scalania dokumentów PDF w aplikacjach .NET. Ten samouczek przeprowadzi Cię przez proces krok po kroku, ułatwiając implementację scalania PDF w Twoich projektach.
+W świecie zarządzania dokumentami scalanie plików PDF jest częstym wymogiem dla deweloperów. Niezależnie od tego, czy kompilujesz raporty, tworzysz faktury czy łączysz dokumentację użytkownika, niezawodne rozwiązanie jest niezbędne. GroupDocs.Merger dla .NET zapewnia wydajną i solidną opcję płynnego scalania dokumentów PDF w aplikacjach .NET. Ten samouczek przeprowadzi Cię przez proces krok po kroku, ułatwiając implementację scalania PDF w Twoich projektach.
 
 ## Wymagania wstępne
 Zanim zaczniesz, upewnij się, że spełniasz następujące wymagania wstępne:
@@ -61,7 +61,7 @@ Console.WriteLine("\nPDF files merge completed successfully. \nCheck output in {
 ```
 
 ## Wniosek
-tym samouczku sprawdziliśmy, jak skutecznie scalać pliki PDF za pomocą GroupDocs.Merger dla .NET. Wykonując te kroki, możesz łatwo skonsolidować wiele dokumentów PDF w jeden plik w swoich aplikacjach .NET, usprawniając procesy zarządzania dokumentami.
+W tym samouczku sprawdziliśmy, jak skutecznie scalać pliki PDF za pomocą GroupDocs.Merger dla .NET. Wykonując te kroki, możesz łatwo skonsolidować wiele dokumentów PDF w jeden plik w swoich aplikacjach .NET, usprawniając procesy zarządzania dokumentami.
 
 ## Najczęściej zadawane pytania
 

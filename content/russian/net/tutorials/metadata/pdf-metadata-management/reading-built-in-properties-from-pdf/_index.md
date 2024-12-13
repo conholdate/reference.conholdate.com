@@ -14,7 +14,7 @@ url: /ru/net/tutorials/metadata/pdf-metadata-management/reading-built-in-propert
 Прежде чем начать, убедитесь, что у вас есть следующее:
 
 - Visual Studio: убедитесь, что он установлен в вашей системе.
-- GroupDocs.Metadata для .NET: Загрузите и установите его с сайта[официальный сайт](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata для .NET: Загрузите и установите его с сайта[официальный сайт](https://releases.groupdocs.com/metadata/net/).
 - Базовые знания C#: рекомендуется знакомство с C# и платформой .NET.
 
 ## Импорт пространств имен
@@ -31,7 +31,7 @@ using Formats.Document;
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // Доступ к корневому пакету PDF-файла
+    //Доступ к корневому пакету PDF-файла
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // Извлечение и отображение встроенных свойств

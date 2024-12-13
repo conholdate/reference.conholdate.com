@@ -15,7 +15,7 @@ Merhaba, kodlayıcı arkadaşım! Word belgelerini HTML olarak kaydederken yazı
 
 Başlamadan önce ihtiyacınız olan her şeye sahip olduğunuzdan emin olun:
 
-1.  Aspose.Words for .NET: İndirin[Burada](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET: İndirin[Burada](https://releases.aspose.com/words/net/).
 2.  Geçerli Bir Lisans: Bir lisans satın alın[Burada](https://purchase.aspose.com/buy) veya geçici bir lisans alın[Burada](https://purchase.aspose.com/temporary-license/).
 3. C# ve .NET'in Temel Bilgisi: C# dilindeki temel programlama kavramlarına aşina olunduğu varsayılmaktadır.
 4. Visual Studio: .NET framework'ü destekleyen herhangi bir sürüm çalışacaktır.
@@ -74,7 +74,7 @@ Son olarak, yapılandırılan kaydetme seçeneklerini kullanarak belgeyi HTML do
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Biz buna diyoruz`Save` yöntem üzerinde`Document` nesne, çıktı yolunu ve yapılandırdığımız kaydetme seçeneklerini belirtir. Bu, font adlarının çözüldüğü bir HTML dosyası oluşturur.
+ Biz buna diyoruz`Save`yöntem üzerinde`Document` nesne, çıktı yolunu ve yapılandırdığımız kaydetme seçeneklerini belirtir. Bu, font adlarının çözüldüğü bir HTML dosyası oluşturur.
 
 ## Çözüm
 
@@ -92,7 +92,7 @@ Aspose.Words for .NET, geliştiricilerin Word belgelerini programlı bir şekild
  Evet, ancak bazı sınırlamaları olacak. Tam işlevsellik için bir lisans satın alabilirsiniz[Burada](https://purchase.aspose.com/buy) veya geçici bir lisans alın[Burada](https://purchase.aspose.com/temporary-license/).
 
 ### Fontlarım HTML'de neden düzgün görüntülenmiyor?
- Bu sorun, dönüştürme sırasında yazı tipleri düzgün bir şekilde çözümlenmezse ortaya çıkabilir. Ayar`ResolveFontNames = true` içinde`HtmlSaveOptions` Bunu düzeltmeye yardımcı olabilir.
+Bu sorun, dönüştürme sırasında yazı tipleri düzgün bir şekilde çözümlenmezse ortaya çıkabilir. Ayar`ResolveFontNames = true` içinde`HtmlSaveOptions` Bunu düzeltmeye yardımcı olabilir.
 
 ### Aspose.Words for .NET için desteği nereden alabilirim?
  Destek alabilirsiniz[Aspose.Words destek forumu](https://forum.aspose.com/c/words/8).

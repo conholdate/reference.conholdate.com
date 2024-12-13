@@ -99,10 +99,10 @@ Selamat! Anda telah berhasil menambahkan bahasa Jepang sebagai bahasa penyunting
  Ya, lisensi diperlukan untuk penggunaan komersial. Anda dapat membelinya[Di Sini](https://purchase.aspose.com/buy) atau mendapatkan lisensi sementara[Di Sini](https://purchase.aspose.com/temporary-license/).
 
 ### Fitur apa lagi yang ditawarkan Aspose.Words untuk .NET?
- Aspose.Words untuk .NET menyediakan berbagai fitur, termasuk pembuatan, konversi, dan manipulasi dokumen. Jelajahi[dokumentasi](https://reference.aspose.com/words/net/) untuk lebih jelasnya.
+Aspose.Words untuk .NET menyediakan berbagai fitur, termasuk pembuatan, konversi, dan manipulasi dokumen. Jelajahi[dokumentasi](https://reference.aspose.com/words/net/) untuk lebih jelasnya.
 
 ### Bisakah saya mencoba Aspose.Words untuk .NET sebelum membelinya?
  Tentu saja! Anda dapat mengunduh uji coba gratis[Di Sini](https://releases.aspose.com/).
 
 ### Di mana saya bisa mendapatkan dukungan untuk Aspose.Words untuk .NET?
-Anda dapat mencari dukungan dari komunitas Aspose[Di Sini](https://forum.aspose.com/c/words/8).
+ Anda dapat mencari dukungan dari komunitas Aspose[Di Sini](https://forum.aspose.com/c/words/8).

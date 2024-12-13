@@ -15,7 +15,7 @@ Welkom bij onze uitgebreide gids over het weergeven van afbeeldingen met Aspose.
 
 Voordat u begint, moet u ervoor zorgen dat aan de volgende voorwaarden is voldaan:
 
-- Aspose.Drawing voor .NET-bibliotheek: Download en installeer de bibliotheek van de[vrijgavepagina](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing voor .NET-bibliotheek: Download en installeer de bibliotheek van de[vrijgavepagina](https://releases.aspose.com/drawing/net/).
 - .NET-omgeving: zorg ervoor dat uw ontwikkelomgeving is ingesteld om met .NET te werken.
 - Documentmap: Maak een map om uw afbeeldingen op te slaan.
 - Afbeeldingsbestand: bereid een afbeeldingsbestand voor weergave voor, bijvoorbeeld 'aspose_logo.png'.
@@ -74,7 +74,7 @@ Gefeliciteerd! U hebt met succes een afbeelding weergegeven met Aspose.Drawing v
 
 ## Conclusie
 
-U hebt zojuist een eenvoudige maar effectieve tutorial over het weergeven van afbeeldingen met Aspose.Drawing voor .NET voltooid. Deze functionaliteit kan de visuele aantrekkingskracht van uw applicaties aanzienlijk verbeteren.
+hebt zojuist een eenvoudige maar effectieve tutorial over het weergeven van afbeeldingen met Aspose.Drawing voor .NET voltooid. Deze functionaliteit kan de visuele aantrekkingskracht van uw applicaties aanzienlijk verbeteren.
 
 ## Veelgestelde vragen
 
@@ -88,7 +88,7 @@ Ja, Aspose.Drawing wordt regelmatig bijgewerkt om compatibiliteit met de nieuwst
 
 ### Hoe kan ik de schaal van afbeeldingen in Aspose.Drawing aanpassen?
 
- U kunt de schaal van de afbeelding aanpassen door de parameters in de`DrawImage`methode, zoals het specificeren van de bestemmingsrechthoek.
+ U kunt de schaal van de afbeelding aanpassen door de parameters in de`DrawImage` methode, zoals het specificeren van de bestemmingsrechthoek.
 
 ### Zijn er licentievoorwaarden voor het gebruik van Aspose.Drawing in commerciële projecten?
 
@@ -96,4 +96,4 @@ Ja, Aspose.Drawing wordt regelmatig bijgewerkt om compatibiliteit met de nieuwst
 
 ### Waar kan ik hulp krijgen als ik problemen tegenkom of vragen heb over Aspose.Drawing?
 
- Voor ondersteuning kunt u terecht op de[Aspose.Tekenforum](https://forum.aspose.com/c/diagram/17) om contact te leggen met de gemeenschap en deskundige hulp te vinden.
+Voor ondersteuning kunt u terecht op de[Aspose.Tekenforum](https://forum.aspose.com/c/diagram/17) om contact te leggen met de gemeenschap en deskundige hulp te vinden.

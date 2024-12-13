@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
 さて、インスタンス化します`Document`メモリ内で CGM ファイルを表すオブジェクト。これにより、PDF として保存する前にファイルを操作できます。
 
 ```csharp
-//Documentオブジェクトをインスタンス化する
+// Documentオブジェクトをインスタンス化する
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 

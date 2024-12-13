@@ -47,7 +47,7 @@ Tentukan lokasi file PSD sumber dan tempat Anda ingin menyimpan gambar. Ubah bar
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Jalur ke file PSD sumber Anda
-string destName = dataDir + "result.png";   // Jalur untuk file gambar keluaran
+string destName = dataDir + "result.png";   //Jalur untuk file gambar keluaran
 ```
 
 ## Langkah 3: Muat Gambar PSD dan Tangani Font yang Tidak Ditemukan
@@ -89,7 +89,7 @@ Selamat! Anda telah berhasil mempelajari cara menyimpan gambar ke aliran menggun
 ## Pertanyaan yang Sering Diajukan
 
 ### Bisakah saya menggunakan Aspose.PSD dengan jenis berkas gambar apa pun?
- Ya! Aspose.PSD mendukung berbagai format gambar, termasuk PSD, PNG, JPEG, dan lainnya. Untuk daftar terperinci, periksa dokumentasinya[Di Sini](https://reference.aspose.com/psd/net/).
+Ya! Aspose.PSD mendukung berbagai format gambar, termasuk PSD, PNG, JPEG, dan lainnya. Untuk daftar terperinci, periksa dokumentasinya[Di Sini](https://reference.aspose.com/psd/net/).
 
 ### Bagaimana cara mendapatkan dukungan untuk Aspose.PSD?
  Untuk bantuan dan dukungan komunitas, kunjungi forum dukungan Aspose.PSD[Di Sini](https://forum.aspose.com/c/psd/34).

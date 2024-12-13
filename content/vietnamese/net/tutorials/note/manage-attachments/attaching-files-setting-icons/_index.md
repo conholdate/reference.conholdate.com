@@ -35,7 +35,7 @@ Dưới đây là hướng dẫn thực hiện chi tiết từng bước.
 
 ## Bước 1: Tạo một tài liệu OneNote mới
 
- Khởi tạo một tài liệu OneNote mới bằng cách sử dụng`Document` lớp học.
+ Khởi tạo một tài liệu OneNote mới bằng cách sử dụng`Document`lớp học.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ Aspose.Note hỗ trợ các định dạng JPEG, PNG, BMP và GIF cho biểu tư
 Aspose.Note không áp dụng giới hạn kích thước rõ ràng, nhưng hãy đảm bảo tài nguyên hệ thống của bạn có thể xử lý được các tệp lớn.
 
 ### Có thể thay đổi kích thước biểu tượng trước khi cài đặt không?
-Có, bạn có thể thao tác hình ảnh biểu tượng bằng .NET`System.Drawing` thư viện trước khi đính kèm.
+ Có, bạn có thể thao tác hình ảnh biểu tượng bằng .NET`System.Drawing` thư viện trước khi đính kèm.
 
  Để được hỗ trợ thêm, hãy khám phá[tài liệu](https://reference.aspose.com/words/net/) hoặc liên hệ với[Hỗ trợ Aspose](https://forum.aspose.com/c/words/8).

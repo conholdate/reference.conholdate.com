@@ -90,4 +90,4 @@ Oui ! Vous pouvez convertir différents formats, notamment DOC, DOCX et HTML en 
 Certainement ! Intégrez le code fourni dans vos applications ou scripts pour automatiser les conversions de documents de manière transparente.
 
 ### Où puis-je trouver plus d’aide ?
- Pour obtenir de l'aide, visitez le[Forum d'assistance Aspose](https://forum.aspose.com/c/words/8) pour se connecter avec la communauté et obtenir l'aide d'experts.
+Pour obtenir de l'aide, visitez le[Forum d'assistance Aspose](https://forum.aspose.com/c/words/8) pour se connecter avec la communauté et obtenir l'aide d'experts.

@@ -40,7 +40,7 @@ Ezután adja meg a dokumentumkönyvtár elérési útját. Itt töltheti be a Wo
 string dataDir = "YOUR_DOCUMENTS_DIRECTORY";
 ```
 
- Ügyeljen arra, hogy cserélje ki`"YOUR_DOCUMENTS_DIRECTORY"` a rendszer tényleges elérési útjával.
+ Mindenképpen cserélje ki`"YOUR_DOCUMENTS_DIRECTORY"` a rendszer tényleges elérési útjával.
 
 ## 3. lépés: Töltse be a dokumentumot
 
@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Végül mentse a dokumentumot a konfigurált opciókkal. Ez egy új fájlt generál a képjelek nélkül.
 
 ```csharp
-// Mentse el a dokumentumot a megadott opciókkal
+//Mentse el a dokumentumot a megadott opciókkal
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

@@ -91,7 +91,7 @@ Ja, Aspose.OCR unterstützt zahlreiche Sprachen und ist damit eine vielseitige L
 
 ### Wo erhalte ich Support für Aspose.OCR?
 
- Weitere Informationen finden Sie im[Aspose.OCR Forum](https://forum.aspose.com/c/ocr/16) wo Community-Mitglieder und Experten bereit sind zu helfen.
+Weitere Informationen finden Sie im[Aspose.OCR Forum](https://forum.aspose.com/c/ocr/16) wo Community-Mitglieder und Experten bereit sind zu helfen.
 
 ### Kann ich eine vorläufige Lizenz erhalten?
 

@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  Most példányosítson a`Document` objektum, amely a CGM-fájlt képviseli a memóriában. Ez lehetővé teszi a fájl manipulálását, mielőtt PDF-ként menti.
 
 ```csharp
-//Dokumentum objektum példányosítása
+// Dokumentum objektum példányosítása
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ Teljesen! Az Aspose.PDF számos formátumot támogat, beleértve a HTML-t, az XM
 
 ### Hol találok támogatást az Aspose.PDF számára?
 
- Segítségért keresse fel a[Aspose támogatási fórum](https://forum.aspose.com/c/pdf/10), ahol kérdéseket tehet fel, és megoldást találhat a gyakori problémákra.
+Segítségért keresse fel a[Aspose támogatási fórum](https://forum.aspose.com/c/pdf/10)ahol kérdéseket tehet fel, és megoldást találhat a gyakori problémákra.
 
 ### Hogyan vásárolhatok licencet az Aspose.PDF fájlhoz?
 

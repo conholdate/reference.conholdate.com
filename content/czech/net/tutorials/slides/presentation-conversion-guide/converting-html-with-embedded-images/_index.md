@@ -101,7 +101,7 @@ Převod prezentací PowerPoint do HTML s vloženými obrázky je s Aspose.Slides
 Ano, Aspose.Slides podporuje animace během exportu. Kompatibilita animací v HTML však závisí na složitosti původní prezentace.
 
 ### Jaké další formáty lze exportovat pomocí Aspose.Slides?
-Knihovna podporuje řadu formátů, včetně PDF, PNG a SVG. Viz[dokumentace](https://reference.aspose.com/slides/net/) pro podrobnosti.
+ Knihovna podporuje řadu formátů, včetně PDF, PNG a SVG. Viz[dokumentace](https://reference.aspose.com/slides/net/) pro podrobnosti.
 
 ### Je k dispozici technická podpora pro Aspose.Slides?
  Ano, můžete vyhledat pomoc na[Aspose fórum podpory](https://forum.aspose.com/c/slides/11).

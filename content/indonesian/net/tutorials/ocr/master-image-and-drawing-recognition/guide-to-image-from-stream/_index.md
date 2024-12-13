@@ -91,7 +91,7 @@ Ya, Aspose.OCR mendukung banyak bahasa, menjadikannya solusi serbaguna untuk ber
 
 ### Di mana saya bisa mendapatkan dukungan untuk Aspose.OCR?
 
- Untuk bantuan, kunjungi[Forum Aspose.OCR](https://forum.aspose.com/c/ocr/16) di mana anggota masyarakat dan para ahli siap membantu.
+Untuk bantuan, kunjungi[Forum Aspose.OCR](https://forum.aspose.com/c/ocr/16) di mana anggota masyarakat dan para ahli siap membantu.
 
 ### Bisakah saya memperoleh lisensi sementara?
 

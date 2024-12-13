@@ -18,7 +18,7 @@ Před potápěním se ujistěte, že máte připraveny následující položky:
 1.  Aspose.Words for .NET: Stáhněte si a nainstalujte nejnovější verzi z[Aspose Releases](https://releases.aspose.com/words/net/).
 2. Vývojové prostředí: Použijte Visual Studio nebo jakékoli kompatibilní IDE.
 3. Základní porozumění C#: Užitečná bude znalost C# a frameworku .NET.
-4.  Licence Aspose: Chcete-li plně odemknout Aspose.Words, získáte a[licence](https://purchase.aspose.com/buy)se doporučuje. Případně můžete použít a[dočasná licence](https://purchase.aspose.com/temporary-license/) pro účely hodnocení.
+4.  Licence Aspose: Chcete-li plně odemknout Aspose.Words, získáte a[licence](https://purchase.aspose.com/buy) se doporučuje. Případně můžete použít a[dočasná licence](https://purchase.aspose.com/temporary-license/) pro účely hodnocení.
 
 ## Import jmenných prostorů
 
@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Krok 3: Nakonfigurujte možnosti uložení
 
- Nyní nakonfigurujte možnosti ukládání tak, aby využívaly funkci „Nekomprimovat malé metasoubory“ s`DocSaveOptions` třída.
+ Nyní nakonfigurujte možnosti ukládání tak, aby využívaly funkci „Nekomprimovat malé metasoubory“ s`DocSaveOptions`třída.
 
 ```csharp
 // Nakonfigurujte možnosti ukládání pomocí funkce „Nekomprimovat malé metasoubory“.
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- Tento krok vytvoří instanci`DocSaveOptions` nastaví`Compliance` majetek do`PdfCompliance.PdfA1a`, zajistíte, že dokument bude splňovat standard PDF/A-1a.
+ Tento krok vytvoří instanci`DocSaveOptions` a nastaví`Compliance` majetek do`PdfCompliance.PdfA1a`, zajistíte, že dokument bude splňovat standard PDF/A-1a.
 
 ## Krok 4: Uložte dokument
 
 Nakonec uložte dokument pomocí nakonfigurovaných možností a ujistěte se, že malé metasoubory nebudou komprimovány.
 
 ```csharp
-// Uložte dokument se zadanými možnostmi
+//Uložte dokument se zadanými možnostmi
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ Absolutně! Aspose.Words for .NET nabízí konfigurovatelné možnosti ukládán
 
 ### Potřebuji licenci k používání Aspose.Words pro .NET?
 
- Zatímco Aspose.Words for .NET můžete používat bez licence pro účely hodnocení, pro plnou funkčnost je nutná licence. Můžete si zakoupit licenci[zde](https://purchase.aspose.com/buy) nebo zkuste a[dočasná licence](https://purchase.aspose.com/temporary-license/) pro hodnocení.
+Zatímco Aspose.Words for .NET můžete používat bez licence pro účely hodnocení, pro plnou funkčnost je nutná licence. Můžete si zakoupit licenci[zde](https://purchase.aspose.com/buy) nebo zkuste a[dočasná licence](https://purchase.aspose.com/temporary-license/) pro hodnocení.
 
 ### Jak mohu zajistit, aby mé dokumenty odpovídaly standardům PDF/A?
 

@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // Utwórz opcje konwersji PDF
 ```
 
 ## Krok 4: Wykonaj konwersję
- Wywołaj`Convert`metoda wykonania zmiany formatu. Przekaż ścieżkę pliku wyjściowego wraz z opcjami konwersji:
+ Wywołaj`Convert` metoda wykonania zmiany formatu. Przekaż ścieżkę pliku wyjściowego wraz z opcjami konwersji:
 
 ```csharp
-converter.Convert(outputFile, options); // Wykonaj konwersję
+converter.Convert(outputFile, options); //Wykonaj konwersję
 ```
 
 ## Krok 5: Wyświetl komunikat o zakończeniu
@@ -92,4 +92,4 @@ Biblioteka obsługuje szeroką gamę formatów, w tym obrazy, dokumenty, arkusze
  Tak, możesz pobrać wersję próbną ze strony[Strona internetowa GroupDocs](https://releases.groupdocs.com/).
 
 ### Gdzie mogę uzyskać pomoc dotyczącą GroupDocs.Conversion dla .NET?
- Aby uzyskać pomoc, odwiedź stronę[Forum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) aby nawiązać kontakt ze społecznością i szukać pomocy.
+Aby uzyskać pomoc, odwiedź stronę[Forum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) aby nawiązać kontakt ze społecznością i szukać pomocy.

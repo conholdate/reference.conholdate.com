@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // Crie opções de conversão de PDF
 ```
 
 ## Etapa 4: Execute a conversão
- Invocar o`Convert`método para executar a mudança de formato. Passe o caminho do seu arquivo de saída junto com as opções de conversão:
+ Invocar o`Convert` método para executar a mudança de formato. Passe o caminho do seu arquivo de saída junto com as opções de conversão:
 
 ```csharp
-converter.Convert(outputFile, options); // Executar a conversão
+converter.Convert(outputFile, options); //Executar a conversão
 ```
 
 ## Etapa 5: Exibir uma mensagem de conclusão
@@ -86,10 +86,10 @@ Sim, ele é compatível com vários frameworks .NET, incluindo .NET Core e .NET 
 Absolutamente! Você pode implementar técnicas de processamento paralelo para converter vários arquivos de uma vez.
 
 ### O GroupDocs.Conversion para .NET oferece suporte à conversão entre todos os formatos de arquivo?
-biblioteca suporta uma ampla variedade de formatos, incluindo imagens, documentos, planilhas, apresentações e muito mais.
+A biblioteca suporta uma ampla variedade de formatos, incluindo imagens, documentos, planilhas, apresentações e muito mais.
 
 ### Existe uma versão de teste disponível para o GroupDocs.Conversion para .NET?
  Sim, você pode baixar uma versão de teste do[Site do GroupDocs](https://releases.groupdocs.com/).
 
 ### Onde posso obter suporte sobre o GroupDocs.Conversion para .NET?
- Para obter assistência, visite o[Fórum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) para se conectar com a comunidade e buscar ajuda.
+Para obter assistência, visite o[Fórum GroupDocs.Conversion](https://forum.groupdocs.com/c/conversion/11) para se conectar com a comunidade e buscar ajuda.

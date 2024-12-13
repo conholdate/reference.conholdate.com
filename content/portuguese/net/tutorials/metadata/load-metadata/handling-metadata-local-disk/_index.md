@@ -90,7 +90,7 @@ Neste tutorial, exploramos como usar efetivamente o GroupDocs.Metadata for .NET 
  A documentação detalhada está disponível em[GroupDocs.Metadata para documentação .NET](https://reference.groupdocs.com/metadata/net/).
 
 ### O GroupDocs.Metadata oferece suporte para teste gratuito?
-Sim, você pode baixar uma versão de avaliação gratuita do GroupDocs.Metadata[aqui](https://releases.groupdocs.com/).
+ Sim, você pode baixar uma versão de avaliação gratuita do GroupDocs.Metadata[aqui](https://releases.groupdocs.com/).
 
 ### Onde posso obter suporte para o GroupDocs.Metadata?
  Para obter suporte, visite o[Fórum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) para ajuda e discussões da comunidade.

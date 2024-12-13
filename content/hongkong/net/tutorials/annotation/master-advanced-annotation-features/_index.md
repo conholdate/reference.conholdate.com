@@ -1,6 +1,6 @@
 ---
 title: 掌握 GroupDocs.Annotation for .NET 中的進階註解功能
-linktitle: 掌握高階註解功能
+linktitle: 掌握高級註解功能
 second_title: GroupDocs.Annotation .NET API
 description: 透過匯出 XML 註解和產生文件頁面預覽的教學課程，釋放 GroupDocs.Annotation for .NET 的潛力。
 type: docs

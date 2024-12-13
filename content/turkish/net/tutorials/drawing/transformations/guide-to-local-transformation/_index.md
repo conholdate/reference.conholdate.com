@@ -13,7 +13,7 @@ Aspose.Drawing for .NET, geliştiricilerin yerel dönüşümler aracılığıyla
 
 ## Ön koşullar
 
-1. Aspose.Drawing for .NET: Buradan indirin ve kurun[Burada](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing for .NET: Buradan indirin ve kurun[Burada](https://releases.aspose.com/drawing/net/).
 2. Belge Dizini: Resimlerinizi kaydedeceğiniz dizini seçin.
 3. Temel .NET Bilgisi: C# ve grafik programlama kavramlarına aşinalık.
 

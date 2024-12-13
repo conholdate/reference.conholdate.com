@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Chúng ta hãy bắt đầu bằng cách tải các tài liệu Word nguồn và đích và khởi tạo các biến cần thiết.
 
 ```csharp
-// Tải tài liệu nguồn và tài liệu đích.
+//Tải tài liệu nguồn và tài liệu đích.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,7 +110,7 @@ Có, bạn có thể lặp lại quy trình này cho từng dấu trang và thê
 Ví dụ hiện tại giả định chúng có cùng cha mẹ. Nếu không, bạn sẽ cần triển khai xử lý phức tạp hơn.
 
 ### Định dạng gốc của văn bản được thêm vào có được giữ nguyên không?
- Chắc chắn rồi! Sử dụng`ImportFormatMode.KeepSourceFormatting` đảm bảo định dạng ban đầu được duy trì.
+ Chắc chắn rồi! Sử dụng`ImportFormatMode.KeepSourceFormatting`đảm bảo định dạng ban đầu được duy trì.
 
 ### Có thể thêm văn bản vào vị trí cụ thể trong tài liệu đích không?
 Có, bạn có thể thêm văn bản vào bất kỳ vị trí mong muốn nào bằng cách điều hướng đến nút thích hợp trong tài liệu đích.

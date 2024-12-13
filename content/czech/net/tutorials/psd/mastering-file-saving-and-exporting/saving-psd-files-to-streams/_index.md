@@ -9,7 +9,7 @@ url: /cs/net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-
 ---
 ## Zavedení
 
-rychle se rozvíjející oblasti vývoje .NET se Aspose.PSD ukazuje jako neocenitelná knihovna pro přesné a efektivní zpracování obrázků. Pokud se chcete naučit, jak ukládat obrázky do streamu pomocí Aspose.PSD pro .NET, tato příručka vám poskytne podrobné pokyny, které lze snadno sledovat.
+V rychle se rozvíjející oblasti vývoje .NET se Aspose.PSD ukazuje jako neocenitelná knihovna pro přesné a efektivní zpracování obrázků. Pokud se chcete naučit, jak ukládat obrázky do streamu pomocí Aspose.PSD pro .NET, tato příručka vám poskytne podrobné pokyny, které lze snadno sledovat.
 
 ## Předpoklady
 
@@ -47,7 +47,7 @@ Určete umístění zdrojového souboru PSD a místo, kam chcete obrázek uloži
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Cesta ke zdrojovému souboru PSD
-string destName = dataDir + "result.png";   // Cesta k výstupnímu souboru obrázku
+string destName = dataDir + "result.png";   //Cesta k výstupnímu souboru obrázku
 ```
 
 ## Krok 3: Načtěte obrázek PSD a zpracujte nenalezená písma
@@ -89,7 +89,7 @@ Gratuluji! Úspěšně jste se naučili ukládat obrázky do streamu pomocí Asp
 ## FAQ
 
 ### Mohu použít Aspose.PSD s jakýmkoli typem souboru obrázku?
- Ano! Aspose.PSD podporuje různé formáty obrázků, včetně PSD, PNG, JPEG a dalších. Podrobný seznam naleznete v dokumentaci[zde](https://reference.aspose.com/psd/net/).
+Ano! Aspose.PSD podporuje různé formáty obrázků, včetně PSD, PNG, JPEG a dalších. Podrobný seznam naleznete v dokumentaci[zde](https://reference.aspose.com/psd/net/).
 
 ### Jak získám podporu pro Aspose.PSD?
  Pro pomoc a podporu komunity navštivte fórum podpory Aspose.PSD[zde](https://forum.aspose.com/c/psd/34).

@@ -85,7 +85,7 @@ Ja, biblioteket stöder jämförelse av olika dokumentformat, inklusive kalkylbl
 
 ### Hur kan jag få support för GroupDocs.Comparison för .NET?
 
- För support besök gruppen GroupDocs.Comparison[forum](https://forum.groupdocs.com/c/comparison/12).
+För support besök gruppen GroupDocs.Comparison[forum](https://forum.groupdocs.com/c/comparison/12).
 
 ### Var kan jag köpa en licens för GroupDocs.Comparison för .NET?
 

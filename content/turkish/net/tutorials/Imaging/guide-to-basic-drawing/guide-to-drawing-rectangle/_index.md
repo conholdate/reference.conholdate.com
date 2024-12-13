@@ -74,11 +74,11 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
-Bu bölüm, bir`Graphics` nesneyi temizleyin, yüzeyi temizleyin ve farklı renklere ve konumlara sahip iki dikdörtgen ekleyin. Çizimleriniz tamamlandıktan sonra, değişikliklerinizi kalıcı hale getirmek için resmi kaydedin.
+ Bu bölüm, bir`Graphics` nesneyi temizleyin, yüzeyi temizleyin ve farklı renklere ve konumlara sahip iki dikdörtgen ekleyin. Çizimleriniz tamamlandıktan sonra, değişikliklerinizi kalıcı hale getirmek için resmi kaydedin.
 
 ## Adım 4: Görüntüyü Kaydedin
 
- Son görüntüyü kaydetmek, yukarıda gösterildiği gibi basittir.`using` ifadesi nerede`image.Save()` otomatik olarak çağrılır`using` blok biter.
+ Son görüntüyü kaydetmek, yukarıda gösterildiği gibi basittir.`using` ifadesi nerede`image.Save()`otomatik olarak çağrılır`using` blok biter.
 
 ## Çözüm
 

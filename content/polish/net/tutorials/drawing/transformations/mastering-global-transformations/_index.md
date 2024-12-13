@@ -49,7 +49,7 @@ graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 Następnie zastosujmy globalną transformację do kontekstu graficznego. W tym przykładzie obrócimy cały kontekst graficzny o 15 stopni.
 
 ```csharp
-//Zastosuj transformację obrotu (15 stopni)
+// Zastosuj transformację obrotu (15 stopni)
 graphics.RotateTransform(15);
 ```
 
@@ -78,7 +78,7 @@ Gratulacje! Udało Ci się zaimplementować transformację globalną przy użyci
 
 ## Wniosek
 
-tym samouczku zbadaliśmy fascynujące możliwości globalnych transformacji w Aspose.Drawing dla .NET. Ta funkcja nie tylko zwiększa Twoją zdolność do tworzenia wizualnie oszałamiających grafik, ale także otwiera nieskończone możliwości dla Twoich aplikacji. W miarę kontynuowania eksperymentów odkryjesz wszechstronność i moc, jaką oferuje Aspose.Drawing.
+W tym samouczku zbadaliśmy fascynujące możliwości globalnych transformacji w Aspose.Drawing dla .NET. Ta funkcja nie tylko zwiększa Twoją zdolność do tworzenia wizualnie oszałamiających grafik, ale także otwiera nieskończone możliwości dla Twoich aplikacji. W miarę kontynuowania eksperymentów odkryjesz wszechstronność i moc, jaką oferuje Aspose.Drawing.
 
 ## Najczęściej zadawane pytania
 

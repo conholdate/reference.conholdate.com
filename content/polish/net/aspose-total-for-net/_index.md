@@ -319,7 +319,7 @@ Poniżej znajdują się linki do przydatnych zasobów, które mogą Ci się przy
 
 **Welcome to the Aspose.OMR for .NET** 
 
-Aspose.OMR dla .NET to API do rozpoznawania znaków optycznych z obrazów arkuszy zdigitalizowanych OMR. Może być używany do rozpoznawania znaków optycznych w różnych formatach obrazów, takich jak BMP, JPG, TIF, TIFF, GIF. API umożliwia przechwytywanie danych oznaczonych przez ludzi z formularzy dokumentów, takich jak ankiety, kwestionariusze, arkusze egzaminacyjne wielokrotnego wyboru i inne testy. Dzięki temu rozwiązaniu możliwe jest rozpoznawanie zeskanowanych obrazów, a nawet zdjęć z dużą dokładnością. Rozpoznawanie opiera się na znacznikach szablonu, które zawierają graficzne mapowanie elementów, które mają zostać rozpoznane ze zeskanowanych obrazów.
+Aspose.OMR dla .NET to API do rozpoznawania znaków optycznych z obrazów arkuszy zdigitalizowanych OMR. Może być używane do rozpoznawania znaków optycznych w różnych formatach obrazów, takich jak BMP, JPG, TIF, TIFF, GIF. API umożliwia przechwytywanie danych oznaczonych przez ludzi z formularzy dokumentów, takich jak ankiety, kwestionariusze, arkusze egzaminacyjne wielokrotnego wyboru i inne testy. Dzięki temu rozwiązaniu możliwe jest rozpoznawanie zeskanowanych obrazów, a nawet zdjęć z dużą dokładnością. Rozpoznawanie opiera się na znacznikach szablonu, które zawierają graficzne mapowanie elementów, które mają zostać rozpoznane ze zeskanowanych obrazów.
 
 {{% /alert %}} 
 

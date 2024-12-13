@@ -61,7 +61,7 @@ string dataDir = "Your Data Directory";
 
 ## Шаг 2: Откройте документ EPUB для чтения.
 
- Используя`File.OpenRead` Метод позволяет открыть документ EPUB для чтения. Это позволяет вашему приложению получить доступ к содержимому файла EPUB.
+ Используя`File.OpenRead`Метод позволяет открыть документ EPUB для чтения. Это позволяет вашему приложению получить доступ к содержимому файла EPUB.
 
 ```csharp
 using (var fs = File.OpenRead(dataDir + "document.epub"))
@@ -111,4 +111,4 @@ Aspose.HTML — это библиотека для .NET, которая позв
  Вы можете получить поддержку, посетив[Форум поддержки Aspose](https://forum.aspose.com/c/html/29).
 
 ### Как получить временную лицензию для Aspose.HTML?
-Вы можете получить временную лицензию[эта страница](https://purchase.conholdate.com/temporary-license/).
+ Вы можете получить временную лицензию[эта страница](https://purchase.conholdate.com/temporary-license/).

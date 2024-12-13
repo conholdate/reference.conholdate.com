@@ -15,7 +15,7 @@ url: /ar/net/tutorials/comparison/guide-to-basic-usage/comparing-cells-from-stre
 
 قبل أن تبدأ، تأكد من أن لديك ما يلي:
 
-1.  GroupDocs.Comparison لـ .NET: تنزيل المكتبة وتثبيتها من[هنا](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison لـ .NET: تنزيل المكتبة وتثبيتها من[هنا](https://releases.groupdocs.com/comparison/net/).
 2. المعرفة الأساسية بلغة C#: يُفترض أن يكون لديك إلمام ببرمجة C# في هذا البرنامج التعليمي.
 3. بيئة التطوير المتكاملة (IDE): استخدم بيئة تطوير متكاملة مثل Visual Studio للترميز.
 4. المستندات المراد مقارنتها: قم بإعداد المستندات التي ترغب في مقارنتها وتأكد من إمكانية الوصول إليها من خلال الكود C# الخاص بك.
@@ -96,4 +96,4 @@ Console.WriteLine($"\nDocuments compared successfully.\nCheck output in {outputD
 
 ### أين يمكنني طلب المساعدة أو الدعم المتعلق بـ GroupDocs.Comparison لـ .NET؟
 
-للحصول على المساعدة، قم بزيارة منتدى GroupDocs.Comparison[هنا](https://forum.groupdocs.com/c/comparison/12).
+ للحصول على المساعدة، قم بزيارة منتدى GroupDocs.Comparison[هنا](https://forum.groupdocs.com/c/comparison/12).

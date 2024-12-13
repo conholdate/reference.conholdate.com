@@ -90,7 +90,7 @@ In deze tutorial hebben we onderzocht hoe u GroupDocs.Metadata voor .NET effecti
  Gedetailleerde documentatie is beschikbaar op de[GroupDocs.Metadata voor .NET-documentatie](https://reference.groupdocs.com/metadata/net/).
 
 ### Ondersteunt GroupDocs.Metadata een gratis proefperiode?
-Ja, u kunt een gratis proefversie van GroupDocs.Metadata downloaden[hier](https://releases.groupdocs.com/).
+ Ja, u kunt een gratis proefversie van GroupDocs.Metadata downloaden[hier](https://releases.groupdocs.com/).
 
 ### Waar kan ik ondersteuning krijgen voor GroupDocs.Metadata?
  Voor ondersteuning, bezoek de[GroupDocs.Metadata-forum](https://forum.groupdocs.com/c/metadata/14) voor hulp en discussies in de gemeenschap.

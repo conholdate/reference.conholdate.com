@@ -61,7 +61,7 @@ string dataDir = "Your Data Directory";
 
 ## Adım 2: Okumak için EPUB Belgesini Açın
 
- Kullanımı`File.OpenRead` yöntemi, EPUB belgesini okumak için açabilirsiniz. Bu, uygulamanızın EPUB dosyasının içeriğine erişmesine olanak tanır.
+ Kullanımı`File.OpenRead`yöntemi, EPUB belgesini okumak için açabilirsiniz. Bu, uygulamanızın EPUB dosyasının içeriğine erişmesine olanak tanır.
 
 ```csharp
 using (var fs = File.OpenRead(dataDir + "document.epub"))
@@ -111,4 +111,4 @@ Aspose.HTML ile EPUB'ı XPS, PDF ve daha fazlası dahil olmak üzere çeşitli f
  Destek almak için şu adresi ziyaret edebilirsiniz:[Aspose destek forumu](https://forum.aspose.com/c/html/29).
 
 ### Aspose.HTML için geçici lisansı nasıl alabilirim?
-Geçici lisansı şuradan alabilirsiniz:[bu sayfa](https://purchase.conholdate.com/temporary-license/).
+ Geçici lisansı şuradan alabilirsiniz:[bu sayfa](https://purchase.conholdate.com/temporary-license/).

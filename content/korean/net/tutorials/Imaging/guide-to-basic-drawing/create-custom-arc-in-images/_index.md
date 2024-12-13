@@ -38,7 +38,7 @@ using System.IO;
 ## 1단계: 이미지 생성 및 스트림 저장
 
 ```csharp
-//이미지를 저장할 디렉토리를 정의하세요
+// 이미지를 저장할 디렉토리를 정의하세요
 string dataDir = "Your Document Directory"; // 이것을 원하는 경로로 업데이트하세요
 
 // BMP 이미지를 저장하기 위한 스트림을 생성합니다.

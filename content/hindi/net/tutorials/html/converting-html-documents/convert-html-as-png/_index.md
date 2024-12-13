@@ -17,7 +17,7 @@ url: /hi/net/tutorials/html/converting-html-documents/convert-html-as-png/
 
 1.  .NET Framework/ .NET Core: सुनिश्चित करें कि आपके मशीन पर .NET Framework या .NET Core इंस्टॉल है। आप डाउनलोड कर सकते हैं[.NET यहाँ](https://dotnet.microsoft.com/download).
 
-2.  .NET लाइब्रेरी के लिए Aspose.HTML: आपके पास Aspose.HTML लाइब्रेरी होनी चाहिए। आप इसे डाउनलोड कर सकते हैं[यहाँ](https://releases.aspose.com/html/net/)या इसे मुफ्त में आज़माएं[मुफ्त परीक्षण](https://releases.aspose.com/).
+2.  .NET लाइब्रेरी के लिए Aspose.HTML: आपके पास Aspose.HTML लाइब्रेरी होनी चाहिए। आप इसे डाउनलोड कर सकते हैं[यहाँ](https://releases.aspose.com/html/net/) या इसे मुफ्त में आज़माएं[मुफ्त परीक्षण](https://releases.aspose.com/).
 
 3. IDE: आपके कोड को लिखने और चलाने के लिए विजुअल स्टूडियो जैसे उपयुक्त एकीकृत विकास वातावरण (IDE) की सिफारिश की जाती है।
 
@@ -53,7 +53,7 @@ using Aspose.Html.Rendering.Image;
 string dataDir = "Your Data Directory"; // अपना निर्देशिका पथ निर्दिष्ट करें
 ```
 
--  प्रतिस्थापित करें`"Your Data Directory"` उस पथ के साथ जहाँ आप अपनी आउटपुट PNG फ़ाइलें संग्रहीत करना चाहते हैं। यह कुछ इस तरह हो सकता है`@"C:\work\"`.
+-  प्रतिस्थापित करें`"Your Data Directory"`उस पथ के साथ जहाँ आप अपनी आउटपुट PNG फ़ाइलें संग्रहीत करना चाहते हैं। यह कुछ इस तरह हो सकता है`@"C:\work\"`.
 
 ## चरण 2: HTML दस्तावेज़ ऑब्जेक्ट बनाएँ
 
@@ -79,7 +79,7 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
-- `HtmlRenderer`HTML कंटेंट को इमेज में बदलने के लिए यह आपकी पसंदीदा ऑब्जेक्ट है। यह रेंडरिंग प्रक्रिया को संभालता है, ताकि आप अपनी ज़रूरत पर ध्यान केंद्रित कर सकें!
+- `HtmlRenderer` HTML कंटेंट को इमेज में बदलने के लिए यह आपकी पसंदीदा ऑब्जेक्ट है। यह रेंडरिंग प्रक्रिया को संभालता है, ताकि आप अपनी ज़रूरत पर ध्यान केंद्रित कर सकें!
 
 ## चरण 4: इमेज डिवाइस सेट करें
 

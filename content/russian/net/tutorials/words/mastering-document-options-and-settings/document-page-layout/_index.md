@@ -15,7 +15,7 @@ url: /ru/net/tutorials/words/mastering-document-options-and-settings/document-pa
 
 Прежде чем начать, убедитесь, что у вас есть следующее:
 
--  Aspose.Words для .NET: Загрузить[здесь](https://releases.aspose.com/words/net/).
+- Aspose.Words для .NET: Загрузить[здесь](https://releases.aspose.com/words/net/).
 -  Действующая лицензия: приобретите ее[здесь](https://purchase.aspose.com/buy) или получить временную лицензию[здесь](https://purchase.aspose.com/temporary-license/).
 - Базовые знания программирования на C#: не волнуйтесь, я постараюсь все упростить.
 - Интегрированная среда разработки (IDE): настоятельно рекомендуется Visual Studio.

@@ -63,7 +63,7 @@ options.RenderComments = true; // Aktifkan rendering komentar
 ```
 
 ## Langkah 5: Render Dokumen dengan Komentar
- Telepon`View` metode pada`Viewer` objek dengan opsi yang dikonfigurasikan.
+ Telepon`View`metode pada`Viewer` objek dengan opsi yang dikonfigurasikan.
 
 ```csharp
 viewer.View(options);

@@ -7,7 +7,7 @@ type: docs
 weight: 1520
 url: /es/net/tutorials/words/mastering-document-properties/
 ---
-##Introducción  
+## Introducción  
 
 Aspose.Words para .NET ofrece una amplia gama de funciones potentes para manipular documentos de Word, lo que facilita la gestión de metadatos y formatos. Una de esas funciones es el dominio de las propiedades de los documentos. En este artículo, analizaremos tutoriales que cubren la adición de propiedades de documentos personalizadas, la eliminación de metadatos innecesarios e incluso la conversión de unidades de medida para una mejor gestión de documentos. Exploremos cómo estos tutoriales pueden ayudar a mejorar su flujo de trabajo.
 

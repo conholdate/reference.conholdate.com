@@ -38,7 +38,7 @@ using System.IO;
 ## Schritt 1: Erstellen Sie das Image und speichern Sie den Stream
 
 ```csharp
-//Definieren Sie das Verzeichnis, in dem das Bild gespeichert werden soll
+// Definieren Sie das Verzeichnis, in dem das Bild gespeichert werden soll
 string dataDir = "Your Document Directory"; // Aktualisieren Sie dies auf Ihren bevorzugten Pfad
 
 // Erstellen Sie einen Stream zum Speichern des BMP-Bildes

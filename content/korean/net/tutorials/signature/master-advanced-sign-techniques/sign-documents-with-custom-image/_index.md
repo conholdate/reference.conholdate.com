@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## 4단계: Signature 객체 초기화
 
- 인스턴스를 생성합니다`Signature` 클래스, 문서 파일 경로 전달:
+ 인스턴스를 생성합니다`Signature`클래스, 문서 파일 경로 전달:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

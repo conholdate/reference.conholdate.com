@@ -19,7 +19,7 @@ url: /ar/net/tutorials/conversion/guide-to-document-conversion/convert-markdown-
  تأكد من تثبيت .NET SDK على جهازك. يمكنك تنزيله من[موقع .NET](https://dotnet.microsoft.com/download).
 
 ### GroupDocs.Conversion لمكتبة .NET
-قم بتنزيل مكتبة GroupDocs.Conversion لـ .NET من[موقع](https://releases.groupdocs.com/conversion/net/)اتبع تعليمات التثبيت لإضافته إلى مشروعك.
+ قم بتنزيل مكتبة GroupDocs.Conversion لـ .NET من[موقع](https://releases.groupdocs.com/conversion/net/)اتبع تعليمات التثبيت لإضافته إلى مشروعك.
 
 ## الخطوة 1: استيراد المساحات الأساسية الضرورية
 في مشروع .NET الخاص بك، قم بتضمين المساحات الأسماء التالية للوصول إلى وظائف GroupDocs:

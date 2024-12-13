@@ -95,7 +95,7 @@ Igen, az Aspose.OCR sokoldalú, és támogatja a .NET-ben fejlesztett asztali é
  Felfedezheti a licencelési lehetőségeket és vásárolhat[itt](https://purchase.conholdate.com/buy) . Ingyenes próbaverzió is elérhető[itt](https://releases.aspose.com/) , és ideiglenes engedélyek szerezhetők be[itt](https://purchase.conholdate.com/temporary-license/).
 
 ### Hol találok támogatást az Aspose.OCR-hez?  
- Segítségért keresse fel a[Aspose.OCR fórum](https://forum.aspose.com/c/ocr/16) közösségért és támogatásért.
+Segítségért keresse fel a[Aspose.OCR fórum](https://forum.aspose.com/c/ocr/16) közösségért és támogatásért.
 
 ### Mely képformátumokat támogatja az Aspose.OCR?  
 Az Aspose.OCR számos formátumot támogat, beleértve a PNG, JPEG, GIF, BMP és TIFF formátumokat.

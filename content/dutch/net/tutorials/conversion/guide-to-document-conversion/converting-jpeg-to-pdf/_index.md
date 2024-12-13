@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // PDF-conversieopties maken
 ```
 
 ## Stap 4: Voer de conversie uit
- Roep de`Convert`methode om de formaatwijziging uit te voeren. Geef het pad van uw uitvoerbestand door, samen met de conversieopties:
+ Roep de`Convert` methode om de formaatwijziging uit te voeren. Geef het pad van uw uitvoerbestand door, samen met de conversieopties:
 
 ```csharp
-converter.Convert(outputFile, options); // Voer de conversie uit
+converter.Convert(outputFile, options); //Voer de conversie uit
 ```
 
 ## Stap 5: Een voltooiingsbericht weergeven
@@ -92,4 +92,4 @@ De bibliotheek ondersteunt een groot aantal formaten, waaronder afbeeldingen, do
  Ja, u kunt een proefversie downloaden van de[GroupDocs-website](https://releases.groupdocs.com/).
 
 ### Waar kan ik ondersteuning krijgen met betrekking tot GroupDocs.Conversion voor .NET?
- Voor hulp, bezoek de[GroupDocs.Conversion-forum](https://forum.groupdocs.com/c/conversion/11) om contact te maken met de gemeenschap en hulp te zoeken.
+Voor hulp, bezoek de[GroupDocs.Conversion-forum](https://forum.groupdocs.com/c/conversion/11) om contact te maken met de gemeenschap en hulp te zoeken.

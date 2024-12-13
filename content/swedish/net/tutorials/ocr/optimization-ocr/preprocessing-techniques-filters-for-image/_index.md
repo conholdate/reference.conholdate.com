@@ -95,7 +95,7 @@ Ja, Aspose.OCR är mångsidig och stöder både skrivbords- och webbapplikatione
  Du kan utforska licensalternativ och göra inköp[här](https://purchase.conholdate.com/buy) . En gratis provperiod är också tillgänglig[här](https://releases.aspose.com/) , och tillfälliga licenser kan erhållas[här](https://purchase.conholdate.com/temporary-license/).
 
 ### Var kan jag hitta support för Aspose.OCR?  
- För hjälp, besök[Aspose.OCR-forum](https://forum.aspose.com/c/ocr/16) för gemenskap och stöd.
+För hjälp, besök[Aspose.OCR-forum](https://forum.aspose.com/c/ocr/16) för gemenskap och stöd.
 
 ### Vilka bildformat stöder Aspose.OCR?  
 Aspose.OCR stöder en mängd olika format, inklusive PNG, JPEG, GIF, BMP och TIFF.

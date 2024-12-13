@@ -69,7 +69,7 @@ Aspose.Pdf.CgmLoadOptions cgmLoadOptions = new Aspose.Pdf.CgmLoadOptions();
  अब, एक उदाहरण बनाएं`Document` ऑब्जेक्ट को मेमोरी में आपकी CGM फ़ाइल का प्रतिनिधित्व करने के लिए उपयोग करें। यह आपको फ़ाइल को PDF के रूप में सहेजने से पहले उसमें हेरफेर करने की अनुमति देता है।
 
 ```csharp
-//दस्तावेज़ ऑब्जेक्ट को इंस्टैंशिएट करें
+// दस्तावेज़ ऑब्जेक्ट को इंस्टैंशिएट करें
 Document doc = new Document(dataDir + "CGMToPDF.CGM", cgmLoadOptions);
 ```
 
@@ -102,7 +102,7 @@ doc.Save(dataDir + "TECHDRAW_out.pdf");
 
 ### मैं Aspose.PDF के लिए समर्थन कहां पा सकता हूं?
 
- सहायता के लिए, यहां जाएं[Aspose समर्थन मंच](https://forum.aspose.com/c/pdf/10), जहां आप प्रश्न पूछ सकते हैं और सामान्य मुद्दों का समाधान पा सकते हैं।
+सहायता के लिए, यहां जाएं[Aspose समर्थन मंच](https://forum.aspose.com/c/pdf/10)जहां आप प्रश्न पूछ सकते हैं और सामान्य मुद्दों का समाधान पा सकते हैं।
 
 ### मैं Aspose.PDF के लिए लाइसेंस कैसे खरीदूं?
 

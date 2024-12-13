@@ -18,7 +18,7 @@ url: /th/net/tutorials/words/word-document-saving-options/do-not-compress-small-
 1.  Aspose.Words สำหรับ .NET: ดาวน์โหลดและติดตั้งเวอร์ชันล่าสุดจาก[การเปิดตัว Aspose](https://releases.aspose.com/words/net/).
 2. สภาพแวดล้อมการพัฒนา: ใช้ Visual Studio หรือ IDE ที่เข้ากันได้
 3. ความเข้าใจพื้นฐานเกี่ยวกับ C#: ความคุ้นเคยกับ C# และ .NET framework จะเป็นประโยชน์
-4.  ใบอนุญาต Aspose: เพื่อปลดล็อค Aspose.Words อย่างสมบูรณ์ การซื้อ[ใบอนุญาต](https://purchase.aspose.com/buy)ขอแนะนำ หรือคุณสามารถใช้[ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/) เพื่อวัตถุประสงค์ในการประเมินผล
+4.  ใบอนุญาต Aspose: เพื่อปลดล็อค Aspose.Words อย่างสมบูรณ์ การซื้อ[ใบอนุญาต](https://purchase.aspose.com/buy) ขอแนะนำ หรือคุณสามารถใช้[ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/) เพื่อวัตถุประสงค์ในการประเมินผล
 
 ## การนำเข้าเนมสเปซ
 
@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## ขั้นตอนที่ 3: กำหนดค่าตัวเลือกการบันทึก
 
- ตอนนี้ กำหนดค่าตัวเลือกการบันทึกเพื่อใช้คุณลักษณะ "อย่าบีบอัดไฟล์เมตาขนาดเล็ก" ด้วย`DocSaveOptions` ระดับ.
+ ตอนนี้ กำหนดค่าตัวเลือกการบันทึกเพื่อใช้คุณลักษณะ "อย่าบีบอัดไฟล์เมตาขนาดเล็ก" ด้วย`DocSaveOptions`ระดับ.
 
 ```csharp
 // กำหนดค่าตัวเลือกการบันทึกด้วยคุณลักษณะ "อย่าบีบอัดไฟล์เมตาขนาดเล็ก"
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- ขั้นตอนนี้จะสร้างอินสแตนซ์ของ`DocSaveOptions`และตั้งค่า`Compliance` ทรัพย์สินที่จะ`PdfCompliance.PdfA1a`เพื่อให้แน่ใจว่าเอกสารเป็นไปตามมาตรฐาน PDF/A-1a
+ ขั้นตอนนี้จะสร้างอินสแตนซ์ของ`DocSaveOptions` และตั้งค่า`Compliance` ทรัพย์สินที่จะ`PdfCompliance.PdfA1a`เพื่อให้แน่ใจว่าเอกสารเป็นไปตามมาตรฐาน PDF/A-1a
 
 ## ขั้นตอนที่ 4: บันทึกเอกสาร
 
 สุดท้าย ให้บันทึกเอกสารโดยใช้ตัวเลือกที่กำหนดค่าไว้ โดยให้แน่ใจว่าเมตาไฟล์ขนาดเล็กจะไม่ถูกบีบอัด
 
 ```csharp
-// บันทึกเอกสารด้วยตัวเลือกที่ระบุ
+//บันทึกเอกสารด้วยตัวเลือกที่ระบุ
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 
 ### ฉันต้องมีใบอนุญาตเพื่อใช้ Aspose.Words สำหรับ .NET หรือไม่?
 
- แม้ว่าคุณจะสามารถใช้ Aspose.Words สำหรับ .NET ได้โดยไม่ต้องมีใบอนุญาตเพื่อวัตถุประสงค์ในการประเมินผล แต่จำเป็นต้องมีใบอนุญาตจึงจะใช้งานได้เต็มรูปแบบ คุณสามารถซื้อใบอนุญาตได้[ที่นี่](https://purchase.aspose.com/buy) หรือลอง[ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/) เพื่อการประเมินผล
+แม้ว่าคุณจะสามารถใช้ Aspose.Words สำหรับ .NET ได้โดยไม่ต้องมีใบอนุญาตเพื่อวัตถุประสงค์ในการประเมินผล แต่จำเป็นต้องมีใบอนุญาตจึงจะใช้งานได้เต็มรูปแบบ คุณสามารถซื้อใบอนุญาตได้[ที่นี่](https://purchase.aspose.com/buy) หรือลอง[ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/) เพื่อการประเมินผล
 
 ### ฉันจะมั่นใจได้อย่างไรว่าเอกสารของฉันเป็นไปตามมาตรฐาน PDF/A
 

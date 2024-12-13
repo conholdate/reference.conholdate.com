@@ -15,7 +15,7 @@ Při vývoji softwaru, zejména při práci s právními dokumenty, smlouvami ne
 
 Než začnete, ujistěte se, že máte následující:
 
-1.  GroupDocs.Comparison for .NET: Stáhněte a nainstalujte knihovnu z[zde](https://releases.groupdocs.com/comparison/net/).
+1. GroupDocs.Comparison for .NET: Stáhněte a nainstalujte knihovnu z[zde](https://releases.groupdocs.com/comparison/net/).
 2. Základní znalost C#: Pro tento tutoriál se předpokládá znalost programování v C#.
 3. Integrované vývojové prostředí (IDE): Pro kódování použijte IDE, jako je Visual Studio.
 4. Dokumenty k porovnání: Připravte si dokumenty, které chcete porovnat, a ujistěte se, že jsou přístupné z vašeho kódu C#.
@@ -96,4 +96,4 @@ Absolutně! GroupDocs.Comparison for .NET nabízí různé možnosti přizpůsob
 
 ### Kde mohu vyhledat pomoc nebo podporu související s GroupDocs.Comparison for .NET?
 
-Potřebujete-li pomoc, navštivte fórum GroupDocs.Comparison[zde](https://forum.groupdocs.com/c/comparison/12).
+ Potřebujete-li pomoc, navštivte fórum GroupDocs.Comparison[zde](https://forum.groupdocs.com/c/comparison/12).

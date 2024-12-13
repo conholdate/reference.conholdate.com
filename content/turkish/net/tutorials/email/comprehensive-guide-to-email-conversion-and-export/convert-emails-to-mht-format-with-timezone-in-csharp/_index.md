@@ -94,7 +94,7 @@ Kesinlikle! Aspose.Email for .NET, MSG, EML, PST ve daha fazlası dahil olmak ü
 
 ### Saat dilimi bilgisi MHT formatında saklanıyor mu?
 
- Evet, zaman dilimi bilgileri dönüştürme işlemi sırasında korunur. Zaman dilimi farklarını işleyerek ve uygun`TimeZoneInfo` yöntemlerini kullanarak MHT dosyasında doğru zaman dilimi gösterimini sağlayabilirsiniz.
+ Evet, zaman dilimi bilgileri dönüştürme işlemi sırasında korunur. Zaman dilimi farklarını işleyerek ve uygun`TimeZoneInfo`yöntemlerini kullanarak MHT dosyasında doğru zaman dilimi gösterimini sağlayabilirsiniz.
 
 ### Aspose.Email for .NET hakkında daha fazla doküman ve güncellemeyi nerede bulabilirim?
 

@@ -25,7 +25,7 @@ A dokumentumfeldolgozás területén az Aspose.Words for .NET robusztus eszközk
 
 ## Összegzési technikák elsajátítása
 
- Végül ne hagyja ki a bemutatónkat[Összefoglalja a dokumentumok beállításait](./summarize-documents-options/). Ez az erőforrás mélyrehatóan foglalkozik az Aspose.Words-ben elérhető különböző összegzési technikákkal. Mindegyik módszert úgy alakítottuk ki, hogy segítsen optimalizálni a munkafolyamatot, és az összetett dokumentumokat figyelemreméltó sebességgel hasznosítható betekintést nyerni. E technikák felfedezésével javíthatja a dokumentumok hatékony és eredményes kezelésének képességét.
+ Végül ne hagyja ki a bemutatónkat[Összefoglalja a dokumentumok opcióit](./summarize-documents-options/). Ez az erőforrás mélyrehatóan foglalkozik az Aspose.Words-ben elérhető különböző összegzési technikákkal. Mindegyik módszert úgy alakítottuk ki, hogy segítsen optimalizálni a munkafolyamatot, és az összetett dokumentumokat figyelemreméltó sebességgel hasznosítható betekintést nyerni. E technikák felfedezésével javíthatja a dokumentumok hatékony és eredményes kezelésének képességét.
 
  ## AI-alapú dokumentumfeldolgozási oktatóanyagok
 | Cím | Leírás |
@@ -33,4 +33,4 @@ A dokumentumfeldolgozás területén az Aspose.Words for .NET robusztus eszközk
 | [Dokumentumösszegzés elsajátítása AI modellekkel](./mastering-document-summarization-ai-model/) | Használja ki a dokumentumautomatizálásban rejlő lehetőségeket az Aspose.Words for .NET segítségével. Tanulja meg, hogyan lehet könnyedén összefoglalni dokumentumokat fejlett AI-modellek segítségével. |
 | [Dokumentumösszegzés elsajátítása Google AI-modellek](./mastering-document-summarization-google-ai-model/) | Ismerje meg lépésről lépésre, hogyan foglalhat össze Word-dokumentumokat az Aspose.Words és a Google AI segítségével a .NET-ben. Kövesse ezt az útmutatót a tartalom-kinyerés, a dokumentumbetekintés és az automatizálás egyszerűsítéséhez. |
 | [Hatékony dokumentum-összefoglaló nyílt mesterséges intelligencia modell](./efficient-document-summarization-openai-model/) | Ezzel az átfogó oktatóanyaggal megtudhatja, hogyan lehet gyorsan és pontosan összefoglalni nagy dokumentumokat, amely előfeltételeket, beállítást és kódolási példákat tartalmaz. |
-| [Összefoglalja a dokumentumok beállításait](./summarize-documents-options/) | Ismerje meg, hogyan lehet hatékonyan összefoglalni dokumentumokat az Aspose.Words for .NET segítségével. Ez az átfogó útmutató kiterjed a beállításra, a dokumentumbetöltésre és az AI-modell integrációjára. |
+| [Összefoglalja a dokumentumok opcióit](./summarize-documents-options/) | Ismerje meg, hogyan lehet hatékonyan összefoglalni dokumentumokat az Aspose.Words for .NET segítségével. Ez az átfogó útmutató kiterjed a beállításra, a dokumentumbetöltésre és az AI-modell integrációjára. |

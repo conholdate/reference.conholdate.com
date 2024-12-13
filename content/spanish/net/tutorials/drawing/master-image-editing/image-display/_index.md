@@ -15,7 +15,7 @@ url: /es/net/tutorials/drawing/master-image-editing/image-display/
 
 Antes de comenzar, asegúrese de tener estos requisitos previos establecidos:
 
-- Biblioteca Aspose.Drawing para .NET: Descargue e instale la biblioteca desde[página de lanzamiento](https://releases.aspose.com/drawing/net/).
+-  Biblioteca Aspose.Drawing para .NET: Descargue e instale la biblioteca desde[página de lanzamiento](https://releases.aspose.com/drawing/net/).
 - Entorno .NET: asegúrese de que su entorno de desarrollo esté configurado para trabajar con .NET.
 - Directorio de documentos: crea un directorio para almacenar tus imágenes.
 - Archivo de imagen: prepare un archivo de imagen para mostrar, como "aspose_logo.png".
@@ -88,7 +88,7 @@ Sí, Aspose.Drawing se actualiza periódicamente para mantener la compatibilidad
 
 ### ¿Cómo puedo gestionar el escalado de imágenes en Aspose.Drawing?
 
- Puede ajustar la escala de la imagen modificando los parámetros en el`DrawImage`método, como especificar el rectángulo de destino.
+ Puede ajustar la escala de la imagen modificando los parámetros en el`DrawImage` método, como especificar el rectángulo de destino.
 
 ### ¿Existen consideraciones de licencia para utilizar Aspose.Drawing en proyectos comerciales?
 
@@ -96,4 +96,4 @@ Sí, Aspose.Drawing se actualiza periódicamente para mantener la compatibilidad
 
 ### ¿Dónde puedo buscar ayuda si encuentro problemas o tengo preguntas sobre Aspose.Drawing?
 
- Para obtener ayuda, puede visitar el sitio[Foro de Aspose.Drawing](https://forum.aspose.com/c/diagram/17) para conectarse con la comunidad y encontrar asistencia de expertos.
+Para obtener ayuda, puede visitar el sitio[Foro de Aspose.Drawing](https://forum.aspose.com/c/diagram/17) para conectarse con la comunidad y encontrar asistencia de expertos.

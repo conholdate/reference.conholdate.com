@@ -19,7 +19,7 @@ Než začneme, ujistěte se, že máte následující nastavení:
  Ujistěte se, že máte na svém počítači nainstalovanou sadu .NET SDK. Můžete si jej stáhnout z[webové stránky .NET](https://dotnet.microsoft.com/download).
 
 ### GroupDocs.Conversion pro knihovnu .NET
-Stáhněte si knihovnu GroupDocs.Conversion for .NET z[místo](https://releases.groupdocs.com/conversion/net/). Postupujte podle pokynů k instalaci a přidejte jej do svého projektu.
+ Stáhněte si knihovnu GroupDocs.Conversion for .NET z[místo](https://releases.groupdocs.com/conversion/net/)Postupujte podle pokynů k instalaci a přidejte jej do svého projektu.
 
 ## Krok 1: Importujte potřebné jmenné prostory
 Ve svém projektu .NET zahrňte následující jmenné prostory pro přístup k funkcím GroupDocs:
@@ -38,7 +38,7 @@ string outputFolder = "Your Document Directory"; // Zadejte svůj výstupní adr
 string outputFile = Path.Combine(outputFolder, "md-converted-to.pdf");
 ```
 
-## Krok 3: Načtěte zdrojový soubor Markdown
+## Krok 3: Načtěte zdrojový soubor markdown
 Načtěte soubor Markdown, který chcete převést:
 
 ```csharp

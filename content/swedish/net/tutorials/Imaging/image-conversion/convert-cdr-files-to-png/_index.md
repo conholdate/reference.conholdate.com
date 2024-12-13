@@ -15,7 +15,7 @@ Letar du efter ett kraftfullt och effektivt sätt att konvertera CorelDRAW-filer
 
 Innan vi börjar, se till att du har följande förutsättningar:
 
-1.  Aspose.Imaging for .NET: Ladda ner och installera Aspose.Imaging for .NET från[webbplats](https://releases.aspose.com/imaging/net/)Du kan välja mellan en gratis provversion eller en köpt version baserat på dina behov.
+1.  Aspose.Imaging for .NET: Ladda ner och installera Aspose.Imaging for .NET från[webbplats](https://releases.aspose.com/imaging/net/). Du kan välja mellan en gratis provversion eller en köpt version baserat på dina behov.
 
 2. C#-utvecklingsmiljö: Konfigurera en C#-utvecklingsmiljö på ditt system, till exempel Visual Studio eller valfri kodredigerare.
 
@@ -82,7 +82,7 @@ File.Delete(dataDir + "SimpleShapes.png");
 
 ## Slutsats
 
-I den här guiden undersökte vi hur man konverterar CDR-filer till PNG-format med Aspose.Imaging för .NET. Genom att följa stegen för att importera namnområden, ladda filen, konfigurera alternativ och spara utdata, kan du enkelt integrera denna process i dina .NET-applikationer. Aspose.Imaging effektiviserar konverteringsprocessen och erbjuder olika anpassningsalternativ, så att du kan förbättra dina applikationer effektivt.
+den här guiden undersökte vi hur man konverterar CDR-filer till PNG-format med Aspose.Imaging för .NET. Genom att följa stegen för att importera namnområden, ladda filen, konfigurera alternativ och spara utdata, kan du enkelt integrera denna process i dina .NET-applikationer. Aspose.Imaging effektiviserar konverteringsprocessen och erbjuder olika anpassningsalternativ, så att du kan förbättra dina applikationer effektivt.
 
 ## FAQ's
 

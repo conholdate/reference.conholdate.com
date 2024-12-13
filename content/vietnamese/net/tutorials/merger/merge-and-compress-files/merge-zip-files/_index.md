@@ -82,7 +82,7 @@ Có, nó tương thích với cả ứng dụng .NET Framework và .NET Core.
 
 ### Tôi có thể tùy chỉnh quy trình hợp nhất, chẳng hạn như chỉ định thứ tự các tệp trong tệp ZIP đã hợp nhất không?
 
-Có, bạn có toàn quyền kiểm soát quá trình hợp nhất. Bạn có thể chỉ định thứ tự các tệp bằng cách thao tác trình tự mà bạn gọi`Join()` phương pháp.
+ Có, bạn có toàn quyền kiểm soát quá trình hợp nhất. Bạn có thể chỉ định thứ tự các tệp bằng cách thao tác trình tự mà bạn gọi`Join()` phương pháp.
 
 ### GroupDocs.Merger cho .NET có yêu cầu giấy phép sử dụng cho mục đích thương mại không?
 

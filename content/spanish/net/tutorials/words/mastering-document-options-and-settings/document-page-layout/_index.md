@@ -15,7 +15,7 @@ Configurar el diseño de página de un documento puede ser una tarea abrumadora,
 
 Antes de comenzar, asegúrese de tener lo siguiente:
 
--  Aspose.Words para .NET: Descárgalo[aquí](https://releases.aspose.com/words/net/).
+- Aspose.Words para .NET: Descárgalo[aquí](https://releases.aspose.com/words/net/).
 -  Una licencia válida: Compre una[aquí](https://purchase.aspose.com/buy) o obtener una licencia temporal[aquí](https://purchase.aspose.com/temporary-license/).
 - Comprensión básica de programación en C#: No te preocupes, mantendré las cosas simples.
 - Entorno de desarrollo integrado (IDE): Se recomienda encarecidamente Visual Studio.

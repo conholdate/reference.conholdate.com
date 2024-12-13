@@ -38,7 +38,7 @@ using Aspose.Words;
 // Εκκινήστε και φορτώστε το αρχείο Docx
 Document doc = new Document("input.docx");
 
-// Αποθηκεύστε το έγγραφο σε ένα MemoryStream
+// Αποθηκεύστε το έγγραφο σε MemoryStream
 using (MemoryStream outStream = new MemoryStream())
 {
     doc.Save(outStream, SaveFormat.Docx);

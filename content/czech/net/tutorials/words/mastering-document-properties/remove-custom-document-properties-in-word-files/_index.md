@@ -101,7 +101,7 @@ Tím se dokument uloží s odstraněnými uživatelskými vlastnostmi, což zaji
 
 ## Závěr
 
-Odebrání vlastních vlastností dokumentu ze souborů aplikace Word pomocí Aspose.Words for .NET je jednoduché a lze jej provést pomocí několika řádků kódu. Podle tohoto průvodce můžete efektivně vyčistit dokumenty aplikace Word a spravovat vlastnosti dokumentu programově. Ať už potřebujete automatizovat zpracování dokumentů nebo odstranit nepotřebná metadata, Aspose.Words for .NET nabízí robustní řešení, které tento úkol zjednoduší.
+Odebrání vlastních vlastností dokumentu ze souborů aplikace Word pomocí Aspose.Words for .NET je jednoduché a lze jej provést pomocí několika řádků kódu. Podle tohoto průvodce můžete efektivně vyčistit dokumenty aplikace Word a spravovat vlastnosti dokumentu programově. Ať už potřebujete automatizovat zpracování dokumentů nebo odstranit nepotřebná metadata, Aspose.Words for .NET nabízí robustní řešení, které tento úkol zjednodušuje.
 
 ## FAQ
 

@@ -79,7 +79,7 @@ using (Metadata metadata = new Metadata("Your Input File Path"))
 
 ## Závěr
 
-V tomto tutoriálu jsme prozkoumali, jak efektivně používat GroupDocs.Metadata pro .NET ke správě metadat souborů. Pomocí těchto kroků můžete vylepšit své aplikace .NET o robustní možnosti zpracování souborů, takže správa metadat bude přímočará a efektivní.
+tomto tutoriálu jsme prozkoumali, jak efektivně používat GroupDocs.Metadata pro .NET ke správě metadat souborů. Pomocí těchto kroků můžete vylepšit své aplikace .NET o robustní možnosti zpracování souborů, takže správa metadat bude přímočará a efektivní.
 
 ## FAQ
 
@@ -90,10 +90,10 @@ V tomto tutoriálu jsme prozkoumali, jak efektivně používat GroupDocs.Metadat
  Podrobná dokumentace je k dispozici na[GroupDocs.Metadata pro dokumentaci .NET](https://reference.groupdocs.com/metadata/net/).
 
 ### Podporuje GroupDocs.Metadata bezplatnou zkušební verzi?
-Ano, můžete si stáhnout bezplatnou zkušební verzi GroupDocs.Metadata[zde](https://releases.groupdocs.com/).
+ Ano, můžete si stáhnout bezplatnou zkušební verzi GroupDocs.Metadata[zde](https://releases.groupdocs.com/).
 
 ### Kde mohu získat podporu pro GroupDocs.Metadata?
- Pro podporu navštivte[Fórum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) za pomoc komunity a diskuse.
+ Pro podporu navštivte[Fórum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) za komunitní pomoc a diskuse.
 
 ### Jaké formáty souborů podporuje GroupDocs.Metadata?
 GroupDocs.Metadata podporuje různé formáty, včetně DOCX, XLSX, PDF, JPG, PNG a dalších.

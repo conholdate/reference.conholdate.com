@@ -9,7 +9,7 @@ url: /hu/net/tutorials/words/mastering-bookmarks/create-bookmark-in-word-documen
 ---
 ## Bevezetés
 
-nagyméretű dokumentumokban való navigálás kihívást jelenthet, de a könyvjelzők segítségével ez gyerekjáték! Ez az oktatóanyag végigvezeti Önt a könyvjelzők létrehozásán egy Word-dokumentumban az Aspose.Words for .NET használatával. Lépésről lépésre megtanulja, hogyan állíthatja be a dokumentumot, hogyan adhat hozzá könyvjelzőket, és hogyan mentheti el PDF formátumban. Kezdjük is!
+A nagyméretű dokumentumokban való navigálás kihívást jelenthet, de a könyvjelzők segítségével ez gyerekjáték! Ez az oktatóanyag végigvezeti Önt a könyvjelzők létrehozásán egy Word-dokumentumban az Aspose.Words for .NET használatával. Lépésről lépésre megtanulja, hogyan állíthatja be a dokumentumot, hogyan adhat hozzá könyvjelzőket, és hogyan mentheti el PDF formátumban. Kezdjük is!
 
 ## Előfeltételek
 
@@ -63,7 +63,7 @@ builder.EndBookmark("Nested Bookmark");
 
 ## 4. lépés: Szöveg hozzáadása a beágyazott könyvjelzőn kívül
 
-A beágyazott könyvjelző létrehozása után folytassa a tartalom hozzáadását a fő könyvjelzőn belül:
+beágyazott könyvjelző létrehozása után folytassa a tartalom hozzáadását a fő könyvjelzőn belül:
 
 ```csharp
 builder.Writeln("Text after the nested bookmark.");

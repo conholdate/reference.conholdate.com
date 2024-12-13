@@ -17,7 +17,7 @@ Aspose.Words tutorials och kodsnuttar för att skapa, redigera, konvertera, skri
 
 ## Aspose.PDF
 {{% alert color="primary" %}}
-Aspose.PDF tutorials och kodsnuttar för att arbeta med PDF-filer. Skapa, redigera, konvertera och extrahera PDF-dokument med omfattande funktioner i din applikation.
+Aspose.PDF-handledningar och kodsnuttar för att arbeta med PDF-filer. Skapa, redigera, konvertera och extrahera PDF-dokument med omfattande funktioner i din applikation.
 {{% /alert %}}
 
 ### Aspose.PDF handledningar

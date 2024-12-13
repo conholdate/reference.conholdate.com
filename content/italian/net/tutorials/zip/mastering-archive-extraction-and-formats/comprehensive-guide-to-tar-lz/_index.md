@@ -86,7 +86,7 @@ Sì, il codice è compatibile con la versione più recente. Assicurati sempre di
  Sì, si prega di rivedere i dettagli della licenza su[Sito web di Aspose](https://purchase.conholdate.com/buy).
 
 ### Posso utilizzare Aspose.Zip per .NET in progetti commerciali?
-Sì, la libreria può essere utilizzata sia per progetti commerciali che personali, nel rispetto delle condizioni di licenza.
+Sì, la libreria può essere utilizzata sia in progetti commerciali che personali, nel rispetto delle condizioni di licenza.
 
 ### Dove posso trovare supporto se riscontro problemi?
  Per supporto, visita il[Forum di Aspose.Zip](https://forum.aspose.com/c/zip/37)dove puoi postare domande e trovare consigli per la risoluzione dei problemi forniti dalla community.

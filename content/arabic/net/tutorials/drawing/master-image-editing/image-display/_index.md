@@ -15,7 +15,7 @@ url: /ar/net/tutorials/drawing/master-image-editing/image-display/
 
 قبل أن تبدأ، تأكد من توفر المتطلبات الأساسية التالية:
 
-- Aspose.Drawing لمكتبة .NET: قم بتنزيل المكتبة وتثبيتها من[صفحة الإصدار](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing لمكتبة .NET: قم بتنزيل المكتبة وتثبيتها من[صفحة الإصدار](https://releases.aspose.com/drawing/net/).
 - بيئة .NET: تأكد من إعداد بيئة التطوير الخاصة بك للعمل مع .NET.
 - دليل المستندات: قم بإنشاء دليل لتخزين صورك.
 - ملف الصورة: قم بإعداد ملف صورة للعرض، مثل "aspose_logo.png".
@@ -88,7 +88,7 @@ bitmap.Save(@"Your Document Directory\Images\Display_out.png");
 
 ### كيف يمكنني التعامل مع تغيير حجم الصورة في Aspose.Drawing؟
 
- يمكنك ضبط مقياس الصورة عن طريق تعديل المعلمات في`DrawImage`الطريقة، مثل تحديد المستطيل الوجهة.
+ يمكنك ضبط مقياس الصورة عن طريق تعديل المعلمات في`DrawImage` الطريقة، مثل تحديد المستطيل الوجهة.
 
 ### هل هناك اعتبارات ترخيصية لاستخدام Aspose.Drawing في المشاريع التجارية؟
 
@@ -96,4 +96,4 @@ bitmap.Save(@"Your Document Directory\Images\Display_out.png");
 
 ### أين يمكنني طلب المساعدة إذا واجهت مشكلات أو كانت لدي أسئلة حول Aspose.Drawing؟
 
- للحصول على الدعم، يمكنك زيارة[منتدى الرسم Aspose](https://forum.aspose.com/c/diagram/17) للتواصل مع المجتمع والعثور على المساعدة المتخصصة.
+للحصول على الدعم، يمكنك زيارة[منتدى الرسم Aspose](https://forum.aspose.com/c/diagram/17) للتواصل مع المجتمع والعثور على المساعدة المتخصصة.

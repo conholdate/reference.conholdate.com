@@ -7,9 +7,9 @@ type: docs
 weight: 1520
 url: /nl/net/tutorials/words/mastering-document-properties/
 ---
-##Invoering  
+## Invoering  
 
-Aspose.Words voor .NET biedt een breed scala aan krachtige functies voor het manipuleren van Word-documenten, waardoor het eenvoudiger wordt om metadata en opmaak te beheren. Een van die functies is het onder de knie krijgen van documenteigenschappen. In dit artikel duiken we in tutorials die het toevoegen van aangepaste documenteigenschappen, het verwijderen van onnodige metadata en zelfs het converteren van meeteenheden voor verbeterd documentbeheer behandelen. Laten we eens kijken hoe deze tutorials kunnen helpen uw workflow te verbeteren.
+Aspose.Words voor .NET biedt een breed scala aan krachtige functies voor het manipuleren van Word-documenten, waardoor het eenvoudiger wordt om metadata en opmaak te beheren. Een van die functies is het beheersen van documenteigenschappen. In dit artikel duiken we in tutorials die het toevoegen van aangepaste documenteigenschappen, het verwijderen van onnodige metadata en zelfs het converteren van meeteenheden voor verbeterd documentbeheer behandelen. Laten we eens kijken hoe deze tutorials kunnen helpen uw workflow te verbeteren.
 
 ## Aangepaste documenteigenschappen toevoegen in Word  
 

@@ -18,7 +18,7 @@ Dalmadan önce aşağıdaki malzemelerin hazır olduğundan emin olun:
 1.  Aspose.Words for .NET: En son sürümü buradan indirin ve kurun[Aspose Sürümleri](https://releases.aspose.com/words/net/).
 2. Geliştirme Ortamı: Visual Studio veya uyumlu herhangi bir IDE kullanın.
 3. C# Temel Anlayışı: C# ve .NET framework'üne aşinalık faydalı olacaktır.
-4.  Aspose Lisansı: Aspose.Words'ü tamamen açmak için,[lisans](https://purchase.aspose.com/buy)önerilir. Alternatif olarak, bir[geçici lisans](https://purchase.aspose.com/temporary-license/) Değerlendirme amaçlı.
+4.  Aspose Lisansı: Aspose.Words'ü tamamen açmak için,[lisans](https://purchase.aspose.com/buy) önerilir. Alternatif olarak, bir[geçici lisans](https://purchase.aspose.com/temporary-license/) Değerlendirme amaçlı.
 
 ## Ad Alanlarını İçe Aktarma
 
@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Adım 3: Kaydetme Seçeneklerini Yapılandırın
 
- Şimdi, "Küçük Meta Dosyalarını Sıkıştırma" özelliğini kullanmak için kaydetme seçeneklerini yapılandırın`DocSaveOptions` sınıf.
+ Şimdi, "Küçük Meta Dosyalarını Sıkıştırma" özelliğini kullanmak için kaydetme seçeneklerini yapılandırın`DocSaveOptions`sınıf.
 
 ```csharp
 // "Küçük Meta Dosyalarını Sıkıştırma" özelliğiyle kaydetme seçeneklerini yapılandırın
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- Bu adım, bir örnek oluşturur`DocSaveOptions`ve ayarlar`Compliance` mülk`PdfCompliance.PdfA1a`Belgenin PDF/A-1a standardına uygun olmasını sağlamak.
+ Bu adım, bir örnek oluşturur`DocSaveOptions` ve ayarlar`Compliance` mülk`PdfCompliance.PdfA1a`Belgenin PDF/A-1a standardına uygun olmasını sağlamak.
 
 ## Adım 4: Belgeyi Kaydedin
 
 Son olarak, küçük meta dosyalarının sıkıştırılmamasına dikkat ederek, yapılandırılan seçenekleri kullanarak belgeyi kaydedin.
 
 ```csharp
-// Belgeyi belirtilen seçeneklerle kaydedin
+//Belgeyi belirtilen seçeneklerle kaydedin
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ Kesinlikle! Aspose.Words for .NET, çeşitli dosya biçimleri için yapılandır
 
 ### Aspose.Words for .NET'i kullanmak için lisansa ihtiyacım var mı?
 
- Değerlendirme amaçları için Aspose.Words for .NET'i lisans olmadan kullanabilirsiniz ancak tam işlevsellik için lisansa ihtiyaç vardır. Bir lisans satın alabilirsiniz[Burada](https://purchase.aspose.com/buy) veya bir deneyin[geçici lisans](https://purchase.aspose.com/temporary-license/) Değerlendirme için.
+Değerlendirme amaçları için Aspose.Words for .NET'i lisans olmadan kullanabilirsiniz ancak tam işlevsellik için lisansa ihtiyaç vardır. Bir lisans satın alabilirsiniz[Burada](https://purchase.aspose.com/buy) veya bir deneyin[geçici lisans](https://purchase.aspose.com/temporary-license/) Değerlendirme için.
 
 ### Belgelerimin PDF/A standartlarına uygun olduğundan nasıl emin olabilirim?
 

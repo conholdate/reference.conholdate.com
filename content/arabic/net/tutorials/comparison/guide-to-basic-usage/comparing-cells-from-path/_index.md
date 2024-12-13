@@ -85,7 +85,7 @@ Console.WriteLine($"\nDocuments compared successfully.\nCheck output in {outputD
 
 ### كيف يمكنني الحصول على الدعم لـ GroupDocs.Comparison لـ .NET؟
 
- للحصول على الدعم، قم بزيارة مجتمع GroupDocs.Comparison[منتدى](https://forum.groupdocs.com/c/comparison/12).
+للحصول على الدعم، قم بزيارة مجتمع GroupDocs.Comparison[منتدى](https://forum.groupdocs.com/c/comparison/12).
 
 ### أين يمكنني شراء ترخيص لـ GroupDocs.Comparison لـ .NET؟
 

@@ -39,7 +39,7 @@ using System.IO;
 string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 ```
 
- Ügyeljen arra, hogy cserélje ki`"YOUR_DOCUMENT_DIRECTORY"` a rendszer tényleges elérési útjával.
+ Mindenképpen cserélje ki`"YOUR_DOCUMENT_DIRECTORY"` a rendszer tényleges elérési útjával.
 
 ## 2. lépés: Töltse be a DOCX-dokumentumot
 
@@ -90,4 +90,4 @@ Igen! Különféle formátumokból konvertálhat RTF-re, beleértve a DOC-t, a D
 Határozottan! Integrálja a mellékelt kódot alkalmazásaiba vagy szkriptjeibe a dokumentumkonverziók zökkenőmentes automatizálása érdekében.
 
 ### Hol találhatok további támogatást?
- Segítségért keresse fel a[Aspose támogatási fórum](https://forum.aspose.com/c/words/8) kapcsolatba lépni a közösséggel, és szakértői segítséget kérni.
+Segítségért keresse fel a[Aspose támogatási fórum](https://forum.aspose.com/c/words/8) kapcsolatba lépni a közösséggel, és szakértői segítséget kérni.

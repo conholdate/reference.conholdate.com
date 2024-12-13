@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
-`InsertSignatureLine`विधि हस्ताक्षर पंक्ति जोड़ती है, और हम इसे एक अद्वितीय प्रदाता आईडी प्रदान करते हैं।
+`InsertSignatureLine` विधि हस्ताक्षर पंक्ति जोड़ती है, और हम इसे एक अद्वितीय प्रदाता आईडी प्रदान करते हैं।
 
 ## चरण 4: दस्तावेज़ सहेजें
 

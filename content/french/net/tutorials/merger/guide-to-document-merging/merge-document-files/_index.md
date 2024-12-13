@@ -2,7 +2,7 @@
 title: Fusionner des fichiers de documents avec GroupDocs.Merger pour .NET
 linktitle: Fusionner des fichiers de documents avec GroupDocs.Merger pour .NET
 second_title: API .NET de GroupDocs.Merger
-description: Découvrez comment combiner de manière transparente plusieurs fichiers DOC en un seul document à l'aide de GroupDocs.Merger pour .NET. Ce didacticiel complet propose une approche claire, étape par étape, couvrant les prérequis, les extraits de code et les FAQ.
+description: Découvrez comment combiner de manière transparente plusieurs fichiers DOC en un seul document à l'aide de GroupDocs.Merger pour .NET. Ce didacticiel complet propose une approche claire, étape par étape, couvrant les conditions préalables, les extraits de code et les FAQ.
 type: docs
 weight: 10
 url: /fr/net/tutorials/merger/guide-to-document-merging/merge-document-files/
@@ -16,7 +16,7 @@ Dans ce didacticiel, nous allons découvrir comment fusionner des fichiers DOC �
 Avant de commencer, assurez-vous de disposer des éléments suivants :
 
 1. Visual Studio : installez Visual Studio sur votre machine de développement.
-2.  GroupDocs.Merger pour .NET : téléchargez la bibliothèque à partir du[site web](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger pour .NET : téléchargez la bibliothèque à partir du[site web](https://releases.groupdocs.com/merger/net/).
 3. Connaissances de base de C# : Une familiarité avec le langage de programmation C# est recommandée.
 
 ## Importer les espaces de noms requis
@@ -46,7 +46,7 @@ Utilisez l'extrait de code suivant pour charger les fichiers DOC sources que vou
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Ajouter un autre fichier DOC à fusionner
+    // Ajouter un autre fichier DOC à fusionner
     merger.Join("path_to_second_doc.doc");
 
     // Fusionner les fichiers DOC et enregistrer le résultat
@@ -75,7 +75,7 @@ Absolument, il est compatible avec .NET Core et .NET Framework.
 
 ### Une licence est-elle nécessaire pour une utilisation commerciale ?
 
-Oui, une licence valide est nécessaire pour une utilisation commerciale. Vous pouvez acheter une licence auprès de[Documents de groupe](https://purchase.groupdocs.com/buy).
+ Oui, une licence valide est nécessaire pour une utilisation commerciale. Vous pouvez acheter une licence auprès de[Documents de groupe](https://purchase.groupdocs.com/buy).
 
 ### Puis-je essayer GroupDocs.Merger pour .NET gratuitement ?
 

@@ -99,7 +99,7 @@ Console.WriteLine(
 是的，商业使用需要许可证。您可以购买一个[这里](https://purchase.aspose.com/buy)或获得临时执照[这里](https://purchase.aspose.com/temporary-license/).
 
 ### Aspose.Words for .NET 还提供哪些其他功能？
- Aspose.Words for .NET 提供广泛的功能，包括文档生成、转换和操作。探索[文档](https://reference.aspose.com/words/net/)了解更多详情。
+Aspose.Words for .NET 提供广泛的功能，包括文档生成、转换和操作。探索[文档](https://reference.aspose.com/words/net/)了解更多详情。
 
 ### 我可以在购买之前试用 Aspose.Words for .NET 吗？
 当然可以！您可以下载免费试用版[这里](https://releases.aspose.com/).

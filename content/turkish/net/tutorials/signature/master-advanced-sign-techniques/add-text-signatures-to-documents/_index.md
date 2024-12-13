@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithText", 
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // X pozisyonu
+    Left = 50, // pozisyonu
     Top = 200, // Y pozisyonu
     Width = 100, // İmzanın genişliği
     Height = 30, // İmzanın yüksekliği

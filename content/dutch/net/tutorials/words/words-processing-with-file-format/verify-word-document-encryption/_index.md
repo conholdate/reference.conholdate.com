@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Stap 3: Detecteer het bestandsformaat
 
- Nu gaan we de`DetectFileFormat` methode van de`FileFormatUtil`klasse om informatie over het bestandsformaat te verzamelen. Voor dit voorbeeld nemen we aan dat het gecodeerde document "Encrypted.docx" heet en zich in de opgegeven directory bevindt:
+ Nu gaan we de`DetectFileFormat` methode van de`FileFormatUtil` klasse om informatie over het bestandsformaat te verzamelen. Voor dit voorbeeld nemen we aan dat het gecodeerde document de naam "Encrypted.docx" heeft en zich in de opgegeven directory bevindt:
 
 ```csharp
 FileFormatInfo info = FileFormatUtil.DetectFileFormat(dataDir + "Encrypted.docx");
@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## Conclusie
 
- En dat is alles! U hebt de encryptiestatus van een Word-document succesvol geverifieerd met Aspose.Words voor .NET. Het is indrukwekkend hoe een paar regels code dergelijke taken kunnen vereenvoudigen. Als u vragen hebt of problemen ondervindt, neem dan gerust contact op via[Aspose Ondersteuningsforum](https://forum.aspose.com/c/words/8).
+En dat is alles! U hebt de encryptiestatus van een Word-document succesvol geverifieerd met Aspose.Words voor .NET. Het is indrukwekkend hoe een paar regels code dergelijke taken kunnen vereenvoudigen. Als u vragen hebt of problemen ondervindt, neem dan gerust contact op via[Aspose Ondersteuningsforum](https://forum.aspose.com/c/words/8).
 
 ## Veelgestelde vragen
 

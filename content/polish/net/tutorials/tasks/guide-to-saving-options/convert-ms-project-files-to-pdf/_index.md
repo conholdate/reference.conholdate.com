@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Krok 4: Wybierz konkretne strony do eksportu (opcjonalnie)
 
- Określ dokładne strony, które mają zostać uwzględnione w pliku PDF, wypełniając pole`Pages` Własność. Na przykład, aby wyeksportować strony 1 i 4:
+Określ dokładne strony, które mają zostać uwzględnione w pliku PDF, wypełniając pole`Pages` Własność. Na przykład, aby wyeksportować strony 1 i 4:
 
 ```csharp
 options.Pages.Add(1);

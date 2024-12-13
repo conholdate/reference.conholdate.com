@@ -39,7 +39,7 @@ Definiera en variabel för att lagra sökvägen till dina Word-dokument. Denna k
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 ```
 
- Ersätt platshållaren med den faktiska sökvägen där din`.docm` filer lagras.
+ Byt ut platshållaren med den faktiska sökvägen där din`.docm` filer lagras.
 
 ## Steg 2: Ladda Word-dokumentet
 

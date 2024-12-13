@@ -49,7 +49,7 @@ graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 Låt oss sedan tillämpa en global transformation på grafikkontexten. I det här exemplet kommer vi att rotera hela grafikkontexten med 15 grader.
 
 ```csharp
-//Tillämpa en rotationstransformation (15 grader)
+// Tillämpa en rotationstransformation (15 grader)
 graphics.RotateTransform(15);
 ```
 
@@ -78,7 +78,7 @@ Grattis! Du har framgångsrikt implementerat global transformation med Aspose.Dr
 
 ## Slutsats
 
-den här handledningen har vi utforskat de fascinerande funktionerna hos globala transformationer i Aspose.Drawing för .NET. Denna funktion förbättrar inte bara din förmåga att skapa visuellt fantastisk grafik utan öppnar också för oändliga möjligheter för dina applikationer. När du fortsätter att experimentera kommer du att upptäcka mångsidigheten och kraften som Aspose.Drawing erbjuder.
+I den här handledningen har vi utforskat de fascinerande funktionerna hos globala transformationer i Aspose.Drawing för .NET. Denna funktion förbättrar inte bara din förmåga att skapa visuellt fantastisk grafik utan öppnar också för oändliga möjligheter för dina applikationer. När du fortsätter att experimentera kommer du att upptäcka mångsidigheten och kraften som Aspose.Drawing erbjuder.
 
 ## FAQ's
 

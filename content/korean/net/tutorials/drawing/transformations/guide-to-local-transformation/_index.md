@@ -13,7 +13,7 @@ Aspose.Drawing for .NET을 사용하면 개발자가 로컬 변환을 통해 정
 
 ## 필수 조건
 
-1. .NET용 Aspose.Drawing: 여기에서 다운로드하고 설치하세요.[여기](https://releases.aspose.com/drawing/net/).
+1.  .NET용 Aspose.Drawing: 여기에서 다운로드하고 설치하세요.[여기](https://releases.aspose.com/drawing/net/).
 2. 문서 디렉토리: 이미지를 저장할 디렉토리를 선택하세요.
 3. 기본 .NET 지식: C# 및 그래픽 프로그래밍 개념에 익숙함.
 

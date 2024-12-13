@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Stap 5: Initialiseer het bijgevoegde bestand
 
- Geef het pad op naar het bestand dat u wilt bijvoegen met behulp van de`AttachedFile` klas.
+ Geef het pad op naar het bestand dat u wilt bijvoegen met behulp van de`AttachedFile`klas.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

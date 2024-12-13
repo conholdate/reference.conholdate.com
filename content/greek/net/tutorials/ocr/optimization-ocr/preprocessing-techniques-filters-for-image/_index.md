@@ -95,7 +95,7 @@ Console.WriteLine("Image recognition with preprocessing executed successfully.")
  Μπορείτε να εξερευνήσετε τις επιλογές αδειοδότησης και να κάνετε αγορές[εδώ](https://purchase.conholdate.com/buy) . Διατίθεται επίσης δωρεάν δοκιμή[εδώ](https://releases.aspose.com/) , και μπορούν να ληφθούν προσωρινές άδειες[εδώ](https://purchase.conholdate.com/temporary-license/).
 
 ### Πού μπορώ να βρω υποστήριξη για το Aspose.OCR;  
- Για βοήθεια, επισκεφθείτε το[Aspose.OCR φόρουμ](https://forum.aspose.com/c/ocr/16) για την κοινότητα και την υποστήριξη.
+Για βοήθεια, επισκεφθείτε το[Aspose.OCR φόρουμ](https://forum.aspose.com/c/ocr/16) για την κοινότητα και την υποστήριξη.
 
 ### Ποιες μορφές εικόνας υποστηρίζει το Aspose.OCR;  
 Το Aspose.OCR υποστηρίζει μια ποικιλία μορφών, συμπεριλαμβανομένων των PNG, JPEG, GIF, BMP και TIFF.

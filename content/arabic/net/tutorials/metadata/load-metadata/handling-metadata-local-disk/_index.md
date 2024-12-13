@@ -46,7 +46,7 @@ using (Metadata metadata = new Metadata("Your Input File Path"))
 
 ## الخطوة 4: الوصول إلى خصائص البيانات الوصفية
 
- في غضون`using` باستخدام عبارة "البيانات الوصفية"، يمكنك الوصول إلى خصائص بيانات وصفية مختلفة. لاسترداد وعرض بعض معلومات الملف الأساسية، يمكنك كتابة:
+ ضمن`using` باستخدام عبارة "البيانات الوصفية"، يمكنك الوصول إلى خصائص بيانات وصفية مختلفة. لاسترداد وعرض بعض معلومات الملف الأساسية، يمكنك كتابة:
 
 ```csharp
 using (Metadata metadata = new Metadata("Your Input File Path"))
@@ -90,7 +90,7 @@ using (Metadata metadata = new Metadata("Your Input File Path"))
  تتوفر الوثائق التفصيلية على[GroupDocs.Metadata لتوثيق .NET](https://reference.groupdocs.com/metadata/net/).
 
 ### هل يدعم GroupDocs.Metadata الإصدار التجريبي المجاني؟
-نعم، يمكنك تنزيل نسخة تجريبية مجانية من GroupDocs.Metadata[هنا](https://releases.groupdocs.com/).
+ نعم، يمكنك تنزيل نسخة تجريبية مجانية من GroupDocs.Metadata[هنا](https://releases.groupdocs.com/).
 
 ### أين يمكنني الحصول على الدعم لـ GroupDocs.Metadata؟
  للحصول على الدعم، قم بزيارة[منتدى GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) للمساعدة المجتمعية والمناقشات.

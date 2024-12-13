@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 ตอนนี้เรามาบันทึกเอกสารเป็นไฟล์ HTML กัน นี่คือจุดที่ความมหัศจรรย์เกิดขึ้น!
 
 ```csharp
-//แปลงเอกสารเป็น HTML คงที่
+// แปลงเอกสารเป็น HTML คงที่
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

@@ -15,7 +15,7 @@ Bent u op zoek naar een krachtige en efficiënte manier om CorelDRAW (CDR) besta
 
 Voordat we beginnen, moet u ervoor zorgen dat u aan de volgende vereisten voldoet:
 
-1.  Aspose.Imaging voor .NET: Download en installeer Aspose.Imaging voor .NET vanaf de[website](https://releases.aspose.com/imaging/net/)kunt kiezen tussen een gratis proefversie of een gekochte versie, afhankelijk van uw behoeften.
+1.  Aspose.Imaging voor .NET: Download en installeer Aspose.Imaging voor .NET vanaf de[website](https://releases.aspose.com/imaging/net/)U kunt kiezen tussen een gratis proefversie of een gekochte versie, afhankelijk van uw behoeften.
 
 2. C#-ontwikkelomgeving: stel een C#-ontwikkelomgeving in op uw systeem, zoals Visual Studio of een andere gewenste code-editor.
 

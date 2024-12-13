@@ -74,11 +74,11 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
-Dieser Abschnitt zeigt die Erstellung eines`Graphics` Objekt, löschen Sie die Oberfläche und fügen Sie zwei Rechtecke mit unterschiedlichen Farben und Positionen hinzu. Sobald Ihre Zeichnungen fertig sind, speichern Sie das Bild, um Ihre Änderungen beizubehalten.
+ Dieser Abschnitt zeigt die Erstellung eines`Graphics` Objekt, löschen Sie die Oberfläche und fügen Sie zwei Rechtecke mit unterschiedlichen Farben und Positionen hinzu. Sobald Ihre Zeichnungen fertig sind, speichern Sie das Bild, um Ihre Änderungen beizubehalten.
 
 ## Schritt 4: Speichern Sie das Bild
 
- Das Speichern des endgültigen Bildes ist unkompliziert, wie oben im`using` Anweisung, wobei`image.Save()` wird automatisch aufgerufen, wenn der`using` Block endet.
+ Das Speichern des endgültigen Bildes ist unkompliziert, wie oben im`using` Anweisung, wobei`image.Save()`wird automatisch aufgerufen, wenn der`using` Block endet.
 
 ## Abschluss
 

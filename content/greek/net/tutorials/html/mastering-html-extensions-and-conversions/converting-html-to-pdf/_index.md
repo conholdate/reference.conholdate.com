@@ -19,7 +19,7 @@ url: /el/net/tutorials/html/mastering-html-extensions-and-conversions/converting
 Βεβαιωθείτε ότι έχετε εγκαταστήσει και ρυθμίσει το Visual Studio ή οποιοδήποτε προτιμώμενο .NET IDE για το έργο σας.
 
 ### 2. Aspose.HTML για .NET Library
-Κάντε λήψη και εγκατάσταση της βιβλιοθήκης Aspose.HTML για .NET. Μπορείτε να το βρείτε στον παρακάτω σύνδεσμο:[Aspose.HTML για .NET](https://releases.aspose.com/html/net/).
+ Κάντε λήψη και εγκατάσταση της βιβλιοθήκης Aspose.HTML για .NET. Μπορείτε να το βρείτε στον παρακάτω σύνδεσμο:[Aspose.HTML για .NET](https://releases.aspose.com/html/net/).
 
 ### 3. Βασικές γνώσεις C# και .NET
 Η βασική κατανόηση της C# και του .NET θα σας βοηθήσει να ακολουθήσετε αποτελεσματικά αυτό το σεμινάριο.
@@ -52,7 +52,7 @@ HTMLDocument htmlDocument = new HTMLDocument(dataDir + "input.html");
 ```
 
 ## Βήμα 3: Διαμόρφωση των επιλογών αποθήκευσης PDF
- Στήνω`PdfSaveOptions`για να ορίσετε τις ρυθμίσεις μετατροπής PDF, όπως η ποιότητα και η διάταξη εικόνας. Για παράδειγμα, μπορείτε να ορίσετε την ποιότητα JPEG στο 100:
+ Στήνω`PdfSaveOptions` για να ορίσετε τις ρυθμίσεις μετατροπής PDF, όπως η ποιότητα και η διάταξη εικόνας. Για παράδειγμα, μπορείτε να ορίσετε την ποιότητα JPEG στο 100:
 
 ```csharp
 PdfSaveOptions options = new PdfSaveOptions

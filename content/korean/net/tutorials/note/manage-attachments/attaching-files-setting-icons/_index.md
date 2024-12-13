@@ -35,7 +35,7 @@ using System.Drawing.Imaging;
 
 ## 1단계: 새 OneNote 문서 만들기
 
- 다음을 사용하여 새 OneNote 문서를 초기화합니다.`Document` 수업.
+ 다음을 사용하여 새 OneNote 문서를 초기화합니다.`Document`수업.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ Aspose.Note는 첨부 파일 아이콘에 JPEG, PNG, BMP, GIF 형식을 지원�
 Aspose.Note에서는 명시적인 크기 제한을 두지 않지만, 시스템 리소스가 대용량 파일을 처리할 수 있는지 확인하세요.
 
 ### 설정하기 전에 아이콘 크기를 조정할 수 있나요?
-네, .NET을 사용하여 아이콘 이미지를 조작할 수 있습니다.`System.Drawing` 첨부하기 전에 라이브러리를 확인하세요.
+ 네, .NET을 사용하여 아이콘 이미지를 조작할 수 있습니다.`System.Drawing` 첨부하기 전에 라이브러리를 확인하세요.
 
  추가 지원이 필요하면 다음을 탐색하세요.[선적 서류 비치](https://reference.aspose.com/words/net/) 또는 연락하세요[Aspose 지원](https://forum.aspose.com/c/words/8).

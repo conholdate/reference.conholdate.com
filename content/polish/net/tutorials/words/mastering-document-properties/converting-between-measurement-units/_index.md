@@ -91,7 +91,7 @@ Chociaż możesz używać Aspose.Words bez licencji, niektóre zaawansowane funk
  Pobierz z[strona internetowa](https://releases.aspose.com/words/net/) i postępuj zgodnie z wyświetlanymi instrukcjami instalacji.
 
 ### Czy mogę ustawić różne jednostki dla różnych sekcji dokumentu?
- Oczywiście! Możesz dostosować marginesy i ustawienia dla różnych sekcji za pomocą`Section` klasa.
+ Oczywiście! Możesz dostosować marginesy i ustawienia dla różnych sekcji za pomocą`Section`klasa.
 
 ### Jakie inne funkcje oferuje Aspose.Words?
  Aspose.Words obsługuje szeroki zakres funkcji, w tym konwersję dokumentów, scalanie korespondencji i rozbudowane opcje formatowania. Sprawdź[dokumentacja](https://reference.aspose.com/words/net/) Aby uzyskać więcej szczegółów.

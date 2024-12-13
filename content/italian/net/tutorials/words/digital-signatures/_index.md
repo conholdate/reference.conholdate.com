@@ -29,7 +29,7 @@ Aggiungere una riga di firma è come dare al tuo documento uno spazio dedicato p
  ## Tutorial sulle firme digitali
 | Titolo | Descrizione |
 | --- | --- |
-| [Firma digitale di un documento Word](./digitally-signing-word-document/) | Scopri come firmare a livello di programmazione i documenti Word utilizzando Aspose.Words per .NET in questa guida completa e dettagliata. |
+| [Firma digitale del documento Word](./digitally-signing-word-document/) | Scopri come firmare a livello di programmazione i documenti Word utilizzando Aspose.Words per .NET in questa guida completa e dettagliata. |
 | [Imposta l'ID del fornitore della firma digitale nel documento Word](./set-digital-signature-provider-id/) | Scopri come aggiungere in modo sicuro una firma digitale ai tuoi documenti Word con un ID provider di firme specifico utilizzando Aspose.Words per .NET. |
 | [Crea una nuova riga di firma digitale e imposta l'ID del fornitore](./create-new-digital-signature-line-and-set-provider-id/) | Scopri come aggiungere a livello di programmazione le linee di firma ai tuoi documenti Word usando Aspose.Words per .NET. Questa guida completa copre tutto, dalla configurazione del tuo ambiente di sviluppo all'inserimento di linee di firma e alla firma sicura dei documenti. |
 | [Accesso e verifica della firma digitale nei documenti Word](./access-and-digital-signature-verification/) | Sblocca il pieno potenziale di Aspose.Words per .NET imparando come verificare in modo efficiente le firme digitali nei documenti Word. Questa guida passo passo ti guiderà attraverso il processo di configurazione. |

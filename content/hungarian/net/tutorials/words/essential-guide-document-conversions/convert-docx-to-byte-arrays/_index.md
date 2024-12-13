@@ -58,13 +58,13 @@ using (MemoryStream outStream = new MemoryStream())
 Ha egy bájttömböt vissza kell konvertálnia Dokumentum objektummá, ezt a következő kóddal teheti meg:
 
 ```csharp
-// Konvertálja vissza a bájttömböt MemoryStreammé
+// A bájttömb átalakítása vissza MemoryStreammé
 using (MemoryStream inStream = new MemoryStream(docBytes))
 {
     // Töltse be a dokumentumot a MemoryStreamből
     Document docFromBytes = new Document(inStream);
     
-    // Mostantól szükség szerint dolgozhat a docFromBytes-szal
+    // Most már szükség szerint dolgozhat a docFromBytes-szal
 }
 ```
 1.  Memóriafolyam létrehozása: Hozzon létre a`MemoryStream` a bájttömbből.

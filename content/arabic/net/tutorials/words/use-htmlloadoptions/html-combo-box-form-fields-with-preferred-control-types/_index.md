@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## الخطوة 3: تكوين خيارات تحميل HTML
 
- ال`HtmlLoadOptions`تسمح لنا الفئة الموجودة في Aspose.Words بتحديد كيفية تفسير محتوى HTML. للتأكد من عرض المربع المنسدل كعلامة مستند منظمة:
+ ال`HtmlLoadOptions` تسمح لنا الفئة الموجودة في Aspose.Words بتحديد كيفية تفسير محتوى HTML. للتأكد من عرض المربع المنسدل كعلامة مستند منظمة:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions

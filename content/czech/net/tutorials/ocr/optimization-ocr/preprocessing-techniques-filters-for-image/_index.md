@@ -95,7 +95,7 @@ Ano, Aspose.OCR je všestranný a podporuje desktopové i webové aplikace vyvin
  Můžete prozkoumat možnosti licencování a nakupovat[zde](https://purchase.conholdate.com/buy) . K dispozici je také bezplatná zkušební verze[zde](https://releases.aspose.com/) a lze získat dočasné licence[zde](https://purchase.conholdate.com/temporary-license/).
 
 ### Kde najdu podporu pro Aspose.OCR?  
- Pro pomoc navštivte[Fórum Aspose.OCR](https://forum.aspose.com/c/ocr/16) za komunitu a podporu.
+Pro pomoc navštivte[Fórum Aspose.OCR](https://forum.aspose.com/c/ocr/16) za komunitu a podporu.
 
 ### Jaké formáty obrázků Aspose.OCR podporuje?  
 Aspose.OCR podporuje různé formáty, včetně PNG, JPEG, GIF, BMP a TIFF.

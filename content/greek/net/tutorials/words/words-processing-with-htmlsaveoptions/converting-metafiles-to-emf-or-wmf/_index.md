@@ -15,7 +15,7 @@ url: /el/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 
 Για να διασφαλίσετε μια ομαλή εμπειρία ανάπτυξης, επιβεβαιώστε ότι πληρούνται οι ακόλουθες προϋποθέσεις:
 
-- Aspose.Words για .NET: Αποκτήστε την πιο πρόσφατη έκδοση από το[Σελίδα εκδόσεων Aspose](https://releases.aspose.com/words/net/).
+-  Aspose.Words για .NET: Αποκτήστε την πιο πρόσφατη έκδοση από το[Σελίδα εκδόσεων Aspose](https://releases.aspose.com/words/net/).
 - .NET Framework: Επαληθεύστε την εγκατάσταση του .NET Framework (ή .NET Core/5/6 ανάλογα με το περιβάλλον σας).
 - Περιβάλλον Ανάπτυξης: Το Visual Studio προτείνεται για τα ισχυρά χαρακτηριστικά του.
 - Επάρκεια C#: Η βασική εξοικείωση με τον προγραμματισμό C# είναι απαραίτητη.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## Βήμα 4: Φόρτωση HTML σε ένα έγγραφο του Word
 
-Χρησιμοποιήστε τις διαμορφωμένες επιλογές φόρτωσης για να δημιουργήσετε ένα`Document` αντικείμενο από τη συμβολοσειρά HTML.
+ Χρησιμοποιήστε τις διαμορφωμένες επιλογές φόρτωσης για να δημιουργήσετε ένα`Document` αντικείμενο από τη συμβολοσειρά HTML.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

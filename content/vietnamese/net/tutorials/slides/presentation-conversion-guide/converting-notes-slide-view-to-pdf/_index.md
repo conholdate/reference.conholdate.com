@@ -16,7 +16,7 @@ Nếu bạn thường làm việc với các bài thuyết trình PowerPoint, b�
 Trước khi bắt đầu, hãy đảm bảo rằng bạn đáp ứng các yêu cầu sau:
 
 -  Môi trường phát triển: Cài đặt[Studio trực quan](https://visualstudio.microsoft.com/) hoặc bất kỳ IDE C# nào.
-- Aspose.Slides cho Thư viện .NET: Tải xuống thư viện từ[đây](https://releases.aspose.com/slides/net/).
+-  Aspose.Slides cho Thư viện .NET: Tải xuống thư viện từ[đây](https://releases.aspose.com/slides/net/).
 -  Tệp trình bày: Có tệp PowerPoint (ví dụ:`NotesFile.pptx`) sẵn sàng để chuyển đổi.
 
 ## Thiết lập môi trường của bạn
@@ -73,7 +73,7 @@ Sau khi tùy chọn của bạn được cấu hình, hãy lưu bản trình bà
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
- Điều này sẽ tạo ra một tập tin PDF có tên`Pdf_Notes_out.pdf` trong thư mục bạn chỉ định, chứa các slide cùng với ghi chú của chúng.
+Điều này sẽ tạo ra một tập tin PDF có tên`Pdf_Notes_out.pdf` trong thư mục bạn chỉ định, chứa các slide cùng với ghi chú của chúng.
 
 ## Phần kết luận
 
@@ -88,10 +88,10 @@ Có, Aspose.Slides for .NET được thiết kế để xử lý hiệu quả c�
  Bạn có thể tải xuống phiên bản dùng thử miễn phí từ[đây](https://releases.aspose.com/).
 
 ### Câu hỏi 3: Có tùy chọn xuất PDF nào khác không?
-Có, bạn có thể tùy chỉnh phông chữ, bố cục trang, nén và nhiều thứ khác bằng cách sử dụng`PdfOptions` lớp học.
+ Có, bạn có thể tùy chỉnh phông chữ, bố cục trang, nén và nhiều thứ khác bằng cách sử dụng`PdfOptions`lớp học.
 
 ### Câu hỏi 4: Tôi chỉ có thể xuất một số slide cụ thể được không?
- Chắc chắn rồi! Bạn có thể chọn các slide cụ thể bằng cách sử dụng`Slides` bộ sưu tập trong`Presentation` lớp học.
+ Chắc chắn rồi! Bạn có thể chọn các slide cụ thể bằng cách sử dụng`Slides` bộ sưu tập trong`Presentation`lớp học.
 
 ### Câu hỏi 5: Tôi có thể tìm thêm ví dụ ở đâu?
  Ghé thăm[Aspose.Slides cho Tài liệu .NET](https://reference.aspose.com/slides/net/) để biết thêm ví dụ và trường hợp sử dụng.

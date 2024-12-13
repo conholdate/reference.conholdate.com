@@ -17,7 +17,7 @@ Antes de começar a converter arquivos, certifique-se de ter o seguinte configur
 
 ### Instalar GroupDocs.Conversion para .NET
 
-Você pode baixar o GroupDocs.Conversion para .NET do[site](https://releases.groupdocs.com/conversion/net/). Certifique-se de instalá-lo de acordo com os requisitos do seu projeto.
+ Você pode baixar o GroupDocs.Conversion para .NET do[site](https://releases.groupdocs.com/conversion/net/). Certifique-se de instalá-lo de acordo com os requisitos do seu projeto.
 
 ### Arquivo AI de origem
 
@@ -59,7 +59,7 @@ Em seguida, configure quaisquer opções específicas que você possa precisar p
 ```csharp
     var options = new PdfConvertOptions();
 ```
- Ao criar uma instância de`PdfConvertOptions`você pode personalizar configurações como tamanho da página, margens e mais. Embora isso seja opcional, ele lhe dá flexibilidade para requisitos específicos.
+ Ao criar uma instância de`PdfConvertOptions`, você pode personalizar configurações como tamanho da página, margens e mais. Embora isso seja opcional, ele lhe dá flexibilidade para requisitos específicos.
 
 ## Etapa 3: Execute a conversão
 
@@ -77,7 +77,7 @@ Com o GroupDocs.Conversion para .NET, converter arquivos de IA para PDF é um pr
 
 ## Perguntas frequentes
 
-### O GroupDocs.Conversion para .NET é compatível com todas as versões do .NET?
+### GroupDocs.Conversion para .NET é compatível com todas as versões do .NET?
 
 Sim, ele suporta .NET Framework 2.0 e superior, bem como .NET Core e .NET Standard.
 

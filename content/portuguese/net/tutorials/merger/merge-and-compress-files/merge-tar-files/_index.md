@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Você cria um novo`Merger` instância com o caminho para seu primeiro arquivo TAR.
 -  O`Join` O método permite que você adicione outro arquivo TAR à fusão (esta etapa é opcional).
--  Por fim, ligue`Save`para concluir o processo de mesclagem e gravar o arquivo de saída no diretório especificado.
+-  Por fim, ligue`Save` para concluir o processo de mesclagem e gravar o arquivo de saída no diretório especificado.
 
 ## Etapa 3: Exibir mensagem de conclusão
 
@@ -73,7 +73,7 @@ Você aprendeu com sucesso como mesclar arquivos TAR usando GroupDocs.Merger par
 
 ## Perguntas frequentes
 
-### O GroupDocs.Merger pode manipular arquivos TAR grandes?
+### GroupDocs.Merger pode manipular arquivos TAR grandes?
 Sim, o GroupDocs.Merger foi criado para processar com eficiência grandes arquivos TAR usando algoritmos otimizados.
 
 ### O GroupDocs.Merger suporta formatos de arquivo além do TAR?

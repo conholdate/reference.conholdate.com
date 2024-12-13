@@ -41,7 +41,7 @@ string outputFile = Path.Combine(outputFolder, "merged.tar");
 
 ## Stap 2: TAR-bestanden laden en samenvoegen
 
-U kunt nu TAR-bestanden laden en samenvoegen met de volgende code:
+kunt nu TAR-bestanden laden en samenvoegen met de volgende code:
 
 ```csharp
 // Initialiseer de fusie met het eerste TAR-bestand
@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Je maakt een nieuwe`Merger` exemplaar met het pad naar uw eerste TAR-bestand.
 -  De`Join` Met deze methode kunt u een ander TAR-bestand aan de samenvoeging toevoegen (deze stap is optioneel).
--  Bel ten slotte`Save`om het samenvoegingsproces te voltooien en het uitvoerbestand naar de opgegeven directory te schrijven.
+-  Bel ten slotte`Save` om het samenvoegingsproces te voltooien en het uitvoerbestand naar de opgegeven directory te schrijven.
 
 ## Stap 3: Voltooiingsbericht weergeven
 

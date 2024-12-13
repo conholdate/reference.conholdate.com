@@ -1,7 +1,7 @@
 ---
 title: Lägga till lager till PDF-dokument med Aspose.PDF för .NET
 linktitle: Lägga till lager till PDF-dokument med Aspose.PDF för .NET
-second_title: Aspose.PDF för .NET API Referens
+second_title: Aspose.PDF för .NET API-referens
 description: Lär dig hur du skapar komplexa PDF-dokument med flera lager i Aspose.PDF för .NET. Upptäck de kraftfulla funktionerna i detta bibliotek och optimera.
 type: docs
 weight: 20

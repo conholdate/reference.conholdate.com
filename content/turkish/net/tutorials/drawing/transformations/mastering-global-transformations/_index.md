@@ -49,7 +49,7 @@ graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 Sonra, grafik bağlamına küresel bir dönüşüm uygulayalım. Bu örnekte, tüm grafik bağlamını 15 derece döndüreceğiz.
 
 ```csharp
-//Bir döndürme dönüşümü uygulayın (15 derece)
+// Bir döndürme dönüşümü uygulayın (15 derece)
 graphics.RotateTransform(15);
 ```
 

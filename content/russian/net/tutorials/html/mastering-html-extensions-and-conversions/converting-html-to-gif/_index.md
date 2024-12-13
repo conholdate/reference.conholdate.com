@@ -72,7 +72,7 @@ string outputFile = dataDir + "HTMLtoGIF_Output.gif";
 
 ## Шаг 5: Преобразование HTML в GIF
 
-Наконец, выполните преобразование, вызвав`Converter` сорт:
+ Наконец, выполните преобразование, вызвав`Converter` сорт:
 
 ```csharp
 Converter.ConvertHTML(htmlDocument, options, outputFile);

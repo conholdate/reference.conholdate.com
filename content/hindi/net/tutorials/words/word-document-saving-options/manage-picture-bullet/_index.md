@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 अंत में, कॉन्फ़िगर किए गए विकल्पों का उपयोग करके दस्तावेज़ को सहेजें। यह चित्र बुलेट के बिना एक नई फ़ाइल उत्पन्न करेगा।
 
 ```csharp
-// निर्दिष्ट विकल्पों के साथ दस्तावेज़ को सहेजें
+//निर्दिष्ट विकल्पों के साथ दस्तावेज़ को सहेजें
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

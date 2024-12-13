@@ -17,7 +17,7 @@ Bevor wir uns in den Code stürzen, stellen wir sicher, dass Sie alles richtig e
 
 1.  .NET Framework/ .NET Core: Stellen Sie sicher, dass entweder das .NET Framework oder .NET Core auf Ihrem Computer installiert ist. Sie können herunterladen[.NET hier](https://dotnet.microsoft.com/download).
 
-2.  Aspose.HTML für .NET-Bibliothek: Sie benötigen die Aspose.HTML-Bibliothek. Sie können sie herunterladen[Hier](https://releases.aspose.com/html/net/)oder testen Sie es kostenlos mit einem[Kostenlose Testversion](https://releases.aspose.com/).
+2.  Aspose.HTML für .NET-Bibliothek: Sie benötigen die Aspose.HTML-Bibliothek. Sie können sie herunterladen[Hier](https://releases.aspose.com/html/net/) oder testen Sie es kostenlos mit einem[Kostenlose Testversion](https://releases.aspose.com/).
 
 3. IDE: Zum Schreiben und Ausführen Ihres Codes wird eine geeignete integrierte Entwicklungsumgebung (IDE) wie Visual Studio empfohlen.
 
@@ -53,7 +53,7 @@ Als Erstes müssen Sie ein Verzeichnis einrichten, in dem Sie Ihre Bilder speich
 string dataDir = "Your Data Directory"; // Geben Sie Ihren Verzeichnispfad an
 ```
 
--  Ersetzen`"Your Data Directory"` mit dem Pfad, in dem Sie Ihre PNG-Ausgabedateien speichern möchten. Dies könnte etwa so aussehen:`@"C:\work\"`.
+-  Ersetzen`"Your Data Directory"`mit dem Pfad, in dem Sie Ihre PNG-Ausgabedateien speichern möchten. Dies könnte etwa so aussehen:`@"C:\work\"`.
 
 ## Schritt 2: Erstellen Sie ein HTML-Dokumentobjekt
 
@@ -79,7 +79,7 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  Der`HtmlRenderer`ist Ihr bevorzugtes Objekt zum Umwandeln von HTML-Inhalten in Bilder. Es übernimmt den Rendering-Prozess im Hintergrund, sodass Sie sich auf das konzentrieren können, was Sie brauchen!
+-  Der`HtmlRenderer` ist Ihr bevorzugtes Objekt zum Umwandeln von HTML-Inhalten in Bilder. Es übernimmt den Rendering-Prozess im Hintergrund, sodass Sie sich auf das konzentrieren können, was Sie brauchen!
 
 ## Schritt 4: Einrichten des Bildgeräts
 

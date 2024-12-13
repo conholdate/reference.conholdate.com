@@ -15,7 +15,7 @@ Hallo, Programmierkollege! Wenn Sie beim Speichern von Word-Dokumenten als HTML 
 
 Bevor wir beginnen, stellen Sie sicher, dass Sie alles haben, was Sie brauchen:
 
-1.  Aspose.Words für .NET: Laden Sie es herunter[Hier](https://releases.aspose.com/words/net/).
+1. Aspose.Words für .NET: Laden Sie es herunter[Hier](https://releases.aspose.com/words/net/).
 2.  Eine gültige Lizenz: Erwerben Sie eine Lizenz[Hier](https://purchase.aspose.com/buy) oder holen Sie sich eine temporäre Lizenz[Hier](https://purchase.aspose.com/temporary-license/).
 3. Grundkenntnisse in C# und .NET: Vertrautheit mit grundlegenden Programmierkonzepten in C# wird vorausgesetzt.
 4. Visual Studio: Jede Version, die das .NET-Framework unterstützt, funktioniert.
@@ -74,7 +74,7 @@ Abschließend speichern wir das Dokument mit den konfigurierten Speicheroptionen
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Wir nennen die`Save` Methode auf der`Document` Objekt, wobei der Ausgabepfad und die von uns konfigurierten Speicheroptionen angegeben werden. Dadurch wird eine HTML-Datei mit aufgelösten Schriftnamen generiert.
+ Wir nennen die`Save`Methode auf der`Document` Objekt, wobei der Ausgabepfad und die von uns konfigurierten Speicheroptionen angegeben werden. Dadurch wird eine HTML-Datei mit aufgelösten Schriftnamen generiert.
 
 ## Abschluss
 
@@ -92,7 +92,7 @@ Aspose.Words für .NET ist eine leistungsstarke Bibliothek, mit der Entwickler W
  Ja, aber es wird einige Einschränkungen geben. Für die volle Funktionalität können Sie eine Lizenz erwerben[Hier](https://purchase.aspose.com/buy) oder holen Sie sich eine temporäre Lizenz[Hier](https://purchase.aspose.com/temporary-license/).
 
 ### Warum werden meine Schriftarten in HTML nicht richtig angezeigt?
- Dieses Problem kann auftreten, wenn die Schriftarten während der Konvertierung nicht richtig aufgelöst werden. Einstellung`ResolveFontNames = true` In`HtmlSaveOptions` kann helfen, dieses Problem zu beheben.
+Dieses Problem kann auftreten, wenn die Schriftarten während der Konvertierung nicht richtig aufgelöst werden. Einstellung`ResolveFontNames = true` In`HtmlSaveOptions` kann helfen, dieses Problem zu beheben.
 
 ### Wo erhalte ich Support für Aspose.Words für .NET?
  Unterstützung erhalten Sie vom[Aspose.Words Support-Forum](https://forum.aspose.com/c/words/8).

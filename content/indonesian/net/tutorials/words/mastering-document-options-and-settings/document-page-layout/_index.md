@@ -15,7 +15,7 @@ Menyiapkan tata letak halaman dokumen Anda bisa jadi tugas yang berat, tetapi de
 
 Sebelum kita mulai, pastikan Anda memiliki hal berikut:
 
--  Aspose.Words untuk .NET: Unduh[Di Sini](https://releases.aspose.com/words/net/).
+- Aspose.Words untuk .NET: Unduh[Di Sini](https://releases.aspose.com/words/net/).
 -  Lisensi yang valid: Beli satu[Di Sini](https://purchase.aspose.com/buy) atau mendapatkan lisensi sementara[Di Sini](https://purchase.aspose.com/temporary-license/).
 - Pemahaman dasar tentang pemrograman C#: Jangan khawatir, saya akan menjelaskannya dengan sederhana.
 - Lingkungan Pengembangan Terpadu (IDE): Visual Studio sangat direkomendasikan.

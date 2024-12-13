@@ -81,4 +81,4 @@ foreach (var property in customProperties)
  हां, आप इसका उपयोग कर सकते हैं[मुफ्त परीक्षण](https://releases.groupdocs.com/) GroupDocs.Metadata की सुविधाओं का पता लगाने के लिए.
 
 ### मैं GroupDocs.Metadata के लिए लाइसेंस कैसे खरीद सकता हूं?
- लाइसेंस प्राप्त करने के लिए कृपया यहां जाएं[खरीद पृष्ठ](https://purchase.groupdocs.com/buy)अस्थायी लाइसेंस भी उपलब्ध हैं[यहाँ](https://purchase.groupdocs.com/temporary-license/).
+ लाइसेंस प्राप्त करने के लिए कृपया यहां जाएं[खरीद पृष्ठ](https://purchase.groupdocs.com/buy) अस्थायी लाइसेंस भी उपलब्ध हैं[यहाँ](https://purchase.groupdocs.com/temporary-license/).

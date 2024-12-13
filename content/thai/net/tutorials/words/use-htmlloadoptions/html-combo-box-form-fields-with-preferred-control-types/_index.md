@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## ขั้นตอนที่ 3: กำหนดค่าตัวเลือกการโหลด HTML
 
- การ`HtmlLoadOptions`คลาสใน Aspose.Words ช่วยให้เราระบุได้ว่าเนื้อหา HTML จะถูกตีความอย่างไร หากต้องการให้คอมโบบ็อกซ์แสดงผลเป็นแท็กเอกสารที่มีโครงสร้าง ให้ทำดังนี้:
+ การ`HtmlLoadOptions` คลาสใน Aspose.Words ช่วยให้เราระบุได้ว่าเนื้อหา HTML จะถูกตีความอย่างไร หากต้องการให้คอมโบบ็อกซ์แสดงผลเป็นแท็กเอกสารที่มีโครงสร้าง ให้ทำดังนี้:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions

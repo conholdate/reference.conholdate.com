@@ -47,10 +47,10 @@ Nastavte svůj PostScriptový dokument s požadovanými konfiguracemi:
 string dataDir = "Your Document Directory"; // Nastavte cestu k adresáři dokumentu
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //Nastavte možnosti uložení pro velikost A4
+    // Nastavte možnosti uložení pro velikost A4
     PsSaveOptions options = new PsSaveOptions();
     
-    // Vytvořte nový PostScriptový dokument se 2 stránkami
+    //Vytvořte nový PostScriptový dokument se 2 stránkami
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

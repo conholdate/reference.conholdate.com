@@ -95,7 +95,7 @@ Ya, Aspose.OCR serbaguna dan mendukung aplikasi desktop dan web yang dikembangka
  Anda dapat menjelajahi opsi lisensi dan melakukan pembelian[Di Sini](https://purchase.conholdate.com/buy) Uji coba gratis juga tersedia[Di Sini](https://releases.aspose.com/) , dan lisensi sementara dapat diperoleh[Di Sini](https://purchase.conholdate.com/temporary-license/).
 
 ### Di mana saya dapat menemukan dukungan untuk Aspose.OCR?  
- Untuk bantuan, kunjungi[Forum Aspose.OCR](https://forum.aspose.com/c/ocr/16) untuk komunitas dan dukungan.
+Untuk bantuan, kunjungi[Forum Aspose.OCR](https://forum.aspose.com/c/ocr/16) untuk komunitas dan dukungan.
 
 ### Format gambar apa yang didukung Aspose.OCR?  
 Aspose.OCR mendukung berbagai format, termasuk PNG, JPEG, GIF, BMP, dan TIFF.

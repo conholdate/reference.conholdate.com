@@ -33,7 +33,7 @@ Mając już ustalone wymagania wstępne i przestrzenie nazw, możemy przejść d
 
 ## Krok 1: Zainicjuj dokument i DocumentBuilder
 
-Zaczniemy od utworzenia nowego dokumentu Word i zainicjowania go`DocumentBuilder` obiekt, który pomoże nam dodać treść.
+ Zaczniemy od utworzenia nowego dokumentu Word i zainicjowania go`DocumentBuilder` obiekt, który pomoże nam dodać treść.
 
 ```csharp
 // Zdefiniuj ścieżkę do katalogu dokumentów.
@@ -56,7 +56,7 @@ Ten wiersz dodaje do dokumentu tekst „Oto obraz SVG:”, który zawiera kontek
 
 ## Krok 3: Wstaw obraz SVG
 
- Teraz nadchodzi ekscytująca część! Wstawimy obraz SVG do naszego dokumentu za pomocą`InsertHtml` metoda.
+Teraz nadchodzi ekscytująca część! Wstawimy obraz SVG do naszego dokumentu za pomocą`InsertHtml` metoda.
 
 ```csharp
 builder.InsertHtml(
@@ -83,7 +83,7 @@ Ta konfiguracja informuje Aspose.Words, że podczas eksportowania do formatu HTM
 
 ## Krok 5: Zapisz dokument
 
-Na koniec zapiszmy nasz dokument za pomocą`Save` metoda`Document` klasa.
+ Na koniec zapiszmy nasz dokument za pomocą`Save` metoda`Document`klasa.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

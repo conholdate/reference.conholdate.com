@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Sla het document ten slotte op met de geconfigureerde opties. Dit genereert een nieuw bestand zonder de afbeeldingsbulletins.
 
 ```csharp
-// Sla het document op met de opgegeven opties
+//Sla het document op met de opgegeven opties
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

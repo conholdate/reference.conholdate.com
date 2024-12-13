@@ -56,7 +56,7 @@ SignatureLine signatureLine = ((Shape)doc.FirstSection.Body.GetChild(NodeType.Sh
 
 ## Schritt 4: Signaturoptionen einrichten
 
-Erstellen wir nun die Signaturoptionen, die die Anbieter-ID und die Signaturzeilen-ID umfassen:
+Erstellen wir nun die Signaturoptionen, zu denen die Anbieter-ID und die Signaturzeilen-ID gehören:
 
 ```csharp
 SignOptions signOptions = new SignOptions

@@ -19,12 +19,12 @@ Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik az alábbiakkal:
 Győződjön meg arról, hogy a Visual Studio vagy bármely előnyben részesített .NET IDE telepítve van, és be van állítva a projekthez.
 
 ### 2. Aspose.HTML for .NET Library
-Töltse le és telepítse az Aspose.HTML .NET-hez könyvtárat. Az alábbi linken találod:[Aspose.HTML for .NET](https://releases.aspose.com/html/net/).
+ Töltse le és telepítse az Aspose.HTML .NET-hez könyvtárat. Az alábbi linken találod:[Aspose.HTML for .NET](https://releases.aspose.com/html/net/).
 
 ### 3. C# és .NET alapismeretek
 A C# és a .NET alapvető ismerete segít hatékonyan követni ezt az oktatóanyagot.
 
-## A névtér importálása
+## névtér importálása
 
 Az Aspose.HTML szolgáltatásainak használatához importálnia kell a megfelelő névteret a projektbe.
 
@@ -52,7 +52,7 @@ HTMLDocument htmlDocument = new HTMLDocument(dataDir + "input.html");
 ```
 
 ## 3. lépés: Konfigurálja a PDF mentési beállításokat
- Állítsa be`PdfSaveOptions` PDF-konverziós beállítások, például a képminőség és az elrendezés megadásához. Például beállíthatja a JPEG minőségét 100-ra:
+ Állítsa be`PdfSaveOptions` a PDF-konverziós beállítások, például a képminőség és az elrendezés megadásához. Például beállíthatja a JPEG minőségét 100-ra:
 
 ```csharp
 PdfSaveOptions options = new PdfSaveOptions

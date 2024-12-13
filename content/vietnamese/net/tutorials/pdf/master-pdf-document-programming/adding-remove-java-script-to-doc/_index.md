@@ -106,7 +106,7 @@ Trong hướng dẫn toàn diện này, bạn đã khám phá cách mở khóa s
  Có! Bạn có thể thêm nhiều hàm JavaScript tùy theo nhu cầu bằng cách sử dụng`doc.JavaScript` bộ sưu tập.
 
 ### Điều gì xảy ra nếu tôi cố xóa một hàm JavaScript không tồn tại?
- Nếu chức năng không tồn tại,`Remove` phương pháp này sẽ không đưa ra lỗi, nhưng nó cũng không xóa bất cứ thứ gì. Để xử lý các hàm không tồn tại, bạn có thể thêm xử lý lỗi bổ sung hoặc sửa đổi mã để bỏ qua chúng.
+ Nếu chức năng không tồn tại,`Remove`phương pháp này sẽ không đưa ra lỗi, nhưng nó cũng không xóa bất cứ thứ gì. Để xử lý các hàm không tồn tại, bạn có thể thêm xử lý lỗi bổ sung hoặc sửa đổi mã để bỏ qua chúng.
 
 ### Có thể chạy JavaScript ngay khi mở tệp PDF không?
 Có! Bạn có thể cấu hình JavaScript để chạy trên các kích hoạt cụ thể, chẳng hạn như mở tài liệu hoặc nhấp vào nút.

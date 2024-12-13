@@ -19,7 +19,7 @@ Antes de começar, certifique-se de ter o seguinte configurado:
  Certifique-se de ter o .NET SDK instalado em sua máquina. Você pode baixá-lo do[Site .NET](https://dotnet.microsoft.com/download).
 
 ### GroupDocs.Conversion para biblioteca .NET
-Baixe a biblioteca GroupDocs.Conversion para .NET do[site](https://releases.groupdocs.com/conversion/net/). Siga as instruções de instalação para adicioná-lo ao seu projeto.
+ Baixe a biblioteca GroupDocs.Conversion para .NET do[site](https://releases.groupdocs.com/conversion/net/)Siga as instruções de instalação para adicioná-lo ao seu projeto.
 
 ## Etapa 1: Importar os namespaces necessários
 No seu projeto .NET, inclua os seguintes namespaces para acessar as funcionalidades do GroupDocs:
@@ -74,7 +74,7 @@ Agora você aprendeu como converter arquivos Markdown para PDF usando GroupDocs.
 
 ## Perguntas frequentes
 
-### O GroupDocs.Conversion para .NET é compatível com todas as versões do .NET?
+### GroupDocs.Conversion para .NET é compatível com todas as versões do .NET?
 Sim, ele suporta várias versões do .NET Framework.
 
 ### Posso converter arquivos diferentes de Markdown para PDF?

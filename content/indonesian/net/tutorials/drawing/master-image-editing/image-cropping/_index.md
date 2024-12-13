@@ -15,7 +15,7 @@ Dalam bidang pengembangan .NET, manipulasi gambar bisa menjadi tugas yang rumit.
 
 Sebelum kita memulai, pastikan Anda telah menyiapkan hal-hal berikut:
 
--  Pustaka Aspose.Drawing: Pastikan Anda telah mengintegrasikan pustaka Aspose.Drawing ke dalam proyek .NET Anda. Anda dapat mengunduhnya[Di Sini](https://releases.aspose.com/drawing/net/).
+- Pustaka Aspose.Drawing: Pastikan Anda telah mengintegrasikan pustaka Aspose.Drawing ke dalam proyek .NET Anda. Anda dapat mengunduhnya[Di Sini](https://releases.aspose.com/drawing/net/).
   
 -  Direktori Gambar: Miliki direktori khusus untuk gambar proyek Anda. Anda perlu mengganti`"Your Document Directory"` dalam cuplikan kode dengan jalur ke folder gambar Anda.
 
@@ -115,4 +115,4 @@ Benar! Aspose.Drawing unggul dalam pemrosesan batch, sehingga efisien dalam mena
 
 ### Di mana saya bisa mendapatkan dukungan untuk pertanyaan terkait Aspose.Drawing?
 
- Untuk bantuan, kunjungi[Forum Aspose.Gambar](https://forum.aspose.com/c/diagram/17) untuk terhubung dengan komunitas dan mencari bantuan untuk pertanyaan Anda.
+Untuk bantuan, kunjungi[Forum Aspose.Gambar](https://forum.aspose.com/c/diagram/17) untuk terhubung dengan komunitas dan mencari bantuan untuk pertanyaan Anda.

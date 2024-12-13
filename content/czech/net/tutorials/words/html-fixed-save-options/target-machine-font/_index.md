@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 Nyní uložme dokument jako pevný soubor HTML. Tady se děje kouzlo!
 
 ```csharp
-//Převést dokument do pevného HTML
+// Převést dokument do pevného HTML
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

@@ -91,7 +91,7 @@ Có, Aspose.OCR hỗ trợ nhiều ngôn ngữ, khiến nó trở thành giải 
 
 ### Tôi có thể nhận hỗ trợ cho Aspose.OCR ở đâu?
 
- Để được hỗ trợ, hãy truy cập[Diễn đàn Aspose.OCR](https://forum.aspose.com/c/ocr/16) nơi các thành viên cộng đồng và chuyên gia sẵn sàng giúp đỡ.
+Để được hỗ trợ, hãy truy cập[Diễn đàn Aspose.OCR](https://forum.aspose.com/c/ocr/16) nơi các thành viên cộng đồng và chuyên gia sẵn sàng giúp đỡ.
 
 ### Tôi có thể xin giấy phép tạm thời không?
 

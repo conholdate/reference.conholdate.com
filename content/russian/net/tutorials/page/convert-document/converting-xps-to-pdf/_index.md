@@ -110,7 +110,7 @@ document.Save(device, options);
 
 ### Существует ли пробная версия Aspose.Page для .NET?
 
- Да, вы можете попробовать Aspose.Page для .NET с помощью бесплатной пробной версии.[здесь](https://releases.aspose.com/).
+ Да, вы можете попробовать Aspose.Page for .NET с помощью бесплатной пробной версии.[здесь](https://releases.aspose.com/).
 
 ### Где я могу найти поддержку сообщества для Aspose.Page for .NET?
 

@@ -90,10 +90,10 @@ In questo tutorial, abbiamo esplorato come usare efficacemente GroupDocs.Metadat
  La documentazione dettagliata è disponibile presso[GroupDocs.Metadata per la documentazione .NET](https://reference.groupdocs.com/metadata/net/).
 
 ### GroupDocs.Metadata supporta una prova gratuita?
-Sì, puoi scaricare una versione di prova gratuita di GroupDocs.Metadata[Qui](https://releases.groupdocs.com/).
+ Sì, puoi scaricare una versione di prova gratuita di GroupDocs.Metadata[Qui](https://releases.groupdocs.com/).
 
 ### Dove posso ottenere supporto per GroupDocs.Metadata?
  Per supporto, visita il[Forum di GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) per assistenza e discussioni nella comunità.
 
 ### Quali formati di file supporta GroupDocs.Metadata?
-GroupDocs.Metadata supporta diversi formati, tra cui DOCX, XLSX, PDF, JPG, PNG e altri ancora.
+GroupDocs.Metadata supporta diversi formati, tra cui DOCX, XLSX, PDF, JPG, PNG e altri.

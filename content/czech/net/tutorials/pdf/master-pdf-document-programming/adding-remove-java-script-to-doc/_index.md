@@ -98,7 +98,7 @@ Ověřte, zda byla funkce úspěšně odstraněna, opakovaným tiskem zbývajíc
 
 ## Závěr
 
-V tomto komplexním průvodci jste zjistili, jak odemknout sílu přizpůsobitelné funkce JavaScriptu Aspose.PDF pro .NET. Pomocí této funkce můžete vytvářet dynamické soubory PDF, vylepšovat uživatelské prostředí a zjednodušit pracovní postupy. Zvládnutím těchto kroků a dalším prozkoumáním možností knihovny budete na dobré cestě k odemknutí nových možností ve vašich aplikacích.
+V tomto komplexním průvodci jste zjistili, jak odemknout sílu přizpůsobitelné funkce JavaScriptu Aspose.PDF pro .NET. Pomocí této funkce můžete vytvářet dynamické soubory PDF, zlepšovat uživatelské prostředí a zjednodušovat pracovní postupy. Zvládnutím těchto kroků a dalším prozkoumáním možností knihovny budete na dobré cestě k odemknutí nových možností ve vašich aplikacích.
 
 ## FAQ
 
@@ -106,7 +106,7 @@ V tomto komplexním průvodci jste zjistili, jak odemknout sílu přizpůsobitel
  Ano! Pomocí příkazu můžete přidat tolik funkcí JavaScriptu, kolik potřebujete`doc.JavaScript` sbírka.
 
 ### Co se stane, když se pokusím odstranit neexistující funkci JavaScriptu?
- Pokud funkce neexistuje,`Remove` metoda nevyhodí chybu, ale také nic neodstraní. Chcete-li zpracovat neexistující funkce, můžete přidat další zpracování chyb nebo upravit kód tak, aby je ignoroval.
+ Pokud funkce neexistuje,`Remove`metoda nevyhodí chybu, ale také nic neodstraní. Chcete-li zpracovat neexistující funkce, můžete přidat další zpracování chyb nebo upravit kód tak, aby je ignoroval.
 
 ### Je možné spustit JavaScript ihned po otevření PDF?
 Ano! JavaScript můžete nakonfigurovat tak, aby se spouštěl na konkrétních spouštěčích, jako je otevření dokumentu nebo kliknutí na tlačítko.

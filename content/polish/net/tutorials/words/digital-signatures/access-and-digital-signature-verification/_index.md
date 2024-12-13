@@ -16,7 +16,7 @@ Cześć, entuzjaści technologii! Czy kiedykolwiek musieliście zweryfikować po
 Zanim zaczniemy, upewnij się, że masz przygotowane następujące rzeczy:
 
 1. Visual Studio: Upewnij się, że jest zainstalowany na Twoim komputerze, aby móc kodować.
-2.  Aspose.Words dla .NET: Pobierz i zainstaluj z[Tutaj](https://releases.aspose.com/words/net/) Jeśli jeszcze tego nie zrobiłeś, skorzystaj z bezpłatnej wersji próbnej[Tutaj](https://releases.aspose.com/).
+2.  Aspose.Words dla .NET: Pobierz i zainstaluj z[Tutaj](https://releases.aspose.com/words/net/) . Jeśli jeszcze tego nie zrobiłeś, skorzystaj z bezpłatnej wersji próbnej[Tutaj](https://releases.aspose.com/).
 3. Dokument Word podpisany cyfrowo: Przygotuj dokument Word z podpisem cyfrowym w celu weryfikacji.
 
 ## Importowanie przestrzeni nazw
@@ -142,7 +142,7 @@ Tak, obsługuje wszystkie wersje dokumentów Microsoft Word, w tym DOC, DOCX, RT
 
 ### Jak uzyskać tymczasową licencję na Aspose.Words dla .NET?
 
-Możesz uzyskać tymczasową licencję od[Tutaj](https://purchase.aspose.com/temporary-license/), co pozwala na nieograniczone korzystanie ze wszystkich funkcji biblioteki.
+ Możesz uzyskać tymczasową licencję od[Tutaj](https://purchase.aspose.com/temporary-license/), co pozwala na nieograniczone korzystanie ze wszystkich funkcji biblioteki.
 
 ### Gdzie mogę znaleźć więcej dokumentacji na temat Aspose.Words dla .NET?
 

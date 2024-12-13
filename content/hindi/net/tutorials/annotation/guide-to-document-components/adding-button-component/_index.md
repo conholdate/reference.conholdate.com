@@ -16,7 +16,7 @@ url: /hi/net/tutorials/annotation/guide-to-document-components/adding-button-com
 आरंभ करने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित चीज़ें मौजूद हैं:
 
 1.  .NET के लिए GroupDocs.Annotation: .NET लाइब्रेरी के लिए GroupDocs.Annotation डाउनलोड करें और इंस्टॉल करें[यहाँ](https://releases.groupdocs.com/annotation/net/).
-2. विकास परिवेश: .NET फ्रेमवर्क स्थापित करके उपयुक्त विकास परिवेश स्थापित करें।
+2. विकास वातावरण: .NET फ्रेमवर्क स्थापित करके उपयुक्त विकास वातावरण स्थापित करें।
 
 ## चरण 1: आवश्यक नामस्थान आयात करें
 

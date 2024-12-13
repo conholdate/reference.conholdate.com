@@ -16,7 +16,7 @@ Hallo Technikbegeisterte! Mussten Sie schon einmal digitale Signaturen in einem 
 Bevor wir beginnen, stellen Sie sicher, dass Sie Folgendes bereit haben:
 
 1. Visual Studio: Stellen Sie sicher, dass es zum Codieren auf Ihrem Computer installiert ist.
-2.  Aspose.Words für .NET: Laden Sie es herunter und installieren Sie es von[Hier](https://releases.aspose.com/words/net/) Wenn Sie es noch nicht getan haben, holen Sie sich Ihre kostenlose Testversion[Hier](https://releases.aspose.com/).
+2.  Aspose.Words für .NET: Laden Sie es herunter und installieren Sie es von[Hier](https://releases.aspose.com/words/net/) . Wenn Sie es noch nicht getan haben, holen Sie sich Ihre kostenlose Testversion[Hier](https://releases.aspose.com/).
 3. Ein digital signiertes Word-Dokument: Halten Sie zur Überprüfung ein Word-Dokument mit einer digitalen Signatur bereit.
 
 ## Namespaces importieren
@@ -142,7 +142,7 @@ Ja, es unterstützt alle Versionen von Microsoft Word-Dokumenten, einschließlic
 
 ### Wie erhalte ich eine temporäre Lizenz für Aspose.Words für .NET?
 
-Eine vorläufige Lizenz erhalten Sie bei[Hier](https://purchase.aspose.com/temporary-license/), sodass Sie alle Funktionen der Bibliothek ohne Einschränkungen nutzen können.
+ Eine vorläufige Lizenz erhalten Sie bei[Hier](https://purchase.aspose.com/temporary-license/), sodass Sie alle Funktionen der Bibliothek ohne Einschränkungen nutzen können.
 
 ### Wo finde ich weitere Dokumentation zu Aspose.Words für .NET?
 

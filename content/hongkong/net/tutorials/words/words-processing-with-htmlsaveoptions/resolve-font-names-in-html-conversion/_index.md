@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/words/words-processing-with-htmlsaveoptions/resolve-
 
 在我們開始之前，請確保您擁有所需的一切：
 
-1.  Aspose.Words for .NET：下載[這裡](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET：下載[這裡](https://releases.aspose.com/words/net/).
 2. 有效許可證：購買許可證[這裡](https://purchase.aspose.com/buy)或獲得臨時許可證[這裡](https://purchase.aspose.com/temporary-license/).
 3. C# 和 .NET 的基本知識：假設熟悉 C# 的基本程式設計概念。
 4. Visual Studio：任何支援 .NET 框架的版本都可以使用。
@@ -44,7 +44,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## 步驟2：載入Word文檔
 
-接下來，我們需要載入我們想要處理的Word文件。該文件應包含您要解析的字型。
+接下來，我們需要載入我們想要處理的Word文件。該文件應包含您要解析的字體。
 
 ```csharp
 Document doc = new Document(dataDir + "MissingFont.docx");

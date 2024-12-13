@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/drawing/master-image-editing/image-display/
 
 在開始之前，請確保您具備以下先決條件：
 
-- Aspose.Drawing for .NET 函式庫：從下列位置下載並安裝程式庫：[發布頁面](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing for .NET 函式庫：從下列位置下載並安裝程式庫：[發布頁面](https://releases.aspose.com/drawing/net/).
 - .NET 環境：確保您的開發環境設定為可與 .NET 搭配使用。
 - 文件目錄：建立一個目錄來儲存您的映像。
 - 映像檔：準備用於顯示的圖片文件，例如“aspose_logo.png”。

@@ -69,11 +69,11 @@ Este snippet carrega o arquivo PSD, converte-o para o formato PNG e salva-o no d
 
 ## Conclusão
 
-Aspose.PSD para .NET simplifica as tarefas de processamento de imagens, tornando-o uma ferramenta essencial para desenvolvedores. Ao seguir este guia, você aprendeu como salvar imagens sem esforço, e há muito mais para descobrir!
+O Aspose.PSD para .NET simplifica as tarefas de processamento de imagens, tornando-o uma ferramenta essencial para desenvolvedores. Ao seguir este guia, você aprendeu como salvar imagens sem esforço, e há muito mais para descobrir!
 
 ## Perguntas frequentes
 
-### O Aspose.PSD para .NET pode lidar com outros formatos de imagem?
+### Aspose.PSD para .NET pode lidar com outros formatos de imagem?
 
 A1: Com certeza! O Aspose.PSD suporta vários formatos de imagem, oferecendo flexibilidade em seus projetos.
 

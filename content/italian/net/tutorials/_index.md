@@ -97,7 +97,7 @@ Sblocca il pieno potenziale di Aspose.ZIP per .NET con i nostri tutorial dettagl
 
 ## Aspose.OCR
 {{% alert color="primary" %}}
-Sblocca la precisione nel riconoscimento delle immagini OCR con Aspose.OCR per .NET. Esplora i tutorial sul calcolo dell'angolo di inclinazione, il riconoscimento del testo, la configurazione OCR e l'ottimizzazione.
+Sblocca la precisione nel riconoscimento delle immagini OCR con Aspose.OCR per .NET. Esplora i tutorial sul calcolo dell'angolo di inclinazione, sul riconoscimento del testo, sulla configurazione OCR e sull'ottimizzazione.
 {{% /alert %}}
 
 ### Esercitazioni Aspose.OCR

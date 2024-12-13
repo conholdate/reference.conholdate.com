@@ -33,7 +33,7 @@ Az előfeltételeink és a névtereink rendezve, folytassuk a metafájlok SVG fo
 
 ## 1. lépés: Inicializálja a Dokumentumot és a DocumentBuildert
 
-Kezdjük egy új Word-dokumentum létrehozásával, és inicializáljuk a`DocumentBuilder` objektum, amely segít tartalom hozzáadásával.
+ Kezdjük egy új Word-dokumentum létrehozásával, és inicializáljuk a`DocumentBuilder` objektum, amely segít tartalom hozzáadásával.
 
 ```csharp
 // Határozza meg a dokumentumok könyvtárának elérési útját.
@@ -56,7 +56,7 @@ Ez a sor hozzáadja a "Itt van egy SVG-kép:" szöveget a dokumentumhoz, kontext
 
 ## 3. lépés: SVG kép beszúrása
 
- Most jön az izgalmas rész! Egy SVG-képet szúrunk be a dokumentumunkba a`InsertHtml` módszer.
+Most jön az izgalmas rész! Egy SVG-képet szúrunk be a dokumentumunkba a`InsertHtml` módszer.
 
 ```csharp
 builder.InsertHtml(
@@ -83,7 +83,7 @@ Ez a konfiguráció arra utasítja az Aspose.Words-t, hogy a dokumentumban talá
 
 ## 5. lépés: Mentse el a dokumentumot
 
-Végül mentsük el a dokumentumunkat a`Save` módszere a`Document` osztály.
+ Végül mentsük el a dokumentumunkat a`Save` módszere a`Document`osztály.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

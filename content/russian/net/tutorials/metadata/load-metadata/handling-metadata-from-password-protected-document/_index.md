@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## Шаг 3: Загрузка метаданных из документа
 
- Используя`Metadata` class, вы можете загрузить метаданные из указанного документа. Не забудьте заменить`"YourInputFile"` с путем к вашему документу:
+ Используя`Metadata` class, вы можете загрузить метаданные из указанного документа. Не забудьте заменить`"YourInputFile"`с путем к вашему документу:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

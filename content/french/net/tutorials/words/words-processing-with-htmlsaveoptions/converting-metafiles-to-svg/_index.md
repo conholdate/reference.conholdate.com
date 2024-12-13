@@ -33,7 +33,7 @@ Une fois nos prérequis et nos espaces de noms triés, passons au guide étape p
 
 ## Étape 1 : Initialiser le document et DocumentBuilder
 
-Nous commencerons par créer un nouveau document Word et initialiser le`DocumentBuilder` objet, qui nous aidera à ajouter du contenu.
+ Nous commencerons par créer un nouveau document Word et initialiser le`DocumentBuilder` objet, qui nous aidera à ajouter du contenu.
 
 ```csharp
 // Définissez le chemin vers le répertoire des documents.
@@ -56,7 +56,7 @@ Cette ligne ajoute le texte « Voici une image SVG : » à votre document, fo
 
 ## Étape 3 : Insérer une image SVG
 
- Vient maintenant la partie passionnante ! Nous allons insérer une image SVG dans notre document en utilisant le`InsertHtml` méthode.
+Vient maintenant la partie passionnante ! Nous allons insérer une image SVG dans notre document en utilisant le`InsertHtml` méthode.
 
 ```csharp
 builder.InsertHtml(
@@ -83,7 +83,7 @@ Cette configuration indique à Aspose.Words de convertir tous les métafichiers 
 
 ## Étape 5 : Enregistrer le document
 
-Enfin, sauvegardons notre document en utilisant le`Save` méthode de la`Document` classe.
+ Enfin, sauvegardons notre document en utilisant le`Save` méthode de la`Document`classe.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

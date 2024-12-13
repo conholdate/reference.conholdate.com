@@ -82,7 +82,7 @@ Console.WriteLine("\nZIP files merge completed successfully. Check the output in
 
 ### 병합된 ZIP 파일의 파일 순서를 지정하는 등 병합 프로세스를 사용자 지정할 수 있습니까?
 
-네, 병합 프로세스를 완전히 제어할 수 있습니다. 호출하는 순서를 조작하여 파일 순서를 지정할 수 있습니다.`Join()` 방법.
+ 네, 병합 프로세스를 완전히 제어할 수 있습니다. 호출하는 순서를 조작하여 파일 순서를 지정할 수 있습니다.`Join()` 방법.
 
 ### .NET용 GroupDocs.Merger를 상업적으로 사용하려면 라이선스가 필요합니까?
 

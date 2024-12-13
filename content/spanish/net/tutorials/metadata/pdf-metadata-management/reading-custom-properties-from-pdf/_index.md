@@ -32,7 +32,7 @@ using Tagging;
 
 ## Paso 2: Cargue el documento PDF
 
-continuación, cargará el documento PDF que contiene las propiedades personalizadas. Utilice el siguiente fragmento de código para lograrlo:
+A continuación, cargará el documento PDF que contiene las propiedades personalizadas. Utilice el siguiente fragmento de código para lograrlo:
 
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
@@ -81,4 +81,4 @@ De hecho, GroupDocs.Metadata admite una amplia variedad de formatos de archivos,
  Sí, puedes acceder a una[prueba gratis](https://releases.groupdocs.com/) para explorar las características de GroupDocs.Metadata.
 
 ### ¿Cómo puedo comprar una licencia para GroupDocs.Metadata?
- Para adquirir una licencia, visite el sitio[Página de compra](https://purchase.groupdocs.com/buy)También están disponibles licencias temporales.[aquí](https://purchase.groupdocs.com/temporary-license/).
+ Para adquirir una licencia, visite el sitio[Página de compra](https://purchase.groupdocs.com/buy) También están disponibles licencias temporales.[aquí](https://purchase.groupdocs.com/temporary-license/).

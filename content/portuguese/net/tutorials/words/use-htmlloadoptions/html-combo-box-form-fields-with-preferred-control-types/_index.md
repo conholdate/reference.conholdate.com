@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Etapa 3: Configurar opções de carregamento de HTML
 
- O`HtmlLoadOptions`class em Aspose.Words nos permite especificar como o conteúdo HTML deve ser interpretado. Para garantir que a caixa de combinação seja renderizada como uma tag de documento estruturada:
+ O`HtmlLoadOptions` class em Aspose.Words nos permite especificar como o conteúdo HTML deve ser interpretado. Para garantir que a caixa de combinação seja renderizada como uma tag de documento estruturada:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions
@@ -96,7 +96,7 @@ Isso gera um arquivo do Word contendo o campo de formulário da caixa de combina
 
 ## Conclusão
 
- Incorporar conteúdo HTML, especialmente campos de formulário como caixas de combinação, em documentos do Word usando Aspose.Words para .NET é simples ao aproveitar`HtmlLoadOptions`Este guia fornece a você o conhecimento para controlar como esses elementos são renderizados, garantindo que seus documentos atendam aos requisitos do usuário e do projeto.
+ Incorporar conteúdo HTML, especialmente campos de formulário como caixas de combinação, em documentos do Word usando Aspose.Words para .NET é simples ao aproveitar`HtmlLoadOptions`. Este guia fornece a você o conhecimento para controlar como esses elementos são renderizados, garantindo que seus documentos atendam aos requisitos do usuário e do projeto.
 
 ## Perguntas frequentes
 

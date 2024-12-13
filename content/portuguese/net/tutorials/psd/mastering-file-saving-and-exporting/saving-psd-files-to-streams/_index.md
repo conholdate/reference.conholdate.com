@@ -47,7 +47,7 @@ Identifique o local do seu arquivo PSD de origem e onde você deseja salvar a im
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Caminho para o seu arquivo PSD de origem
-string destName = dataDir + "result.png";   // Caminho para o arquivo de imagem de saída
+string destName = dataDir + "result.png";   //Caminho para o arquivo de imagem de saída
 ```
 
 ## Etapa 3: Carregue a imagem PSD e gerencie fontes não encontradas
@@ -89,7 +89,7 @@ Parabéns! Você aprendeu com sucesso como salvar imagens em um fluxo usando Asp
 ## Perguntas frequentes
 
 ### Posso usar o Aspose.PSD com qualquer tipo de arquivo de imagem?
- Sim! O Aspose.PSD suporta vários formatos de imagem, incluindo PSD, PNG, JPEG e mais. Para uma lista detalhada, verifique a documentação[aqui](https://reference.aspose.com/psd/net/).
+Sim! O Aspose.PSD suporta vários formatos de imagem, incluindo PSD, PNG, JPEG e mais. Para uma lista detalhada, verifique a documentação[aqui](https://reference.aspose.com/psd/net/).
 
 ### Como obtenho suporte para o Aspose.PSD?
  Para obter assistência e suporte da comunidade, visite o fórum de suporte Aspose.PSD[aqui](https://forum.aspose.com/c/psd/34).

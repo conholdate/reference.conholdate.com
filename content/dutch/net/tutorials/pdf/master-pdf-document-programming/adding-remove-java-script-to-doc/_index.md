@@ -106,7 +106,7 @@ In deze uitgebreide gids hebt u ontdekt hoe u de kracht van Aspose.PDF voor .NET
  Ja! U kunt zoveel JavaScript-functies toevoegen als nodig is met behulp van de`doc.JavaScript` verzameling.
 
 ### Wat gebeurt er als ik een niet-bestaande JavaScript-functie probeer te verwijderen?
- Als de functie niet bestaat,`Remove` methode zal geen fout genereren, maar het zal ook niets verwijderen. Om niet-bestaande functies te verwerken, kunt u extra foutverwerking toevoegen of de code aanpassen om ze te negeren.
+ Als de functie niet bestaat,`Remove`methode zal geen fout genereren, maar het zal ook niets verwijderen. Om niet-bestaande functies te verwerken, kunt u extra foutverwerking toevoegen of de code aanpassen om ze te negeren.
 
 ### Is het mogelijk om JavaScript uit te voeren zodra het PDF-bestand geopend is?
 Ja! U kunt JavaScript configureren om te worden uitgevoerd op specifieke triggers, zoals het openen van het document of het klikken op een knop.

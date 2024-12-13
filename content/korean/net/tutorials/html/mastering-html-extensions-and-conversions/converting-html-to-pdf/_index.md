@@ -19,7 +19,7 @@ url: /ko/net/tutorials/html/mastering-html-extensions-and-conversions/converting
 프로젝트에 Visual Studio나 선호하는 .NET IDE가 설치되고 설정되어 있는지 확인하세요.
 
 ### 2. .NET 라이브러리용 Aspose.HTML
-.NET용 Aspose.HTML 라이브러리를 다운로드하고 설치하세요. 다음 링크에서 찾을 수 있습니다.[Aspose.HTML for .NET](https://releases.aspose.com/html/net/).
+ .NET용 Aspose.HTML 라이브러리를 다운로드하고 설치하세요. 다음 링크에서 찾을 수 있습니다.[Aspose.HTML for .NET](https://releases.aspose.com/html/net/).
 
 ### 3. C# 및 .NET에 대한 기본 지식
 C#과 .NET에 대한 기본적인 이해가 있으면 이 튜토리얼을 효과적으로 따라갈 수 있습니다.
@@ -52,7 +52,7 @@ HTMLDocument htmlDocument = new HTMLDocument(dataDir + "input.html");
 ```
 
 ## 3단계: PDF 저장 옵션 구성
- 설정`PdfSaveOptions`PDF 변환 설정(예: 이미지 품질 및 레이아웃)을 정의합니다. 예를 들어 JPEG 품질을 100으로 설정할 수 있습니다.
+ 설정`PdfSaveOptions` PDF 변환 설정(예: 이미지 품질 및 레이아웃)을 정의합니다. 예를 들어 JPEG 품질을 100으로 설정할 수 있습니다.
 
 ```csharp
 PdfSaveOptions options = new PdfSaveOptions

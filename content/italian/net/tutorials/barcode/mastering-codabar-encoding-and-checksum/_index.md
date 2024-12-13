@@ -15,7 +15,7 @@ Con Aspose.BarCode per .NET, generare un codice a barre con un checksum è piutt
 
 Ora che hai capito i checksum, parliamo di personalizzazione. A volte, un codice a barre standard non è sufficiente. Potresti aver bisogno di caratteri di inizio e fine specifici, dimensioni uniche o formati di immagine diversi. Fortunatamente, Aspose.BarCode ti consente di essere creativo quanto vuoi!
 
- Per creare codici a barre Codabar personalizzati, il primo passo è definire i parametri del codice a barre. Puoi specificare qualsiasi cosa, dall'altezza e larghezza al colore di sfondo. È come essere un artista con la tua tela per codici a barre! Dopo aver impostato i parametri, tutto ciò che devi fare è chiamare il metodo appropriato nella libreria Aspose.BarCode per generare la tua immagine personalizzata del codice a barre. Vuoi saperne di più sull'impostazione di tali parametri? Dai un'occhiata alla nostra guida su[creazione di codici a barre Codabar personalizzati](./custom-codabar-barcodes/).
+ Per creare codici a barre Codabar personalizzati, il primo passo è definire i parametri del codice a barre. Puoi specificare qualsiasi cosa, dall'altezza e dalla larghezza al colore di sfondo. È come essere un artista con la tua tela per codici a barre! Dopo aver impostato i parametri, tutto ciò che devi fare è chiamare il metodo appropriato nella libreria Aspose.BarCode per generare la tua immagine personalizzata del codice a barre. Vuoi saperne di più sull'impostazione di tali parametri? Dai un'occhiata alla nostra guida su[creazione di codici a barre Codabar personalizzati](./custom-codabar-barcodes/).
 
 ## Conclusione
 

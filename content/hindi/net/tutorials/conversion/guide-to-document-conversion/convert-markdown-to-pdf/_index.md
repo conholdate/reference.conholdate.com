@@ -19,7 +19,7 @@ url: /hi/net/tutorials/conversion/guide-to-document-conversion/convert-markdown-
  सुनिश्चित करें कि आपके मशीन पर .NET SDK इंस्टॉल है। आप इसे यहाँ से डाउनलोड कर सकते हैं[.NET वेबसाइट](https://dotnet.microsoft.com/download).
 
 ### .NET लाइब्रेरी के लिए GroupDocs.Conversion
-.NET लाइब्रेरी के लिए GroupDocs.Conversion डाउनलोड करें[साइट](https://releases.groupdocs.com/conversion/net/)इसे अपने प्रोजेक्ट में जोड़ने के लिए इंस्टॉलेशन निर्देशों का पालन करें।
+ .NET लाइब्रेरी के लिए GroupDocs.Conversion डाउनलोड करें[साइट](https://releases.groupdocs.com/conversion/net/)इसे अपने प्रोजेक्ट में जोड़ने के लिए इंस्टॉलेशन निर्देशों का पालन करें।
 
 ## चरण 1: आवश्यक नामस्थान आयात करें
 अपने .NET प्रोजेक्ट में, GroupDocs कार्यक्षमताओं तक पहुँचने के लिए निम्नलिखित नामस्थान शामिल करें:

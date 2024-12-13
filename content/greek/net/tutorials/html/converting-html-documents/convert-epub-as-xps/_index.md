@@ -61,7 +61,7 @@ string dataDir = "Your Data Directory";
 
 ## Βήμα 2: Ανοίξτε το Έγγραφο EPUB για ανάγνωση
 
- Χρησιμοποιώντας το`File.OpenRead` μέθοδο, μπορείτε να ανοίξετε το έγγραφο EPUB για ανάγνωση. Αυτό επιτρέπει στην εφαρμογή σας να έχει πρόσβαση στα περιεχόμενα του αρχείου EPUB.
+ Χρησιμοποιώντας το`File.OpenRead`μέθοδο, μπορείτε να ανοίξετε το έγγραφο EPUB για ανάγνωση. Αυτό επιτρέπει στην εφαρμογή σας να έχει πρόσβαση στα περιεχόμενα του αρχείου EPUB.
 
 ```csharp
 using (var fs = File.OpenRead(dataDir + "document.epub"))
@@ -111,4 +111,4 @@ using (var renderer = new EpubRenderer())
  Μπορείτε να λάβετε υποστήριξη μεταβαίνοντας στο[Aspose forum υποστήριξης](https://forum.aspose.com/c/html/29).
 
 ### Πώς μπορώ να αποκτήσω μια προσωρινή άδεια για το Aspose.HTML;
-Μπορείτε να αποκτήσετε προσωρινή άδεια από[αυτή τη σελίδα](https://purchase.conholdate.com/temporary-license/).
+ Μπορείτε να αποκτήσετε προσωρινή άδεια από[αυτή τη σελίδα](https://purchase.conholdate.com/temporary-license/).

@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 Låt oss nu spara dokumentet som en fast HTML-fil. Det är här magin händer!
 
 ```csharp
-//Konvertera dokument till fast HTML
+// Konvertera dokument till fast HTML
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

@@ -91,7 +91,7 @@ Hoewel u Aspose.Words zonder licentie kunt gebruiken, kunnen sommige geavanceerd
  Download het van de[website](https://releases.aspose.com/words/net/) en volg de meegeleverde installatie-instructies.
 
 ### Kan ik verschillende eenheden instellen voor verschillende secties van een document?
- Absoluut! U kunt marges en instellingen voor verschillende secties aanpassen met behulp van de`Section` klas.
+ Absoluut! U kunt marges en instellingen voor verschillende secties aanpassen met behulp van de`Section`klas.
 
 ### Welke andere functies biedt Aspose.Words?
  Aspose.Words ondersteunt een breed scala aan functies, waaronder documentconversie, mail merge en uitgebreide opmaakopties. Bekijk de[documentatie](https://reference.aspose.com/words/net/) voor meer informatie.

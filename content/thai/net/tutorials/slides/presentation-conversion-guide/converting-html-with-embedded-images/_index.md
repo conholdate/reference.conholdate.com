@@ -101,7 +101,7 @@ presentation.Save(Path.Combine(outputDir, "PresentationOutput.html"), SaveFormat
 ใช่ Aspose.Slides รองรับแอนิเมชันระหว่างการส่งออก อย่างไรก็ตาม ความเข้ากันได้ของแอนิเมชันใน HTML ขึ้นอยู่กับความซับซ้อนของการนำเสนอต้นฉบับ
 
 ### รูปแบบอื่นใดอีกบ้างที่สามารถส่งออกโดยใช้ Aspose.Slides ได้บ้าง
-ไลบรารีรองรับรูปแบบต่างๆ มากมาย รวมถึง PDF, PNG และ SVG โปรดดูที่[เอกสารประกอบ](https://reference.aspose.com/slides/net/) สำหรับรายละเอียดเพิ่มเติม
+ ไลบรารีรองรับรูปแบบต่างๆ มากมาย รวมถึง PDF, PNG และ SVG โปรดดูที่[เอกสารประกอบ](https://reference.aspose.com/slides/net/) สำหรับรายละเอียดเพิ่มเติม
 
 ### มีการสนับสนุนด้านเทคนิคสำหรับ Aspose.Slides หรือไม่
  ใช่ คุณสามารถขอความช่วยเหลือได้ที่[ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/slides/11).

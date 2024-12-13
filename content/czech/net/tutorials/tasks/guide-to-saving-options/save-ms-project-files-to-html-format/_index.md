@@ -17,7 +17,7 @@ Než začneme, ujistěte se, že máte splněny následující předpoklady:
 
 1. Základní znalost C#: Předpokládá se znalost programovacího jazyka C#.
 2.  Instalace Aspose.Tasks: Ujistěte se, že máte ve vývojovém prostředí nainstalovaný Aspose.Tasks for .NET. Můžete jej snadno získat z[Aspose webové stránky](https://www.aspose.com).
-3. Soubor Microsoft Project: Připravte si soubor Microsoft Project pro převod (s a`.mpp` rozšíření).
+3.  Soubor Microsoft Project: Připravte si soubor Microsoft Project pro převod (s a`.mpp` rozšíření).
 
 ## Import nezbytných jmenných prostorů
 

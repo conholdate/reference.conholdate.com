@@ -17,7 +17,7 @@ Wyobraź sobie, że masz plik MS Project (.mpp), którym musisz się podzielić 
 
 ## Konwertuj pliki MS Project do PDF
 
-Pliki PDF są często wyborem, gdy potrzebujesz formatu, który jest powszechnie dostępny i wygląda profesjonalnie. Dzięki Aspose.Tasks konwersja plików .mpp do PDF jest równie prosta! Ten samouczek przeprowadzi Cię przez cały proces, wyjaśniając, jak dostosować dane wyjściowe do swoich wymagań. Niezależnie od tego, czy skupiasz się na konkretnych stronach, dostosowujesz układ, czy automatyzujesz konwersje wsadowe, instrukcje krok po kroku zapewniają, że nic Ci nie umknie. Ponadto idealnie nadaje się do udostępniania interesariuszom, którzy mogą nie mieć zainstalowanego programu MS Project. Zapoznaj się z pełnym przewodnikiem[Tutaj](./convert-ms-project-files-to-pdf/).
+Pliki PDF są często wyborem, gdy potrzebujesz formatu, który jest powszechnie dostępny i wygląda profesjonalnie. Dzięki Aspose.Tasks konwersja plików .mpp do PDF jest równie prosta! Ten samouczek przeprowadzi Cię przez cały proces, wyjaśniając, jak dostosować dane wyjściowe do swoich wymagań. Niezależnie od tego, czy skupiasz się na konkretnych stronach, dostosowujesz układ, czy automatyzujesz konwersje wsadowe, instrukcje krok po kroku zapewniają, że niczego nie przegapisz. Ponadto jest idealny do udostępniania interesariuszom, którzy mogą nie mieć zainstalowanego programu MS Project. Zapoznaj się z pełnym przewodnikiem[Tutaj](./convert-ms-project-files-to-pdf/).
 
 ## Przewodnik po opcjach zapisywania Opcje samouczki
 ### [Zapisywanie plików MS Project w formacie HTML za pomocą Aspose.Tasks dla .NET](./save-ms-project-files-to-html-format/)

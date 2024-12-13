@@ -44,7 +44,7 @@ Document doc = new Document(dataDir + "Document.docx");
 
 ## Bước 2: Lưu tài liệu dưới dạng MHTML
 
- Tiếp theo, chuyển đổi tài liệu đã tải thành định dạng MHTML. Điều này được thực hiện bằng cách sử dụng`Save` phương pháp của`Document` lớp học.
+ Tiếp theo, chuyển đổi tài liệu đã tải thành định dạng MHTML. Điều này được thực hiện bằng cách sử dụng`Save` phương pháp của`Document`lớp học.
 
 ```csharp
 using (Stream stream = new MemoryStream())
@@ -90,7 +90,7 @@ Xin chúc mừng! Bạn đã chuyển đổi thành công một tài liệu DOCX
 Chắc chắn rồi! Aspose.Words hỗ trợ nhiều định dạng, cho phép bạn chuyển đổi DOC, DOCX, RTF, v.v. sang MHTML.
 
 ### Làm thế nào để thêm tệp đính kèm vào email?
- Bạn có thể dễ dàng thêm tệp đính kèm bằng cách sử dụng`Attachments` tài sản của`MailMessage` lớp học.
+ Bạn có thể dễ dàng thêm tệp đính kèm bằng cách sử dụng`Attachments` tài sản của`MailMessage`lớp học.
 
 ### Aspose.Words có tương thích với .NET Core không?
 Có, Aspose.Words tương thích với .NET Core, do đó phù hợp để sử dụng trong các ứng dụng .NET Core.

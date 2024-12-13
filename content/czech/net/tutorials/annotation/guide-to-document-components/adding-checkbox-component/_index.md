@@ -111,7 +111,7 @@ Ano, GroupDocs.Annotation for .NET poskytuje komerční licence pro podniky.
 
 ### Kde najdu podporu pro GroupDocs.Annotation pro .NET?
 
- Podpora a další zdroje jsou k dispozici na[fórum GroupDocs](https://forum.groupdocs.com/c/annotation/10).
+ Podpora a další zdroje jsou k dispozici na[Fórum GroupDocs](https://forum.groupdocs.com/c/annotation/10).
 
 ### Potřebuji dočasnou licenci pro testovací účely?
 

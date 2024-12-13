@@ -95,7 +95,7 @@ Sim, o Aspose.OCR é versátil e suporta aplicativos de desktop e web desenvolvi
  Você pode explorar opções de licenciamento e fazer compras[aqui](https://purchase.conholdate.com/buy) . Um teste gratuito também está disponível[aqui](https://releases.aspose.com/) , e licenças temporárias podem ser obtidas[aqui](https://purchase.conholdate.com/temporary-license/).
 
 ### Onde posso encontrar suporte para o Aspose.OCR?  
- Para obter assistência, visite o[Fórum Aspose.OCR](https://forum.aspose.com/c/ocr/16) para a comunidade e apoio.
+Para obter assistência, visite o[Fórum Aspose.OCR](https://forum.aspose.com/c/ocr/16) para a comunidade e apoio.
 
 ### Quais formatos de imagem o Aspose.OCR suporta?  
 O Aspose.OCR suporta uma variedade de formatos, incluindo PNG, JPEG, GIF, BMP e TIFF.

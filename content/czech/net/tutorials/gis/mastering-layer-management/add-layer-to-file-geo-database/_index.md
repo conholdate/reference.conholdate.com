@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // Vytvořte novou vrstvu pomocí prostorového referenčního systému WGS 84
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //Přidejte schéma atributů
+        // Přidejte schéma atributů
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // Vytvořte a přidejte funkci

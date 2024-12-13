@@ -53,7 +53,7 @@ Desbloqueie o potencial do Aspose.HTML para .NET com tutoriais abrangentes sobre
 {{% /alert %}}
 
 ### Tutoriais Aspose.HTML
-- [Tutoriais Aspose.HTML para .NET](./html/)
+- [Tutoriais do Aspose.HTML para .NET](./html/)
 
 ## Aspose.Imagem
 {{% alert color="primary" %}}

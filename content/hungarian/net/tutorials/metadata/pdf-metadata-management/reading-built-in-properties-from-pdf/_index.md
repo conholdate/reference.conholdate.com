@@ -14,7 +14,7 @@ Ebben az oktatóanyagban megvizsgáljuk, hogyan használhatjuk a GroupDocs.Metad
 Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik az alábbiakkal:
 
 - Visual Studio: Győződjön meg arról, hogy telepítve van a rendszerére.
-- GroupDocs.Metadata for .NET: Töltse le és telepítse a[hivatalos weboldal](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata for .NET: Töltse le és telepítse a[hivatalos weboldal](https://releases.groupdocs.com/metadata/net/).
 - Alapszintű C# ismerete: A C# és a .NET keretrendszer ismerete ajánlott.
 
 ## Névterek importálása
@@ -31,7 +31,7 @@ Ha metaadatokat szeretne olvasni egy PDF-fájlból, töltse be a dokumentumot, �
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // Nyissa meg a PDF-fájl gyökércsomagját
+    //Nyissa meg a PDF-fájl gyökércsomagját
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // A beépített tulajdonságok lekérése és megjelenítése

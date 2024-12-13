@@ -9,14 +9,14 @@ url: /hu/net/tutorials/zip/mastering-archive-extraction-and-formats/comprehensiv
 ---
 ## Bevezetés
 
-A .NET fejlesztések folyamatosan fejlődő világában elengedhetetlen a fájlok hatékony kezelése és tömörítése. Az Aspose.Zip for .NET robusztus eszközöket biztosít erre a célra, lehetővé téve a fejlesztők számára, hogy könnyedén ésszerűsítsék a fájltömörítést. Ebben az oktatóanyagban a fájlok Aspose.Zip használatával TarLz formátumba való tömörítésére összpontosítunk. Világos, lépésről lépésre szóló utasításokat adunk, amelyek minden szintű fejlesztő számára alkalmasak.
+A .NET fejlesztések folyamatosan fejlődő világában elengedhetetlen a fájlok hatékony kezelése és tömörítése. Az Aspose.Zip for .NET robusztus eszközöket biztosít erre a célra, lehetővé téve a fejlesztők számára, hogy könnyedén ésszerűsítsék a fájltömörítést. Ebben az oktatóanyagban a fájlok Aspose.Zip használatával TarLz formátumba történő tömörítésére összpontosítunk. Világos, lépésről lépésre szóló utasításokat adunk, amelyek minden szintű fejlesztő számára alkalmasak.
 
 ## Előfeltételek
 
 Mielőtt belevágnánk a megvalósításba, győződjön meg arról, hogy készen áll a következőkre:
 
 -  Aspose.Zip for .NET Library: Töltse le és telepítse a könyvtár legújabb verzióját a[Aspose honlapja](https://releases.aspose.com/zip/net/).
--  Dokumentumkönyvtár: Hozzon létre egy könyvtárat, ahol a tömöríteni kívánt fájlokat tárolja. Frissítse a`dataDir` változót a példakódban a könyvtár elérési útjával.
+-  Dokumentumkönyvtár: Hozzon létre egy könyvtárat, ahol a tömöríteni kívánt fájlokat tárolja. Frissítse a`dataDir` változó a példakódban a könyvtár elérési útjával.
 
 ## Importálja a szükséges névtereket
 
@@ -51,7 +51,7 @@ using (TarArchive archive = new TarArchive())
 
 - `using (TarArchive archive = new TarArchive())` : Ez a sor inicializálja a`TarArchive` osztály, amely a TAR archívum tárolójaként szolgál.
 - `archive.CreateEntry("alice29.txt", dataDir + "alice29.txt")`: Ez a módszer hozzáadja a megadott fájlt az archívumhoz.
-- `archive.SaveLzipped(dataDir + "archive.tar.lz")`: Ez a sor a létrehozott TAR archívumot LZ formátumban menti a megadott helyre.
+- `archive.SaveLzipped(dataDir + "archive.tar.lz")`: Ez a sor menti a létrehozott TAR archívumot LZ formátumban a megadott helyre.
 
 ## 3. lépés: Több fájl tömörítése
 

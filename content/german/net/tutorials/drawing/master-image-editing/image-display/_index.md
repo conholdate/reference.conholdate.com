@@ -15,7 +15,7 @@ Willkommen zu unserem umfassenden Leitfaden zur Anzeige von Bildern mit Aspose.D
 
 Stellen Sie vor dem Start sicher, dass die folgenden Voraussetzungen erfüllt sind:
 
-- Aspose.Drawing für .NET-Bibliothek: Laden Sie die Bibliothek herunter und installieren Sie sie von der[Veröffentlichungsseite](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing für .NET-Bibliothek: Laden Sie die Bibliothek herunter und installieren Sie sie von der[Veröffentlichungsseite](https://releases.aspose.com/drawing/net/).
 - .NET-Umgebung: Stellen Sie sicher, dass Ihre Entwicklungsumgebung für die Arbeit mit .NET eingerichtet ist.
 - Dokumentverzeichnis: Erstellen Sie ein Verzeichnis zum Speichern Ihrer Bilder.
 - Bilddatei: Bereiten Sie eine Bilddatei zur Anzeige vor, beispielsweise „aspose_logo.png“.
@@ -88,12 +88,12 @@ Ja, Aspose.Drawing wird regelmäßig aktualisiert, um die Kompatibilität mit de
 
 ### Wie kann ich die Bildskalierung in Aspose.Drawing handhaben?
 
- Sie können die Bildskalierung anpassen, indem Sie die Parameter im`DrawImage`Methode, beispielsweise die Angabe des Zielrechtecks.
+ Sie können die Bildskalierung anpassen, indem Sie die Parameter im`DrawImage` Methode, beispielsweise die Angabe des Zielrechtecks.
 
 ### Gibt es Lizenzüberlegungen für die Verwendung von Aspose.Drawing in kommerziellen Projekten?
 
- Weitere Informationen zu Lizenzierungsdetails und -optionen finden Sie im[Kaufseite](https://purchase.conholdate.com/buy).
+ Weitere Informationen zu Lizenzierungsdetails und -optionen finden Sie auf der[Kaufseite](https://purchase.conholdate.com/buy).
 
 ### Wo kann ich Hilfe suchen, wenn ich auf Probleme stoße oder Fragen zu Aspose.Drawing habe?
 
- Für Unterstützung besuchen Sie bitte die[Aspose.Drawing-Forum](https://forum.aspose.com/c/diagram/17) um mit der Community in Kontakt zu treten und fachkundige Unterstützung zu erhalten.
+Für Unterstützung besuchen Sie bitte die[Aspose.Drawing-Forum](https://forum.aspose.com/c/diagram/17) um mit der Community in Kontakt zu treten und fachkundige Unterstützung zu erhalten.

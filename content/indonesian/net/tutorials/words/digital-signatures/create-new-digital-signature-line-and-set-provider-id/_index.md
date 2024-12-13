@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
- Itu`InsertSignatureLine`metode menambahkan baris tanda tangan, dan kami menetapkan ID penyedia yang unik padanya.
+ Itu`InsertSignatureLine` metode menambahkan baris tanda tangan, dan kami menetapkan ID penyedia yang unik padanya.
 
 ## Langkah 4: Simpan Dokumen
 

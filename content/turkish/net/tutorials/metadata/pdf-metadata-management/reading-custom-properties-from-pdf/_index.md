@@ -81,4 +81,4 @@ GroupDocs.Metadata, Word belgeleri, Excel elektronik tabloları, PowerPoint sunu
  Evet, erişebilirsiniz[ücretsiz deneme](https://releases.groupdocs.com/) GroupDocs.Metadata'nın özelliklerini keşfetmek için.
 
 ### GroupDocs.Metadata için lisansı nasıl satın alabilirim?
- Lisans almak için lütfen şu adresi ziyaret edin:[satın alma sayfası](https://purchase.groupdocs.com/buy)Geçici lisanslar da mevcuttur[Burada](https://purchase.groupdocs.com/temporary-license/).
+ Lisans almak için lütfen şu adresi ziyaret edin:[satın alma sayfası](https://purchase.groupdocs.com/buy) Geçici lisanslar da mevcuttur[Burada](https://purchase.groupdocs.com/temporary-license/).

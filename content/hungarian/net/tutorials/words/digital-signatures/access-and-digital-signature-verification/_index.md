@@ -16,7 +16,7 @@ Sziasztok a technika szerelmesei! Előfordult már, hogy ellenőriznie kellett a
 Mielőtt elkezdenénk, győződjön meg arról, hogy készen áll a következőkre:
 
 1. Visual Studio: Győződjön meg arról, hogy a kódoláshoz telepítve van a gépén.
-2.  Aspose.Words for .NET: Töltse le és telepítse a webhelyről[itt](https://releases.aspose.com/words/net/) Ha még nem tette meg, vegye igénybe az ingyenes próbaverziót[itt](https://releases.aspose.com/).
+2.  Aspose.Words for .NET: Töltse le és telepítse a webhelyről[itt](https://releases.aspose.com/words/net/) . Ha még nem tette meg, vegye igénybe az ingyenes próbaverziót[itt](https://releases.aspose.com/).
 3. Digitálisan aláírt Word-dokumentum: Legyen kéznél egy digitális aláírással ellátott Word-dokumentum ellenőrzés céljából.
 
 ## Névterek importálása
@@ -142,7 +142,7 @@ Igen, támogatja a Microsoft Word dokumentumok összes verzióját, beleértve a
 
 ### Hogyan szerezhetek ideiglenes licencet az Aspose.Words for .NET-hez?
 
-Ideiglenes jogosítványt szerezhet be[itt](https://purchase.aspose.com/temporary-license/), amely lehetővé teszi a könyvtár teljes szolgáltatásának korlátozások nélküli felfedezését.
+ Ideiglenes jogosítványt szerezhet be[itt](https://purchase.aspose.com/temporary-license/), amely lehetővé teszi a könyvtár teljes szolgáltatásának korlátozások nélküli felfedezését.
 
 ### Hol találok további dokumentációt az Aspose.Words for .NET-ről?
 

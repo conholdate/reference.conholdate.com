@@ -59,7 +59,7 @@ DocumentBuilder builder = new DocumentBuilder(doc);
 SignatureLine signatureLine = builder.InsertSignatureLine(new SignatureLineOptions()).SignatureLine;
 ```
 
-## 步驟 4：儲存文檔
+## 第 4 步：儲存文檔
 
 插入簽名行後，儲存文件。這是簽約前的關鍵一步。
 

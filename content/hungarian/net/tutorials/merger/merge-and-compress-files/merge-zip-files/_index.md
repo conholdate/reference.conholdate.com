@@ -9,7 +9,7 @@ url: /hu/net/tutorials/merger/merge-and-compress-files/merge-zip-files/
 ---
 ## Bevezetés
 
-A dokumentumkezelés világában a GroupDocs.Merger for .NET egy robusztus eszköz a fejlesztők számára, akik zökkenőmentesen egyesítik és kezelik a különböző fájlformátumokat. Ebből az oktatóanyagból megtudhatja, hogyan lehet ZIP-fájlokat programozottan egyesíteni ezzel a hatékony API-val. A végére rendelkezni fog a ZIP-fájlok egyesítési funkciójának .NET-alkalmazásaiba való integrálásához szükséges készségekkel.
+dokumentumkezelés világában a GroupDocs.Merger for .NET egy robusztus eszköz a fejlesztők számára, akik zökkenőmentesen egyesítik és kezelik a különböző fájlformátumokat. Ebből az oktatóanyagból megtudhatja, hogyan lehet ZIP-fájlokat programozottan egyesíteni ezzel a hatékony API-val. A végére rendelkezni fog a ZIP-fájlok egyesítési funkciójának .NET-alkalmazásaiba való integrálásához szükséges készségekkel.
 
 ## Előfeltételek
 
@@ -52,7 +52,7 @@ using (var merger = new Merger("Path_to_Source_ZIP"))
 }
 ```
 
- Ügyeljen arra, hogy cserélje ki`"Path_to_Source_ZIP"` és`"Path_to_Another_ZIP"` az egyesíteni kívánt ZIP fájlok tényleges elérési útjával.
+ Mindenképpen cserélje ki`"Path_to_Source_ZIP"` és`"Path_to_Another_ZIP"` az egyesíteni kívánt ZIP fájlok tényleges elérési útjával.
 
 ## 3. lépés: Mentse el az egyesített ZIP-fájlt
 
@@ -82,7 +82,7 @@ Igen, kompatibilis a .NET Framework és a .NET Core alkalmazásokkal is.
 
 ### Testreszabhatom az egyesítési folyamatot, például megadhatom a fájlok sorrendjét az egyesített ZIP-fájlban?
 
-Igen, teljes mértékben Ön irányítja az összevonási folyamatot. Megadhatja a fájlok sorrendjét, ha módosítja a sorrendet, amelyben meghívja a`Join()` módszer.
+ Igen, teljes mértékben Ön irányítja az összevonási folyamatot. Megadhatja a fájlok sorrendjét, ha módosítja a sorrendet, amelyben meghívja a`Join()` módszer.
 
 ### A GroupDocs.Merger for .NET használatához licenc szükséges a kereskedelmi használatra?
 

@@ -74,11 +74,11 @@ using (Graphics graphic = new Graphics(image))
 }
 ```
 
-Phần này trình bày cách tạo một`Graphics` đối tượng, xóa bề mặt và thêm hai hình chữ nhật có màu sắc và vị trí riêng biệt. Sau khi hoàn tất bản vẽ, hãy lưu hình ảnh để lưu lại các thay đổi của bạn.
+ Phần này trình bày cách tạo một`Graphics` đối tượng, xóa bề mặt và thêm hai hình chữ nhật có màu sắc và vị trí riêng biệt. Sau khi hoàn tất bản vẽ, hãy lưu hình ảnh để lưu lại các thay đổi của bạn.
 
 ## Bước 4: Lưu hình ảnh
 
- Việc lưu hình ảnh cuối cùng rất đơn giản, như được hiển thị ở trên trong`using` tuyên bố nơi`image.Save()` được gọi tự động khi`using` khối kết thúc.
+ Việc lưu hình ảnh cuối cùng rất đơn giản, như được hiển thị ở trên trong`using` tuyên bố nơi`image.Save()`được gọi tự động khi`using` khối kết thúc.
 
 ## Phần kết luận
 

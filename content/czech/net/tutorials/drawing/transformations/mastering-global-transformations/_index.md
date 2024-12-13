@@ -49,7 +49,7 @@ graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 Dále aplikujme globální transformaci na grafický kontext. V tomto příkladu otočíme celý grafický kontext o 15 stupňů.
 
 ```csharp
-//Použít transformaci rotace (15 stupňů)
+// Použít transformaci rotace (15 stupňů)
 graphics.RotateTransform(15);
 ```
 
@@ -78,7 +78,7 @@ Gratuluji! Úspěšně jste implementovali globální transformaci pomocí Aspos
 
 ## Závěr
 
-tomto tutoriálu jsme prozkoumali fascinující možnosti globálních transformací v Aspose.Drawing pro .NET. Tato funkce nejen zlepšuje vaši schopnost vytvářet vizuálně ohromující grafiku, ale také otevírá nekonečné možnosti pro vaše aplikace. Jak budete pokračovat v experimentování, objevíte všestrannost a sílu, kterou Aspose.Drawing nabízí.
+V tomto tutoriálu jsme prozkoumali fascinující možnosti globálních transformací v Aspose.Drawing pro .NET. Tato funkce nejen zlepšuje vaši schopnost vytvářet vizuálně ohromující grafiku, ale také otevírá nekonečné možnosti pro vaše aplikace. Jak budete pokračovat v experimentování, objevíte všestrannost a sílu, kterou Aspose.Drawing nabízí.
 
 ## FAQ
 

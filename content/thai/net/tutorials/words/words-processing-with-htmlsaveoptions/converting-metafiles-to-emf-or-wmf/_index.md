@@ -15,7 +15,7 @@ url: /th/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 
 เพื่อให้แน่ใจว่าประสบการณ์การพัฒนาจะราบรื่น โปรดยืนยันว่ามีการปฏิบัติตามข้อกำหนดเบื้องต้นต่อไปนี้:
 
-- Aspose.Words สำหรับ .NET: รับเวอร์ชันล่าสุดจาก[หน้าวางจำหน่าย Aspose](https://releases.aspose.com/words/net/).
+-  Aspose.Words สำหรับ .NET: รับเวอร์ชันล่าสุดจาก[หน้าวางจำหน่าย Aspose](https://releases.aspose.com/words/net/).
 - .NET Framework: ตรวจสอบการติดตั้ง .NET Framework (หรือ .NET Core/5/6 ขึ้นอยู่กับสภาพแวดล้อมของคุณ)
 - สภาพแวดล้อมการพัฒนา: แนะนำให้ใช้ Visual Studio เนื่องจากมีคุณลักษณะที่แข็งแกร่ง
 - ความสามารถด้าน C#: ความคุ้นเคยพื้นฐานกับการเขียนโปรแกรม C# ถือเป็นสิ่งจำเป็น
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## ขั้นตอนที่ 4: โหลด HTML ลงในเอกสาร Word
 
-ใช้ตัวเลือกโหลดที่กำหนดค่าไว้เพื่อสร้าง`Document` วัตถุจากสตริง HTML
+ ใช้ตัวเลือกโหลดที่กำหนดค่าไว้เพื่อสร้าง`Document` วัตถุจากสตริง HTML
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

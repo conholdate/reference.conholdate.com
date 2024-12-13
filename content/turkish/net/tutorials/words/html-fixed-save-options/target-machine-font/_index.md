@@ -70,7 +70,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 Şimdi belgeyi sabit bir HTML dosyası olarak kaydedelim. İşte sihir burada gerçekleşiyor!
 
 ```csharp
-//Belgeyi sabit HTML'ye dönüştür
+// Belgeyi sabit HTML'ye dönüştür
 doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 ```
 

@@ -17,7 +17,7 @@ Przed rozpoczęciem tego samouczka upewnij się, że masz następujące rzeczy:
 
 1. Podstawowa wiedza z zakresu języków C# i .NET: Wymagana jest znajomość języka programowania C# i platformy .NET.
    
-2. Instalacja Aspose.Note dla .NET: Pobierz i zainstaluj bibliotekę Aspose.Note z[Strona internetowa Aspose](https://releases.aspose.com/note/net/).
+2.  Instalacja Aspose.Note dla .NET: Pobierz i zainstaluj bibliotekę Aspose.Note z[Strona internetowa Aspose](https://releases.aspose.com/note/net/).
 
 3. Środowisko programistyczne: Skonfiguruj odpowiednie środowisko programistyczne, np. Visual Studio.
 
@@ -60,7 +60,7 @@ document.Save(System.IO.Path.Combine(outputDirectory, outputFilePath));
 
 ## Wniosek
 
-tym samouczku omówiliśmy, jak programowo zapisywać pliki OneNote przy użyciu Aspose.Note dla .NET. Postępując zgodnie z tymi krokami, deweloperzy mogą łatwo zintegrować zarządzanie dokumentami OneNote ze swoimi aplikacjami, zwiększając funkcjonalność i komfort użytkowania.
+W tym samouczku omówiliśmy, jak programowo zapisywać pliki OneNote przy użyciu Aspose.Note dla .NET. Postępując zgodnie z tymi krokami, deweloperzy mogą łatwo zintegrować zarządzanie dokumentami OneNote ze swoimi aplikacjami, zwiększając funkcjonalność i komfort użytkowania.
 
 ## Najczęściej zadawane pytania
 

@@ -101,7 +101,7 @@ beágyazott képekkel ellátott PowerPoint-prezentációk HTML-formátumba konve
 Igen, az Aspose.Slides támogatja az animációkat az exportálás során. Az animációk HTML-ben való kompatibilitása azonban az eredeti prezentáció összetettségétől függ.
 
 ### Milyen más formátumok exportálhatók az Aspose.Slides segítségével?
- könyvtár számos formátumot támogat, beleértve a PDF, PNG és SVG formátumokat. Lásd a[dokumentáció](https://reference.aspose.com/slides/net/) részletekért.
+ A könyvtár számos formátumot támogat, beleértve a PDF, PNG és SVG formátumokat. Lásd a[dokumentáció](https://reference.aspose.com/slides/net/) részletekért.
 
 ### Rendelkezésre áll technikai támogatás az Aspose.Slides számára?
  Igen, kérhetsz segítséget a[Aspose támogatási fórum](https://forum.aspose.com/c/slides/11).

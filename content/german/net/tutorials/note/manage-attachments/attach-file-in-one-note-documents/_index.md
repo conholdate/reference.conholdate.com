@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Schritt 5: Initialisieren Sie die angehängte Datei
 
- Geben Sie den Pfad zu der Datei an, die Sie anhängen möchten, mit dem`AttachedFile` Klasse.
+ Geben Sie den Pfad zu der Datei an, die Sie anhängen möchten, mit dem`AttachedFile`Klasse.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

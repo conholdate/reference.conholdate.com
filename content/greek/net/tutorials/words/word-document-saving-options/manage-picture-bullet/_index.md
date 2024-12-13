@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Τέλος, αποθηκεύστε το έγγραφο χρησιμοποιώντας τις διαμορφωμένες επιλογές. Αυτό θα δημιουργήσει ένα νέο αρχείο χωρίς τις κουκκίδες εικόνας.
 
 ```csharp
-// Αποθηκεύστε το έγγραφο με τις καθορισμένες επιλογές
+//Αποθηκεύστε το έγγραφο με τις καθορισμένες επιλογές
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

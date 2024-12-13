@@ -95,7 +95,7 @@ Aspose.OCR สำหรับ .NET นำเสนอฟังก์ชันอ
  คุณสามารถสำรวจตัวเลือกการอนุญาตสิทธิ์และทำการซื้อได้[ที่นี่](https://purchase.conholdate.com/buy) . ยังมีรุ่นทดลองใช้งานฟรีอีกด้วย[ที่นี่](https://releases.aspose.com/) และสามารถขอใบอนุญาตชั่วคราวได้[ที่นี่](https://purchase.conholdate.com/temporary-license/).
 
 ### ฉันสามารถค้นหาการสนับสนุนสำหรับ Aspose.OCR ได้ที่ไหน  
- หากต้องการความช่วยเหลือ โปรดไปที่[ฟอรั่ม Aspose.OCR](https://forum.aspose.com/c/ocr/16) เพื่อชุมชนและการสนับสนุน
+หากต้องการความช่วยเหลือ โปรดไปที่[ฟอรั่ม Aspose.OCR](https://forum.aspose.com/c/ocr/16) เพื่อชุมชนและการสนับสนุน
 
 ### Aspose.OCR รองรับรูปแบบภาพใดบ้าง  
 Aspose.OCR รองรับรูปแบบต่างๆ รวมถึง PNG, JPEG, GIF, BMP และ TIFF

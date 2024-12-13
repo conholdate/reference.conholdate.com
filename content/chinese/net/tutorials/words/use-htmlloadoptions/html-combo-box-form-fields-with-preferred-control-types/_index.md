@@ -52,7 +52,7 @@ const string html = @"
 
 ## 步骤 2：指定文档目录
 
-确定并定义文档保存的目录路径。使用集中式目录可简化文件管理。
+确定并定义文档保存的目录路径。使用集中目录可简化文件管理。
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY";

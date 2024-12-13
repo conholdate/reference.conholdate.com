@@ -38,7 +38,7 @@ using System.IO;
 ## 1. lépés: Hozza létre a képet és mentse az adatfolyamot
 
 ```csharp
-//Határozza meg a könyvtárat a kép mentéséhez
+// Határozza meg a könyvtárat a kép mentéséhez
 string dataDir = "Your Document Directory"; // Frissítse ezt a kívánt útvonalra
 
 // Hozzon létre egy adatfolyamot a BMP-kép mentéséhez
@@ -101,7 +101,7 @@ Végül elmentjük a képen végzett változtatásokat:
 }
 ```
 
-A kép most a rárajzolt ívvel kerül mentésre.
+A kép mentésre kerül a rárajzolt ívvel.
 
 ## Következtetés
 

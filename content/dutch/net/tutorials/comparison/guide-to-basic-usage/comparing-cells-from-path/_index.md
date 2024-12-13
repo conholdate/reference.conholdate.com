@@ -85,7 +85,7 @@ Ja, de bibliotheek ondersteunt het vergelijken van verschillende documentformate
 
 ### Hoe kan ik ondersteuning krijgen voor GroupDocs.Comparison voor .NET?
 
- Voor ondersteuning kunt u terecht bij de GroupDocs.Comparison-community[forum](https://forum.groupdocs.com/c/comparison/12).
+Voor ondersteuning kunt u terecht bij de GroupDocs.Comparison-community[forum](https://forum.groupdocs.com/c/comparison/12).
 
 ### Waar kan ik een licentie voor GroupDocs.Comparison voor .NET kopen?
 

@@ -44,7 +44,7 @@ string outputFile = Path.Combine(outputFolder, "bmp-converted.pdf");
 ```csharp
 using (var converter = new Converter(@"C:\Path\To\Your\Image.bmp")) // Aktualizujte pomocí cesty k souboru BMP
 {
-    // Zde bude logika konverze.
+    // Konverzní logika bude zde.
 }
 ```
 
@@ -92,8 +92,8 @@ Ne, knihovna je samostatná a nevyžaduje žádné další závislosti pro zákl
 
 ### Je k dispozici zkušební verze pro testování?
 
-Ano, můžete si stáhnout bezplatnou zkušební verzi z[stránka vydání](https://releases.groupdocs.com/) prozkoumat možnosti knihovny před nákupem.
+ Ano, můžete si stáhnout bezplatnou zkušební verzi z[stránka vydání](https://releases.groupdocs.com/) prozkoumat možnosti knihovny před nákupem.
 
 ### Kde mohu získat pomoc nebo podporu?
 
- Pokud narazíte na nějaké problémy, můžete navštívit[GroupDocs.Conversion fórum](https://forum.groupdocs.com/c/conversion/11) pro podporu řízenou komunitou nebo se obraťte na jejich tým podpory pro personalizovanou pomoc.
+Pokud narazíte na nějaké problémy, můžete navštívit[GroupDocs.Conversion fórum](https://forum.groupdocs.com/c/conversion/11) pro podporu řízenou komunitou nebo se obraťte na jejich tým podpory pro personalizovanou pomoc.

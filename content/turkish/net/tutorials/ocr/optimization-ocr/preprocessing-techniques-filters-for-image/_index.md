@@ -95,7 +95,7 @@ Evet, Aspose.OCR çok yönlüdür ve .NET'te geliştirilen hem masaüstü hem de
  Lisanslama seçeneklerini inceleyebilir ve satın alımlar yapabilirsiniz[Burada](https://purchase.conholdate.com/buy) Ücretsiz deneme sürümü de mevcuttur[Burada](https://releases.aspose.com/) ve geçici lisanslar alınabilir[Burada](https://purchase.conholdate.com/temporary-license/).
 
 ### Aspose.OCR için desteği nereden bulabilirim?  
- Yardım için şu adresi ziyaret edin:[Aspose.OCR forumu](https://forum.aspose.com/c/ocr/16) Topluluk ve destek için.
+Yardım için şu adresi ziyaret edin:[Aspose.OCR forumu](https://forum.aspose.com/c/ocr/16) Topluluk ve destek için.
 
 ### Aspose.OCR hangi görüntü formatlarını destekler?  
 Aspose.OCR, PNG, JPEG, GIF, BMP ve TIFF gibi çeşitli formatları destekler.

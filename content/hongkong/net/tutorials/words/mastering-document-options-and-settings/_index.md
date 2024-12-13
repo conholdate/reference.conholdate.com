@@ -24,7 +24,7 @@ url: /zh-hant/net/tutorials/words/mastering-document-options-and-settings/
 在當今的全球化世界中，文件的多語言支援是必須的。如果您正在處理日文文字或需要將編輯語言切換為日語，Aspose.Words for .NET 會讓事情變得異常簡單。本教學將引導您完成將日文無縫集成為編輯語言的步驟，確保您的 Word 文件可供任何國際受眾使用。無論您是輸入日語還是為日語讀者準備文檔，您都可以輕鬆完成。[閱讀更多](./adding-japanese-as-editing-languages/).
 
 ## 將俄語設定為預設編輯語言
-自訂您的 Word 文件以滿足特定的語言偏好將改變遊戲規則。使用 Aspose.Words for .NET，您只需幾個簡單的步驟即可將俄語設定為預設編輯語言。本教學將引導您完成整個過程，使您能夠靈活地處理俄語文檔，並確保拼字、文法檢查和語言格式均符合俄語標準。[閱讀更多](./set-russian-as-default-edit-language/).
+自訂您的 Word 文件以滿足特定的語言偏好將改變遊戲規則。使用 Aspose.Words for .NET，您只需幾個簡單的步驟即可將俄語設定為預設編輯語言。本教學將引導您完成整個過程，使您能夠靈活地處理俄語文檔，並確保拼字、語法檢查和語言格式均符合俄語標準。[閱讀更多](./set-russian-as-default-edit-language/).
 
 
  ## 掌握文件選項和設定教學課程
@@ -33,5 +33,5 @@ url: /zh-hant/net/tutorials/words/mastering-document-options-and-settings/
 | [針對 Ms Word 文件進行最佳化](./optimize-for-ms-word-document/) | 了解如何使用 Aspose.Words for .NET 確保您的 Word 文件在不同的 Microsoft Word 版本中保持其格式和外觀。 |
 | [突出顯示語法和拼字錯誤](./highlight-grammatical-and-spelling-errors/) | 了解如何使用 Aspose.Words for .NET 自動偵測 Word 文件中的語法和拼字錯誤。這個逐步指南。 |
 | [文檔頁面佈局](./document-page-layout/) | 了解如何透過簡單、可操作的步驟設定頁面佈局、定義每行字元以及優化文件外觀。適合任何級別的開發人員。 |
-| [加入日語作為編輯語言](./adding-japanese-as-editing-languages/) | 了解如何使用 Aspose.Words for .NET 將日文作為編輯語言無縫整合到文件中。本逐步指南。 |
-| [將俄語設定為預設編輯語言](./set-russian-as-default-edit-language/) | 了解如何使用 Aspose.Words for .NET 將俄語設定為預設編輯語言來自訂 Word 文件。本逐步指南。 |
+| [加入日語作為編輯語言](./adding-japanese-as-editing-languages/) | 了解如何使用 Aspose.Words for .NET 將日文作為編輯語言無縫整合到文件中。這個逐步指南。 |
+| [將俄語設定為預設編輯語言](./set-russian-as-default-edit-language/) | 了解如何使用 Aspose.Words for .NET 將俄語設定為預設編輯語言來自訂 Word 文件。這個逐步指南。 |

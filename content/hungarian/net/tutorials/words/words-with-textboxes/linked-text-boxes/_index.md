@@ -15,7 +15,7 @@ url: /hu/net/tutorials/words/words-with-textboxes/linked-text-boxes/
 
 Mielőtt belevágnánk a kódba, győződjön meg arról, hogy készen áll a következő alapvető dolgokra:
 
-1.  Aspose.Words for .NET Library: Győződjön meg arról, hogy a legújabb verzió van telepítve. Tudod[töltse le itt](https://releases.aspose.com/words/net/).
+1.  Aspose.Words for .NET Library: Győződjön meg arról, hogy a legújabb verzió van telepítve. Megteheti[töltse le itt](https://releases.aspose.com/words/net/).
 2. Fejlesztői környezet: .NET fejlesztői környezet, például a Visual Studio a kód írásához és teszteléséhez.
 3. Alapvető C# ismeretek: A C# ismerete segít a zökkenőmentes követésben.
 4. Word-dokumentum minta (opcionális): Noha ez nem feltétlenül szükséges, egy mintadokumentum segíthet a hivatkozott szövegmezők tesztelésében.
@@ -85,7 +85,7 @@ if (textBox1.IsValidLinkTarget(textBox2))
 ```
 
 Ebben a részletben:
-- `IsValidLinkTarget` ellenőrzi, ha`textBox2` linkelhető`textBox1`.
+- `IsValidLinkTarget` ellenőrzi, ha`textBox2` -hoz lehet kapcsolni`textBox1`.
 -  Ha igaz, hozzárendelés`textBox1.Next = textBox2` létrehozza a kapcsolatot.
 
 ## 5. lépés: Mentse el a dokumentumot

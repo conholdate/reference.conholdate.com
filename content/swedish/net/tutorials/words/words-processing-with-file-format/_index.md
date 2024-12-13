@@ -13,11 +13,11 @@ Dyker du in i världen av dokumentbehandling i dina .NET-applikationer? Leta int
 
 ## Identifiering av dokumentfilformat
 
- Först och främst är det viktigt att förstå filformat. Har du någonsin öppnat ett dokument bara för att upptäcka att det inte är i den form du förväntade dig? Med[Identifiering av dokumentfilformat](./document-file-format-detection/)kommer du att lära dig hur du identifierar och hanterar olika dokumentformat sömlöst. Vår detaljerade guide ger praktiska exempel, vilket säkerställer att du enkelt kan implementera dessa tekniker i dina projekt. Att känna igen filformat kan rädda dig från huvudvärk senare när du hanterar olika dokumenttyper. 
+ Först och främst är det viktigt att förstå filformat. Har du någonsin öppnat ett dokument bara för att upptäcka att det inte är i den form du förväntade dig? Med[Identifiering av dokumentfilformat](./document-file-format-detection/), kommer du att lära dig hur du identifierar och hanterar olika dokumentformat sömlöst. Vår detaljerade guide ger praktiska exempel, vilket säkerställer att du enkelt kan implementera dessa tekniker i dina projekt. Att känna igen filformat kan rädda dig från huvudvärk senare när du hanterar olika dokumenttyper. 
 
 ## Upptäcka digitala signaturer i Word-dokument
 
- Digitala signaturer är som den digitala dokumentvärldens hemliga handslag. Vill du se till att dina Word-dokument är säkra och autentiska? Kolla in vår handledning om[Upptäcka digitala signaturer i Word-dokument](./detecting-digital-signatures/). Den här omfattande guiden leder dig genom hela processen, från projektinställning till att faktiskt leta efter signaturer. I en värld där dokumentintegritet är av yttersta vikt kan att veta hur man hanterar digitala signaturer skilja dig åt som en utvecklare som bryr sig om säkerhet.
+Digitala signaturer är som den digitala dokumentvärldens hemliga handslag. Vill du se till att dina Word-dokument är säkra och autentiska? Kolla in vår handledning om[Upptäcka digitala signaturer i Word-dokument](./detecting-digital-signatures/). Den här omfattande guiden leder dig genom hela processen, från projektinställning till att faktiskt leta efter signaturer. I en värld där dokumentintegritet är av yttersta vikt kan att veta hur man hanterar digitala signaturer skilja dig åt som en utvecklare som bryr sig om säkerhet.
 
 ## Verifiera Word-dokumentkryptering
 

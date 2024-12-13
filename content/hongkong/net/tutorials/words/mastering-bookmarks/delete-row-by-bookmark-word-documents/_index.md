@@ -88,7 +88,7 @@ doc.Save("output-document.docx");
 
 ### 我可以根據其他條件刪除行嗎？
 
-絕對地！ Aspose.Words for .NET 支援基於不同標準（例如元素類型或特定內容）導航和修改文件元素的各種方法。
+絕對地！ Aspose.Words for .NET 支援根據不同標準（例如元素類型或特定內容）導航和修改文件元素的各種方法。
 
 ### 此方法適用於所有 Word 文件類型嗎？
 

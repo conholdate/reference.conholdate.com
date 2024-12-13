@@ -56,7 +56,7 @@ Konfigurieren Sie die Optionen für Ihre Textsignatur, einschließlich Inhalt, P
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // X-Position
+    Left = 50, //X-Position
     Top = 200, // Y-Position
     Width = 100, // Breite der Signatur
     Height = 30, // Höhe der Signatur

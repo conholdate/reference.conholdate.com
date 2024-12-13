@@ -13,11 +13,11 @@ Apakah Anda ingin mendalami dunia pemrosesan dokumen dalam aplikasi .NET Anda? T
 
 ## Deteksi Format File Dokumen
 
- Pertama, memahami format file sangatlah penting. Pernahkah Anda membuka dokumen dan menemukan bahwa dokumen tersebut tidak dalam bentuk yang Anda harapkan? Dengan[Deteksi Format File Dokumen](./document-file-format-detection/)Anda akan mempelajari cara mengidentifikasi dan mengelola berbagai format dokumen dengan mudah. Panduan terperinci kami menyediakan contoh langsung, yang memastikan Anda dapat dengan mudah menerapkan teknik ini dalam proyek Anda. Mengenali format file dapat menyelamatkan Anda dari masalah di kemudian hari saat menangani berbagai jenis dokumen. 
+ Pertama, memahami format file sangatlah penting. Pernahkah Anda membuka dokumen dan menemukan bahwa dokumen tersebut tidak dalam bentuk yang Anda harapkan? Dengan[Deteksi Format File Dokumen](./document-file-format-detection/), Anda akan mempelajari cara mengidentifikasi dan mengelola berbagai format dokumen dengan mudah. Panduan terperinci kami menyediakan contoh langsung, yang memastikan Anda dapat dengan mudah menerapkan teknik ini dalam proyek Anda. Mengenali format file dapat menyelamatkan Anda dari masalah di kemudian hari saat menangani berbagai jenis dokumen. 
 
 ## Mendeteksi Tanda Tangan Digital dalam Dokumen Word
 
- Tanda tangan digital seperti jabat tangan rahasia di dunia dokumen digital. Ingin memastikan bahwa dokumen Word Anda aman dan autentik? Lihat tutorial kami di[Mendeteksi Tanda Tangan Digital dalam Dokumen Word](./detecting-digital-signatures/)Panduan lengkap ini memandu Anda melalui seluruh proses, dari penyiapan proyek hingga pemeriksaan tanda tangan. Di dunia yang mengutamakan integritas dokumen, mengetahui cara menangani tanda tangan digital dapat membedakan Anda sebagai pengembang yang peduli dengan keamanan.
+Tanda tangan digital seperti jabat tangan rahasia di dunia dokumen digital. Ingin memastikan bahwa dokumen Word Anda aman dan autentik? Lihat tutorial kami di[Mendeteksi Tanda Tangan Digital dalam Dokumen Word](./detecting-digital-signatures/)Panduan lengkap ini memandu Anda melalui seluruh proses, dari penyiapan proyek hingga pemeriksaan tanda tangan. Di dunia yang mengutamakan integritas dokumen, mengetahui cara menangani tanda tangan digital dapat membedakan Anda sebagai pengembang yang peduli dengan keamanan.
 
 ## Verifikasi Enkripsi Dokumen Word
 

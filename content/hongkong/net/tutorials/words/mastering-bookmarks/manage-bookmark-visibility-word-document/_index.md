@@ -16,7 +16,7 @@ url: /zh-hant/net/tutorials/words/mastering-bookmarks/manage-bookmark-visibility
 在我們深入之前，請確保您具備以下條件：
 
 1. Visual Studio：與 .NET 相容的任何版本。
-2.  Aspose.Words for .NET：下載[這裡](https://releases.aspose.com/words/net/).
+2. Aspose.Words for .NET：下載[這裡](https://releases.aspose.com/words/net/).
 3. 基本 C# 知識：熟悉編寫簡單的 C# 程式就足夠了。
 4. 範例 Word 文件：準備一個包含本教學書籤的 Word 文件（例如「Bookmarks.docx」）。
 
@@ -97,7 +97,7 @@ ShowHideBookmarkedContent(doc, "MyBookmark1", true); //隱藏「MyBookmark1」�
 
 此行將隱藏與名為「MyBookmark1」的書籤關聯的內容。
 
-## 步驟 4：儲存文檔
+## 第 4 步：儲存文檔
 
 完成變更後，請不要忘記儲存修改後的文件：
 

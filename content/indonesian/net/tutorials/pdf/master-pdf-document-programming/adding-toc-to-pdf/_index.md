@@ -119,7 +119,7 @@ Ya, Anda dapat sepenuhnya menyesuaikan tampilan TOC, termasuk gaya font, ukuran,
 
 ### Bagaimana cara menambahkan subjudul ke Daftar Isi?
 
- Anda dapat menambahkan subjudul dengan menyesuaikan`Heading` tingkat (misalnya,`Heading(2)`).
+Anda dapat menambahkan subjudul dengan menyesuaikan`Heading` tingkat (misalnya,`Heading(2)`).
 
 ### Apakah mungkin untuk memperbarui TOC secara otomatis jika dokumen berubah?
 

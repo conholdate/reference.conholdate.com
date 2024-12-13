@@ -9,7 +9,7 @@ url: /sv/net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-
 ---
 ## Introduktion
 
-den snabba sfären av .NET-utveckling framstår Aspose.PSD som ett ovärderligt bibliotek för exakt och effektiv bildhantering. Om du är sugen på att lära dig hur du sparar bilder i en ström med Aspose.PSD för .NET, kommer den här guiden att ge dig steg-för-steg-instruktioner som är enkla att följa.
+I den snabba sfären av .NET-utveckling framstår Aspose.PSD som ett ovärderligt bibliotek för exakt och effektiv bildhantering. Om du är sugen på att lära dig hur du sparar bilder i en ström med Aspose.PSD för .NET, kommer den här guiden att ge dig steg-för-steg-instruktioner som är lätta att följa.
 
 ## Förutsättningar
 
@@ -47,7 +47,7 @@ Identifiera platsen för din käll-PSD-fil och var du vill spara bilden. Ändra 
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Sökväg till din käll-PSD-fil
-string destName = dataDir + "result.png";   // Sökväg för utdatafilen
+string destName = dataDir + "result.png";   //Sökväg för utdatafilen
 ```
 
 ## Steg 3: Ladda PSD-bilden och hantera icke-hittade teckensnitt
@@ -89,7 +89,7 @@ Grattis! Du har framgångsrikt lärt dig hur du sparar bilder i en ström med As
 ## FAQ's
 
 ### Kan jag använda Aspose.PSD med någon typ av bildfil?
- Ja! Aspose.PSD stöder olika bildformat, inklusive PSD, PNG, JPEG och mer. Se dokumentationen för en detaljerad lista[här](https://reference.aspose.com/psd/net/).
+Ja! Aspose.PSD stöder olika bildformat, inklusive PSD, PNG, JPEG och mer. Se dokumentationen för en detaljerad lista[här](https://reference.aspose.com/psd/net/).
 
 ### Hur får jag support för Aspose.PSD?
  Besök supportforumet för Aspose.PSD för hjälp och gemenskapsstöd[här](https://forum.aspose.com/c/psd/34).

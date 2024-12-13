@@ -47,7 +47,7 @@ string dataDir = "YOUR_DOCUMENTS_DIRECTORY";
 Načtěte dokument aplikace Word, který obsahuje odrážky obrázků. Tento dokument bude upraven tak, aby při ukládání vyloučil obrázkové odrážky.
 
 ```csharp
-// Vložte dokument s obrázkovými odrážkami
+// Vložte dokument s odrážkami obrázků
 Document doc = new Document(dataDir + "Image bullet points.docx");
 ```
 
@@ -66,10 +66,10 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 
 ## Krok 5: Uložte dokument
 
-Nakonec dokument uložte pomocí nakonfigurovaných možností. Tím se vygeneruje nový soubor bez odrážek obrázku.
+Nakonec uložte dokument pomocí nakonfigurovaných možností. Tím se vygeneruje nový soubor bez odrážek obrázku.
 
 ```csharp
-// Uložte dokument se zadanými možnostmi
+//Uložte dokument se zadanými možnostmi
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

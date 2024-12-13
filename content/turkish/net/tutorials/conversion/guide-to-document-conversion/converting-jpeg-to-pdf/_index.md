@@ -61,10 +61,10 @@ var options = new PdfConvertOptions(); // PDF dönüştürme seçenekleri oluşt
 ```
 
 ## Adım 4: Dönüştürmeyi Gerçekleştirin
- Çağırmak`Convert`Biçim değişikliğini yürütme yöntemi. Dönüştürme seçenekleriyle birlikte çıktı dosyanızın yolunu iletin:
+ Çağırmak`Convert` Biçim değişikliğini yürütme yöntemi. Dönüştürme seçenekleriyle birlikte çıktı dosyanızın yolunu iletin:
 
 ```csharp
-converter.Convert(outputFile, options); // Dönüştürmeyi gerçekleştirin
+converter.Convert(outputFile, options); //Dönüştürmeyi gerçekleştirin
 ```
 
 ## Adım 5: Tamamlanma Mesajını Görüntüle
@@ -92,4 +92,4 @@ Kütüphane, görseller, belgeler, elektronik tablolar, sunumlar ve daha fazlas�
  Evet, deneme sürümünü şu adresten indirebilirsiniz:[GroupDocs web sitesi](https://releases.groupdocs.com/).
 
 ### GroupDocs.Conversion for .NET ile ilgili desteği nereden alabilirim?
- Yardım için şu adresi ziyaret edin:[GroupDocs.Conversion forumu](https://forum.groupdocs.com/c/conversion/11) Toplulukla bağlantı kurmak ve yardım aramak.
+Yardım için şu adresi ziyaret edin:[GroupDocs.Conversion forumu](https://forum.groupdocs.com/c/conversion/11) Toplulukla bağlantı kurmak ve yardım aramak.

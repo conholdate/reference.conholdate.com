@@ -14,7 +14,7 @@ url: /el/net/tutorials/metadata/pdf-metadata-management/reading-built-in-propert
 Πριν ξεκινήσουμε, βεβαιωθείτε ότι έχετε τα εξής:
 
 - Visual Studio: Βεβαιωθείτε ότι είναι εγκατεστημένο στο σύστημά σας.
-- GroupDocs.Metadata για .NET: Κάντε λήψη και εγκαταστήστε το από το[επίσημη ιστοσελίδα](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata για .NET: Κάντε λήψη και εγκαταστήστε το από το[επίσημη ιστοσελίδα](https://releases.groupdocs.com/metadata/net/).
 - Βασικές γνώσεις C#: Συνιστάται εξοικείωση με την C# και το πλαίσιο .NET.
 
 ## Εισαγωγή χώρων ονομάτων
@@ -31,7 +31,7 @@ using Formats.Document;
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // Πρόσβαση στο ριζικό πακέτο του αρχείου PDF
+    //Πρόσβαση στο ριζικό πακέτο του αρχείου PDF
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // Ανάκτηση και εμφάνιση ενσωματωμένων ιδιοτήτων

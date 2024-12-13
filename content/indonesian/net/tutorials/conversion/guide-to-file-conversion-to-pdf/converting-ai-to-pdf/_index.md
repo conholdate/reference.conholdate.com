@@ -17,7 +17,7 @@ Sebelum kita mulai mengonversi berkas, pastikan Anda telah menyiapkan hal beriku
 
 ### Instal GroupDocs.Conversion untuk .NET
 
-Anda dapat mengunduh GroupDocs.Conversion untuk .NET dari[situs web](https://releases.groupdocs.com/conversion/net/)Pastikan Anda menginstalnya sesuai dengan kebutuhan proyek Anda.
+ Anda dapat mengunduh GroupDocs.Conversion untuk .NET dari[situs web](https://releases.groupdocs.com/conversion/net/)Pastikan Anda menginstalnya sesuai dengan kebutuhan proyek Anda.
 
 ### Sumber File AI
 
@@ -59,7 +59,7 @@ Berikutnya, atur opsi spesifik apa pun yang mungkin Anda perlukan untuk konversi
 ```csharp
     var options = new PdfConvertOptions();
 ```
- Dengan membuat sebuah instance dari`PdfConvertOptions`Anda dapat menyesuaikan pengaturan seperti ukuran halaman, margin, dan lainnya. Meskipun ini bersifat opsional, ini memberi Anda fleksibilitas untuk persyaratan tertentu.
+ Dengan membuat sebuah instance dari`PdfConvertOptions`, Anda dapat menyesuaikan pengaturan seperti ukuran halaman, margin, dan lainnya. Meskipun ini bersifat opsional, ini memberi Anda fleksibilitas untuk persyaratan tertentu.
 
 ## Langkah 3: Lakukan Konversi
 

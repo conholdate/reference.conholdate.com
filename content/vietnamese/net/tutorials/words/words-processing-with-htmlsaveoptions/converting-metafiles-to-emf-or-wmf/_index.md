@@ -15,7 +15,7 @@ Quản lý và chuyển đổi định dạng hình ảnh hiệu quả là một
 
 Để đảm bảo trải nghiệm phát triển diễn ra suôn sẻ, hãy xác nhận các điều kiện tiên quyết sau được đáp ứng:
 
-- Aspose.Words cho .NET: Tải phiên bản mới nhất từ[Trang phát hành Aspose](https://releases.aspose.com/words/net/).
+-  Aspose.Words cho .NET: Tải phiên bản mới nhất từ[Trang phát hành Aspose](https://releases.aspose.com/words/net/).
 - .NET Framework: Kiểm tra cài đặt .NET Framework (hoặc .NET Core/5/6 tùy thuộc vào môi trường của bạn).
 - Môi trường phát triển: Visual Studio được khuyến khích sử dụng vì các tính năng mạnh mẽ của nó.
 - Thành thạo C#: Có kiến thức cơ bản về lập trình C# là điều cần thiết.
@@ -68,7 +68,7 @@ HtmlLoadOptions loadOptions = new HtmlLoadOptions
 
 ## Bước 4: Tải HTML vào Tài liệu Word
 
-Sử dụng các tùy chọn tải được cấu hình để tạo`Document` đối tượng từ chuỗi HTML.
+ Sử dụng các tùy chọn tải được cấu hình để tạo`Document` đối tượng từ chuỗi HTML.
 
 ```csharp
 using (MemoryStream htmlStream = new MemoryStream(Encoding.UTF8.GetBytes(htmlContent)))

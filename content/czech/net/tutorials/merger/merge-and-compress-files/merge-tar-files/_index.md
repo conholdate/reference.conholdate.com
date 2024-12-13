@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Vytvoříte nový`Merger` instance s cestou k vašemu prvnímu souboru TAR.
 -  The`Join` metoda umožňuje přidat další soubor TAR ke sloučení (tento krok je volitelný).
--  Konečně zavolej`Save`dokončete proces slučování a zapište výstupní soubor do určeného adresáře.
+-  Konečně zavolej`Save` dokončete proces slučování a zapište výstupní soubor do určeného adresáře.
 
 ## Krok 3: Zobrazte zprávu o dokončení
 
@@ -86,4 +86,4 @@ Ano, GroupDocs.Merger je kompatibilní s .NET Framework i .NET Core.
 Rozhodně! GroupDocs.Merger poskytuje řadu rozhraní API, která vám umožňují přizpůsobit operace slučování, včetně rozsahů stránek a pořadí souborů.
 
 ### Kde najdu podporu pro GroupDocs.Merger?
- Pro podporu a diskuse navštivte[fórum GroupDocs](https://forum.groupdocs.com/c/merger/32).
+ Pro podporu a diskuze navštivte[Fórum GroupDocs](https://forum.groupdocs.com/c/merger/32).

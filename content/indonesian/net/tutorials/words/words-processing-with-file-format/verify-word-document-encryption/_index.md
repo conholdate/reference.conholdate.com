@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Langkah 3: Mendeteksi Format File
 
- Sekarang, kita akan menggunakan`DetectFileFormat` metode dari`FileFormatUtil`kelas untuk mengumpulkan informasi tentang format file. Untuk contoh ini, kami berasumsi dokumen terenkripsi diberi nama "Encrypted.docx" dan terletak di direktori yang ditentukan:
+ Sekarang, kita akan menggunakan`DetectFileFormat` metode dari`FileFormatUtil` kelas untuk mengumpulkan informasi tentang format file. Untuk contoh ini, kami berasumsi dokumen terenkripsi diberi nama "Encrypted.docx" dan terletak di direktori yang ditentukan:
 
 ```csharp
 FileFormatInfo info = FileFormatUtil.DetectFileFormat(dataDir + "Encrypted.docx");
@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## Kesimpulan
 
- Selesai! Anda telah berhasil memverifikasi status enkripsi dokumen Word menggunakan Aspose.Words for .NET. Sungguh mengagumkan bagaimana beberapa baris kode dapat menyederhanakan tugas-tugas tersebut. Jika Anda memiliki pertanyaan atau mengalami masalah, jangan ragu untuk menghubungi kami di[Forum Dukungan Aspose](https://forum.aspose.com/c/words/8).
+Selesai! Anda telah berhasil memverifikasi status enkripsi dokumen Word menggunakan Aspose.Words for .NET. Sungguh mengagumkan bagaimana beberapa baris kode dapat menyederhanakan tugas-tugas tersebut. Jika Anda memiliki pertanyaan atau mengalami masalah, jangan ragu untuk menghubungi kami di[Forum Dukungan Aspose](https://forum.aspose.com/c/words/8).
 
 ## Pertanyaan yang Sering Diajukan
 

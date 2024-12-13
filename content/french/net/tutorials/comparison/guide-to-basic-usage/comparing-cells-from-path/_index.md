@@ -85,7 +85,7 @@ Oui, la bibliothèque prend en charge la comparaison de différents formats de d
 
 ### Comment puis-je obtenir de l'aide pour GroupDocs.Comparison pour .NET ?
 
- Pour obtenir de l'aide, visitez la communauté GroupDocs.Comparison[forum](https://forum.groupdocs.com/c/comparison/12).
+Pour obtenir de l'aide, visitez la communauté GroupDocs.Comparison[forum](https://forum.groupdocs.com/c/comparison/12).
 
 ### Où puis-je acheter une licence pour GroupDocs.Comparison pour .NET ?
 

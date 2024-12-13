@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## 3단계: HTML 로드 옵션 구성
 
- 그만큼`HtmlLoadOptions`Aspose.Words의 클래스를 사용하면 HTML 콘텐츠를 어떻게 해석해야 하는지 지정할 수 있습니다. 콤보 상자가 구조화된 문서 태그로 렌더링되도록 하려면:
+ 그만큼`HtmlLoadOptions` Aspose.Words의 클래스를 사용하면 HTML 콘텐츠를 어떻게 해석해야 하는지 지정할 수 있습니다. 콤보 상자가 구조화된 문서 태그로 렌더링되도록 하려면:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions

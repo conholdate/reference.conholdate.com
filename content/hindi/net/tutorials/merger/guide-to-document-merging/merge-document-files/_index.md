@@ -16,7 +16,7 @@ url: /hi/net/tutorials/merger/guide-to-document-merging/merge-document-files/
 आरंभ करने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित हैं:
 
 1. विज़ुअल स्टूडियो: अपने विकास मशीन पर विज़ुअल स्टूडियो स्थापित करें।
-2.  .NET के लिए GroupDocs.Merger: लाइब्रेरी डाउनलोड करें[वेबसाइट](https://releases.groupdocs.com/merger/net/).
+2. .NET के लिए GroupDocs.Merger: लाइब्रेरी डाउनलोड करें[वेबसाइट](https://releases.groupdocs.com/merger/net/).
 3. C# का बुनियादी ज्ञान: C# प्रोग्रामिंग भाषा से परिचित होना अनुशंसित है।
 
 ## आवश्यक नामस्थान आयात करें
@@ -46,7 +46,7 @@ string outputFile = Path.Combine(outputFolder, "merged.doc");
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //मर्ज करने के लिए एक और DOC फ़ाइल जोड़ें
+    // मर्ज करने के लिए एक और DOC फ़ाइल जोड़ें
     merger.Join("path_to_second_doc.doc");
 
     // DOC फ़ाइलों को मर्ज करें और परिणाम सहेजें
@@ -75,7 +75,7 @@ using (var merger = new Merger("path_to_first_doc.doc"))
 
 ### क्या इसके व्यावसायिक उपयोग के लिए लाइसेंस की आवश्यकता है?
 
-हां, व्यावसायिक उपयोग के लिए वैध लाइसेंस आवश्यक है। आप यहां से लाइसेंस खरीद सकते हैं[ग्रुपडॉक्स](https://purchase.groupdocs.com/buy).
+ हां, व्यावसायिक उपयोग के लिए वैध लाइसेंस आवश्यक है। आप यहां से लाइसेंस खरीद सकते हैं[ग्रुपडॉक्स](https://purchase.groupdocs.com/buy).
 
 ### क्या मैं .NET के लिए GroupDocs.Merger को निःशुल्क आज़मा सकता हूँ?
 

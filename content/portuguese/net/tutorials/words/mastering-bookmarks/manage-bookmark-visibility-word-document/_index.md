@@ -16,7 +16,7 @@ Você está pronto para elevar suas habilidades de manipulação de documentos c
 Antes de começarmos, certifique-se de ter o seguinte:
 
 1. Visual Studio: Qualquer versão compatível com .NET.
-2.  Aspose.Words para .NET: Baixe-o[aqui](https://releases.aspose.com/words/net/).
+2. Aspose.Words para .NET: Baixe-o[aqui](https://releases.aspose.com/words/net/).
 3. Conhecimento básico de C#: familiaridade com a escrita de programas simples em C# será suficiente.
 4. Um exemplo de documento do Word: prepare um documento do Word (por exemplo, "Bookmarks.docx") contendo marcadores para este tutorial.
 

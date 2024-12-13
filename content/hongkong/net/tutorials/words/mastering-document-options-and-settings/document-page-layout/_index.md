@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/words/mastering-document-options-and-settings/docume
 
 在我們開始之前，請確保您具備以下條件：
 
--  Aspose.Words for .NET：下載[這裡](https://releases.aspose.com/words/net/).
+- Aspose.Words for .NET：下載[這裡](https://releases.aspose.com/words/net/).
 - 有效許可證：購買一個[這裡](https://purchase.aspose.com/buy)或獲得臨時許可證[這裡](https://purchase.aspose.com/temporary-license/).
 - 對 C# 程式設計的基本了解：別擔心，我會讓事情變得簡單。
 - 整合開發環境（IDE）：強烈推薦Visual Studio。

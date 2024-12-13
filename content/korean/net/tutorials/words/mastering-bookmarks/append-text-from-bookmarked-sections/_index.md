@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 먼저, 원본 및 대상 Word 문서를 로드하고 필요한 변수를 초기화해 보겠습니다.
 
 ```csharp
-// 소스 및 대상 문서를 로드합니다.
+//소스 및 대상 문서를 로드합니다.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,7 +110,7 @@ dstDoc.Save("appended_document.docx");
 현재 예제에서는 동일한 부모를 가지고 있다고 가정합니다. 그렇지 않은 경우 더 복잡한 처리를 구현해야 합니다.
 
 ### 추가된 텍스트의 원래 서식이 유지됩니까?
- 물론입니다! 사용 중`ImportFormatMode.KeepSourceFormatting` 원래 서식이 유지되도록 합니다.
+ 물론입니다! 사용 중`ImportFormatMode.KeepSourceFormatting`원래 서식이 유지되도록 합니다.
 
 ### 대상 문서의 특정 위치에 텍스트를 추가할 수 있나요?
 네, 대상 문서에서 해당 노드로 이동하여 원하는 위치에 텍스트를 추가할 수 있습니다.

@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- Trong bước này, bạn đang khởi tạo một phiên bản mới của`Document` lớp, đóng vai trò là canvas cho các lớp tương lai của chúng ta. Hãy đảm bảo thay thế`"YOUR DOCUMENT DIRECTORY"` với đường dẫn thực tế mà bạn muốn lưu tệp PDF sau này.
+ Trong bước này, bạn đang khởi tạo một phiên bản mới của`Document` lớp, đóng vai trò là nền cho các lớp tương lai của chúng ta. Hãy đảm bảo thay thế`"YOUR DOCUMENT DIRECTORY"` với đường dẫn thực tế mà bạn muốn lưu tệp PDF sau này.
 
 ## Bước 2: Tạo trang mới
 

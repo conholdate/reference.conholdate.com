@@ -74,7 +74,7 @@ SignatureLine signatureLine = builder.InsertSignatureLine(signatureLineOptions).
 signatureLine.ProviderId = Guid.Parse("CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2");
 ```
 
- De`InsertSignatureLine`De methode voegt de handtekeningregel toe en wij wijzen er een unieke provider-ID aan toe.
+ De`InsertSignatureLine` De methode voegt de handtekeningregel toe en wij wijzen er een unieke provider-ID aan toe.
 
 ## Stap 4: Sla het document op
 

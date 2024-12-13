@@ -35,7 +35,7 @@ using Aspose.Words.Importing;
 Laten we beginnen met het laden van onze bron- en doel-Word-documenten en het initialiseren van de benodigde variabelen.
 
 ```csharp
-// Laad de bron- en doeldocumenten.
+//Laad de bron- en doeldocumenten.
 Document srcDoc = new Document("source.docx");
 Document dstDoc = new Document("destination.docx");
 
@@ -110,10 +110,10 @@ Ja, u kunt het proces voor elke bladwijzer herhalen en indien nodig tekst toevoe
 In het huidige voorbeeld wordt ervan uitgegaan dat ze dezelfde ouder hebben. Als dat niet zo is, moet u complexere afhandeling implementeren.
 
 ### Blijft de originele opmaak van de bijgevoegde tekst behouden?
- Absoluut! Gebruik`ImportFormatMode.KeepSourceFormatting` zorgt ervoor dat de originele opmaak behouden blijft.
+ Absoluut! Gebruik`ImportFormatMode.KeepSourceFormatting`zorgt ervoor dat de originele opmaak behouden blijft.
 
 ### Is het mogelijk om tekst toe te voegen aan een specifieke positie in het doeldocument?
-Ja, u kunt tekst toevoegen aan elke gewenste positie door naar het juiste knooppunt in het doeldocument te navigeren.
+Ja, u kunt tekst op elke gewenste positie toevoegen door naar het juiste knooppunt in het doeldocument te navigeren.
 
 ### Kan ik tekst uit een bladwijzer toevoegen aan een nieuwe sectie?
 Ja, u kunt een nieuwe sectie in het doeldocument maken en de tekst daar toevoegen.

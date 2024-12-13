@@ -15,7 +15,7 @@ Bonjour à tous les codeurs ! Si vous avez déjà rencontré des problèmes de p
 
 Avant de commencer, assurez-vous d’avoir tout ce dont vous avez besoin :
 
-1.  Aspose.Words pour .NET : Téléchargez-le[ici](https://releases.aspose.com/words/net/).
+1. Aspose.Words pour .NET : Téléchargez-le[ici](https://releases.aspose.com/words/net/).
 2.  Une licence valide : Achetez une licence[ici](https://purchase.aspose.com/buy) ou obtenir un permis temporaire[ici](https://purchase.aspose.com/temporary-license/).
 3. Connaissances de base de C# et .NET : Une familiarité avec les concepts de programmation de base en C# est supposée.
 4. Visual Studio : toute version prenant en charge le framework .NET fonctionnera.
@@ -74,7 +74,7 @@ Enfin, nous enregistrons le document sous forme de fichier HTML en utilisant les
 doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 ```
 
- Nous appelons le`Save` méthode sur le`Document` objet, spécifiant le chemin de sortie et les options de sauvegarde que nous avons configurées. Cela génère un fichier HTML avec les noms de police résolus.
+ Nous appelons le`Save`méthode sur le`Document` objet, spécifiant le chemin de sortie et les options de sauvegarde que nous avons configurées. Cela génère un fichier HTML avec les noms de police résolus.
 
 ## Conclusion
 
@@ -92,7 +92,7 @@ Aspose.Words pour .NET est une bibliothèque puissante qui permet aux développe
  Oui, mais il y aura quelques limitations. Pour bénéficier de toutes les fonctionnalités, vous pouvez acheter une licence[ici](https://purchase.aspose.com/buy) ou obtenir un permis temporaire[ici](https://purchase.aspose.com/temporary-license/).
 
 ### Pourquoi mes polices ne s'affichent pas correctement en HTML ?
- Ce problème peut survenir si les polices ne sont pas correctement résolues lors de la conversion.`ResolveFontNames = true` dans`HtmlSaveOptions` peut aider à résoudre ce problème.
+Ce problème peut survenir si les polices ne sont pas correctement résolues lors de la conversion.`ResolveFontNames = true` dans`HtmlSaveOptions` peut aider à résoudre ce problème.
 
 ### Où puis-je obtenir de l'aide pour Aspose.Words pour .NET ?
  Vous pouvez obtenir de l'aide auprès de[Forum d'assistance Aspose.Words](https://forum.aspose.com/c/words/8).

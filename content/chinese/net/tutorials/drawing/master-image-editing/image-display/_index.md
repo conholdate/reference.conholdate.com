@@ -15,7 +15,7 @@ url: /zh/net/tutorials/drawing/master-image-editing/image-display/
 
 在开始之前，请确保您已满足以下先决条件：
 
-- Aspose.Drawing for .NET Library：从以下网址下载并安装该库[发布页面](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing for .NET Library：从以下网址下载并安装该库[发布页面](https://releases.aspose.com/drawing/net/).
 - .NET 环境：确保您的开发环境已设置为可以使用 .NET。
 - 文档目录：创建一个目录来存储您的图像。
 - 图像文件：准备一个用于显示的图像文件，例如“aspose_logo.png”。

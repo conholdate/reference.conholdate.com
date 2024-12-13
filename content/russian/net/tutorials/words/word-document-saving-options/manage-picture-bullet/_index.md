@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Наконец, сохраните документ, используя настроенные параметры. Это сгенерирует новый файл без маркеров изображений.
 
 ```csharp
-// Сохраните документ с указанными параметрами
+//Сохраните документ с указанными параметрами
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

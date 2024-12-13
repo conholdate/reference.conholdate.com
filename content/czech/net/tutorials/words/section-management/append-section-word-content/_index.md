@@ -96,7 +96,7 @@ Nakonec náš upravený dokument uložíme.
 doc.Save("output.docx");
 ```
 
-Tím se dokument uloží jako „output.docx“. Tento soubor můžete otevřít v aplikaci Microsoft Word a zkontrolovat změny.
+Tím se dokument uloží jako "output.docx". Tento soubor můžete otevřít v aplikaci Microsoft Word a zkontrolovat změny.
 
 ## Závěr
 

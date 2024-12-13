@@ -15,7 +15,7 @@ Välkommen till vår omfattande guide för att visa bilder med Aspose.Drawing f�
 
 Innan du börjar, se till att du har dessa förutsättningar på plats:
 
-- Aspose.Drawing för .NET Library: Ladda ner och installera biblioteket från[släpp sida](https://releases.aspose.com/drawing/net/).
+-  Aspose.Drawing för .NET Library: Ladda ner och installera biblioteket från[släpp sida](https://releases.aspose.com/drawing/net/).
 - .NET-miljö: Se till att din utvecklingsmiljö är inställd för att fungera med .NET.
 - Dokumentkatalog: Skapa en katalog för att lagra dina bilder.
 - Bildfil: Förbered en bildfil för visning, till exempel "aspose_logo.png."
@@ -88,7 +88,7 @@ Ja, Aspose.Drawing uppdateras regelbundet för att bibehålla kompatibilitet med
 
 ### Hur kan jag hantera bildskalning i Aspose.Drawing?
 
- Du kan justera bildskalningen genom att ändra parametrarna i`DrawImage`metod, som att ange destinationsrektangeln.
+ Du kan justera bildskalningen genom att ändra parametrarna i`DrawImage` metod, som att ange destinationsrektangeln.
 
 ### Finns det licensöverväganden för att använda Aspose.Drawing i kommersiella projekt?
 
@@ -96,4 +96,4 @@ Ja, Aspose.Drawing uppdateras regelbundet för att bibehålla kompatibilitet med
 
 ### Var kan jag söka hjälp om jag stöter på problem eller har frågor om Aspose.Drawing?
 
- För support kan du besöka[Aspose.Drawing forum](https://forum.aspose.com/c/diagram/17) att få kontakt med samhället och hitta experthjälp.
+För support kan du besöka[Aspose.Drawing forum](https://forum.aspose.com/c/diagram/17) att få kontakt med samhället och hitta experthjälp.

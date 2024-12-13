@@ -17,7 +17,7 @@ url: /ar/net/tutorials/html/converting-html-documents/convert-html-as-png/
 
 1.  .NET Framework/ .NET Core: تأكد من تثبيت .NET Framework أو .NET Core على جهازك. يمكنك تنزيل[.NET هنا](https://dotnet.microsoft.com/download).
 
-2.  مكتبة Aspose.HTML لـ .NET: ستحتاج إلى مكتبة Aspose.HTML. يمكنك تنزيلها[هنا](https://releases.aspose.com/html/net/)أو جربه مجانًا مع[نسخة تجريبية مجانية](https://releases.aspose.com/).
+2.  مكتبة Aspose.HTML لـ .NET: ستحتاج إلى مكتبة Aspose.HTML. يمكنك تنزيلها[هنا](https://releases.aspose.com/html/net/) أو جربه مجانًا مع[نسخة تجريبية مجانية](https://releases.aspose.com/).
 
 3. IDE: يوصى باستخدام بيئة تطوير متكاملة (IDE) مناسبة مثل Visual Studio لكتابة وتشغيل التعليمات البرمجية الخاصة بك.
 
@@ -53,7 +53,7 @@ using Aspose.Html.Rendering.Image;
 string dataDir = "Your Data Directory"; // حدد مسار الدليل الخاص بك
 ```
 
--  يستبدل`"Your Data Directory"` مع المسار الذي تريد تخزين ملفات PNG الناتجة فيه. قد يكون هذا شيئًا مثل`@"C:\work\"`.
+-  يستبدل`"Your Data Directory"`مع المسار الذي تريد تخزين ملفات PNG الناتجة فيه. قد يكون هذا شيئًا مثل`@"C:\work\"`.
 
 ## الخطوة 2: إنشاء كائن مستند HTML
 
@@ -79,7 +79,7 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  ال`HtmlRenderer`هو الكائن الذي تلجأ إليه لتحويل محتوى HTML إلى صور. فهو يتولى عملية العرض من الداخل، حتى تتمكن من التركيز على ما تحتاج إليه!
+-  ال`HtmlRenderer` هو الكائن الذي تلجأ إليه لتحويل محتوى HTML إلى صور. فهو يتولى عملية العرض من الداخل، حتى تتمكن من التركيز على ما تحتاج إليه!
 
 ## الخطوة 4: إعداد جهاز الصورة
 

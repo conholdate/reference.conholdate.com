@@ -85,7 +85,7 @@ Evet, kütüphane elektronik tablolar, metin dosyaları ve resimler dahil olmak 
 
 ### GroupDocs.Comparison for .NET desteğini nasıl alabilirim?
 
- Destek için GroupDocs.Comparison topluluğunu ziyaret edin[forum](https://forum.groupdocs.com/c/comparison/12).
+Destek için GroupDocs.Comparison topluluğunu ziyaret edin[forum](https://forum.groupdocs.com/c/comparison/12).
 
 ### GroupDocs.Comparison for .NET lisansını nereden satın alabilirim?
 

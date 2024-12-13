@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 Por último, guarde el documento utilizando las opciones configuradas. Esto generará un nuevo archivo sin las viñetas de las imágenes.
 
 ```csharp
-// Guardar el documento con las opciones especificadas
+//Guardar el documento con las opciones especificadas
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

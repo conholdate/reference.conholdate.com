@@ -16,13 +16,13 @@ url: /sv/net/tutorials/words/mastering-bookmarks/manage-bookmark-visibility-word
 Innan vi dyker in, se till att du har följande:
 
 1. Visual Studio: Alla versioner som är kompatibla med .NET.
-2.  Aspose.Words för .NET: Ladda ner det[här](https://releases.aspose.com/words/net/).
+2. Aspose.Words för .NET: Ladda ner det[här](https://releases.aspose.com/words/net/).
 3. Grundläggande C#-kunskaper: Det räcker med att skriva enkla C#-program.
 4. Ett exempel på Word-dokument: Förbered ett Word-dokument (t.ex. "Bookmarks.docx") som innehåller bokmärken för denna handledning.
 
 ### Skapa ett nytt projekt
 
-1. Öppna Visual Studio och skapa ett nytt Console App-projekt (.NET Core). Namnge det något i stil med "BookmarkVisibilityManager".
+1. Öppna Visual Studio och skapa ett nytt Console App (.NET Core)-projekt. Namnge det något i stil med "BookmarkVisibilityManager".
 
 ### Installera Aspose.Words för .NET
 

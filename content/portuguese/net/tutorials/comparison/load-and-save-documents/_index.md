@@ -13,15 +13,15 @@ No mundo acelerado do desenvolvimento de software, ter ferramentas eficazes na p
 
 ## Carregando documentos
 
-primeiro passo para dominar o GroupDocs.Comparison é entender como carregar documentos de forma eficaz. Imagine que você está em uma corrida — se não conseguir sair da linha de partida suavemente, ficará para trás! Da mesma forma, carregar documentos corretamente é essencial para uma comparação suave. Este tutorial o orienta pelo processo de carregamento de documentos em vários formatos. Você obterá experiência prática, aprendendo a percorrer diferentes tipos de arquivo e prepará-los para comparação, o que é muito fácil com o GroupDocs.
+O primeiro passo para dominar o GroupDocs.Comparison é entender como carregar documentos de forma eficaz. Imagine que você está em uma corrida — se não conseguir sair da linha de partida suavemente, ficará para trás! Da mesma forma, carregar documentos corretamente é essencial para uma comparação suave. Este tutorial o orienta pelo processo de carregamento de documentos em vários formatos. Você obterá experiência prática, aprendendo a percorrer diferentes tipos de arquivo e prepará-los para comparação, o que é muito fácil com o GroupDocs.
 
- Aqui está o ponto crucial: com apenas algumas linhas de código, você pode carregar qualquer documento suportado e começar a compará-lo com outro arquivo. É como ter uma chave mágica que abre um tesouro de funcionalidades! O guia passo a passo incluído garante que você não ficará no escuro, mesmo se estiver apenas começando. Quer se aprofundar mais? Confira nosso tutorial completo em[Carregar documentos no GroupDocs Comparação para .NET](./load-documents/).
+Aqui está o ponto crucial: com apenas algumas linhas de código, você pode carregar qualquer documento suportado e começar a compará-lo com outro arquivo. É como ter uma chave mágica que abre um tesouro de funcionalidades! O guia passo a passo incluído garante que você não ficará no escuro, mesmo se estiver apenas começando. Quer se aprofundar mais? Confira nosso tutorial completo em[Carregar documentos no GroupDocs Comparação para .NET](./load-documents/).
 
 ## Salvando metadados do documento
 
 Depois de conduzir uma comparação bem-sucedida, o próximo passo lógico é salvar esses documentos efetivamente. Pense nisso como o encerramento após um ótimo filme — você precisa capturar e manter esses destaques! Nesta seção, abordaremos como salvar documentos junto com seus metadados usando GroupDocs.Comparison. Não se trata apenas de salvar arquivos; trata-se de garantir que todas as informações relevantes sejam retidas, para que você possa consultá-las mais tarde sem perder o ritmo.
 
- Este tutorial orienta você a salvar fontes de metadados de documentos com facilidade. Imagine integrar perfeitamente esse recurso em seus aplicativos .NET, fornecendo aos seus usuários não apenas funcionalidade aprimorada, mas também uma experiência mais rica. Quer saber mais? Visite nosso[Salvar fonte de metadados de documentos no GroupDocs Comparação para .NET](./save-documents-metadata-source/) para etapas e exemplos detalhados.
+Este tutorial orienta você a salvar fontes de metadados de documentos com facilidade. Imagine integrar perfeitamente esse recurso em seus aplicativos .NET, fornecendo aos seus usuários não apenas funcionalidade aprimorada, mas também uma experiência mais rica. Quer saber mais? Visite nosso[Salvar fonte de metadados de documentos no GroupDocs Comparação para .NET](./save-documents-metadata-source/) para etapas e exemplos detalhados.
 
 ## Tutoriais sobre como carregar e salvar documentos
 ### [Carregar documentos no GroupDocs Comparação para .NET](./load-documents/)

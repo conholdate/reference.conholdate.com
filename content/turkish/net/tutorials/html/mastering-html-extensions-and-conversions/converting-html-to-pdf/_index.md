@@ -19,7 +19,7 @@ Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 Projeniz için Visual Studio veya tercih ettiğiniz herhangi bir .NET IDE'nin yüklü ve ayarlanmış olduğundan emin olun.
 
 ### 2. .NET Kütüphanesi için Aspose.HTML
-.NET için Aspose.HTML kütüphanesini indirin ve kurun. Aşağıdaki bağlantıda bulabilirsiniz:[Aspose.HTML for .NET](https://releases.aspose.com/html/net/).
+ .NET için Aspose.HTML kütüphanesini indirin ve kurun. Aşağıdaki bağlantıda bulabilirsiniz:[Aspose.HTML for .NET](https://releases.aspose.com/html/net/).
 
 ### 3. C# ve .NET'in Temel Bilgileri
 C# ve .NET hakkında temel bir anlayışa sahip olmanız bu eğitimi etkili bir şekilde takip etmenize yardımcı olacaktır.
@@ -52,7 +52,7 @@ HTMLDocument htmlDocument = new HTMLDocument(dataDir + "input.html");
 ```
 
 ## Adım 3: PDF Kaydetme Seçeneklerini Yapılandırın
- Kurmak`PdfSaveOptions`PDF dönüştürme ayarlarınızı tanımlamak için, örneğin görüntü kalitesi ve düzen. Örneğin, JPEG kalitesini 100 olarak ayarlayabilirsiniz:
+ Kurmak`PdfSaveOptions` PDF dönüştürme ayarlarınızı tanımlamak için, örneğin görüntü kalitesi ve düzen. Örneğin, JPEG kalitesini 100 olarak ayarlayabilirsiniz:
 
 ```csharp
 PdfSaveOptions options = new PdfSaveOptions

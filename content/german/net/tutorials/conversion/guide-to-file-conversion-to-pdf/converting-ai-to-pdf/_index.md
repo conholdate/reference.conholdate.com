@@ -2,7 +2,7 @@
 title: Konvertieren von AI-Dateien in PDF
 linktitle: Konvertieren von AI-Dateien in PDF
 second_title: GroupDocs.Conversion .NET-API
-description: Entdecken Sie, wie Sie mit GroupDocs.Conversion für .NET mühelos AI-Dateien in das PDF-Format konvertieren. Dieses Tutorial führt Sie durch die Installation, die Codeeinrichtung und den Konvertierungsprozess.
+description: Entdecken Sie, wie Sie mit GroupDocs.Conversion für .NET mühelos AI-Dateien in das PDF-Format konvertieren. Dieses Tutorial führt Sie durch die Installation, die Code-Einrichtung und den Konvertierungsprozess.
 type: docs
 weight: 10
 url: /de/net/tutorials/conversion/guide-to-file-conversion-to-pdf/converting-ai-to-pdf/
@@ -17,7 +17,7 @@ Bevor wir mit der Dateikonvertierung beginnen, stellen Sie sicher, dass Sie Folg
 
 ### Installieren Sie GroupDocs.Conversion für .NET
 
-Sie können GroupDocs.Conversion für .NET herunterladen von der[Webseite](https://releases.groupdocs.com/conversion/net/). Stellen Sie sicher, dass Sie es entsprechend Ihren Projektanforderungen installieren.
+ Sie können GroupDocs.Conversion für .NET herunterladen von der[Webseite](https://releases.groupdocs.com/conversion/net/). Stellen Sie sicher, dass Sie es entsprechend Ihren Projektanforderungen installieren.
 
 ### AI-Quelldatei
 

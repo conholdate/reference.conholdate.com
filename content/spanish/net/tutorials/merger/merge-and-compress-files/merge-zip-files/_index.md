@@ -82,7 +82,7 @@ Sí, es compatible con aplicaciones .NET Framework y .NET Core.
 
 ### ¿Puedo personalizar el proceso de fusión, como por ejemplo especificar el orden de los archivos en el ZIP fusionado?
 
-Sí, tienes control total sobre el proceso de fusión. Puedes especificar el orden de los archivos manipulando la secuencia en la que llamas a los archivos.`Join()` método.
+ Sí, tienes control total sobre el proceso de fusión. Puedes especificar el orden de los archivos manipulando la secuencia en la que llamas a los archivos.`Join()` método.
 
 ### ¿GroupDocs.Merger para .NET requiere una licencia para uso comercial?
 

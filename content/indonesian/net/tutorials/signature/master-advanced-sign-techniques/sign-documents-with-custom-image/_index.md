@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Langkah 4: Inisialisasi Objek Tanda Tangan
 
- Buat contoh dari`Signature` kelas, meneruskan jalur berkas dokumen:
+ Buat contoh dari`Signature`kelas, meneruskan jalur berkas dokumen:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

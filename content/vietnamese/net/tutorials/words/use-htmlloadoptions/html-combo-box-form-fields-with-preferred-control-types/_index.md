@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Bước 3: Cấu hình Tùy chọn Tải HTML
 
- Các`HtmlLoadOptions`lớp trong Aspose.Words cho phép chúng ta chỉ định cách diễn giải nội dung HTML. Để đảm bảo hộp kết hợp được hiển thị dưới dạng thẻ tài liệu có cấu trúc:
+ Các`HtmlLoadOptions` lớp trong Aspose.Words cho phép chúng ta chỉ định cách diễn giải nội dung HTML. Để đảm bảo hộp kết hợp được hiển thị dưới dạng thẻ tài liệu có cấu trúc:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions
@@ -96,7 +96,7 @@ Thao tác này sẽ tạo ra một tệp Word chứa trường biểu mẫu hộ
 
 ## Phần kết luận
 
- Việc kết hợp nội dung HTML, đặc biệt là các trường biểu mẫu như hộp kết hợp, vào tài liệu Word bằng Aspose.Words cho .NET rất đơn giản khi tận dụng`HtmlLoadOptions`Hướng dẫn này trang bị cho bạn kiến thức để kiểm soát cách hiển thị các thành phần này, đảm bảo tài liệu của bạn đáp ứng được yêu cầu của người dùng và dự án.
+ Việc kết hợp nội dung HTML, đặc biệt là các trường biểu mẫu như hộp kết hợp, vào tài liệu Word bằng Aspose.Words cho .NET rất đơn giản khi tận dụng`HtmlLoadOptions`. Hướng dẫn này trang bị cho bạn kiến thức để kiểm soát cách hiển thị các thành phần này, đảm bảo tài liệu của bạn đáp ứng được yêu cầu của người dùng và dự án.
 
 ## Câu hỏi thường gặp
 

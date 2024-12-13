@@ -9,7 +9,7 @@ url: /pl/net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-
 ---
 ## Wstęp
 
-szybko rozwijającym się świecie rozwoju .NET Aspose.PSD wyłania się jako nieoceniona biblioteka do precyzyjnej i wydajnej obsługi obrazów. Jeśli chcesz dowiedzieć się, jak zapisywać obrazy do strumienia za pomocą Aspose.PSD dla .NET, ten przewodnik dostarczy Ci instrukcji krok po kroku, które są łatwe do naśladowania.
+W szybko rozwijającym się świecie rozwoju .NET Aspose.PSD wyłania się jako nieoceniona biblioteka do precyzyjnej i wydajnej obsługi obrazów. Jeśli chcesz dowiedzieć się, jak zapisywać obrazy do strumienia za pomocą Aspose.PSD dla .NET, ten przewodnik dostarczy Ci instrukcji krok po kroku, które są łatwe do naśladowania.
 
 ## Wymagania wstępne
 
@@ -47,7 +47,7 @@ Określ lokalizację pliku źródłowego PSD i miejsce, w którym chcesz zapisa�
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Ścieżka do pliku źródłowego PSD
-string destName = dataDir + "result.png";   // Ścieżka do pliku obrazu wyjściowego
+string destName = dataDir + "result.png";   //Ścieżka do pliku obrazu wyjściowego
 ```
 
 ## Krok 3: Załaduj obraz PSD i obsługuj nieznalezione czcionki
@@ -89,7 +89,7 @@ Gratulacje! Udało Ci się nauczyć, jak zapisywać obrazy do strumienia za pomo
 ## Najczęściej zadawane pytania
 
 ### Czy mogę używać Aspose.PSD z dowolnym typem pliku graficznego?
- Tak! Aspose.PSD obsługuje różne formaty obrazów, w tym PSD, PNG, JPEG i inne. Aby uzyskać szczegółową listę, sprawdź dokumentację[Tutaj](https://reference.aspose.com/psd/net/).
+Tak! Aspose.PSD obsługuje różne formaty obrazów, w tym PSD, PNG, JPEG i inne. Aby uzyskać szczegółową listę, sprawdź dokumentację[Tutaj](https://reference.aspose.com/psd/net/).
 
 ### Jak uzyskać pomoc dotyczącą Aspose.PSD?
  Aby uzyskać pomoc i wsparcie społeczności, odwiedź forum pomocy Aspose.PSD[Tutaj](https://forum.aspose.com/c/psd/34).

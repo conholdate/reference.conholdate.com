@@ -35,7 +35,7 @@ Aşağıda adım adım detaylı uygulama yer almaktadır.
 
 ## Adım 1: Yeni Bir OneNote Belgesi Oluşturun
 
- Yeni bir OneNote belgesini şu şekilde başlatın:`Document` sınıf.
+ Yeni bir OneNote belgesini şu şekilde başlatın:`Document`sınıf.
 
 ```csharp
 Document doc = new Document();
@@ -124,6 +124,6 @@ Aspose.Note, ek simgeleri için JPEG, PNG, BMP ve GIF formatlarını destekler.
 Aspose.Note tarafından belirlenmiş açık bir boyut sınırı yoktur, ancak sistem kaynaklarınızın büyük dosyaları kaldırabileceğinden emin olun.
 
 ### Simgeler ayarlanmadan önce yeniden boyutlandırılabilir mi?
-Evet, .NET'i kullanarak simge görüntüsünü düzenleyebilirsiniz.`System.Drawing` Eklemeden önce kütüphaneyi kontrol edin.
+ Evet, .NET'i kullanarak simge görüntüsünü düzenleyebilirsiniz.`System.Drawing` Eklemeden önce kütüphaneyi kontrol edin.
 
  Daha fazla yardım için, şunu keşfedin:[belgeleme](https://reference.aspose.com/words/net/) veya ulaşın[Aspose desteği](https://forum.aspose.com/c/words/8).

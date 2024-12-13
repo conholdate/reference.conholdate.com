@@ -17,7 +17,7 @@ Innan vi hoppar in i koden, låt oss se till att du har allt korrekt inställt:
 
 1.  .NET Framework/.NET Core: Se till att du har antingen .NET Framework eller .NET Core installerat på din dator. Du kan ladda ner[.NET här](https://dotnet.microsoft.com/download).
 
-2.  Aspose.HTML for .NET Library: Du måste ha Aspose.HTML-biblioteket. Du kan ladda ner den[här](https://releases.aspose.com/html/net/)eller prova det gratis med en[gratis provperiod](https://releases.aspose.com/).
+2.  Aspose.HTML for .NET Library: Du måste ha Aspose.HTML-biblioteket. Du kan ladda ner den[här](https://releases.aspose.com/html/net/) eller prova det gratis med en[gratis provperiod](https://releases.aspose.com/).
 
 3. IDE: En lämplig integrerad utvecklingsmiljö (IDE) som Visual Studio rekommenderas för att skriva och köra din kod.
 
@@ -53,7 +53,7 @@ Det första du vill göra är att skapa en katalog där du ska spara dina bilder
 string dataDir = "Your Data Directory"; // Ange din katalogsökväg
 ```
 
--  Ersätta`"Your Data Directory"` med sökvägen där du vill lagra dina utgående PNG-filer. Det här kan vara något liknande`@"C:\work\"`.
+-  Ersätta`"Your Data Directory"`med sökvägen där du vill lagra dina utgående PNG-filer. Det här kan vara något liknande`@"C:\work\"`.
 
 ## Steg 2: Skapa ett HTML-dokumentobjekt
 
@@ -79,11 +79,11 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  De`HtmlRenderer`är ditt favoritobjekt för att förvandla HTML-innehåll till bilder. Den hanterar renderingsprocessen under huven, så att du kan fokusera på det du behöver!
+-  De`HtmlRenderer` är ditt favoritobjekt för att förvandla HTML-innehåll till bilder. Den hanterar renderingsprocessen under huven, så att du kan fokusera på det du behöver!
 
 ## Steg 4: Konfigurera bildenheten
 
- Nu är det dags att förbereda`ImageDevice`. Detta är målet för vår renderingsprocess där den slutliga PNG-bilden kommer att skapas.
+ Nu är det dags att förbereda`ImageDevice`Detta är målet för vår renderingsprocess där den slutliga PNG-bilden kommer att skapas.
 
 ```csharp
 using (ImageDevice device = new ImageDevice(dataDir + @"document_out.png"))

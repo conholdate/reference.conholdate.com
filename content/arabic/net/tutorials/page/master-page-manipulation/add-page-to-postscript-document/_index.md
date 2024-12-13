@@ -47,10 +47,10 @@ using System.IO;
 string dataDir = "Your Document Directory"; // قم بتعيين مسار دليل المستند الخاص بك
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //إعداد خيارات الحفظ لحجم A4
+    // إعداد خيارات الحفظ لحجم A4
     PsSaveOptions options = new PsSaveOptions();
     
-    // إنشاء مستند PostScript جديد يحتوي على صفحتين
+    //إنشاء مستند PostScript جديد يحتوي على صفحتين
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

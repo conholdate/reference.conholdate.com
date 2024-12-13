@@ -219,7 +219,7 @@ Hieronder vindt u links naar nuttige bronnen die u mogelijk nodig hebt om uw tak
 
 **Welcome to Aspose.HTML for Java**
 
-Aspose.HTML voor Java is een geavanceerde HTML-manipulatie-API die is gebouwd om een breed scala aan HTML-manipulatietaken rechtstreeks binnen de Java-applicaties uit te voeren. De API biedt ook een rendering-engine met hoge betrouwbaarheid voor vaste-layoutformaten zoals PDF & XPS, en een aantal rasterafbeeldingsformaten.
+Aspose.HTML voor Java is een geavanceerde HTML-manipulatie-API die is gebouwd om een breed scala aan HTML-manipulatietaken rechtstreeks binnen de Java-applicaties uit te voeren. De API biedt ook een high fidelity rendering engine voor vaste-layout-formaten zoals PDF & XPS, en een aantal rasterafbeeldingsformaten.
 
 {{% /alert %}}
 

@@ -15,7 +15,7 @@ När det gäller .NET-utveckling kan bildmanipulering vara en komplex uppgift. T
 
 Innan vi börjar, se till att du har följande på plats:
 
--  Aspose.Drawing Library: Se till att du har integrerat Aspose.Drawing-biblioteket i ditt .NET-projekt. Du kan ladda ner den[här](https://releases.aspose.com/drawing/net/).
+- Aspose.Drawing Library: Se till att du har integrerat Aspose.Drawing-biblioteket i ditt .NET-projekt. Du kan ladda ner den[här](https://releases.aspose.com/drawing/net/).
   
 -  Bildkatalog: Ha en avsedd katalog för dina projektbilder. Du måste byta ut`"Your Document Directory"` i kodavsnitten med sökvägen till din bildmapp.
 
@@ -115,4 +115,4 @@ Verkligen! Aspose.Drawing utmärker sig i batchbearbetning, vilket gör det effe
 
 ### Var kan jag få support för Aspose.Drawing-relaterade frågor?
 
- För hjälp, besök[Aspose.Drawing Forum](https://forum.aspose.com/c/diagram/17) att få kontakt med samhället och söka hjälp för dina frågor.
+För hjälp, besök[Aspose.Drawing Forum](https://forum.aspose.com/c/diagram/17) att få kontakt med samhället och söka hjälp för dina frågor.

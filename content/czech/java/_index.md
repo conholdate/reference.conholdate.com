@@ -9,7 +9,7 @@ Vytvářejte, čtěte, upravujte, tiskněte, prohlížejte, porovnávejte, komen
 
 ## [Aspose.Total pro Java API Reference](/aspose-total-for-java/)
 
-Všechny produkty pod Aspose.Total for Java jsou založeny na souborových formátech a můžete použít všechny typy funkcí na jakýkoli konkrétní formát souboru. Pokud například chcete, aby vaše aplikace vytvářela, aktualizovala, převáděla a tiskla dokumenty MS Word, můžete k vytvoření takové aplikace použít Aspose.Words for Java. Chcete-li rozšířit stejné funkce do formátů MS Excel, můžete ve stejné aplikaci použít Aspose.Cells for Java a tak dále.
+Všechny produkty pod Aspose.Total for Java jsou založeny na souborových formátech a můžete použít všechny typy funkcí na jakýkoli konkrétní formát souboru. Pokud například chcete, aby vaše aplikace vytvářela, aktualizovala, převáděla a tiskla dokumenty MS Word, můžete k vytvoření takové aplikace použít Aspose.Words for Java. Chcete-li rozšířit stejné funkce do formátů MS Excel, můžete použít Aspose.Cells for Java ve stejné aplikaci a tak dále.
 
 ## [GroupDocs.Total pro Java API reference](/groupdocs-total-for-java/)
 

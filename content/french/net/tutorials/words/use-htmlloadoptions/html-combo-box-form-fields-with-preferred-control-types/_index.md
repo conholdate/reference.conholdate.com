@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Étape 3 : Configurer les options de chargement HTML
 
- Le`HtmlLoadOptions`La classe dans Aspose.Words nous permet de spécifier comment le contenu HTML doit être interprété. Pour garantir que la zone de liste déroulante est rendue sous la forme d'une balise de document structurée :
+ Le`HtmlLoadOptions` La classe dans Aspose.Words nous permet de spécifier comment le contenu HTML doit être interprété. Pour garantir que la zone de liste déroulante est rendue sous la forme d'une balise de document structurée :
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions

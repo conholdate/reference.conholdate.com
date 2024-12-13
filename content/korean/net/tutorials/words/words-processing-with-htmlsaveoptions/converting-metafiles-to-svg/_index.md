@@ -33,7 +33,7 @@ using Aspose.Words.Saving;
 
 ## 1단계: Document 및 DocumentBuilder 초기화
 
-새 Word 문서를 만들고 초기화하는 것으로 시작합니다.`DocumentBuilder` 객체를 사용하면 콘텐츠를 추가하는 데 도움이 됩니다.
+ 새 Word 문서를 만들고 초기화하는 것으로 시작합니다.`DocumentBuilder` 객체를 사용하면 콘텐츠를 추가하는 데 도움이 됩니다.
 
 ```csharp
 // 문서 디렉토리의 경로를 정의합니다.
@@ -56,7 +56,7 @@ builder.Write("Here is an SVG image: ");
 
 ## 3단계: SVG 이미지 삽입
 
- 이제 흥미로운 부분이 나옵니다! SVG 이미지를 문서에 삽입합니다.`InsertHtml` 방법.
+이제 흥미로운 부분이 나옵니다! SVG 이미지를 문서에 삽입합니다.`InsertHtml` 방법.
 
 ```csharp
 builder.InsertHtml(
@@ -83,7 +83,7 @@ HtmlSaveOptions saveOptions = new HtmlSaveOptions
 
 ## 5단계: 문서 저장
 
-마지막으로 다음을 사용하여 문서를 저장해 보겠습니다.`Save` 의 방법`Document` 수업.
+ 마지막으로 다음을 사용하여 문서를 저장해 보겠습니다.`Save` 의 방법`Document`수업.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

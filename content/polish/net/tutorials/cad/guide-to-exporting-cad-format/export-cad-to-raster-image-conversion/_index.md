@@ -110,7 +110,7 @@ Gratulacje! Nauczyłeś się, jak skutecznie konwertować układy CAD do format�
 
 ### Czy mogę eksportować do innych formatów obrazów?
 
- Oczywiście! Po prostu zamień`JpegOptions` z innymi opcjami formatu, takimi jak`PngOptions` Lub`BmpOptions`, w zależności od Twoich potrzeb.
+ Absolutnie! Po prostu zamień`JpegOptions` z innymi opcjami formatu, takimi jak`PngOptions` Lub`BmpOptions`, w zależności od Twoich potrzeb.
 
 ### Czy jest dostępna wersja próbna?
 

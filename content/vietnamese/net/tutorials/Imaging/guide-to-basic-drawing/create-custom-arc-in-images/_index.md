@@ -38,7 +38,7 @@ using System.IO;
 ## Bước 1: Tạo hình ảnh và lưu luồng
 
 ```csharp
-//Xác định thư mục để lưu hình ảnh
+// Xác định thư mục để lưu hình ảnh
 string dataDir = "Your Document Directory"; // Cập nhật theo đường dẫn bạn muốn
 
 // Tạo một luồng để lưu hình ảnh BMP

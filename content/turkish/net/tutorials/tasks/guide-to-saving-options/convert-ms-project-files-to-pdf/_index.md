@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Adım 4: Dışa Aktarma için Belirli Sayfaları Seçin (İsteğe Bağlı)
 
- PDF'ye dahil edilecek tam sayfaları belirterek doldurun`Pages` özellik. Örneğin, 1 ve 4 sayfalarını dışa aktarmak için:
+PDF'ye dahil edilecek tam sayfaları belirterek doldurun`Pages` özellik. Örneğin, 1 ve 4 sayfalarını dışa aktarmak için:
 
 ```csharp
 options.Pages.Add(1);

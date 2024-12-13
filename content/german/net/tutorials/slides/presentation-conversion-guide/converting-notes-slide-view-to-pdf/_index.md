@@ -16,7 +16,7 @@ Wenn Sie häufig mit PowerPoint-Präsentationen arbeiten, wissen Sie, wie wichti
 Stellen Sie vor dem Eintauchen sicher, dass Sie die folgenden Anforderungen erfüllen:
 
 -  Entwicklungsumgebung: Installieren[Visual Studio](https://visualstudio.microsoft.com/) oder jede beliebige C#-IDE.
-- Aspose.Slides für .NET-Bibliothek: Laden Sie die Bibliothek herunter von[Hier](https://releases.aspose.com/slides/net/).
+-  Aspose.Slides für .NET-Bibliothek: Laden Sie die Bibliothek herunter von[Hier](https://releases.aspose.com/slides/net/).
 -  Präsentationsdatei: Sie haben eine PowerPoint-Datei (z. B.`NotesFile.pptx`) bereit zur Konvertierung.
 
 ## Einrichten Ihrer Umgebung
@@ -73,7 +73,7 @@ Sobald Sie Ihre Optionen konfiguriert haben, speichern Sie die Präsentation als
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
- Dadurch wird eine PDF-Datei mit dem Namen generiert`Pdf_Notes_out.pdf` in Ihrem angegebenen Verzeichnis, das Folien und die dazugehörigen Notizen enthält.
+Dadurch wird eine PDF-Datei mit dem Namen generiert`Pdf_Notes_out.pdf` in Ihrem angegebenen Verzeichnis, das Folien und die dazugehörigen Notizen enthält.
 
 ## Abschluss
 
@@ -88,10 +88,10 @@ Ja, Aspose.Slides für .NET ist für die effiziente Verarbeitung von Präsentati
  Sie können eine kostenlose Testversion herunterladen unter[Hier](https://releases.aspose.com/).
 
 ### F3: Gibt es andere PDF-Exportoptionen?
-Ja, Sie können Schriftarten, Seitenlayout, Komprimierung und mehr anpassen mit dem`PdfOptions` Klasse.
+ Ja, Sie können Schriftarten, Seitenlayout, Komprimierung und mehr anpassen mit dem`PdfOptions`Klasse.
 
 ### F4: Kann ich nur bestimmte Folien exportieren?
- Auf jeden Fall! Sie können bestimmte Folien auswählen, indem Sie`Slides` Sammlung im`Presentation` Klasse.
+ Auf jeden Fall! Sie können bestimmte Folien auswählen, indem Sie`Slides` Sammlung im`Presentation`Klasse.
 
 ### F5: Wo finde ich weitere Beispiele?
  Besuchen Sie die[Aspose.Slides für .NET-Dokumentation](https://reference.aspose.com/slides/net/) für weitere Beispiele und Anwendungsfälle.

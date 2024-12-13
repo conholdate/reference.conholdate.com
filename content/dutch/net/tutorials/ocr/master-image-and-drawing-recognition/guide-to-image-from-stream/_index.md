@@ -91,7 +91,7 @@ Ja, Aspose.OCR ondersteunt meerdere talen en is daarmee een veelzijdige oplossin
 
 ### Waar kan ik ondersteuning krijgen voor Aspose.OCR?
 
- Voor hulp, bezoek de[Aspose.OCR-forum](https://forum.aspose.com/c/ocr/16) waar leden van de gemeenschap en experts klaarstaan om te helpen.
+Voor hulp, bezoek de[Aspose.OCR-forum](https://forum.aspose.com/c/ocr/16) waar leden van de gemeenschap en experts klaarstaan om te helpen.
 
 ### Kan ik een tijdelijk rijbewijs krijgen?
 

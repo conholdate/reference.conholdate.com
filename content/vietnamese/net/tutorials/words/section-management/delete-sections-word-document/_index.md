@@ -55,7 +55,7 @@ doc.Sections[1].Remove();
 
 ## Phần kết luận
 
- Với Aspose.Words for .NET, việc thao tác các tài liệu Word trở nên hiệu quả và đơn giản. Xóa các phần chỉ là một trong nhiều tính năng mạnh mẽ mà bạn có thể sử dụng. Hãy chắc chắn khám phá các tính năng mở rộng[tài liệu](https://reference.aspose.com/words/net/) để khám phá thêm nhiều khả năng có thể nâng cao nhiệm vụ xử lý tài liệu của bạn.
+Với Aspose.Words for .NET, việc thao tác các tài liệu Word trở nên hiệu quả và đơn giản. Xóa các phần chỉ là một trong nhiều tính năng mạnh mẽ mà bạn có thể sử dụng. Hãy chắc chắn khám phá các tính năng mở rộng[tài liệu](https://reference.aspose.com/words/net/) để khám phá thêm nhiều khả năng có thể nâng cao nhiệm vụ xử lý tài liệu của bạn.
 
 ## Câu hỏi thường gặp
 

@@ -101,7 +101,7 @@ hebt met succes een VBA-project gemaakt in een Word-document met Aspose.Words vo
 Aspose.Words voor .NET is een krachtige bibliotheek waarmee ontwikkelaars Word-documenten kunnen maken, bewerken en converteren in .NET-applicaties. Het is ideaal voor het automatiseren van documentworkflows en het verbeteren van functionaliteit met VBA.
 
 ### Kan ik Aspose.Words gratis uitproberen?
- Absoluut! Je kunt Aspose proberen. Woorden met een[gratis proefperiode](https://releases.aspose.com/) of verkrijg een[tijdelijke licentie](https://purchase.aspose.com/temporary-license/) voor evaluatie.
+ Absoluut! Je kunt Aspose proberen. Woorden met een[gratis proefperiode](https://releases.aspose.com/) of een verkrijgen[tijdelijke licentie](https://purchase.aspose.com/temporary-license/) voor evaluatie.
 
 ### Hoe voeg ik VBA-code toe aan een Word-document?
  Om VBA-code toe te voegen, maakt u een`VbaModule` , stel zijn`SourceCode` eigenschap met uw macrocode en voeg de module toe aan uw`VbaProject`.

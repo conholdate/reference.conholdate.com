@@ -16,7 +16,7 @@ url: /hi/net/tutorials/slides/presentation-conversion-guide/converting-notes-sli
 इसमें शामिल होने से पहले, सुनिश्चित करें कि आप निम्नलिखित आवश्यकताओं को पूरा करते हैं:
 
 -  विकास पर्यावरण: स्थापित करें[विजुअल स्टूडियो](https://visualstudio.microsoft.com/) या कोई भी C# IDE.
-- Aspose.Slides for .NET लाइब्रेरी: लाइब्रेरी को यहां से डाउनलोड करें[यहाँ](https://releases.aspose.com/slides/net/).
+-  Aspose.Slides for .NET लाइब्रेरी: लाइब्रेरी को यहां से डाउनलोड करें[यहाँ](https://releases.aspose.com/slides/net/).
 -  प्रस्तुति फ़ाइल: एक पावरपॉइंट फ़ाइल रखें (उदाहरण के लिए,`NotesFile.pptx`) रूपांतरण के लिए तैयार है।
 
 ## अपना वातावरण स्थापित करना
@@ -73,7 +73,7 @@ options.NotesPosition = NotesPositions.BottomFull;
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
- इससे एक पीडीएफ फाइल तैयार होगी जिसका नाम होगा`Pdf_Notes_out.pdf` आपकी निर्दिष्ट निर्देशिका में, जिसमें स्लाइडों के साथ-साथ उनके नोट्स भी होंगे।
+इससे एक पीडीएफ फाइल तैयार होगी जिसका नाम होगा`Pdf_Notes_out.pdf` आपकी निर्दिष्ट निर्देशिका में, जिसमें स्लाइडों के साथ-साथ उनके नोट्स भी होंगे।
 
 ## निष्कर्ष
 
@@ -88,10 +88,10 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
  आप यहां से निःशुल्क परीक्षण संस्करण डाउनलोड कर सकते हैं[यहाँ](https://releases.aspose.com/).
 
 ### प्रश्न 3: क्या पीडीएफ निर्यात के अन्य विकल्प उपलब्ध हैं?
-हां, आप फ़ॉन्ट, पेज लेआउट, संपीड़न और बहुत कुछ अनुकूलित कर सकते हैं`PdfOptions` कक्षा।
+ हां, आप फ़ॉन्ट, पेज लेआउट, संपीड़न और बहुत कुछ अनुकूलित कर सकते हैं`PdfOptions`कक्षा।
 
 ### प्रश्न 4: क्या मैं केवल विशिष्ट स्लाइडें ही निर्यात कर सकता हूँ?
- बिल्कुल! आप इसका उपयोग करके विशिष्ट स्लाइड्स का चयन कर सकते हैं`Slides` संग्रह में`Presentation` कक्षा।
+ बिल्कुल! आप इसका उपयोग करके विशिष्ट स्लाइड्स का चयन कर सकते हैं`Slides` संग्रह में`Presentation`कक्षा।
 
 ### प्रश्न 5: मैं अतिरिक्त उदाहरण कहां पा सकता हूं?
  दौरा करना[.NET दस्तावेज़ीकरण के लिए Aspose.Slides](https://reference.aspose.com/slides/net/) अधिक उदाहरणों और उपयोग मामलों के लिए.

@@ -33,7 +33,7 @@ using Aspose.Words.Saving;
 
 ## Adım 1: Belgeyi ve Belge Oluşturucuyu Başlatın
 
-Yeni bir Word belgesi oluşturarak ve başlatarak başlayacağız`DocumentBuilder` İçerik eklememize yardımcı olacak nesne.
+ Yeni bir Word belgesi oluşturarak ve başlatarak başlayacağız`DocumentBuilder` İçerik eklememize yardımcı olacak nesne.
 
 ```csharp
 // Belgeler dizinine giden yolu tanımlayın.
@@ -56,7 +56,7 @@ Bu satır, belgenize "İşte bir SVG resmi: " metnini ekleyerek eklemek üzere o
 
 ## Adım 3: SVG Resmini Ekle
 
- Şimdi heyecan verici kısım geliyor! Belgemize bir SVG resmi ekleyeceğiz.`InsertHtml` yöntem.
+Şimdi heyecan verici kısım geliyor! Belgemize bir SVG resmi ekleyeceğiz.`InsertHtml` yöntem.
 
 ```csharp
 builder.InsertHtml(
@@ -83,7 +83,7 @@ Bu yapılandırma, Aspose.Words'e HTML'e aktarırken belgedeki tüm meta dosyala
 
 ## Adım 5: Belgeyi Kaydedin
 
-Son olarak, belgemizi kullanarak kaydedelim`Save` yöntemi`Document` sınıf.
+ Son olarak, belgemizi kullanarak kaydedelim`Save` yöntemi`Document`sınıf.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

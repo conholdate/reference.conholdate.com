@@ -9,7 +9,7 @@ url: /hu/net/tutorials/signature/master-advanced-sign-techniques/add-text-signat
 ---
 ## Bevezetés
 
-A mai digitális környezetben az elektronikus dokumentum-aláírás elengedhetetlenné vált a munkafolyamatok egyszerűsítéséhez és az erőforrások megtakarításához. A GroupDocs.Signature for .NET hatékony megoldást kínál szöveges aláírások programozott hozzáadásához különböző dokumentumformátumokhoz. Ez az oktatóanyag végigvezeti Önt egy szöveges dokumentum aláírásának lépésein a GroupDocs.Signature for .NET használatával.
+mai digitális környezetben az elektronikus dokumentum-aláírás elengedhetetlenné vált a munkafolyamatok egyszerűsítéséhez és az erőforrások megtakarításához. A GroupDocs.Signature for .NET hatékony megoldást kínál szöveges aláírások programozott hozzáadásához különböző dokumentumformátumokhoz. Ez az oktatóanyag végigvezeti Önt egy szöveges dokumentum aláírásának lépésein a GroupDocs.Signature for .NET használatával.
 
 ## Előfeltételek
 
@@ -56,7 +56,7 @@ Konfigurálja a szöveges aláírás beállításait, beleértve a tartalmat, po
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // X pozíció
+    Left = 50, // pozíció
     Top = 200, // Y pozíció
     Width = 100, // Az aláírás szélessége
     Height = 30, // Az aláírás magassága

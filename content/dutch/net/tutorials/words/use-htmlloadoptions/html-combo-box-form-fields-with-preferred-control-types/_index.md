@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Stap 3: HTML-laadopties configureren
 
- De`HtmlLoadOptions`klasse in Aspose.Words stelt ons in staat om te specificeren hoe HTML-inhoud moet worden geïnterpreteerd. Om ervoor te zorgen dat de keuzelijst wordt weergegeven als een gestructureerde documenttag:
+ De`HtmlLoadOptions` klasse in Aspose.Words stelt ons in staat om te specificeren hoe HTML-inhoud moet worden geïnterpreteerd. Om ervoor te zorgen dat de keuzelijst wordt weergegeven als een gestructureerde documenttag:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions

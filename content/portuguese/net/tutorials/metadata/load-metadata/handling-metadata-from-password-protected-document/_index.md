@@ -9,7 +9,7 @@ url: /pt/net/tutorials/metadata/load-metadata/handling-metadata-from-password-pr
 ---
 ## Introdução
 
-O gerenciamento de metadados é essencial em vários aplicativos .NET, não importa se você está lidando com PDFs, imagens ou documentos do Word. Este tutorial guiará você pelo processo de extração de metadados de documentos protegidos por senha usando GroupDocs.Metadata for .NET.
+gerenciamento de metadados é essencial em vários aplicativos .NET, não importa se você está lidando com PDFs, imagens ou documentos do Word. Este tutorial guiará você pelo processo de extração de metadados de documentos protegidos por senha usando GroupDocs.Metadata for .NET.
 
 ## Pré-requisitos
 
@@ -42,7 +42,7 @@ var loadOptions = new LoadOptions
 
 ## Etapa 3: Carregar metadados do documento
 
- Usando o`Metadata` classe, você pode carregar metadados do documento especificado. Lembre-se de substituir`"YourInputFile"` com o caminho para o seu documento:
+ Usando o`Metadata` classe, você pode carregar metadados do documento especificado. Lembre-se de substituir`"YourInputFile"`com o caminho para o seu documento:
 
 ```csharp
 using (var metadata = new Metadata("YourInputFile", loadOptions))

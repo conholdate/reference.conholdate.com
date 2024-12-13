@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // WGS 84 mekansal referans sistemiyle yeni bir katman oluşturun
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //Bir öznitelik şeması ekleyin
+        // Bir öznitelik şeması ekleyin
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // Bir özellik oluşturun ve ekleyin

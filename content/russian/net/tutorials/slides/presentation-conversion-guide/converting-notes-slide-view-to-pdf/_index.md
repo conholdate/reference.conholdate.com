@@ -16,7 +16,7 @@ url: /ru/net/tutorials/slides/presentation-conversion-guide/converting-notes-sli
 Прежде чем приступить к работе, убедитесь, что вы соответствуете следующим требованиям:
 
 -  Среда разработки: Установка[Визуальная Студия](https://visualstudio.microsoft.com/) или любую C# IDE.
-- Библиотека Aspose.Slides для .NET: Загрузите библиотеку с[здесь](https://releases.aspose.com/slides/net/).
+-  Библиотека Aspose.Slides для .NET: Загрузите библиотеку с[здесь](https://releases.aspose.com/slides/net/).
 -  Файл презентации: Имейте файл PowerPoint (например,`NotesFile.pptx`) готов к конвертации.
 
 ## Настройка вашей среды
@@ -73,7 +73,7 @@ options.NotesPosition = NotesPositions.BottomFull;
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
- Это создаст PDF-файл с именем`Pdf_Notes_out.pdf` в указанном вами каталоге, содержащем слайды вместе с примечаниями к ним.
+Это создаст PDF-файл с именем`Pdf_Notes_out.pdf` в указанном вами каталоге, содержащем слайды вместе с примечаниями к ним.
 
 ## Заключение
 
@@ -88,10 +88,10 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
  Вы можете загрузить бесплатную пробную версию с сайта[здесь](https://releases.aspose.com/).
 
 ### В3: Доступны ли другие варианты экспорта в PDF?
-Да, вы можете настроить шрифты, макет страницы, сжатие и многое другое с помощью`PdfOptions` сорт.
+ Да, вы можете настроить шрифты, макет страницы, сжатие и многое другое с помощью`PdfOptions`сорт.
 
 ### В4: Могу ли я экспортировать только определенные слайды?
- Конечно! Вы можете выбрать определенные слайды с помощью`Slides` коллекция в`Presentation` сорт.
+ Конечно! Вы можете выбрать определенные слайды с помощью`Slides` коллекция в`Presentation`сорт.
 
 ### В5: Где я могу найти дополнительные примеры?
  Посетите[Документация Aspose.Slides для .NET](https://reference.aspose.com/slides/net/) для получения дополнительных примеров и вариантов использования.

@@ -16,7 +16,7 @@ Bu eğitimde, DOC dosyaları da dahil olmak üzere çeşitli belge biçimlerini 
 Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
 1. Visual Studio: Geliştirme makinenize Visual Studio'yu yükleyin.
-2.  GroupDocs.Merger for .NET: Kütüphaneyi şu adresten indirin:[web sitesi](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger for .NET: Kütüphaneyi şu adresten indirin:[web sitesi](https://releases.groupdocs.com/merger/net/).
 3. Temel C# Bilgisi: C# programlama diline aşina olmanız önerilir.
 
 ## Gerekli Ad Alanlarını İçe Aktar
@@ -46,7 +46,7 @@ Birleştirmek istediğiniz kaynak DOC dosyalarını yüklemek için aşağıdaki
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Birleştirmek için başka bir DOC dosyası ekleyin
+    // Birleştirmek için başka bir DOC dosyası ekleyin
     merger.Join("path_to_second_doc.doc");
 
     // DOC dosyalarını birleştirin ve sonucu kaydedin
@@ -75,7 +75,7 @@ Kesinlikle, hem .NET Core hem de .NET Framework ile uyumludur.
 
 ### Ticari kullanım için lisans gerekiyor mu?
 
-Evet, ticari kullanım için geçerli bir lisans gereklidir. Lisansı şu adresten satın alabilirsiniz:[GrupDokümanları](https://purchase.groupdocs.com/buy).
+ Evet, ticari kullanım için geçerli bir lisans gereklidir. Lisansı şu adresten satın alabilirsiniz:[GrupDokümanları](https://purchase.groupdocs.com/buy).
 
 ### GroupDocs.Merger for .NET'i ücretsiz deneyebilir miyim?
 

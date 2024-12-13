@@ -14,7 +14,7 @@ url: /ar/net/tutorials/metadata/pdf-metadata-management/reading-built-in-propert
 قبل أن نبدأ، تأكد من أن لديك ما يلي:
 
 - Visual Studio: تأكد من تثبيته على نظامك.
-- GroupDocs.Metadata لـ .NET: قم بتنزيله وتثبيته من[الموقع الرسمي](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata لـ .NET: قم بتنزيله وتثبيته من[الموقع الرسمي](https://releases.groupdocs.com/metadata/net/).
 - المعرفة الأساسية بلغة C#: يُنصح بالإلمام بلغة C# وإطار عمل .NET.
 
 ## استيراد مساحات الأسماء
@@ -31,7 +31,7 @@ using Formats.Document;
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 {
-    // الوصول إلى الحزمة الجذرية لملف PDF
+    //الوصول إلى الحزمة الجذرية لملف PDF
     var root = metadata.GetRootPackage<PdfRootPackage>();
     
     // استرداد وعرض الخصائص المضمنة

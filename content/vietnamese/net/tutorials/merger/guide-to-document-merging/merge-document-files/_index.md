@@ -16,7 +16,7 @@ Trong hướng dẫn này, chúng ta sẽ khám phá cách hợp nhất các t�
 Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
 
 1. Visual Studio: Cài đặt Visual Studio trên máy phát triển của bạn.
-2.  GroupDocs.Merger cho .NET: Tải xuống thư viện từ[trang web](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger cho .NET: Tải xuống thư viện từ[trang web](https://releases.groupdocs.com/merger/net/).
 3. Kiến thức cơ bản về C#: Nên làm quen với ngôn ngữ lập trình C#.
 
 ## Nhập không gian tên bắt buộc
@@ -46,7 +46,7 @@ Sử dụng đoạn mã sau để tải các tệp DOC nguồn mà bạn muốn 
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Thêm một tệp DOC khác để hợp nhất
+    // Thêm một tệp DOC khác để hợp nhất
     merger.Join("path_to_second_doc.doc");
 
     // Hợp nhất các tệp DOC và lưu kết quả
@@ -75,7 +75,7 @@ Chắc chắn rồi, nó tương thích với cả .NET Core và .NET Framework.
 
 ### Có cần giấy phép sử dụng cho mục đích thương mại không?
 
-Có, cần có giấy phép hợp lệ để sử dụng cho mục đích thương mại. Bạn có thể mua giấy phép từ[NhómDocs](https://purchase.groupdocs.com/buy).
+ Có, cần có giấy phép hợp lệ để sử dụng cho mục đích thương mại. Bạn có thể mua giấy phép từ[NhómDocs](https://purchase.groupdocs.com/buy).
 
 ### Tôi có thể dùng thử GroupDocs.Merger cho .NET miễn phí không?
 

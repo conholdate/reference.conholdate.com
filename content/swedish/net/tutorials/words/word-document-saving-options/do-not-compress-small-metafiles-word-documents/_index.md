@@ -9,7 +9,7 @@ url: /sv/net/tutorials/words/word-document-saving-options/do-not-compress-small-
 ---
 ## Introduktion
 
-I en värld av dokumentbehandling kan hur du sparar dina filer i hög grad påverka deras kvalitet och funktionalitet. Aspose.Words för .NET kommer packad med funktioner som hjälper dig att spara Word-dokument med precision. En anmärkningsvärd funktion är alternativet "Komprimera inte små metafiler." Denna handledning guidar dig genom att använda den här funktionen för att säkerställa att dina metafiler behåller sin integritet. Låt oss komma igång!
+en värld av dokumentbehandling kan hur du sparar dina filer i hög grad påverka deras kvalitet och funktionalitet. Aspose.Words för .NET kommer packad med funktioner som hjälper dig att spara Word-dokument med precision. En anmärkningsvärd funktion är alternativet "Komprimera inte små metafiler." Denna handledning guidar dig genom att använda den här funktionen för att säkerställa att dina metafiler behåller sin integritet. Låt oss komma igång!
 
 ## Förutsättningar
 
@@ -18,7 +18,7 @@ Innan du dyker in, se till att du har följande föremål redo:
 1.  Aspose.Words för .NET: Ladda ner och installera den senaste versionen från[Aspose släpper](https://releases.aspose.com/words/net/).
 2. Utvecklingsmiljö: Använd Visual Studio eller någon kompatibel IDE.
 3. Grundläggande förståelse för C#: Bekantskap med C# och .NET-ramverket kommer att vara till hjälp.
-4.  Aspose-licens: För att helt låsa upp Aspose.Words, skaffa en[licens](https://purchase.aspose.com/buy)rekommenderas. Alternativt kan du använda en[tillfällig licens](https://purchase.aspose.com/temporary-license/) i utvärderingssyfte.
+4.  Aspose-licens: För att helt låsa upp Aspose.Words, skaffa en[licens](https://purchase.aspose.com/buy) rekommenderas. Alternativt kan du använda en[tillfällig licens](https://purchase.aspose.com/temporary-license/) i utvärderingssyfte.
 
 ## Importera namnområden
 
@@ -53,11 +53,11 @@ DocumentBuilder builder = new DocumentBuilder(doc);
 builder.Writeln("Text added to a document.");
 ```
 
- Här, a`Document` objektet initieras, och`DocumentBuilder` används för att infoga text. De`Writeln` metoden lägger till en textrad till dokumentet.
+ Här, a`Document` objekt initieras, och`DocumentBuilder` används för att infoga text. De`Writeln` metod lägger till en textrad till dokumentet.
 
 ## Steg 3: Konfigurera sparalternativ
 
- Konfigurera nu sparalternativen för att använda funktionen "Komprimera inte små metafiler" med`DocSaveOptions` klass.
+ Konfigurera nu sparalternativen för att använda funktionen "Komprimera inte små metafiler" med`DocSaveOptions`klass.
 
 ```csharp
 // Konfigurera sparalternativ med funktionen "Komprimera inte små metafiler".
@@ -66,14 +66,14 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 };
 ```
 
- Detta steg skapar en instans av`DocSaveOptions`och ställer in`Compliance` egendom till`PdfCompliance.PdfA1a`, se till att dokumentet följer PDF/A-1a-standarden.
+ Detta steg skapar en instans av`DocSaveOptions` och ställer in`Compliance` egendom till`PdfCompliance.PdfA1a`, se till att dokumentet följer PDF/A-1a-standarden.
 
 ## Steg 4: Spara dokumentet
 
 Slutligen, spara dokumentet med hjälp av de konfigurerade alternativen, och se till att små metafiler inte komprimeras.
 
 ```csharp
-// Spara dokumentet med de angivna alternativen
+//Spara dokumentet med de angivna alternativen
 doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 ```
 
@@ -95,7 +95,7 @@ Absolut! Aspose.Words för .NET erbjuder konfigurerbara sparaalternativ för oli
 
 ### Behöver jag en licens för att använda Aspose.Words för .NET?
 
- Även om du kan använda Aspose.Words för .NET utan licens för utvärderingsändamål, krävs en licens för full funktionalitet. Du kan köpa en licens[här](https://purchase.aspose.com/buy) eller prova en[tillfällig licens](https://purchase.aspose.com/temporary-license/) för utvärdering.
+Även om du kan använda Aspose.Words för .NET utan licens för utvärderingsändamål, krävs en licens för full funktionalitet. Du kan köpa en licens[här](https://purchase.aspose.com/buy) eller prova en[tillfällig licens](https://purchase.aspose.com/temporary-license/) för utvärdering.
 
 ### Hur kan jag säkerställa att mina dokument överensstämmer med PDF/A-standarder?
 

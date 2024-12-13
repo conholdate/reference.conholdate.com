@@ -17,7 +17,7 @@ Než začneme převádět soubory, ujistěte se, že máte následující nastav
 
 ### Nainstalujte GroupDocs.Conversion for .NET
 
-GroupDocs.Conversion for .NET si můžete stáhnout z webu[webové stránky](https://releases.groupdocs.com/conversion/net/). Ujistěte se, že jej nainstalujete podle požadavků vašeho projektu.
+ GroupDocs.Conversion for .NET si můžete stáhnout z webu[webové stránky](https://releases.groupdocs.com/conversion/net/). Ujistěte se, že jej nainstalujete podle požadavků vašeho projektu.
 
 ### Zdrojový soubor AI
 
@@ -59,7 +59,7 @@ Dále nastavte všechny konkrétní možnosti, které byste mohli potřebovat pr
 ```csharp
     var options = new PdfConvertOptions();
 ```
- Vytvořením instance`PdfConvertOptions`můžete upravit nastavení, jako je velikost stránky, okraje a další. I když je to volitelné, poskytuje vám flexibilitu pro specifické požadavky.
+ Vytvořením instance`PdfConvertOptions`, můžete upravit nastavení, jako je velikost stránky, okraje a další. I když je to volitelné, poskytuje vám flexibilitu pro specifické požadavky.
 
 ## Krok 3: Proveďte konverzi
 
@@ -83,7 +83,7 @@ Ano, podporuje .NET Framework 2.0 a vyšší, stejně jako .NET Core a .NET Stan
 
 ### Mohu převést více souborů AI do PDF současně?
 
-Absolutně! GroupDocs.Conversion umožňuje dávkovou konverzi, což vám umožní převést více souborů AI v jediné operaci.
+Absolutně! GroupDocs.Conversion umožňuje dávkovou konverzi, což vám umožní převést více souborů AI v jedné operaci.
 
 ### Existují licenční požadavky na komerční projekty?
 

@@ -1,6 +1,6 @@
 ---
-title: Firma digitale di un documento Word
-linktitle: Firma digitale di un documento Word
+title: Firma digitale del documento Word
+linktitle: Firma digitale del documento Word
 second_title: API di elaborazione dei documenti Aspose.Words
 description: Scopri come firmare a livello di programmazione i documenti Word utilizzando Aspose.Words per .NET in questa guida completa e dettagliata.
 type: docs

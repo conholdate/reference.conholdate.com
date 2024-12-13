@@ -17,7 +17,7 @@ url: /el/net/tutorials/note/one-note-document-manipulation/saving-document-to-on
 
 1. Βασικές γνώσεις C# και .NET: Απαιτείται εξοικείωση με τη γλώσσα προγραμματισμού C# και το πλαίσιο .NET.
    
-2. Aspose.Note for .NET Installation: Κατεβάστε και εγκαταστήστε τη βιβλιοθήκη Aspose.Note από το[Aspose website](https://releases.aspose.com/note/net/).
+2.  Aspose.Note for .NET Installation: Κατεβάστε και εγκαταστήστε τη βιβλιοθήκη Aspose.Note από το[Aspose ιστότοπο](https://releases.aspose.com/note/net/).
 
 3. Περιβάλλον ανάπτυξης: Ρυθμίστε ένα κατάλληλο περιβάλλον ανάπτυξης, όπως το Visual Studio.
 

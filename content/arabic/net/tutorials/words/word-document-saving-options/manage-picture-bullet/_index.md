@@ -69,7 +69,7 @@ DocSaveOptions saveOptions = new DocSaveOptions { SavePictureBullet = false };
 أخيرًا، احفظ المستند باستخدام الخيارات المهيئة. سيؤدي هذا إلى إنشاء ملف جديد بدون نقاط الصور.
 
 ```csharp
-// حفظ المستند بالخيارات المحددة
+//حفظ المستند بالخيارات المحددة
 doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 ```
 

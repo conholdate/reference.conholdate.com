@@ -21,7 +21,7 @@ Har du någonsin velat dela dina Excel-data utan att skicka skrymmande filer? At
 
 Nu, vad är coolare än att konvertera hela kalkylblad? Vad sägs om att omvandla Excel-diagram till PDF-filer? Diagram och diagram är bra för att visualisera data, men en fristående PDF kan få dina resultat att lysa i presentationer eller rapporter. Aspose.Cells gör denna process enkel! 
 
- Dyk in i vår handledning om[Konvertera Excel-diagram till PDF med Aspose.Cells för .NET](./convert-excel-charts-to-pdf/), där du hittar all information för att komma igång. Med enkla instruktioner och användbara kodexempel får du lära dig hur du konverterar specifika diagram eller hela ark utan att förlora någon visuell integritet. Den här guiden är perfekt om du vill piffa upp dina datapresentationer samtidigt som du håller dem professionella och snygga.
+ Dyk in i vår handledning om[Konvertera Excel-diagram till PDF med Aspose.Cells för .NET](./convert-excel-charts-to-pdf/), där du hittar all information för att komma igång. Med enkla instruktioner och användbara kodexempel lär du dig hur du konverterar specifika diagram eller hela ark utan att förlora någon visuell integritet. Den här guiden är perfekt om du vill piffa upp dina datapresentationer samtidigt som du håller dem professionella och snygga.
 
 ## Handledning för konvertering till PDF
 ### [Konvertera Excel till PDF med Aspose.Cells i .NET](./convert-excel-to-pdf/)

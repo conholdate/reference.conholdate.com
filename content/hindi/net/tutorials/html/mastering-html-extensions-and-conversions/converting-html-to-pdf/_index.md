@@ -19,7 +19,7 @@ url: /hi/net/tutorials/html/mastering-html-extensions-and-conversions/converting
 सुनिश्चित करें कि आपके प्रोजेक्ट के लिए Visual Studio या कोई पसंदीदा .NET IDE स्थापित और सेट अप है।
 
 ### 2. .NET लाइब्रेरी के लिए Aspose.HTML
-.NET के लिए Aspose.HTML लाइब्रेरी डाउनलोड करें और इंस्टॉल करें। आप इसे निम्न लिंक पर पा सकते हैं:[Aspose.HTML for .NET](https://releases.aspose.com/html/net/).
+ .NET के लिए Aspose.HTML लाइब्रेरी डाउनलोड करें और इंस्टॉल करें। आप इसे निम्न लिंक पर पा सकते हैं:[Aspose.HTML for .NET](https://releases.aspose.com/html/net/).
 
 ### 3. C# और .NET का बुनियादी ज्ञान
 C# और .NET की बुनियादी समझ आपको इस ट्यूटोरियल को प्रभावी ढंग से समझने में मदद करेगी।
@@ -52,7 +52,7 @@ HTMLDocument htmlDocument = new HTMLDocument(dataDir + "input.html");
 ```
 
 ## चरण 3: पीडीएफ सेव विकल्प कॉन्फ़िगर करें
- स्थापित करना`PdfSaveOptions`अपनी PDF रूपांतरण सेटिंग, जैसे कि छवि गुणवत्ता और लेआउट को परिभाषित करने के लिए। उदाहरण के लिए, आप JPEG गुणवत्ता को 100 पर सेट कर सकते हैं:
+ स्थापित करना`PdfSaveOptions` अपनी PDF रूपांतरण सेटिंग, जैसे कि छवि गुणवत्ता और लेआउट को परिभाषित करने के लिए। उदाहरण के लिए, आप JPEG गुणवत्ता को 100 पर सेट कर सकते हैं:
 
 ```csharp
 PdfSaveOptions options = new PdfSaveOptions

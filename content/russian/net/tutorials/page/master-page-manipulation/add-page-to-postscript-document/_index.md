@@ -47,10 +47,10 @@ using System.IO;
 string dataDir = "Your Document Directory"; // Укажите путь к каталогу документов
 using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps"), FileMode.Create))
 {
-    //Настройте параметры сохранения для формата А4
+    // Настройте параметры сохранения для формата А4
     PsSaveOptions options = new PsSaveOptions();
     
-    // Создайте новый документ PostScript с 2 страницами
+    //Создайте новый документ PostScript с 2 страницами
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

@@ -17,7 +17,7 @@ Prima di iniziare questo tutorial, assicurati di avere a disposizione quanto seg
 
 1. Conoscenze di base di C# e .NET: è richiesta familiarità con il linguaggio di programmazione C# e con il framework .NET.
    
-2. Aspose.Note per l'installazione di .NET: scaricare e installare la libreria Aspose.Note da[Sito web di Aspose](https://releases.aspose.com/note/net/).
+2.  Aspose.Note per l'installazione di .NET: scaricare e installare la libreria Aspose.Note da[Sito web di Aspose](https://releases.aspose.com/note/net/).
 
 3. Ambiente di sviluppo: configurare un ambiente di sviluppo adatto, come Visual Studio.
 
@@ -34,7 +34,7 @@ using System.Text;
 
 ## Passaggio 2: definire i percorsi di input e output
 
-Stabilisci i percorsi per i file di input e output. Assicurati di sostituire i segnaposto con i percorsi effettivi dei file.
+Stabilisci i percorsi per i file di input e output. Assicurati di sostituire i segnaposto con i percorsi effettivi dei tuoi file.
 
 ```csharp
 string inputFilePath = "Sample1.one"; // Inserisci file OneNote

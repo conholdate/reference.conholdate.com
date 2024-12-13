@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // WGS 84 स्थानिक संदर्भ प्रणाली के साथ एक नई परत बनाएं
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //विशेषता स्कीमा जोड़ें
+        // विशेषता स्कीमा जोड़ें
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // कोई सुविधा बनाएं और जोड़ें

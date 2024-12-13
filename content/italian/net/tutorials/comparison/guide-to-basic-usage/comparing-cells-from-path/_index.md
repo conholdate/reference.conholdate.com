@@ -85,7 +85,7 @@ Sì, la libreria supporta il confronto di vari formati di documenti, tra cui fog
 
 ### Come posso ottenere supporto per GroupDocs.Comparison per .NET?
 
- Per supporto, visita la community GroupDocs.Comparison[foro](https://forum.groupdocs.com/c/comparison/12).
+Per supporto, visita la community GroupDocs.Comparison[foro](https://forum.groupdocs.com/c/comparison/12).
 
 ### Dove posso acquistare una licenza per GroupDocs.Comparison per .NET?
 

@@ -9,7 +9,7 @@ url: /vi/net/tutorials/words/section-management/
 ---
 ## Giới thiệu
 
-Khi nói đến việc định dạng tài liệu Word, các phần đóng vai trò như xương sống. Chúng cho phép bạn tạo các phần riêng biệt trong một tài liệu, mang lại cho bạn sự linh hoạt để áp dụng các định dạng khác nhau như tiêu đề, chân trang và bố cục trang. Hãy nghĩ về các phần như các chương trong một cuốn sách—mỗi phần có thể đứng riêng trong khi đóng góp vào câu chuyện lớn hơn. Trong loạt bài hướng dẫn này, chúng ta sẽ đi sâu vào những điều cần thiết để quản lý các phần bằng Aspose.Words cho .NET, đảm bảo tài liệu của bạn không chỉ có chức năng mà còn hấp dẫn về mặt hình ảnh.
+Khi nói đến việc định dạng tài liệu Word, các phần đóng vai trò như xương sống. Chúng cho phép bạn tạo các phần riêng biệt trong một tài liệu, mang lại cho bạn sự linh hoạt để áp dụng các định dạng khác nhau như tiêu đề, chân trang và bố cục trang. Hãy nghĩ về các phần như các chương trong một cuốn sách—mỗi phân đoạn có thể đứng riêng trong khi đóng góp vào câu chuyện lớn hơn. Trong loạt bài hướng dẫn này, chúng ta sẽ đi sâu vào những điều cần thiết để quản lý các phần bằng Aspose.Words cho .NET, đảm bảo tài liệu của bạn không chỉ có chức năng mà còn hấp dẫn về mặt hình ảnh.
 
 ## Thêm và xóa phần
 

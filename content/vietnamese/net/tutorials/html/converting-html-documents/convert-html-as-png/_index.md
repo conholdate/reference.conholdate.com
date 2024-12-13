@@ -17,7 +17,7 @@ Trước khi tìm hiểu mã, hãy đảm bảo rằng bạn đã thiết lập 
 
 1.  .NET Framework/ .NET Core: Đảm bảo bạn đã cài đặt .NET Framework hoặc .NET Core trên máy của mình. Bạn có thể tải xuống[.NET ở đây](https://dotnet.microsoft.com/download).
 
-2.  Aspose.HTML cho Thư viện .NET: Bạn sẽ cần phải có thư viện Aspose.HTML. Bạn có thể tải xuống[đây](https://releases.aspose.com/html/net/)hoặc dùng thử miễn phí với[dùng thử miễn phí](https://releases.aspose.com/).
+2.  Aspose.HTML cho Thư viện .NET: Bạn sẽ cần phải có thư viện Aspose.HTML. Bạn có thể tải xuống[đây](https://releases.aspose.com/html/net/) hoặc dùng thử miễn phí với[dùng thử miễn phí](https://releases.aspose.com/).
 
 3. IDE: Nên sử dụng môi trường phát triển tích hợp (IDE) phù hợp như Visual Studio để viết và chạy mã của bạn.
 
@@ -53,7 +53,7 @@ Bây giờ chúng ta đã thiết lập xong bối cảnh, hãy chia nhỏ quá 
 string dataDir = "Your Data Directory"; // Chỉ định đường dẫn thư mục của bạn
 ```
 
--  Thay thế`"Your Data Directory"` với đường dẫn nơi bạn muốn lưu trữ các tệp PNG đầu ra của mình. Điều này có thể giống như`@"C:\work\"`.
+-  Thay thế`"Your Data Directory"`với đường dẫn nơi bạn muốn lưu trữ các tệp PNG đầu ra của mình. Điều này có thể giống như`@"C:\work\"`.
 
 ## Bước 2: Tạo một đối tượng tài liệu HTML
 
@@ -79,11 +79,11 @@ using (HtmlRenderer renderer = new HtmlRenderer())
 }
 ```
 
--  Các`HtmlRenderer`là đối tượng bạn cần để chuyển đổi nội dung HTML thành hình ảnh. Nó xử lý quá trình kết xuất ẩn, vì vậy bạn có thể tập trung vào những gì bạn cần!
+-  Các`HtmlRenderer` là đối tượng bạn cần để chuyển đổi nội dung HTML thành hình ảnh. Nó xử lý quá trình kết xuất ẩn, vì vậy bạn có thể tập trung vào những gì bạn cần!
 
 ## Bước 4: Thiết lập thiết bị hình ảnh
 
- Bây giờ là lúc chuẩn bị`ImageDevice`. Đây là mục tiêu cho quá trình kết xuất của chúng tôi, nơi hình ảnh PNG cuối cùng sẽ được tạo ra.
+ Bây giờ là lúc chuẩn bị`ImageDevice`Đây là mục tiêu cho quá trình kết xuất của chúng tôi, nơi hình ảnh PNG cuối cùng sẽ được tạo ra.
 
 ```csharp
 using (ImageDevice device = new ImageDevice(dataDir + @"document_out.png"))

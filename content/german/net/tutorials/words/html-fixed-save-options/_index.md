@@ -13,7 +13,7 @@ Aspose.Words für .NET ist eine leistungsstarke Bibliothek, die die Handhabung v
 
 ## Warum feste HTML-Speicheroptionen verwenden?
 
- Stellen Sie sich vor, Sie erstellen ein schönes Word-Dokument, komplett mit schicken Schriftarten und komplizierter Formatierung. Stellen Sie sich nun vor, dieses Dokument wird auf einem anderen Computer angezeigt, auf dem diese Schriftarten nicht installiert sind. Huch! Hier kommen HTML Fixed Save Options ins Spiel. Mit diesen Optionen können Sie sicherstellen, dass Ihre Dokumente auf jedem Gerät genauso gut aussehen. Aspose.Words ermöglicht es Ihnen, Schriftarten des Zielcomputers in Ihre Ausgabe einzuschließen und sicherzustellen, dass alles genau so aussieht, wie Sie es beabsichtigt haben. Weitere Einzelheiten finden Sie in diesem Handbuch unter[Zielmaschinenschriftarten mit Aspose.Words für .NET](./target-machine-font/).
+ Stellen Sie sich vor, Sie erstellen ein schönes Word-Dokument, komplett mit schicken Schriftarten und komplizierter Formatierung. Stellen Sie sich nun vor, dieses Dokument wird auf einem anderen Computer angezeigt, auf dem diese Schriftarten nicht installiert sind. Huch! Hier kommen HTML Fixed Save Options ins Spiel. Mit diesen Optionen können Sie sicherstellen, dass Ihre Dokumente auf jedem Gerät genauso gut aussehen. Aspose.Words ermöglicht es Ihnen, Schriftarten für Zielcomputer in Ihre Ausgabe einzuschließen und sicherzustellen, dass alles genau so aussieht, wie Sie es beabsichtigt haben. Weitere Einzelheiten finden Sie in diesem Handbuch unter[Zielmaschinenschriftarten mit Aspose.Words für .NET](./target-machine-font/).
 
 ## Optimieren Sie Ihr CSS mit Aspose.Words
 

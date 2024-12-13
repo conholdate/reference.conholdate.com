@@ -9,7 +9,7 @@ url: /hu/net/tutorials/metadata/load-metadata/handling-metadata-local-disk/
 ---
 ## Bevezetés
 
-A .NET-fejlesztés világában a fájlok metaadatainak hatékony kezelése jelentősen javíthatja alkalmazásai funkcionalitását. A GroupDocs.Metadata for .NET hatékony megközelítést biztosít a fájlok metaadatok olvasásához, szerkesztéséhez és eltávolításához. Ez az oktatóanyag végigvezeti Önt, hogyan töltheti be a metaadatokat a helyi rendszeren lévő fájlokból ezzel a könyvtárral, és felvértezi azokat az eszközöket, amelyekkel könnyedén kezelheti a metaadatokat.
+.NET-fejlesztés világában a fájlok metaadatainak hatékony kezelése jelentősen javíthatja alkalmazásai funkcionalitását. A GroupDocs.Metadata for .NET hatékony megközelítést biztosít a fájlok metaadatok olvasásához, szerkesztéséhez és eltávolításához. Ez az oktatóanyag végigvezeti Önt, hogyan töltheti be a metaadatokat a helyi rendszeren lévő fájlokból ezzel a könyvtárral, és felvértezi azokat az eszközöket, amelyekkel könnyedén kezelheti a metaadatokat.
 
 ## Előfeltételek
 
@@ -33,7 +33,7 @@ using System;
 
 ## 3. lépés: Töltse be a metaadatokat egy fájlból
 
-A metaadatok helyi lemezen lévő fájlból való betöltéséhez használja a következő kódrészletet:
+metaadatok helyi lemezen lévő fájlból való betöltéséhez használja a következő kódrészletet:
 
 ```csharp
 using (Metadata metadata = new Metadata("Your Input File Path"))
@@ -90,7 +90,7 @@ Ebben az oktatóanyagban megvizsgáltuk, hogyan használhatjuk hatékonyan a Gro
  A részletes dokumentáció a címen érhető el[GroupDocs.Metadata a .NET-dokumentációhoz](https://reference.groupdocs.com/metadata/net/).
 
 ### A GroupDocs.Metadata támogatja az ingyenes próbaverziót?
-Igen, letöltheti a GroupDocs.Metadata ingyenes próbaverzióját[itt](https://releases.groupdocs.com/).
+ Igen, letöltheti a GroupDocs.Metadata ingyenes próbaverzióját[itt](https://releases.groupdocs.com/).
 
 ### Hol kaphatok támogatást a GroupDocs.Metadata-hoz?
  Támogatásért keresse fel a[GroupDocs.Metadata fórum](https://forum.groupdocs.com/c/metadata/14) közösségi segítségért és megbeszélésekért.

@@ -9,7 +9,7 @@ url: /hu/net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-
 ---
 ## Bevezetés
 
-.NET-fejlesztés gyors ütemű területén az Aspose.PSD felbecsülhetetlen értékű könyvtárként jelenik meg a precíz és hatékony képkezeléshez. Ha szeretné megtanulni, hogyan menthet képeket adatfolyamba az Aspose.PSD for .NET használatával, ez az útmutató lépésről lépésre könnyen követhető utasításokat tartalmaz.
+A .NET-fejlesztés gyors ütemű területén az Aspose.PSD felbecsülhetetlen értékű könyvtárként jelenik meg a precíz és hatékony képkezeléshez. Ha szeretné megtanulni, hogyan menthet képeket adatfolyamba az Aspose.PSD for .NET használatával, ez az útmutató lépésről lépésre könnyen követhető utasításokat tartalmaz.
 
 ## Előfeltételek
 
@@ -47,7 +47,7 @@ Határozza meg a forrás PSD-fájl helyét és azt, hogy hova szeretné menteni 
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // A forrás PSD-fájl elérési útja
-string destName = dataDir + "result.png";   // A kimeneti képfájl elérési útja
+string destName = dataDir + "result.png";   // kimeneti képfájl elérési útja
 ```
 
 ## 3. lépés: Töltse be a PSD-képet, és kezelje a nem található betűtípusokat
@@ -89,7 +89,7 @@ Gratulálok! Sikeresen megtanulta, hogyan menthet képeket adatfolyamba az Aspos
 ## GYIK
 
 ### Használhatom az Aspose.PSD-t bármilyen típusú képfájlhoz?
- Igen! Az Aspose.PSD különféle képformátumokat támogat, beleértve a PSD-t, PNG-t, JPEG-et stb. A részletes listát a dokumentációban találja[itt](https://reference.aspose.com/psd/net/).
+Igen! Az Aspose.PSD különféle képformátumokat támogat, beleértve a PSD-t, PNG-t, JPEG-et stb. A részletes listát a dokumentációban találja[itt](https://reference.aspose.com/psd/net/).
 
 ### Hogyan kaphatok támogatást az Aspose.PSD-hez?
  Segítségért és közösségi támogatásért keresse fel az Aspose.PSD támogatási fórumot[itt](https://forum.aspose.com/c/psd/34).

@@ -90,7 +90,7 @@ Trong hướng dẫn này, chúng tôi đã khám phá cách sử dụng GroupDo
  Tài liệu chi tiết có sẵn tại[GroupDocs.Metadata cho Tài liệu .NET](https://reference.groupdocs.com/metadata/net/).
 
 ### GroupDocs.Metadata có hỗ trợ dùng thử miễn phí không?
-Có, bạn có thể tải xuống bản dùng thử miễn phí của GroupDocs.Metadata[đây](https://releases.groupdocs.com/).
+ Có, bạn có thể tải xuống bản dùng thử miễn phí của GroupDocs.Metadata[đây](https://releases.groupdocs.com/).
 
 ### Tôi có thể nhận hỗ trợ cho GroupDocs.Metadata ở đâu?
  Để được hỗ trợ, hãy truy cập[Diễn đàn GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) để cộng đồng giúp đỡ và thảo luận.

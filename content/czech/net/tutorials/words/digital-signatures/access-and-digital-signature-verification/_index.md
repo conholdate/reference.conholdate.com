@@ -16,7 +16,7 @@ Ahoj, tech nadšenci! Stalo se vám někdy, že jste potřebovali ověřit digit
 Než začneme, ujistěte se, že máte připraveno následující:
 
 1. Visual Studio: Ujistěte se, že je na vašem počítači nainstalováno kvůli kódování.
-2.  Aspose.Words for .NET: Stáhněte a nainstalujte jej z[zde](https://releases.aspose.com/words/net/) Pokud jste tak ještě neučinili, vyzkoušejte si bezplatnou zkušební verzi[zde](https://releases.aspose.com/).
+2.  Aspose.Words for .NET: Stáhněte a nainstalujte jej z[zde](https://releases.aspose.com/words/net/) . Pokud jste tak ještě neučinili, vyzkoušejte si bezplatnou zkušební verzi[zde](https://releases.aspose.com/).
 3. Digitálně podepsaný dokument Word: Mějte po ruce dokument Word s digitálním podpisem pro ověření.
 
 ## Import jmenných prostorů
@@ -142,7 +142,7 @@ Ano, podporuje všechny verze dokumentů Microsoft Word, včetně DOC, DOCX, RTF
 
 ### Jak získám dočasnou licenci pro Aspose.Words for .NET?
 
-Dočasnou licenci můžete získat od[zde](https://purchase.aspose.com/temporary-license/), což vám umožní prozkoumat všechny funkce knihovny bez omezení.
+ Dočasnou licenci můžete získat od[zde](https://purchase.aspose.com/temporary-license/), což vám umožní prozkoumat všechny funkce knihovny bez omezení.
 
 ### Kde najdu další dokumentaci k Aspose.Words pro .NET?
 

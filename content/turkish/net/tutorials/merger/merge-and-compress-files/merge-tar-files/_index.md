@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Yeni bir tane yaratıyorsun`Merger` İlk TAR dosyanızın yolunu içeren örnek.
 -  The`Join` Bu yöntem birleştirmeye başka bir TAR dosyası eklemenize olanak tanır (bu adım isteğe bağlıdır).
--  Son olarak, arayın`Save`birleştirme işlemini tamamlamak ve çıktı dosyasını belirtilen dizine yazmak için.
+-  Son olarak, arayın`Save` birleştirme işlemini tamamlamak ve çıktı dosyasını belirtilen dizine yazmak için.
 
 ## Adım 3: Tamamlanma Mesajını Göster
 

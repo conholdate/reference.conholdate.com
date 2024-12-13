@@ -9,7 +9,7 @@ url: /de/net/tutorials/merger/merge-and-compress-files/merge-tar-files/
 ---
 ## Einführung
 
-Bei der Softwareentwicklung ist eine effiziente Datenmanipulation von entscheidender Bedeutung. Eine häufige Anforderung ist das programmgesteuerte Zusammenführen von Dateien. Hier glänzt GroupDocs.Merger für .NET, denn es ermöglicht Entwicklern das nahtlose Zusammenführen von TAR-Dateien (Tape Archive) in ihren .NET-Anwendungen. Dieses Tutorial bietet eine umfassende Anleitung mit Schritt-für-Schritt-Anleitungen und Codebeispielen, um Ihnen den Einstieg zu erleichtern.
+Bei der Softwareentwicklung ist eine effiziente Datenmanipulation von entscheidender Bedeutung. Eine häufige Anforderung ist das programmgesteuerte Zusammenführen von Dateien. Hier glänzt GroupDocs.Merger für .NET, das Entwicklern das nahtlose Zusammenführen von TAR-Dateien (Tape Archive) in ihren .NET-Anwendungen ermöglicht. Dieses Tutorial bietet eine umfassende Anleitung mit Schritt-für-Schritt-Anleitungen und Codebeispielen, um Ihnen den Einstieg zu erleichtern.
 
 ## Voraussetzungen
 
@@ -57,7 +57,7 @@ using (var merger = new Merger(Constants.SAMPLE_TAR))
 
 -  Sie erstellen ein neues`Merger` Instanz durch den Pfad zu Ihrer ersten TAR-Datei.
 -  Der`Join` Mit dieser Methode können Sie der Zusammenführung eine weitere TAR-Datei hinzufügen (dieser Schritt ist optional).
--  Rufen Sie schließlich an`Save`um den Zusammenführungsprozess abzuschließen und die Ausgabedatei in das angegebene Verzeichnis zu schreiben.
+-  Rufen Sie schließlich an`Save` um den Zusammenführungsprozess abzuschließen und die Ausgabedatei in das angegebene Verzeichnis zu schreiben.
 
 ## Schritt 3: Abschlussmeldung anzeigen
 

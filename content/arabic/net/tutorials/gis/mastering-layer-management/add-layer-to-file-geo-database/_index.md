@@ -75,7 +75,7 @@ using (var dataset = Dataset.Open(newDatasetPath, Drivers.FileGdb))
     // إنشاء طبقة جديدة باستخدام نظام المرجع المكاني WGS 84
     using (var layer = dataset.CreateLayer("NewLayer", SpatialReferenceSystem.Wgs84))
     {
-        //إضافة مخطط سمة
+        // إضافة مخطط سمة
         layer.Attributes.Add(new FeatureAttribute("LocationName", AttributeDataType.String));
 
         // إنشاء ميزة وإضافتها

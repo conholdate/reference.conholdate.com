@@ -13,13 +13,13 @@ Als het aankomt op het vergelijken van documenten, met name Excel-bestanden, kan
 
 ## Cellen vergelijken vanuit pad
 
- In de eerste tutorial,[Cellen vergelijken van pad - GroupDocs.Comparison voor .NET](./comparing-cells-from-path/)leert u de fijne kneepjes van het vergelijken van celinhoud. Stel u voor dat u twee versies van een rapport hebt en dat u precies moet vaststellen wat er is gewijzigd. Deze tutorial begeleidt u bij het importeren van de benodigde naamruimten en het instellen van uw project. U begint met het initialiseren van vergelijkingsvariabelen, wat misschien ingewikkeld klinkt, maar het is eenvoudiger dan het lijkt!
+ In de eerste tutorial,[Cellen vergelijken van pad - GroupDocs.Comparison voor .NET](./comparing-cells-from-path/), leert u de fijne kneepjes van het vergelijken van celinhoud. Stel u voor dat u twee versies van een rapport hebt en dat u precies moet vaststellen wat er is gewijzigd. Deze tutorial begeleidt u bij het importeren van de benodigde naamruimten en het instellen van uw project. U begint met het initialiseren van vergelijkingsvariabelen, wat misschien ingewikkeld klinkt, maar het is eenvoudiger dan het lijkt!
 
 Waarom is dit belangrijk? Nou, als u snel veranderingen kunt zien, bespaart u dat uren handmatig controleren. Denk er bijvoorbeeld aan als het zoeken naar een speld in een hooiberg; GroupDocs fungeert als uw magneet en haalt de verschillen eruit, zodat u zich kunt richten op wat er echt toe doet.
 
 ### Cellen uit een stream vergelijken
 
- Vervolgens hebben we de tutorial over[Cellen uit een stream vergelijken - GroupDocs.Comparison voor .NET](./comparing-cells-from-stream/)Deze resource duikt in een dynamischere manier om vergelijkingen te verwerken door middel van streams. Waarom zou je dit willen doen? Soms worden je documenten mogelijk niet rechtstreeks op schijf opgeslagen, vooral als ze on-the-fly door je applicatie worden gegenereerd. Deze tutorial leidt je stap voor stap door het proces van het importeren van benodigde naamruimten en het initialiseren van variabelen, waardoor het voor iedereen toegankelijk wordt, ongeacht het vaardigheidsniveau.
+ Vervolgens hebben we de tutorial over[Cellen uit een stream vergelijken - GroupDocs.Comparison voor .NET](./comparing-cells-from-stream/). Deze resource duikt in een dynamischere manier om vergelijkingen te verwerken door middel van streams. Waarom zou je dit willen doen? Soms worden je documenten mogelijk niet rechtstreeks op schijf opgeslagen, vooral als ze on-the-fly door je applicatie worden gegenereerd. Deze tutorial leidt je stap voor stap door het proces van het importeren van benodigde naamruimten en het initialiseren van variabelen, waardoor het voor iedereen toegankelijk wordt, ongeacht het vaardigheidsniveau.
 
 Wat dit onderscheidt, is hoe het naadloos integreert in applicaties waar prestaties en snelheid cruciaal zijn. Stel je voor dat je een marathon loopt; met behulp van streams krijg je die extra boost aan wendbaarheid, waardoor je applicatie sneller kan reageren tijdens het uitvoeren van vergelijkingen.
 

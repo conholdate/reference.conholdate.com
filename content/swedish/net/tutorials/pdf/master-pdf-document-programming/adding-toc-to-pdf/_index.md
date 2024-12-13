@@ -1,7 +1,7 @@
 ---
 title: Lägga till en innehållsförteckning till ett PDF-dokument
 linktitle: Lägga till en innehållsförteckning till ett PDF-dokument
-second_title: Aspose.PDF för .NET API Referens
+second_title: Aspose.PDF för .NET API-referens
 description: Denna handledning visar hur man lägger till en innehållsförteckning (TOC) till ett PDF-dokument med Aspose.Pdf för .NET.
 type: docs
 weight: 40
@@ -119,7 +119,7 @@ Ja, du kan helt anpassa innehållsförteckningens utseende, inklusive teckensnit
 
 ### Hur lägger jag till underrubriker i innehållsförteckningen?
 
- Du kan lägga till underrubriker genom att justera`Heading` nivå (t.ex.`Heading(2)`).
+Du kan lägga till underrubriker genom att justera`Heading` nivå (t.ex.`Heading(2)`).
 
 ### Är det möjligt att uppdatera innehållsförteckningen automatiskt om dokumentet ändras?
 

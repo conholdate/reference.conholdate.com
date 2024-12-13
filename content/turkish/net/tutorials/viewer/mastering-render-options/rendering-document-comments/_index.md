@@ -63,7 +63,7 @@ options.RenderComments = true; // Yorumların işlenmesini etkinleştir
 ```
 
 ## Adım 5: Belgeyi Yorumlarla Birlikte Oluşturun
- Ara`View` yöntem üzerinde`Viewer` Yapılandırılmış seçeneklere sahip nesne.
+ Ara`View`yöntem üzerinde`Viewer` Yapılandırılmış seçeneklere sahip nesne.
 
 ```csharp
 viewer.View(options);

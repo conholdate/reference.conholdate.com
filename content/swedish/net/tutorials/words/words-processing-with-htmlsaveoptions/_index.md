@@ -1,6 +1,6 @@
 ---
-title: Ordbehandling med Htmlsave-alternativ
-linktitle: Ordbehandling med Htmlsave-alternativ
+title: Ordbehandling med Htmlsaveoptions
+linktitle: Ordbehandling med Htmlsaveoptions
 second_title: Aspose.Words Document Processing API
 description: Lås upp kraften i Aspose.Words för .NET med våra steg-för-steg-tutorials, som täcker HTML- och metafilkonvertering för att förbättra din dokumentbehandling.
 type: docs

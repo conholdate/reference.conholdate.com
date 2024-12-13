@@ -14,7 +14,7 @@ url: /zh/net/tutorials/metadata/pdf-metadata-management/reading-built-in-propert
 在开始之前，请确保您已准备好以下物品：
 
 - Visual Studio：确保它已安装在您的系统上。
-- GroupDocs.Metadata for .NET：从[官方网站](https://releases.groupdocs.com/metadata/net/).
+-  GroupDocs.Metadata for .NET：从[官方网站](https://releases.groupdocs.com/metadata/net/).
 - C# 基础知识：建议熟悉 C# 和 .NET 框架。
 
 ## 导入命名空间

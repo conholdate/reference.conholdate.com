@@ -13,7 +13,7 @@ url: /ar/net/tutorials/drawing/transformations/guide-to-local-transformation/
 
 ## المتطلبات الأساسية
 
-1. Aspose.Drawing لـ .NET: قم بتنزيله وتثبيته من[هنا](https://releases.aspose.com/drawing/net/).
+1.  Aspose.Drawing لـ .NET: قم بتنزيله وتثبيته من[هنا](https://releases.aspose.com/drawing/net/).
 2. دليل المستندات: اختر دليلاً لحفظ صورك.
 3. المعرفة الأساسية بـ .NET: الإلمام بلغة C# ومفاهيم البرمجة الرسومية.
 

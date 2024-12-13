@@ -16,7 +16,7 @@ Ebben az oktatóanyagban megvizsgáljuk, hogyan lehet DOC-fájlokat egyesíteni 
 Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik az alábbiakkal:
 
 1. Visual Studio: Telepítse a Visual Studio-t a fejlesztőgépére.
-2.  GroupDocs.Merger for .NET: Töltse le a könyvtárat a[weboldal](https://releases.groupdocs.com/merger/net/).
+2. GroupDocs.Merger for .NET: Töltse le a könyvtárat a[weboldal](https://releases.groupdocs.com/merger/net/).
 3. Alapszintű C# ismerete: A C# programozási nyelv ismerete ajánlott.
 
 ## Importálja a szükséges névtereket
@@ -37,7 +37,7 @@ string outputFolder = "Your_Output_Directory"; // Helyettesítsd az utaddal
 string outputFile = Path.Combine(outputFolder, "merged.doc");
 ```
 
- Ügyeljen arra, hogy cserélje ki`"Your_Output_Directory"` azzal a tényleges elérési úttal, ahová az egyesített dokumentumot menteni szeretné.
+ Mindenképpen cserélje ki`"Your_Output_Directory"` azzal a tényleges elérési úttal, ahová az egyesített dokumentumot menteni szeretné.
 
 ## 2. lépés: Töltse be és egyesítse a forrás DOC fájlokat
 
@@ -46,7 +46,7 @@ Használja a következő kódrészletet az egyesíteni kívánt forrás DOC-fáj
 ```csharp
 using (var merger = new Merger("path_to_first_doc.doc"))
 {
-    //Adjon hozzá egy másik DOC-fájlt az egyesítéshez
+    // Adjon hozzá egy másik DOC-fájlt az egyesítéshez
     merger.Join("path_to_second_doc.doc");
 
     // Egyesítse a DOC fájlokat, és mentse az eredményt
@@ -75,7 +75,7 @@ Természetesen kompatibilis a .NET Core és a .NET Framework rendszerrel.
 
 ### Kell-e engedély kereskedelmi használatra?
 
-Igen, a kereskedelmi használatra érvényes engedély szükséges. Engedélyt vásárolhat innen[GroupDocs](https://purchase.groupdocs.com/buy).
+ Igen, a kereskedelmi használatra érvényes engedély szükséges. Engedélyt vásárolhat innen[GroupDocs](https://purchase.groupdocs.com/buy).
 
 ### Kipróbálhatom ingyenesen a GroupDocs.Merger for .NET alkalmazást?
 

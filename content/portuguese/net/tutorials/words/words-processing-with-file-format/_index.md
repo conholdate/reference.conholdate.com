@@ -13,11 +13,11 @@ Você está mergulhando no mundo do processamento de documentos em seus aplicati
 
 ## Detecção de formato de arquivo de documento
 
- Primeiro, entender formatos de arquivo é crucial. Você já abriu um documento apenas para descobrir que ele não estava no formato que você esperava? Com[Detecção de formato de arquivo de documento](./document-file-format-detection/)você aprenderá a identificar e gerenciar vários formatos de documentos perfeitamente. Nosso guia detalhado fornece exemplos práticos, garantindo que você possa implementar facilmente essas técnicas em seus projetos. Reconhecer formatos de arquivo pode evitar dores de cabeça mais tarde ao lidar com diferentes tipos de documentos. 
+ Primeiro, entender formatos de arquivo é crucial. Você já abriu um documento apenas para descobrir que ele não estava no formato que você esperava? Com[Detecção de formato de arquivo de documento](./document-file-format-detection/), você aprenderá a identificar e gerenciar vários formatos de documentos perfeitamente. Nosso guia detalhado fornece exemplos práticos, garantindo que você possa implementar facilmente essas técnicas em seus projetos. Reconhecer formatos de arquivo pode evitar dores de cabeça mais tarde ao lidar com diferentes tipos de documentos. 
 
 ## Detectando assinaturas digitais em documentos do Word
 
- Assinaturas digitais são como o aperto de mão secreto do mundo dos documentos digitais. Quer garantir que seus documentos do Word sejam seguros e autênticos? Confira nosso tutorial sobre[Detectando assinaturas digitais em documentos do Word](./detecting-digital-signatures/). Este guia abrangente o orienta por todo o processo, desde a configuração do projeto até a verificação real das assinaturas. Em um mundo onde a integridade dos documentos é primordial, saber como lidar com assinaturas digitais pode diferenciá-lo como um desenvolvedor que se importa com a segurança.
+Assinaturas digitais são como o aperto de mão secreto do mundo dos documentos digitais. Quer garantir que seus documentos do Word sejam seguros e autênticos? Confira nosso tutorial sobre[Detectando assinaturas digitais em documentos do Word](./detecting-digital-signatures/). Este guia abrangente o orienta por todo o processo, desde a configuração do projeto até a verificação real das assinaturas. Em um mundo onde a integridade dos documentos é primordial, saber como lidar com assinaturas digitais pode diferenciá-lo como um desenvolvedor que se importa com a segurança.
 
 ## Verificar criptografia de documento do Word
 
