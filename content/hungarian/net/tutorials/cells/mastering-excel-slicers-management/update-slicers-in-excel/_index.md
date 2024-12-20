@@ -98,7 +98,7 @@ slicer.Refresh();
 
 Ez biztosítja, hogy a szeletelő tükrözze a frissített kijelölést.
 
-## 7. lépés: Mentse el a frissített munkafüzetet
+## 7. lépés: A frissített munkafüzet mentése
 
 Mentse el a módosított munkafüzetet a kimeneti könyvtárba:
 

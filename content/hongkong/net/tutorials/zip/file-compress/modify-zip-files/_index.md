@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/zip/file-compress/modify-zip-files/
 ---
 ## 介紹
 
-Zip 檔案對於資料組織和壓縮至關重要，但如何以程式設計方式修改其內容？解決方案在於 Aspose.Zip for .NET，這是一個強大的函式庫，可以簡化使用 C# 進行 zip 檔案操作。在本教程中，我們將指導您逐步提取、刪除和新增 zip 檔案中的條目。
+Zip 檔案對於資料組織和壓縮至關重要，但如何以程式設計方式修改其內容？解決方案在於 Aspose.Zip for .NET，這是一個強大的程式庫，可以簡化使用 C# 進行 zip 檔案操作。在本教程中，我們將指導您逐步提取、刪除和新增 zip 檔案中的條目。
 
 ## 先決條件
 

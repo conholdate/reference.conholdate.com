@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/cells/mastering-workbook-vba-project/check-and-secur
 ---
 ## 介紹
 
-使用 Excel 檔案時，保護電子表格中的 VBA 專案至關重要，尤其是在需要嚴格存取控制的環境中。透過Aspose.Cells for .NET，開發人員可以輕鬆檢查VBA專案的保護狀態，甚至以程式設計方式套用密碼保護。在本指南中，我們將詳細介紹檢查和保護 VBA 專案的步驟，確保您的文件保持安全和受控。
+使用 Excel 檔案時，保護電子表格中的 VBA 專案至關重要，尤其是在需要嚴格存取控制的環境中。透過 Aspose.Cells for .NET，開發人員可以輕鬆檢查 VBA 專案的保護狀態，甚至以程式設計方式套用密碼保護。在本指南中，我們將詳細介紹檢查和保護 VBA 專案的步驟，確保您的文件保持安全和受控。
 
 ## 保護 VBA 專案的先決條件
 

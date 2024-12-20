@@ -75,7 +75,7 @@ Absoluut! Bradley Thresholding is veelzijdig en kan op de meeste afbeeldingstype
 
 ### Is er een proefversie beschikbaar?
 
- Ja! U kunt Aspose.PSD voor .NET uitproberen met een gratis proefperiode[hier](https://releases.aspose.com/).
+Ja! U kunt Aspose.PSD voor .NET uitproberen met een gratis proefperiode[hier](https://releases.aspose.com/).
 
 ### Hoe kan ik ondersteuning krijgen voor Aspose.PSD?
 

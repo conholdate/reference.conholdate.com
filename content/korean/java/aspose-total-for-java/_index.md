@@ -85,7 +85,7 @@ Aspose.Slides for Java는 Java 애플리케이션이 Microsoft PowerPoint® 없�
 
 {{% alert color="primary" %}}
 
-![Aspose.BarCode for Java](home_6.png)
+![Java용 Aspose.BarCode](home_6.png)
 
 **Welcome to Aspose.BarCode for Java**
 

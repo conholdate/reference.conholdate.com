@@ -17,7 +17,7 @@ url: /zh-hant/net/tutorials/viewer/advanced-document-loading/
 
 安裝後，下一步是渲染您的第一個文件。想像一下：您有一個 Word 文檔，只需幾行程式碼，它就可以顯示在您的應用程式中。很酷，對吧？此檢視器支援多種格式，包括 PDF、DOCX 和 PPTX。您可以使用特定編碼自訂查看體驗，這在處理不同語言的文件時至關重要。此功能可確保您的文字完美顯示，並保持所有格式。
 
-想更深入了解技術方面嗎？查看我們的詳細說明[使用特定編碼檢視文件的綜合指南](./document-viewing-with-specific-encoding/).
+想更深入了解技術面嗎？查看我們的詳細說明[使用特定編碼檢視文件的綜合指南](./document-viewing-with-specific-encoding/).
 
 ## 載入受密碼保護的文檔
 

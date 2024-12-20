@@ -88,4 +88,4 @@ Aspose.Zip for .NET は大きなファイルの処理に最適化されており
 コミュニティ主導のサポートフォーラムをご覧ください[ここ](https://forum.aspose.com/c/zip/37)サポートや他の開発者とのつながりのため。
 
 ### 購入前に Aspose.Zip for .NET を無料で試すことはできますか?
-もちろんです！無料トライアル版にアクセスしてください[ここ](https://releases.aspose.com/zip/net)ライブラリの機能を調べます。
+もちろんです！無料試用版にアクセスしてください[ここ](https://releases.aspose.com/zip/net)ライブラリの機能を調べます。

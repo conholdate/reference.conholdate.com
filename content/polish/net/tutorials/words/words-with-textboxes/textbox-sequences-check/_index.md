@@ -15,7 +15,7 @@ Cześć, koledzy programiści i miłośnicy dokumentów! 🌟 Czy kiedykolwiek s
 
 Zanim zagłębimy się w kod, upewnij się, że masz następujące elementy:
 
-1.  Aspose.Words dla biblioteki .NET: Pobierz najnowszą wersję[Tutaj](https://releases.aspose.com/words/net/).
+1. Aspose.Words dla biblioteki .NET: Pobierz najnowszą wersję[Tutaj](https://releases.aspose.com/words/net/).
 2. Środowisko programistyczne: środowisko zgodne z technologią .NET, np. Visual Studio.
 3. Podstawowa wiedza o języku C#: Znajomość składni języka C# będzie pomocna.
 4. Przykładowy dokument: Przydatny będzie dokument Word, ale w tym przykładzie utworzymy wszystko od podstaw.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 W tym fragmencie:
 - `ShapeType.TextBox` określa, że tworzymy kształt pola tekstowego.
-- `textBox`jest rzeczywistą instancją pola tekstowego, którą będziemy manipulować.
+- `textBox` jest rzeczywistą instancją pola tekstowego, którą będziemy manipulować.
 
 ## Krok 3: Sprawdzanie kolejności pól tekstowych
 
@@ -126,7 +126,7 @@ Znajomość sekwencji pozwala na zarządzanie logicznym przepływem treści, zw�
 Tak, pola tekstowe można łączyć na różne sposoby, pod warunkiem że uzyskany w ten sposób układ ma sens w kontekście danej treści.
 
 ### Jak mogę odłączyć pole tekstowe od sekwencji?
- Możesz to ustawić`Next` Lub`Previous` właściwości do`null` w razie potrzeby.
+ Możesz to ustawić`Next` Lub`Previous` właściwości do`null` razie potrzeby.
 
 ### Czy można nadać tekstowi wewnątrz połączonych pól tekstowych inny styl?
 Oczywiście! Możesz stosować niezależne style do zawartości każdego pola tekstowego, zapewniając elastyczność projektowania.

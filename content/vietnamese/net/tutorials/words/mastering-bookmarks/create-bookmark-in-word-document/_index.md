@@ -102,7 +102,7 @@ Tạo dấu trang trong tài liệu Word bằng Aspose.Words cho .NET rất đơ
 Có! Bạn có thể tạo nhiều dấu trang và xác định thứ bậc của chúng khi lưu dưới dạng PDF.
 
 ### Làm thế nào để cập nhật văn bản của dấu trang?
- Sử dụng`DocumentBuilder.MoveToBookmark` để điều hướng đến dấu trang và cập nhật văn bản.
+ Sử dụng`DocumentBuilder.MoveToBookmark`để điều hướng đến dấu trang và cập nhật văn bản.
 
 ### Có thể xóa dấu trang không?
  Chắc chắn rồi! Sử dụng`Bookmarks.Remove` phương pháp bằng cách chỉ định tên của dấu trang.

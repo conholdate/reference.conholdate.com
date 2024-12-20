@@ -9,7 +9,7 @@ url: /ko/net/tutorials/tasks/guide-to-saving-options/convert-ms-project-files-to
 ---
 ## 소개
 
-효율적인 프로젝트 파일 관리가 간소화된 워크플로와 프로젝트 성공에 중요한 역할을 합니다. Aspose.Tasks for .NET을 사용하면 개발자는 Microsoft Project 파일을 정밀하고 유연하게 PDF 형식으로 변환할 수 있습니다. 이 가이드에서는 Microsoft Project(.mpp) 파일을 PDF로 저장하는 단계별 프로세스를 살펴보고 사용자 지정 가능한 옵션을 완성합니다.
+효율적인 프로젝트 파일 관리가 간소화된 워크플로와 프로젝트 성공에 중요한 역할을 합니다. Aspose.Tasks for .NET을 사용하면 개발자는 Microsoft Project 파일을 정밀하고 유연하게 PDF 형식으로 변환할 수 있습니다. 이 가이드에서는 Microsoft Project(.mpp) 파일을 사용자 정의 가능한 옵션과 함께 PDF로 저장하는 단계별 프로세스를 안내합니다.
 
 ## .NET용 Aspose.Tasks 사용을 위한 전제 조건
 

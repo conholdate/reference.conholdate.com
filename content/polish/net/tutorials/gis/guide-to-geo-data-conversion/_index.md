@@ -2,7 +2,7 @@
 title: Przewodnik po konwersji danych geograficznych za pomocą Aspose.GIS dla .NET
 linktitle: Przewodnik po konwersji danych geograficznych
 second_title: Aspose.GIS .NET API
-description: Bezproblemowa konwersja różnych formatów danych geograficznych za pomocą Aspose.GIS dla .NET. Zapoznaj się z naszymi samouczkami na temat GeoJSON, TopoJSON i Shapefiles.
+description: Bezproblemowo konwertuj różne formaty danych geograficznych za pomocą Aspose.GIS dla .NET. Zapoznaj się z naszymi samouczkami na temat GeoJSON, TopoJSON i Shapefiles.
 type: docs
 weight: 20
 url: /pl/net/tutorials/gis/guide-to-geo-data-conversion/

@@ -49,7 +49,7 @@ Następnie utwórz nowy skoroszyt, do którego skopiujesz formularz użytkownika
 Workbook target = new Workbook();
 ```
 
-Spowoduje to utworzenie pustego skoroszytu, który będzie stanowił płótno dla przyszłego transferu danych.
+Spowoduje to utworzenie pustego skoroszytu, który będzie stanowił tło dla przyszłego transferu danych.
 
 ## Krok 3: Załaduj swój szablon skoroszytu
 Załaduj skoroszyt zawierający formularz użytkownika i makra:

@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## 第四步：初始化簽名對象
 
-建立一個實例`Signature`class，傳入文檔檔案路徑：
+建立一個實例`Signature`類，傳入文件文件路徑：
 
 ```csharp
 using (Signature signature = new Signature(filePath))

@@ -21,7 +21,7 @@ url: /zh-hant/net/tutorials/cells/conversion-to-pdf-file/
 
 現在，有什麼比轉換整個電子表格更酷的呢？將 Excel 圖表轉換為 PDF 怎麼樣？圖表和圖形非常適合視覺化數據，但獨立的 PDF 可以讓您的結果在簡報或報告中大放異彩。 Aspose.Cells 讓這個過程變得簡單！ 
 
-深入了解我們的教程[使用 Aspose.Cells for .NET 將 Excel 圖表轉換為 PDF](./convert-excel-charts-to-pdf/)，您可以在其中找到入門所需的所有資訊。透過簡單易懂的說明和有用的程式碼範例，您將學習如何在不丟失任何視覺完整性的情況下轉換特定圖表或整個工作表。如果您希望在保持數據演示專業和整潔的同時增加數據演示的趣味性，那麼本指南是完美的選擇。
+深入了解我們的教程[使用 Aspose.Cells for .NET 將 Excel 圖表轉換為 PDF](./convert-excel-charts-to-pdf/)，您可以在其中找到入門所需的所有資訊。透過簡單易懂的說明和有用的程式碼範例，您將學習如何在不丟失任何視覺完整性的情況下轉換特定圖表或整個工作表。如果您希望為數據演示增添趣味，同時保持專業和整潔，那麼本指南是完美的選擇。
 
 ## 轉換為 PDF 教程
 ### [在 .NET 中使用 Aspose.Cells 將 Excel 轉換為 PDF](./convert-excel-to-pdf/)

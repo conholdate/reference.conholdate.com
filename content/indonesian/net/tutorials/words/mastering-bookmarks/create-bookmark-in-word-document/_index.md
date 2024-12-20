@@ -102,7 +102,7 @@ Membuat bookmark dalam dokumen Word dengan Aspose.Words untuk .NET itu mudah dan
 Ya! Anda dapat membuat beberapa penanda halaman dan menentukan hierarkinya saat menyimpan sebagai PDF.
 
 ### Bagaimana cara memperbarui teks penanda buku?
- Menggunakan`DocumentBuilder.MoveToBookmark` untuk menavigasi ke penanda dan memperbarui teks.
+ Menggunakan`DocumentBuilder.MoveToBookmark`untuk menavigasi ke penanda dan memperbarui teks.
 
 ### Apakah mungkin untuk menghapus penanda buku?
  Tentu saja! Gunakan`Bookmarks.Remove` metode dengan menentukan nama penanda.

@@ -62,7 +62,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Passaggio 3: configurare le opzioni di caricamento HTML
 
- IL`HtmlLoadOptions` class in Aspose.Words ci consente di specificare come il contenuto HTML debba essere interpretato. Per garantire che la casella combinata venga renderizzata come tag di documento strutturato:
+ IL`HtmlLoadOptions` classe in Aspose.Words ci consente di specificare come il contenuto HTML debba essere interpretato. Per garantire che la casella combinata venga renderizzata come tag di documento strutturato:
 
 ```csharp
 HtmlLoadOptions loadOptions = new HtmlLoadOptions

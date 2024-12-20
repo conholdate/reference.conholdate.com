@@ -65,7 +65,7 @@ Aspose.Cells.Vba.VbaProject vbaProject = wb.VbaProject;
 
 ## Krok 4: Zkontrolujte, zda je projekt VBA uzamčen pro prohlížení
 
-Nakonec zkontrolujte stav uzamčení projektu VBA pomocí`IsLockedForViewing` vlastnictvím`VbaProject` objekt. Pokud se vrátí`true` , projekt je uzamčen; -li`false`, je přístupný.
+Nakonec zkontrolujte stav uzamčení projektu VBA pomocí`IsLockedForViewing` vlastnictví`VbaProject` objekt. Pokud se vrátí`true` , projekt je uzamčen; -li`false`, je přístupný.
 
 ```csharp
 Console.WriteLine("Is VBA Project Locked for Viewing: " + vbaProject.IsLockedForViewing);

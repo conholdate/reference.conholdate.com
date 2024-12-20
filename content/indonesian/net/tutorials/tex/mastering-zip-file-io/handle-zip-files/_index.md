@@ -31,7 +31,7 @@ using System.IO;
 
 ## Langkah 1: Buka Aliran ZIP Input dan Output
 
-Pertama, Anda perlu membuka aliran untuk arsip Zip input dan output. Ganti`"Your Input Directory"` Dan`"Your Output Directory"` dengan jalur yang Anda tentukan.
+ Pertama, Anda perlu membuka aliran untuk arsip Zip input dan output. Ganti`"Your Input Directory"` Dan`"Your Output Directory"` dengan jalur yang Anda tentukan.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

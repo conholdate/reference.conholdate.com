@@ -52,7 +52,7 @@ string inputPath = dataDir + "book1.xls";
  Nu när filsökvägarna är inställda är nästa steg att ladda Excel-arbetsboken i en`Workbook` objekt. Detta låter dig komma åt dess innehåll för manipulation.
 
 ```csharp
-// Ladda Excel-filen i arbetsboksobjektet.
+// Ladda Excel-filen i Workbook-objektet.
 Workbook wb = new Workbook(inputPath);
 ```
 

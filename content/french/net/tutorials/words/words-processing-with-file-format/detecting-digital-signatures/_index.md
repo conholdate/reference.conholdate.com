@@ -38,7 +38,7 @@ using Aspose.Words;
 
 Ajoutez la bibliothèque Aspose.Words à votre projet à l’aide de NuGet :
 
-- Faites un clic droit sur votre projet dans l’Explorateur de solutions.
+- Cliquez avec le bouton droit sur votre projet dans l’Explorateur de solutions.
 - Choisissez « Gérer les packages NuGet ».
 - Recherchez « Aspose.Words » et installez la dernière version.
 
@@ -91,7 +91,7 @@ Non, Aspose.Words pour .NET ne conserve pas les signatures numériques lors de l
 
 ### Puis-je détecter plusieurs signatures numériques dans un document ?
 
- Oui, le`HasDigitalSignature` la propriété indique si une ou plusieurs signatures numériques sont présentes.
+ Oui, le`HasDigitalSignature`la propriété indique si une ou plusieurs signatures numériques sont présentes.
 
 ### Comment puis-je obtenir un essai gratuit d'Aspose.Words pour .NET ?
 

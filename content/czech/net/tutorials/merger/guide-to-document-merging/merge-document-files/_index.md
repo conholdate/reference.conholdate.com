@@ -9,7 +9,7 @@ url: /cs/net/tutorials/merger/guide-to-document-merging/merge-document-files/
 ---
 ## Zavedení
 
-V tomto tutoriálu prozkoumáme, jak sloučit soubory DOC pomocí GroupDocs.Merger for .NET, výkonného rozhraní API navrženého pro vývojáře k programové kombinaci, rozdělení a manipulaci s různými formáty dokumentů, včetně souborů DOC. Poskytneme vám průvodce krok za krokem, který vám tento proces usnadní.
+V tomto tutoriálu prozkoumáme, jak sloučit soubory DOC pomocí GroupDocs.Merger for .NET, výkonného API navrženého pro vývojáře k programové kombinaci, rozdělení a manipulaci s různými formáty dokumentů, včetně souborů DOC. Poskytneme vám průvodce krok za krokem, který vám tento proces usnadní.
 
 ## Předpoklady
 

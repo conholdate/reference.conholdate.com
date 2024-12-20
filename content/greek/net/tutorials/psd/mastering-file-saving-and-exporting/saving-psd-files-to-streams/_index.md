@@ -47,7 +47,7 @@ string dataDir = "C:\\YourDocumentDirectory\\";
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Διαδρομή προς το αρχείο προέλευσης PSD
-string destName = dataDir + "result.png";   //Διαδρομή για το αρχείο εικόνας εξόδου
+string destName = dataDir + "result.png";   // Διαδρομή για το αρχείο εικόνας εξόδου
 ```
 
 ## Βήμα 3: Φορτώστε την εικόνα PSD και χειριστείτε τις γραμματοσειρές που δεν βρέθηκαν

@@ -15,7 +15,7 @@ V neustále se vyvíjejícím světě vývoje .NET je efektivní správa a kompr
 
 Než se pustíme do implementace, ujistěte se, že máte připraveno následující:
 
--  Aspose.Zip for .NET Library: Stáhněte a nainstalujte nejnovější verzi knihovny z[Aspose webové stránky](https://releases.aspose.com/zip/net/).
+-  Aspose.Zip for .NET Library: Stáhněte si a nainstalujte nejnovější verzi knihovny z[Aspose webové stránky](https://releases.aspose.com/zip/net/).
 -  Adresář dokumentů: Vytvořte adresář, kam budete ukládat soubory, které chcete komprimovat. Aktualizujte`dataDir` proměnná v ukázkovém kódu s cestou k tomuto adresáři.
 
 ## Importujte potřebné jmenné prostory

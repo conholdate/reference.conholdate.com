@@ -15,7 +15,7 @@ Szembesült már azzal a feladattal, hogy olyan Word-dokumentumot hozzon létre,
 
 Mielőtt elkezdenénk, győződjön meg arról, hogy rendelkezik a következőkkel:
 
-1.  Aspose.Words for .NET Library: Töltse le a legújabb verziót[itt](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Library: Töltse le a legújabb verziót[itt](https://releases.aspose.com/words/net/).
 2. Fejlesztői környezet: .NET-kompatibilis IDE, például a Visual Studio.
 3. Alapvető C# ismeretek: Hasznos lesz a C# szintaxis ismerete.
 4. Word-dokumentum minta (opcionális): Bár a semmiből készítünk egyet, a minta hasznos lehet a teszteléshez.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Most, hogy van egy új szakaszunk, töltsük fel tartalommal. 
 
- Ahhoz, hogy tartalmat adjunk az új szakaszhoz, át kell helyeznünk a`DocumentBuilder`kurzor arra a szakaszra:
+ Ahhoz, hogy tartalmat adjunk az új szakaszhoz, át kell helyeznünk a`DocumentBuilder` kurzor arra a szakaszra:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Végül mentsük el a dokumentumot, hogy minden kemény munkánk biztonságban l
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Feltétlenül cserélje ki`"YourPath/YourDocument.docx"` a kívánt fájl elérési úttal, ahová a dokumentumot menteni szeretné. Ez a sor menti a Word-fájlt az összes szakaszsal és tartalommal.
+ Feltétlenül cserélje ki`"YourPath/YourDocument.docx"` kívánt fájl elérési úttal, ahová a dokumentumot menteni szeretné. Ez a sor menti a Word-fájlt az összes szakaszsal és tartalommal.
 
 ## Következtetés
 

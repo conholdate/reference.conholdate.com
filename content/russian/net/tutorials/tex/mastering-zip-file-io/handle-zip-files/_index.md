@@ -31,7 +31,7 @@ using System.IO;
 
 ## Шаг 1: Откройте входные и выходные ZIP-потоки
 
-Сначала вам нужно будет открыть потоки для входных и выходных Zip-архивов. Заменить`"Your Input Directory"` и`"Your Output Directory"` с указанными вами путями.
+ Сначала вам нужно будет открыть потоки для входных и выходных Zip-архивов. Заменить`"Your Input Directory"` и`"Your Output Directory"` с указанными вами путями.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

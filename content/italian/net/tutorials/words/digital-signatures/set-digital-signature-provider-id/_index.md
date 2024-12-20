@@ -15,7 +15,7 @@ Ciao! Se stai cercando di aggiungere una firma digitale al tuo documento Word co
 
 Prima di immergerti, assicurati di avere quanto segue:
 
-1.  Aspose.Words per la libreria .NET:[Scaricalo qui](https://releases.aspose.com/words/net/).
+1. Aspose.Words per la libreria .NET:[Scaricalo qui](https://releases.aspose.com/words/net/).
 2. Ambiente di sviluppo: Visual Studio o qualsiasi IDE compatibile con C#.
 3.  Documento Word: un documento con una riga per la firma (ad esempio,`Signature line.docx`).
 4.  Certificato digitale: A`.pfx` file del certificato (ad esempio,`morzal.pfx`).

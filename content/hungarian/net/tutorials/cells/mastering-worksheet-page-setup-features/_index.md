@@ -40,7 +40,7 @@ Ismerje meg, hogyan kezelheti és ellenőrizheti hatékonyan a papírméret-beá
 ### [Az oldaltájolás megvalósítása az Excel munkalapon](./implement-page-orientation-in-excel-worksheet/)
 Fedezze fel, hogyan javíthatja Excel-táblázatai olvashatóságát és megjelenítését az oldaltájolás megváltoztatásával az Aspose.Cells for .NET segítségével. Ez a lépésenkénti útmutató végigvezeti Önt a folyamaton, világos példával.
 ### [A fejléc és lábléc megvalósítása az Aspose.Cells segítségével .NET-hez](./implement-header-footer/)
-Fedezze fel, hogyan javíthatja Excel-dokumentumait a fejlécek és láblécek programozott testreszabásával az Aspose.Cells for .NET segítségével. Ez az átfogó útmutató végigvezeti Önt minden lépésen – a munkafüzet beállításától a munkalap nevének dinamikus beszúrásáig.
+Fedezze fel, hogyan javíthatja Excel-dokumentumait a fejlécek és láblécek programozott testreszabásával az Aspose.Cells for .NET használatával. Ez az átfogó útmutató végigvezeti Önt minden lépésen – a munkafüzet beállításától a munkalap nevének dinamikus beszúrásáig.
 ### [A margók megvalósítása a munkalapon az Aspose.Cells segítségével](./implement-margins-in-worksheet/)
 Ismerje meg, hogyan javíthatja Excel-táblázatait a margók beállításával a .NET Aspose.Cells könyvtárával. Ez a lépésenkénti oktatóanyag leegyszerűsíti a folyamatot, így az adatbemutató professzionális és kifinomult megjelenésű.
 ### [Végezze el az oldalsorrend beállításait a Munkalapon](./implement-page-order-settings/)

@@ -32,7 +32,7 @@ Este namespace fornece todas as ferramentas necessárias para manipular document
 
 ## Etapa 1: Configurando seu ambiente
 
-1.  Instalar Aspose.Words: Baixe e instale Aspose.Words para .NET em[aqui](https://releases.aspose.com/words/net/).
+1. Instalar Aspose.Words: Baixe e instale Aspose.Words para .NET em[aqui](https://releases.aspose.com/words/net/).
 2. Crie um projeto .NET: Abra o Visual Studio e crie um novo projeto C#.
 3. Adicionar referência do Aspose.Words: inclua a referência da biblioteca no seu projeto.
 

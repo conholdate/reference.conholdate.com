@@ -102,7 +102,7 @@ doc.Save(dataDir + "WorkingWithBookmarks.CreateBookmark.pdf", options);
 نعم! يمكنك إنشاء عدة إشارات مرجعية وتحديد التسلسل الهرمي لها عند الحفظ بتنسيق PDF.
 
 ### كيف أقوم بتحديث نص الإشارة المرجعية؟
- يستخدم`DocumentBuilder.MoveToBookmark` للانتقال إلى الإشارة المرجعية وتحديث النص.
+ يستخدم`DocumentBuilder.MoveToBookmark`للانتقال إلى الإشارة المرجعية وتحديث النص.
 
 ### هل من الممكن حذف الإشارة المرجعية؟
  بالتأكيد! استخدم`Bookmarks.Remove` الطريقة عن طريق تحديد اسم الإشارة المرجعية.

@@ -16,7 +16,7 @@ url: /el/net/tutorials/words/words-processing-with-file-format/document-file-for
 Πριν ξεκινήσουμε, βεβαιωθείτε ότι πληρούνται οι ακόλουθες απαιτήσεις:
 
 1. Aspose.Words for .NET Library  
-    Κατεβάστε τη βιβλιοθήκη από[Aspose Words Releases](https://releases.aspose.com/words/net/) και ενεργοποιήστε το χρησιμοποιώντας μια έγκυρη άδεια χρήσης. Για προσωρινές άδειες, επισκεφθείτε[Υποβολή Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/).
+    Κατεβάστε τη βιβλιοθήκη από[Aspose Words Releases](https://releases.aspose.com/words/net/)και ενεργοποιήστε το χρησιμοποιώντας μια έγκυρη άδεια χρήσης. Για προσωρινές άδειες, επισκεφθείτε[Υποβολή Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/).
 
 2. Αναπτυξιακό Περιβάλλον  
    Χρησιμοποιήστε το Visual Studio (οποιαδήποτε πρόσφατη έκδοση) με εγκατεστημένο το .NET Framework.
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- Ο`FileFormatUtil.DetectFileFormat` Η μέθοδος είναι κεντρική για τον προσδιορισμό των χαρακτηριστικών του εγγράφου.
+ Ο`FileFormatUtil.DetectFileFormat`Η μέθοδος είναι κεντρική για τον προσδιορισμό των χαρακτηριστικών του εγγράφου.
 
 ## Σύναψη
 

@@ -61,7 +61,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 ```csharp
 using (Signature signature = new Signature(filePath))
 {
-    // Dodatečný kód bude zde
+    // Dodatečný kód bude uveden zde
 }
 ```
 

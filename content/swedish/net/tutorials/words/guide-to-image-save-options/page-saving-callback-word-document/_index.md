@@ -57,7 +57,7 @@ ImageSaveOptions imageSaveOptions = new ImageSaveOptions(SaveFormat.Png)
 };
 ```
 
- Här,`PageSet` definierar intervallet av sidor som ska sparas, och`PageSavingCallback` pekar på vår anpassade återuppringningsklass.
+ Här,`PageSet` definierar intervallet för sidor som ska sparas, och`PageSavingCallback` pekar på vår anpassade återuppringningsklass.
 
 ## Steg 5: Implementera sidsparande återuppringning
 

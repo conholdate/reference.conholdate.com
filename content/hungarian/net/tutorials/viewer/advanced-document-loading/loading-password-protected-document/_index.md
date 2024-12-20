@@ -35,7 +35,7 @@ Adja meg, hova szeretné menteni a renderelt kimenetet:
 ```csharp
 string outputDirectory = "Your Document Directory";
 ```
- Mindenképpen cserélje ki`"Your Document Directory"` a ténylegesen használni kívánt útvonallal.
+ Ügyeljen arra, hogy cserélje ki`"Your Document Directory"` a ténylegesen használni kívánt útvonallal.
 
 ## 2. lépés: Állítsa be az oldalfájl elérési út formátumát
 
@@ -68,7 +68,7 @@ using (Viewer viewer = new Viewer("Path_to_your_document", loadOptions))
     // A megtekintési lehetőségek kódja a következő lépésben lesz hozzáadva.
 }
 ```
- Mindenképpen cserélje ki`"Path_to_your_document"` a dokumentum tényleges elérési útjával.
+ Ügyeljen arra, hogy cserélje ki`"Path_to_your_document"` a dokumentum tényleges elérési útjával.
 
 ## 5. lépés: Konfigurálja a HTML nézet beállításait
 
@@ -78,7 +78,7 @@ using (Viewer viewer = new Viewer("Path_to_your_document", loadOptions))
 HtmlViewOptions options = HtmlViewOptions.ForEmbeddedResources(pageFilePathFormat);
 ```
 
-## 6. lépés: Rendelje le a dokumentumot
+## 6. lépés: Renderje le a dokumentumot
 
 Most jelenítse meg a dokumentumot a konfigurált megjelenítővel és nézeti beállításokkal:
 

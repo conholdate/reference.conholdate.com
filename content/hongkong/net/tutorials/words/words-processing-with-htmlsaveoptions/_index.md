@@ -2,7 +2,7 @@
 title: 使用 Htmlsaveoptions 進行文字處理
 linktitle: 使用 Htmlsaveoptions 進行文字處理
 second_title: Aspose.Words 文件處理 API
-description: 透過我們的逐步教學解鎖 Aspose.Words for .NET 的強大功能，涵蓋 HTML 和元檔案轉換以增強文件處理。
+description: 透過我們的逐步教學釋放 Aspose.Words for .NET 的強大功能，涵蓋 HTML 和圖元檔案轉換以增強文件處理。
 type: docs
 weight: 1620
 url: /zh-hant/net/tutorials/words/words-processing-with-htmlsaveoptions/

@@ -9,7 +9,7 @@ url: /cs/net/tutorials/pdf/mastering-document-conversion/mastering-html-to-pdf/
 ---
 ## Zavedení
 
-V digitálním prostředí je převod dokumentů HTML do formátu PDF běžnou nutností pro vývojáře i podniky. Ať už generujete zprávy, faktury nebo jakýkoli jiný typ dokumentu, spolehlivá metoda pro převod Mastering HTML do PDF pomocí Aspose.PDF for .NET může ušetřit čas a zajistit konzistenci. Tato příručka vás provede používáním Aspose.PDF for .NET, výkonné knihovny, která zjednodušuje vytváření, manipulaci a převod dokumentů PDF.
+digitálním prostředí je převod dokumentů HTML do formátu PDF běžnou nutností pro vývojáře i podniky. Ať už generujete zprávy, faktury nebo jakýkoli jiný typ dokumentu, spolehlivá metoda pro převod Mastering HTML do PDF pomocí Aspose.PDF for .NET může ušetřit čas a zajistit konzistenci. Tato příručka vás provede používáním Aspose.PDF for .NET, výkonné knihovny, která zjednodušuje vytváření, manipulaci a převod dokumentů PDF.
 
 ## Předpoklady
 
@@ -24,8 +24,8 @@ Než začneme, ujistěte se, že máte na svém místě následující:
 
 Chcete-li začít, postupujte podle následujících kroků a nastavte adresář projektu:
 
-1. Vytvořit adresář projektu: Vytvořte složku s názvem`Documents` na vašem počítači. Zde budete ukládat soubory HTML a výstupní PDF.
-2.  Přidejte svůj soubor HTML: Umístěte svůj soubor HTML (např.`HTMLToPDF.html` ) v`Documents` složku.
+1.  Vytvořit adresář projektu: Vytvořte složku s názvem`Documents` na vašem počítači. Zde budete ukládat soubory HTML a výstupní PDF.
+2.  Přidejte svůj soubor HTML: Umístěte svůj soubor HTML (např.`HTMLToPDF.html` v`Documents` složku.
 
 ## Import nezbytných balíčků
 

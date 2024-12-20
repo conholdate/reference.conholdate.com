@@ -24,8 +24,8 @@ Avant de commencer, assurez-vous que les éléments suivants sont en place :
 
 Pour commencer, suivez ces étapes pour configurer votre répertoire de projet :
 
-1. Créer un répertoire de projet : créez un dossier nommé`Documents` sur votre ordinateur. C'est ici que vous stockerez vos fichiers HTML et le PDF de sortie.
-2.  Ajoutez votre fichier HTML : placez votre fichier HTML (par exemple,`HTMLToPDF.html` ) dans le`Documents` dossier.
+1.  Créer un répertoire de projet : créez un dossier nommé`Documents` sur votre ordinateur. C'est ici que vous stockerez vos fichiers HTML et le PDF de sortie.
+2.  Ajoutez votre fichier HTML : placez votre fichier HTML (par exemple,`HTMLToPDF.html` dans le`Documents` dossier.
 
 ## Importer les packages nécessaires
 

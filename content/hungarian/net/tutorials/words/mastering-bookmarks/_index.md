@@ -13,13 +13,13 @@ Ha professzionális megjelenésű Word-dokumentumokról van szó, a könyvjelző
 
 ## Mik azok a könyvjelzők és miért használjuk őket?
 
-könyvjelzők parancsikonként működnek a Word-dokumentumban. Lehetővé teszik bizonyos szakaszok egyszerű kiemelését és ugrását. Ez különösen akkor hasznos, ha hosszadalmas jelentéseken vagy könyveken dolgozik, ahol a konkrét tartalom keresése unalmassá válhat. Az Aspose.Words for .NET segítségével könnyedén hozhat létre, törölhet és kezelhet könyvjelzőket. De valójában hogyan valósítja meg ezt a projektjeiben?
+könyvjelzők parancsikonként működnek a Word-dokumentumban. Lehetővé teszik bizonyos szakaszok egyszerű kiemelését és ugrását. Ez különösen akkor hasznos, ha hosszadalmas jelentéseken vagy könyveken dolgozik, ahol a konkrét tartalom keresése fárasztó lehet. Az Aspose.Words for .NET segítségével könnyedén hozhat létre, törölhet és kezelhet könyvjelzőket. De valójában hogyan valósítja meg ezt a projektjeiben?
 
- Vessen egy pillantást nálunk[Hozzon létre könyvjelzőt a Word dokumentumban az Aspose.Words for .NET segítségével](./create-bookmark-in-word-document/) oktatóanyag a könyvjelzők létrehozásának gyakorlati útmutatójához. Ezzel a lépésről lépésre történő megközelítéssel javíthatja Word-dokumentumait, így könnyebben navigálhat és kezelhet.
+ Vessen egy pillantást nálunk[Hozzon létre könyvjelzőt a Word dokumentumban az Aspose.Words for .NET segítségével](./create-bookmark-in-word-document/) oktatóanyag a könyvjelzők létrehozásának gyakorlati útmutatójához. Ez a lépésenkénti megközelítés lehetővé teszi a Word-dokumentumok javítását, megkönnyítve a navigációt és a kezelést.
 
 ## Könyvjelzőinek kezelése
 
- A könyvjelzők létrehozása után fontos tudni, hogyan kell kezelni őket. Mi a teendő, ha törölni vagy elrejteni szeretne bizonyos könyvjelzőket? Szerencsére az Aspose.Words for .NET ezt egyértelművé teszi. Például, ha bizonyos tartalmak láthatóságát könyvjelzők alapján szeretné szabályozni, tekintse meg oktatóanyagunkat[könyvjelzők láthatóságának kezelése a Word-dokumentumokban](./manage-bookmark-visibility-word-document/) világosan megérti, hogyan kell ezt hatékonyan megtenni. Felfedezi, hogyan tarthatja tisztán és zűrzavarmentesen dokumentumait, miközben megőrzi az értékes referenciákat.
+ A könyvjelzők létrehozása után fontos tudni, hogyan kell kezelni őket. Mi a teendő, ha törölni vagy elrejteni szeretne bizonyos könyvjelzőket? Szerencsére az Aspose.Words for .NET ezt egyértelművé teszi. Például, ha bizonyos tartalmak láthatóságát könyvjelzők alapján szeretné szabályozni, oktatóanyagunk erről szól[könyvjelzők láthatóságának kezelése a Word-dokumentumokban](./manage-bookmark-visibility-word-document/) világosan megérti, hogyan kell ezt hatékonyan megtenni. Felfedezi, hogyan tarthatja tisztán és zűrzavarmentesen dokumentumait, miközben megőrzi az értékes referenciákat.
 
 ## Speciális könyvjelző funkciók
 
@@ -37,5 +37,5 @@ Ha valaha is volt olyan helyzetben, hogy bizonyos sorokat kell törölnie egy Wo
 | --- | --- |
 | [Szöveg hozzáfűzése a Word-dokumentumok könyvjelzővel ellátott szakaszaiból](./append-text-from-bookmarked-sections/) | Ismerje meg, hogyan fűzhet zökkenőmentesen szöveget egy Word-dokumentum könyvjelzővel ellátott részeiből az Aspose.Words for .NET segítségével. Ez a lépésről lépésre bemutató oktatóanyag. |
 | [Hozzon létre könyvjelzőt a Word dokumentumban az Aspose.Words for .NET segítségével](./create-bookmark-in-word-document/) | Ismerje meg, hogyan hozhat létre könyvjelzőket Word dokumentumokban az Aspose.Words for .NET segítségével. Ismerje meg, hogyan javíthatja Word-dokumentumait könyvjelzők létrehozásával és kezelésével. Ez a lépésről lépésre bemutató útmutató. |
-| [könyvjelzők láthatóságának kezelése a Word-dokumentumokban](./manage-bookmark-visibility-word-document/) | Fedezze fel, hogyan szabályozhatja szakszerűen a Word-dokumentumok tartalmának láthatóságát az Aspose.Words for .NET segítségével. Ez a lépésenkénti útmutató. |
+| [könyvjelzők láthatóságának kezelése a Word-dokumentumokban](./manage-bookmark-visibility-word-document/) | Fedezze fel, hogyan szabályozhatja szakszerűen a Word-dokumentumok tartalmának láthatóságát az Aspose.Words for .NET segítségével. Ez a lépésről-lépésre útmutató. |
 | [Sorok törlése könyvjelzővel a Word dokumentumokban az Aspose.Words for .NET segítségével](./delete-row-by-bookmark-word-documents/) | Tanulja meg, hogyan törölhet hatékonyan bizonyos sorokat a Word dokumentumokból az Aspose.Words for .NET segítségével könyvjelzők használatával. Ez a lépésenkénti útmutató a dokumentumok betöltésére vonatkozik. |

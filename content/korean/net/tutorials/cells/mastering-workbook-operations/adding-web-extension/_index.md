@@ -129,4 +129,4 @@ Aspose.Cells는 개발자가 Microsoft Excel을 설치하지 않고도 Excel 파
  Aspose 커뮤니티에서 도움을 요청할 수 있습니다.[지원 포럼](https://forum.aspose.com/c/cells/9).
 
 ### Aspose.Cells에 대한 추가 문서는 어디에서 찾을 수 있나요?
- Aspose.Cells의 전체 설명서에 액세스하세요[여기](https://reference.aspose.com/cells/net/).
+ Aspose.Cells의 전체 문서에 액세스하세요[여기](https://reference.aspose.com/cells/net/).

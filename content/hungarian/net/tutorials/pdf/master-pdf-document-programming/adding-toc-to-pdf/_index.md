@@ -92,7 +92,7 @@ for (int i = 0; i < 2; i++)
 
 ## 6. lépés: Mentse el a PDF-fájlt a tartalomjegyzékkel
 
-Végül mentse a frissített PDF-fájlt.
+Végül mentse el a frissített PDF fájlt.
 
 ```csharp
 dataDir = dataDir + "TOC_out.pdf";

@@ -53,7 +53,7 @@ Stanovte cestu k souboru Excel. Zde se váš kód načte a uloží do:
 string dataDir = "Your Document Directory"; // Nahraďte svou skutečnou cestou
 ```
 
-## Krok 3: Otevřete soubor Excel
+## Krok 3: Otevřete soubor aplikace Excel
 
 Vytvořte datový proud souboru pro otevření souboru Excel. To umožňuje vašemu kódu číst a zapisovat do souboru:
 

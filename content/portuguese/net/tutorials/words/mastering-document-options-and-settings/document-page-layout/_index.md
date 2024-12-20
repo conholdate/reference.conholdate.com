@@ -86,10 +86,10 @@ Aspose.Words para .NET é uma biblioteca robusta para criar, modificar e convert
  Sim, você pode utilizá-lo com uma licença temporária, que você pode obter[aqui](https://purchase.aspose.com/temporary-license/).
 
 ### Como instalo o Aspose.Words para .NET?
- Baixe-o de[aqui](https://releases.aspose.com/words/net/) e siga as instruções de instalação fornecidas.
+ Faça o download em[aqui](https://releases.aspose.com/words/net/) e siga as instruções de instalação fornecidas.
 
 ### Quais idiomas o Aspose.Words suporta?
 O Aspose.Words oferece suporte a uma ampla variedade de idiomas, incluindo idiomas asiáticos, como chinês e japonês.
 
 ### Onde posso encontrar documentação mais detalhada?
- Você pode acessar documentação detalhada[aqui](https://reference.aspose.com/words/net/).
+Você pode acessar documentação detalhada[aqui](https://reference.aspose.com/words/net/).

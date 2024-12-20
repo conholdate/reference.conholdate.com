@@ -4,7 +4,7 @@ linktitle: Aspose.Note for .NET チュートリアル
 type: docs
 weight: 10
 url: /ja/net/tutorials/note/
-description: 包括的なチュートリアルで Aspose.Note for .NET をマスターし、添付ファイル、ハイパーリンク、画像などを詳しく調べます。OneNote ドキュメントの操作性を向上させます。
+description: 包括的なチュートリアルで Aspose.Note for .NET をマスターしましょう。添付ファイル、ハイパーリンク、画像などを詳しく調べます。OneNote ドキュメントの操作性を向上させます。
 is_root: true
 ---
 

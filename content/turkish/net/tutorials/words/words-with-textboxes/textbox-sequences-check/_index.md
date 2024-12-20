@@ -15,7 +15,7 @@ Merhaba, geliştirici arkadaşlar ve belge meraklıları! 🌟 Word belgenizdeki
 
 Koda dalmadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
-1.  Aspose.Words for .NET Kütüphanesi: En son sürümü indirin[Burada](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Kütüphanesi: En son sürümü indirin[Burada](https://releases.aspose.com/words/net/).
 2. Geliştirme Ortamı: Visual Studio gibi .NET uyumlu bir ortam.
 3. Temel C# Bilgisi: C# sözdizimine aşinalık faydalı olacaktır.
 4. Örnek Belge: Elinizde bir Word belgesi bulundurmak faydalı olacaktır, ancak bu örnekte her şeyi sıfırdan oluşturacağız.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 Bu kesitte:
 - `ShapeType.TextBox` bir metin kutusu şekli oluşturduğumuzu belirtir.
-- `textBox`Gerçekte işleyeceğimiz metin kutusu örneğidir.
+- `textBox` Gerçekte işleyeceğimiz metin kutusu örneğidir.
 
 ## Adım 3: Metin Kutularının Sırasını Kontrol Etme
 
@@ -126,7 +126,7 @@ Sırayı bilmek, özellikle bağlantılı veya sıralı belgeler için içeriği
 Evet, metin kutuları çeşitli şekillerde birbirine bağlanabilir; yeter ki ortaya çıkan düzenleme içeriğiniz açısından mantıklı olsun.
 
 ### Bir metin kutusunu bir diziden nasıl ayırabilirim?
- Bunu ayarlayabilirsiniz`Next` veya`Previous` özellikleri`null` ihtiyaç duyulduğu takdirde.
+ Bunu ayarlayabilirsiniz`Next` veya`Previous` özellikleri`null`ihtiyaç duyulduğu takdirde.
 
 ### Bağlantılı metin kutularının içindeki metni farklı şekilde biçimlendirmek mümkün müdür?
 Kesinlikle! Her metin kutusunun içeriğine bağımsız stiller uygulayabilir, tasarım esnekliği sağlayabilirsiniz.

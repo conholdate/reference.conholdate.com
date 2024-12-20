@@ -35,7 +35,7 @@ Zde je rychlý přehled toho, jak můžete efektivně manipulovat se soubory zip
 
  Tato flexibilita znamená, že můžete udržovat své archivy relevantní a aktuální s minimálními problémy. Prozkoumejte více o úpravách souborů zip v našem tutoriálu na[Upravte soubory Zip pomocí Aspose.Zip pro .NET](./modify-zip-files/).
 
-## Zvládnutí výukových programů komprese souborů
+## Zvládnutí výukových programů pro kompresi souborů
 ### [Kompresní soubor s Aspose.Zip v .NET](./compression-file/)
 Naučte se, jak bez námahy komprimovat soubory pomocí Aspose.Zip pro .NET. Postupujte podle našeho podrobného návodu pro efektivní správu souborů.
 ### [Upravte soubory Zip pomocí Aspose.Zip pro .NET](./modify-zip-files/)

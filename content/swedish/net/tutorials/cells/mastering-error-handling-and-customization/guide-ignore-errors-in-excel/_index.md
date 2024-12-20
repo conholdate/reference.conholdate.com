@@ -20,7 +20,7 @@ Innan vi dyker in i koden, se till att du har följande på plats:
 3. Grundläggande förståelse för C#: Bekantskap med C# hjälper dig att följa med smidigt.
 4. Exempel på Excel-fil: Förbered ett exempel på Excel-arbetsbok som du förväntar dig kan orsaka fel under konverteringen.
 
-Med allt klart, låt oss komma igång med kodningen!
+Med allt klart, låt oss börja med kodningen!
 
 ## Steg 1: Importera nödvändiga paket
 

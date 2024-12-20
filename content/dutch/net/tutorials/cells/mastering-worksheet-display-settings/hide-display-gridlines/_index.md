@@ -29,7 +29,7 @@ Stel een Integrated Development Environment (IDE) in, zoals Visual Studio of een
 
 Zodra de vereisten zijn vervuld, kunt u beginnen met de implementatie.
 
-## Importeren van benodigde bibliotheken
+## Noodzakelijke bibliotheken importeren
 
 Om met Excel-bestanden te kunnen werken met Aspose.Cells, moet u eerst de relevante naamruimten importeren. Dit is hoe u dat doet:
 

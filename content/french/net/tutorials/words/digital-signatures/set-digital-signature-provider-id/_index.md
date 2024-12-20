@@ -15,7 +15,7 @@ Bonjour ! Si vous souhaitez ajouter une signature numérique à votre document W
 
 Avant de plonger, assurez-vous d'avoir les éléments suivants :
 
-1.  Bibliothèque Aspose.Words pour .NET :[Téléchargez-le ici](https://releases.aspose.com/words/net/).
+1. Bibliothèque Aspose.Words pour .NET :[Téléchargez-le ici](https://releases.aspose.com/words/net/).
 2. Environnement de développement : Visual Studio ou tout IDE compatible C#.
 3.  Document Word : un document avec une ligne de signature (par exemple,`Signature line.docx`).
 4.  Certificat numérique : A`.pfx` fichier de certificat (par exemple,`morzal.pfx`).

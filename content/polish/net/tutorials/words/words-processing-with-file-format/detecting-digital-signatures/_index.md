@@ -9,7 +9,7 @@ url: /pl/net/tutorials/words/words-processing-with-file-format/detecting-digital
 ---
 ## Wstęp
 
-W erze cyfrowej zapewnienie integralności i autentyczności dokumentów jest ważniejsze niż kiedykolwiek. Jedną ze skutecznych metod osiągnięcia tego jest użycie podpisów cyfrowych. W tym samouczku przyjrzymy się, jak wykrywać podpisy cyfrowe w dokumentach Word za pomocą biblioteki Aspose.Words dla .NET. Pod koniec będziesz mieć solidne zrozumienie tego procesu.
+erze cyfrowej zapewnienie integralności i autentyczności dokumentów jest ważniejsze niż kiedykolwiek. Jedną ze skutecznych metod osiągnięcia tego jest użycie podpisów cyfrowych. W tym samouczku przyjrzymy się, jak wykrywać podpisy cyfrowe w dokumentach Word za pomocą biblioteki Aspose.Words dla .NET. Pod koniec będziesz mieć solidne zrozumienie tego procesu.
 
 ## Wymagania wstępne
 
@@ -91,7 +91,7 @@ Nie, Aspose.Words dla .NET nie zachowuje podpisów cyfrowych podczas otwierania 
 
 ### Czy mogę wykryć wiele podpisów cyfrowych w dokumencie?
 
- Tak,`HasDigitalSignature` Właściwość wskazuje, czy obecny jest jeden lub więcej podpisów cyfrowych.
+ Tak,`HasDigitalSignature`Właściwość wskazuje, czy obecny jest jeden lub więcej podpisów cyfrowych.
 
 ### Jak mogę otrzymać bezpłatną wersję próbną Aspose.Words dla .NET?
 

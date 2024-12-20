@@ -47,7 +47,7 @@ Określ lokalizację pliku źródłowego PSD i miejsce, w którym chcesz zapisa�
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Ścieżka do pliku źródłowego PSD
-string destName = dataDir + "result.png";   //Ścieżka do pliku obrazu wyjściowego
+string destName = dataDir + "result.png";   // Ścieżka do pliku obrazu wyjściowego
 ```
 
 ## Krok 3: Załaduj obraz PSD i obsługuj nieznalezione czcionki

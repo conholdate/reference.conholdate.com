@@ -1,6 +1,6 @@
 ---
 title: Bryt vidarelänken i Word-dokument med Aspose.Words för .NET
-linktitle: Bryt länken framåt i Word-dokument
+linktitle: Bryt vidarelänken i Word-dokument
 second_title: Aspose.Words Document Processing API
 description: Upptäck hur du bryter, hanterar och anpassar vidarekopplingar i textrutor med Aspose.Words för .NET. Den här steg-för-steg-guiden täcker allt du behöver för att effektivisera din dokumentlayout och förbättra din Word-filhantering.
 type: docs
@@ -99,7 +99,7 @@ Och där har du det! 🎉 Du har framgångsrikt lärt dig hur man bryter fram l�
 
 ### Vad är syftet med att bryta fram länkar i textrutor?
 
-Genom att bryta framåt länkar kan du omorganisera eller isolera innehåll i ditt dokument, vilket ger dig större kontroll över dess flöde och struktur.
+Genom att bryta fram länkar kan du omorganisera eller isolera innehåll i ditt dokument, vilket ger dig större kontroll över dess flöde och struktur.
 
 ### Kan jag länka om textrutor efter att ha brutit länken?
 

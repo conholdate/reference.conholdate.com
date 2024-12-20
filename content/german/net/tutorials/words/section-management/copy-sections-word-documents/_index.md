@@ -32,7 +32,7 @@ Dieser Namespace stellt alle Tools bereit, die für die programmgesteuerte Verar
 
 ## Schritt 1: Einrichten Ihrer Umgebung
 
-1.  Installieren Sie Aspose.Words: Laden Sie Aspose.Words für .NET herunter und installieren Sie es von[Hier](https://releases.aspose.com/words/net/).
+1. Installieren Sie Aspose.Words: Laden Sie Aspose.Words für .NET herunter und installieren Sie es von[Hier](https://releases.aspose.com/words/net/).
 2. Erstellen Sie ein .NET-Projekt: Öffnen Sie Visual Studio und erstellen Sie ein neues C#-Projekt.
 3. Aspose.Words-Referenz hinzufügen: Fügen Sie die Bibliotheksreferenz in Ihr Projekt ein.
 

@@ -65,7 +65,7 @@ Com o documento e o certificado carregados, é hora de assinar:
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Este método assina o documento. Os parâmetros são o caminho do documento original, o caminho desejado para o documento assinado e o detentor do certificado.
+- `DigitalSignatureUtil.Sign`: Este método assina o documento. Os parâmetros são o caminho do documento original, o caminho desejado para o documento assinado e o detentor do certificado.
 
 ## Etapa 5: Salve o documento assinado
 
@@ -93,7 +93,7 @@ Um certificado digital é essencial para criar uma assinatura digital. Ele cont�
 ### Posso usar qualquer arquivo .pfx para assinar?
 Sim, desde que o arquivo .pfx contenha um certificado digital válido e você tenha a senha para acessá-lo.
 
-### O Aspose.Words para .NET é gratuito?
+### Aspose.Words para .NET é gratuito?
  Aspose.Words para .NET é uma biblioteca comercial. Você pode baixar uma versão de teste gratuita[aqui](https://releases.aspose.com/) , mas uma licença é necessária para funcionalidade completa. Compre-o[aqui](https://purchase.aspose.com/buy).
 
 ### Onde posso encontrar mais informações sobre o Aspose.Words para .NET?

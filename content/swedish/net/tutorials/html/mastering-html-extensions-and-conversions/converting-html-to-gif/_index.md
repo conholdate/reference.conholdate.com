@@ -62,7 +62,7 @@ ImageSaveOptions options = new ImageSaveOptions(ImageFormat.Gif);
 
 Denna konfiguration tillåter Aspose att spara utdata i önskat format.
 
-## Steg 4: Ange sökväg för utdatafil
+## Steg 4: Ange utdatafilens sökväg
 
 Definiera var du vill spara den konverterade GIF-filen:
 
@@ -72,7 +72,7 @@ string outputFile = dataDir + "HTMLtoGIF_Output.gif";
 
 ## Steg 5: Konvertera HTML till GIF
 
- Utför slutligen konverteringen genom att anropa`Converter` klass:
+ Slutligen, utför konverteringen genom att anropa`Converter` klass:
 
 ```csharp
 Converter.ConvertHTML(htmlDocument, options, outputFile);

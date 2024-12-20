@@ -15,7 +15,7 @@ Hiç net bir düzenleme gerektiren bir Word belgesi oluşturma göreviyle karş�
 
 Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
-1.  Aspose.Words for .NET Kütüphanesi: En son sürümü indirin[Burada](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Kütüphanesi: En son sürümü indirin[Burada](https://releases.aspose.com/words/net/).
 2. Geliştirme Ortamı: Visual Studio gibi .NET uyumlu bir IDE.
 3. Temel C# Bilgisi: C# sözdizimine aşinalık faydalı olacaktır.
 4. Örnek Word Belgesi (İsteğe bağlı): Sıfırdan bir tane oluşturacağız ancak test için bir örneğe sahip olmak faydalı olabilir.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Artık yeni bir bölümümüz var, onu biraz içerikle dolduralım. 
 
- Yeni bölüme içerik eklemek için,`DocumentBuilder`imleci o bölüme getirin:
+ Yeni bölüme içerik eklemek için,`DocumentBuilder` imleci o bölüme getirin:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Son olarak, tüm sıkı çalışmalarımızın güvende olduğundan emin olmak i
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Değiştirdiğinizden emin olun`"YourPath/YourDocument.docx"` belgeyi kaydetmek istediğiniz istenilen dosya yolu ile. Bu satır Word dosyanızı tüm bölümleri ve içeriği bozulmadan kaydeder.
+ Değiştirdiğinizden emin olun`"YourPath/YourDocument.docx"`belgeyi kaydetmek istediğiniz istenilen dosya yolu ile. Bu satır Word dosyanızı tüm bölümleri ve içeriği bozulmadan kaydeder.
 
 ## Çözüm
 

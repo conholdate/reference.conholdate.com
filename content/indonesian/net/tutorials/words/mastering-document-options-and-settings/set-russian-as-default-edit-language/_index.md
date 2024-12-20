@@ -42,7 +42,7 @@ LoadOptions loadOptions = new LoadOptions();
 
 ### Atur Bahasa Pengeditan Default ke Bahasa Rusia
 
- Selanjutnya, atur`DefaultEditingLanguage` properti ke Rusia:
+Selanjutnya, atur`DefaultEditingLanguage` properti ke Rusia:
 
 ```csharp
 loadOptions.LanguagePreferences.DefaultEditingLanguage = EditingLanguage.Russian;
@@ -99,7 +99,7 @@ Output ini akan memberi tahu Anda apakah bahasa penyuntingan default telah berha
 
 ## Kesimpulan
 
- Menetapkan bahasa Rusia sebagai bahasa penyuntingan default dalam dokumen Word menggunakan Aspose.Words untuk .NET adalah proses yang mudah. Dengan mengonfigurasi`LoadOptions`, memuat dokumen, dan memverifikasi pengaturan bahasa, Anda dapat menyesuaikan dokumen Anda untuk memenuhi kebutuhan linguistik audiens Anda secara efektif.
+Menetapkan bahasa Rusia sebagai bahasa penyuntingan default dalam dokumen Word menggunakan Aspose.Words untuk .NET adalah proses yang mudah. Dengan mengonfigurasi`LoadOptions`, memuat dokumen, dan memverifikasi pengaturan bahasa, Anda dapat menyesuaikan dokumen Anda untuk memenuhi kebutuhan linguistik audiens Anda secara efektif.
 
 ## Pertanyaan yang Sering Diajukan
 
@@ -121,4 +121,4 @@ Aspose.Words untuk .NET adalah pustaka komprehensif untuk membuat, memanipulasi,
 
 ### Bagaimana saya bisa mendapatkan dukungan untuk Aspose.Words untuk .NET?
 
- Untuk dukungan, kunjungi[Dukungan Aspose](https://forum.aspose.com/c/words/8) forum, tempat Anda dapat mengajukan pertanyaan dan menerima bantuan dari komunitas dan pengembang Aspose.
+ Untuk dukungan, kunjungi[Dukungan Aspose](https://forum.aspose.com/c/words/8)forum, tempat Anda dapat mengajukan pertanyaan dan menerima bantuan dari komunitas dan pengembang Aspose.

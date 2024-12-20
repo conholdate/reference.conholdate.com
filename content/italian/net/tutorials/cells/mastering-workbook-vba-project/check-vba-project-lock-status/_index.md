@@ -2,7 +2,7 @@
 title: Controlla lo stato di blocco del progetto VBA in Excel con Aspose.Cells
 linktitle: Controlla lo stato di blocco del progetto VBA in Excel con Aspose.Cells
 second_title: API di elaborazione Excel .NET Aspose.Cells
-description: Questa guida completa ti accompagna nel processo di controllo se un progetto VBA in Excel è bloccato per la visualizzazione utilizzando la potente libreria Aspose.Cells for .NET. Perfetta per sviluppatori .NET e utenti Excel.
+description: Questa guida completa ti accompagna attraverso il processo di controllo se un progetto VBA in Excel è bloccato per la visualizzazione utilizzando la potente libreria Aspose.Cells for .NET. Perfetta per sviluppatori .NET e utenti Excel.
 type: docs
 weight: 10
 url: /it/net/tutorials/cells/mastering-workbook-vba-project/check-vba-project-lock-status/

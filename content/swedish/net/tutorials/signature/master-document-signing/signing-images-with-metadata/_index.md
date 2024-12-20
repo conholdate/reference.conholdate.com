@@ -56,7 +56,7 @@ using (Signature signature = new Signature(filePath))
         .Add(new ImageMetadataSignature(imgsMetadataId++, 123456))                // Heltalsvärde
         .Add(new ImageMetadataSignature(imgsMetadataId++, 123.456D))              // Dubbelt värde
         .Add(new ImageMetadataSignature(imgsMetadataId++, 123.456M))              // Decimalvärde
-        .Add(new ImageMetadataSignature(imgsMetadataId++, 123.456F));             // Flytande värde
+        .Add(new ImageMetadataSignature(imgsMetadataId++, 123.456F));             // Flytvärde
 
     // Signera dokumentet och spara resultatet
     SignResult result = signature.Sign(outputFilePath, options);

@@ -111,7 +111,7 @@ A sugár mérete határozza meg a szűrő működésének mértékét, míg a si
 
 ### Hol találok támogatást és további forrásokat?
 
- Kérdésekért és segítségért a[Aspose.PSD fórum](https://forum.aspose.com/c/psd/34)nagyszerű forrás a közösséggel és a támogató csapattal való kapcsolattartáshoz.
+ Kérdésekért és segítségért a[Aspose.PSD fórum](https://forum.aspose.com/c/psd/34) nagyszerű forrás a közösséggel és a támogató csapattal való kapcsolattartáshoz.
 
 ### Elérhető az Aspose.PSD ingyenes próbaverziója?
 

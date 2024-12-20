@@ -15,7 +15,7 @@ Halo, para pengembang dan penggemar dokumen! 🌟 Pernahkah Anda menghadapi tant
 
 Sebelum kita masuk ke kode, pastikan Anda memiliki hal berikut:
 
-1.  Pustaka Aspose.Words untuk .NET: Unduh versi terbaru[Di Sini](https://releases.aspose.com/words/net/).
+1. Pustaka Aspose.Words untuk .NET: Unduh versi terbaru[Di Sini](https://releases.aspose.com/words/net/).
 2. Lingkungan Pengembangan: Lingkungan yang kompatibel dengan .NET seperti Visual Studio.
 3. Pengetahuan Dasar C#: Kemampuan dalam sintaksis C# akan sangat membantu.
 4. Contoh Dokumen: Akan sangat membantu jika memiliki dokumen Word, tetapi dalam contoh ini, kami akan membuat semuanya dari awal.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 Dalam cuplikan ini:
 - `ShapeType.TextBox` menentukan bahwa kita membuat bentuk kotak teks.
-- `textBox`adalah contoh kotak teks sesungguhnya yang akan kita manipulasi.
+- `textBox` adalah contoh kotak teks sesungguhnya yang akan kita manipulasi.
 
 ## Langkah 3: Memeriksa Urutan Kotak Teks
 
@@ -126,7 +126,7 @@ Mengetahui urutannya memungkinkan Anda mengelola aliran konten yang logis, terut
 Ya, kotak teks dapat ditautkan dengan berbagai cara, selama susunan yang dihasilkan sesuai dengan konten Anda.
 
 ### Bagaimana cara menghapus tautan kotak teks dari suatu urutan?
- Anda dapat mengaturnya`Next` atau`Previous` properti untuk`null` sesuai kebutuhan.
+ Anda dapat mengaturnya`Next` atau`Previous` properti untuk`null`sesuai kebutuhan.
 
 ### Apakah mungkin untuk memberi gaya teks dalam kotak teks yang terhubung secara berbeda?
 Tentu saja! Anda dapat menerapkan gaya independen ke setiap konten kotak teks, sehingga memberikan fleksibilitas desain.

@@ -17,7 +17,7 @@ Koda dalmadan önce gerekli kurulumun yapıldığından emin olmanız önemlidir
 
 ### Aspose.Words .NET için
 
-Başlamak için .NET için Aspose.Words'e ihtiyacınız var. Henüz yapmadıysanız, şuradan indirin:[web sitesi](https://releases.aspose.com/words/net/) . Aspose.Words'e yeniyseniz, bir tane indirerek ücretsiz deneyebilirsiniz.[ücretsiz deneme](https://releases.aspose.com/).
+ Başlamak için .NET için Aspose.Words'e ihtiyacınız var. Henüz yapmadıysanız, şuradan indirin:[web sitesi](https://releases.aspose.com/words/net/) Aspose.Words'e yeniyseniz, bir tane indirerek ücretsiz deneyebilirsiniz.[ücretsiz deneme](https://releases.aspose.com/).
 
 ### Geliştirme Ortamı
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Belgeyi Yükle
 
-Sonra, belgeyi programa yükleyeceğiz. Bu, şu şekilde yapılabilir:`Document` Aspose.Words tarafından sağlanan sınıf. Aşağıdaki kod parçacığı, belirtilen dizinden bir Word belgesinin nasıl yükleneceğini gösterir.
+ Sonra, belgeyi programa yükleyeceğiz. Bu, şu şekilde yapılabilir:`Document`Aspose.Words tarafından sağlanan sınıf. Aşağıdaki kod parçacığı, belirtilen dizinden bir Word belgesinin nasıl yükleneceğini gösterir.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Bu tek satırlık kod, belgenin özelliklerine gömülü hiçbir kişisel veriyi
 
 ### 2.2 Temizlenen Belgeyi Kaydet
 
- Kişisel bilgiler kaldırıldıktan sonra, değiştirilen belgeyi kaydetmek önemlidir. Bu, şu şekilde yapılabilir:`Save`Güncellenen belgeyi tüm değişiklikleri koruyarak yeni bir dosyaya yazacak yöntem.
+ Kişisel bilgiler kaldırıldıktan sonra, değiştirilen belgeyi kaydetmek önemlidir. Bu, şu şekilde yapılabilir:`Save` Güncellenen belgeyi tüm değişiklikleri koruyarak yeni bir dosyaya yazacak yöntem.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

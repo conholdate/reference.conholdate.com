@@ -25,7 +25,7 @@ Przed rozpoczęciem procesu konwersji należy upewnić się, że spełnione są 
    Skonfiguruj środowisko IDE zgodne z platformą .NET, np. Visual Studio.
 
 4. Wiedza o C#  
-   Aby wdrożyć fragmenty kodu zawarte w tym przewodniku, zalecana jest znajomość języka C#.
+   Aby zaimplementować fragmenty kodu zawarte w tym przewodniku, zalecana jest znajomość języka C#.
 
 ## Importuj niezbędne przestrzenie nazw
 

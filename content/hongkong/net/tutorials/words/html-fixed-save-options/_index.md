@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/words/html-fixed-save-options/
 ---
 ## 介紹
 
-Aspose.Words for .NET 是一個功能強大的程式庫，讓處理 Microsoft Word 文件變得輕而易舉。如果您是希望以程式設計方式操作文件的開發人員，那麼您來對地方了！ Aspose.Words 的基本功能之一是它能夠以各種格式保存文檔，包括 HTML。在本文中，我們將深入研究 HTML 固定保存選項，幫助您建立一致且具有視覺吸引力的輸出。
+Aspose.Words for .NET 是一個功能強大的程式庫，讓處理 Microsoft Word 文件變得輕而易舉。如果您是一位希望以程式設計方式操作文件的開發人員，那麼您來對地方了！ Aspose.Words 的基本功能之一是它能夠以各種格式保存文檔，包括 HTML。在本文中，我們將深入研究 HTML 固定保存選項，幫助您建立一致且具有視覺吸引力的輸出。
 
 ## 為什麼要使用 HTML 固定保存選項？
 

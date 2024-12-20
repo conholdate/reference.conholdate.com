@@ -111,7 +111,7 @@ Kích thước bán kính xác định phạm vi hoạt động của bộ lọc
 
 ### Tôi có thể tìm thấy sự hỗ trợ và nguồn lực bổ sung ở đâu?
 
- Đối với các câu hỏi và hỗ trợ,[Diễn đàn Aspose.PSD](https://forum.aspose.com/c/psd/34)là nguồn lực tuyệt vời để kết nối với cộng đồng và nhóm hỗ trợ.
+ Đối với các câu hỏi và hỗ trợ,[Diễn đàn Aspose.PSD](https://forum.aspose.com/c/psd/34) là nguồn lực tuyệt vời để kết nối với cộng đồng và nhóm hỗ trợ.
 
 ### Có bản dùng thử miễn phí nào cho Aspose.PSD không?
 

@@ -31,7 +31,7 @@ using System.IO;
 
 ## Adım 1: Giriş ve Çıkış ZIP Akışlarını Açın
 
-İlk olarak, giriş ve çıkış Zip arşivleri için akışları açmanız gerekecektir. Değiştir`"Your Input Directory"` Ve`"Your Output Directory"` belirttiğiniz yollarla.
+ İlk olarak, giriş ve çıkış Zip arşivleri için akışları açmanız gerekecektir. Değiştir`"Your Input Directory"` Ve`"Your Output Directory"` belirttiğiniz yollarla.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

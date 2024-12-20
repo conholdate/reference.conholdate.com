@@ -77,7 +77,7 @@ Gratuluji! Úspěšně jste převedli konkrétní stránku dokumentu aplikace Wo
  Kvalitu JPEG můžete zlepšit pomocí`JpegQuality`majetek v`ImageSaveOptions`. Hodnoty se pohybují od 0 (nejnižší kvalita) do 100 (nejvyšší kvalita).
 
 ### Mohu uložit v jiných formátech obrázků?  
- Ano, Aspose.Words podporuje několik obrazových formátů, včetně PNG, BMP a TIFF. Jednoduše změňte`SaveFormat` v`ImageSaveOptions` do požadovaného formátu.
+ Ano, Aspose.Words podporuje několik obrazových formátů, včetně PNG, BMP a TIFF. Jednoduše změňte`SaveFormat` v`ImageSaveOptions`do požadovaného formátu.
 
 ### Existuje způsob, jak zobrazit náhled obrázku před uložením?  
 Aspose.Words nezahrnuje vestavěnou funkci náhledu, ale můžete si vytvořit vlastní mechanismus náhledu pomocí aplikace Windows Forms nebo WPF.

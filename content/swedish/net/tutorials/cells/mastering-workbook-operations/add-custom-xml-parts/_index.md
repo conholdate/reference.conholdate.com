@@ -97,7 +97,7 @@ Console.WriteLine("AddCustomXMLPartsAndSelectThemByID executed successfully.");
 Grattis! Du har framgångsrikt lagt till anpassade XML-delar till din arbetsbok och implementerat funktionalitet för att söka efter dem efter deras ID.
 
 ## Slutsats
-I den här artikeln undersökte vi hur man lägger till anpassade XML-delar till en Excel-arbetsbok med Aspose.Cells för .NET. Genom att följa den här steg-för-steg-guiden lärde du dig hur du skapar en arbetsbok, lägger till anpassade XML-delar, tilldelar ID:n och hämtar dem effektivt. Den här funktionen är ovärderlig för att hantera dynamiska data i Excel-filer, vilket förbättrar funktionerna i dina applikationer.
+I den här artikeln undersökte vi hur du lägger till anpassade XML-delar till en Excel-arbetsbok med Aspose.Cells för .NET. Genom att följa den här steg-för-steg-guiden lärde du dig hur du skapar en arbetsbok, lägger till anpassade XML-delar, tilldelar ID:n och hämtar dem effektivt. Den här funktionen är ovärderlig för att hantera dynamiska data i Excel-filer, vilket förbättrar kapaciteten i dina applikationer.
 
 ## Vanliga frågor
 

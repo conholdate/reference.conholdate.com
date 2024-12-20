@@ -21,7 +21,7 @@ Zanim zaczniesz, upewnij się, że:
 
 ### 2. Importuj wymagane przestrzenie nazw
 
-W projekcie .NET dodaj niezbędne przestrzenie nazw na początku kodu:
+projekcie .NET dodaj niezbędne przestrzenie nazw na początku kodu:
 
 ```csharp
 using Aspose.PSD.FileFormats.Psd;

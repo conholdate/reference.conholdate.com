@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- In deze stap initialiseert u een nieuw exemplaar van de`Document` klasse, die dient als canvas voor onze toekomstige lagen. Zorg ervoor dat u`"YOUR DOCUMENT DIRECTORY"` met het daadwerkelijke pad waar u het PDF-bestand later wilt opslaan.
+ In deze stap initialiseert u een nieuw exemplaar van de`Document`klasse, die dient als canvas voor onze toekomstige lagen. Zorg ervoor dat u`"YOUR DOCUMENT DIRECTORY"` met het daadwerkelijke pad waar u het PDF-bestand later wilt opslaan.
 
 ## Stap 2: Maak een nieuwe pagina
 

@@ -18,7 +18,7 @@ Antes de mergulhar no código, certifique-se de ter os seguintes pré-requisitos
 - Conhecimento básico de C# e do framework .NET.
 - Visual Studio instalado na sua máquina de desenvolvimento.
 -  A biblioteca Aspose.Words para .NET, que você pode baixar[aqui](https://releases.aspose.com/words/net/).
--  Uma licença válida para Aspose.Words. Se você ainda não tem uma, você pode obter uma licença temporária[aqui](https://purchase.conholdate.com/temporary-license/).
+- Uma licença válida para Aspose.Words. Se você ainda não tem uma, você pode obter uma licença temporária[aqui](https://purchase.conholdate.com/temporary-license/).
 
 ## Importar namespaces
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Agora você pode trabalhar com docFromBytes conforme necessário
 }
 ```
-1.  Criação de fluxo de memória: crie um`MemoryStream` da matriz de bytes.
+1.  Criação de fluxo de memória: crie um`MemoryStream`da matriz de bytes.
 2. Carregamento de documentos: carregue o documento diretamente do fluxo, deixando-o pronto para quaisquer operações futuras.
 
 ## Conclusão

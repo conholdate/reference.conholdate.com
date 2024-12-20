@@ -13,7 +13,7 @@ Thoạt nhìn, việc tạo mô hình 3D có vẻ khó khăn, đúng không? Nh�
 
 ## Tạo mô hình 3D nguyên thủy
 
- Mỗi nghệ sĩ cần một nền tảng vững chắc, và còn cách nào tốt hơn để bắt đầu bằng cách tạo ra các hình dạng nguyên thủy? Trong hướng dẫn của chúng tôi về[tạo mô hình 3D nguyên thủy](./create-primitive-3d-modeling/)bạn sẽ học cách xây dựng các vật thể cơ bản như hộp, hình cầu và hình trụ. Những hình dạng này là khối xây dựng của các mô hình phức tạp hơn và hoàn hảo cho bất kỳ ai mới bắt đầu.
+ Mỗi nghệ sĩ cần một nền tảng vững chắc, và còn cách nào tốt hơn để bắt đầu bằng cách tạo ra các hình dạng nguyên thủy? Trong hướng dẫn của chúng tôi về[tạo mô hình 3D nguyên thủy](./create-primitive-3d-modeling/), bạn sẽ học cách xây dựng các vật thể cơ bản như hộp, hình cầu và hình trụ. Những hình dạng này là khối xây dựng của các mô hình phức tạp hơn và hoàn hảo cho bất kỳ ai mới bắt đầu.
 
 Chúng tôi sẽ hướng dẫn bạn từng bước trong quy trình, chia nhỏ từng hành động để bạn có thể dễ dàng theo dõi. Hãy tưởng tượng bạn đang xây một ngôi nhà. Đầu tiên, bạn đặt nền móng bằng các khối đơn giản. Tương tự như vậy, trong hướng dẫn của chúng tôi, bạn sẽ đặt nền bằng các hình dạng nguyên thủy, cho phép sự sáng tạo của bạn phát triển khi sau đó bạn tùy chỉnh chúng bằng kết cấu và màu sắc. 
 

@@ -15,7 +15,7 @@ url: /zh/net/tutorials/words/digital-signatures/set-digital-signature-provider-i
 
 在深入研究之前，请确保您已准备好以下事项：
 
-1.  Aspose.Words for .NET库：[点击此处下载](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET库：[点击此处下载](https://releases.aspose.com/words/net/).
 2. 开发环境：Visual Studio 或任何与 C# 兼容的 IDE。
 3.  Word 文档：带有签名行的文档（例如，`Signature line.docx`）。
 4. 数字证书：A`.pfx`证书文件（例如，`morzal.pfx`）。
@@ -42,7 +42,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Signature line.docx");
 ```
 
-确保更换`"YOUR DOCUMENT DIRECTORY"`使用您的文档存储的实际路径。
+确保更换`"YOUR DOCUMENT DIRECTORY"`使用存储文档的实际路径。
 
 ## 步骤 3：访问签名行
 

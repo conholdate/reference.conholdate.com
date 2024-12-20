@@ -47,7 +47,7 @@ string dataDir = "C:\\YourDocumentDirectory\\";
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // เส้นทางไปยังไฟล์ PSD ต้นฉบับของคุณ
-string destName = dataDir + "result.png";   //เส้นทางสำหรับไฟล์ภาพเอาท์พุต
+string destName = dataDir + "result.png";   // เส้นทางสำหรับไฟล์ภาพเอาท์พุต
 ```
 
 ## ขั้นตอนที่ 3: โหลดภาพ PSD และจัดการฟอนต์ที่ไม่พบ

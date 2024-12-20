@@ -31,7 +31,7 @@ using System.IO;
 
 ## चरण 1: इनपुट और आउटपुट ज़िप स्ट्रीम खोलें
 
-सबसे पहले, आपको इनपुट और आउटपुट ज़िप अभिलेखागार के लिए स्ट्रीम खोलने की आवश्यकता होगी।`"Your Input Directory"` और`"Your Output Directory"` आपके निर्दिष्ट पथ के साथ.
+ सबसे पहले, आपको इनपुट और आउटपुट ज़िप अभिलेखागार के लिए स्ट्रीम खोलने की आवश्यकता होगी।`"Your Input Directory"` और`"Your Output Directory"` आपके निर्दिष्ट पथ के साथ.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

@@ -17,7 +17,7 @@ url: /ru/net/tutorials/words/guide-to-image-save-options/create-1bpp-indexed/
 
 -  Aspose.Words для .NET: Загрузите и установите библиотеку с[здесь](https://releases.aspose.com/words/net/).
 - Среда разработки .NET: Хотя Visual Studio является популярным выбором, подойдет любая IDE, поддерживающая .NET.
-- Базовые знания C#: знакомство с C# будет полезно, но мы постараемся упростить ситуацию.
+- Базовые знания C#: знакомство с C# будет полезно, но мы постараемся упростить задачу.
 - Образец документа Word: подготовьте документ к конвертации.
 
 ## Шаг 1: Импорт необходимых пространств имен
@@ -88,7 +88,7 @@ doc.Save(dataDir + "ConvertedImage.Format1BppIndexed.Png", saveOptions);
  Да, для полной функциональности требуется лицензия. Вы можете получить[временная лицензия здесь](https://purchase.aspose.com/temporary-license/).
 
 ### В какие еще форматы изображений я могу конвертировать свой документ Word?
- Aspose.Words поддерживает различные форматы, включая JPEG, BMP и TIFF. Просто измените`SaveFormat`в`ImageSaveOptions` в желаемый вами формат.
+ Aspose.Words поддерживает различные форматы, включая JPEG, BMP и TIFF. Просто измените`SaveFormat` в`ImageSaveOptions`в желаемый вами формат.
 
 ### Где я могу найти дополнительную документацию по Aspose.Words для .NET?
  Для получения полной документации посетите[Страница документации Aspose.Words для .NET](https://reference.aspose.com/words/net/).

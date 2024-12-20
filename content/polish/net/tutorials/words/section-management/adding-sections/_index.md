@@ -15,7 +15,7 @@ Czy kiedykolwiek stanąłeś przed zadaniem stworzenia dokumentu Word, który wy
 
 Zanim zaczniemy, upewnij się, że masz następujące rzeczy:
 
-1.  Aspose.Words dla biblioteki .NET: Pobierz najnowszą wersję[Tutaj](https://releases.aspose.com/words/net/).
+1. Aspose.Words dla biblioteki .NET: Pobierz najnowszą wersję[Tutaj](https://releases.aspose.com/words/net/).
 2. Środowisko programistyczne: środowisko IDE zgodne z platformą .NET, np. Visual Studio.
 3. Podstawowa wiedza o języku C#: Znajomość składni języka C# będzie pomocna.
 4. Przykładowy dokument Word (opcjonalnie): Choć utworzymy go od podstaw, posiadanie przykładu może być przydatne podczas testowania.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Teraz, gdy mamy nową sekcję, możemy ją wypełnić treścią. 
 
- Aby dodać treść do nowej sekcji, musimy przenieść`DocumentBuilder`kursor do tej sekcji:
+ Aby dodać treść do nowej sekcji, musimy przenieść`DocumentBuilder` kursor do tej sekcji:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Na koniec zapiszmy dokument, aby mieć pewność, że wszystko, co zrobimy, jest
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Pamiętaj o wymianie`"YourPath/YourDocument.docx"` z żądaną ścieżką pliku, w której chcesz zapisać dokument. Ta linia zapisuje plik Word ze wszystkimi sekcjami i zawartością nienaruszonymi.
+ Pamiętaj o wymianie`"YourPath/YourDocument.docx"` żądaną ścieżką pliku, w której chcesz zapisać dokument. Ta linia zapisuje plik Word ze wszystkimi sekcjami i zawartością nienaruszonymi.
 
 ## Wniosek
 

@@ -70,7 +70,7 @@ options
     .Add(new PdfMetadataSignature("DocumentId", 123456))            // Heltalsvärde
     .Add(new PdfMetadataSignature("SignatureId", 123.456D))         // Dubbelt värde
     .Add(new PdfMetadataSignature("Amount", 123.456M))              // Decimalvärde
-    .Add(new PdfMetadataSignature("Total", 123.456F));              // Flytande värde
+    .Add(new PdfMetadataSignature("Total", 123.456F));              // Flytvärde
 ```
 
 ## Steg 5: Signera dokumentet

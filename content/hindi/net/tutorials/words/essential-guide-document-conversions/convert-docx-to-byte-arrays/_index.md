@@ -18,7 +18,7 @@ url: /hi/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 - C# और .NET फ्रेमवर्क की बुनियादी समझ।
 - आपके विकास मशीन पर Visual Studio स्थापित है।
 -  Aspose.Words for .NET लाइब्रेरी, जिसे आप डाउनलोड कर सकते हैं[यहाँ](https://releases.aspose.com/words/net/).
--  Aspose.Words के लिए वैध लाइसेंस। यदि आपके पास अभी तक लाइसेंस नहीं है, तो आप अस्थायी लाइसेंस प्राप्त कर सकते हैं[यहाँ](https://purchase.conholdate.com/temporary-license/).
+- Aspose.Words के लिए वैध लाइसेंस। यदि आपके पास अभी तक लाइसेंस नहीं है, तो आप अस्थायी लाइसेंस प्राप्त कर सकते हैं[यहाँ](https://purchase.conholdate.com/temporary-license/).
 
 ## नामस्थान आयात करें
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // अब आप आवश्यकतानुसार docFromBytes के साथ काम कर सकते हैं
 }
 ```
-1.  मेमोरी स्ट्रीम निर्माण: एक बनाएँ`MemoryStream` बाइट सरणी से.
+1.  मेमोरी स्ट्रीम निर्माण: एक बनाएँ`MemoryStream`बाइट सरणी से.
 2. दस्तावेज़ लोड करना: दस्तावेज़ को सीधे स्ट्रीम से लोड करें, जिससे यह आगे के कार्यों के लिए तैयार हो जाए।
 
 ## निष्कर्ष

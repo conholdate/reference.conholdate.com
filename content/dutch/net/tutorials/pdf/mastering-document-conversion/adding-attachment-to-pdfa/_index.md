@@ -64,7 +64,7 @@ Dit is wat we doen:
 
 - Geef het pad voor het logbestand op.
 -  Kiezen`PDF_A_3A` formaat om ingesloten bestanden te ondersteunen (in tegenstelling tot`PDF` (wat niet het geval is).
--  Gebruik`ConvertErrorAction.Delete` om elementen te verwijderen die niet voldoen aan de PDF/A-normen.
+-  Gebruik`ConvertErrorAction.Delete`om elementen te verwijderen die niet voldoen aan de PDF/A-normen.
 
 ## Stap 5: Het resulterende PDF/A-document opslaan
 
@@ -76,7 +76,7 @@ doc.Save(dataDir + "AddAttachmentToPDFA_out.pdf");
 
 ## Stap 6: De bijlage verifiëren (optioneel)
 
-kunt controleren of de bijlage succesvol is toegevoegd door een bevestigingsbericht af te drukken:
+U kunt controleren of de bijlage succesvol is toegevoegd door een bevestigingsbericht af te drukken:
 
 ```csharp
 Console.WriteLine("Attachment added successfully to PDF/A file.\nFile saved at " + dataDir);

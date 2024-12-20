@@ -92,7 +92,7 @@ Ja, Aspose.Tasks ermöglicht die Anpassung von Schriftarten, Farben und Seitenla
 ###  Ist es möglich, zu konvertieren`.mpp` files from older versions of Microsoft Project?
  Aspose.Tasks unterstützt`.mpp` Dateien ab Microsoft Project 2003.
 
-### Wie kann ich alle Projektdaten auf einer einzigen PDF-Seite darstellen?
+### Wie stelle ich alle Projektdaten auf einer einzigen PDF-Seite dar?
  Legen Sie die`RenderToSinglePage` Eigentum der`PdfSaveOptions` Einwände erheben gegen`true`.
 
 ```csharp

@@ -96,4 +96,4 @@ In questo tutorial, abbiamo esplorato come usare efficacemente GroupDocs.Metadat
  Per supporto, visita il[Forum di GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) per assistenza e discussioni nella comunità.
 
 ### Quali formati di file supporta GroupDocs.Metadata?
-GroupDocs.Metadata supporta diversi formati, tra cui DOCX, XLSX, PDF, JPG, PNG e altri.
+GroupDocs.Metadata supporta diversi formati, tra cui DOCX, XLSX, PDF, JPG, PNG e altri ancora.

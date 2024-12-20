@@ -23,7 +23,7 @@ Att förstå hur man använder textrutor effektivt kan avsevärt förbättra anv
 
 ## Bryta framåt länkar
 
- Ibland kan du behöva bryta befintliga länkar mellan textrutor för layoutjusteringar. Vår guide om hur man[Bryt länken framåt i Word-dokument](./break-forward-link/)vägleder dig genom att hantera och anpassa dessa länkar med lätthet. Den här funktionen kan verkligen förbättra hur du hanterar ditt innehållsflöde och ger dig möjligheten att manipulera ditt dokuments layout precis som du föreställer dig.
+ Ibland kan du behöva bryta befintliga länkar mellan textrutor för layoutjusteringar. Vår guide om hur man[Bryt vidarelänken i Word-dokument](./break-forward-link/)vägleder dig genom att hantera och anpassa dessa länkar med lätthet. Den här funktionen kan verkligen förbättra hur du hanterar ditt innehållsflöde och ger dig möjligheten att manipulera ditt dokuments layout precis som du föreställer dig.
 
 ## Handledning för ord med textrutor
 | Titel | Beskrivning |

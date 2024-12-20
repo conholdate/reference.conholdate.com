@@ -65,7 +65,7 @@ Document doc = new Document(dataDir + "Digitally signed.docx");
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Αυτή η μέθοδος υπογράφει το έγγραφο. Οι παράμετροι είναι η διαδρομή του αρχικού εγγράφου, η επιθυμητή διαδρομή για το υπογεγραμμένο έγγραφο και ο κάτοχος του πιστοποιητικού.
+- `DigitalSignatureUtil.Sign`: Αυτή η μέθοδος υπογράφει το έγγραφο. Οι παράμετροι είναι η διαδρομή του αρχικού εγγράφου, η επιθυμητή διαδρομή για το υπογεγραμμένο έγγραφο και ο κάτοχος του πιστοποιητικού.
 
 ## Βήμα 5: Αποθηκεύστε το υπογεγραμμένο έγγραφο
 

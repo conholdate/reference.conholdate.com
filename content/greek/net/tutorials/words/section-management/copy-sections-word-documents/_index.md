@@ -32,7 +32,7 @@ using Aspose.Words;
 
 ## Βήμα 1: Ρύθμιση του περιβάλλοντος σας
 
-1.  Εγκατάσταση Aspose.Words: Κατεβάστε και εγκαταστήστε το Aspose.Words για .NET από[εδώ](https://releases.aspose.com/words/net/).
+1. Εγκατάσταση Aspose.Words: Κατεβάστε και εγκαταστήστε το Aspose.Words για .NET από[εδώ](https://releases.aspose.com/words/net/).
 2. Δημιουργία έργου .NET: Ανοίξτε το Visual Studio και δημιουργήστε ένα νέο έργο C#.
 3. Προσθήκη αναφοράς Aspose.Words: Συμπεριλάβετε την αναφορά της βιβλιοθήκης στο έργο σας.
 

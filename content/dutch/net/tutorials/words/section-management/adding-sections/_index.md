@@ -15,7 +15,7 @@ Heb je ooit de taak gehad om een Word-document te maken dat een duidelijke organ
 
 Voordat we beginnen, zorg ervoor dat u het volgende heeft:
 
-1.  Aspose.Words voor .NET-bibliotheek: download de nieuwste versie[hier](https://releases.aspose.com/words/net/).
+1. Aspose.Words voor .NET-bibliotheek: download de nieuwste versie[hier](https://releases.aspose.com/words/net/).
 2. Ontwikkelomgeving: Een .NET-compatibele IDE, zoals Visual Studio.
 3. Basiskennis van C#: Kennis van de C#-syntaxis is nuttig.
 4. Voorbeeld Word-document (optioneel): Hoewel we er zelf een maken, kan een voorbeeld handig zijn voor het testen.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Nu we een nieuwe sectie hebben, gaan we deze vullen met inhoud. 
 
- Om inhoud aan de nieuwe sectie toe te voegen, moeten we de`DocumentBuilder`cursor naar die sectie:
+ Om inhoud aan de nieuwe sectie toe te voegen, moeten we de`DocumentBuilder` cursor naar die sectie:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Laten we het document ten slotte opslaan om er zeker van te zijn dat al ons hard
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Zorg ervoor dat u deze vervangt`"YourPath/YourDocument.docx"` met het gewenste bestandspad waar u het document wilt opslaan. Deze regel slaat uw Word-bestand op met alle secties en inhoud intact.
+ Zorg ervoor dat u deze vervangt`"YourPath/YourDocument.docx"`met het gewenste bestandspad waar u het document wilt opslaan. Deze regel slaat uw Word-bestand op met alle secties en inhoud intact.
 
 ## Conclusie
 
@@ -110,7 +110,7 @@ Absoluut! U kunt zoveel secties toevoegen als nodig is, elk met een unieke opmaa
 
 ### Hoe pas ik de lay-out van een sectie aan?
 
-U kunt de lay-out van een sectie aanpassen door eigenschappen als paginaformaat, oriëntatie, marges aan te passen en kop- en voetteksten toe te voegen met Aspose.Words.
+kunt de lay-out van een sectie aanpassen door eigenschappen als paginaformaat, oriëntatie, marges aan te passen en kop- en voetteksten toe te voegen met Aspose.Words.
 
 ### Kunnen secties in Word-documenten worden genest?
 

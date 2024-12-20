@@ -27,7 +27,7 @@ Het aanpassen van de manier waarop u tabellen naar bereiken converteert, is vaak
 ## Zelfstudies over het onder de knie krijgen van tabellen en lijsten
 ### [Maak en beheer lijstobjecten in Excel met Aspose.Cells](./create-and-manage-list-object/)
 Ontdek hoe u effectief lijstobjecten in Excel kunt maken en beheren met Aspose.Cells voor .NET. Deze uitgebreide stapsgewijze handleiding leidt u door het installatieproces.
-### [Converteer tabel naar ODS-formaat met Aspose.Cells voor .NET](./convert-table-to-ods-format/)
+### [Converteer een tabel naar ODS-indeling met Aspose.Cells voor .NET](./convert-table-to-ods-format/)
 Leer hoe u Excel-spreadsheets naadloos naar ODS-formaat converteert met Aspose.Cells voor .NET. Deze stapsgewijze handleiding.
 ### [Converteer Excel-tabellen naar bereiken met Aspose.Cells voor .NET](./convert-excel-tables-to-range/)
 Ontdek hoe u tabellen in Excel naadloos kunt converteren naar normale bereiken met behulp van de krachtige Aspose.Cells voor .NET-bibliotheek. Deze stapsgewijze handleiding behandelt alles van het instellen van uw omgeving tot het uitvoeren van de conversie.

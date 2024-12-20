@@ -42,7 +42,7 @@ LoadOptions loadOptions = new LoadOptions();
 
 ### Defina o idioma de edição padrão para russo
 
- Em seguida, defina o`DefaultEditingLanguage` propriedade para russo:
+Em seguida, defina o`DefaultEditingLanguage` propriedade para russo:
 
 ```csharp
 loadOptions.LanguagePreferences.DefaultEditingLanguage = EditingLanguage.Russian;
@@ -99,7 +99,7 @@ Esta saída informará se o idioma de edição padrão foi definido com sucesso 
 
 ## Conclusão
 
- Definir o russo como idioma de edição padrão em um documento do Word usando o Aspose.Words para .NET é um processo simples. Ao configurar`LoadOptions`, carregando o documento e verificando as configurações de idioma, você pode adaptar seus documentos para atender às necessidades linguísticas do seu público de forma eficaz.
+Definir o russo como idioma de edição padrão em um documento do Word usando o Aspose.Words para .NET é um processo simples. Ao configurar`LoadOptions`, carregando o documento e verificando as configurações de idioma, você pode adaptar seus documentos para atender às necessidades linguísticas do seu público de forma eficaz.
 
 ## Perguntas frequentes
 
@@ -121,4 +121,4 @@ Aspose.Words para .NET é uma biblioteca abrangente para criar, manipular e conv
 
 ### Como posso obter suporte para o Aspose.Words para .NET?
 
- Para obter suporte, visite o[Suporte Aspose](https://forum.aspose.com/c/words/8) fórum, onde você pode fazer perguntas e receber assistência da comunidade e dos desenvolvedores do Aspose.
+ Para obter suporte, visite o[Suporte Aspose](https://forum.aspose.com/c/words/8)fórum, onde você pode fazer perguntas e receber assistência da comunidade e dos desenvolvedores do Aspose.

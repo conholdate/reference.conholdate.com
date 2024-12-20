@@ -15,7 +15,7 @@ Olá, colegas desenvolvedores e aficionados por documentos! 🌟 Você já enfre
 
 Antes de mergulharmos no código, certifique-se de ter o seguinte:
 
-1.  Biblioteca Aspose.Words para .NET: Baixe a versão mais recente[aqui](https://releases.aspose.com/words/net/).
+1. Biblioteca Aspose.Words para .NET: Baixe a versão mais recente[aqui](https://releases.aspose.com/words/net/).
 2. Ambiente de desenvolvimento: Um ambiente compatível com .NET, como o Visual Studio.
 3. Conhecimento básico de C#: familiaridade com a sintaxe C# será útil.
 4. Documento de exemplo: é útil ter um documento do Word em mãos, mas criaremos tudo do zero neste exemplo.
@@ -56,11 +56,11 @@ TextBox textBox = shape.TextBox;
 
 Neste trecho:
 - `ShapeType.TextBox` especifica que estamos criando uma forma de caixa de texto.
-- `textBox`é a instância real da caixa de texto que iremos manipular.
+- `textBox` é a instância real da caixa de texto que iremos manipular.
 
 ## Etapa 3: Verificando a sequência de caixas de texto
 
-O cerne deste tutorial está em verificar onde uma caixa de texto se encaixa na sequência geral — seja no começo, no meio ou no fim. Isso é crucial para garantir o fluxo lógico em documentos que contêm elementos sequenciais.
+cerne deste tutorial está em verificar onde uma caixa de texto se encaixa na sequência geral — seja no começo, no meio ou no fim. Isso é crucial para garantir o fluxo lógico em documentos que contêm elementos sequenciais.
 
 Use o código a seguir para determinar a posição de uma caixa de texto na sequência:
 
@@ -126,7 +126,7 @@ Conhecer a sequência permite que você gerencie o fluxo lógico do conteúdo, e
 Sim, as caixas de texto podem ser vinculadas de várias maneiras, desde que o arranjo resultante faça sentido para o seu conteúdo.
 
 ### Como posso desvincular uma caixa de texto de uma sequência?
- Você pode definir seu`Next` ou`Previous` propriedades para`null` conforme necessário.
+ Você pode definir seu`Next` ou`Previous` propriedades para`null`conforme necessário.
 
 ### É possível estilizar o texto dentro de caixas de texto vinculadas de forma diferente?
 Claro! Você pode aplicar estilos independentes ao conteúdo de cada caixa de texto, fornecendo flexibilidade de design.

@@ -15,7 +15,7 @@ Standen Sie schon einmal vor der Aufgabe, ein Word-Dokument zu erstellen, das kl
 
 Bevor wir beginnen, stellen Sie sicher, dass Sie Folgendes haben:
 
-1.  Aspose.Words für .NET-Bibliothek: Laden Sie die neueste Version herunter[Hier](https://releases.aspose.com/words/net/).
+1. Aspose.Words für .NET-Bibliothek: Laden Sie die neueste Version herunter[Hier](https://releases.aspose.com/words/net/).
 2. Entwicklungsumgebung: Eine .NET-kompatible IDE, beispielsweise Visual Studio.
 3. Grundlegende C#-Kenntnisse: Kenntnisse der C#-Syntax sind hilfreich.
 4. Beispiel-Word-Dokument (optional): Wir erstellen zwar ein völlig neues Dokument, ein Beispiel kann jedoch zum Testen nützlich sein.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Da wir nun einen neuen Abschnitt haben, füllen wir ihn mit etwas Inhalt. 
 
- Um dem neuen Abschnitt Inhalt hinzuzufügen, müssen wir den`DocumentBuilder`Cursor zu diesem Abschnitt:
+ Um dem neuen Abschnitt Inhalt hinzuzufügen, müssen wir den`DocumentBuilder` Cursor zu diesem Abschnitt:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Lassen Sie uns abschließend das Dokument speichern, um sicherzustellen, dass un
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Ersetzen Sie unbedingt`"YourPath/YourDocument.docx"` mit dem gewünschten Dateipfad, in dem Sie das Dokument speichern möchten. Diese Zeile speichert Ihre Word-Datei mit allen Abschnitten und Inhalten intakt.
+ Ersetzen Sie unbedingt`"YourPath/YourDocument.docx"`mit dem gewünschten Dateipfad, in dem Sie das Dokument speichern möchten. Diese Zeile speichert Ihre Word-Datei mit allen Abschnitten und Inhalten intakt.
 
 ## Abschluss
 

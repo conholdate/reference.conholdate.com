@@ -2,7 +2,7 @@
 title: 突出顯示語法和拼字錯誤
 linktitle: 突出顯示語法和拼字錯誤
 second_title: Aspose.Words 文件處理 API
-description: 了解如何使用 Aspose.Words for .NET 自動偵測 Word 文件中的語法和拼字錯誤。這個逐步指南。
+description: 了解如何使用 Aspose.Words for .NET 自動偵測 Word 文件中的語法和拼字錯誤。本逐步指南。
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/words/mastering-document-options-and-settings/highlight-grammatical-and-spelling-errors/

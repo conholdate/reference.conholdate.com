@@ -125,7 +125,7 @@ O Aspose.Zip foi projetado principalmente para aplicativos .NET, mas o Aspose of
 ### Como obtenho suporte para o Aspose.Zip para .NET?
  Visite o[Fórum Aspose.Zip](https://forum.aspose.com/c/zip/37) para suporte e discussões.
 
-### Posso comprar uma licença temporária para o Aspose.Zip para .NET?
+### Posso comprar uma licença temporária do Aspose.Zip para .NET?
 Sim, você pode obter uma licença temporária[aqui](https://purchase.conholdate.com/temporary-license/).
 
 ### Onde posso encontrar a documentação do Aspose.Zip para .NET?

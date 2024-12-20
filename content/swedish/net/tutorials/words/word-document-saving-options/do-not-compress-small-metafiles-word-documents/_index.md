@@ -53,7 +53,7 @@ DocumentBuilder builder = new DocumentBuilder(doc);
 builder.Writeln("Text added to a document.");
 ```
 
- Här, a`Document` objekt initieras, och`DocumentBuilder` används för att infoga text. De`Writeln` metod lägger till en textrad till dokumentet.
+ Här, a`Document` objektet initieras, och`DocumentBuilder` används för att infoga text. De`Writeln` metoden lägger till en textrad till dokumentet.
 
 ## Steg 3: Konfigurera sparalternativ
 

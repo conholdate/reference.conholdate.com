@@ -61,7 +61,7 @@ string outputDir = "Your Document Directory";
 Workbook wb = new Workbook(sourceDir + "sampleRenderOfficeAdd-Ins.xlsx");
 ```
 
- Győződjön meg róla, hogy az Excel-fájl el van nevezve`sampleRenderOfficeAdd-Ins.xlsx` és a megadott forráskönyvtárban található. A munkafüzet betöltése egy könyv kinyitásához hasonlít; most hozzáférhet az összes tartalmához!
+ Győződjön meg róla, hogy az Excel-fájl el van nevezve`sampleRenderOfficeAdd-Ins.xlsx` és a megadott forráskönyvtárban található. A munkafüzet betöltése egy könyv kinyitásához hasonlít; most már hozzáférhet az összes tartalmához!
 
 ## 3. lépés: Mentse el a munkafüzetet PDF formátumban
 

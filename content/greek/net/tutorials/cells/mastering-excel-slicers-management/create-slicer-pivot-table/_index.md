@@ -53,7 +53,7 @@ string outputDir = "Your Document Directory"; // Αντικαταστήστε μ
 Workbook wb = new Workbook(sourceDir + "sampleCreateSlicerToPivotTable.xlsx");
 ```
 
-## Βήμα 3: Πρόσβαση στο Πρώτο φύλλο εργασίας
+## Βήμα 3: Πρόσβαση στο πρώτο φύλλο εργασίας
 
 Τώρα, ας αποκτήσουμε πρόσβαση στο φύλλο εργασίας όπου βρίσκεται ο συγκεντρωτικός πίνακας:
 

@@ -42,7 +42,7 @@ Låt oss ställa in din utvecklingsmiljö:
 Nu är din miljö redo för kodning!
 
 ## Steg 2: Definiera käll- och utdatakatalogerna
- Att definiera käll- och utdatakataloger är avgörande eftersom det dikterar var du ska hitta din Excel-fil och var den redigerade versionen ska sparas. I din`Main` metod, deklarera dessa variabler:
+ Att definiera käll- och utdatakatalogerna är avgörande eftersom det dikterar var du ska hitta din Excel-fil och var den redigerade versionen ska sparas. I din`Main` metod, deklarera dessa variabler:
 
 ```csharp
 string sourceDir = "Your Document Directory"; // Ersätt med faktisk katalog
@@ -79,7 +79,7 @@ ThreadedComment comment = worksheet.Comments.GetThreadedComments("A1")[0];
 Detta hämtar den första trådade kommentaren länkad till cell A1. Nu är du redo att redigera den!
 
 ## Steg 6: Redigera kommentaren
-Det är här handlingen sker! Uppdatera kommentarerna i kommentaren enligt följande:
+Det är här handlingen sker! Uppdatera kommentarerna till kommentaren enligt följande:
 
 ```csharp
 comment.Notes = "Updated Comment";
@@ -88,7 +88,7 @@ comment.Notes = "Updated Comment";
 Ersätt "Uppdaterad kommentar" med önskad text för att förbättra kommunikationen i arbetsboken.
 
 ## Steg 7: Spara arbetsboken
-Ändringarna du gjorde måste sparas för att träda i kraft. Lägg till den här raden för att spara dina ändringar:
+Ändringarna du gjorde måste sparas för att träda i kraft. Lägg till denna rad för att spara dina ändringar:
 
 ```csharp
 workbook.Save(outDir + "EditThreadedComments.xlsx");

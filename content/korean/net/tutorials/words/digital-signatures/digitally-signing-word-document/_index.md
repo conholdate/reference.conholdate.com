@@ -65,7 +65,7 @@ Document doc = new Document(dataDir + "Digitally signed.docx");
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`이 방법은 문서에 서명합니다. 매개변수는 원래 문서 경로, 서명된 문서에 대한 원하는 경로, 인증서 보유자입니다.
+- `DigitalSignatureUtil.Sign`: 이 방법은 문서에 서명합니다. 매개변수는 원래 문서 경로, 서명된 문서에 대한 원하는 경로, 인증서 보유자입니다.
 
 ## 5단계: 서명된 문서 저장
 

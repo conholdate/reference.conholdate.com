@@ -68,6 +68,6 @@ doc.Save(dataDir + "ConvertedDocument.docx", SaveFormat.Docx);
  يمكنك شراء ترخيص[هنا](https://purchase.conholdate.com/buy).
 
 ### أين يمكنني الحصول على الدعم لـ Aspose.Words؟
- الكلمات المتشابهة[منتدى الدعم](https://forum.aspose.com/c/words/8) متاح للمساعدة.
+الكلمات المتشابهة[منتدى الدعم](https://forum.aspose.com/c/words/8) متاح للمساعدة.
 
 

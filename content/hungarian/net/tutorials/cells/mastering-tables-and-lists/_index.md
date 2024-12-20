@@ -28,7 +28,7 @@ Az Excel-táblázatok hatékonyak, de néha rugalmasságra van szükség. Ilyenk
 ### [Listaobjektumok létrehozása és kezelése Excelben az Aspose.Cells segítségével](./create-and-manage-list-object/)
 Fedezze fel, hogyan hozhat létre és kezelhet hatékonyan listaobjektumokat az Excelben az Aspose.Cells for .NET használatával. Ez az átfogó, lépésenkénti útmutató végigvezeti Önt a beállítási folyamaton.
 ### [Konvertálja a táblázatot ODS formátumba az Aspose.Cells for .NET használatával](./convert-table-to-ods-format/)
-Ismerje meg, hogyan konvertálhat zökkenőmentesen Excel-táblázatokat ODS formátumba az Aspose.Cells for .NET segítségével. Ez a lépésenkénti útmutató.
+Ismerje meg, hogyan konvertálhat zökkenőmentesen Excel-táblázatokat ODS formátumba az Aspose.Cells for .NET segítségével. Ez a lépésről-lépésre útmutató.
 ### [Konvertálja az Excel-táblázatokat tartományokká az Aspose.Cells segítségével .NET-hez](./convert-excel-tables-to-range/)
 Fedezze fel, hogyan konvertálhat zökkenőmentesen az Excel táblázatait normál tartományokká a hatékony Aspose.Cells for .NET könyvtár segítségével. Ez a lépésenkénti útmutató mindent lefed a környezet beállításától az átalakítás végrehajtásáig.
 ### [Konvertálja a táblázatokat tartományokká az opciókkal](./convert-tables-to-range-with-options/)

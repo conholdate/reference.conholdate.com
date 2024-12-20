@@ -15,7 +15,7 @@ url: /hu/net/tutorials/words/words-with-textboxes/textbox-sequences-check/
 
 Mielőtt belemerülnénk a kódba, győződjön meg arról, hogy rendelkezik a következőkkel:
 
-1.  Aspose.Words for .NET Library: Töltse le a legújabb verziót[itt](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Library: Töltse le a legújabb verziót[itt](https://releases.aspose.com/words/net/).
 2. Fejlesztői környezet: .NET-kompatibilis környezet, például a Visual Studio.
 3. Alapvető C# ismeretek: Hasznos lesz a C# szintaxis ismerete.
 4. Mintadokumentum: Hasznos, ha kéznél van egy Word-dokumentum, de ebben a példában mindent a semmiből fogunk létrehozni.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 Ebben a részletben:
 - `ShapeType.TextBox` megadja, hogy szövegdoboz alakzatot hozunk létre.
-- `textBox` tényleges szövegdoboz-példány, amelyet kezelni fogunk.
+- `textBox` a tényleges szövegdoboz-példány, amelyet kezelni fogunk.
 
 ## 3. lépés: A szövegdobozok sorrendjének ellenőrzése
 
@@ -126,7 +126,7 @@ A sorrend ismerete lehetővé teszi a tartalom logikai áramlásának kezelésé
 Igen, a szövegdobozok többféleképpen is összekapcsolhatók, mindaddig, amíg a kapott elrendezés ésszerű a tartalom szempontjából.
 
 ### Hogyan távolíthatok el egy szövegmezőt a sorozattól?
- Beállíthatod`Next` vagy`Previous` tulajdonságait`null` szükség szerint.
+ Beállíthatod`Next` vagy`Previous` tulajdonságait`null`szükség szerint.
 
 ### Lehetséges-e másképpen stílusozni a hivatkozott szövegmezőkben lévő szöveget?
 Teljesen! Különálló stílusokat alkalmazhat minden szövegdoboz tartalmára, ami rugalmasságot biztosít a tervezéshez.

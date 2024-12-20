@@ -42,7 +42,7 @@ string sourceDir = "Your Document Directory\\";
 string outDir = "Your Document Directory\\";
 ```
 
- Mindenképpen cserélje ki`"Your Document Directory\\"` a könyvtárak tényleges elérési útjaival. Ez biztosítja, hogy a program megtalálja azokat a fájlokat, amelyekkel dolgoznia kell.
+ Ügyeljen arra, hogy cserélje ki`"Your Document Directory\\"` a könyvtárak tényleges elérési útjaival. Ez biztosítja, hogy a program megtalálja azokat a fájlokat, amelyekkel dolgoznia kell.
 
 ## 2. lépés: Töltse be a munkafüzetet
 
@@ -118,12 +118,12 @@ Ez az egyszerű sor megerősíti, hogy a program problémamentesen futott.
 
 ## Következtetés
 
-A munkafüzetek tömörítési szintjének beállítása az Aspose.Cells for .NET használatával egyszerű folyamat, amely jelentős javulást eredményezhet a fájlméretben és a teljesítményben. Az ebben az útmutatóban ismertetett lépések követésével hatékonyan valósíthatja meg a tömörítést az alkalmazásaiban, javítva ezzel az Excel fájlkezelési képességeit.
+A munkafüzetek tömörítési szintjének beállítása az Aspose.Cells for .NET használatával egyszerű folyamat, amely jelentős javulást eredményezhet a fájlméretben és a teljesítményben. Az ebben az útmutatóban ismertetett lépések követésével hatékonyan implementálhatja a tömörítést az alkalmazásaiban, javítva ezzel az Excel fájlkezelési képességeit.
 
 ## GYIK
 
 ### Mi az Aspose.Cells?  
-Az Aspose.Cells egy hatékony .NET-könyvtár, amely lehetővé teszi a fejlesztők számára Excel-fájlok létrehozását, kezelését és konvertálását Microsoft Excel nélkül.
+Az Aspose.Cells egy hatékony .NET-könyvtár, amely lehetővé teszi a fejlesztők számára Excel-fájlok létrehozását, kezelését és konvertálását anélkül, hogy Microsoft Excelre lenne szüksége.
 
 ### Hogyan telepíthetem az Aspose.Cells-t?  
  Az Aspose.Cells letölthető és telepíthető a[Aspose honlapja](https://releases.aspose.com/cells/net/).

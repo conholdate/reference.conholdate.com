@@ -17,7 +17,7 @@ Sebelum menyelami kodenya, penting untuk memastikan Anda telah menyiapkan pengat
 
 ### Aspose.Words untuk .NET
 
-Untuk memulai, Anda memerlukan Aspose.Words untuk .NET. Jika Anda belum memilikinya, unduh dari[situs web](https://releases.aspose.com/words/net/) Jika Anda baru mengenal Aspose.Words, Anda dapat mencobanya secara gratis dengan mengunduh[uji coba gratis](https://releases.aspose.com/).
+ Untuk memulai, Anda memerlukan Aspose.Words untuk .NET. Jika Anda belum memilikinya, unduh dari[situs web](https://releases.aspose.com/words/net/)Jika Anda baru mengenal Aspose.Words, Anda dapat mencobanya secara gratis dengan mengunduh[uji coba gratis](https://releases.aspose.com/).
 
 ### Lingkungan Pengembangan
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Memuat Dokumen
 
-Selanjutnya, kita akan memuat dokumen ke dalam program. Ini dapat dilakukan dengan menggunakan`Document` kelas yang disediakan oleh Aspose.Words. Potongan kode berikut menunjukkan cara memuat dokumen Word dari direktori yang ditentukan.
+ Selanjutnya, kita akan memuat dokumen ke dalam program. Ini dapat dilakukan dengan menggunakan`Document`kelas yang disediakan oleh Aspose.Words. Potongan kode berikut menunjukkan cara memuat dokumen Word dari direktori yang ditentukan.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Baris kode tunggal ini memastikan bahwa dokumen tidak lagi menyimpan data pribad
 
 ### 2.2 Simpan Dokumen yang Sudah Dibersihkan
 
- Setelah informasi pribadi dihapus, penting untuk menyimpan dokumen yang dimodifikasi. Ini dapat dilakukan dengan menggunakan`Save`metode yang akan menulis dokumen yang diperbarui ke berkas baru, dengan mempertahankan semua perubahan.
+ Setelah informasi pribadi dihapus, penting untuk menyimpan dokumen yang dimodifikasi. Ini dapat dilakukan dengan menggunakan`Save` metode yang akan menulis dokumen yang diperbarui ke berkas baru, dengan mempertahankan semua perubahan.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

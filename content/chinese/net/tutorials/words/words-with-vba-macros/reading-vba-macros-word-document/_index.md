@@ -9,7 +9,7 @@ url: /zh/net/tutorials/words/words-with-vba-macros/reading-vba-macros-word-docum
 ---
 ## 介绍
 
-将 VBA（Visual Basic for Applications）宏合并到 Word 文档中为自动化和自定义打开了无限的可能性。无论您是审核现有宏还是开发新的自动化解决方案，了解如何有效地读取 VBA 宏都至关重要。在本指南中，我们将探讨如何使用 Aspose.Words for .NET（一个强大的 Word 文档操作库）从 Word 文档中读取 VBA 宏。通过学习本教程，您将获得访问和检查 VBA 项目的工具，使您能够充分发挥文档的潜力。
+将 VBA（Visual Basic for Applications）宏合并到 Word 文档中为自动化和自定义打开了无限的可能性。无论您是审核现有宏还是开发新的自动化解决方案，了解如何有效地读取 VBA 宏都至关重要。在本指南中，我们将探讨如何使用 Aspose.Words for .NET（一个用于 Word 文档操作的强大库）从 Word 文档中读取 VBA 宏。通过学习本教程，您将获得访问和检查 VBA 项目的工具，使您能够充分发挥文档的潜力。
 
 ## 先决条件
 

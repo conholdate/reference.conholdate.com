@@ -17,7 +17,7 @@ Avant de plonger dans le code, il est essentiel de vous assurer que vous dispose
 
 ### Aspose.Words pour .NET
 
-Pour commencer, vous avez besoin d'Aspose.Words pour .NET. Si vous ne l'avez pas déjà fait, téléchargez-le à partir du[site web](https://releases.aspose.com/words/net/) Si vous êtes nouveau sur Aspose.Words, vous pouvez l'essayer gratuitement en téléchargeant un[essai gratuit](https://releases.aspose.com/).
+ Pour commencer, vous avez besoin d'Aspose.Words pour .NET. Si vous ne l'avez pas déjà fait, téléchargez-le à partir du[site web](https://releases.aspose.com/words/net/)Si vous êtes nouveau sur Aspose.Words, vous pouvez l'essayer gratuitement en téléchargeant un[essai gratuit](https://releases.aspose.com/).
 
 ### Environnement de développement
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Charger le document
 
-Ensuite, nous allons charger le document dans le programme. Cela peut être fait en utilisant le`Document` classe fournie par Aspose.Words. L'extrait de code suivant montre comment charger un document Word à partir du répertoire spécifié.
+ Ensuite, nous allons charger le document dans le programme. Cela peut être fait en utilisant le`Document`classe fournie par Aspose.Words. L'extrait de code suivant montre comment charger un document Word à partir du répertoire spécifié.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Cette seule ligne de code garantit que le document ne conserve plus aucune donn�
 
 ### 2.2 Enregistrer le document nettoyé
 
- Une fois les informations personnelles supprimées, il est essentiel de sauvegarder le document modifié. Cela peut être fait en utilisant le`Save`méthode qui écrira le document mis à jour dans un nouveau fichier, en préservant toutes les modifications.
+ Une fois les informations personnelles supprimées, il est essentiel de sauvegarder le document modifié. Cela peut être fait en utilisant le`Save` méthode qui écrira le document mis à jour dans un nouveau fichier, en préservant toutes les modifications.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

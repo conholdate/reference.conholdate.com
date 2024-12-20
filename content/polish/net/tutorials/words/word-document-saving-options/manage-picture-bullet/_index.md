@@ -17,7 +17,7 @@ Zanim zagłębisz się w kod, upewnij się, że masz następujące elementy:
 
 1.  Aspose.Words dla .NET: Pobierz i zainstaluj tę solidną bibliotekę z[Strona internetowa Aspose](https://releases.aspose.com/words/net/).
 2. Środowisko programistyczne: działające środowisko .NET, np. Visual Studio.
-3. Podstawowa znajomość języka C#: Znajomość programowania w języku C# będzie dodatkowym atutem.
+3. Podstawowa znajomość języka C#: Znajomość programowania w języku C# będzie zaletą.
 4. Przykładowy dokument: Dokument Word zawierający punkty graficzne do testowania.
 
 Podzielmy ten proces na jasne kroki, aby ułatwić jego śledzenie.
@@ -77,7 +77,7 @@ doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 
 ## Wniosek
 
-masz to! Za pomocą zaledwie kilku linijek kodu udało Ci się skonfigurować Aspose.Words dla .NET tak, aby pomijał punkty obrazkowe podczas zapisywania dokumentów. Ta funkcja jest niezwykle przydatna do uzyskania czystego i spójnego wyglądu dokumentu.
+I masz to! Za pomocą zaledwie kilku linijek kodu udało Ci się skonfigurować Aspose.Words dla .NET tak, aby pomijał punkty obrazkowe podczas zapisywania dokumentów. Ta funkcja jest niezwykle przydatna do uzyskania czystego i spójnego wyglądu dokumentu.
 
 ## Najczęściej zadawane pytania
 

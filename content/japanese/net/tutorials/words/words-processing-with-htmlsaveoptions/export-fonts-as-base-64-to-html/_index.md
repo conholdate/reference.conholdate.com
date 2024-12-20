@@ -32,7 +32,7 @@ using Aspose.Words.Saving;
 
 ### 1.1 新しいプロジェクトを作成する
 
-- Visual Studioを開き、新しいコンソールアプリケーションプロジェクトを作成します。わかりやすい名前を付けます。`ExportFontsBase64`.
+-  Visual Studioを開き、新しいコンソールアプリケーションプロジェクトを作成します。わかりやすい名前を付けます。`ExportFontsBase64`.
 
 ### 1.2 Aspose.Wordsをインストールする
 

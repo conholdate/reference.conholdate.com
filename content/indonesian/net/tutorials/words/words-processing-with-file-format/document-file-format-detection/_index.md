@@ -16,7 +16,7 @@ Mengelola dan mengatur berbagai format dokumen secara efisien sangat penting dal
 Sebelum kita memulai, pastikan persyaratan berikut terpenuhi:
 
 1. Pustaka Aspose.Words untuk .NET  
-    Unduh perpustakaan dari[Rilisan Aspose Words](https://releases.aspose.com/words/net/) dan mengaktifkannya menggunakan lisensi yang valid. Untuk lisensi sementara, kunjungi[Aspose Lisensi Sementara](https://purchase.aspose.com/temporary-license/).
+    Unduh perpustakaan dari[Rilisan Aspose Words](https://releases.aspose.com/words/net/)dan mengaktifkannya menggunakan lisensi yang valid. Untuk lisensi sementara, kunjungi[Aspose Lisensi Sementara](https://purchase.aspose.com/temporary-license/).
 
 2. Lingkungan Pengembangan  
    Gunakan Visual Studio (versi terbaru) dengan .NET Framework terinstal.
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- Itu`FileFormatUtil.DetectFileFormat` Metode ini sangat penting untuk mengidentifikasi karakteristik dokumen.
+ Itu`FileFormatUtil.DetectFileFormat`Metode ini sangat penting untuk mengidentifikasi karakteristik dokumen.
 
 ## Kesimpulan
 

@@ -92,4 +92,4 @@ Aspose.TeX는 주로 TeX 및 LaTeX 문서 처리에 중점을 둡니다. 다른 
 
 ### .NET용 Aspose.TeX를 어떻게 구매할 수 있나요?
 
- Aspose.TeX for .NET을 직접 구매할 수 있습니다.[구매 페이지](https://purchase.conholdate.com/buy).
+Aspose.TeX for .NET을 직접 구매할 수 있습니다.[구매 페이지](https://purchase.conholdate.com/buy).

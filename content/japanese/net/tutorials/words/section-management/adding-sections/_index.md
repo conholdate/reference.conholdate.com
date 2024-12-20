@@ -15,7 +15,7 @@ url: /ja/net/tutorials/words/section-management/adding-sections/
 
 始める前に、以下のものを用意してください。
 
-1.  Aspose.Words for .NET ライブラリ: 最新バージョンをダウンロード[ここ](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET ライブラリ: 最新バージョンをダウンロード[ここ](https://releases.aspose.com/words/net/).
 2. 開発環境: Visual Studio などの .NET 互換 IDE。
 3. 基本的な C# の知識: C# 構文に精通していると役立ちます。
 4. サンプル Word ドキュメント (オプション): 最初から作成しますが、サンプルがあるとテストに役立ちます。

@@ -32,7 +32,7 @@ Bu ad alanı, Word belgelerini programlı olarak işlemek için gereken tüm ara
 
 ## Adım 1: Ortamınızı Ayarlama
 
-1.  Aspose.Words'ü yükleyin: .NET için Aspose.Words'ü indirin ve yükleyin[Burada](https://releases.aspose.com/words/net/).
+1. Aspose.Words'ü yükleyin: .NET için Aspose.Words'ü indirin ve yükleyin[Burada](https://releases.aspose.com/words/net/).
 2. .NET Projesi Oluşturun: Visual Studio'yu açın ve yeni bir C# projesi oluşturun.
 3. Aspose.Words Referansını Ekle: Projenize kütüphane referansını ekleyin.
 

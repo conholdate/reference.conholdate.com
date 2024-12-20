@@ -15,7 +15,7 @@ Hallo! Als u een digitale handtekening wilt toevoegen aan uw Word-document met e
 
 Zorg ervoor dat u het volgende bij de hand hebt voordat u aan de slag gaat:
 
-1.  Aspose.Words voor .NET-bibliotheek:[Download het hier](https://releases.aspose.com/words/net/).
+1. Aspose.Words voor .NET-bibliotheek:[Download het hier](https://releases.aspose.com/words/net/).
 2. Ontwikkelomgeving: Visual Studio of een andere C#-compatibele IDE.
 3.  Word-document: Een document met een handtekeningregel (bijv.`Signature line.docx`).
 4.  Digitaal Certificaat: A`.pfx` certificaatbestand (bijv.`morzal.pfx`).
@@ -115,4 +115,4 @@ Absoluut! Je kunt door meerdere documenten heen lopen en het ondertekeningsproce
 
 ### Wat als mijn document geen handtekeningregel heeft?
 
-moet eerst een handtekeningregel invoegen. Aspose.Words biedt methoden om handtekeningregels programmatisch toe te voegen.
+U moet eerst een handtekeningregel invoegen. Aspose.Words biedt methoden om handtekeningregels programmatisch toe te voegen.

@@ -127,7 +127,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to Aspose.Diagram for .NET**
 
-Az Aspose.Diagram egy tiszta .NET API a Microsoft Visio objektummodelljével való együttműködéshez. Az Aspose.Diagram jobb teljesítményt biztosít, és könnyebben használható diagramok kezelésére és fájlok konvertálására, mint a Microsoft Office Automation.
+Az Aspose.Diagram egy tiszta .NET API a Microsoft Visio objektummodelljével való együttműködéshez. Az Aspose.Diagram jobb teljesítményt nyújt, és könnyebben használható diagramok kezelésére és fájlok konvertálására, mint a Microsoft Office Automation.
 
 Az Aspose.Diagram kihasználja a Microsoft Office Visio által biztosított fejlett funkciókat a kiszolgálón lévő Visio diagramok kezeléséhez. Az Aspose.Diagram API bővíthető, könnyen használható, kompakt, és az összes leggyakoribb funkciót biztosítja, így a fejlesztők kevesebb kódot írhatnak.
 

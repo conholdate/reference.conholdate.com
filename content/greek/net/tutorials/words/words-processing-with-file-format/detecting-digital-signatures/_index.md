@@ -61,7 +61,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 FileFormatInfo info = FileFormatUtil.DetectFileFormat(Path.Combine(dataDir, "Digitally signed.docx"));
 ```
 
- Αυτός ο κώδικας ελέγχει τη μορφή του`Digitally signed.docx`.
+ Αυτός ο κωδικός ελέγχει τη μορφή του`Digitally signed.docx`.
 
 ## Βήμα 5: Ελέγξτε για ψηφιακές υπογραφές
 
@@ -91,7 +91,7 @@ else
 
 ### Μπορώ να εντοπίσω πολλές ψηφιακές υπογραφές σε ένα έγγραφο;
 
- Ναι, το`HasDigitalSignature` Η ιδιότητα υποδεικνύει εάν υπάρχουν μία ή περισσότερες ψηφιακές υπογραφές.
+ Ναι, το`HasDigitalSignature`Η ιδιότητα υποδεικνύει εάν υπάρχουν μία ή περισσότερες ψηφιακές υπογραφές.
 
 ### Πώς μπορώ να αποκτήσω μια δωρεάν δοκιμή του Aspose.Words για .NET;
 

@@ -17,7 +17,7 @@ url: /ar/net/tutorials/words/mastering-document-properties/remove-personal-infor
 
 ### كلمات Aspose لـ .NET
 
-للبدء، تحتاج إلى Aspose.Words لـ .NET. إذا لم تقم بتنزيله بالفعل، فقم بتنزيله من[موقع إلكتروني](https://releases.aspose.com/words/net/) إذا كنت جديدًا على Aspose.Words، فيمكنك تجربته مجانًا عن طريق تنزيل[نسخة تجريبية مجانية](https://releases.aspose.com/).
+ للبدء، تحتاج إلى Aspose.Words لـ .NET. إذا لم تقم بتنزيله بالفعل، فقم بتنزيله من[موقع إلكتروني](https://releases.aspose.com/words/net/)إذا كنت جديدًا على Aspose.Words، فيمكنك تجربته مجانًا عن طريق تنزيل[نسخة تجريبية مجانية](https://releases.aspose.com/).
 
 ### بيئة التطوير
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 تحميل المستند
 
-بعد ذلك، سنقوم بتحميل المستند إلى البرنامج. ويمكن القيام بذلك باستخدام`Document` تم توفير الفئة بواسطة Aspose.Words. يوضح مقتطف التعليمات البرمجية التالي كيفية تحميل مستند Word من الدليل المحدد.
+ بعد ذلك، سنقوم بتحميل المستند إلى البرنامج. ويمكن القيام بذلك باستخدام`Document`تم توفير الفئة بواسطة Aspose.Words. يوضح مقتطف التعليمات البرمجية التالي كيفية تحميل مستند Word من الدليل المحدد.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ doc.RemovePersonalInformation = true;
 
 ### 2.2 احفظ المستند المنظف
 
- بمجرد إزالة المعلومات الشخصية، من الضروري حفظ المستند المعدّل. يمكن القيام بذلك باستخدام`Save`الطريقة التي ستكتب بها المستند المحدث في ملف جديد، مع الحفاظ على جميع التغييرات.
+ بمجرد إزالة المعلومات الشخصية، من الضروري حفظ المستند المعدّل. يمكن القيام بذلك باستخدام`Save` الطريقة التي ستكتب بها المستند المحدث في ملف جديد، مع الحفاظ على جميع التغييرات.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

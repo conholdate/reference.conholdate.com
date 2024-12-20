@@ -9,7 +9,7 @@ url: /hu/net/tutorials/words/words-processing-with-file-format/detecting-digital
 ---
 ## Bevezetés
 
-A digitális korban a dokumentumok integritásának és hitelességének biztosítása fontosabb, mint valaha. Ennek egyik hatékony módja a digitális aláírás használata. Ebben az oktatóanyagban megvizsgáljuk, hogyan lehet felismerni a digitális aláírásokat Word dokumentumokban az Aspose.Words for .NET könyvtár használatával. A végére alaposan megérti a folyamatot.
+digitális korban a dokumentumok integritásának és hitelességének biztosítása fontosabb, mint valaha. Ennek egyik hatékony módja a digitális aláírás használata. Ebben az oktatóanyagban megvizsgáljuk, hogyan lehet felismerni a digitális aláírásokat Word dokumentumokban az Aspose.Words for .NET könyvtár használatával. A végére alaposan megérti a folyamatot.
 
 ## Előfeltételek
 
@@ -91,7 +91,7 @@ Nem, az Aspose.Words for .NET nem őrzi meg a digitális aláírásokat dokument
 
 ### Érzékelhetek több digitális aláírást egy dokumentumban?
 
- Igen, a`HasDigitalSignature` tulajdonság azt jelzi, hogy van-e egy vagy több digitális aláírás.
+ Igen, a`HasDigitalSignature`tulajdonság azt jelzi, hogy van-e egy vagy több digitális aláírás.
 
 ### Hogyan szerezhetem be az Aspose.Words for .NET ingyenes próbaverzióját?
 

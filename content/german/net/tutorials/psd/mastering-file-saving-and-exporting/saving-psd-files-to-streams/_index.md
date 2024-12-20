@@ -47,7 +47,7 @@ Identifizieren Sie den Speicherort Ihrer PSD-Quelldatei und wo Sie das Bild spei
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Pfad zu Ihrer Quell-PSD-Datei
-string destName = dataDir + "result.png";   //Pfad für die Ausgabebilddatei
+string destName = dataDir + "result.png";   // Pfad für die Ausgabebilddatei
 ```
 
 ## Schritt 3: Laden Sie das PSD-Bild und behandeln Sie nicht gefundene Schriftarten

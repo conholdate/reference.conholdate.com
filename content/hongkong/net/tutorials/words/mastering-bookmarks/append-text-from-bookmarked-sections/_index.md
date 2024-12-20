@@ -60,7 +60,7 @@ if (startPara == null || endPara == null)
     throw new InvalidOperationException("Bookmark start or end does not have a valid paragraph parent.");
 ```
 
-## 第 3 步：驗證段落父級
+## 第 3 步：驗證段落父項
 
 我們需要確保開始和結束段落共享相同的父節點。這是避免複雜化的簡化方法。
 

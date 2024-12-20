@@ -73,7 +73,7 @@ To vám efektivně zajistí čistý pracovní list bez přerušení.
 Po vymazání zalomení stránek uložte změny a dokončete sešit:
 
 ```csharp
-// Uložte soubor aplikace Excel
+// Uložte soubor Excel
 workbook.Save(dataDir + "ClearAllPageBreaks_out.xls");
 ```
 
@@ -94,7 +94,7 @@ Ano, můžete procházet každý list v sešitu a vymazat konce stránek jednotl
 ### Potřebuji licenci k používání Aspose.Cells pro .NET?  
  Pro plnou funkčnost bez omezení je nutná licence. Můžete[získat bezplatnou zkušební verzi](https://releases.aspose.com/) nebo[zakoupit plnou licenci](https://purchase.aspose.com/buy).
 
-### Mohu po vymazání přidat nové konce stránek?  
+### Mohu přidat nové konce stránek po jejich vymazání?  
  Absolutně! Konce stránek můžete znovu zavést pomocí metod jako`AddHorizontalPageBreak` a`AddVerticalPageBreak`.
 
 ### Podporuje Aspose.Cells další změny formátování?  

@@ -9,7 +9,7 @@ url: /hu/net/tutorials/cells/guide-worksheet-operations/extract-threaded-comment
 ---
 ## Bevezetés
 
-A digitális korszakban a dokumentumok kezelése és együttműködése elengedhetetlen a munkafolyamatunkhoz. A gyakran adatokban és információkban gazdag Excel-táblázatok gyakran tartalmaznak megjegyzéseket, amelyek további kontextust vagy javaslatokat tartalmaznak. A .NET-hez készült Aspose.Cells segítségével a szálas megjegyzések kinyerése és kezelése zökkenőmentes lehet. Ez az oktatóanyag végigvezeti Önt azokon a lépéseken, amelyek segítségével hatékonyan lekérheti a szálas megjegyzéseket egy Excel-munkalapról, függetlenül a programozási tapasztalatától. 
+A digitális korszakban a dokumentumok kezelése és együttműködése létfontosságú munkafolyamatunk szempontjából. A gyakran adatokban és információkban gazdag Excel-táblázatok gyakran tartalmaznak megjegyzéseket, amelyek további kontextust vagy javaslatokat tartalmaznak. A .NET-hez készült Aspose.Cells segítségével a szálas megjegyzések kinyerése és kezelése zökkenőmentes lehet. Ez az oktatóanyag végigvezeti Önt azokon a lépéseken, amelyek segítségével hatékonyan lekérheti a szálas megjegyzéseket egy Excel-munkalapról, függetlenül a programozási tapasztalatától. 
 
 ## Előfeltételek
 Mielőtt belevágnánk a kódolásba, győződjön meg arról, hogy rendelkezik a következőkkel:
@@ -63,7 +63,7 @@ ThreadedCommentCollection threadedComments = worksheet.Comments.GetThreadedComme
 ```
 
 ## 5. lépés: Ismételje meg a megjegyzéseket
-A szálas megjegyzések gyűjteményével a kezében böngésszen végig minden megjegyzésen, hogy kinyerje a releváns információkat, például a megjegyzés szövegét és a szerző nevét.
+A szálas megjegyzések gyűjteményével a kezében böngésszen végig minden megjegyzésen, hogy kivonja a releváns információkat, például a megjegyzés szövegét és a szerző nevét.
 
 ```csharp
 // Lapozzon végig minden szálas megjegyzésen

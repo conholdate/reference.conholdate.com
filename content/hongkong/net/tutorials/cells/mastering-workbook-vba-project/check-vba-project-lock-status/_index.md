@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/cells/mastering-workbook-vba-project/check-vba-proje
 ---
 ## 介紹
 
-在 Excel 程式設計領域，Visual Basic for Applications (VBA) 改變了遊戲規則。它允許使用者自動執行重複性任務、建立自訂函數並增強 Excel 電子表格的功能。但是，遇到鎖定的 VBA 專案可能會令人沮喪，因此無法存取所需的程式碼。本指南將引導您檢查 VBA 專案是否受到保護並鎖定以供使用 Aspose.Cells for .NET 檢視。如果您曾經遇到過鎖定 VBA 專案的煩惱，那麼本指南適合您！
+在 Excel 程式設計領域，Visual Basic for Applications (VBA) 改變了遊戲規則。它允許使用者自動執行重複性任務、建立自訂函數並增強 Excel 電子表格的功能。但是，遇到鎖定的 VBA 專案可能會令人沮喪，因此無法存取所需的程式碼。本指南將引導您檢查 VBA 專案是否受到保護並鎖定以供使用 Aspose.Cells for .NET 查看。如果您曾經遇到過鎖定 VBA 專案的煩惱，那麼本指南適合您！
 
 ## 先決條件
 

@@ -77,7 +77,7 @@ Gratulacje! Udało Ci się przekonwertować określoną stronę dokumentu Word n
  Jakość pliku JPEG można poprawić za pomocą`JpegQuality`nieruchomość w`ImageSaveOptions`Wartości mieszczą się w zakresie od 0 (najniższa jakość) do 100 (najwyższa jakość).
 
 ### Czy mogę zapisać obraz w innych formatach?  
- Tak, Aspose.Words obsługuje kilka formatów obrazów, w tym PNG, BMP i TIFF. Wystarczy zmienić`SaveFormat` W`ImageSaveOptions` do żądanego formatu.
+ Tak, Aspose.Words obsługuje kilka formatów obrazów, w tym PNG, BMP i TIFF. Wystarczy zmienić`SaveFormat` W`ImageSaveOptions`do żądanego formatu.
 
 ### Czy istnieje sposób na podgląd obrazu przed zapisaniem?  
 Aspose.Words nie zawiera wbudowanej funkcji podglądu, ale można utworzyć niestandardowy mechanizm podglądu za pomocą aplikacji Windows Forms lub WPF.

@@ -42,7 +42,7 @@ LoadOptions loadOptions = new LoadOptions();
 
 ### Ställ in standardredigeringsspråk på ryska
 
- Ställ sedan in`DefaultEditingLanguage` egendom till ryska:
+Ställ sedan in`DefaultEditingLanguage` egendom till ryska:
 
 ```csharp
 loadOptions.LanguagePreferences.DefaultEditingLanguage = EditingLanguage.Russian;
@@ -99,7 +99,7 @@ Denna utdata kommer att informera dig om huruvida standardredigeringsspråket ha
 
 ## Slutsats
 
- Att ställa in ryska som standardredigeringsspråk i ett Word-dokument med Aspose.Words för .NET är en enkel process. Genom att konfigurera`LoadOptions`, laddar dokumentet och verifierar språkinställningarna, kan du skräddarsy dina dokument för att effektivt möta din publiks språkliga behov.
+Att ställa in ryska som standardredigeringsspråk i ett Word-dokument med Aspose.Words för .NET är en enkel process. Genom att konfigurera`LoadOptions`, laddar dokumentet och verifierar språkinställningarna, kan du skräddarsy dina dokument för att effektivt möta din publiks språkliga behov.
 
 ## FAQ's
 
@@ -121,4 +121,4 @@ Aspose.Words för .NET är ett omfattande bibliotek för att programmatiskt skap
 
 ### Hur kan jag få support för Aspose.Words för .NET?
 
- För support, besök[Aspose Support](https://forum.aspose.com/c/words/8) forum, där du kan ställa frågor och få hjälp från communityn och Aspose-utvecklare.
+ För support, besök[Aspose Support](https://forum.aspose.com/c/words/8)forum, där du kan ställa frågor och få hjälp från communityn och Aspose-utvecklare.

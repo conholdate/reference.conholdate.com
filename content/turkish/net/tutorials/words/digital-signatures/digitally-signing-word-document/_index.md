@@ -65,7 +65,7 @@ Belge ve sertifika yüklendikten sonra imzalama zamanı geldi:
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Bu yöntem belgeyi imzalar. Parametreler orijinal belge yolu, imzalanan belge için istenen yol ve sertifika sahibidir.
+- `DigitalSignatureUtil.Sign`: Bu yöntem belgeyi imzalar. Parametreler orijinal belge yolu, imzalanan belge için istenen yol ve sertifika sahibidir.
 
 ## Adım 5: İmzalanmış Belgeyi Kaydedin
 

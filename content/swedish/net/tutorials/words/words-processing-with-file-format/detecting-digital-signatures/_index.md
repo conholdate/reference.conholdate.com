@@ -9,7 +9,7 @@ url: /sv/net/tutorials/words/words-processing-with-file-format/detecting-digital
 ---
 ## Introduktion
 
-I den digitala tidsåldern är det viktigare än någonsin att säkerställa integriteten och äktheten hos dina dokument. En effektiv metod för att uppnå detta är genom att använda digitala signaturer. I den här självstudien kommer vi att utforska hur man upptäcker digitala signaturer i Word-dokument med hjälp av Aspose.Words for .NET-biblioteket. I slutet kommer du att ha en gedigen förståelse för processen.
+den digitala tidsåldern är det viktigare än någonsin att säkerställa integriteten och äktheten hos dina dokument. En effektiv metod för att uppnå detta är genom att använda digitala signaturer. I den här självstudien kommer vi att utforska hur man upptäcker digitala signaturer i Word-dokument med hjälp av Aspose.Words for .NET-biblioteket. I slutet kommer du att ha en gedigen förståelse för processen.
 
 ## Förutsättningar
 
@@ -91,7 +91,7 @@ Nej, Aspose.Words för .NET bevarar inte digitala signaturer när du öppnar ell
 
 ### Kan jag upptäcka flera digitala signaturer i ett dokument?
 
- Ja, den`HasDigitalSignature` egenskap anger om en eller flera digitala signaturer finns.
+ Ja, den`HasDigitalSignature`egenskap anger om en eller flera digitala signaturer finns.
 
 ### Hur kan jag få en gratis provversion av Aspose.Words för .NET?
 

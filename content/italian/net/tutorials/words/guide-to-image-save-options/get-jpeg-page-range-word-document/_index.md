@@ -77,7 +77,7 @@ Congratulazioni! Hai convertito con successo una pagina specifica di un document
  È possibile migliorare la qualità JPEG tramite`JpegQuality`proprietà in`ImageSaveOptions`I valori vanno da 0 (qualità minima) a 100 (qualità massima).
 
 ### Posso salvare le immagini in altri formati?  
- Sì, Aspose.Words supporta diversi formati di immagine, tra cui PNG, BMP e TIFF. Basta cambiare il`SaveFormat` In`ImageSaveOptions` nel formato desiderato.
+ Sì, Aspose.Words supporta diversi formati di immagine, tra cui PNG, BMP e TIFF. Basta cambiare il`SaveFormat` In`ImageSaveOptions`nel formato desiderato.
 
 ### C'è un modo per visualizzare in anteprima l'immagine prima di salvarla?  
 Aspose.Words non include una funzionalità di anteprima integrata, ma è possibile creare un meccanismo di anteprima personalizzato utilizzando un'applicazione Windows Forms o WPF.

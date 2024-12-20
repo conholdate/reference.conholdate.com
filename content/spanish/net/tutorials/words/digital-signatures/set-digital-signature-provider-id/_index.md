@@ -15,7 +15,7 @@ url: /es/net/tutorials/words/digital-signatures/set-digital-signature-provider-i
 
 Antes de sumergirte, asegúrate de tener lo siguiente:
 
-1.  Biblioteca Aspose.Words para .NET:[Descargalo aquí](https://releases.aspose.com/words/net/).
+1. Biblioteca Aspose.Words para .NET:[Descargalo aquí](https://releases.aspose.com/words/net/).
 2. Entorno de desarrollo: Visual Studio o cualquier IDE compatible con C#.
 3.  Documento de Word: Un documento con una línea de firma (por ejemplo,`Signature line.docx`).
 4.  Certificado Digital: A`.pfx` archivo de certificado (por ejemplo,`morzal.pfx`).

@@ -21,7 +21,7 @@ Tutorial e frammenti di codice Aspose.PDF per lavorare con file PDF. Crea, modif
 {{% /alert %}}
 
 ### Tutorial Aspose.PDF
-- [Tutorial Aspose.PDF per .NET](./pdf/)
+- [Tutorial su Aspose.PDF per .NET](./pdf/)
 
 ## Aspose.Cellule
 {{% alert color="primary" %}}

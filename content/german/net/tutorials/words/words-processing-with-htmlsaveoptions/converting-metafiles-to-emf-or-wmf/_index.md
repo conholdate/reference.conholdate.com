@@ -9,7 +9,7 @@ url: /de/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 ---
 ## Einführung
 
-Die effiziente Verwaltung und Konvertierung von Bildformaten ist ein entscheidender Bestandteil der Erstellung professioneller Word-Dokumente. In diesem Handbuch erfahren Sie, wie Sie mit Aspose.Words für .NET SVG-Bilder in die Formate EMF (Enhanced Metafile) oder WMF (Windows Metafile) konvertieren, um eine nahtlose Integration zu gewährleisten. Dieses Tutorial enthält klare Schritt-für-Schritt-Anweisungen, mit denen Entwickler die Konvertierung problemlos durchführen können.
+Die effiziente Verwaltung und Konvertierung von Bildformaten ist ein entscheidender Bestandteil der Erstellung professioneller Word-Dokumente. In diesem Handbuch erfahren Sie, wie Sie mit Aspose.Words für .NET SVG-Bilder in die Formate EMF (Enhanced Metafile) oder WMF (Windows Metafile) konvertieren, um eine nahtlose Integration zu gewährleisten. Dieses Tutorial enthält klare, schrittweise Anweisungen, die Entwicklern dabei helfen, die Konvertierung problemlos durchzuführen.
 
 ## Voraussetzungen für die Konvertierung von SVG in EMF oder WMF
 

@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/cells/mastering-workbook-operations/accessing-excel-
 
 在開始之前，請確保您已進行以下設定：
 
-1. Visual Studio：撰寫和執行 C# 程式碼所需。
+1. Visual Studio：編寫和執行 C# 程式碼所需的。
 2.  Aspose.Cells for .NET：下載[這裡](https://releases.aspose.com/cells/net/).
 3. 範例 Excel 檔案：我們將利用`WebExtensionsSample.xlsx`分析網路擴展數據。
 4. 基本 C# 知識：熟悉 C# 將幫助您有效地瀏覽程式碼。

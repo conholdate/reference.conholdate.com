@@ -63,7 +63,7 @@ Document doc = new Document(dataDir + "YourDocument.docx");
 
  Ez a sor inicializál egy újat`Document` a Word fájlt tartalmazó objektum.
 
-## 3. lépés: Konvertálja és mentse PDF-ként
+## 3. lépés: Konvertálás és mentés PDF-ként
 
 Most az izgalmas rész – a dokumentum PDF formátumban történő mentése. Egyszerűen használja a következő kódsort:
 

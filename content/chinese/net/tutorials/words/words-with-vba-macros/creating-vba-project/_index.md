@@ -18,7 +18,7 @@ url: /zh/net/tutorials/words/words-with-vba-macros/creating-vba-project/
 1.  Aspose.Words for .NET Library：从以下网址下载最新版本[这里](https://releases.aspose.com/words/net/).
 2. 开发环境：设置 .NET 开发环境，例如 Visual Studio，用于编写和测试代码。
 3. 基本 C# 知识：熟悉 C# 将帮助您顺利浏览代码。
-4. 示例文档目录：准备一个目录来保存您的 Word 文档。
+4. 示例文档目录：准备一个用于保存 Word 文档的目录。
 
 ## 导入命名空间
 

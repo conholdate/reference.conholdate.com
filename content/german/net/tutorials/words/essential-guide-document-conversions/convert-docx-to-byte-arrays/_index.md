@@ -18,7 +18,7 @@ Bevor Sie in den Code eintauchen, stellen Sie sicher, dass Sie die folgenden Vor
 - Grundlegende Kenntnisse in C# und dem .NET-Framework.
 - Visual Studio ist auf Ihrem Entwicklungscomputer installiert.
 -  Die Aspose.Words für .NET-Bibliothek, die Sie herunterladen können[Hier](https://releases.aspose.com/words/net/).
--  Eine gültige Lizenz für Aspose.Words. Wenn Sie noch keine haben, können Sie eine temporäre Lizenz erwerben[Hier](https://purchase.conholdate.com/temporary-license/).
+- Eine gültige Lizenz für Aspose.Words. Wenn Sie noch keine haben, können Sie eine temporäre Lizenz erwerben[Hier](https://purchase.conholdate.com/temporary-license/).
 
 ## Namespaces importieren
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Jetzt können Sie bei Bedarf mit docFromBytes arbeiten
 }
 ```
-1.  Memory Stream Erstellung: Erstellen Sie einen`MemoryStream` aus dem Byte-Array.
+1.  Memory Stream Erstellung: Erstellen Sie einen`MemoryStream`aus dem Byte-Array.
 2. Laden von Dokumenten: Laden Sie das Dokument direkt aus dem Stream und machen Sie es für weitere Vorgänge bereit.
 
 ## Abschluss

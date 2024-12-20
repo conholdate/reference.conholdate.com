@@ -88,7 +88,7 @@ doc.Save(dataDir + "ConvertedImage.Format1BppIndexed.Png", saveOptions);
  हां, पूर्ण कार्यक्षमता के लिए लाइसेंस की आवश्यकता है। आप लाइसेंस प्राप्त कर सकते हैं[अस्थायी लाइसेंस यहाँ](https://purchase.aspose.com/temporary-license/).
 
 ### मैं अपने वर्ड दस्तावेज़ को अन्य किन छवि प्रारूपों में परिवर्तित कर सकता हूँ?
- Aspose.Words विभिन्न प्रारूपों का समर्थन करता है, जिसमें JPEG, BMP और TIFF शामिल हैं। बस बदलें`SaveFormat`में`ImageSaveOptions` अपने इच्छित प्रारूप में.
+ Aspose.Words विभिन्न प्रारूपों का समर्थन करता है, जिसमें JPEG, BMP और TIFF शामिल हैं। बस बदलें`SaveFormat` में`ImageSaveOptions`अपने इच्छित प्रारूप में.
 
 ### मैं .NET के लिए Aspose.Words पर अधिक दस्तावेज़ कहां पा सकता हूं?
  विस्तृत दस्तावेज़ीकरण के लिए, यहां जाएं[.NET के लिए Aspose.Words दस्तावेज़न पृष्ठ](https://reference.aspose.com/words/net/).

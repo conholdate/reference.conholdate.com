@@ -52,7 +52,7 @@ string outputDir = "Your Document Directory";
 
  Yer değiştirmek`"Your Document Directory"` dosyalarınızın bulunduğu gerçek yol ile. Bu adım, uygulamanızın girdi dosyasını nerede bulacağını ve çıktıyı nerede kaydedeceğini bilmesini sağlar.
 
-## Adım 2: Excel Çalışma Kitabını yükleyin
+## Adım 2: Excel Çalışma Kitabını Yükleyin
 
  Sonra, Office eklentilerini içeren örnek Excel dosyasını yükleyin. Yeni bir örnek oluşturun`Workbook` Aspose.Cells'den sınıf:
 

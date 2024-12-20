@@ -65,7 +65,7 @@ Une fois le document et le certificat chargés, il est temps de signer :
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Cette méthode signe le document. Les paramètres sont le chemin d'accès du document d'origine, le chemin d'accès souhaité pour le document signé et le titulaire du certificat.
+- `DigitalSignatureUtil.Sign`: Cette méthode signe le document. Les paramètres sont le chemin d'accès du document d'origine, le chemin d'accès souhaité pour le document signé et le titulaire du certificat.
 
 ## Étape 5 : Enregistrez le document signé
 

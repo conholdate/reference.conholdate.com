@@ -17,7 +17,7 @@ url: /th/net/tutorials/words/mastering-document-properties/remove-personal-infor
 
 ### Aspose.คำศัพท์สำหรับ .NET
 
-ในการเริ่มต้น คุณต้องมี Aspose.Words สำหรับ .NET หากคุณยังไม่มี ให้ดาวน์โหลดจาก[เว็บไซต์](https://releases.aspose.com/words/net/) หากคุณเพิ่งเริ่มใช้ Aspose.Words คุณสามารถลองใช้ได้ฟรีโดยดาวน์โหลด[ทดลองใช้งานฟรี](https://releases.aspose.com/).
+ ในการเริ่มต้น คุณต้องมี Aspose.Words สำหรับ .NET หากคุณยังไม่มี ให้ดาวน์โหลดจาก[เว็บไซต์](https://releases.aspose.com/words/net/)หากคุณเพิ่งเริ่มใช้ Aspose.Words คุณสามารถลองใช้ได้ฟรีโดยดาวน์โหลด[ทดลองใช้งานฟรี](https://releases.aspose.com/).
 
 ### สภาพแวดล้อมการพัฒนา
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 โหลดเอกสาร
 
-ต่อไปเราจะโหลดเอกสารเข้าในโปรแกรม ซึ่งสามารถทำได้โดยใช้`Document` คลาสที่จัดทำโดย Aspose.Words ตัวอย่างโค้ดต่อไปนี้จะสาธิตวิธีโหลดเอกสาร Word จากไดเร็กทอรีที่ระบุ
+ ต่อไปเราจะโหลดเอกสารเข้าในโปรแกรม ซึ่งสามารถทำได้โดยใช้`Document`คลาสที่จัดทำโดย Aspose.Words ตัวอย่างโค้ดต่อไปนี้จะสาธิตวิธีโหลดเอกสาร Word จากไดเร็กทอรีที่ระบุ
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ doc.RemovePersonalInformation = true;
 
 ### 2.2 บันทึกเอกสารที่ทำความสะอาดแล้ว
 
- เมื่อลบข้อมูลส่วนบุคคลออกแล้ว สิ่งสำคัญคือต้องบันทึกเอกสารที่แก้ไข ซึ่งสามารถทำได้โดยใช้`Save`วิธีการที่จะเขียนเอกสารที่อัปเดตไปยังไฟล์ใหม่โดยคงการเปลี่ยนแปลงทั้งหมดไว้
+ เมื่อลบข้อมูลส่วนบุคคลออกแล้ว สิ่งสำคัญคือต้องบันทึกเอกสารที่แก้ไข ซึ่งสามารถทำได้โดยใช้`Save` วิธีการที่จะเขียนเอกสารที่อัปเดตไปยังไฟล์ใหม่โดยคงการเปลี่ยนแปลงทั้งหมดไว้
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

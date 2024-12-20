@@ -65,7 +65,7 @@ Nyní můžete procházet entity v souboru DWT. Přizpůsobte logiku uvnitř smy
 ```csharp
 foreach (CadBaseEntity entity in image.Entities)
 {
-    // Provádějte operace na každé entitě CAD
+    // Provádějte operace s každou entitou CAD
     ProcessEntity(entity);
 }
 ```

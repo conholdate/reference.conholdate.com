@@ -9,7 +9,7 @@ url: /pl/net/tutorials/pdf/mastering-document-conversion/mastering-html-to-pdf/
 ---
 ## Wstęp
 
-W cyfrowym krajobrazie konwersja dokumentów HTML do formatu PDF jest powszechną koniecznością zarówno dla deweloperów, jak i firm. Niezależnie od tego, czy generujesz raporty, faktury czy jakikolwiek inny typ dokumentu, niezawodna metoda konwersji Mastering HTML do PDF z Aspose.PDF dla .NET może zaoszczędzić czas i zapewnić spójność. Ten przewodnik przeprowadzi Cię przez korzystanie z Aspose.PDF dla .NET, potężnej biblioteki, która upraszcza tworzenie, manipulowanie i konwersję dokumentów PDF.
+cyfrowym krajobrazie konwersja dokumentów HTML do formatu PDF jest powszechną koniecznością zarówno dla deweloperów, jak i firm. Niezależnie od tego, czy generujesz raporty, faktury czy jakikolwiek inny typ dokumentu, niezawodna metoda konwersji Mastering HTML do PDF z Aspose.PDF dla .NET może zaoszczędzić czas i zapewnić spójność. Ten przewodnik przeprowadzi Cię przez korzystanie z Aspose.PDF dla .NET, potężnej biblioteki, która upraszcza tworzenie, manipulowanie i konwersję dokumentów PDF.
 
 ## Wymagania wstępne
 
@@ -24,8 +24,8 @@ Zanim zaczniemy, upewnij się, że masz następujące rzeczy:
 
 Aby rozpocząć, wykonaj następujące kroki, aby skonfigurować katalog projektu:
 
-1. Utwórz katalog projektu: Utwórz folder o nazwie`Documents` na twoim komputerze. Tutaj będziesz przechowywać swoje pliki HTML i wyjściowy PDF.
-2.  Dodaj swój plik HTML: Umieść swój plik HTML (np.`HTMLToPDF.html` ) w`Documents` falcówka.
+1.  Utwórz katalog projektu: Utwórz folder o nazwie`Documents` na twoim komputerze. Tutaj będziesz przechowywać swoje pliki HTML i wyjściowy PDF.
+2.  Dodaj swój plik HTML: Umieść swój plik HTML (np.`HTMLToPDF.html` w`Documents` falcówka.
 
 ## Importowanie niezbędnych pakietów
 

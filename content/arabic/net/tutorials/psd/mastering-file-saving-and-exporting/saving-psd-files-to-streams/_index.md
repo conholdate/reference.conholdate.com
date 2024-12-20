@@ -47,7 +47,7 @@ string dataDir = "C:\\YourDocumentDirectory\\";
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // المسار إلى ملف PSD المصدر الخاص بك
-string destName = dataDir + "result.png";   //المسار لملف الصورة الناتجة
+string destName = dataDir + "result.png";   // المسار لملف الصورة الناتجة
 ```
 
 ## الخطوة 3: تحميل صورة PSD والتعامل مع الخطوط غير الموجودة

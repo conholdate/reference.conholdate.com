@@ -2,7 +2,7 @@
 title: Lägg till bokmärken med namngivna destinationer i PDF-filer från Excel-filer
 linktitle: Lägg till bokmärken med namngivna destinationer i PDF-filer från Excel-filer
 second_title: Aspose.Cells .NET Excel Processing API
-description: Lär dig hur du enkelt skapar interaktiva PDF-filer från Excel-filer med Aspose.Cells för .NET. Den här handledningen handlar om att lägga till bokmärken med namngivna destinationer för att förbättra PDF-navigeringen.
+description: Lär dig hur du enkelt skapar interaktiva PDF-filer från Excel-filer med Aspose.Cells för .NET. Denna handledning handlar om att lägga till bokmärken med namngivna destinationer för att förbättra PDF-navigeringen.
 type: docs
 weight: 10
 url: /sv/net/tutorials/cells/mastering-rendering-and-exporting/add-bookmarks-with-named-destinations/
@@ -55,7 +55,7 @@ Detta liknar att organisera din arbetsyta innan du startar ett projekt.
 
 ## Steg 2: Laddar Excel-arbetsboken
 
- Nästa steg är att ladda din Excel-källfil. Aspose.Cells låter dig enkelt ladda en Excel-fil till en`Workbook` objekt, som ger åtkomst till alla dess ark, celler och innehåll.
+ Nästa steg är att ladda din Excel-källfil. Aspose.Cells låter dig enkelt ladda en Excel-fil till en`Workbook` objekt som ger åtkomst till alla dess ark, celler och innehåll.
 
 ```csharp
 Workbook wb = new Workbook(sourceDir + "sampleExcelFile.xlsx");

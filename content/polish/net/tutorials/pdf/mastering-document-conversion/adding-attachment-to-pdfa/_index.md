@@ -64,7 +64,7 @@ Oto co robimy:
 
 - Podaj ścieżkę do pliku dziennika.
 -  Wybierać`PDF_A_3A` format obsługujący osadzone pliki (w przeciwieństwie do`PDF` co nie).
--  Używać`ConvertErrorAction.Delete` aby usunąć wszystkie elementy, które nie są zgodne ze standardami PDF/A.
+-  Używać`ConvertErrorAction.Delete`aby usunąć wszystkie elementy, które nie są zgodne ze standardami PDF/A.
 
 ## Krok 5: Zapisywanie wynikowego dokumentu PDF/A
 

@@ -18,7 +18,7 @@ url: /ru/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 - Базовые знания C# и фреймворка .NET.
 - Visual Studio, установленная на вашем компьютере для разработки.
 -  Библиотека Aspose.Words for .NET, которую вы можете скачать[здесь](https://releases.aspose.com/words/net/).
--  Действующая лицензия для Aspose.Words. Если у вас ее еще нет, вы можете получить временную лицензию[здесь](https://purchase.conholdate.com/temporary-license/).
+- Действующая лицензия для Aspose.Words. Если у вас ее еще нет, вы можете получить временную лицензию[здесь](https://purchase.conholdate.com/temporary-license/).
 
 ## Импорт пространств имен
 
@@ -64,10 +64,10 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Загрузить документ из MemoryStream
     Document docFromBytes = new Document(inStream);
     
-    // Теперь вы можете работать с docFromBytes по мере необходимости.
+    // Теперь вы можете работать с docFromBytes по мере необходимости
 }
 ```
-1.  Создание потока памяти: создать`MemoryStream` из байтового массива.
+1.  Создание потока памяти: создать`MemoryStream`из байтового массива.
 2. Загрузка документа: загрузите документ непосредственно из потока, подготовив его к дальнейшим операциям.
 
 ## Заключение

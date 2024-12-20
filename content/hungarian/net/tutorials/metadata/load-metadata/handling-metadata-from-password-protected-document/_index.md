@@ -63,7 +63,7 @@ Console.WriteLine("Author: " + documentMetadata.Author);
 Console.WriteLine("Title: " + documentMetadata.Title);
 ```
 
- Mindenképpen cserélje ki`DocMetadata` a dokumentum formátumának megfelelő osztállyal, mint pl`PdfMetadata` vagy`WordProcessingMetadata`.
+ Ügyeljen arra, hogy cserélje ki`DocMetadata` a dokumentum formátumának megfelelő osztállyal, mint pl`PdfMetadata` vagy`WordProcessingMetadata`.
 
 ## Következtetés
 

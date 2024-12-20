@@ -117,7 +117,7 @@ Gratuluji! Úspěšně jste přidali vlastní vlastnosti dokumentu do dokumentu 
 
 ## FAQ
 
-### Jaké jsou vlastnosti vlastního dokumentu?
+### Jaké jsou vlastnosti vlastních dokumentů?
 Vlastní vlastnosti dokumentu jsou metadata, která můžete přidat do dokumentu aplikace Word pro uložení dalších informací, které nepokrývají integrované vlastnosti.
 
 ### Mohu přidat jiné vlastnosti než řetězce a čísla?

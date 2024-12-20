@@ -2,7 +2,7 @@
 title: Jelölje ki a nyelvtani és helyesírási hibákat
 linktitle: Jelölje ki a nyelvtani és helyesírási hibákat
 second_title: Aspose.Words Document Processing API
-description: Ismerje meg, hogyan automatizálhatja a nyelvtani és helyesírási hibák észlelését Word-dokumentumokban az Aspose.Words for .NET segítségével. Ez a lépésenkénti útmutató.
+description: Ismerje meg, hogyan automatizálhatja a nyelvtani és helyesírási hibák észlelését Word-dokumentumokban az Aspose.Words for .NET segítségével. Ez a lépésről-lépésre útmutató.
 type: docs
 weight: 10
 url: /hu/net/tutorials/words/mastering-document-options-and-settings/highlight-grammatical-and-spelling-errors/
@@ -21,7 +21,7 @@ Mielőtt elkezdenénk, győződjön meg arról, hogy rendelkezik a következőkk
 
 ## Névterek importálása
 
-kezdéshez importálnia kell a szükséges névtereket. Ez biztosítja, hogy kódja hozzáférjen az Aspose.Words könyvtár összes funkciójához.
+A kezdéshez importálnia kell a szükséges névtereket. Ez biztosítja, hogy kódja hozzáférjen az Aspose.Words könyvtár összes funkciójához.
 
 ```csharp
 using Aspose.Words;
@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## 1. lépés: Állítsa be projektjét
 
- Először hozzon létre egy új .NET-projektet az IDE-ben. Adjon hozzá hivatkozást az Aspose.Words könyvtárhoz. Ha még nem töltötte le, megteheti innen[itt](https://releases.aspose.com/words/net/).
+Először hozzon létre egy új .NET-projektet az IDE-ben. Adjon hozzá hivatkozást az Aspose.Words könyvtárhoz. Ha még nem töltötte le, megteheti innen[itt](https://releases.aspose.com/words/net/).
 
 ## 2. lépés: Határozza meg a dokumentumkönyvtárat
 

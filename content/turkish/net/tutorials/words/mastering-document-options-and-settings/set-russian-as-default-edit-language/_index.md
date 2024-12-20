@@ -42,7 +42,7 @@ LoadOptions loadOptions = new LoadOptions();
 
 ### Varsayılan Düzenleme Dilini Rusça Olarak Ayarla
 
- Sonra, şunu ayarlayın:`DefaultEditingLanguage` mülk Rusça'ya:
+Sonra, şunu ayarlayın:`DefaultEditingLanguage` mülk Rusça'ya:
 
 ```csharp
 loadOptions.LanguagePreferences.DefaultEditingLanguage = EditingLanguage.Russian;
@@ -99,7 +99,7 @@ Bu çıktı, varsayılan düzenleme dilinin Rusçaya başarıyla ayarlanıp ayar
 
 ## Çözüm
 
- Aspose.Words for .NET kullanarak bir Word belgesinde varsayılan düzenleme dili olarak Rusça'yı ayarlamak basit bir işlemdir.`LoadOptions`, belgeyi yükleyip dil ayarlarını doğrulayarak, belgelerinizi hedef kitlenizin dil gereksinimlerini etkili bir şekilde karşılayacak şekilde uyarlayabilirsiniz.
+Aspose.Words for .NET kullanarak bir Word belgesinde varsayılan düzenleme dili olarak Rusça'yı ayarlamak basit bir işlemdir.`LoadOptions`, belgeyi yükleyip dil ayarlarını doğrulayarak, belgelerinizi hedef kitlenizin dil gereksinimlerini etkili bir şekilde karşılayacak şekilde uyarlayabilirsiniz.
 
 ## SSS
 
@@ -121,4 +121,4 @@ Aspose.Words for .NET, .NET uygulamaları içerisinde Word belgelerini programl�
 
 ### Aspose.Words for .NET desteğini nasıl alabilirim?
 
- Destek için şu adresi ziyaret edin:[Aspose Desteği](https://forum.aspose.com/c/words/8) Sorularınızı sorabileceğiniz ve topluluktan ve Aspose geliştiricilerinden yardım alabileceğiniz forum.
+ Destek için şu adresi ziyaret edin:[Aspose Desteği](https://forum.aspose.com/c/words/8)Sorularınızı sorabileceğiniz ve topluluktan ve Aspose geliştiricilerinden yardım alabileceğiniz forum.

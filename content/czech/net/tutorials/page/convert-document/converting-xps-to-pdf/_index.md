@@ -67,7 +67,7 @@ PdfSaveOptions options = new PdfSaveOptions()
 {
     JpegQualityLevel = 100, // Nastavte úroveň kvality JPEG
     ImageCompression = PdfImageCompression.Jpeg, // Pro obrázky použijte kompresi JPEG
-    TextCompression = PdfTextCompression.Flate, // Použít Flate kompresi pro text
+    TextCompression = PdfTextCompression.Flate, // Použít plošnou kompresi pro text
     PageNumbers = new int[] { 1, 2, 6 } // Zadejte čísla stránek, které chcete zahrnout
 };
 ```

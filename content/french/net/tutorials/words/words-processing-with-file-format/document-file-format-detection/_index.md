@@ -16,7 +16,7 @@ Dans le paysage numérique actuel, il est essentiel de gérer et d'organiser eff
 Avant de commencer, assurez-vous que les exigences suivantes sont respectées :
 
 1. Bibliothèque Aspose.Words pour .NET  
-    Téléchargez la bibliothèque à partir de[Communiqués de presse d'Aspose Words](https://releases.aspose.com/words/net/) et activez-le à l'aide d'une licence valide. Pour les licences temporaires, visitez[Licence temporaire Aspose](https://purchase.aspose.com/temporary-license/).
+    Téléchargez la bibliothèque à partir de[Communiqués de presse d'Aspose Words](https://releases.aspose.com/words/net/)et activez-le à l'aide d'une licence valide. Pour les licences temporaires, visitez[Licence temporaire Aspose](https://purchase.aspose.com/temporary-license/).
 
 2. Environnement de développement  
    Utilisez Visual Studio (toute version récente) avec .NET Framework installé.
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- Le`FileFormatUtil.DetectFileFormat` La méthode est essentielle pour identifier les caractéristiques du document.
+ Le`FileFormatUtil.DetectFileFormat`La méthode est essentielle pour identifier les caractéristiques du document.
 
 ## Conclusion
 

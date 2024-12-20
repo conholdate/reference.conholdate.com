@@ -17,7 +17,7 @@ Voordat u in de code duikt, is het belangrijk dat u de nodige instellingen op or
 
 ### Aspose.Words voor .NET
 
-Om te beginnen heb je Aspose.Words voor .NET nodig. Als je dat nog niet hebt gedaan, download het dan van de[website](https://releases.aspose.com/words/net/) . Als u nieuw bent bij Aspose.Words, kunt u het gratis uitproberen door een[gratis proefperiode](https://releases.aspose.com/).
+ Om te beginnen heb je Aspose.Words voor .NET nodig. Als je dat nog niet hebt gedaan, download het dan van de[website](https://releases.aspose.com/words/net/) Als u nieuw bent bij Aspose.Words, kunt u het gratis uitproberen door een[gratis proefperiode](https://releases.aspose.com/).
 
 ### Ontwikkelomgeving
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Het document laden
 
-Vervolgens laden we het document in het programma. Dit kan met behulp van de`Document` klasse geleverd door Aspose.Words. Het volgende codefragment laat zien hoe u een Word-document laadt vanuit de opgegeven directory.
+ Vervolgens laden we het document in het programma. Dit kan met behulp van de`Document`klasse geleverd door Aspose.Words. Het volgende codefragment laat zien hoe u een Word-document laadt vanuit de opgegeven directory.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Met deze ene regel code zorgt u ervoor dat er geen persoonlijke gegevens meer in
 
 ### 2.2 Het gereinigde document opslaan
 
- Zodra de persoonlijke informatie is verwijderd, is het essentieel om het gewijzigde document op te slaan. Dit kan worden gedaan met behulp van de`Save`methode, die het bijgewerkte document naar een nieuw bestand schrijft, waarbij alle wijzigingen behouden blijven.
+ Zodra de persoonlijke informatie is verwijderd, is het essentieel om het gewijzigde document op te slaan. Dit kan worden gedaan met behulp van de`Save` methode, die het bijgewerkte document naar een nieuw bestand schrijft, waarbij alle wijzigingen behouden blijven.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

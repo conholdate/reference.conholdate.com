@@ -15,7 +15,7 @@ url: /hi/net/tutorials/words/digital-signatures/set-digital-signature-provider-i
 
 इसमें गोता लगाने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित चीजें हैं:
 
-1.  .NET लाइब्रेरी के लिए Aspose.Words:[यहाँ पर डाउनलोड करो](https://releases.aspose.com/words/net/).
+1. .NET लाइब्रेरी के लिए Aspose.Words:[यहाँ पर डाउनलोड करो](https://releases.aspose.com/words/net/).
 2. विकास वातावरण: विजुअल स्टूडियो या कोई भी C# संगत IDE.
 3.  वर्ड दस्तावेज़: हस्ताक्षर लाइन वाला दस्तावेज़ (जैसे,`Signature line.docx`).
 4.  डिजिटल प्रमाणपत्र: A`.pfx` प्रमाणपत्र फ़ाइल (उदाहरणार्थ,`morzal.pfx`).

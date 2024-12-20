@@ -15,7 +15,7 @@ Ti è mai capitato di dover creare un documento Word che necessita di un'organiz
 
 Prima di iniziare, assicurati di avere quanto segue:
 
-1.  Aspose.Words per la libreria .NET: scarica l'ultima versione[Qui](https://releases.aspose.com/words/net/).
+1. Aspose.Words per la libreria .NET: scarica l'ultima versione[Qui](https://releases.aspose.com/words/net/).
 2. Ambiente di sviluppo: un IDE compatibile con .NET, come Visual Studio.
 3. Conoscenza di base del linguaggio C#: sarà utile avere familiarità con la sintassi del linguaggio C#.
 4. Esempio di documento Word (facoltativo): anche se ne creeremo uno da zero, avere un esempio può essere utile per i test.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Ora che abbiamo una nuova sezione, aggiungiamola con un po' di contenuto. 
 
- Per aggiungere contenuto alla nuova sezione, dobbiamo spostare il`DocumentBuilder`cursore su quella sezione:
+ Per aggiungere contenuto alla nuova sezione, dobbiamo spostare il`DocumentBuilder` cursore su quella sezione:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Infine, salviamo il documento per garantire la sicurezza di tutto il nostro duro
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Assicurati di sostituire`"YourPath/YourDocument.docx"` con il percorso file desiderato in cui vuoi salvare il documento. Questa riga salva il tuo file Word con tutte le sezioni e il contenuto intatti.
+ Assicurati di sostituire`"YourPath/YourDocument.docx"`con il percorso file desiderato in cui vuoi salvare il documento. Questa riga salva il tuo file Word con tutte le sezioni e il contenuto intatti.
 
 ## Conclusione
 

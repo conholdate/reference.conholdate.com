@@ -42,7 +42,7 @@ LoadOptions loadOptions = new LoadOptions();
 
 ### Imposta la lingua di modifica predefinita su russo
 
- Quindi, imposta il`DefaultEditingLanguage` proprietà in russo:
+Quindi, imposta il`DefaultEditingLanguage` proprietà in russo:
 
 ```csharp
 loadOptions.LanguagePreferences.DefaultEditingLanguage = EditingLanguage.Russian;
@@ -99,7 +99,7 @@ Questo output ti informerà se la lingua di modifica predefinita è stata impost
 
 ## Conclusione
 
- Impostare il russo come lingua di modifica predefinita in un documento Word usando Aspose.Words per .NET è un processo semplice. Configurando`LoadOptions`, caricando il documento e verificando le impostazioni della lingua, puoi personalizzare i tuoi documenti per soddisfare efficacemente le esigenze linguistiche del tuo pubblico.
+Impostare il russo come lingua di modifica predefinita in un documento Word usando Aspose.Words per .NET è un processo semplice. Configurando`LoadOptions`, caricando il documento e verificando le impostazioni della lingua, puoi personalizzare i tuoi documenti per soddisfare efficacemente le esigenze linguistiche del tuo pubblico.
 
 ## Domande frequenti
 
@@ -121,4 +121,4 @@ Aspose.Words per .NET è una libreria completa per la creazione, la manipolazion
 
 ### Come posso ottenere supporto per Aspose.Words per .NET?
 
- Per supporto, visita il[Supporto Aspose](https://forum.aspose.com/c/words/8) forum, dove puoi porre domande e ricevere assistenza dalla community e dagli sviluppatori di Aspose.
+ Per supporto, visita il[Supporto Aspose](https://forum.aspose.com/c/words/8)forum, dove puoi porre domande e ricevere assistenza dalla community e dagli sviluppatori di Aspose.

@@ -15,11 +15,11 @@ Pokud jde o vytváření profesionálně vypadajících dokumentů aplikace Word
 
 Záložky fungují jako zástupci v dokumentu aplikace Word. Umožňují vám snadno zvýraznit určité sekce a přejít na ně. To je zvláště užitečné, když pracujete na dlouhých zprávách nebo knihách, kde může být hledání konkrétního obsahu únavné. S Aspose.Words for .NET můžete snadno vytvářet, mazat a spravovat záložky. Ale jak to vlastně implementujete do svých projektů?
 
- Podívejte se na naše[Vytvořte záložku v dokumentu aplikace Word pomocí Aspose.Words pro .NET](./create-bookmark-in-word-document/) tutoriál pro praktického průvodce vytvářením záložek. Tento postup krok za krokem vám umožní vylepšit vaše dokumenty aplikace Word, což vám usnadní navigaci a správu.
+ Podívejte se na naše[Vytvořte záložku v dokumentu aplikace Word pomocí Aspose.Words pro .NET](./create-bookmark-in-word-document/) výukový program pro praktického průvodce vytvářením záložek. Tento postup krok za krokem vám umožní vylepšit vaše dokumenty aplikace Word, což vám usnadní navigaci a správu.
 
 ## Správa vašich záložek
 
- Jakmile máte vytvořené záložky, je nezbytné vědět, jak je spravovat. Co když chcete odstranit nebo skrýt určité záložky? Naštěstí Aspose.Words pro .NET to zjednodušuje. Pokud například potřebujete ovládat viditelnost určitého obsahu na základě záložek, náš návod na[Správa viditelnosti záložek v dokumentech aplikace Word](./manage-bookmark-visibility-word-document/) vám poskytne jasnou představu o tom, jak to udělat efektivně. Zjistíte, jak udržet své dokumenty čisté a bez nepořádku a přitom zachovat cenné reference.
+ Jakmile máte vytvořené záložky, je nezbytné vědět, jak je spravovat. Co když chcete odstranit nebo skrýt určité záložky? Naštěstí to Aspose.Words pro .NET dělá jednoduše. Pokud například potřebujete ovládat viditelnost určitého obsahu na základě záložek, náš návod na[Správa viditelnosti záložek v dokumentech aplikace Word](./manage-bookmark-visibility-word-document/) vám poskytne jasnou představu o tom, jak to udělat efektivně. Zjistíte, jak udržet své dokumenty čisté a bez nepořádku a přitom zachovat cenné reference.
 
 ## Pokročilé funkce záložek
 

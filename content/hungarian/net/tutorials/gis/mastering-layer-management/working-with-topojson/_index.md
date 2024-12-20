@@ -37,7 +37,7 @@ using System;
 using System.Text;
 ```
 
-Győződjön meg arról, hogy hozzáadta az Aspose.GIS hivatkozást a projekthez, lehetővé téve annak összes funkciójának kihasználását. Most, hogy az alapítványunk készen van, menjünk végig a folyamaton lépésről lépésre.
+Győződjön meg róla, hogy hozzáadta az Aspose.GIS hivatkozást a projekthez, lehetővé téve annak összes funkciójának kihasználását. Most, hogy az alapítványunk készen van, menjünk végig a folyamaton lépésről lépésre.
 
 ## 1. lépés: Határozza meg a dokumentumkönyvtár elérési útját
 

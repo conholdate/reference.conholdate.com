@@ -22,7 +22,7 @@ A kódolás megkezdése előtt győződjön meg arról, hogy rendelkezik a köve
 
 ## 1. lépés: Importálja a szükséges névtereket
 
-A kezdéshez importálnia kell a szükséges névtereket a projektbe. Adja hozzá a következőket direktívák használatával:
+kezdéshez importálnia kell a szükséges névtereket a projektbe. Adja hozzá a következőket direktívák használatával:
 
 ```csharp
 using Aspose.Words;
@@ -65,7 +65,7 @@ A dokumentum és a tanúsítvány betöltése után ideje aláírni:
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Ez a módszer aláírja a dokumentumot. A paraméterek az eredeti dokumentum elérési útja, az aláírt dokumentum kívánt elérési útja és a tanúsítvány tulajdonosa.
+- `DigitalSignatureUtil.Sign`: Ez a módszer aláírja a dokumentumot. A paraméterek az eredeti dokumentum elérési útja, az aláírt dokumentum kívánt elérési útja és a tanúsítvány tulajdonosa.
 
 ## 5. lépés: Mentse el az aláírt dokumentumot
 
@@ -88,7 +88,7 @@ Gratulálok! Sikeresen aláírt egy Word-dokumentumot az Aspose.Words for .NET h
 A digitális aláírás olyan elektronikus aláírás, amely hitelesíti az aláíró személyazonosságát, és megerősíti, hogy a dokumentumot nem módosították.
 
 ### Miért van szükségem digitális tanúsítványra?
-digitális tanúsítvány elengedhetetlen a digitális aláírás létrehozásához. Tartalmaz egy nyilvános kulcsot és az aláíró személyazonosságát, lehetővé téve mások számára az aláírás ellenőrzését.
+A digitális tanúsítvány elengedhetetlen a digitális aláírás létrehozásához. Tartalmaz egy nyilvános kulcsot és az aláíró személyazonosságát, lehetővé téve mások számára az aláírás ellenőrzését.
 
 ### Használhatok bármilyen .pfx fájlt aláíráshoz?
 Igen, feltéve, hogy a .pfx fájl érvényes digitális tanúsítványt tartalmaz, és rendelkezik a hozzáféréshez szükséges jelszóval.

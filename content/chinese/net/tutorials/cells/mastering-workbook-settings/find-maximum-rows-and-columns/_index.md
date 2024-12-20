@@ -96,7 +96,7 @@ Console.WriteLine("Execution completed successfully: Maximum Rows and Columns re
 ### XLS 格式支持的最大行数是多少？
 XLS 格式支持的最大行数为 65,536。
 
-### XLS 格式支持的最大列数是多少？
+### XLS 格式最多支持多少列？
 XLS 格式支持的最大列数为 256。
 
 ### XLSX 格式支持的最大行数是多少？

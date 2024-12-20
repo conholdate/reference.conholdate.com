@@ -68,6 +68,6 @@ Có, Aspose.Words hỗ trợ nhiều định dạng bao gồm PDF, HTML, RTF, TX
  Bạn có thể mua giấy phép[đây](https://purchase.conholdate.com/buy).
 
 ### Tôi có thể nhận hỗ trợ cho Aspose.Words ở đâu?
- Aspose.Words là gì?[diễn đàn hỗ trợ](https://forum.aspose.com/c/words/8) có sẵn để hỗ trợ.
+Aspose.Words là gì?[diễn đàn hỗ trợ](https://forum.aspose.com/c/words/8) có sẵn để hỗ trợ.
 
 

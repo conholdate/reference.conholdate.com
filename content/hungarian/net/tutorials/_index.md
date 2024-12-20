@@ -25,7 +25,7 @@ Aspose.PDF oktatóanyagok és kódrészletek a PDF fájlokkal való munkához. H
 
 ## Aspose.Cells
 {{% alert color="primary" %}}
-Az Aspose.Cells oktatóanyagok és kódrészletek különböző lépéseken vezetik végig, hogy teljes mértékben kiaknázhassák az Aspose.Cellsben rejlő lehetőségeket projektjeiben. Megtanulja, hogyan hozhat létre, szerkeszthet és formázhat táblázatokat, hogyan kezelheti az adatokat, hogyan végezhet számításokat, kezelhet diagramokat és még sok mást.
+Az Aspose.Cells oktatóanyagai és kódrészletei különböző lépéseken vezetik végig az Aspose.Cellsben rejlő lehetőségek teljes kiaknázását a projektekben. Megtanulja, hogyan hozhat létre, szerkeszthet és formázhat táblázatokat, hogyan kezelheti az adatokat, hogyan végezhet számításokat, kezelhet diagramokat és sok mást.
 {{% /alert %}}
 
 ### Aspose.Cells oktatóanyagok
@@ -57,7 +57,7 @@ Fedezze fel az Aspose.HTML for .NET-ben rejlő lehetőségeit a fejlesztők és 
 
 ## Aspose.Képalkotás
 {{% alert color="primary" %}}
-Fedezze fel az Aspose.Imaging for .NET szakértői útmutatóit. Részletes útmutatók, kódpéldák és gyakorlati betekintések segítségével megtudhatja, hogyan lehet képeket manipulálni, konvertálni és feldolgozni. Tökéletes azoknak a fejlesztőknek, akik a képkezelési feladatok egyszerűsítésére törekszenek .NET-alkalmazásokban.
+Fedezze fel az Aspose.Imaging for .NET szakértői útmutatóit. Részletes útmutatók, kódpéldák és gyakorlati betekintések segítségével megtudhatja, hogyan lehet képeket manipulálni, konvertálni és feldolgozni. Tökéletes azoknak a fejlesztőknek, akik a .NET-alkalmazásokban a képkezelési feladatok egyszerűsítésére törekszenek.
 {{% /alert %}}
 
 ### Aspose.Imaging oktatóanyagok

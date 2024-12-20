@@ -31,7 +31,7 @@ Készítsen egy minta Excel-fájlt, amely táblázatot tartalmaz a manipuláció
 
 Ezután importálnunk kell a szükséges csomagokat. Ez a lépés kulcsfontosságú, mivel feloldja a kódunkban használt funkciókat.
 
-A Visual Studio projektben adjon hozzá hivatkozást az Aspose.Cells-re. Navigáljon a Project ➔ Referencia hozzáadása... ➔ Összeállítások ➔ Aspose.Cells ponthoz. A C# fájlnak a következőkkel kell kezdődnie direktívák használatával:
+A Visual Studio projektben adjon hozzá hivatkozást az Aspose.Cells-re. Lépjen a Projekt ➔ Referencia hozzáadása... ➔ Összeállítások ➔ Aspose.Cells menüpontra. A C# fájlnak a következőkkel kell kezdődnie direktívák használatával:
 
 ```csharp
 using Aspose.Cells.Tables;

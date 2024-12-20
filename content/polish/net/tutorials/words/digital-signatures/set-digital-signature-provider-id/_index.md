@@ -15,7 +15,7 @@ Cześć! Jeśli chcesz dodać podpis cyfrowy do dokumentu Word z określonym ide
 
 Zanim zaczniesz, upewnij się, że masz następujące rzeczy:
 
-1.  Aspose.Words dla biblioteki .NET:[Pobierz tutaj](https://releases.aspose.com/words/net/).
+1. Aspose.Words dla biblioteki .NET:[Pobierz tutaj](https://releases.aspose.com/words/net/).
 2. Środowisko programistyczne: Visual Studio lub dowolne środowisko IDE zgodne z C#.
 3.  Dokument Word: Dokument z linią podpisu (np.`Signature line.docx`).
 4.  Certyfikat cyfrowy: A`.pfx` plik certyfikatu (np.`morzal.pfx`).

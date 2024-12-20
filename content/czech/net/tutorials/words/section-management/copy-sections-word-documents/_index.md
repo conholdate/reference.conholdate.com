@@ -32,7 +32,7 @@ Tento obor názvů poskytuje všechny nástroje potřebné pro programové zprac
 
 ## Krok 1: Nastavení prostředí
 
-1.  Instalace Aspose.Words: Stáhněte a nainstalujte Aspose.Words for .NET z[zde](https://releases.aspose.com/words/net/).
+1. Instalace Aspose.Words: Stáhněte a nainstalujte Aspose.Words for .NET z[zde](https://releases.aspose.com/words/net/).
 2. Vytvoření projektu .NET: Otevřete Visual Studio a vytvořte nový projekt C#.
 3. Přidat odkaz Aspose.Words: Zahrňte do projektu odkaz na knihovnu.
 

@@ -39,7 +39,7 @@ using System.Diagnostics;
 using System.Collections;
 ```
 
-Ez az egyszerű beillesztés lehetővé teszi az Excel-fájlokkal és azok objektumaival való munkát a kódban.
+Ez az egyszerű beillesztés lehetővé teszi, hogy a kódban lévő Excel-fájlokkal és azok objektumaival dolgozzon.
 
 ## 1. lépés: A projektkönyvtár beállítása
 

@@ -40,7 +40,7 @@ Ezután adja meg a dokumentumkönyvtár elérési útját. Itt töltheti be a Wo
 string dataDir = "YOUR_DOCUMENTS_DIRECTORY";
 ```
 
- Mindenképpen cserélje ki`"YOUR_DOCUMENTS_DIRECTORY"` a rendszer tényleges elérési útjával.
+ Ügyeljen arra, hogy cserélje ki`"YOUR_DOCUMENTS_DIRECTORY"` a rendszer tényleges elérési útjával.
 
 ## 3. lépés: Töltse be a dokumentumot
 

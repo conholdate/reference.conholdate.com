@@ -250,7 +250,7 @@ Nachfolgend finden Sie Links zu einigen nützlichen Ressourcen, die Sie möglich
 
 **Welcome to Aspose.GIS for .NET**
 
-Aspose.GIS für .NET wurde speziell dafür entwickelt, .NET-Entwicklern die Arbeit mit Geodaten zu erleichtern, die in verschiedenen Dateiformaten gespeichert sind. Sie können damit geografische Daten erstellen, lesen, konvertieren und Karten rendern, ohne eine andere GIS-Software installieren zu müssen. Aspose.GIS unterstützt Shapefile, GeoJSON, KML, ESRI File Geodatabase und andere Formate.
+Aspose.GIS für .NET wurde speziell entwickelt, um .NET-Entwicklern die Arbeit mit Geodaten zu erleichtern, die in verschiedenen Dateiformaten gespeichert sind. Sie können geografische Daten erstellen, lesen, konvertieren und Karten rendern, ohne andere GIS-Software installieren zu müssen. Aspose.GIS unterstützt Shapefile, GeoJSON, KML, ESRI File Geodatabase und andere Formate.
 
 {{% /alert %}} 
 
@@ -351,7 +351,7 @@ Nachfolgend finden Sie Links zu einigen nützlichen Ressourcen, die Sie möglich
 
 **Welcome to Aspose.SVG for .NET**
 
-Die API von Aspose.SVG für .NET wurde entwickelt, um eine breite Palette von Funktionen für die Verarbeitung und Darstellung von SVG-Dokumenten bereitzustellen. Das Document Object Model (DOM) ist vollständig mit den offiziellen SVG-Spezifikationen kompatibel und ermöglicht Ihnen die vollständige Kontrolle über SVG-Knoten und deren Eigenschaften. Sie können den Dokumentbaum problemlos ändern, Knoten hinzufügen und entfernen, die Knoteneigenschaften ändern, Filter und Skripte anwenden, wie es in den offiziellen Spezifikationen beschrieben ist. Mit der API können Sie Ihr SVG-Dokument in PDF und gängige Bildformate wie BMP, PNG, JPEG und GIF konvertieren.
+Die API von Aspose.SVG für .NET wurde entwickelt, um eine breite Palette von Funktionen für die Verarbeitung und Darstellung von SVG-Dokumenten bereitzustellen. Das Document Object Model (DOM) ist vollständig mit den offiziellen SVG-Spezifikationen kompatibel und ermöglicht Ihnen die vollständige Kontrolle über SVG-Knoten und deren Eigenschaften. Sie können den Dokumentbaum problemlos ändern, Knoten hinzufügen und entfernen, die Knoteneigenschaften ändern, Filter und Skripte anwenden, wie es in den offiziellen Spezifikationen beschrieben wird. Mit der API können Sie Ihr SVG-Dokument in PDF und gängige Bildformate wie BMP, PNG, JPEG und GIF konvertieren.
 
 {{% /alert %}} 
 

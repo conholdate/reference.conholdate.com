@@ -31,7 +31,7 @@ using System.IO;
 
 ## Bước 1: Mở Luồng ZIP Đầu vào và Đầu ra
 
-Đầu tiên, bạn sẽ cần mở các luồng cho các kho lưu trữ Zip đầu vào và đầu ra. Thay thế`"Your Input Directory"` Và`"Your Output Directory"` với đường dẫn bạn chỉ định.
+ Đầu tiên, bạn sẽ cần mở các luồng cho các kho lưu trữ Zip đầu vào và đầu ra. Thay thế`"Your Input Directory"` Và`"Your Output Directory"` với đường dẫn bạn chỉ định.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

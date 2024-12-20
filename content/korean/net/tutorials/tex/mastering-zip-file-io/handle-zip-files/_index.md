@@ -31,7 +31,7 @@ using System.IO;
 
 ## 1단계: 입력 및 출력 ZIP 스트림 열기
 
-먼저 입력 및 출력 Zip 아카이브에 대한 스트림을 열어야 합니다. 바꾸기`"Your Input Directory"` 그리고`"Your Output Directory"` 지정한 경로를 사용합니다.
+ 먼저 입력 및 출력 Zip 아카이브에 대한 스트림을 열어야 합니다. 바꾸기`"Your Input Directory"` 그리고`"Your Output Directory"` 지정한 경로를 사용합니다.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))
@@ -90,7 +90,7 @@ job.Run();
 
 ## 결론
 
-Aspose.TeX를 사용하여 .NET 애플리케이션에 Zip 파일 처리를 통합하는 것은 간단한 프로세스입니다. 이 가이드를 따르면 문서 처리 기능을 효과적으로 향상시킬 수 있습니다.
+Aspose.TeX를 사용하여 Zip 파일 처리를 .NET 애플리케이션에 통합하는 것은 간단한 프로세스입니다. 이 가이드를 따르면 문서 처리 기능을 효과적으로 향상시킬 수 있습니다.
 
 ## 자주 묻는 질문
 

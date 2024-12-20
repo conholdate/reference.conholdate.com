@@ -111,7 +111,7 @@ Ukuran radius menentukan tingkat operasi filter, sementara nilai kehalusan menye
 
 ### Di mana saya dapat menemukan dukungan dan sumber daya tambahan?
 
- Untuk pertanyaan dan bantuan,[Forum Aspose.PSD](https://forum.aspose.com/c/psd/34)adalah sumber daya yang bagus untuk terhubung dengan komunitas dan tim dukungan.
+ Untuk pertanyaan dan bantuan,[Forum Aspose.PSD](https://forum.aspose.com/c/psd/34) adalah sumber daya yang bagus untuk terhubung dengan komunitas dan tim dukungan.
 
 ### Apakah ada uji coba gratis yang tersedia untuk Aspose.PSD?
 

@@ -54,7 +54,7 @@ using (TarArchive archive = new TarArchive())
 
 ### 2.2. lépés: Bejegyzések hozzáadása
 
- Ezután adja hozzá a tömöríteni kívánt fájlokat az archívumhoz. Itt van egy példa a fájlokkal`"alice29.txt"` és`"lcet10.txt"`:
+ Ezután adja hozzá a tömöríteni kívánt fájlokat az archívumhoz. Íme egy példa a fájlokkal`"alice29.txt"` és`"lcet10.txt"`:
 
 ```csharp
 archive.CreateEntry("alice29.txt", dataDir + "alice29.txt");

@@ -331,7 +331,7 @@ Vous trouverez ci-dessous des liens vers certaines ressources utiles dont vous p
 
 **Welcome to Aspose.TeX for Java**
 
-Aspose.TeX est une bibliothèque Java pour la composition de fichiers TeX. Elle peut présenter les entrées TeX dans divers formats graphiques tels que XPS, PDF, PNG, JPEG, TIFF et BMP. Elle génère également des informations de traçage comme le fait tout autre moteur TeX. L'API propose différentes manières de transmettre les entrées TeX et d'obtenir la sortie. Et, en tant que fonctionnalité avancée, elle vous permet de créer votre propre format TeX si vous souhaitez composer un certain nombre de documents conçus de manière uniforme.
+Aspose.TeX est une bibliothèque Java pour la composition de fichiers TeX. Elle peut présenter des entrées TeX dans divers formats graphiques tels que XPS, PDF, PNG, JPEG, TIFF et BMP. Elle génère également des informations de traçage comme le fait tout autre moteur TeX. L'API propose différentes manières de transmettre des entrées TeX et d'obtenir des sorties. Et, en tant que fonctionnalité avancée, elle vous permet de créer votre propre format TeX si vous souhaitez composer un certain nombre de documents conçus de manière uniforme.
 
 {{% /alert %}}
 

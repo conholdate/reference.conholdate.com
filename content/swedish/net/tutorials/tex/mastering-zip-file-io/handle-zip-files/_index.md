@@ -31,7 +31,7 @@ using System.IO;
 
 ## Steg 1: Öppna Input och Output ZIP-strömmar
 
-Först måste du öppna strömmar för in- och utdata-zip-arkiven. Ersätta`"Your Input Directory"` och`"Your Output Directory"` med dina angivna vägar.
+ Först måste du öppna strömmar för in- och utdata-zip-arkiven. Ersätta`"Your Input Directory"` och`"Your Output Directory"` med dina angivna vägar.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

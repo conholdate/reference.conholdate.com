@@ -30,7 +30,7 @@ using Aspose.Zip.Cpio;
 
 ## الخطوة 1: قم بتعيين دليل المستندات الخاص بك
 
- بعد ذلك، قم بتحديد الدليل الذي توجد به مستنداتك. استبدل`"Your Document Directory"` مع المسار الفعلي لمستنداتك:
+بعد ذلك، قم بتحديد الدليل الذي توجد به مستنداتك. استبدل`"Your Document Directory"` مع المسار الفعلي لمستنداتك:
 
 ```csharp
 string dataDir = "Your Document Directory";

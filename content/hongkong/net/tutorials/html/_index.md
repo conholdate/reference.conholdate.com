@@ -17,7 +17,7 @@ is_root: true
 
 您是否經常與文件格式進行鬥爭卻最終感到沮喪？透過這些教程，您將學習可以節省您工作時間的簡單技巧。想像一下，只需點擊幾下即可將冗長的網頁轉換為簡潔的 PDF — 聽起來很棒，對吧？這一切都是為了利用 Aspose 的功能來簡化您的工作流程。
 
-對於那些準備深入研究的人，我們推薦[轉換 HTML 文件](./converting-html-documents/)教程。在這裡，您將學習如何將 HTML 轉換為 PNG 等格式，並將 EPUB 轉換為 XPS。每個教學都強調透過易於理解的範例進行實踐經驗，確保您快速掌握關鍵概念。 
+對於那些準備深入研究的人，我們推薦[轉換 HTML 文件](./converting-html-documents/)教程。在這裡，您將學習如何將 HTML 轉換為 PNG 等格式，將 EPUB 轉換為 XPS。每個教學都強調透過易於理解的範例進行實踐經驗，確保您快速掌握關鍵概念。 
 
 ## Aspose.HTML for .NET 教學課程
 ### [掌握 HTML 擴充功能和轉換](./mastering-html-extensions-and-conversions/)

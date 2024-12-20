@@ -77,7 +77,7 @@ Tebrikler! Aspose.Words for .NET kullanarak bir Word belgesinin belirli bir sayf
  JPEG kalitesini şu şekilde artırabilirsiniz:`JpegQuality`mülk`ImageSaveOptions`Değerler 0 (en düşük kalite) ile 100 (en yüksek kalite) arasında değişmektedir.
 
 ### Başka resim formatlarında kaydedebilir miyim?  
- Evet, Aspose.Words PNG, BMP ve TIFF dahil olmak üzere çeşitli resim formatlarını destekler. Basitçe`SaveFormat` içinde`ImageSaveOptions` İstediğiniz formata.
+ Evet, Aspose.Words PNG, BMP ve TIFF dahil olmak üzere çeşitli resim formatlarını destekler. Basitçe`SaveFormat` içinde`ImageSaveOptions`İstediğiniz formata.
 
 ### Kaydetmeden önce resmi önizlemenin bir yolu var mı?  
 Aspose.Words yerleşik bir önizleme özelliği içermez, ancak bir Windows Forms veya WPF uygulaması kullanarak özel bir önizleme mekanizması oluşturabilirsiniz.

@@ -92,4 +92,4 @@ Aspose.TeX, öncelikli olarak TeX ve LaTeX belge işlemeye odaklanır. Diğer fo
 
 ### Aspose.TeX for .NET'i nasıl satın alabilirim?
 
- Aspose.TeX for .NET'i doğrudan şu adresten satın alabilirsiniz:[satın alma sayfası](https://purchase.conholdate.com/buy).
+Aspose.TeX for .NET'i doğrudan şu adresten satın alabilirsiniz:[satın alma sayfası](https://purchase.conholdate.com/buy).

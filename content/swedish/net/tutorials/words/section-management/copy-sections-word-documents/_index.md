@@ -32,7 +32,7 @@ Denna namnrymd tillhandahåller alla verktyg som behövs för att hantera Word-d
 
 ## Steg 1: Konfigurera din miljö
 
-1.  Installera Aspose.Words: Ladda ner och installera Aspose.Words för .NET från[här](https://releases.aspose.com/words/net/).
+1. Installera Aspose.Words: Ladda ner och installera Aspose.Words för .NET från[här](https://releases.aspose.com/words/net/).
 2. Skapa ett .NET-projekt: Öppna Visual Studio och skapa ett nytt C#-projekt.
 3. Lägg till Aspose.Words Reference: Inkludera biblioteksreferensen i ditt projekt.
 

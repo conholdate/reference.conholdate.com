@@ -1,6 +1,6 @@
 ---
-title: 在 .NET 中使用 Aspose.Words 附加部分 Word 內容
-linktitle: 在 .NET 中使用 Aspose.Words 附加部分 Word 內容
+title: 在 .NET 中使用 Aspose.Words 附加部分文字內容
+linktitle: 在 .NET 中使用 Aspose.Words 附加部分文字內容
 second_title: Aspose.Words 文件處理 API
 description: 透過易於理解的範例了解在 Word 文件中建立、修改和附加部分的基礎知識，非常適合初學者和經驗豐富的開發人員。
 type: docs

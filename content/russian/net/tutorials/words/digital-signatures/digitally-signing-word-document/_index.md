@@ -65,7 +65,7 @@ Document doc = new Document(dataDir + "Digitally signed.docx");
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Этот метод подписывает документ. Параметры — исходный путь документа, желаемый путь для подписанного документа и владелец сертификата.
+- `DigitalSignatureUtil.Sign`: Этот метод подписывает документ. Параметры — исходный путь документа, желаемый путь для подписанного документа и владелец сертификата.
 
 ## Шаг 5: Сохраните подписанный документ.
 

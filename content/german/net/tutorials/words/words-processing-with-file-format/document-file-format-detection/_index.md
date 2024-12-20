@@ -16,7 +16,7 @@ Die effiziente Verwaltung und Organisation verschiedener Dokumentformate ist in 
 Bevor wir beginnen, stellen Sie sicher, dass die folgenden Anforderungen erfüllt sind:
 
 1. Aspose.Words für .NET-Bibliothek  
-    Laden Sie die Bibliothek herunter von[Aspose Words-Veröffentlichungen](https://releases.aspose.com/words/net/) und aktivieren Sie es mit einer gültigen Lizenz. Für temporäre Lizenzen besuchen Sie[Aspose Temporäre Lizenz](https://purchase.aspose.com/temporary-license/).
+    Laden Sie die Bibliothek herunter von[Aspose Words-Veröffentlichungen](https://releases.aspose.com/words/net/)und aktivieren Sie es mit einer gültigen Lizenz. Für temporäre Lizenzen besuchen Sie[Aspose Temporäre Lizenz](https://purchase.aspose.com/temporary-license/).
 
 2. Entwicklungsumgebung  
    Verwenden Sie Visual Studio (eine beliebige aktuelle Version) mit installiertem .NET Framework.
@@ -42,7 +42,7 @@ Diese Importe bieten Zugriff auf die erforderlichen Klassen und Methoden zur Dat
 
 ## Schritt 1: Verzeichnisse für organisierte Ausgabe initialisieren
 
-Erstellen Sie Verzeichnisse zum Speichern von Dateien basierend auf ihrem erkannten Format.
+Erstellen Sie Verzeichnisse zum Speichern von Dateien basierend auf dem erkannten Format.
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY/";
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- Der`FileFormatUtil.DetectFileFormat` Methode ist für die Identifizierung der Dokumentmerkmale von entscheidender Bedeutung.
+ Der`FileFormatUtil.DetectFileFormat`Methode ist für die Identifizierung der Dokumentmerkmale von entscheidender Bedeutung.
 
 ## Abschluss
 

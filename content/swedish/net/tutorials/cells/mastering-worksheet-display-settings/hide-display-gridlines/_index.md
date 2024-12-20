@@ -78,7 +78,7 @@ De flesta användare föredrar att ändra ett specifikt kalkylblad i arbetsboken
 Worksheet worksheet = workbook.Worksheets[0];  // Åtkomst till det första kalkylbladet
 ```
 
-## Steg 5: Visa eller dölj rutnätslinjer
+## Steg 5: Visa eller dölj rutnät
 
 Nu kommer kärndelen: kontroll av rutnätets synlighet. Aspose.Cells gör detta mycket enkelt med`IsGridlinesVisible` egendom. Du kan växla mellan`true` och`false` beroende på dina behov.
 

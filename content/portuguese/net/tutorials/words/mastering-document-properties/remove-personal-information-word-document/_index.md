@@ -17,7 +17,7 @@ Antes de mergulhar no código, é essencial garantir que você tenha a configura
 
 ### Aspose.Words para .NET
 
-Para começar, você precisa do Aspose.Words para .NET. Se ainda não o fez, baixe-o do[site](https://releases.aspose.com/words/net/) . Se você é novo no Aspose.Words, você pode experimentá-lo gratuitamente baixando um[teste gratuito](https://releases.aspose.com/).
+ Para começar, você precisa do Aspose.Words para .NET. Se ainda não o fez, baixe-o do[site](https://releases.aspose.com/words/net/) Se você é novo no Aspose.Words, você pode experimentá-lo gratuitamente baixando um[teste gratuito](https://releases.aspose.com/).
 
 ### Ambiente de Desenvolvimento
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Carregar o documento
 
-Em seguida, carregaremos o documento no programa. Isso pode ser feito usando o`Document` classe fornecida por Aspose.Words. O seguinte trecho de código demonstra como carregar um documento do Word do diretório especificado.
+ Em seguida, carregaremos o documento no programa. Isso pode ser feito usando o`Document`classe fornecida por Aspose.Words. O seguinte trecho de código demonstra como carregar um documento do Word do diretório especificado.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Essa única linha de código garante que o documento não retenha mais nenhum da
 
 ### 2.2 Salvar o documento limpo
 
- Uma vez que as informações pessoais são removidas, é essencial salvar o documento modificado. Isso pode ser feito usando o`Save`método, que gravará o documento atualizado em um novo arquivo, preservando todas as alterações.
+ Uma vez que as informações pessoais são removidas, é essencial salvar o documento modificado. Isso pode ser feito usando o`Save` método, que gravará o documento atualizado em um novo arquivo, preservando todas as alterações.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

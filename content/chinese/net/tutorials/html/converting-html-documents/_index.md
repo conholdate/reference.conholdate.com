@@ -25,7 +25,7 @@ url: /zh/net/tutorials/html/converting-html-documents/
 
 该过程非常简单：
 
-1. 加载您的 EPUB 文件：与之前一样，首先将您的 EPUB 文档加载到 Aspose.HTML 库中。
+1. 加载您的 EPUB 文件：与以前一样，首先将您的 EPUB 文档加载到 Aspose.HTML 库中。
 2. 设置转换选项：配置各种设置以确保输出符合您的期望 - 控制页面大小、边距等。
 3. 转换为 XPS：只需一个方法调用，您的 EPUB 就会转换为与各种查看平台兼容的简洁 XPS 文件。
 

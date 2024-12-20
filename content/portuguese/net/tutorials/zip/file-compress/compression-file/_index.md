@@ -30,7 +30,7 @@ using Aspose.Zip.Cpio;
 
 ## Etapa 1: Defina seu diretório de documentos
 
- Em seguida, defina o diretório onde seus documentos estão localizados. Substitua`"Your Document Directory"` com o caminho real para seus documentos:
+Em seguida, defina o diretório onde seus documentos estão localizados. Substitua`"Your Document Directory"` com o caminho real para seus documentos:
 
 ```csharp
 string dataDir = "Your Document Directory";

@@ -24,8 +24,8 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã chuẩn bị những đi
 
 Để bắt đầu, hãy làm theo các bước sau để thiết lập thư mục dự án của bạn:
 
-1. Tạo một thư mục dự án: Tạo một thư mục có tên`Documents` trên máy tính của bạn. Đây là nơi bạn sẽ lưu trữ các tệp HTML và tệp PDF đầu ra.
-2.  Thêm tệp HTML của bạn: Đặt tệp HTML của bạn (ví dụ:`HTMLToPDF.html` ) trong`Documents` thư mục.
+1.  Tạo một thư mục dự án: Tạo một thư mục có tên`Documents` trên máy tính của bạn. Đây là nơi bạn sẽ lưu trữ các tệp HTML và tệp PDF đầu ra.
+2.  Thêm tệp HTML của bạn: Đặt tệp HTML của bạn (ví dụ:`HTMLToPDF.html` trong`Documents` thư mục.
 
 ## Nhập các gói cần thiết
 

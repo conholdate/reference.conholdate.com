@@ -91,7 +91,7 @@ Tidak, Aspose.Words untuk .NET tidak menyimpan tanda tangan digital saat membuka
 
 ### Bisakah saya mendeteksi beberapa tanda tangan digital dalam satu dokumen?
 
- Ya, itu`HasDigitalSignature` Properti menunjukkan apakah ada satu atau lebih tanda tangan digital.
+ Ya, itu`HasDigitalSignature`Properti menunjukkan apakah ada satu atau lebih tanda tangan digital.
 
 ### Bagaimana saya bisa mendapatkan uji coba gratis Aspose.Words untuk .NET?
 

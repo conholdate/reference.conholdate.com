@@ -9,7 +9,7 @@ url: /it/net/tutorials/words/mastering-document-properties/converting-between-me
 ---
 ## Introduzione
 
-Ciao, sviluppatori! Se lavori con documenti Word usando Aspose.Words per .NET, potresti dover spesso impostare margini, intestazioni o piè di pagina in varie unità di misura. La conversione tra unità come pollici e punti può essere impegnativa se non hai familiarità con le funzionalità della libreria. In questo tutorial, ti guideremo attraverso il processo di conversione delle unità di misura e di personalizzazione del layout del tuo documento con facilità. Cominciamo!
+Ciao, sviluppatori! Se lavori con documenti Word usando Aspose.Words per .NET, potresti dover spesso impostare margini, intestazioni o piè di pagina in varie unità di misura. La conversione tra unità come pollici e punti può essere difficile se non hai familiarità con le funzionalità della libreria. In questo tutorial, ti guideremo attraverso il processo di conversione delle unità di misura e di personalizzazione del layout del tuo documento con facilità. Cominciamo!
 
 ## Prerequisiti
 

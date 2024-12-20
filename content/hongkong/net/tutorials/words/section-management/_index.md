@@ -26,7 +26,7 @@ url: /zh-hant/net/tutorials/words/section-management/
  ## 母帶部分管理教程
 | 標題 | 描述 |
 | --- | --- |
-| [使用 Aspose.Words for .NET 新增部分](./adding-sections/) | 了解如何使用 Aspose.Words for .NET 文件新增節 了解如何在 Word 文件中建立節以增強可讀性和專業性。本指南涵蓋了從初始化文件到保存工作的所有內容。 |
+| [使用 Aspose.Words for .NET 新增部分](./adding-sections/) | 了解如何使用 Aspose.Words for .NET 文件新增節了解如何在 Word 文件中建立節以增強可讀性和專業性。本指南涵蓋了從初始化文件到保存工作的所有內容。 |
 | [使用 .NET 中的 Aspose.Words 刪除 Word 文件中的部分](./delete-sections-word-document/) | 了解如何使用 Aspose.Words for .NET 有效率地刪除 Word 文件中的部分。這份綜合指南將引導您完成先決條件。 |
-| [在 .NET 中使用 Aspose.Words 附加部分 Word 內容](./append-section-word-content/) | 透過易於理解的範例了解在 Word 文件中建立、修改和附加部分的基礎知識，非常適合初學者和經驗豐富的開發人員。 |
+| [在 .NET 中使用 Aspose.Words 附加部分文字內容](./append-section-word-content/) | 透過易於理解的範例了解在 Word 文件中建立、修改和附加部分的基礎知識，非常適合初學者和經驗豐富的開發人員。 |
 | [使用 Aspose.Words 在 Word 文件之間複製部分](./copy-sections-word-documents/) | 逐步了解如何使用 Aspose.Words for .NET 在 Word 文件之間高效複製部分。本詳細指南涵蓋先決條件、程式碼範例、進階技巧和常見問題解答。 |

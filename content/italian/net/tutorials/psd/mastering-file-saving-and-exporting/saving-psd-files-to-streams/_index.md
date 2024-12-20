@@ -47,7 +47,7 @@ Identifica la posizione del tuo file PSD sorgente e dove desideri salvare l'imma
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Percorso al file PSD sorgente
-string destName = dataDir + "result.png";   //Percorso per il file immagine di output
+string destName = dataDir + "result.png";   // Percorso per il file immagine di output
 ```
 
 ## Passaggio 3: caricare l'immagine PSD e gestire i font non trovati

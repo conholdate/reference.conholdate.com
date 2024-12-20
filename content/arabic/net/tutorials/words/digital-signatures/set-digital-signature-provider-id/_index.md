@@ -15,7 +15,7 @@ url: /ar/net/tutorials/words/digital-signatures/set-digital-signature-provider-i
 
 قبل الغوص، تأكد من أن لديك ما يلي:
 
-1.  Aspose.Words لمكتبة .NET:[تحميله هنا](https://releases.aspose.com/words/net/).
+1. Aspose.Words لمكتبة .NET:[تحميله هنا](https://releases.aspose.com/words/net/).
 2. بيئة التطوير: Visual Studio أو أي بيئة تطوير متكاملة متوافقة مع C#.
 3.  مستند Word: مستند يحتوي على سطر توقيع (على سبيل المثال،`Signature line.docx`).
 4.  الشهادة الرقمية: أ`.pfx` ملف الشهادة (على سبيل المثال،`morzal.pfx`).

@@ -25,6 +25,6 @@ Niemand houdt van een systeemcrash, toch? Zeker niet als u te maken hebt met bar
 
 ## Gids voor eendimensionale barcodetypen
 ### [Barcodehoogte aanpassen met Aspose.BarCode in .NET](./customizing-barcode-height/)
-Leer hoe u de hoogte van eendimensionale barcodes in .NET met Aspose.BarCode kunt aanpassen voor nauwkeurige aanpassing. Maak moeiteloos perfecte barcodes!
+Leer hoe u de hoogte van eendimensionale barcodes in .NET kunt aanpassen met Aspose.BarCode voor nauwkeurige aanpassing. Maak moeiteloos perfecte barcodes!
 ### [Generatie en uitzonderingsafhandeling met Aspose.BarCode voor .NET](./generation-and-exception-handling/)
 Leer hoe u effectief eendimensionale barcodes kunt genereren met Aspose.BarCode voor .NET, met de nadruk op robuuste technieken voor uitzonderingsafhandeling.

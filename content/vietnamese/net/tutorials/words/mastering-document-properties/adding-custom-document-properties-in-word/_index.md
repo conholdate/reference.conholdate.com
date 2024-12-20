@@ -121,7 +121,7 @@ Xin chúc mừng! Bạn đã thêm thành công các thuộc tính tài liệu t
 Thuộc tính tài liệu tùy chỉnh là siêu dữ liệu bạn có thể thêm vào tài liệu Word để lưu trữ thông tin bổ sung không được bao gồm trong các thuộc tính tích hợp sẵn.
 
 ### Tôi có thể thêm các thuộc tính khác ngoài chuỗi và số không?
-Có, bạn có thể thêm nhiều loại thuộc tính khác nhau, bao gồm giá trị boolean, ngày tháng và thậm chí cả các đối tượng tùy chỉnh.
+Có, bạn có thể thêm nhiều loại thuộc tính khác nhau, bao gồm giá trị boolean, ngày tháng và thậm chí cả đối tượng tùy chỉnh.
 
 ### Làm thế nào tôi có thể truy cập những thuộc tính này trong tài liệu Word?
 Bạn có thể truy cập các thuộc tính tùy chỉnh theo chương trình bằng Aspose.Words hoặc xem chúng trực tiếp trong Word thông qua thuộc tính tài liệu.

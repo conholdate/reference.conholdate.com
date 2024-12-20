@@ -65,7 +65,7 @@ Nadat het document en het certificaat zijn geladen, is het tijd om te onderteken
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Deze methode ondertekent het document. De parameters zijn het oorspronkelijke documentpad, het gewenste pad voor het ondertekende document en de certificaathouder.
+- `DigitalSignatureUtil.Sign`: Deze methode ondertekent het document. De parameters zijn het oorspronkelijke documentpad, het gewenste pad voor het ondertekende document en de certificaathouder.
 
 ## Stap 5: Sla het ondertekende document op
 

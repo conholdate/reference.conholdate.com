@@ -88,7 +88,7 @@ doc.Save(dataDir + "ConvertedImage.Format1BppIndexed.Png", saveOptions);
  ใช่ ต้องมีใบอนุญาตจึงจะใช้งานได้เต็มรูปแบบ คุณสามารถขอรับ[ใบอนุญาตชั่วคราวที่นี่](https://purchase.aspose.com/temporary-license/).
 
 ### ฉันสามารถแปลงเอกสาร Word ของฉันเป็นรูปแบบรูปภาพอื่นใดได้บ้าง
- Aspose.Words รองรับรูปแบบต่างๆ เช่น JPEG, BMP และ TIFF เพียงเปลี่ยน`SaveFormat`ใน`ImageSaveOptions` เป็นรูปแบบที่คุณต้องการ
+ Aspose.Words รองรับรูปแบบต่างๆ เช่น JPEG, BMP และ TIFF เพียงเปลี่ยน`SaveFormat` ใน`ImageSaveOptions`เป็นรูปแบบที่คุณต้องการ
 
 ### ฉันสามารถหาเอกสารเพิ่มเติมเกี่ยวกับ Aspose.Words สำหรับ .NET ได้จากที่ใด
  สำหรับเอกสารประกอบโดยละเอียด โปรดไปที่[หน้าเอกสาร Aspose.Words สำหรับ .NET](https://reference.aspose.com/words/net/).

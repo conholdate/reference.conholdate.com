@@ -71,7 +71,7 @@ Worksheet worksheet = workbook.Worksheets[0];
 Per recuperare i commenti in thread, dovrai specificare la cella che contiene i commenti. In questo caso, ci stiamo concentrando sulla cella`A1` Il metodo`GetThreadedComments` viene utilizzato per ottenere tutti i commenti associati a una cella specifica.
 
 ```csharp
-// Ottieni commenti thread dalla cella A1
+// Ottieni commenti concatenati dalla cella A1
 ThreadedCommentCollection threadedComments = worksheet.Comments.GetThreadedComments("A1");
 ```
 
@@ -95,7 +95,7 @@ foreach (ThreadedComment comment in threadedComments)
 
 ## Passaggio 6: visualizzare un messaggio di conferma
 
-Dopo aver letto con successo i commenti in thread e visualizzato le informazioni, è sempre una buona norma includere un messaggio di conferma nel codice. Ciò aiuta a confermare che il processo è stato eseguito correttamente.
+Dopo aver letto con successo i commenti in thread e visualizzato le informazioni, è sempre una buona pratica includere un messaggio di conferma nel codice. Questo aiuta a confermare che il processo è stato eseguito correttamente.
 
 ```csharp
 // Messaggio di conferma

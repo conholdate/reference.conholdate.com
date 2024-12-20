@@ -31,7 +31,7 @@ using Aspose.Cells;
 Diese Namespaces bieten die erforderliche Funktionalität zum Arbeiten mit Excel-Dateien und XML-Zuordnungen.
 
 ## Schritt 1: Definieren Sie den Dateipfad
-Geben Sie zunächst das Verzeichnis an, in dem sich Ihr Excel-Dokument befindet. Mit diesem Pfad kann das Programm Ihre Datei problemlos finden und laden.
+Geben Sie zunächst das Verzeichnis an, in dem sich Ihr Excel-Dokument befindet. Über diesen Pfad kann das Programm Ihre Datei problemlos finden und laden.
 
 ```csharp
 // Geben Sie das Verzeichnis der Excel-Datei an

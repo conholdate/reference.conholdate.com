@@ -111,7 +111,7 @@ Rozmiar promienia określa zakres działania filtra, natomiast wartość wygład
 
 ### Gdzie mogę znaleźć wsparcie i dodatkowe zasoby?
 
- W przypadku pytań i pomocy,[Forum Aspose.PSD](https://forum.aspose.com/c/psd/34)jest doskonałym źródłem kontaktu ze społecznością i zespołem wsparcia.
+ W przypadku pytań i pomocy,[Forum Aspose.PSD](https://forum.aspose.com/c/psd/34) jest doskonałym źródłem kontaktu ze społecznością i zespołem wsparcia.
 
 ### Czy jest dostępna bezpłatna wersja próbna Aspose.PSD?
 

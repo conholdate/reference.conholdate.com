@@ -95,7 +95,7 @@ Hieronder vindt u links naar nuttige bronnen die u mogelijk nodig hebt om uw tak
 
 **Welcome to the GroupDocs.Merger for .NET**
 
-GroupDocs.Merger voor .NET maakt het mogelijk om pagina's te trimmen en te verwisselen. Het beheert ook de documentbeveiliging. Bovendien maakt API het mogelijk om twee documenten van hetzelfde formaat samen te voegen tot één.
+GroupDocs.Merger voor .NET staat het bijsnijden en verwisselen van pagina's toe. Het beheert ook documentbeveiliging. Bovendien staat API toe om twee documenten van hetzelfde formaat samen te voegen tot één.
 
 {{% /alert %}} 
 ## **GroupDocs.Merger for .NET**

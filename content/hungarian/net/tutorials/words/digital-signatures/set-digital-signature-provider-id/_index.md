@@ -15,7 +15,7 @@ Helló! Ha digitális aláírást szeretne hozzáadni Word-dokumentumához egy a
 
 A merülés előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
-1.  Aspose.Words for .NET Library:[Töltse le itt](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Library:[Töltse le itt](https://releases.aspose.com/words/net/).
 2. Fejlesztői környezet: Visual Studio vagy bármely C#-kompatibilis IDE.
 3.  Word-dokumentum: Egy aláírási sort tartalmazó dokumentum (pl.`Signature line.docx`).
 4.  Digitális tanúsítvány: A`.pfx` tanúsítvány fájl (pl.`morzal.pfx`).
@@ -35,14 +35,14 @@ using Aspose.Words.DigitalSignatures;
 
 ## 2. lépés: Töltse be a Word-dokumentumot
 
-Először is be kell töltenie az aláírássort tartalmazó Word-dokumentumot. Íme, hogyan kell csinálni:
+Először is be kell töltenie az aláírási sort tartalmazó Word-dokumentumot. Íme, hogyan kell csinálni:
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Signature line.docx");
 ```
 
- Mindenképpen cserélje ki`"YOUR DOCUMENT DIRECTORY"` a tényleges elérési úttal, ahol a dokumentumot tárolják.
+ Ügyeljen arra, hogy cserélje ki`"YOUR DOCUMENT DIRECTORY"` a dokumentum tárolási útvonalával.
 
 ## 3. lépés: Nyissa meg az aláírási sort
 
@@ -52,7 +52,7 @@ Ezután nyissa meg a dokumentumba ágyazott aláírási sort. Az aláírási von
 SignatureLine signatureLine = ((Shape)doc.FirstSection.Body.GetChild(NodeType.Shape, 0, true)).SignatureLine;
 ```
 
- Ez a kód lekéri az első alakzatot az első szakasz törzsében, és átadja a`SignatureLine` objektum.
+ Ez a kód lekéri az első alakzatot az első szakasz törzsében, és leadja azt a`SignatureLine` objektum.
 
 ## 4. lépés: Az aláírási beállítások beállítása
 
@@ -66,7 +66,7 @@ SignOptions signOptions = new SignOptions
 };
 ```
 
-Ezek a beállítások biztosítják, hogy az aláíráskor a megfelelő aláírás-szolgáltató azonosító kerüljön alkalmazásra.
+Ezek a beállítások biztosítják, hogy az aláíráskor a megfelelő aláírás-szolgáltatói azonosító kerüljön alkalmazásra.
 
 ## 5. lépés: Töltse be a digitális tanúsítványt
 
@@ -99,7 +99,7 @@ Gratulálok! Sikeresen beállított egy aláírásszolgáltató azonosítót egy
 
 ### Mi az aláírás-szolgáltató azonosítója?
 
-A Signature Provider ID egyedileg azonosítja a digitális aláírás szolgáltatóját, ezzel biztosítva a hitelességet és a biztonságot.
+Signature Provider ID egyedileg azonosítja a digitális aláírás szolgáltatóját, ezzel biztosítva a hitelességet és a biztonságot.
 
 ### Használhatok bármilyen .pfx fájlt aláíráshoz?
 

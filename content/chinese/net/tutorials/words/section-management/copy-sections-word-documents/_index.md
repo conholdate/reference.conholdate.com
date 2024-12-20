@@ -64,7 +64,7 @@ Section sectionToCopy = sourceDoc.Sections[0];
 
 ## 步骤 4：将部分导入目标文档
 
-为了确保兼容性，请将该部分导入目标文档。
+为了确保兼容性，将该部分导入目标文档。
 
 ```csharp
 //将部分导入目标文档

@@ -12,7 +12,7 @@ url: /cs/net/tutorials/cells/mastering-tables-and-lists/
 Jste připraveni posunout své dovednosti v manipulaci s Excelem na další úroveň? Aspose.Cells for .NET je tu, aby práce s tabulkami a seznamy v Excelu byla hračka. Ať už jste začátečník v kódování nebo ostřílený vývojář, tyto výukové programy vám pomohou.
 
 ## Vytvářejte a spravujte objekty seznamu v aplikaci Excel  
- Seznamy v Excelu nejsou jen o organizaci, ale o funkčnosti. S Aspose.Cells for .NET můžete programově vytvářet a spravovat objekty seznamů, díky čemuž budou vaše tabulky dynamické a interaktivní. Tento výukový program vás provede každým krokem od jednoduchých seznamů úkolů až po složité datové sady. Jste připraveni automatizovat? Ponořte se do úplného průvodce[zde](./create-and-manage-list-object/).  
+ Seznamy v Excelu nejsou jen o organizaci, ale o funkčnosti. S Aspose.Cells for .NET můžete programově vytvářet a spravovat objekty seznamů, díky čemuž budou vaše tabulky dynamické a interaktivní. Tento výukový program vás provede každým krokem od jednoduchých seznamů úkolů až po složité datové sady. Jste připraveni na automatizaci? Ponořte se do úplného průvodce[zde](./create-and-manage-list-object/).  
 
 ## Převést tabulky do formátu ODS  
 Excelové tabulky jsou výkonné, ale někdy potřebujete flexibilitu. Zde se hodí převod tabulek do formátu OpenDocument Spreadsheet (ODS). Aspose.Cells for .NET umožňuje tuto konverzi zvládnout pomocí několika řádků kódu. Chcete podrobný návod? Podívejte se na celý tutoriál[zde](./convert-table-to-ods-format/).  

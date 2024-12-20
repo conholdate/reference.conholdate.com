@@ -16,7 +16,7 @@ Ez a dokumentum átfogó útmutatót nyújt az interaktív elemek, például el�
 Ezenkívül alapszintű ismeretekkel kell rendelkeznie a C# nyelvről, és ismernie kell a használt fejlesztői környezetet. Ezenkívül, ha el kell kerülnie a korlátozásokat a fejlesztési folyamat során, fontolja meg egy ideiglenes licenc beszerzését az Aspose-tól.
 
 ## A szükséges csomagok importálása
-A kódírás megkezdéséhez importálja a szükséges névtereket az Aspose.PDF könyvtárból:
+kódírás megkezdéséhez importálja a szükséges névtereket az Aspose.PDF könyvtárból:
 
 ```csharp
 using System.IO;

@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- W tym kroku inicjujesz nową instancję`Document` klasa, która służy jako płótno dla naszych przyszłych warstw. Upewnij się, że zastąpisz`"YOUR DOCUMENT DIRECTORY"` z rzeczywistą ścieżką, pod którą chcesz później zapisać plik PDF.
+ W tym kroku inicjujesz nową instancję`Document`klasa, która służy jako płótno dla naszych przyszłych warstw. Upewnij się, że zastąpisz`"YOUR DOCUMENT DIRECTORY"` z rzeczywistą ścieżką, pod którą chcesz później zapisać plik PDF.
 
 ## Krok 2: Utwórz nową stronę
 
@@ -97,7 +97,7 @@ layer.Contents.Add(new Stroke());
 page.Layers.Add(layer);
 ```
 
-tą samą logiką dodaliśmy zieloną warstwę i niebieską warstwę. Każda warstwa ma swoje własne cechy i może być modyfikowana niezależnie. Pomyśl o tym jak o organizowaniu różnych elementów swojego projektu w odrębnych folderach.
+Z tą samą logiką dodaliśmy zieloną warstwę i niebieską warstwę. Każda warstwa ma swoje własne cechy i może być modyfikowana niezależnie. Pomyśl o tym jak o organizowaniu różnych elementów swojego projektu w odrębnych folderach.
 
 ## Krok 5: Zapisz dokument PDF
 

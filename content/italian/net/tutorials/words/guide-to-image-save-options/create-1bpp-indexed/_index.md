@@ -88,7 +88,7 @@ Un'immagine indicizzata a 1 Bpp (1 bit per pixel) è un formato di immagine in b
  Sì, è richiesta una licenza per la piena funzionalità. Puoi ottenere una[licenza temporanea qui](https://purchase.aspose.com/temporary-license/).
 
 ### In quali altri formati immagine posso convertire il mio documento Word?
- Aspose.Words supporta vari formati, tra cui JPEG, BMP e TIFF. Basta cambiare il`SaveFormat`nel`ImageSaveOptions` nel formato desiderato.
+ Aspose.Words supporta vari formati, tra cui JPEG, BMP e TIFF. Basta cambiare il`SaveFormat` nel`ImageSaveOptions`nel formato desiderato.
 
 ### Dove posso trovare ulteriore documentazione su Aspose.Words per .NET?
  Per una documentazione completa, visitare il[Pagina di documentazione di Aspose.Words per .NET](https://reference.aspose.com/words/net/).

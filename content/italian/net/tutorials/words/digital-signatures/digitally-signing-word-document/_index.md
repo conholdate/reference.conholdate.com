@@ -1,6 +1,6 @@
 ---
-title: Firma digitale del documento Word
-linktitle: Firma digitale del documento Word
+title: Firma digitale di un documento Word
+linktitle: Firma digitale di un documento Word
 second_title: API di elaborazione dei documenti Aspose.Words
 description: Scopri come firmare a livello di programmazione i documenti Word utilizzando Aspose.Words per .NET in questa guida completa e dettagliata.
 type: docs
@@ -65,7 +65,7 @@ Una volta caricati il documento e il certificato, è il momento di firmare:
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Questo metodo firma il documento. I parametri sono il percorso del documento originale, il percorso desiderato per il documento firmato e il titolare del certificato.
+- `DigitalSignatureUtil.Sign`: Questo metodo firma il documento. I parametri sono il percorso del documento originale, il percorso desiderato per il documento firmato e il titolare del certificato.
 
 ## Passaggio 5: Salvare il documento firmato
 

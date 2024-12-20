@@ -17,7 +17,7 @@ Než se ponoříte do kódu, je nezbytné se ujistit, že máte na místě potř
 
 ### Aspose.Words pro .NET
 
-Chcete-li začít, potřebujete Aspose.Words for .NET. Pokud jste tak ještě neučinili, stáhněte si jej z[webové stránky](https://releases.aspose.com/words/net/) . Pokud s Aspose.Words začínáte, můžete si to zdarma vyzkoušet stažením a[zkušební verze zdarma](https://releases.aspose.com/).
+ Chcete-li začít, potřebujete Aspose.Words for .NET. Pokud jste tak ještě neučinili, stáhněte si jej z[webové stránky](https://releases.aspose.com/words/net/) Pokud s Aspose.Words začínáte, můžete si to zdarma vyzkoušet stažením a[zkušební verze zdarma](https://releases.aspose.com/).
 
 ### Vývojové prostředí
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Vložte dokument
 
-Dále načteme dokument do programu. To lze provést pomocí`Document` třídy poskytuje Aspose.Words. Následující fragment kódu ukazuje, jak načíst dokument aplikace Word ze zadaného adresáře.
+ Dále načteme dokument do programu. To lze provést pomocí`Document`třídy poskytuje Aspose.Words. Následující fragment kódu ukazuje, jak načíst dokument aplikace Word ze zadaného adresáře.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Tento jediný řádek kódu zajišťuje, že dokument již neuchovává žádné
 
 ### 2.2 Uložte vyčištěný dokument
 
- Jakmile jsou osobní údaje odstraněny, je nezbytné upravený dokument uložit. To lze provést pomocí`Save`metoda, která zapíše aktualizovaný dokument do nového souboru se zachováním všech změn.
+ Jakmile jsou osobní údaje odstraněny, je nezbytné upravený dokument uložit. To lze provést pomocí`Save` metoda, která zapíše aktualizovaný dokument do nového souboru se zachováním všech změn.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");
@@ -80,7 +80,7 @@ doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.doc
 
 ## Závěr
 
-S Aspose.Words for .NET je odstranění osobních informací z dokumentů Wordu přímočarým úkolem. Podle výše uvedených kroků můžete snadno odstranit citlivá metadata a zajistit, aby vaše dokumenty zůstaly bezpečné a připravené k distribuci. Tento jednoduchý proces je jen jedním příkladem výkonných funkcí, které Aspose.Words nabízí pro správu dokumentů.
+Aspose.Words for .NET je odstranění osobních informací z dokumentů Wordu přímočarým úkolem. Podle výše uvedených kroků můžete snadno odstranit citlivá metadata a zajistit, aby vaše dokumenty zůstaly bezpečné a připravené k distribuci. Tento jednoduchý proces je jen jedním příkladem výkonných funkcí, které Aspose.Words nabízí pro správu dokumentů.
 
 ## FAQ
 

@@ -13,7 +13,7 @@ url: /cs/net/tutorials/3d/guide-to-3d-modeling/
 
 ## Vytvářejte primitivní 3D modely
 
- Každý umělec potřebuje pevný základ a jak lépe začít než vytvářením primitivních tvarů? V našem tutoriálu na[vytváření primitivních 3D modelů](./create-primitive-3d-modeling/)naučíte se konstruovat základní objekty, jako jsou krabice, koule a válce. Tyto tvary jsou stavebními kameny složitějších modelů a jsou ideální pro každého, kdo právě začíná.
+ Každý umělec potřebuje pevný základ a jak lépe začít než vytvářením primitivních tvarů? V našem tutoriálu na[vytváření primitivních 3D modelů](./create-primitive-3d-modeling/), naučíte se konstruovat základní objekty, jako jsou krabice, koule a válce. Tyto tvary jsou stavebními kameny složitějších modelů a jsou ideální pro každého, kdo právě začíná.
 
 Provedeme vás procesem krok za krokem, přičemž jednotlivé akce rozebereme, abyste je mohli snadno sledovat. Představte si, že stavíte dům. Nejprve položíte základy jednoduchými bloky. Podobně v našem tutoriálu vytyčíte základy primitivními tvary, které umožní rozkvět vaší kreativity, když si je později upravíte pomocí textur a barev. 
 

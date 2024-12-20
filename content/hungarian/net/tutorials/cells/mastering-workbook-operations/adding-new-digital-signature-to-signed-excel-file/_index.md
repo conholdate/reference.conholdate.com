@@ -129,7 +129,7 @@ Igen, egy megbízható tanúsító hatóság (CA) által kiadott digitális tan�
 
 ### Használhatok önaláírt tanúsítványt a teszteléshez?
 
-Teljesen! Fejlesztési és tesztelési célokra használhat önaláírt tanúsítványt, de termeléshez célszerű egy megbízható CA-tól származó tanúsítványt használni.
+Teljesen! Fejlesztési és tesztelési célokra használhat önaláírt tanúsítványt, de a termeléshez célszerű egy megbízható CA-tól származó tanúsítványt használni.
 
 ### Mi történik, ha megpróbálok aláírást adni egy nem aláírt dokumentumhoz?
 

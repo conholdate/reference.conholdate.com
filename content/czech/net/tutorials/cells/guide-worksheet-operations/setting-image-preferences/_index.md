@@ -32,7 +32,7 @@ Spusťte Visual Studio a buď otevřete existující projekt C#, nebo vytvořte 
 - Vyberte „Spravovat balíčky NuGet“.
 - Vyhledejte „Aspose.Cells“ a nainstalujte balíček.
 
-### 3. Zahrňte Směrnici používání
+### 3. Zahrnout Směrnici používání
 
 V horní části souboru kódu C# zahrňte potřebný jmenný prostor Aspose.Cells:
 

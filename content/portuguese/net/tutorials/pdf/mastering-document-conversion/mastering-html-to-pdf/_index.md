@@ -24,8 +24,8 @@ Antes de começar, certifique-se de ter o seguinte em mãos:
 
 Para começar, siga estas etapas para configurar seu diretório de projeto:
 
-1. Crie um diretório de projeto: Crie uma pasta chamada`Documents` no seu computador. É aqui que você armazenará seus arquivos HTML e o PDF de saída.
-2.  Adicione seu arquivo HTML: Coloque seu arquivo HTML (por exemplo,`HTMLToPDF.html` ) no`Documents` pasta.
+1.  Crie um diretório de projeto: Crie uma pasta chamada`Documents` no seu computador. É aqui que você armazenará seus arquivos HTML e o PDF de saída.
+2.  Adicione seu arquivo HTML: Coloque seu arquivo HTML (por exemplo,`HTMLToPDF.html` no`Documents` pasta.
 
 ## Importando Pacotes Necessários
 

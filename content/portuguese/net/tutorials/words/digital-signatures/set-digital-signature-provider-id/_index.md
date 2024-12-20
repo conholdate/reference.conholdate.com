@@ -15,7 +15,7 @@ Olá! Se você está procurando adicionar uma assinatura digital ao seu document
 
 Antes de mergulhar, certifique-se de ter o seguinte:
 
-1.  Biblioteca Aspose.Words para .NET:[Baixe aqui](https://releases.aspose.com/words/net/).
+1. Biblioteca Aspose.Words para .NET:[Baixe aqui](https://releases.aspose.com/words/net/).
 2. Ambiente de desenvolvimento: Visual Studio ou qualquer IDE compatível com C#.
 3.  Documento do Word: Um documento com uma linha de assinatura (por exemplo,`Signature line.docx`).
 4.  Certificado Digital: A`.pfx` arquivo de certificado (por exemplo,`morzal.pfx`).

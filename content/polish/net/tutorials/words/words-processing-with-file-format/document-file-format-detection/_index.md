@@ -16,7 +16,7 @@ Efektywne zarządzanie i organizowanie różnych formatów dokumentów ma kluczo
 Zanim zaczniemy, upewnij się, że spełnione są następujące wymagania:
 
 1. Aspose.Words dla biblioteki .NET  
-    Pobierz bibliotekę z[Wydania Aspose Words](https://releases.aspose.com/words/net/) i aktywuj ją za pomocą ważnej licencji. W przypadku licencji tymczasowych odwiedź[Licencja tymczasowa Aspose](https://purchase.aspose.com/temporary-license/).
+    Pobierz bibliotekę z[Wydania Aspose Words](https://releases.aspose.com/words/net/) aktywuj ją za pomocą ważnej licencji. W przypadku licencji tymczasowych odwiedź[Licencja tymczasowa Aspose](https://purchase.aspose.com/temporary-license/).
 
 2. Środowisko programistyczne  
    Użyj programu Visual Studio (dowolnej nowszej wersji) z zainstalowanym środowiskiem .NET Framework.
@@ -62,14 +62,14 @@ Taka struktura upraszcza zarządzanie plikami.
 
 ## Krok 2: Pobierz listę plików
 
-Odfiltruj uszkodzone lub nieobsługiwane dokumenty, aby usprawnić przetwarzanie.
+Filtruj uszkodzone lub nieobsługiwane dokumenty, aby usprawnić przetwarzanie.
 
 ```csharp
 IEnumerable<string> fileList = Directory.GetFiles(dataDir)
     .Where(fileName => !fileName.EndsWith("Corrupted document.docx"));
 ```
 
-Lista filtrów zapewnia pracę wyłącznie z prawidłowymi plikami.
+Dzięki filtrowanej liście masz pewność, że pracujesz tylko z prawidłowymi plikami.
 
 ## Krok 3: Wykryj i sklasyfikuj formaty plików
 
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- Ten`FileFormatUtil.DetectFileFormat` Metoda ta ma kluczowe znaczenie dla identyfikacji cech dokumentu.
+ Ten`FileFormatUtil.DetectFileFormat`Metoda ta ma kluczowe znaczenie dla identyfikacji cech dokumentu.
 
 ## Wniosek
 

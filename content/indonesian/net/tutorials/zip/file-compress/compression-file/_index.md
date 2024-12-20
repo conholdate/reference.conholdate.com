@@ -30,7 +30,7 @@ using Aspose.Zip.Cpio;
 
 ## Langkah 1: Atur Direktori Dokumen Anda
 
- Selanjutnya, tentukan direktori tempat dokumen Anda berada. Ganti`"Your Document Directory"` dengan jalur sebenarnya ke dokumen Anda:
+Selanjutnya, tentukan direktori tempat dokumen Anda berada. Ganti`"Your Document Directory"` dengan jalur sebenarnya ke dokumen Anda:
 
 ```csharp
 string dataDir = "Your Document Directory";

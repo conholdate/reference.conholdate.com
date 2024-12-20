@@ -75,7 +75,7 @@ Absolutně! Bradley Thresholding je všestranný a lze jej použít na většinu
 
 ### Je k dispozici zkušební verze?
 
- Ano! Aspose.PSD pro .NET můžete vyzkoušet s bezplatnou zkušební verzí[zde](https://releases.aspose.com/).
+Ano! Aspose.PSD pro .NET můžete vyzkoušet s bezplatnou zkušební verzí[zde](https://releases.aspose.com/).
 
 ### Jak mohu získat podporu pro Aspose.PSD?
 

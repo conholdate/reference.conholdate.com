@@ -21,7 +21,7 @@ Než začneme, ujistěte se, že máte následující:
 
 ## Importujte požadované jmenné prostory
 
-Začněte importováním potřebných jmenných prostorů do vašeho projektu .NET. Přidejte následující řádky na začátek kódu:
+Začněte importováním potřebných jmenných prostorů do vašeho projektu .NET. Na začátek kódu přidejte následující řádky:
 
 ```csharp
 using Aspose.TeX.IO;

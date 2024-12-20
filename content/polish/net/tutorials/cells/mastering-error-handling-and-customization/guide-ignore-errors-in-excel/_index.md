@@ -110,7 +110,7 @@ Oczywiście! Aspose.Cells pozwala również tworzyć, modyfikować i renderować
 
  Możesz uzyskać tymczasową licencję[Tutaj](https://purchase.aspose.com/temporary-license/).
 
-### Co zrobić, jeśli po zignorowaniu błędów nadal będę miał problemy?
+### Co zrobić, jeśli po zignorowaniu błędów nadal występują problemy?
 
  Jeśli zaobserwujesz nieoczekiwane zachowania, skonsultuj się z[Fora wsparcia Aspose](https://forum.aspose.com/c/cells/9) po wskazówki i pomoc.
 

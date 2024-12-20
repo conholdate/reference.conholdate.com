@@ -42,7 +42,7 @@ LoadOptions loadOptions = new LoadOptions();
 
 ### Ustaw domyślny język edycji na rosyjski
 
- Następnie ustaw`DefaultEditingLanguage` nieruchomość na rosyjski:
+Następnie ustaw`DefaultEditingLanguage` nieruchomość na rosyjski:
 
 ```csharp
 loadOptions.LanguagePreferences.DefaultEditingLanguage = EditingLanguage.Russian;
@@ -99,7 +99,7 @@ Ten wynik poinformuje Cię, czy domyślny język edycji został pomyślnie ustaw
 
 ## Wniosek
 
- Ustawienie języka rosyjskiego jako domyślnego języka edycji w dokumencie Word przy użyciu Aspose.Words dla .NET jest prostym procesem. Poprzez skonfigurowanie`LoadOptions`, ładując dokument i weryfikując ustawienia językowe, możesz dostosować dokumenty tak, aby skutecznie spełniały potrzeby językowe odbiorców.
+Ustawienie języka rosyjskiego jako domyślnego języka edycji w dokumencie Word przy użyciu Aspose.Words dla .NET jest prostym procesem. Poprzez skonfigurowanie`LoadOptions`, ładując dokument i weryfikując ustawienia językowe, możesz dostosować dokumenty tak, aby skutecznie spełniały potrzeby językowe odbiorców.
 
 ## Najczęściej zadawane pytania
 
@@ -121,4 +121,4 @@ Aspose.Words for .NET to kompleksowa biblioteka umożliwiająca programowe tworz
 
 ### Gdzie mogę uzyskać pomoc techniczną dotyczącą Aspose.Words dla .NET?
 
- Aby uzyskać pomoc, odwiedź stronę[Wsparcie Aspose](https://forum.aspose.com/c/words/8) forum, na którym możesz zadawać pytania i otrzymywać pomoc od społeczności oraz deweloperów Aspose.
+ Aby uzyskać pomoc, odwiedź stronę[Wsparcie Aspose](https://forum.aspose.com/c/words/8)forum, na którym możesz zadawać pytania i otrzymywać pomoc od społeczności oraz deweloperów Aspose.

@@ -69,7 +69,7 @@ Document doc = new Document();
 doc.RemoveAllChildren();
 ```
 
- Ez új üreset hoz létre`Document`. A HTML-tartalom beszúrásának megkezdése előtt eltávolítunk minden meglévő alárendelt csomópontot, hogy biztosak legyünk a tiszta lapokon.
+ Ez új üreset hoz létre`Document`. A HTML-tartalom beszúrásának megkezdése előtt eltávolítunk minden meglévő alárendelt csomópontot, hogy megbizonyosodjunk a tiszta lapról.
 
 ### 4. lépés: HTML tartalom beszúrása
 

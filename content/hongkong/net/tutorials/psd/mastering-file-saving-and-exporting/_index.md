@@ -23,4 +23,4 @@ url: /zh-hant/net/tutorials/psd/mastering-file-saving-and-exporting/
 ### [使用 Aspose.PSD for .NET 將 PSD 檔案儲存到磁碟](./saving-psd-files-to-disk/)
 請按照逐步指南了解如何輕鬆地將 PSD 影像儲存到磁碟。無論您是將 PSD 檔案轉換為各種影像格式還是管理複雜的映像資源。
 ### [使用 Aspose.PSD for .NET 將 PSD 檔案儲存到串流](./saving-psd-files-to-streams/)
-了解如何使用 Aspose.PSD for .NET 將 PSD 檔案中的影像有效地儲存到流中。這個全面的逐步指南涵蓋了先決條件、程式碼和技術。
+了解如何使用 Aspose.PSD for .NET 將映像從 PSD 檔案有效儲存到串流。這個全面的逐步指南涵蓋了先決條件、程式碼和技術。

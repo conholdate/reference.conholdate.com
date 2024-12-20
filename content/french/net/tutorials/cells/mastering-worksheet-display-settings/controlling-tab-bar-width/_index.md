@@ -30,7 +30,7 @@ Pour suivre, assurez-vous d'avoir les éléments suivants :
 ## Importer les packages requis
  Commencez par créer une nouvelle application console dans Visual Studio. Ajoutez une référence à`Aspose.Cells.dll` en suivant ces étapes :
 
-1. Faites un clic droit sur votre projet dans l’Explorateur de solutions.
+1. Cliquez avec le bouton droit sur votre projet dans l’Explorateur de solutions.
 2. Sélectionnez Ajouter → Référence.
 3.  Accédez au répertoire contenant`Aspose.Cells.dll` et ajoutez-le.
 

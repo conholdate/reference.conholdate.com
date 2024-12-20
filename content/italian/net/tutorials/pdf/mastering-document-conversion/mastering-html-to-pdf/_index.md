@@ -24,8 +24,8 @@ Prima di iniziare, assicurati di avere a disposizione quanto segue:
 
 Per iniziare, segui questi passaggi per impostare la directory del tuo progetto:
 
-1. Crea una directory di progetto: crea una cartella denominata`Documents` sul tuo computer. Qui è dove memorizzerai i tuoi file HTML e il PDF di output.
-2.  Aggiungi il tuo file HTML: inserisci il tuo file HTML (ad esempio,`HTMLToPDF.html` ) nel`Documents` cartella.
+1.  Crea una directory di progetto: crea una cartella denominata`Documents` sul tuo computer. Qui è dove memorizzerai i tuoi file HTML e il PDF di output.
+2.  Aggiungi il tuo file HTML: inserisci il tuo file HTML (ad esempio,`HTMLToPDF.html` nel`Documents` cartella.
 
 ## Importazione dei pacchetti necessari
 

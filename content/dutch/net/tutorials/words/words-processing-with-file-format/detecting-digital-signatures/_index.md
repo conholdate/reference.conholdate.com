@@ -91,7 +91,7 @@ Nee, Aspose.Words voor .NET bewaart geen digitale handtekeningen bij het openen 
 
 ### Kan ik meerdere digitale handtekeningen in een document detecteren?
 
- Ja, de`HasDigitalSignature` eigenschap geeft aan of er één of meerdere digitale handtekeningen aanwezig zijn.
+ Ja, de`HasDigitalSignature`eigenschap geeft aan of er één of meerdere digitale handtekeningen aanwezig zijn.
 
 ### Hoe kan ik een gratis proefversie van Aspose.Words voor .NET krijgen?
 

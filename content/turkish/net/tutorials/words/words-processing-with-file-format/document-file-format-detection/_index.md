@@ -16,7 +16,7 @@ Günümüzün dijital ortamında çeşitli belge biçimlerini etkin bir şekilde
 Başlamadan önce aşağıdaki şartların karşılandığından emin olun:
 
 1. Aspose.Words for .NET Kütüphanesi  
-    Kütüphaneyi şu adresten indirin:[Aspose Words Yayınları](https://releases.aspose.com/words/net/) ve geçerli bir lisans kullanarak etkinleştirin. Geçici lisanslar için şu adresi ziyaret edin:[Aspose Geçici Lisans](https://purchase.aspose.com/temporary-license/).
+    Kütüphaneyi şu adresten indirin:[Aspose Words Yayınları](https://releases.aspose.com/words/net/)ve geçerli bir lisans kullanarak etkinleştirin. Geçici lisanslar için şu adresi ziyaret edin:[Aspose Geçici Lisans](https://purchase.aspose.com/temporary-license/).
 
 2. Geliştirme Ortamı  
    .NET Framework yüklü olarak Visual Studio'yu (herhangi bir güncel sürüm) kullanın.
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- The`FileFormatUtil.DetectFileFormat` Yöntem, belgenin özelliklerinin belirlenmesinde merkezi bir öneme sahiptir.
+ The`FileFormatUtil.DetectFileFormat`Yöntem, belgenin özelliklerinin belirlenmesinde merkezi bir öneme sahiptir.
 
 ## Çözüm
 

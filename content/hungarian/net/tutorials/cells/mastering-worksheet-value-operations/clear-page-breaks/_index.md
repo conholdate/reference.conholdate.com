@@ -32,7 +32,7 @@ using System;
 
 ## 1. lépés: Állítsa be a dokumentumkönyvtárat
 
-Először határozza meg a dokumentumkönyvtár elérési útját. Itt tárolódnak az Excel-fájlok, és a kimeneti fájlok a feldolgozás után.
+Először határozza meg a dokumentumkönyvtár elérési útját. Ez az a hely, ahol az Excel-fájlok tárolása, és a kimeneti fájlok mentése a feldolgozás után.
 
 ```csharp
 // A dokumentumok könyvtárának elérési útja.

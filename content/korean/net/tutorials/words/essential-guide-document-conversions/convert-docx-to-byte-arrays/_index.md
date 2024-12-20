@@ -18,7 +18,7 @@ url: /ko/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 - C# 및 .NET 프레임워크에 대한 기본적인 이해.
 - 개발용 컴퓨터에 Visual Studio가 설치되어 있어야 합니다.
 -  다운로드할 수 있는 .NET 라이브러리용 Aspose.Words[여기](https://releases.aspose.com/words/net/).
--  Aspose.Words에 대한 유효한 라이센스입니다. 아직 라이센스가 없다면 임시 라이센스를 얻을 수 있습니다.[여기](https://purchase.conholdate.com/temporary-license/).
+- Aspose.Words에 대한 유효한 라이센스입니다. 아직 라이센스가 없다면 임시 라이센스를 얻을 수 있습니다.[여기](https://purchase.conholdate.com/temporary-license/).
 
 ## 네임스페이스 가져오기
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // 이제 필요에 따라 docFromBytes로 작업할 수 있습니다.
 }
 ```
-1.  메모리 스트림 생성: 생성`MemoryStream` 바이트 배열에서.
+1.  메모리 스트림 생성: 생성`MemoryStream`바이트 배열에서.
 2. 문서 로딩: 스트림에서 직접 문서를 로드하여 추가 작업을 수행할 수 있도록 준비합니다.
 
 ## 결론

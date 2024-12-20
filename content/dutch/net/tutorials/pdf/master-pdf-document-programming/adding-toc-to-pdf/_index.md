@@ -19,7 +19,7 @@ Zorg ervoor dat u het volgende bij de hand hebt voordat u begint:
 2.  Ontwikkelomgeving: Stel een .NET-ontwikkelomgeving in, zoals Visual Studio.
 3.   Licentie: Vraag indien nodig een tijdelijke licentie aan; ga naar[Aspose.Pdf-licentiepagina](https://asposepdf.com/developers) voor meer informatie.
 
-Importeren van benodigde bibliotheken
+Noodzakelijke bibliotheken importeren
 
 ```csharp
 using System.IO;

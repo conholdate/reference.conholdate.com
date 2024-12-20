@@ -46,7 +46,7 @@ using Aspose.Cells;
 ```
 
 ## Schritt 1: Quell- und Ausgabeverzeichnisse definieren
-Geben Sie zunächst den Speicherort Ihrer Excel-Beispieldateien an und wo Sie die Ausgaben speichern möchten:
+Geben Sie zunächst den Speicherort Ihrer Excel-Beispieldateien an und geben Sie an, wo Sie die Ausgaben speichern möchten:
 ```csharp
 // Definieren Sie das Quellverzeichnis für die Excel-Dateien
 string sourceDir = "Your Document Directory";

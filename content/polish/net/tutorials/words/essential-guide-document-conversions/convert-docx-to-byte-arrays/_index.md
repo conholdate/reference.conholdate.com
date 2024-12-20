@@ -18,7 +18,7 @@ Zanim zaczniesz pisać kod, upewnij się, że spełniasz następujące wymagania
 - Podstawowa znajomość języka C# i środowiska .NET.
 - Program Visual Studio zainstalowany na komputerze deweloperskim.
 -  Biblioteka Aspose.Words dla .NET, którą można pobrać[Tutaj](https://releases.aspose.com/words/net/).
--  Ważna licencja na Aspose.Words. Jeśli jeszcze jej nie masz, możesz uzyskać tymczasową licencję[Tutaj](https://purchase.conholdate.com/temporary-license/).
+- Ważna licencja na Aspose.Words. Jeśli jeszcze jej nie masz, możesz uzyskać tymczasową licencję[Tutaj](https://purchase.conholdate.com/temporary-license/).
 
 ## Importuj przestrzenie nazw
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Teraz możesz pracować z docFromBytes, jeśli to konieczne
 }
 ```
-1.  Tworzenie strumienia pamięci: Utwórz`MemoryStream` z tablicy bajtów.
+1.  Tworzenie strumienia pamięci: Utwórz`MemoryStream` tablicy bajtów.
 2. Ładowanie dokumentu: Załaduj dokument bezpośrednio ze strumienia, przygotowując go do dalszych operacji.
 
 ## Wniosek

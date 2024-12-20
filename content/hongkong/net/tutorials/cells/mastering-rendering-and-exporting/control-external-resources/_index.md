@@ -87,7 +87,7 @@ string outputDir = "Your Document Directory";
 Workbook wb = new Workbook(sourceDir, "samplePdfSaveOptions_StreamProvider.xlsx");
 ```
 
-這`Workbook`Aspose.Cells 中的類別代表您的 Excel 文件，其中可能包含各種外部資源，例如映像。
+這`Workbook`Aspose.Cells 中的類別代表您的 Excel 文件，其中可能包含各種外部資源，例如圖片。
 
 ## 步驟 4：設定 PDF 儲存選項
 

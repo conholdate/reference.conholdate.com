@@ -86,7 +86,7 @@ Gratulálok! Sikeresen konvertált egy DGN-fájlt PDF-be az Aspose.CAD for .NET 
 ## GYIK
 
 ### Szükségem van előzetes CAD ismeretekre az Aspose.CAD használatához?  
-Teljesen! Az Aspose.CAD célja az összetett CAD-feladatok egyszerűsítése, így minden fejlesztő számára elérhetővé válik, függetlenül a CAD-ismeretétől.
+Teljesen! Az Aspose.CAD célja az összetett CAD feladatok egyszerűsítése, így minden fejlesztő számára elérhetővé válik, függetlenül a CAD tudásától.
 
 ### Hol találok további forrásokat és dokumentációt az Aspose.CAD-hez?  
  Átfogó útmutatókat és példákat fedezhet fel a[Aspose.CAD dokumentáció](https://reference.aspose.com/cad/net/).

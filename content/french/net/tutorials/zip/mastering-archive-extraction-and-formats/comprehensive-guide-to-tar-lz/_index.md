@@ -76,7 +76,7 @@ Félicitations ! Vous avez appris avec succès à compresser des fichiers au fo
 
 ## FAQ
 
-### Puis-je compresser des fichiers de n'importe quelle taille en utilisant Aspose.Zip pour .NET ?
+### Puis-je compresser des fichiers de n'importe quelle taille en utilisant Aspose.Zip pour .NET ?
 Oui, Aspose.Zip pour .NET est capable de gérer efficacement des fichiers de différentes tailles, offrant une compression optimale.
 
 ### Ce code est-il compatible avec la dernière version d'Aspose.Zip pour .NET ?

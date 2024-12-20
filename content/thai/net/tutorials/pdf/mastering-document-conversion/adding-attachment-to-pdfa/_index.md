@@ -64,7 +64,7 @@ doc.Convert(dataDir + "log.txt", Aspose.Pdf.PdfFormat.PDF_A_3A, ConvertErrorActi
 
 - ระบุเส้นทางสำหรับไฟล์บันทึก
 -  เลือก`PDF_A_3A` รูปแบบเพื่อรองรับไฟล์ที่ฝังไว้ (ตรงกันข้ามกับ`PDF` ซึ่งไม่เป็นเช่นนั้น)
--  ใช้`ConvertErrorAction.Delete` เพื่อลบองค์ประกอบใด ๆ ที่ไม่เป็นไปตามมาตรฐาน PDF/A
+-  ใช้`ConvertErrorAction.Delete`เพื่อลบองค์ประกอบใด ๆ ที่ไม่เป็นไปตามมาตรฐาน PDF/A
 
 ## ขั้นตอนที่ 5: บันทึกเอกสาร PDF/A ที่ได้
 

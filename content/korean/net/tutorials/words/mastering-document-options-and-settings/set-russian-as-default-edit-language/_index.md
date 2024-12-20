@@ -42,7 +42,7 @@ LoadOptions loadOptions = new LoadOptions();
 
 ### 기본 편집 언어를 러시아어로 설정
 
- 다음으로 설정하세요`DefaultEditingLanguage` 러시아어로 재산:
+다음으로 설정하세요`DefaultEditingLanguage` 러시아어로 재산:
 
 ```csharp
 loadOptions.LanguagePreferences.DefaultEditingLanguage = EditingLanguage.Russian;
@@ -99,7 +99,7 @@ Console.WriteLine(
 
 ## 결론
 
- Aspose.Words for .NET을 사용하여 Word 문서에서 러시아어를 기본 편집 언어로 설정하는 것은 간단한 프로세스입니다.`LoadOptions`문서를 로딩하고, 언어 설정을 확인하면 청중의 언어적 요구에 효과적으로 맞춰 문서를 맞춤 설정할 수 있습니다.
+Aspose.Words for .NET을 사용하여 Word 문서에서 러시아어를 기본 편집 언어로 설정하는 것은 간단한 프로세스입니다.`LoadOptions`문서를 로딩하고, 언어 설정을 확인하면 청중의 언어적 요구에 효과적으로 맞춰 문서를 맞춤 설정할 수 있습니다.
 
 ## 자주 묻는 질문
 
@@ -121,4 +121,4 @@ Aspose.Words for .NET은 .NET 애플리케이션 내에서 Word 문서를 프로
 
 ### Aspose.Words for .NET에 대한 지원을 어떻게 받을 수 있나요?
 
- 지원을 받으려면 다음을 방문하세요.[Aspose 지원](https://forum.aspose.com/c/words/8) 커뮤니티와 Aspose 개발자에게 질문을 하고 도움을 받을 수 있는 포럼입니다.
+ 지원을 받으려면 다음을 방문하세요.[Aspose 지원](https://forum.aspose.com/c/words/8)커뮤니티와 Aspose 개발자에게 질문을 하고 도움을 받을 수 있는 포럼입니다.

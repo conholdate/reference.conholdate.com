@@ -234,7 +234,7 @@ Aspose.3D for .NET是一個類別庫項目，它使.NET應用程式能夠自動�
 
 **Welcome to the Aspose.HTML for .NET documentation** 
 
-Aspose.HTML for .NET 是一個跨平台類別庫，使您的應用程式能夠執行各種 HTML 操作任務。由於 HTML 通常與其他技術結合使用，因此 Aspose.HTML 不僅支援 HTML5，還支援 CSS3、SVG 和 HTML Canvas 規範。使用 Aspose.HTML，您可以載入網頁、分析和編輯內容、儲存頁面並在以下格式之間進行轉換：(X)HTML、MHTML、SVG、Markdown、PDF、XPS、EPUB、PNG、TIFF 、JPEG、BMP等格式。
+Aspose.HTML for .NET 是一個跨平台類別庫，使您的應用程式能夠執行各種 HTML 操作任務。由於 HTML 通常與其他技術結合使用，Aspose.HTML 不僅支援 HTML5，還支援 CSS3、SVG 和 HTML Canvas 規範。使用 Aspose.HTML，您可以載入網頁、分析和編輯內容、儲存頁面並在以下格式之間進行轉換：(X)HTML、MHTML、SVG、Markdown、PDF、XPS、EPUB、PNG、TIFF 、JPEG、BMP等格式。
 
 {{% /alert %}} 
 
@@ -397,7 +397,7 @@ Aspose.Drawing 是一個 .NET 圖形 API，它提供與 .NET 應用程式中的 
 
 **Welcome to the Aspose.Font for .NET**
 
-Aspose.Font 是一個.NET 字體載入和繪圖函式庫。它支援多種前端格式，例如 TrueType（帶有 TrueType 集合）、CFF、OpenType 和 Type1。 API 提供了豐富的功能來載入/儲存字體，並提供有關其資料結構以及所有字體類型支援的任何字形的資訊。它還提供所有字體類型的編碼資訊，表示字元代碼和字形標識符之間的對應。其渲染子系統可協助最終使用者渲染任何所需的字形或文字。可以透過使用簡單的圖形功能（移動點、畫線、曲線）來實現介面來呈現特殊字形。
+Aspose.Font 是一個.NET 字體載入和繪圖函式庫。它支援多種前端格式，例如 TrueType（帶有 TrueType 集合）、CFF、OpenType 和 Type1。該 API 提供了豐富的功能來載入/儲存字體，並提供有關其資料結構以及所有字體類型支援的任何字形的資訊。它還提供所有字體類型的編碼資訊，表示字元代碼和字形標識符之間的對應。其渲染子系統可協助最終使用者渲染任何所需的字形或文字。可以透過使用簡單的圖形功能（移動點、畫線、曲線）來實現介面來呈現特殊字形。
 
 {{% /alert %}} 
 

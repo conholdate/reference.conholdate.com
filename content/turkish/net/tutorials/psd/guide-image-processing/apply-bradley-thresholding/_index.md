@@ -75,7 +75,7 @@ Kesinlikle! Bradley Eşikleme çok yönlüdür ve segmentasyonu geliştirmek iç
 
 ### Deneme sürümü mevcut mu?
 
- Evet! Aspose.PSD for .NET'i ücretsiz deneme sürümüyle deneyebilirsiniz[Burada](https://releases.aspose.com/).
+Evet! Aspose.PSD for .NET'i ücretsiz deneme sürümüyle deneyebilirsiniz[Burada](https://releases.aspose.com/).
 
 ### Aspose.PSD için nasıl destek alabilirim?
 

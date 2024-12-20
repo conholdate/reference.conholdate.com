@@ -111,7 +111,7 @@ Radiestorleken avgör omfattningen av filtrets funktion, medan det jämna värde
 
 ### Var kan jag hitta support och ytterligare resurser?
 
- För frågor och hjälp,[Aspose.PSD-forum](https://forum.aspose.com/c/psd/34)är en stor resurs för att få kontakt med samhället och supportteamet.
+ För frågor och hjälp,[Aspose.PSD-forum](https://forum.aspose.com/c/psd/34) är en stor resurs för att få kontakt med samhället och supportteamet.
 
 ### Finns det en gratis testversion tillgänglig för Aspose.PSD?
 

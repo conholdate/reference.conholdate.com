@@ -47,7 +47,7 @@ Určete umístění zdrojového souboru PSD a místo, kam chcete obrázek uloži
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Cesta ke zdrojovému souboru PSD
-string destName = dataDir + "result.png";   //Cesta k výstupnímu souboru obrázku
+string destName = dataDir + "result.png";   // Cesta k výstupnímu souboru obrázku
 ```
 
 ## Krok 3: Načtěte obrázek PSD a zpracujte nenalezená písma

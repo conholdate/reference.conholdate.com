@@ -41,7 +41,7 @@ Ange först sökvägarna för dina in- och utdatafiler:
 // Källkatalog
 string sourceDir = "Your Document Directory"; // Ersätt med sökvägen till din källkatalog
 // Utdatakatalog
-string outputDir = "Your Document Directory"; // Ersätt med sökvägen till din utdatakatalog
+string outputDir = "Your Document Directory"; // Ersätt med din utdatakatalogsökväg
 ```
 
 ## Steg 2: Ladda arbetsboken

@@ -30,7 +30,7 @@ using Aspose.Zip.Cpio;
 
 ## 1. lépés: Állítsa be a dokumentumkönyvtárat
 
- Ezután határozza meg a könyvtárat, ahol a dokumentumok találhatók. Cserélje ki`"Your Document Directory"` a dokumentumok tényleges elérési útjával:
+Ezután határozza meg a könyvtárat, ahol a dokumentumok találhatók. Cserélje ki`"Your Document Directory"` a dokumentumok tényleges elérési útjával:
 
 ```csharp
 string dataDir = "Your Document Directory";

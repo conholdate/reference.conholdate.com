@@ -18,7 +18,7 @@ url: /zh-hant/net/tutorials/words/advanced-ai-document-processing/mastering-docu
 1. 熟練 C# 和 .NET：對 C# 和 .NET 的基本了解將幫助您更有效地瀏覽程式碼和概念。
 2.  Aspose.Words for .NET：這個強大的程式庫提供了在.NET應用程式中建立、編輯和管理Word文件的工具。下載它[這裡](https://releases.aspose.com/words/net/).
 3. Google AI 的 API 金鑰：需要 API 金鑰來驗證對 Google AI 模型的請求。將此密鑰安全地儲存在您的環境變數中。
-4. 開發環境：建置和執行應用程式需要一個與 .NET 相容的 IDE，例如 Visual Studio。
+4. 開發環境：建置和執行應用程式需要與 .NET 相容的 IDE（例如 Visual Studio）。
 5. 範例 Word 文件：確保您準備好範例 Word 文件（例如「Big document.docx」、「Document.docx」）以測試摘要功能。
 
 ## 導入必要的命名空間

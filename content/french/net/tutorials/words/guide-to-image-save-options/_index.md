@@ -13,7 +13,7 @@ La possibilité d'exporter des images à partir de documents Word est essentiell
 
 ## Contrôle du seuil d'exposition pour la binarisation TIFF
 
-Une exigence courante est de contrôler la qualité de l'image TIFF par binarisation. Ce didacticiel vous apprend à ajuster efficacement le contrôle du seuil, en veillant à ce que vos images répondent aux normes de qualité souhaitées. Vous apprendrez les étapes de base : charger votre document Word, ajuster les paramètres et l'enregistrer au format TIFF avec les paramètres souhaités. Cela peut sembler complexe, mais avec des instructions claires, cela devient une promenade de santé ![En savoir plus](./expose-threshold-control-for-tiff-binarization-in-word-document/).
+Une exigence courante consiste à contrôler la qualité de l'image TIFF par binarisation. Ce didacticiel vous apprend à ajuster efficacement le contrôle du seuil, en veillant à ce que vos images répondent aux normes de qualité souhaitées. Vous apprendrez les étapes de base : charger votre document Word, ajuster les paramètres et l'enregistrer au format TIFF avec les paramètres souhaités. Cela peut sembler complexe, mais avec des instructions claires, cela devient une promenade de santé ![En savoir plus](./expose-threshold-control-for-tiff-binarization-in-word-document/).
 
 ## Obtenir des plages de pages aux formats JPEG et TIFF
 

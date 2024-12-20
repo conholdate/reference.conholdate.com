@@ -68,6 +68,6 @@ Ja, Aspose.Words ondersteunt veel formaten, waaronder PDF, HTML, RTF, TXT en mee
  Je kunt een licentie kopen[hier](https://purchase.conholdate.com/buy).
 
 ### Waar kan ik ondersteuning krijgen voor Aspose.Words?
- De Aspose.Woorden[ondersteuningsforum](https://forum.aspose.com/c/words/8) is beschikbaar voor assistentie.
+De Aspose.Woorden[ondersteuningsforum](https://forum.aspose.com/c/words/8) is beschikbaar voor assistentie.
 
 

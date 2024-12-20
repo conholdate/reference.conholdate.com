@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/words/words-with-textboxes/textbox-sequences-check/
 
 在我們深入研究程式碼之前，請確保您具備以下條件：
 
-1.  Aspose.Words for .NET Library：下載最新版本[這裡](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Library：下載最新版本[這裡](https://releases.aspose.com/words/net/).
 2. 開發環境：與 .NET 相容的環境，例如 Visual Studio。
 3. 基本 C# 知識：熟悉 C# 文法將會很有幫助。
 4. 範例文件：手邊有一個 Word 文件會很有幫助，但在本範例中我們將從頭開始建立所有內容。

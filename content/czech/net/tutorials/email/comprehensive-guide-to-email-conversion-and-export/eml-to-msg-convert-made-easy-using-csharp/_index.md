@@ -13,7 +13,7 @@ Máte co do činění s hromadou souborů EML a chcete je převést do formátu 
 
 ## Předpoklady
 
-Než se ponoříme do toho nejnutnějšího, ujistěte se, že máte vše, co potřebujete. Zde je kontrolní seznam, jak začít:
+Než se ponoříme do toho nejnutnějšího, ujistěte se, že máte vše, co potřebujete. Zde je kontrolní seznam, který vám pomůže začít:
 
 1. Prostředí .NET: Měli byste mít nastavené vývojové prostředí .NET, jako je Visual Studio nebo jakékoli jiné IDE podle vašich preferencí.
 2.  Knihovna Aspose.Email: Musíte nainstalovat balíček Aspose.Email for .NET. Pokud ji ještě nemáte, můžete si ji vzít z[stránka ke stažení](https://releases.aspose.com/email/net/).

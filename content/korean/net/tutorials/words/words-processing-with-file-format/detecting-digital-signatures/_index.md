@@ -91,13 +91,13 @@ Aspose.Words for .NET을 사용하여 Word 문서에서 디지털 서명을 감�
 
 ### 문서에서 여러 개의 디지털 서명을 감지할 수 있나요?
 
- 네,`HasDigitalSignature` 속성은 하나 이상의 디지털 서명이 있는지 여부를 나타냅니다.
+ 네,`HasDigitalSignature`속성은 하나 이상의 디지털 서명이 있는지 여부를 나타냅니다.
 
 ### Aspose.Words for .NET의 무료 평가판을 어떻게 받을 수 있나요?
 
  무료 평가판을 다운로드할 수 있습니다.[Aspose 릴리스 페이지](https://releases.aspose.com/).
 
-### .NET용 Aspose.Words에 대한 추가 문서는 어디에서 찾을 수 있나요?
+### Aspose.Words for .NET에 대한 추가 문서는 어디에서 찾을 수 있나요?
 
  포괄적인 문서는 다음에서 제공됩니다.[Aspose 문서 페이지](https://reference.aspose.com/words/net/).
 

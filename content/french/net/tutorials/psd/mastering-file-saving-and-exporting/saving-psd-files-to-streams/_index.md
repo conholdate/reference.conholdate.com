@@ -47,7 +47,7 @@ Identifiez l'emplacement de votre fichier PSD source et l'endroit où vous souha
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Chemin vers votre fichier PSD source
-string destName = dataDir + "result.png";   //Chemin d'accès au fichier image de sortie
+string destName = dataDir + "result.png";   // Chemin d'accès au fichier image de sortie
 ```
 
 ## Étape 3 : charger l'image PSD et gérer les polices introuvables
@@ -66,7 +66,7 @@ using (Image image = Image.Load(sourceFile))
         // En option, vous pouvez réinitialiser la position du flux si nécessaire
         stream.Position = 0;
 
-        // D'autres traitements, comme l'enregistrement dans un fichier ou l'envoi sur un réseau, peuvent être effectués ici.
+        // Des traitements ultérieurs, tels que l'enregistrement dans un fichier ou l'envoi sur un réseau, peuvent être effectués ici.
     }
 }
 ```

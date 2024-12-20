@@ -32,7 +32,7 @@ Ta przestrzeń nazw udostępnia wszystkie narzędzia potrzebne do programistyczn
 
 ## Krok 1: Konfigurowanie środowiska
 
-1.  Zainstaluj Aspose.Words: Pobierz i zainstaluj Aspose.Words dla .NET z[Tutaj](https://releases.aspose.com/words/net/).
+1. Zainstaluj Aspose.Words: Pobierz i zainstaluj Aspose.Words dla .NET z[Tutaj](https://releases.aspose.com/words/net/).
 2. Utwórz projekt .NET: Otwórz program Visual Studio i utwórz nowy projekt C#.
 3. Dodaj odniesienie do Aspose.Words: Dołącz odniesienie do biblioteki do swojego projektu.
 

@@ -15,7 +15,7 @@ Hej, andra utvecklare och dokumentälskare! 🌟 Har du någonsin ställts infö
 
 Innan vi dyker in i koden, se till att du har följande:
 
-1.  Aspose.Words för .NET Library: Ladda ner den senaste versionen[här](https://releases.aspose.com/words/net/).
+1. Aspose.Words för .NET Library: Ladda ner den senaste versionen[här](https://releases.aspose.com/words/net/).
 2. Utvecklingsmiljö: En .NET-kompatibel miljö som Visual Studio.
 3. Grundläggande C#-kunskaper: Bekantskap med C#-syntax kommer att vara till hjälp.
 4. Exempeldokument: Det är bra att ha ett Word-dokument till hands, men vi skapar allt från början i det här exemplet.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 I detta utdrag:
 - `ShapeType.TextBox` anger att vi skapar en textrutaform.
-- `textBox`är den faktiska textruteinstansen som vi kommer att manipulera.
+- `textBox` är den faktiska textruteinstansen som vi kommer att manipulera.
 
 ## Steg 3: Kontrollera sekvensen av textrutor
 
@@ -126,7 +126,7 @@ Genom att känna till sekvensen kan du hantera det logiska flödet av innehåll,
 Ja, textrutor kan länkas på olika sätt, så länge det resulterande arrangemanget är vettigt för ditt innehåll.
 
 ### Hur kan jag koppla bort en textruta från en sekvens?
- Du kan ställa in den`Next` eller`Previous` fastigheter till`null` efter behov.
+ Du kan ställa in den`Next` eller`Previous` fastigheter till`null`efter behov.
 
 ### Är det möjligt att utforma texten i länkade textrutor på ett annat sätt?
 Absolut! Du kan tillämpa oberoende stilar på innehållet i varje textruta, vilket ger designflexibilitet.

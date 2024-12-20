@@ -13,7 +13,7 @@ Ami a Microsoft Project fájlok kezelését illeti, a megfelelő eszközök megl
 
 ## Konvertálja az MS Project fájlokat HTML formátumba
 
-Képzelje el, hogy van egy MS Project fájlja (.mpp), amelyet meg kell osztania a csapatával. Ahelyett, hogy terjedelmes, speciális szoftvert igénylő fájlokat küldene, miért ne alakíthatná át tiszta, látható HTML formátumba? Az Aspose.Tasks for .NET segítségével ez a folyamat egyszerű. Kezdje azzal, hogy betölti a projektfájlt a könyvtárba, ahol néhány sornyi kód lehetővé teszi, hogy meghatározza, hogyan nézzen ki a HTML-kimenet. Szeretnél kiemelni bizonyos feladatokat, vagy egyéni címkéket szeretnél használni? Nem probléma! Ez az eszköz rugalmasságot biztosít a kimenet igényeinek megfelelő testreszabásához. Ha elégedett a beállításokkal, a HTML-verzió mentése csak egy kattintásnyira van. Szeretne többet megtudni? Tekintse meg a teljes oktatóanyagot[itt](./save-ms-project-files-to-html-format/).
+Képzelje el, hogy van egy MS Project fájlja (.mpp), amelyet meg kell osztania a csapatával. Ahelyett, hogy terjedelmes, speciális szoftvert igénylő fájlokat küldene, miért ne alakíthatná át tiszta, látható HTML formátumba? Az Aspose.Tasks for .NET segítségével ez a folyamat egyszerű. Kezdje azzal, hogy betölti a projektfájlt a könyvtárba, ahol néhány sornyi kód lehetővé teszi, hogy meghatározza, hogyan nézzen ki a HTML-kimenet. Szeretnél kiemelni bizonyos feladatokat, vagy egyéni címkéket szeretnél használni? Nem probléma! Ez az eszköz rugalmasságot biztosít a kimenet igényeihez szabásához. Ha elégedett a beállításokkal, a HTML-verzió mentése csak egy kattintásnyira van. Szeretne többet megtudni? Tekintse meg a teljes oktatóanyagot[itt](./save-ms-project-files-to-html-format/).
 
 ## Konvertálja az MS Project fájlokat PDF-be
 

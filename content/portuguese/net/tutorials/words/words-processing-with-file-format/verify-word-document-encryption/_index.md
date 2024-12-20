@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## Conclusão
 
- é isso! Você verificou com sucesso o status de criptografia de um documento do Word usando o Aspose.Words para .NET. É impressionante como algumas linhas de código podem simplificar essas tarefas. Se você tiver alguma dúvida ou encontrar algum problema, sinta-se à vontade para entrar em contato conosco pelo[Fórum de suporte Aspose](https://forum.aspose.com/c/words/8).
+ E é isso! Você verificou com sucesso o status de criptografia de um documento do Word usando o Aspose.Words para .NET. É impressionante como algumas linhas de código podem simplificar essas tarefas. Se você tiver alguma dúvida ou encontrar algum problema, sinta-se à vontade para entrar em contato conosco pelo[Fórum de suporte Aspose](https://forum.aspose.com/c/words/8).
 
 ## Perguntas frequentes
 

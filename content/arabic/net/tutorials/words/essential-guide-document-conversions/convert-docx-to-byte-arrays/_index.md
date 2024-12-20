@@ -18,7 +18,7 @@ url: /ar/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 - فهم أساسي لـ C# وإطار عمل .NET.
 - تم تثبيت Visual Studio على جهاز التطوير الخاص بك.
 -  مكتبة Aspose.Words لـ .NET، والتي يمكنك تنزيلها[هنا](https://releases.aspose.com/words/net/).
--  ترخيص صالح لـ Aspose.Words. إذا لم يكن لديك ترخيص بعد، فيمكنك الحصول على ترخيص مؤقت[هنا](https://purchase.conholdate.com/temporary-license/).
+- ترخيص صالح لـ Aspose.Words. إذا لم يكن لديك ترخيص بعد، فيمكنك الحصول على ترخيص مؤقت[هنا](https://purchase.conholdate.com/temporary-license/).
 
 ## استيراد مساحات الأسماء
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // الآن يمكنك العمل مع docFromBytes حسب الحاجة
 }
 ```
-1.  إنشاء مجرى الذاكرة: إنشاء`MemoryStream` من مجموعة البايتات.
+1.  إنشاء مجرى الذاكرة: إنشاء`MemoryStream`من مجموعة البايتات.
 2. تحميل المستند: قم بتحميل المستند مباشرة من التدفق، مما يجعله جاهزًا لأي عمليات أخرى.
 
 ## خاتمة

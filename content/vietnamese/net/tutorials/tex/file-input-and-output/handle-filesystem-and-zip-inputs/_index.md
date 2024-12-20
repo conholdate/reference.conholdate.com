@@ -92,4 +92,4 @@ Aspose.TeX tập trung chủ yếu vào xử lý tài liệu TeX và LaTeX. Nế
 
 ### Làm thế nào tôi có thể mua Aspose.TeX cho .NET?
 
- Bạn có thể mua Aspose.TeX cho .NET trực tiếp từ[trang mua hàng](https://purchase.conholdate.com/buy).
+Bạn có thể mua Aspose.TeX cho .NET trực tiếp từ[trang mua hàng](https://purchase.conholdate.com/buy).

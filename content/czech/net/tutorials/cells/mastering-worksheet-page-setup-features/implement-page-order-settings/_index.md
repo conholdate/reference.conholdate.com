@@ -9,7 +9,7 @@ url: /cs/net/tutorials/cells/mastering-worksheet-page-setup-features/implement-p
 ---
 ## Zavedení
 
-Při práci s velkými excelovými tabulkami je kontrola rozvržení tisku zásadní pro přehlednost a organizaci. Aspose.Cells for .NET nabízí robustní funkce, které vám umožní bez námahy přizpůsobit nastavení tisku vašich listů. V této příručce si projdeme kroky k nastavení pořadí stránek tak, aby se tisklo nejprve přes řádky a poté dolů po sloupcích.
+Při práci s velkými excelovými tabulkami je kontrola rozvržení tisku zásadní pro přehlednost a organizaci. Aspose.Cells for .NET nabízí robustní funkce, které vám umožní snadno přizpůsobit nastavení tisku vašich listů. V této příručce si projdeme kroky k nastavení pořadí stránek tak, aby se tisklo nejprve přes řádky a poté dolů po sloupcích.
 
 ## Předpoklady
 

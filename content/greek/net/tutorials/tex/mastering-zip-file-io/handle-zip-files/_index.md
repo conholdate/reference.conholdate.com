@@ -31,7 +31,7 @@ using System.IO;
 
 ## Βήμα 1: Ανοίξτε τις ροές ZIP εισόδου και εξόδου
 
-Αρχικά, θα χρειαστεί να ανοίξετε ροές για τα αρχεία Zip εισόδου και εξόδου. Αντικαθιστώ`"Your Input Directory"` και`"Your Output Directory"` με τις καθορισμένες διαδρομές σας.
+ Αρχικά, θα χρειαστεί να ανοίξετε ροές για τα αρχεία Zip εισόδου και εξόδου. Αντικαθιστώ`"Your Input Directory"` και`"Your Output Directory"` με τις καθορισμένες διαδρομές σας.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

@@ -68,6 +68,6 @@ Aspose.Words for .NET を使用して DOC ファイルを DOCX 形式に変換�
 ライセンスを購入することができます[ここ](https://purchase.conholdate.com/buy).
 
 ### Aspose.Words のサポートはどこで受けられますか?
- Aspose.Words の[サポートフォーラム](https://forum.aspose.com/c/words/8)サポートを受けることができます。
+Aspose.Words の[サポートフォーラム](https://forum.aspose.com/c/words/8)サポートを受けることができます。
 
 

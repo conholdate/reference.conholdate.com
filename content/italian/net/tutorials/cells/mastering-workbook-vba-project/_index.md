@@ -29,7 +29,7 @@ Ti sei mai chiesto se un progetto VBA è bloccato per la visualizzazione? Con As
 
 ## Tutorial per il progetto VBA di Mastering Workbook
 ### [Controlla lo stato di blocco del progetto VBA in Excel con Aspose.Cells](./check-vba-project-lock-status/)
-Questa guida completa ti accompagna nel processo di controllo se un progetto VBA in Excel è bloccato per la visualizzazione utilizzando la potente libreria Aspose.Cells for .NET. Perfetta per sviluppatori .NET e utenti Excel.
+Questa guida completa ti accompagna attraverso il processo di controllo se un progetto VBA in Excel è bloccato per la visualizzazione utilizzando la potente libreria Aspose.Cells for .NET. Perfetta per sviluppatori .NET e utenti Excel.
 ### [Trasferisci moduli utente VBA e macro tra cartelle di lavoro Excel](./transfer-vba-user-form-and-macro/)
 Sblocca la potenza dell'automazione di Excel con questa guida completa sul trasferimento di moduli utente VBA e macro tra cartelle di lavoro utilizzando Aspose.Cells per .NET. Perfetto sia per principianti che per sviluppatori esperti.
 ### [Controlla e proteggi i progetti VBA protetti tramite Aspose.Cells](./check-and-secure-vba-projects-is-protected/)

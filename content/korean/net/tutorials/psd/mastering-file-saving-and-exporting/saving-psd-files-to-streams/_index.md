@@ -47,7 +47,7 @@ string dataDir = "C:\\YourDocumentDirectory\\";
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // 소스 PSD 파일에 대한 경로
-string destName = dataDir + "result.png";   //출력 이미지 파일의 경로
+string destName = dataDir + "result.png";   // 출력 이미지 파일의 경로
 ```
 
 ## 3단계: PSD 이미지 로드 및 찾을 수 없는 글꼴 처리

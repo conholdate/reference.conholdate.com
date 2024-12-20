@@ -18,7 +18,7 @@ Voordat u aan de slag gaat met de code, moet u ervoor zorgen dat u aan de volgen
 - Basiskennis van C# en het .NET Framework.
 - Visual Studio geïnstalleerd op uw ontwikkelcomputer.
 -  De Aspose.Words voor .NET-bibliotheek, die u kunt downloaden[hier](https://releases.aspose.com/words/net/).
--  Een geldige licentie voor Aspose.Words. Als u er nog geen hebt, kunt u een tijdelijke licentie verkrijgen[hier](https://purchase.conholdate.com/temporary-license/).
+- Een geldige licentie voor Aspose.Words. Als u er nog geen hebt, kunt u een tijdelijke licentie verkrijgen[hier](https://purchase.conholdate.com/temporary-license/).
 
 ## Naamruimten importeren
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Nu kunt u indien nodig met docFromBytes werken
 }
 ```
-1.  Geheugenstroomcreatie: maak een`MemoryStream` uit de byte-array.
+1.  Geheugenstroomcreatie: maak een`MemoryStream`uit de byte-array.
 2. Document laden: laad het document rechtstreeks vanuit de stream, zodat het gereed is voor verdere bewerkingen.
 
 ## Conclusie

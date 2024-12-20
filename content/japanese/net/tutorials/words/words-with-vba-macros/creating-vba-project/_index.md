@@ -79,7 +79,7 @@ doc.VbaProject.Modules.Add(module);
 - 私たちは新しい`VbaModule`物体。
 - 名前を「AsposeModule」に設定します。
 - モジュールタイプを次のように定義します`VbaModuleType.ProceduralModule`.
-- シンプルな「Hello, World!」マクロを`SourceCode`.
+- 簡単な「Hello, World!」マクロを`SourceCode`.
 
 ## ステップ5: ドキュメントを保存する
 
@@ -89,7 +89,7 @@ VBA プロジェクトとモジュールを設定したら、すべての変更�
 doc.Save(dataDir + "WorkingWithVba.CreateVbaProject.docm");
 ```
 
-この行は、ドキュメントを「WorkingWithVba.CreateVbaProject.docm」として指定したディレクトリに保存します。おめでとうございます。VBA プロジェクトを含む Word ドキュメントが作成されました。
+この行は、指定したディレクトリにドキュメントを「WorkingWithVba.CreateVbaProject.docm」として保存します。おめでとうございます。VBA プロジェクトを含む Word ドキュメントが作成されました。
 
 ## 結論
 

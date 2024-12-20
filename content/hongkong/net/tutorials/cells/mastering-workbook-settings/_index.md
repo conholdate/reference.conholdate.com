@@ -14,7 +14,7 @@ url: /zh-hant/net/tutorials/cells/mastering-workbook-settings/
 
 ## 在 Excel 中管理外部資源
 
-您的 Excel 工作簿中是否遇到過外部連結問題？這就像試圖讓一隻貓遠離你的辦公桌一樣——這很棘手，但並非不可能。透過 Aspose.Cells for .NET，您可以無縫控制外部資源。實作自訂流提供者可讓您管理外部資料的存取和儲存方式。這可確保您的工作簿保持高效和安全。[閱讀更多](./manage-external-resources-in-excel/)
+您的 Excel 工作簿中是否遇到過外部連結問題？這就像試圖讓一隻貓遠離你的辦公桌一樣——這很棘手，但並非不可能。透過 Aspose.Cells for .NET，您可以無縫控制外部資源。實施自訂流提供者可讓您管理外部資料的存取和儲存方式。這可確保您的工作簿保持高效和安全。[閱讀更多](./manage-external-resources-in-excel/)
 
 ## 找出 XLS 和 XLSX 中的最大行數和列數
 

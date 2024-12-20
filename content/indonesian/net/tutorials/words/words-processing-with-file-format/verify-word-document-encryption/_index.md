@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## Kesimpulan
 
-Selesai! Anda telah berhasil memverifikasi status enkripsi dokumen Word menggunakan Aspose.Words for .NET. Sungguh mengagumkan bagaimana beberapa baris kode dapat menyederhanakan tugas-tugas tersebut. Jika Anda memiliki pertanyaan atau mengalami masalah, jangan ragu untuk menghubungi kami di[Forum Dukungan Aspose](https://forum.aspose.com/c/words/8).
+ Selesai! Anda telah berhasil memverifikasi status enkripsi dokumen Word menggunakan Aspose.Words for .NET. Sungguh mengagumkan bagaimana beberapa baris kode dapat menyederhanakan tugas-tugas tersebut. Jika Anda memiliki pertanyaan atau mengalami masalah, jangan ragu untuk menghubungi kami di[Forum Dukungan Aspose](https://forum.aspose.com/c/words/8).
 
 ## Pertanyaan yang Sering Diajukan
 

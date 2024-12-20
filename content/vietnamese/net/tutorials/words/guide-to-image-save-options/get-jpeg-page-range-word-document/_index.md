@@ -77,7 +77,7 @@ Xin chúc mừng! Bạn đã chuyển đổi thành công một trang cụ thể
  Bạn có thể nâng cao chất lượng JPEG thông qua`JpegQuality`tài sản trong`ImageSaveOptions`. Giá trị nằm trong khoảng từ 0 (chất lượng thấp nhất) đến 100 (chất lượng cao nhất).
 
 ### Tôi có thể lưu ở định dạng hình ảnh khác không?  
- Có, Aspose.Words hỗ trợ một số định dạng hình ảnh, bao gồm PNG, BMP và TIFF. Chỉ cần thay đổi`SaveFormat` TRONG`ImageSaveOptions` theo định dạng bạn mong muốn.
+ Có, Aspose.Words hỗ trợ một số định dạng hình ảnh, bao gồm PNG, BMP và TIFF. Chỉ cần thay đổi`SaveFormat` TRONG`ImageSaveOptions`theo định dạng bạn mong muốn.
 
 ### Có cách nào để xem trước hình ảnh trước khi lưu không?  
 Aspose.Words không có tính năng xem trước tích hợp sẵn, nhưng bạn có thể xây dựng cơ chế xem trước tùy chỉnh bằng ứng dụng Windows Forms hoặc WPF.

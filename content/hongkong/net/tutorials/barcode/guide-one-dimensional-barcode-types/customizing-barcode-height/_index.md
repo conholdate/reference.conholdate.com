@@ -77,7 +77,7 @@ barcodeGen.Save($"{path}BarHeight80Code128.png", BarCodeImageFormat.Png);
 是的！您可以免費試用以探索 Aspose.BarCode for .NET。下載它[這裡](https://releases.aspose.com/barcode/net/).
 
 ### 我可以產生各種圖像格式的條碼嗎？
-Aspose.BarCode for .NET 支援多種影像格式，例如 PNG、JPEG 和 TIFF，讓您選擇適合您需求的圖片。
+Aspose.BarCode for .NET 支援多種影像格式，例如 PNG、JPEG 和 TIFF，讓您可以選擇適合您需求的圖片。
 
 ### 在哪裡可以找到詳細的文件？
 有關如何在專案中使用 Aspose.BarCode 的深入信息，請參閱[文件](https://reference.aspose.com/barcode/net/).

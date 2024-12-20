@@ -73,7 +73,7 @@ Mantenere le schede visibili è spesso la soluzione ideale per migliorare l'usab
 workbook.Settings.SheetTabBarWidth = 800; // Esempio di larghezza in pixel
 ```
 
-Prova diversi valori per trovare la larghezza ottimale per la tua applicazione.
+Sperimenta valori diversi per trovare la larghezza ottimale per la tua applicazione.
 
 ## Passaggio 5: salvare la cartella di lavoro modificata
 Salva le modifiche in un nuovo file Excel per conservare il file originale.

@@ -33,6 +33,6 @@ Ten kompleksowy przewodnik przeprowadzi Cię przez proces sprawdzania, czy proje
 ### [Przenoszenie formularzy użytkownika VBA i makr między skoroszytami programu Excel](./transfer-vba-user-form-and-macro/)
 Odblokuj moc automatyzacji programu Excel dzięki temu kompleksowemu przewodnikowi na temat przenoszenia formularzy użytkownika VBA i makr między skoroszytami przy użyciu Aspose.Cells dla .NET. Idealne zarówno dla początkujących, jak i doświadczonych programistów.
 ### [Sprawdź i zabezpiecz projekty VBA chronione za pomocą Aspose.Cells](./check-and-secure-vba-projects-is-protected/)
-Dowiedz się, jak programowo sprawdzać i chronić projekty VBA w plikach Excela, używając Aspose.Cells dla .NET. Przewodnik krok po kroku z dołączonymi kompletnymi przykładami kodu.
+Dowiedz się, jak programowo sprawdzać i chronić projekty VBA w plikach Excela, używając Aspose.Cells dla .NET. Przewodnik krok po kroku z kompletnymi przykładami kodu.
 ### [Zabezpiecz hasłem projekty VBA skoroszytu programu Excel](./password-protect-vba-projects/)
 Dowiedz się, jak krok po kroku stosować ochronę hasłem, aby zabezpieczyć makra i poufny kod przed nieautoryzowanym dostępem.

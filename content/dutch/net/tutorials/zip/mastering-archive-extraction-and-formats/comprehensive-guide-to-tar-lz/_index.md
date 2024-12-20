@@ -13,7 +13,7 @@ In de voortdurend veranderende wereld van .NET-ontwikkeling is het beheren en co
 
 ## Vereisten
 
-Voordat we met de implementatie beginnen, zorg ervoor dat u het volgende bij de hand hebt:
+Voordat we met de implementatie beginnen, moet u ervoor zorgen dat u het volgende bij de hand hebt:
 
 -  Aspose.Zip voor .NET-bibliotheek: Download en installeer de nieuwste versie van de bibliotheek van de[Aspose-website](https://releases.aspose.com/zip/net/).
 -  Document Directory: Maak een directory waar u de bestanden opslaat die u wilt comprimeren. Werk de`dataDir` variabele in de voorbeeldcode met het pad naar deze map.

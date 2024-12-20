@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 加载文档
 
-接下来，我们将文档加载到程序中。可以使用`Document`Aspose.Words 提供的类。以下代码片段演示了如何从指定的目录加载Word文档。
+接下来，我们将文档加载到程序中。这可以使用`Document`Aspose.Words 提供的类。以下代码片段演示了如何从指定的目录加载Word文档。
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");

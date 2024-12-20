@@ -47,7 +47,7 @@ using Aspose.Cells;
 string dataDir = "Your Document Directory";
 ```
 
-確保檔案路徑正確指向您的檔案位置。您可以根據專案結構使用相對路徑或絕對路徑。
+確保檔案路徑正確指向您的檔案位置。您可以根據您的專案結構使用相對路徑或絕對路徑。
 
 ## 步驟 2： 開啟 Excel 文件
 

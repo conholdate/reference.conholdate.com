@@ -19,7 +19,7 @@ Dlaczego to jest ważne? Cóż, możliwość szybkiego wykrycia zmian może zaos
 
 ### Porównywanie komórek ze strumienia
 
- Następnie mamy samouczek na temat[Porównywanie komórek ze strumienia - GroupDocs.Comparison dla .NET](./comparing-cells-from-stream/). Ten zasób zagłębia się w bardziej dynamiczny sposób obsługi porównań za pomocą strumieni. Dlaczego warto to zrobić? Czasami dokumenty mogą nie być zapisywane bezpośrednio na dysku, zwłaszcza jeśli są generowane w locie przez aplikację. Ten samouczek przeprowadzi Cię przez proces importowania niezbędnych przestrzeni nazw i inicjowania zmiennych krok po kroku, dzięki czemu będzie on dostępny dla każdego, niezależnie od poziomu umiejętności.
+ Następnie mamy samouczek na temat[Porównywanie komórek ze strumienia - GroupDocs.Comparison dla .NET](./comparing-cells-from-stream/). Ten zasób zagłębia się w bardziej dynamiczny sposób obsługi porównań za pomocą strumieni. Dlaczego miałbyś chcieć to zrobić? Czasami Twoje dokumenty mogą nie być zapisywane bezpośrednio na dysku, zwłaszcza jeśli są generowane w locie przez Twoją aplikację. Ten samouczek przeprowadzi Cię przez proces importowania niezbędnych przestrzeni nazw i inicjowania zmiennych krok po kroku, dzięki czemu będzie on dostępny dla każdego, niezależnie od poziomu umiejętności.
 
 To, co go wyróżnia, to sposób, w jaki płynnie integruje się z aplikacjami, w których wydajność i szybkość są krytyczne. Wyobraź sobie bieganie maratonu; korzystanie ze strumieni daje ci dodatkowy zastrzyk zwinności, pozwalając twojej aplikacji reagować szybciej podczas wykonywania porównań.
 

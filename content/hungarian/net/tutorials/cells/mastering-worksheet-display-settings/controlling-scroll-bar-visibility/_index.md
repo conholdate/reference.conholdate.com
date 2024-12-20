@@ -40,7 +40,7 @@ using Aspose.Cells;
 string dataDir = "Your Document Directory"; // Frissítse ezt az utat!
 ```
 
- Mindenképpen cserélje ki`"Your Document Directory"` a tényleges útvonallal, ahol`book1.xls` tárolva van.
+ Ügyeljen arra, hogy cserélje ki`"Your Document Directory"` a tényleges útvonallal, ahol`book1.xls` tárolva van.
 
 ## 2. lépés: Fájlfolyam létrehozása
 

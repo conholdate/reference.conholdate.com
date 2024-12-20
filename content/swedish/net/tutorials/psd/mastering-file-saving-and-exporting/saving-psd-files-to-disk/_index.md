@@ -21,7 +21,7 @@ Innan du börjar bör du kontrollera följande:
 
 ### 2. Importera nödvändiga namnområden
 
-I ditt .NET-projekt, inkludera de nödvändiga namnrymden överst i koden:
+ditt .NET-projekt, inkludera de nödvändiga namnrymden överst i koden:
 
 ```csharp
 using Aspose.PSD.FileFormats.Psd;

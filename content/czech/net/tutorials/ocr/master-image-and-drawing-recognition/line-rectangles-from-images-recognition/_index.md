@@ -102,7 +102,7 @@ Aspose.OCR používá pokročilé algoritmy k dosažení vysoké přesnosti v ro
 
 ### Kde najdu podrobnou dokumentaci?
 
- Komplexní dokumentaci lze nalézt[zde](https://reference.aspose.com/ocr/net/), která nabízí podrobné informace a pokyny.
+ Komplexní dokumentaci lze nalézt[zde](https://reference.aspose.com/ocr/net/), nabízející podrobné informace a pokyny.
 
 ### Potřebujete další pomoc nebo máte otázky?
 

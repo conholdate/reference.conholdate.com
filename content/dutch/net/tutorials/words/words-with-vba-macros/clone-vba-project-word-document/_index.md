@@ -89,7 +89,7 @@ En daar heb je het! Je hebt zojuist de kunst van het klonen van een VBA-project 
 Aspose.Words voor .NET is een veelzijdige bibliotheek voor het maken, bewerken en converteren van Word-documenten in .NET-applicaties. Het is ideaal voor het automatiseren van documenttaken.
 
 ### Kan ik Aspose.Words gratis gebruiken?  
- Ja, je kunt Aspose proberen. Woorden met een[gratis proefperiode](https://releases.aspose.com/) of een verkrijgen[tijdelijke licentie](https://purchase.aspose.com/temporary-license/) voor evaluatiedoeleinden.
+ Ja, je kunt Aspose proberen. Woorden met een[gratis proefperiode](https://releases.aspose.com/) of verkrijg een[tijdelijke licentie](https://purchase.aspose.com/temporary-license/) voor evaluatiedoeleinden.
 
 ### Hoe kloon ik een VBA-project in Aspose.Words?  
 Om een VBA-project te klonen, laadt u het originele document, kloont u het VBA-project en slaat u het nieuwe document op met het gekloonde project.

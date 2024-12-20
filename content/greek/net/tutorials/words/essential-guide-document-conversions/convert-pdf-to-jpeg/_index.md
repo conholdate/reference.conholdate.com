@@ -84,7 +84,7 @@ doc.Save(dataDir + "ConvertedImage.jpeg", SaveFormat.Jpeg);
 Πράγματι! Το Aspose.Words υποστηρίζει τόσο .NET Framework όσο και .NET Core.
 
 ### Χρειάζομαι άδεια χρήσης για να χρησιμοποιήσω το Aspose.Words;
- Μπορείτε να ξεκινήσετε με μια δωρεάν δοκιμή[εδώ](https://releases.aspose.com/) ή αγοράστε μια άδεια[εδώ](https://purchase.conholdate.com/buy).
+ Μπορείτε να ξεκινήσετε με μια δωρεάν δοκιμή[εδώ](https://releases.aspose.com/) ή αγοράστε άδεια[εδώ](https://purchase.conholdate.com/buy).
 
 ### Πού μπορώ να βρω περισσότερα μαθήματα για το Aspose.Words;
  Ελέγξτε το[απόδειξη με έγγραφα](https://reference.aspose.com/words/net/) για πληθώρα σεμιναρίων και οδηγών.

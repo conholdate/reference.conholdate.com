@@ -136,7 +136,7 @@ Ja, du kan iterera genom flera kalkylblad och kopiera dem individuellt till en a
 ### Behåller Aspose.Cells formatering under kopiering?  
  Absolut! De`Copy` Metoden bevarar all formatering och stilar.
 
-### Hur kan jag komma åt specifika celler i det kopierade arbetsbladet?  
+### Hur kommer jag åt specifika celler i det kopierade kalkylbladet?  
  Du kan komma åt specifika celler med hjälp av`Cells` egendom i kalkylbladet.
 
 ### Vad händer om jag bara vill kopiera värden utan formatering?  

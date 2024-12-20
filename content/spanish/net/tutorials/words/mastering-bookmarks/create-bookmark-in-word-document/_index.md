@@ -102,7 +102,7 @@ Crear marcadores en un documento de Word con Aspose.Words para .NET es sencillo 
 ¡Sí! Puedes crear varios marcadores y definir su jerarquía al guardarlos como PDF.
 
 ### ¿Cómo actualizo el texto de un marcador?
- Usar`DocumentBuilder.MoveToBookmark` para navegar hasta el marcador y actualizar el texto.
+ Usar`DocumentBuilder.MoveToBookmark`para navegar hasta el marcador y actualizar el texto.
 
 ### ¿Es posible eliminar un marcador?
  ¡Por supuesto! Utilice el`Bookmarks.Remove` método especificando el nombre del marcador.

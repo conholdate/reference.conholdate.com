@@ -31,7 +31,7 @@ using System.IO;
 
 ## Krok 1: Otevřete vstupní a výstupní ZIP streamy
 
-Nejprve budete muset otevřít proudy pro vstupní a výstupní archivy ZIP. Nahradit`"Your Input Directory"` a`"Your Output Directory"` s vámi zadanými cestami.
+ Nejprve budete muset otevřít proudy pro vstupní a výstupní archivy ZIP. Nahradit`"Your Input Directory"` a`"Your Output Directory"` s vámi zadanými cestami.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

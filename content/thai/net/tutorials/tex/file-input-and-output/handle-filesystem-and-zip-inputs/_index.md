@@ -92,4 +92,4 @@ Aspose.TeX มุ่งเน้นการประมวลผลเอกส
 
 ### ฉันสามารถซื้อ Aspose.TeX สำหรับ .NET ได้อย่างไร?
 
- คุณสามารถซื้อ Aspose.TeX สำหรับ .NET ได้โดยตรงจาก[หน้าการซื้อ](https://purchase.conholdate.com/buy).
+คุณสามารถซื้อ Aspose.TeX สำหรับ .NET ได้โดยตรงจาก[หน้าการซื้อ](https://purchase.conholdate.com/buy).

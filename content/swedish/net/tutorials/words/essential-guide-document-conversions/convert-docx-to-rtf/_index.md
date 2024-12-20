@@ -67,7 +67,7 @@ using (MemoryStream dstStream = new MemoryStream())
 ```
 
 I det här steget:
--  Vi skapar en`MemoryStream` för att lagra RTF-data.
+-  Vi skapar en`MemoryStream` för att hålla RTF-data.
 - Spara dokumentet som RTF i denna ström.
 -  Skriv strömmens innehåll till en ny RTF-fil med namnet`"ConvertedDocument.rtf"` i din angivna katalog.
 

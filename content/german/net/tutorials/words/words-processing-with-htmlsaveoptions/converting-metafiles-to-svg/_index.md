@@ -9,7 +9,7 @@ url: /de/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 ---
 ## Einführung
 
-Hallo, Programmierbegeisterte! Wollten Sie schon immer Ihre Word-Dokumente mit skalierbaren Vektorgrafiken aufwerten? Dann sind Sie hier genau richtig! In diesem Tutorial erfahren Sie, wie Sie Metadateien in Ihren Word-Dokumenten mithilfe der leistungsstarken Bibliothek Aspose.Words für .NET in SVG konvertieren. Am Ende verfügen Sie über die Fähigkeiten, Ihre Dokumente optisch ansprechend und vielseitig zu gestalten. Lassen Sie uns anfangen!
+Hallo, Programmierbegeisterte! Wollten Sie schon immer Ihre Word-Dokumente mit skalierbaren Vektorgrafiken aufwerten? Dann sind Sie hier genau richtig! In diesem Tutorial erfahren Sie, wie Sie Metadateien in Ihren Word-Dokumenten mithilfe der leistungsstarken Aspose.Words-Bibliothek für .NET in SVG konvertieren. Am Ende verfügen Sie über die Fähigkeiten, Ihre Dokumente optisch ansprechend und vielseitig zu gestalten. Lassen Sie uns anfangen!
 
 ## Voraussetzungen
 

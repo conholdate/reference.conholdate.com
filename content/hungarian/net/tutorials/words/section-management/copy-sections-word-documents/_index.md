@@ -32,7 +32,7 @@ Ez a névtér biztosítja a Word dokumentumok programozott kezeléséhez szüks�
 
 ## 1. lépés: A környezet beállítása
 
-1.  Az Aspose.Words telepítése: Töltse le és telepítse az Aspose.Words for .NET programot innen[itt](https://releases.aspose.com/words/net/).
+1. Az Aspose.Words telepítése: Töltse le és telepítse az Aspose.Words for .NET programot innen[itt](https://releases.aspose.com/words/net/).
 2. Hozzon létre egy .NET-projektet: Nyissa meg a Visual Studio-t, és hozzon létre egy új C#-projektet.
 3. Add Aspose.Words Reference: Szerelje be a könyvtári hivatkozást a projektbe.
 

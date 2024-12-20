@@ -52,7 +52,7 @@ string sourceDir = "Your Document Directory";
 string outputDir = "Your Document Directory";
 ```
 
-代替`"Your Document Directory"`使用输入图像的实际存储路径以及您希望保存输出文件的位置。
+代替`"Your Document Directory"`使用存储输入图像的实际路径以及您希望保存输出文件的位置。
 
 ## 步骤 2：创建工作簿实例
 

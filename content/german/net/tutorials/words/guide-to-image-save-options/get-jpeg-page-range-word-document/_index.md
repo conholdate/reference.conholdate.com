@@ -77,7 +77,7 @@ Herzlichen Glückwunsch! Sie haben eine bestimmte Seite eines Word-Dokuments mit
  Sie können die JPEG-Qualität verbessern durch die`JpegQuality`Immobilien in`ImageSaveOptions`. Die Werte reichen von 0 (niedrigste Qualität) bis 100 (höchste Qualität).
 
 ### Kann ich in anderen Bildformaten speichern?  
- Ja, Aspose.Words unterstützt mehrere Bildformate, darunter PNG, BMP und TIFF. Ändern Sie einfach die`SaveFormat` In`ImageSaveOptions` in das gewünschte Format.
+ Ja, Aspose.Words unterstützt mehrere Bildformate, darunter PNG, BMP und TIFF. Ändern Sie einfach die`SaveFormat` In`ImageSaveOptions`in das gewünschte Format.
 
 ### Gibt es eine Möglichkeit, das Bild vor dem Speichern in der Vorschau anzuzeigen?  
 Aspose.Words enthält keine integrierte Vorschaufunktion, aber Sie können mit einer Windows Forms- oder WPF-Anwendung einen benutzerdefinierten Vorschaumechanismus erstellen.

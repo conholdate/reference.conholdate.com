@@ -21,7 +21,7 @@ Mielőtt belemerülne a kódba, győződjön meg arról, hogy megfelel a követk
    ```
 2. .NET fejlesztői környezet: Győződjön meg arról, hogy működő .NET környezettel rendelkezik, ideális esetben .NET Framework 4.0 vagy újabb.
 3. Alapvető C# ismeretek: A C# programozás ismerete segít a megadott példák jobb megértésében.
-4.  Meglévő Excel-fájl: Győződjön meg róla, hogy rendelkezik Excel-fájllal (pl.`book1.xls`), amelyhez munkalapot adhatunk.
+4.  Meglévő Excel-fájl: Győződjön meg róla, hogy rendelkezik Excel-fájllal (pl.`book1.xls`), amelyhez munkalapot adhatunk hozzá.
 
 ### Licenc beállítása (opcionális)
 

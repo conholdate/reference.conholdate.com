@@ -30,7 +30,7 @@ using Aspose.Zip.Cpio;
 
 ## Adım 1: Belge Dizininizi Ayarlayın
 
- Sonra, belgelerinizin bulunduğu dizini tanımlayın. Değiştir`"Your Document Directory"` Belgelerinize giden gerçek yol ile:
+Sonra, belgelerinizin bulunduğu dizini tanımlayın. Değiştir`"Your Document Directory"` Belgelerinize giden gerçek yol ile:
 
 ```csharp
 string dataDir = "Your Document Directory";

@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- Bu adımda, yeni bir örneğini başlatıyorsunuz`Document` gelecekteki katmanlarımız için tuval görevi gören sınıf. Değiştirdiğinizden emin olun`"YOUR DOCUMENT DIRECTORY"` PDF dosyasını daha sonra kaydetmek istediğiniz gerçek yol ile.
+ Bu adımda, yeni bir örneğini başlatıyorsunuz`Document`gelecekteki katmanlarımız için tuval görevi gören sınıf. Değiştirdiğinizden emin olun`"YOUR DOCUMENT DIRECTORY"` PDF dosyasını daha sonra kaydetmek istediğiniz gerçek yol ile.
 
 ## Adım 2: Yeni Bir Sayfa Oluşturun
 

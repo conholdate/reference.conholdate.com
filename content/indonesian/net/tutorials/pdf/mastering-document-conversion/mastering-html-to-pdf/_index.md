@@ -24,8 +24,8 @@ Sebelum kita memulai, pastikan Anda telah menyiapkan hal-hal berikut:
 
 Untuk memulai, ikuti langkah-langkah berikut untuk menyiapkan direktori proyek Anda:
 
-1. Buat Direktori Proyek: Buat folder bernama`Documents` di komputer Anda. Di sinilah Anda akan menyimpan file HTML dan PDF keluaran.
-2.  Tambahkan File HTML Anda: Tempatkan file HTML Anda (misalnya,`HTMLToPDF.html` ) di dalam`Documents` map.
+1.  Buat Direktori Proyek: Buat folder bernama`Documents` di komputer Anda. Di sinilah Anda akan menyimpan file HTML dan PDF keluaran.
+2.  Tambahkan File HTML Anda: Tempatkan file HTML Anda (misalnya,`HTMLToPDF.html` di dalam`Documents` map.
 
 ## Mengimpor Paket yang Diperlukan
 

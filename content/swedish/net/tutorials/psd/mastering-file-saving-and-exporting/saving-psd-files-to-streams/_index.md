@@ -47,7 +47,7 @@ Identifiera platsen för din käll-PSD-fil och var du vill spara bilden. Ändra 
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Sökväg till din käll-PSD-fil
-string destName = dataDir + "result.png";   //Sökväg för utdatafilen
+string destName = dataDir + "result.png";   // Sökväg för utdatafilen
 ```
 
 ## Steg 3: Ladda PSD-bilden och hantera icke-hittade teckensnitt

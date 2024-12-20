@@ -31,7 +31,7 @@ using System.IO;
 
 ## الخطوة 1: فتح تدفقات ZIP للإدخال والإخراج
 
-أولاً، ستحتاج إلى فتح تدفقات لأرشيفات Zip المدخلة والمخرجة. استبدل`"Your Input Directory"` و`"Your Output Directory"` مع المسارات المحددة الخاصة بك.
+ أولاً، ستحتاج إلى فتح تدفقات لأرشيفات Zip المدخلة والمخرجة. استبدل`"Your Input Directory"` و`"Your Output Directory"` مع المسارات المحددة الخاصة بك.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

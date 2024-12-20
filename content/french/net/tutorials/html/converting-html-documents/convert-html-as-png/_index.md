@@ -45,7 +45,7 @@ using Aspose.Html.Rendering.Image;
 
 Maintenant que nous avons posé le décor, décomposons le processus de rendu HTML sous forme d'image PNG en étapes détaillées et faciles à suivre.
 
-## Étape 1 : Configurer le répertoire de données
+## Étape 1 : Configuration du répertoire de données
 
 La première chose à faire est de créer un répertoire dans lequel vous allez enregistrer vos images. Ce répertoire sert de répertoire de stockage pour les fichiers PNG générés.
 

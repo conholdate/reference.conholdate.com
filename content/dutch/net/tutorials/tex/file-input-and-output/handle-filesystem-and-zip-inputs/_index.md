@@ -92,4 +92,4 @@ Aspose.TeX richt zich voornamelijk op TeX- en LaTeX-documentverwerking. Als u me
 
 ### Hoe kan ik Aspose.TeX voor .NET kopen?
 
- U kunt Aspose.TeX voor .NET rechtstreeks bij de[aankooppagina](https://purchase.conholdate.com/buy).
+ kunt Aspose.TeX voor .NET rechtstreeks bij de[aankooppagina](https://purchase.conholdate.com/buy).

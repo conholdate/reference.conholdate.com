@@ -88,7 +88,7 @@ Une image indexée 1Bpp (1 bit par pixel) est un format d'image en noir et blanc
  Oui, une licence est requise pour bénéficier de toutes les fonctionnalités. Vous pouvez obtenir une[licence temporaire ici](https://purchase.aspose.com/temporary-license/).
 
 ### Vers quels autres formats d’image puis-je convertir mon document Word ?
- Aspose.Words prend en charge différents formats, notamment JPEG, BMP et TIFF. Il suffit de modifier le`SaveFormat`dans le`ImageSaveOptions` au format souhaité.
+ Aspose.Words prend en charge différents formats, notamment JPEG, BMP et TIFF. Il suffit de modifier le`SaveFormat` dans le`ImageSaveOptions`au format souhaité.
 
 ### Où puis-je trouver plus de documentation sur Aspose.Words pour .NET ?
  Pour une documentation complète, visitez le[Page de documentation d'Aspose.Words pour .NET](https://reference.aspose.com/words/net/).

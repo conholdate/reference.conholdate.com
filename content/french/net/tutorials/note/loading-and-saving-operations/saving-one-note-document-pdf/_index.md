@@ -69,5 +69,5 @@ Oui, un essai gratuit est disponible pour l'exploration.
 ### Où puis-je trouver la documentation pour Aspose.Note ?
 Une documentation détaillée est disponible sur le site de référence Aspose.
 
-### Besoin d’aide supplémentaire ?
+### Besoin d'aide supplémentaire ?
 Pour des questions et de l'assistance, reportez-vous au forum Aspose.Note.

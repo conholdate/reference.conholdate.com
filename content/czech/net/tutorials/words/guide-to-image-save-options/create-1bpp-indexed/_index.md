@@ -78,7 +78,7 @@ Gratuluji! Úspěšně jste převedli dokument aplikace Word na indexovaný obr�
 
 ## FAQ
 
-### Co je 1Bpp indexovaný obrázek?
+### Co je to indexovaný obrázek 1Bpp?
 Indexovaný obrázek 1Bpp (1 bit na pixel) je formát černobílého obrázku, kde je každý pixel reprezentován jedním bitem, buď 0, nebo 1. Tento formát je vysoce prostorově nenáročný, takže je ideální pro archivaci.
 
 ### Mohu převést více stránek dokumentu aplikace Word najednou?
@@ -88,7 +88,7 @@ Indexovaný obrázek 1Bpp (1 bit na pixel) je formát černobílého obrázku, k
  Ano, pro plnou funkčnost je nutná licence. Můžete získat a[dočasná licence zde](https://purchase.aspose.com/temporary-license/).
 
 ### Na jaké další formáty obrázků mohu převést svůj dokument Word?
- Aspose.Words podporuje různé formáty, včetně JPEG, BMP a TIFF. Stačí změnit`SaveFormat`v`ImageSaveOptions` do požadovaného formátu.
+ Aspose.Words podporuje různé formáty, včetně JPEG, BMP a TIFF. Stačí změnit`SaveFormat` v`ImageSaveOptions`do požadovaného formátu.
 
 ### Kde najdu další dokumentaci k Aspose.Words pro .NET?
  Pro komplexní dokumentaci navštivte[Stránka dokumentace Aspose.Words for .NET](https://reference.aspose.com/words/net/).

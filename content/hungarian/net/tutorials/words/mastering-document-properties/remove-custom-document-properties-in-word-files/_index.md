@@ -1,6 +1,6 @@
 ---
-title: Távolítsa el az egyéni dokumentum tulajdonságait a Word fájlokból
-linktitle: Távolítsa el az egyéni dokumentum tulajdonságait a Word fájlokból
+title: Távolítsa el az egyéni dokumentumtulajdonságokat a Word-fájlokból
+linktitle: Távolítsa el az egyéni dokumentumtulajdonságokat a Word-fájlokból
 second_title: Aspose.Words Document Processing API
 description: Ismerje meg, hogyan távolíthat el egyéni dokumentumtulajdonságokat Word-fájlokból az Aspose.Words for .NET használatával. Ez a részletes útmutató lépésről lépésre nyújt útmutatást a dokumentumok metaadatainak hatékony tisztításához, így időt takaríthat meg a dokumentumkezelés és az automatizálás terén.
 type: docs

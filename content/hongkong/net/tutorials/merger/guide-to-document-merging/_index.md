@@ -19,7 +19,7 @@ url: /zh-hant/net/tutorials/merger/guide-to-document-merging/
 
 ## 使用 GroupDocs.Merger for .NET 合併 PDF 文件
 
-現在，那些 PDF 檔案怎麼樣？如果您使用不同的軟體解決方案，合併 PDF 可能會很棘手，但 GroupDocs.Merger 簡化了任務。假設您有一組發票或報告要發送給您的利害關係人，您可以將它們合併為一個具有專業外觀的 PDF，而不是發送多個文件。
+現在，那些 PDF 檔案怎麼樣？如果您使用不同的軟體解決方案，合併 PDF 可能會很棘手，但 GroupDocs.Merger 簡化了任務。假設您有一組發票或報告要傳送給利害關係人，您可以將它們合併為一個具有專業外觀的 PDF，而不是發送多個文件。
 
 這個過程與合併 DOC 文件非常相似。只需幾行程式碼，您就可以載入 PDF 文件、合併它們，瞧！您已經準備好一個整潔的文件可供分發。我們的教程[合併 PDF 文件](./merge-pdf-files/)深入探討此功能，提供逐步指導並解決常見常見問題。
 

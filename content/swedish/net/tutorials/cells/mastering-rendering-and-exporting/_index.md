@@ -25,7 +25,7 @@ Har du någonsin undrat hur du får dina diagram i Excel att sticka ut när de k
 
 ## Bemästra självstudier för rendering och export
 ### [Lägg till bokmärken med namngivna destinationer i PDF-filer från Excel-filer](./add-bookmarks-with-named-destinations/)
-Lär dig hur du enkelt skapar interaktiva PDF-filer från Excel-filer med Aspose.Cells för .NET. Den här handledningen handlar om att lägga till bokmärken med namngivna destinationer för att förbättra PDF-navigeringen.
+Lär dig hur du enkelt skapar interaktiva PDF-filer från Excel-filer med Aspose.Cells för .NET. Denna handledning handlar om att lägga till bokmärken med namngivna destinationer för att förbättra PDF-navigeringen.
 ### [Styr externa resurser med Aspose.Cells för .NET](./control-external-resources/)
 Lås upp den fulla potentialen hos dina Excel till PDF-konverteringar med Aspose.Cells för .NET. I den här omfattande guiden lär du dig hur du hanterar externa resurser, såsom bilder, för att säkerställa att dina PDF-filer återspeglar dina exakta formateringskrav.
 ### [Skapa PDF-bokmärke för diagramblad i Aspose.Cells](./creating-pdf-bookmark-for-chart-sheet/)

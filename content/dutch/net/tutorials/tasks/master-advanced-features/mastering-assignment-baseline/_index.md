@@ -91,7 +91,7 @@ Console.WriteLine("Modified Baseline Work: " + baseline.Work);
 
 ## Conclusie
 
-Het effectief beheren van toewijzingsbasislijnen is essentieel voor het behouden van controle over projectschema's en budgetten. Aspose.Tasks voor .NET voorziet u van de benodigde tools om basislijnen nauwkeurig te verwerken, waardoor datagestuurde besluitvorming mogelijk wordt.
+Het effectief beheren van toewijzingsbasislijnen is essentieel voor het behouden van controle over projectschema's en budgetten. Aspose.Tasks voor .NET voorziet u van de benodigde tools om basislijnen nauwkeurig te verwerken, wat datagestuurde besluitvorming mogelijk maakt.
 
 ## Veelgestelde vragen
 

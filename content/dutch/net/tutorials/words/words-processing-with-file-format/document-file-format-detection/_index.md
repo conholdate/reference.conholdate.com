@@ -16,7 +16,7 @@ Het efficiënt beheren en organiseren van verschillende documentformaten is cruc
 Voordat we beginnen, moeten we ervoor zorgen dat aan de volgende vereisten is voldaan:
 
 1. Aspose.Words voor .NET-bibliotheek  
-    Download de bibliotheek van[Aspose Woorden Releases](https://releases.aspose.com/words/net/) en activeer het met een geldige licentie. Voor tijdelijke licenties, bezoek[Aspose Tijdelijke Licentie](https://purchase.aspose.com/temporary-license/).
+    Download de bibliotheek van[Aspose Woorden Releases](https://releases.aspose.com/words/net/)en activeer het met een geldige licentie. Voor tijdelijke licenties, bezoek[Aspose Tijdelijke Licentie](https://purchase.aspose.com/temporary-license/).
 
 2. Ontwikkelomgeving  
    Gebruik Visual Studio (een recente versie) met .NET Framework geïnstalleerd.
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- De`FileFormatUtil.DetectFileFormat` De methode is van cruciaal belang voor het identificeren van de kenmerken van het document.
+ De`FileFormatUtil.DetectFileFormat`De methode is van cruciaal belang voor het identificeren van de kenmerken van het document.
 
 ## Conclusie
 

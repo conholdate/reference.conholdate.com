@@ -47,7 +47,7 @@ Identifique o local do seu arquivo PSD de origem e onde você deseja salvar a im
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Caminho para o seu arquivo PSD de origem
-string destName = dataDir + "result.png";   //Caminho para o arquivo de imagem de saída
+string destName = dataDir + "result.png";   // Caminho para o arquivo de imagem de saída
 ```
 
 ## Etapa 3: Carregue a imagem PSD e gerencie fontes não encontradas

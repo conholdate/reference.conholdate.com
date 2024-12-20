@@ -31,7 +31,7 @@ Zabýváte se masivními soubory Excelu? Naučte se, jak upravit úrovně kompre
 
  Chcete posunout své excelové soubory na další úroveň? Klíčem může být přidání webových rozšíření! Tento tutoriál popisuje, jak integrovat webová rozšíření do vašich sešitů. Ať už vkládáte vlastní funkce nebo propojujete externí data, tato příručka zjednodušuje proces pomocí jasných příkladů kódu.[Přečtěte si více](./adding-web-extension/).  
 
-## Zvládnutí operací se sešitem Výukové programy
+## Zvládnutí operací sešitů Návody
 ### [Přístup k informacím o rozšíření Excel Web Extension pomocí Aspose.Cells](./accessing-excel-web-extension-information/)
 Prozkoumejte sílu Aspose.Cells for .NET v tomto podrobném tutoriálu, kde se naučíte, jak programově přistupovat k datům webových rozšíření a jak s nimi manipulovat v souborech aplikace Excel.
 ### [Přidejte vlastní části XML do sešitů aplikace Excel](./add-custom-xml-parts/)

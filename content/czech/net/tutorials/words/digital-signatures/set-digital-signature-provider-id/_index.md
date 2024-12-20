@@ -15,7 +15,7 @@ Ahoj! Pokud chcete do dokumentu Word přidat digitální podpis s konkrétním I
 
 Před potápěním se ujistěte, že máte následující:
 
-1.  Aspose.Words for .NET Library:[Stáhněte si jej zde](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Library:[Stáhněte si jej zde](https://releases.aspose.com/words/net/).
 2. Vývojové prostředí: Visual Studio nebo jakékoli IDE kompatibilní s C#.
 3.  Dokument Word: Dokument s řádkem podpisu (např.`Signature line.docx`).
 4.  Digitální certifikát: A`.pfx` soubor certifikátu (např.`morzal.pfx`).

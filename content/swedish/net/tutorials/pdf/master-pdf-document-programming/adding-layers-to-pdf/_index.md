@@ -1,7 +1,7 @@
 ---
 title: Lägga till lager till PDF-dokument med Aspose.PDF för .NET
 linktitle: Lägga till lager till PDF-dokument med Aspose.PDF för .NET
-second_title: Aspose.PDF för .NET API-referens
+second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du skapar komplexa PDF-dokument med flera lager i Aspose.PDF för .NET. Upptäck de kraftfulla funktionerna i detta bibliotek och optimera.
 type: docs
 weight: 20
@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- I det här steget initierar du en ny instans av`Document` klass, som fungerar som duken för våra framtida lager. Se till att byta ut`"YOUR DOCUMENT DIRECTORY"` med den faktiska sökvägen där du vill spara PDF-filen senare.
+ I det här steget initierar du en ny instans av`Document`klass, som fungerar som duken för våra framtida lager. Se till att byta ut`"YOUR DOCUMENT DIRECTORY"` med den faktiska sökvägen där du vill spara PDF-filen senare.
 
 ## Steg 2: Skapa en ny sida
 

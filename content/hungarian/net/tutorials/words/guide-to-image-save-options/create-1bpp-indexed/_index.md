@@ -88,7 +88,7 @@ Az 1 Bpp (1 Bit Per Pixel) indexelt kép egy fekete-fehér képformátum, amelyb
  Igen, a teljes funkcionalitáshoz licenc szükséges. Megszerezheti a[ideiglenes engedély itt](https://purchase.aspose.com/temporary-license/).
 
 ### Milyen más képformátumokba konvertálhatom a Word dokumentumomat?
- Az Aspose.Words különféle formátumokat támogat, beleértve a JPEG-et, BMP-t és TIFF-et. Csak változtasd meg a`SaveFormat`a`ImageSaveOptions` a kívánt formátumra.
+ Az Aspose.Words különféle formátumokat támogat, beleértve a JPEG-et, BMP-t és TIFF-et. Csak változtasd meg a`SaveFormat` a`ImageSaveOptions` kívánt formátumra.
 
 ### Hol találok további dokumentációt az Aspose.Words for .NET-ről?
  Az átfogó dokumentációért látogasson el a[Aspose.Words for .NET dokumentációs oldal](https://reference.aspose.com/words/net/).

@@ -2,7 +2,7 @@
 title: 使用 Aspose.Cells for .NET 將資料表轉換為 ODS 格式
 linktitle: 使用 Aspose.Cells for .NET 將資料表轉換為 ODS 格式
 second_title: Aspose.Cells .NET Excel 處理 API
-description: 了解如何使用 Aspose.Cells for .NET 將 Excel 電子表格無縫轉換為 ODS 格式。這個逐步指南。
+description: 了解如何使用 Aspose.Cells for .NET 將 Excel 電子表格無縫轉換為 ODS 格式。本逐步指南。
 type: docs
 weight: 12
 url: /zh-hant/net/tutorials/cells/mastering-tables-and-lists/convert-table-to-ods-format/

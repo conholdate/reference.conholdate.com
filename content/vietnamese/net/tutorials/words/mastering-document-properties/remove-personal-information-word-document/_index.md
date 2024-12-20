@@ -17,7 +17,7 @@ Trước khi tìm hiểu về mã, điều quan trọng là phải đảm bảo 
 
 ### Aspose.Words cho .NET
 
-Để bắt đầu, bạn cần Aspose.Words cho .NET. Nếu bạn chưa có, hãy tải xuống từ[trang web](https://releases.aspose.com/words/net/) . Nếu bạn mới sử dụng Aspose.Words, bạn có thể dùng thử miễn phí bằng cách tải xuống[dùng thử miễn phí](https://releases.aspose.com/).
+ Để bắt đầu, bạn cần Aspose.Words cho .NET. Nếu bạn chưa có, hãy tải xuống từ[trang web](https://releases.aspose.com/words/net/) Nếu bạn mới sử dụng Aspose.Words, bạn có thể dùng thử miễn phí bằng cách tải xuống[dùng thử miễn phí](https://releases.aspose.com/).
 
 ### Môi trường phát triển
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Tải Tài liệu
 
-Tiếp theo, chúng ta sẽ tải tài liệu vào chương trình. Điều này có thể được thực hiện bằng cách sử dụng`Document` lớp do Aspose.Words cung cấp. Đoạn mã sau đây trình bày cách tải tài liệu Word từ thư mục được chỉ định.
+ Tiếp theo, chúng ta sẽ tải tài liệu vào chương trình. Điều này có thể được thực hiện bằng cách sử dụng`Document`lớp do Aspose.Words cung cấp. Đoạn mã sau đây trình bày cách tải tài liệu Word từ thư mục được chỉ định.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Dòng mã này đảm bảo rằng tài liệu không còn lưu giữ bất kỳ
 
 ### 2.2 Lưu tài liệu đã được làm sạch
 
- Sau khi thông tin cá nhân được xóa, điều cần thiết là phải lưu tài liệu đã sửa đổi. Điều này có thể được thực hiện bằng cách sử dụng`Save`phương pháp này sẽ ghi tài liệu đã cập nhật vào một tệp mới, giữ nguyên mọi thay đổi.
+ Sau khi thông tin cá nhân được xóa, điều cần thiết là phải lưu tài liệu đã sửa đổi. Điều này có thể được thực hiện bằng cách sử dụng`Save` phương pháp này sẽ ghi tài liệu đã cập nhật vào một tệp mới, giữ nguyên mọi thay đổi.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

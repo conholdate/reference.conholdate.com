@@ -15,7 +15,7 @@ Halo! Jika Anda ingin menambahkan tanda tangan digital ke dokumen Word Anda deng
 
 Sebelum memulai, pastikan Anda memiliki hal berikut:
 
-1.  Aspose.Words untuk Pustaka .NET:[Unduh di sini](https://releases.aspose.com/words/net/).
+1. Aspose.Words untuk Pustaka .NET:[Unduh di sini](https://releases.aspose.com/words/net/).
 2. Lingkungan Pengembangan: Visual Studio atau IDE apa pun yang kompatibel dengan C#.
 3.  Dokumen Word: Dokumen dengan baris tanda tangan (misalnya,`Signature line.docx`).
 4.  Sertifikat Digital: A`.pfx` file sertifikat (misalnya,`morzal.pfx`).

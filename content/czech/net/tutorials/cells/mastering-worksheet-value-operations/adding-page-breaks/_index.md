@@ -27,7 +27,7 @@ using Aspose.Cells;
 using System;
 ```
 
-Po importu těchto jmenných prostorů můžete začít pracovat se soubory aplikace Excel a aplikovat úpravy, včetně zalomení stránek.
+S importovanými jmennými prostory můžete začít pracovat se soubory aplikace Excel a aplikovat úpravy, včetně zalomení stránek.
 
 ## Krok 1: Nastavte svůj sešit
  Vytvořte nový sešit pomocí`Workbook` třídy, která slouží jako základ pro manipulaci se soubory Excel.
@@ -64,7 +64,7 @@ workbook.Worksheets[0].VerticalPageBreaks.Add("Y30");
 Nakonec uložte sešit, aby změny zůstaly zachovány:
 
 ```csharp
-// Uložte soubor aplikace Excel
+// Uložte soubor Excel
 workbook.Save(dataDir + "AddingPageBreaks_out.xls");
 ```
 Tento řádek uloží sešit s přidanými konci stránek do zadané cesty (`AddingPageBreaks_out.xls`).

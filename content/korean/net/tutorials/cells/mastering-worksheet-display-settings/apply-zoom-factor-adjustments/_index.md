@@ -13,7 +13,7 @@ Excel 워크시트의 확대/축소 비율을 변경하면 데이터 시각화�
 
 ## 필수 조건  
 
-단계를 살펴보기 전에 다음 사항을 확인하세요.  
+다음 단계를 살펴보세요.  
 
 1.  .NET 라이브러리용 Aspose.Cells: 다운로드 및 설치[여기](https://releases.aspose.com/cells/net/).  
 2. 개발 환경: Visual Studio와 같은 IDE를 사용하여 코드를 작성하고 실행하세요.  
@@ -113,7 +113,7 @@ foreach (Worksheet sheet in workbook.Worksheets)
 ```
 
 ### Aspose.Cells는 어떤 Excel 형식을 지원하나요?  
-Aspose.Cells는 XLS, XLSX, CSV, ODS 등 다양한 형식을 지원합니다.  
+Aspose.Cells는 XLS, XLSX, CSV, ODS를 포함한 다양한 형식을 지원합니다.  
 
 ### Aspose.Cells를 사용하려면 라이선스가 필요한가요?  
  무료 체험판을 이용할 수 있지만, 전체 기능을 사용하려면 라이선스가 필요합니다. 받기[여기](https://purchase.aspose.com/buy).  

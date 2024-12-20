@@ -18,7 +18,7 @@ Om deze tutorial te kunnen volgen, moet u het volgende bij de hand hebben:
 -  Aspose.Words voor .NET:[Download hier](https://releases.aspose.com/words/net/).  
 - Ontwikkelomgeving: Visual Studio of een andere .NET IDE.  
 - C# basisprincipes: Kennis van C# helpt bij het begrijpen van de codefragmenten.  
--  Geldige Aspose.Words-licentie:[Koop hier](https://purchase.aspose.com/buy) of een verkrijgen[tijdelijke licentie](https://purchase.aspose.com/temporary-license/).  
+-  Geldige Aspose.Words-licentie:[Koop hier](https://purchase.aspose.com/buy) of verkrijg een[tijdelijke licentie](https://purchase.aspose.com/temporary-license/).  
 
 ## Vereiste naamruimten importeren  
 

@@ -32,7 +32,7 @@ Questo spazio dei nomi fornisce tutti gli strumenti necessari per gestire i docu
 
 ## Fase 1: Impostazione dell'ambiente
 
-1.  Installa Aspose.Words: Scarica e installa Aspose.Words per .NET da[Qui](https://releases.aspose.com/words/net/).
+1. Installa Aspose.Words: Scarica e installa Aspose.Words per .NET da[Qui](https://releases.aspose.com/words/net/).
 2. Crea un progetto .NET: apri Visual Studio e crea un nuovo progetto C#.
 3. Aggiungi riferimento Aspose.Words: includi il riferimento alla libreria nel tuo progetto.
 

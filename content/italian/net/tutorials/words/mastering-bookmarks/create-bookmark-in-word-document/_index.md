@@ -102,7 +102,7 @@ Creare segnalibri in un documento Word con Aspose.Words per .NET è semplice e m
 Sì! Puoi creare più segnalibri e definirne la gerarchia quando salvi come PDF.
 
 ### Come faccio ad aggiornare il testo di un segnalibro?
- Utilizzo`DocumentBuilder.MoveToBookmark` per andare al segnalibro e aggiornare il testo.
+ Utilizzo`DocumentBuilder.MoveToBookmark`per andare al segnalibro e aggiornare il testo.
 
 ### È possibile eliminare un segnalibro?
  Assolutamente! Usa il`Bookmarks.Remove` metodo specificando il nome del segnalibro.

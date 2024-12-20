@@ -26,4 +26,4 @@ Excel 中的行通常包含重要信息，因此确保行安全至关重要。As
 ### [使用 Aspose.Cells 保护工作表中的行](./protecting-rows/)
 了解如何通过使用 Aspose.Cells for .NET 保护特定行来保护 Excel 工作表中的敏感信息。本综合教程涵盖了从设置环境开始的所有内容。
 ### [使用 Aspose.Cells 进行高级保护设置](./advanced-protection-settings/)
-了解如何通过使用 Aspose.Cells for .NET 实施高级保护设置来增强 Excel 文件的安全性。本综合指南将逐步指导您限制用户操作。
+了解如何通过使用 Aspose.Cells for .NET 实施高级保护设置来增强 Excel 文件的安全性。本综合指南将逐步指导您如何限制用户操作。

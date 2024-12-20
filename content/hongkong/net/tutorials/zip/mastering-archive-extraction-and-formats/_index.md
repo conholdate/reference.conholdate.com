@@ -19,7 +19,7 @@ url: /zh-hant/net/tutorials/zip/mastering-archive-extraction-and-formats/
 
 ## 深入研究 TarLz 格式
 
-但是如果您的專案需要 TarLz 格式怎麼辦？完全沒有問題！ Aspose.Zip 為這種格式提供了同樣簡單的過程。這就像從一種類型的包換成另一種類型的包一樣，兩者都有相同的用途，但滿足不同的需求。我們的[TarLz 與 Aspose.Zip for .NET 綜合指南](./comprehensive-guide-to-tar-lz/)引導您完成每一步，即使您是新手也能輕鬆掌握。
+但是如果您的專案需要 TarLz 格式怎麼辦？完全沒有問題！ Aspose.Zip 為這種格式提供了同樣簡單的過程。這就像從一種類型的包換到另一種類型的包一樣，兩者都有相同的用途，但滿足不同的需求。我們的[TarLz 與 Aspose.Zip for .NET 綜合指南](./comprehensive-guide-to-tar-lz/)引導您完成每一步，即使您是新手也能輕鬆掌握。
 
 ## 掌握檔案擷取與格式教程
 ### [使用 Aspose.Zip for .NET 的 TarGz 綜合指南](./comprehensive-guide-to-tar-gz/)

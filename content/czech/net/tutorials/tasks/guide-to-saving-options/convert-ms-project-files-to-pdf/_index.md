@@ -90,10 +90,10 @@ Převod souborů Microsoft Project do PDF pomocí Aspose.Tasks for .NET zajišť
 Ano, Aspose.Tasks umožňuje přizpůsobení písem, barev a rozvržení stránek tak, aby vyhovovaly vašim specifickým potřebám.
 
 ###  Je možné převést`.mpp` files from older versions of Microsoft Project?
- Aspose.Tasks podporuje`.mpp` soubory z Microsoft Project 2003 a novější.
+ Aspose.Tasks podporuje`.mpp` soubory z aplikace Microsoft Project 2003 a novější.
 
 ### Jak vykreslím všechna data projektu na jedné stránce PDF?
- Nastavte`RenderToSinglePage` vlastnictvím`PdfSaveOptions` namítat proti`true`.
+ Nastavte`RenderToSinglePage` vlastnictví`PdfSaveOptions` namítat proti`true`.
 
 ```csharp
 options.RenderToSinglePage = true;

@@ -58,7 +58,7 @@ Workbook wb = new Workbook(sourceDir + "sampleCreatePdfBookmarkEntryForChartShee
 ```
 Assicurati che il nome del file corrisponda al tuo file effettivo.
 
-## Passaggio 6: accedi ai fogli di lavoro
+## Passaggio 6: accedere ai fogli di lavoro
 Accedi ai fogli di lavoro all'interno della cartella di lavoro:
 ```csharp
 Worksheet sheet1 = wb.Worksheets[0];

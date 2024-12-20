@@ -15,7 +15,7 @@ Merhaba! Word belgenize belirli bir İmza Sağlayıcı Kimliği ile dijital imza
 
 Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
-1.  Aspose.Words for .NET Kütüphanesi:[Buradan indirin](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Kütüphanesi:[Buradan indirin](https://releases.aspose.com/words/net/).
 2. Geliştirme Ortamı: Visual Studio veya herhangi bir C# uyumlu IDE.
 3.  Word Belgesi: İmza satırı olan bir belge (örneğin,`Signature line.docx`).
 4.  Dijital Sertifika: A`.pfx` sertifika dosyası (örneğin,`morzal.pfx`).

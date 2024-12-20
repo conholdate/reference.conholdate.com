@@ -57,7 +57,7 @@ Odemkněte potenciál Aspose.HTML pro .NET pomocí komplexních výukových prog
 
 ## Aspose.Imaging
 {{% alert color="primary" %}}
-Prozkoumejte odborné výukové programy pro Aspose.Imaging pro .NET. Naučte se manipulovat, převádět a zpracovávat obrázky pomocí podrobných průvodců, příkladů kódu a praktických informací. Ideální pro vývojáře, kteří chtějí zjednodušit úlohy zpracování obrázků v aplikacích .NET.
+Prozkoumejte odborné výukové programy pro Aspose.Imaging pro .NET. Naučte se manipulovat, převádět a zpracovávat obrázky pomocí podrobných průvodců, příkladů kódu a praktických poznatků. Ideální pro vývojáře, kteří chtějí zjednodušit úlohy zpracování obrázků v aplikacích .NET.
 {{% /alert %}}
 
 ### Výukové programy Aspose.Imaging

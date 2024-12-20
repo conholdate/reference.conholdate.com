@@ -9,7 +9,7 @@ url: /sv/net/tutorials/imaging/image-conversion/
 ---
 ## Introduktion
 
-Om du är en .NET-utvecklare som är angelägen om att dyka in i bildformatskonvertering, är du på rätt plats! Aspose.Imaging-biblioteket erbjuder en robust lösning för att transformera olika bildformat, särskilt CorelDRAW-filer (CDR). Låt oss bryta ner de två huvudsakliga konverteringarna du enkelt kan åstadkomma med Aspose.Imaging.
+Om du är en .NET-utvecklare som är angelägen om att dyka in i bildformatskonvertering, är du på rätt plats! Aspose.Imaging-biblioteket erbjuder en robust lösning för att transformera olika bildformat, särskilt CorelDRAW-filer (CDR). Låt oss dela upp de två huvudsakliga omvandlingarna du enkelt kan åstadkomma med Aspose.Imaging.
 
 ## Konvertera CorelDRAW (CDR)-filer till PDF
 

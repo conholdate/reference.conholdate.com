@@ -66,7 +66,7 @@ using (Signature signature = new Signature(filePath))
 
 ## Závěr
 
-V tomto kurzu jste se naučili, jak podepsat obrázek pomocí metadat pomocí GroupDocs.Signature for .NET. Pomocí těchto kroků můžete snadno přidat podpisy metadat do svých aplikací .NET, čímž vylepšíte funkčnost a integritu svých obrázků.
+V tomto kurzu jste se naučili, jak podepsat obrázek pomocí metadat pomocí GroupDocs.Signature for .NET. Pomocí těchto kroků můžete snadno přidat podpisy metadat do aplikací .NET, čímž vylepšíte funkčnost a integritu svých obrázků.
 
 ## FAQ
 
