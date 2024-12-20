@@ -9,7 +9,7 @@ url: /tr/net/tutorials/cells/mastering-rendering-and-exporting/control-external-
 ---
 ## giriiş
 
-Günümüzün dijital ortamında, Excel elektronik tablolarını PDF belgelerine dönüştürmek yaygın ve önemli bir görevdir. Raporlar, finansal veriler veya sunum materyalleri hazırlıyor olun, PDF'lerinizin istediğiniz formatı yansıttığından emin olmak çok önemlidir. .NET için Aspose.Cells, özellikle görseller gibi harici kaynaklarla uğraşırken bu dönüştürme sürecini ayrıntılı olarak kontrol etmenizi sağlayan güçlü bir kitaplık sunar. Bu kılavuzda, Aspose.Cells kullanarak Excel'den PDF'ye dönüştürme işlemi sırasında harici kaynakları etkili bir şekilde nasıl yöneteceğinizi keşfedeceğiz. Hadi başlayalım!
+Günümüzün dijital ortamında, Excel elektronik tablolarını PDF belgelerine dönüştürmek yaygın ve önemli bir görevdir. Raporlar, finansal veriler veya sunum materyalleri hazırlıyor olun, PDF'lerinizin istediğiniz formatı yansıttığından emin olmak çok önemlidir. .NET için Aspose.Cells, özellikle resimler gibi harici kaynaklarla uğraşırken bu dönüştürme sürecini ayrıntılı olarak kontrol etmenizi sağlayan güçlü bir kitaplık sunar. Bu kılavuzda, Aspose.Cells kullanarak Excel'den PDF'ye dönüştürme işlemi sırasında harici kaynakları etkili bir şekilde nasıl yöneteceğinizi keşfedeceğiz. Hadi başlayalım!
 
 ## Ön koşullar
 

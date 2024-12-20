@@ -102,7 +102,7 @@ Bladwijzers maken in een Word-document met Aspose.Words voor .NET is eenvoudig e
 Ja! U kunt meerdere bladwijzers maken en hun hiërarchie definiëren wanneer u ze opslaat als PDF.
 
 ### Hoe kan ik de tekst van een bladwijzer bijwerken?
- Gebruik`DocumentBuilder.MoveToBookmark` om naar de bladwijzer te navigeren en de tekst bij te werken.
+ Gebruik`DocumentBuilder.MoveToBookmark`om naar de bladwijzer te navigeren en de tekst bij te werken.
 
 ### Is het mogelijk om een bladwijzer te verwijderen?
  Absoluut! Gebruik de`Bookmarks.Remove` methode door de naam van de bladwijzer op te geven.

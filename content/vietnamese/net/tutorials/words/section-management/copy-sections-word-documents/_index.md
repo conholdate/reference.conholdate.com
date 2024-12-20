@@ -32,7 +32,7 @@ Không gian tên này cung cấp tất cả các công cụ cần thiết để 
 
 ## Bước 1: Thiết lập môi trường của bạn
 
-1.  Cài đặt Aspose.Words: Tải xuống và cài đặt Aspose.Words cho .NET từ[đây](https://releases.aspose.com/words/net/).
+1. Cài đặt Aspose.Words: Tải xuống và cài đặt Aspose.Words cho .NET từ[đây](https://releases.aspose.com/words/net/).
 2. Tạo một dự án .NET: Mở Visual Studio và tạo một dự án C# mới.
 3. Thêm tham chiếu Aspose.Words: Bao gồm tham chiếu thư viện vào dự án của bạn.
 

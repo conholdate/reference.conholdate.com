@@ -17,7 +17,7 @@ Bevor Sie sich in den Code vertiefen, müssen Sie unbedingt sicherstellen, dass 
 
 ### Aspose.Words für .NET
 
-Um loszulegen, benötigen Sie Aspose.Words für .NET. Falls noch nicht geschehen, laden Sie es von der[Webseite](https://releases.aspose.com/words/net/) Wenn Sie Aspose.Words noch nicht kennen, können Sie es kostenlos ausprobieren, indem Sie eine[Kostenlose Testversion](https://releases.aspose.com/).
+ Um loszulegen, benötigen Sie Aspose.Words für .NET. Falls noch nicht geschehen, laden Sie es von der[Webseite](https://releases.aspose.com/words/net/)Wenn Sie Aspose.Words noch nicht kennen, können Sie es kostenlos ausprobieren, indem Sie eine[Kostenlose Testversion](https://releases.aspose.com/).
 
 ### Entwicklungsumgebung
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Dokument laden
 
-Als nächstes laden wir das Dokument in das Programm. Dies kann mit dem`Document` Klasse bereitgestellt von Aspose.Words. Der folgende Codeausschnitt zeigt, wie ein Word-Dokument aus dem angegebenen Verzeichnis geladen wird.
+ Als nächstes laden wir das Dokument in das Programm. Dies kann mit dem`Document`Klasse bereitgestellt von Aspose.Words. Der folgende Codeausschnitt zeigt, wie ein Word-Dokument aus dem angegebenen Verzeichnis geladen wird.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Diese einzelne Codezeile stellt sicher, dass in den Eigenschaften des Dokuments 
 
 ### 2.2 Speichern des bereinigten Dokuments
 
- Sobald die persönlichen Daten entfernt wurden, ist es wichtig, das geänderte Dokument zu speichern. Dies kann mithilfe des`Save`Methode, die das aktualisierte Dokument unter Beibehaltung aller Änderungen in eine neue Datei schreibt.
+ Sobald die persönlichen Daten entfernt wurden, ist es wichtig, das geänderte Dokument zu speichern. Dies kann mithilfe des`Save` Methode, die das aktualisierte Dokument unter Beibehaltung aller Änderungen in eine neue Datei schreibt.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

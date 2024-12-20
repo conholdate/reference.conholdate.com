@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/cells/mastering-worksheet-page-setup-features/implem
 ---
 ## 介紹
 
-頁首和頁尾是 Excel 電子表格中的基本元素，提供重要的上下文訊息，例如文件名稱、日期和頁碼。無論您是自動化報告還是產生動態文件，Aspose.Cells for .NET 都可以簡化以程式設計方式自訂頁首和頁尾的過程。本指南提供了透過精美且專業的頁首和頁尾增強 Excel 文件的逐步方法。
+頁首和頁尾是 Excel 電子表格中的基本元素，提供重要的上下文訊息，例如文件名稱、日期和頁碼。無論您是自動化報告還是產生動態文件，Aspose.Cells for .NET 都可以簡化以程式設計方式自訂頁首和頁尾的過程。本指南提供了一種逐步方法，透過精美且專業的頁首和頁尾來增強 Excel 文件。
 
 ## 先決條件
 

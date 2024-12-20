@@ -33,7 +33,7 @@ using Aspose.Words.Saving;
 
 ## Passaggio 2: imposta la directory dei documenti
 
-Poi, specifica il percorso della directory dei tuoi documenti. Qui è dove caricherai il tuo documento Word e salverai la versione modificata.
+Poi, specifica il percorso alla directory dei tuoi documenti. Qui è dove caricherai il tuo documento Word e salverai la versione modificata.
 
 ```csharp
 // Percorso alla directory dei tuoi documenti

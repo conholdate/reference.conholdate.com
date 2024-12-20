@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/words/section-management/adding-sections/
 
 在我們開始之前，請確保您具備以下條件：
 
-1.  Aspose.Words for .NET Library：下載最新版本[這裡](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Library：下載最新版本[這裡](https://releases.aspose.com/words/net/).
 2. 開發環境：相容.NET的IDE，例如Visual Studio。
 3. 基本 C# 知識：熟悉 C# 文法將會很有幫助。
 4. 範例 Word 文件（可選）：雖然我們將從頭開始建立一個範例，但擁有範例對於測試是有益的。

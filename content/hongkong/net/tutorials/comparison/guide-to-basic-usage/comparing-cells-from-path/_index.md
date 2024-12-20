@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/comparison/guide-to-basic-usage/comparing-cells-from
 
 在我們開始之前，請確保您已準備好以下內容：
 
-1.  GroupDocs.Comparison for .NET Library：從以下位置下載並安裝此程式庫[這個連結](https://releases.groupdocs.com/comparison/net/).
+1.  GroupDocs.Comparison for .NET Library：從以下位置下載並安裝此程式庫：[這個連結](https://releases.groupdocs.com/comparison/net/).
 2. 開發環境：確保安裝了 Visual Studio 或其他 .NET 開發工具。
 3. 文件檔案：準備好來源儲存格檔案和目標儲存格檔案（例如 Excel 文件）以進行比較。
 4. C# 基礎：建議熟悉 C# 程式語言，以便順利瀏覽程式碼。

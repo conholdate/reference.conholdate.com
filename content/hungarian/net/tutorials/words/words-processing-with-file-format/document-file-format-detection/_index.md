@@ -11,12 +11,12 @@ url: /hu/net/tutorials/words/words-processing-with-file-format/document-file-for
 
 A különböző dokumentumformátumok hatékony kezelése és rendszerezése kritikus fontosságú a mai digitális környezetben. Az Aspose.Words for .NET robusztus megoldást kínál a különböző fájltípusok észlelésére és feldolgozására. Ebben az útmutatóban részletesen bemutatjuk a dokumentumformátumok észlelésének folyamatát, biztosítva a pontosságot és megtakarítva az értékes időt.
 
-## dokumentumfelismerés előfeltételei
+## A dokumentumfelismerés előfeltételei
 
 Mielőtt elkezdené, győződjön meg arról, hogy a következő követelmények teljesülnek:
 
 1. Aspose.Words for .NET Library  
-    Töltse le a könyvtárat innen[Aspose Words Releases](https://releases.aspose.com/words/net/) és aktiválja azt érvényes licenccel. Ideiglenes licencekért keresse fel a webhelyet[Aspose ideiglenes engedélye](https://purchase.aspose.com/temporary-license/).
+    Töltse le a könyvtárat innen[Aspose Words Releases](https://releases.aspose.com/words/net/)és aktiválja azt érvényes licenccel. Ideiglenes licencekért keresse fel a webhelyet[Aspose ideiglenes engedélye](https://purchase.aspose.com/temporary-license/).
 
 2. Fejlesztési környezet  
    Használja a Visual Studio-t (bármelyik legújabb verzióját) telepített .NET-keretrendszerrel.
@@ -69,7 +69,7 @@ IEnumerable<string> fileList = Directory.GetFiles(dataDir)
     .Where(fileName => !fileName.EndsWith("Corrupted document.docx"));
 ```
 
-szűrt lista biztosítja, hogy csak érvényes fájlokkal dolgozzon.
+A szűrt lista biztosítja, hogy csak érvényes fájlokkal dolgozzon.
 
 ## 3. lépés: Fájlformátumok észlelése és kategorizálása
 
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- A`FileFormatUtil.DetectFileFormat` módszer központi szerepet játszik a dokumentum jellemzőinek azonosításában.
+ A`FileFormatUtil.DetectFileFormat`módszer központi szerepet játszik a dokumentum jellemzőinek azonosításában.
 
 ## Következtetés
 

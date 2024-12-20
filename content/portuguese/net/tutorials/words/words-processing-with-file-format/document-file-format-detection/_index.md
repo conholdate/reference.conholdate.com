@@ -16,7 +16,7 @@ Gerenciar e organizar eficientemente vários formatos de documentos é essencial
 Antes de começar, certifique-se de que os seguintes requisitos sejam atendidos:
 
 1. Biblioteca Aspose.Words para .NET  
-    Baixe a biblioteca de[Lançamentos do Aspose Words](https://releases.aspose.com/words/net/) e ativá-lo usando uma licença válida. Para licenças temporárias, visite[Licença temporária Aspose](https://purchase.aspose.com/temporary-license/).
+    Baixe a biblioteca de[Lançamentos do Aspose Words](https://releases.aspose.com/words/net/) ativá-lo usando uma licença válida. Para licenças temporárias, visite[Licença temporária Aspose](https://purchase.aspose.com/temporary-license/).
 
 2. Ambiente de Desenvolvimento  
    Use o Visual Studio (qualquer versão recente) com o .NET Framework instalado.
@@ -69,7 +69,7 @@ IEnumerable<string> fileList = Directory.GetFiles(dataDir)
     .Where(fileName => !fileName.EndsWith("Corrupted document.docx"));
 ```
 
-lista filtrada garante que você trabalhe apenas com arquivos válidos.
+A lista filtrada garante que você trabalhe apenas com arquivos válidos.
 
 ## Etapa 3: Detectar e categorizar formatos de arquivo
 
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- O`FileFormatUtil.DetectFileFormat` O método é fundamental para identificar as características do documento.
+ O`FileFormatUtil.DetectFileFormat` método é fundamental para identificar as características do documento.
 
 ## Conclusão
 

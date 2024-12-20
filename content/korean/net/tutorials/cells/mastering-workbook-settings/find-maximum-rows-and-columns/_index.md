@@ -9,7 +9,7 @@ url: /ko/net/tutorials/cells/mastering-workbook-settings/find-maximum-rows-and-c
 ---
 ## 소개
 
-Excel에서 대용량 데이터 세트를 관리하는 것은 어려울 수 있으며, 특히 다양한 파일 형식의 제한과 관련하여 더욱 그렇습니다. 이 튜토리얼은 Aspose.Cells for .NET 라이브러리를 사용하여 XLS(Excel 97-2003) 및 XLSX(Excel 2007 이상) 형식에서 지원하는 최대 행 및 열 수를 확인하는 방법을 안내합니다. 이 튜토리얼을 마치면 Excel 관련 작업을 효율적으로 처리할 수 있게 됩니다.
+Excel에서 대용량 데이터 세트를 관리하는 것은 어려울 수 있으며, 특히 다양한 파일 형식의 한계와 관련하여 더욱 그렇습니다. 이 튜토리얼은 Aspose.Cells for .NET 라이브러리를 사용하여 XLS(Excel 97-2003) 및 XLSX(Excel 2007 이상) 형식에서 지원하는 최대 행 및 열 수를 확인하는 방법을 안내합니다. 이 튜토리얼을 마치면 Excel 관련 작업을 효율적으로 처리할 수 있게 됩니다.
 
 ## 필수 조건
 

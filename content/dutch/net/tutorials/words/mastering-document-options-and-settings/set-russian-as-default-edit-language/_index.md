@@ -42,7 +42,7 @@ LoadOptions loadOptions = new LoadOptions();
 
 ### Stel de standaardbewerkingstaal in op Russisch
 
- Stel vervolgens de`DefaultEditingLanguage` eigenschap naar Russisch:
+Stel vervolgens de`DefaultEditingLanguage` eigenschap naar Russisch:
 
 ```csharp
 loadOptions.LanguagePreferences.DefaultEditingLanguage = EditingLanguage.Russian;
@@ -99,7 +99,7 @@ Deze uitvoer geeft aan of de standaardbewerkingstaal succesvol is ingesteld op R
 
 ## Conclusie
 
- Het instellen van Russisch als de standaard bewerkingstaal in een Word-document met Aspose.Words voor .NET is een eenvoudig proces. Door`LoadOptions`, het document laden en de taalinstellingen controleren, kunt u uw documenten effectief aanpassen aan de taalbehoeften van uw doelgroep.
+Het instellen van Russisch als de standaard bewerkingstaal in een Word-document met Aspose.Words voor .NET is een eenvoudig proces. Door`LoadOptions`, het document laden en de taalinstellingen controleren, kunt u uw documenten effectief aanpassen aan de taalbehoeften van uw doelgroep.
 
 ## Veelgestelde vragen
 
@@ -121,4 +121,4 @@ Aspose.Words voor .NET is een uitgebreide bibliotheek voor het programmatisch ma
 
 ### Hoe kan ik ondersteuning krijgen voor Aspose.Words voor .NET?
 
- Voor ondersteuning, bezoek de[Aspose-ondersteuning](https://forum.aspose.com/c/words/8) forum, waar u vragen kunt stellen en hulp kunt krijgen van de community en Aspose-ontwikkelaars.
+ Voor ondersteuning, bezoek de[Aspose-ondersteuning](https://forum.aspose.com/c/words/8)forum, waar u vragen kunt stellen en hulp kunt krijgen van de community en Aspose-ontwikkelaars.

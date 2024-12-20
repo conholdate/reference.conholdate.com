@@ -64,7 +64,7 @@ Esto es lo que estamos haciendo:
 
 - Especifique la ruta del archivo de registro.
 -  Elegir`PDF_A_3A` formato para admitir archivos incrustados (a diferencia de`PDF` que no lo hace).
--  Usar`ConvertErrorAction.Delete` para eliminar cualquier elemento que no cumpla con los estándares PDF/A.
+-  Usar`ConvertErrorAction.Delete`para eliminar cualquier elemento que no cumpla con los estándares PDF/A.
 
 ## Paso 5: Guardar el documento PDF/A resultante
 

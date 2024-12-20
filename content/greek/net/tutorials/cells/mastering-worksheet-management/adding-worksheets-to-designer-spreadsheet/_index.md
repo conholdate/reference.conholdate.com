@@ -46,7 +46,7 @@ using (FileStream fstream = new FileStream(inputPath, FileMode.Open))
 ```
 
 ## Βήμα 4: Αρχικοποιήστε το αντικείμενο του βιβλίου εργασίας
- Με τη ροή αρχείων ανοιχτή, δημιουργήστε ένα`Workbook` αντικείμενο που αντιπροσωπεύει το αρχείο σας Excel.
+ Με ανοιχτή τη ροή αρχείων, δημιουργήστε ένα`Workbook` αντικείμενο που αντιπροσωπεύει το αρχείο σας Excel.
 
 ```csharp
 Workbook workbook = new Workbook(fstream);

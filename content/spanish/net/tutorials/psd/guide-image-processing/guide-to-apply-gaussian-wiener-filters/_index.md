@@ -111,7 +111,7 @@ El tamaño del radio determina el alcance del funcionamiento del filtro, mientra
 
 ### ¿Dónde puedo encontrar apoyo y recursos adicionales?
 
- Para preguntas y asistencia, el[Foro Aspose.PSD](https://forum.aspose.com/c/psd/34)Es un gran recurso para conectarse con la comunidad y el equipo de soporte.
+ Para preguntas y asistencia, el[Foro Aspose.PSD](https://forum.aspose.com/c/psd/34) Es un gran recurso para conectarse con la comunidad y el equipo de soporte.
 
 ### ¿Hay una prueba gratuita disponible para Aspose.PSD?
 

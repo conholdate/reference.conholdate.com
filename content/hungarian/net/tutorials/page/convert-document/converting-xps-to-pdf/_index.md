@@ -37,7 +37,7 @@ Határozza meg a könyvtár elérési útját, ahol a dokumentumokat tárolja:
 string dataDir = "Your Document Directory";
 ```
 
- Mindenképpen cserélje ki`"Your Document Directory"` az XPS-dokumentumot tartalmazó könyvtár tényleges elérési útjával.
+ Ügyeljen arra, hogy cserélje ki`"Your Document Directory"` az XPS-dokumentumot tartalmazó könyvtár tényleges elérési útjával.
 
 ### 3. lépés: Nyissa meg a PDF- és XPS-folyamokat
 
@@ -68,7 +68,7 @@ PdfSaveOptions options = new PdfSaveOptions()
     JpegQualityLevel = 100, // Állítsa be a JPEG minőségi szintet
     ImageCompression = PdfImageCompression.Jpeg, // Használjon JPEG tömörítést a képekhez
     TextCompression = PdfTextCompression.Flate, // Lapos tömörítés alkalmazása a szöveghez
-    PageNumbers = new int[] { 1, 2, 6 } // Adja meg a belefoglalni kívánt oldalszámokat
+    PageNumbers = new int[] { 1, 2, 6 } // Adja meg a felvenni kívánt oldalszámokat
 };
 ```
 

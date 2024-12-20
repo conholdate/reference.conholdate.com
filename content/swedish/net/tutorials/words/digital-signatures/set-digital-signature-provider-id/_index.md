@@ -15,7 +15,7 @@ Hej! Om du vill lägga till en digital signatur i ditt Word-dokument med ett spe
 
 Innan du dyker in, se till att du har följande:
 
-1.  Aspose.Words för .NET Library:[Ladda ner den här](https://releases.aspose.com/words/net/).
+1. Aspose.Words för .NET Library:[Ladda ner den här](https://releases.aspose.com/words/net/).
 2. Utvecklingsmiljö: Visual Studio eller någon C#-kompatibel IDE.
 3.  Word-dokument: Ett dokument med en signaturrad (t.ex.`Signature line.docx`).
 4.  Digitalt certifikat: A`.pfx` certifikatfil (t.ex.`morzal.pfx`).

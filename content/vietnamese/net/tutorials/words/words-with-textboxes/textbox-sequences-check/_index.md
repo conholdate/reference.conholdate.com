@@ -15,7 +15,7 @@ Xin chào, các nhà phát triển và người đam mê tài liệu! 🌟 Bạn
 
 Trước khi tìm hiểu mã, hãy đảm bảo bạn có những điều sau:
 
-1.  Aspose.Words cho Thư viện .NET: Tải xuống phiên bản mới nhất[đây](https://releases.aspose.com/words/net/).
+1. Aspose.Words cho Thư viện .NET: Tải xuống phiên bản mới nhất[đây](https://releases.aspose.com/words/net/).
 2. Môi trường phát triển: Môi trường tương thích với .NET như Visual Studio.
 3. Kiến thức cơ bản về C#: Sự quen thuộc với cú pháp C# sẽ rất hữu ích.
 4. Tài liệu mẫu: Sẽ hữu ích hơn nếu có sẵn tài liệu Word, nhưng chúng ta sẽ tạo mọi thứ từ đầu trong ví dụ này.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 Trong đoạn trích này:
 - `ShapeType.TextBox` chỉ rõ rằng chúng ta đang tạo hình hộp văn bản.
-- `textBox`là trường hợp hộp văn bản thực tế mà chúng ta sẽ thao tác.
+- `textBox` là trường hợp hộp văn bản thực tế mà chúng ta sẽ thao tác.
 
 ## Bước 3: Kiểm tra trình tự các hộp văn bản
 
@@ -126,7 +126,7 @@ Biết được trình tự cho phép bạn quản lý luồng nội dung hợp 
 Có, các hộp văn bản có thể được liên kết theo nhiều cách khác nhau, miễn là cách sắp xếp đó có ý nghĩa với nội dung của bạn.
 
 ### Làm thế nào để hủy liên kết hộp văn bản khỏi chuỗi?
- Bạn có thể thiết lập nó`Next` hoặc`Previous` thuộc tính để`null` khi cần thiết.
+ Bạn có thể thiết lập nó`Next` hoặc`Previous` thuộc tính để`null`khi cần thiết.
 
 ### Có thể định dạng văn bản bên trong hộp văn bản được liên kết theo cách khác không?
 Hoàn toàn có thể! Bạn có thể áp dụng các kiểu độc lập cho nội dung của từng hộp văn bản, mang lại sự linh hoạt trong thiết kế.

@@ -31,7 +31,7 @@ using System.IO;
 
 ## ขั้นตอนที่ 1: เปิดสตรีม ZIP อินพุตและเอาต์พุต
 
-ขั้นแรก คุณจะต้องเปิดสตรีมสำหรับอินพุตและเอาต์พุตไฟล์เก็บถาวร Zip แทนที่`"Your Input Directory"` และ`"Your Output Directory"` ตามเส้นทางที่คุณระบุ
+ ขั้นแรก คุณจะต้องเปิดสตรีมสำหรับอินพุตและเอาต์พุตไฟล์เก็บถาวร Zip แทนที่`"Your Input Directory"` และ`"Your Output Directory"` ตามเส้นทางที่คุณระบุ
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

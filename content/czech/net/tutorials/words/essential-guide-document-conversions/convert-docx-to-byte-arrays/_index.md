@@ -18,7 +18,7 @@ Než se ponoříte do kódu, ujistěte se, že máte následující předpoklady
 - Základní znalost C# a .NET frameworku.
 - Visual Studio nainstalované na vašem vývojovém počítači.
 -  Knihovna Aspose.Words for .NET, kterou si můžete stáhnout[zde](https://releases.aspose.com/words/net/).
--  Platná licence pro Aspose.Words. Pokud ještě žádnou nemáte, můžete získat dočasnou licenci[zde](https://purchase.conholdate.com/temporary-license/).
+- Platná licence pro Aspose.Words. Pokud ještě žádnou nemáte, můžete získat dočasnou licenci[zde](https://purchase.conholdate.com/temporary-license/).
 
 ## Importovat jmenné prostory
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Nyní můžete pracovat s docFromBytes podle potřeby
 }
 ```
-1.  Vytvoření Memory Stream: Vytvořte a`MemoryStream` z bajtového pole.
+1.  Vytvoření Memory Stream: Vytvořte a`MemoryStream` bajtového pole.
 2. Načítání dokumentu: Načtěte dokument přímo ze streamu a připravte jej na jakékoli další operace.
 
 ## Závěr

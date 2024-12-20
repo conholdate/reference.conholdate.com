@@ -2,7 +2,7 @@
 title: A fejléc és lábléc megvalósítása az Aspose.Cells segítségével .NET-hez
 linktitle: A fejléc és lábléc megvalósítása az Aspose.Cells segítségével .NET-hez
 second_title: Aspose.Cells .NET Excel Processing API
-description: Fedezze fel, hogyan javíthatja Excel-dokumentumait a fejlécek és láblécek programozott testreszabásával az Aspose.Cells for .NET segítségével. Ez az átfogó útmutató végigvezeti Önt minden lépésen – a munkafüzet beállításától a munkalap nevének dinamikus beszúrásáig.
+description: Fedezze fel, hogyan javíthatja Excel-dokumentumait a fejlécek és láblécek programozott testreszabásával az Aspose.Cells for .NET használatával. Ez az átfogó útmutató végigvezeti Önt minden lépésen – a munkafüzet beállításától a munkalap nevének dinamikus beszúrásáig.
 type: docs
 weight: 22
 url: /hu/net/tutorials/cells/mastering-worksheet-page-setup-features/implement-header-footer/

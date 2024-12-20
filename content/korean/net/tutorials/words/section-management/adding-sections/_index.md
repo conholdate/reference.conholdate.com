@@ -15,7 +15,7 @@ url: /ko/net/tutorials/words/section-management/adding-sections/
 
 시작하기 전에 다음 사항이 있는지 확인하세요.
 
-1.  Aspose.Words for .NET 라이브러리: 최신 버전 다운로드[여기](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET 라이브러리: 최신 버전 다운로드[여기](https://releases.aspose.com/words/net/).
 2. 개발 환경: Visual Studio와 같은 .NET 호환 IDE.
 3. 기본 C# 지식: C# 구문에 익숙하면 도움이 됩니다.
 4. 샘플 Word 문서(선택 사항): 처음부터 만들겠지만, 샘플이 있으면 테스트에 도움이 될 수 있습니다.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 이제 새로운 섹션이 생겼으니 여기에 몇 가지 콘텐츠를 채워보겠습니다. 
 
- 새 섹션에 콘텐츠를 추가하려면 다음을 이동해야 합니다.`DocumentBuilder`해당 섹션으로 커서를 이동:
+ 새 섹션에 콘텐츠를 추가하려면 다음을 이동해야 합니다.`DocumentBuilder` 해당 섹션으로 커서를 이동:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ builder.Writeln("Welcome to the new section!");
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- 반드시 교체하세요`"YourPath/YourDocument.docx"` 문서를 저장하려는 원하는 파일 경로와 함께. 이 줄은 모든 섹션과 내용을 그대로 유지한 채로 Word 파일을 저장합니다.
+ 반드시 교체하세요`"YourPath/YourDocument.docx"`문서를 저장하려는 원하는 파일 경로와 함께. 이 줄은 모든 섹션과 내용을 그대로 유지한 채로 Word 파일을 저장합니다.
 
 ## 결론
 

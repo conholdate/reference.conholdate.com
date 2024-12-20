@@ -17,7 +17,7 @@ Voordat we beginnen, zorg ervoor dat u de volgende hulpmiddelen hebt:
 
 1.  Aspose.Cells voor .NET-bibliotheek: Download de bibliotheek[hier](https://releases.aspose.com/cells/net/).
 2. Visual Studio of een vergelijkbare IDE: hiermee schrijft en voert u uw .NET-code uit.
-3.  Aspose-licentie: Om evaluatiebeperkingen te omzeilen, kunt u:[Vraag een gratis proefperiode aan](https://releases.aspose.com/) of een verkrijgen[tijdelijke licentie](https://purchase.aspose.com/temporary-license/).
+3.  Aspose-licentie: Om evaluatiebeperkingen te omzeilen, kunt u:[Vraag een gratis proefperiode aan](https://releases.aspose.com/) of verkrijg een[tijdelijke licentie](https://purchase.aspose.com/temporary-license/).
 
 ## Pakketten importeren
 

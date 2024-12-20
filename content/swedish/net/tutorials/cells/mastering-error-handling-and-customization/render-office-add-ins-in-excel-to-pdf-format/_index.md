@@ -61,7 +61,7 @@ string outputDir = "Your Document Directory";
 Workbook wb = new Workbook(sourceDir + "sampleRenderOfficeAdd-Ins.xlsx");
 ```
 
- Se till att din Excel-fil har ett namn`sampleRenderOfficeAdd-Ins.xlsx` och finns i din angivna källkatalog. Att ladda arbetsboken är som att öppna en bok; du kan nu komma åt allt innehåll!
+ Se till att din Excel-fil har ett namn`sampleRenderOfficeAdd-Ins.xlsx` och finns i din angivna källkatalog. Att ladda arbetsboken är ungefär som att öppna en bok; du kan nu komma åt allt innehåll!
 
 ## Steg 3: Spara arbetsboken som PDF
 

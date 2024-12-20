@@ -92,7 +92,7 @@ V tomto tutoriálu jsme úspěšně prozkoumali, jak zkontrolovat, zda je nastav
 ## FAQ
 
 ### Co je Aspose.Cells?
-Aspose.Cells je všestranná knihovna navržená pro manipulaci s dokumenty aplikace Excel v aplikacích .NET, která umožňuje pokročilou správu souborů a funkčnost.
+Aspose.Cells je všestranná knihovna navržená pro manipulaci s dokumenty aplikace Excel v aplikacích .NET, umožňující pokročilou správu souborů a funkčnost.
 
 ### Existuje bezplatná verze Aspose.Cells?
 Ano, Aspose nabízí bezplatnou zkušební verzi, kterou si můžete stáhnout[zde](https://releases.aspose.com/cells/net/).

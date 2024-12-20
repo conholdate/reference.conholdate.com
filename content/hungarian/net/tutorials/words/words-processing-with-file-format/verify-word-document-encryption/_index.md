@@ -22,7 +22,7 @@ Mielőtt belevágnánk a kódba, győződjünk meg arról, hogy mindennel rendel
 
 ## 1. lépés: Importálja a szükséges névtereket
 
-A kezdéshez importálnia kell a szükséges névtereket. Adja hozzá a következő sort a kódhoz:
+kezdéshez importálnia kell a szükséges névtereket. Adja hozzá a következő sort a kódhoz:
 
 ```csharp
 using Aspose.Words;
@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## Következtetés
 
-És ennyi! Sikeresen ellenőrizte egy Word-dokumentum titkosítási állapotát az Aspose.Words for .NET használatával. Lenyűgöző, hogy néhány soros kód mennyire képes leegyszerűsíteni az ilyen feladatokat. Ha bármilyen kérdése van, vagy bármilyen problémája van, forduljon bizalommal a[Aspose támogatási fórum](https://forum.aspose.com/c/words/8).
+ És ennyi! Sikeresen ellenőrizte egy Word-dokumentum titkosítási állapotát az Aspose.Words for .NET használatával. Lenyűgöző, hogy néhány soros kód mennyire képes leegyszerűsíteni az ilyen feladatokat. Ha bármilyen kérdése van, vagy bármilyen problémája van, forduljon bizalommal a[Aspose támogatási fórum](https://forum.aspose.com/c/words/8).
 
 ## GYIK
 

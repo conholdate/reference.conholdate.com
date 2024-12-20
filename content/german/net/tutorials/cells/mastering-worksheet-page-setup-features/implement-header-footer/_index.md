@@ -50,7 +50,7 @@ Workbook excel = new Workbook();
  Jedes Arbeitsblatt in Aspose.Cells hat eine`PageSetup` Eigenschaft, die Layout-Funktionen, einschließlich Kopf- und Fußzeilen, steuert. Erhalten Sie die`PageSetup` Objekt für Ihr Arbeitsblatt:
 
 ```csharp
-// Holen Sie sich den Verweis auf das PageSetup des ersten Arbeitsblatts
+// Erhalten Sie den Verweis auf das PageSetup des ersten Arbeitsblatts
 PageSetup pageSetup = excel.Worksheets[0].PageSetup;
 ```
 

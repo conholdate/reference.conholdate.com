@@ -2,7 +2,7 @@
 title: 將俄語設定為預設編輯語言
 linktitle: 將俄語設定為預設編輯語言
 second_title: Aspose.Words 文件處理 API
-description: 了解如何使用 Aspose.Words for .NET 將俄語設定為預設編輯語言來自訂 Word 文件。這個逐步指南。
+description: 了解如何使用 Aspose.Words for .NET 將俄語設定為預設編輯語言來自訂 Word 文件。本逐步指南。
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/words/mastering-document-options-and-settings/set-russian-as-default-edit-language/

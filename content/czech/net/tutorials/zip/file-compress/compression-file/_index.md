@@ -30,7 +30,7 @@ using Aspose.Zip.Cpio;
 
 ## Krok 1: Nastavte adresář dokumentů
 
- Dále definujte adresář, kde jsou umístěny vaše dokumenty. Nahradit`"Your Document Directory"` se skutečnou cestou k vašim dokumentům:
+Dále definujte adresář, kde jsou umístěny vaše dokumenty. Nahradit`"Your Document Directory"` se skutečnou cestou k vašim dokumentům:
 
 ```csharp
 string dataDir = "Your Document Directory";

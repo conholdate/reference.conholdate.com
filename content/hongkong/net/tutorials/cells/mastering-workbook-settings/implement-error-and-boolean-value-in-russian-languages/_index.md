@@ -122,7 +122,7 @@ public class ImplementErrorsAndBooleanValueInRussian
 
 ### 什麼是`GlobalizationSettings` class used for in Aspose.Cells for .NET?
 
-`GlobalizationSettings`允許您自訂錯誤值、布林值和其他區域特定資訊在電子表格中的顯示方式。此功能對於迎合國際受眾或以特定語言呈現資料特別有用。
+`GlobalizationSettings`允許您自訂錯誤值、布林值和其他區域特定資訊在電子表格中的顯示方式。此功能對於迎合國際受眾或以特定語言呈現數據特別有益。
 
 ### 我可以使用嗎`RussianGlobalization` with other Aspose.Cells features?
 

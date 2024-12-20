@@ -56,7 +56,7 @@ Document secondDoc = new Document(MyDir + "SupportingDocument.docx");
 
 ## Steg 3: Initiera AI-modellen för sammanfattning
 
-För att göra en sammanfattning, ställ in en AI-modell. Konfigurera först API-nyckeln i dina miljövariabler för att komma åt modellen.
+För att sammanfatta, ställ in en AI-modell. Konfigurera först API-nyckeln i dina miljövariabler för att komma åt modellen.
 
 ```csharp
 string apiKey = Environment.GetEnvironmentVariable("API_KEY");

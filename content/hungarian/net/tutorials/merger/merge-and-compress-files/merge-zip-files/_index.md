@@ -52,7 +52,7 @@ using (var merger = new Merger("Path_to_Source_ZIP"))
 }
 ```
 
- Mindenképpen cserélje ki`"Path_to_Source_ZIP"` és`"Path_to_Another_ZIP"` az egyesíteni kívánt ZIP fájlok tényleges elérési útjával.
+ Ügyeljen arra, hogy cserélje ki`"Path_to_Source_ZIP"` és`"Path_to_Another_ZIP"` az egyesíteni kívánt ZIP fájlok tényleges elérési útjával.
 
 ## 3. lépés: Mentse el az egyesített ZIP-fájlt
 

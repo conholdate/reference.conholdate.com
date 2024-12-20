@@ -88,7 +88,7 @@ Een geïndexeerde afbeelding van 1 Bpp (1 bit per pixel) is een zwart-witafbeeld
  Ja, voor volledige functionaliteit is een licentie vereist. U kunt een[tijdelijke licentie hier](https://purchase.aspose.com/temporary-license/).
 
 ### Naar welke andere afbeeldingsformaten kan ik mijn Word-document converteren?
- Aspose.Words ondersteunt verschillende formaten, waaronder JPEG, BMP en TIFF. Verander gewoon de`SaveFormat`in de`ImageSaveOptions` naar het door u gewenste formaat.
+ Aspose.Words ondersteunt verschillende formaten, waaronder JPEG, BMP en TIFF. Verander gewoon de`SaveFormat` in de`ImageSaveOptions`naar het door u gewenste formaat.
 
 ### Waar kan ik meer documentatie vinden over Aspose.Words voor .NET?
  Voor uitgebreide documentatie, bezoek de[Aspose.Words voor .NET-documentatiepagina](https://reference.aspose.com/words/net/).

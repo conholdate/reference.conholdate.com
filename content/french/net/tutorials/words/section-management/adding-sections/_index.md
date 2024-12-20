@@ -15,7 +15,7 @@ Avez-vous déjà eu à créer un document Word nécessitant une organisation cla
 
 Avant de commencer, assurez-vous de disposer des éléments suivants :
 
-1.  Bibliothèque Aspose.Words pour .NET : téléchargez la dernière version[ici](https://releases.aspose.com/words/net/).
+1. Bibliothèque Aspose.Words pour .NET : téléchargez la dernière version[ici](https://releases.aspose.com/words/net/).
 2. Environnement de développement : un IDE compatible .NET, tel que Visual Studio.
 3. Connaissances de base de C# : une connaissance de la syntaxe C# sera utile.
 4. Exemple de document Word (facultatif) : Bien que nous en créions un à partir de zéro, disposer d'un échantillon peut être utile pour les tests.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Maintenant que nous avons une nouvelle section, remplissons-la avec du contenu. 
 
- Pour ajouter du contenu à la nouvelle section, nous devons déplacer le`DocumentBuilder`curseur vers cette section :
+ Pour ajouter du contenu à la nouvelle section, nous devons déplacer le`DocumentBuilder` curseur vers cette section :
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Enfin, sauvegardons le document pour garantir que tout notre travail acharné es
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Assurez-vous de remplacer`"YourPath/YourDocument.docx"` avec le chemin d'accès au fichier souhaité où vous souhaitez enregistrer le document. Cette ligne enregistre votre fichier Word avec toutes les sections et le contenu intacts.
+ Assurez-vous de remplacer`"YourPath/YourDocument.docx"`avec le chemin d'accès au fichier souhaité où vous souhaitez enregistrer le document. Cette ligne enregistre votre fichier Word avec toutes les sections et le contenu intacts.
 
 ## Conclusion
 

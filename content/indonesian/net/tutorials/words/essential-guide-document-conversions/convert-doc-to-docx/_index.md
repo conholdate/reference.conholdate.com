@@ -68,6 +68,6 @@ Ya, Aspose.Words mendukung banyak format termasuk PDF, HTML, RTF, TXT, dan banya
  Anda dapat membeli lisensi[Di Sini](https://purchase.conholdate.com/buy).
 
 ### Di mana saya bisa mendapatkan dukungan untuk Aspose.Words?
- Aspose.Kata-kata[forum dukungan](https://forum.aspose.com/c/words/8) tersedia untuk bantuan.
+Aspose.Kata-kata[forum dukungan](https://forum.aspose.com/c/words/8) tersedia untuk bantuan.
 
 

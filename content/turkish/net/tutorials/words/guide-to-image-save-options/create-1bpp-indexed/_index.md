@@ -88,7 +88,7 @@ Tebrikler! Aspose.Words for .NET kullanarak bir Word belgesini 1Bpp dizinli bir 
  Evet, tam işlevsellik için bir lisans gereklidir. Bir lisans edinebilirsiniz[burada geçici lisans](https://purchase.aspose.com/temporary-license/).
 
 ### Word belgemi hangi diğer görüntü biçimlerine dönüştürebilirim?
- Aspose.Words, JPEG, BMP ve TIFF dahil olmak üzere çeşitli formatları destekler. Sadece`SaveFormat`içinde`ImageSaveOptions` İstediğiniz formata.
+ Aspose.Words, JPEG, BMP ve TIFF dahil olmak üzere çeşitli formatları destekler. Sadece`SaveFormat` içinde`ImageSaveOptions`İstediğiniz formata.
 
 ### Aspose.Words for .NET hakkında daha fazla dokümanı nerede bulabilirim?
  Kapsamlı dokümantasyon için şu adresi ziyaret edin:[Aspose.Words for .NET dokümantasyon sayfası](https://reference.aspose.com/words/net/).

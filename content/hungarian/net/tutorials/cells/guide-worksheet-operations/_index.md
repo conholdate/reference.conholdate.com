@@ -29,7 +29,7 @@ Próbálkozott már Excel-táblázat HTML-formátumba konvertálásával, de nem
 
 ## Szálas megjegyzések kibontása  
 
- Ha együttműködő Excel-lapokkal dolgozik, a szálas megjegyzések kivonatolása életmentő lehet. Legyen szó dokumentálásról, elemzésről vagy archiválásról, az Aspose.Cells lehetővé teszi, hogy programozottan lekérje az összes megjegyzést strukturált formátumban. Részletes útmutatónk leegyszerűsíti ezt a folyamatot könnyen követhető utasításokkal és mintakóddal.[Olvass tovább itt](./extract-threaded-comments/).
+ Ha együttműködő Excel-lapokkal dolgozik, a szálas megjegyzések kivonatolása életmentő lehet. Legyen szó dokumentálásról, elemzésről vagy archiválásról, az Aspose.Cells lehetővé teszi, hogy programozottan lekérje az összes megjegyzést strukturált formátumban. Részletes útmutatónk leegyszerűsíti ezt a folyamatot könnyen követhető utasításokkal és mintakóddal.[Bővebben itt](./extract-threaded-comments/).
 
 ## Útmutató a munkalap-műveletek oktatóanyagaihoz
 ### [Képbeállítások beállítása HTML-hez az Aspose.Cells segítségével a .NET-ben](./setting-image-preferences/)

@@ -89,7 +89,7 @@ Aspose.Words for .NET to zaawansowana biblioteka umożliwiająca programistom pr
  Możesz pobrać Aspose.Words dla .NET z[Tutaj](https://releases.aspose.com/words/net/). Postępuj zgodnie z instrukcjami instalacji podanymi w dokumentacji.
 
 ### Czy mogę używać Aspose.Words dla .NET bez licencji?
- Tak, ale będzie mieć pewne ograniczenia. Aby uzyskać pełną funkcjonalność, możesz kupić licencję[Tutaj](https://purchase.aspose.com/buy) lub uzyskaj tymczasową licencję[Tutaj](https://purchase.aspose.com/temporary-license/).
+ Tak, ale będzie miał pewne ograniczenia. Aby uzyskać pełną funkcjonalność, możesz kupić licencję[Tutaj](https://purchase.aspose.com/buy) lub uzyskaj tymczasową licencję[Tutaj](https://purchase.aspose.com/temporary-license/).
 
 ### Dlaczego moje czcionki nie są prawidłowo wyświetlane w HTML?
 Ten problem może wystąpić, jeśli czcionki nie zostaną prawidłowo rozwiązane podczas konwersji. Ustawienie`ResolveFontNames = true` W`HtmlSaveOptions` może pomóc to naprawić.

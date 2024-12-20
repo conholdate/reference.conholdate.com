@@ -93,7 +93,7 @@ workbook.Worksheets.RemoveAt(0);
 workbook.Save(dataDir + "output.out.xls");
 ```
 
-您可以選擇透過變更來使用新名稱儲存它`"output.out.xls"`任何你想要的。想像一下，點擊 Word 文件上的「儲存」按鈕 — 您希望保留所做的修改。
+您可以選擇透過變更來使用新名稱儲存它`"output.out.xls"`任何你想要的。想像一下，點擊 Word 文件上的「儲存」按鈕 - 您想要保留所做的修改。
 
 ## 第5步：關閉文件流
 

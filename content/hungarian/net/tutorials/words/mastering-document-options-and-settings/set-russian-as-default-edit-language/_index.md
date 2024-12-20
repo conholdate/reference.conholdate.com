@@ -2,7 +2,7 @@
 title: Állítsa be az oroszt alapértelmezett szerkesztési nyelvként
 linktitle: Állítsa be az oroszt alapértelmezett szerkesztési nyelvként
 second_title: Aspose.Words Document Processing API
-description: Ismerje meg, hogyan szabhatja testre Word-dokumentumait az orosz nyelv alapértelmezett szerkesztési nyelvként történő beállításával az Aspose.Words for .NET használatával. Ez a lépésenkénti útmutató.
+description: Ismerje meg, hogyan szabhatja testre Word-dokumentumait az orosz nyelv alapértelmezett szerkesztési nyelvként történő beállításával az Aspose.Words for .NET használatával. Ez a lépésről-lépésre útmutató.
 type: docs
 weight: 10
 url: /hu/net/tutorials/words/mastering-document-options-and-settings/set-russian-as-default-edit-language/
@@ -42,7 +42,7 @@ LoadOptions loadOptions = new LoadOptions();
 
 ### Állítsa az alapértelmezett szerkesztési nyelvet oroszra
 
- Ezután állítsa be a`DefaultEditingLanguage` ingatlan oroszra:
+Ezután állítsa be a`DefaultEditingLanguage` ingatlan oroszra:
 
 ```csharp
 loadOptions.LanguagePreferences.DefaultEditingLanguage = EditingLanguage.Russian;
@@ -99,7 +99,7 @@ Ez a kimenet tájékoztatja Önt arról, hogy az alapértelmezett szerkesztési 
 
 ## Következtetés
 
- Az Aspose.Words for .NET használatával az orosz alapértelmezett szerkesztési nyelvként való beállítása Word-dokumentumban egy egyszerű folyamat. Konfigurálással`LoadOptions`, a dokumentum betöltése és a nyelvi beállítások ellenőrzése révén a dokumentumokat úgy szabhatja, hogy azok hatékonyan megfeleljenek a közönség nyelvi igényeinek.
+Az Aspose.Words for .NET használatával az orosz alapértelmezett szerkesztési nyelvként való beállítása Word-dokumentumban egy egyszerű folyamat. Konfigurálással`LoadOptions`, a dokumentum betöltése és a nyelvi beállítások ellenőrzése révén a dokumentumokat úgy szabhatja, hogy azok hatékonyan megfeleljenek a közönség nyelvi igényeinek.
 
 ## GYIK
 
@@ -121,4 +121,4 @@ Az Aspose.Words for .NET egy átfogó könyvtár Word-dokumentumok programozott 
 
 ### Hogyan kaphatok támogatást az Aspose.Words for .NET-hez?
 
- Támogatásért keresse fel a[Aspose támogatás](https://forum.aspose.com/c/words/8) fórum, ahol kérdéseket tehet fel, és segítséget kaphat a közösségtől és az Aspose fejlesztőitől.
+ Támogatásért keresse fel a[Aspose támogatás](https://forum.aspose.com/c/words/8)fórum, ahol kérdéseket tehet fel, és segítséget kaphat a közösségtől és az Aspose fejlesztőitől.

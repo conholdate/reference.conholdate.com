@@ -61,7 +61,7 @@ Workbook wb = new Workbook(sourceDir + "sampleErrorExcel2Pdf.xlsx");
 
 ## 4. lépés: Adja meg a PDF mentési beállításokat
 
- Itt van a legfontosabb lépés: konfigurálja a`PdfSaveOptions` hogy figyelmen kívül hagyja a hibákat az átalakítás során. Állítsa be a`IgnoreError` tulajdonát`true`:
+ Íme a legfontosabb lépés: konfigurálja a`PdfSaveOptions` hogy figyelmen kívül hagyja a hibákat az átalakítás során. Állítsa be a`IgnoreError` tulajdonát`true`:
 
 ```csharp
 // Adja meg a PDF mentési beállításokat – a hibák figyelmen kívül hagyása

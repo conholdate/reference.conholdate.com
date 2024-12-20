@@ -121,7 +121,7 @@ Console.WriteLine("Successfully added a digital signature to the existing signed
 
 ### 什麼是數位簽章？
 
-數位簽名是一種數學方案，用於驗證數位訊息或文件的真實性和完整性，確保它們沒有被更改並確認簽名者的身份。
+數位簽名是一種數學方案，用於驗證數位訊息或文件的真實性和完整性，確保它們未被更改並確認簽名者的身份。
 
 ### 我需要特殊憑證來建立數位簽章嗎？
 

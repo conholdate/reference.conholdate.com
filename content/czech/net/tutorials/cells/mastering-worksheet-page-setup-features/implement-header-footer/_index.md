@@ -92,7 +92,7 @@ pageSetup.SetHeader(2, "&\"Times New Roman,Bold\"&12&F");
 
  Zde,`&F` představuje název souboru a`&12` nastaví velikost písma na 12.
 
-## Krok 6: Přidejte vlastní text do sekce levé zápatí
+## Krok 6: Přidejte vlastní text do části levé zápatí
 
 Nyní nastavíme levé zápatí vlastní text a konkrétní styl písma.
 

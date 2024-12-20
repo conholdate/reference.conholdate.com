@@ -30,7 +30,7 @@ using Aspose.Zip.Cpio;
 
 ## 1단계: 문서 디렉토리 설정
 
- 다음으로, 문서가 있는 디렉토리를 정의합니다. 바꾸기`"Your Document Directory"` 문서의 실제 경로:
+다음으로, 문서가 있는 디렉토리를 정의합니다. 바꾸기`"Your Document Directory"` 문서의 실제 경로:
 
 ```csharp
 string dataDir = "Your Document Directory";

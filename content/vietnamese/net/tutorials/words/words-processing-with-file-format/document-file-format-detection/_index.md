@@ -16,7 +16,7 @@ Quản lý và sắp xếp hiệu quả nhiều định dạng tài liệu khác
 Trước khi bắt đầu, hãy đảm bảo đáp ứng các yêu cầu sau:
 
 1. Aspose.Words cho Thư viện .NET  
-    Tải xuống thư viện từ[Aspose Words phát hành](https://releases.aspose.com/words/net/) và kích hoạt nó bằng giấy phép hợp lệ. Đối với giấy phép tạm thời, hãy truy cập[Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/).
+    Tải xuống thư viện từ[Aspose Words phát hành](https://releases.aspose.com/words/net/)và kích hoạt nó bằng giấy phép hợp lệ. Đối với giấy phép tạm thời, hãy truy cập[Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/).
 
 2. Môi trường phát triển  
    Sử dụng Visual Studio (bất kỳ phiên bản nào gần đây) đã cài đặt .NET Framework.
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- Các`FileFormatUtil.DetectFileFormat` Phương pháp này đóng vai trò trung tâm trong việc xác định đặc điểm của tài liệu.
+ Các`FileFormatUtil.DetectFileFormat`Phương pháp này đóng vai trò trung tâm trong việc xác định đặc điểm của tài liệu.
 
 ## Phần kết luận
 

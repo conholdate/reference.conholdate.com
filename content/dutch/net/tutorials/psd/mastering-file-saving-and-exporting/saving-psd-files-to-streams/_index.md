@@ -9,7 +9,7 @@ url: /nl/net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-
 ---
 ## Invoering
 
-In het snelle domein van .NET-ontwikkeling, komt Aspose.PSD naar voren als een onschatbare bibliotheek voor nauwkeurige en efficiënte beeldverwerking. Als u graag wilt leren hoe u afbeeldingen kunt opslaan in een stream met Aspose.PSD voor .NET, dan biedt deze gids u stapsgewijze instructies die eenvoudig te volgen zijn.
+In het snelle domein van .NET-ontwikkeling komt Aspose.PSD naar voren als een onschatbare bibliotheek voor nauwkeurige en efficiënte beeldverwerking. Als u graag wilt leren hoe u afbeeldingen kunt opslaan in een stream met Aspose.PSD voor .NET, dan biedt deze gids u stapsgewijze instructies die eenvoudig te volgen zijn.
 
 ## Vereisten
 
@@ -47,7 +47,7 @@ Identificeer de locatie van uw PSD-bronbestand en waar u de afbeelding wilt opsl
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Pad naar uw PSD-bronbestand
-string destName = dataDir + "result.png";   //Pad voor het uitvoerafbeeldingsbestand
+string destName = dataDir + "result.png";   // Pad voor het uitvoerafbeeldingsbestand
 ```
 
 ## Stap 3: PSD-afbeelding laden en niet-gevonden lettertypen verwerken

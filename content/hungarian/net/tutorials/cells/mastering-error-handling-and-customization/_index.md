@@ -15,7 +15,7 @@ Szeretnél magasabb szintre emelni Excel játékodat? Az Aspose.Cells for .NET a
 
 Gondolkozott már azon, hogyan őrizheti meg ezeket a praktikus Office-bővítményeket Excel-fájlok PDF-formátumba konvertálásakor? Ez az oktatóanyag végigvezeti Önt az Excel-fájlokban található Office-bővítmények közvetlenül a végső PDF-kimenetben való megjelenítésének minden lépésén. Az Aspose.Cells for .NET segítségével ez nem csak lehetséges, hanem erőfeszítés nélkül is!  
 
- Az útmutató kódrészleteket és tippeket is tartalmaz, amelyek biztosítják, hogy a konvertált PDF-ek professzionálisan nézzenek ki, és megőrizzék eredeti funkciójukat. Szeretné elsajátítani ezt a képességet?[Olvass tovább itt](./render-office-add-ins-in-excel-to-pdf-format/).  
+ Az útmutató kódrészleteket és tippeket is tartalmaz, amelyek biztosítják, hogy a konvertált PDF-ek professzionálisan nézzenek ki, és megőrizzék eredeti funkciójukat. Szeretné elsajátítani ezt a képességet?[Bővebben itt](./render-office-add-ins-in-excel-to-pdf-format/).  
 
 ## Hagyja figyelmen kívül a hibákat az Excel PDF formátumban való megjelenítése során  
 

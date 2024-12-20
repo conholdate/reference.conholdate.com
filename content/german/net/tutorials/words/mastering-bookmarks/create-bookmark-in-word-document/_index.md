@@ -102,7 +102,7 @@ Das Erstellen von Lesezeichen in einem Word-Dokument mit Aspose.Words für .NET 
 Ja! Sie können mehrere Lesezeichen erstellen und deren Hierarchie beim Speichern als PDF definieren.
 
 ### Wie aktualisiere ich den Text eines Lesezeichens?
- Verwenden`DocumentBuilder.MoveToBookmark` um zum Lesezeichen zu navigieren und den Text zu aktualisieren.
+ Verwenden`DocumentBuilder.MoveToBookmark`um zum Lesezeichen zu navigieren und den Text zu aktualisieren.
 
 ### Ist es möglich, ein Lesezeichen zu löschen?
  Auf jeden Fall! Nutzen Sie die`Bookmarks.Remove` Methode, indem Sie den Namen des Lesezeichens angeben.

@@ -42,7 +42,7 @@ using (Metadata metadata = new Metadata("YourInputFile.pdf"))
 }
 ```
 
- Σημείωση: Αντικατάσταση`"YourInputFile.pdf"` με τη διαδρομή του αρχείου PDF σας.
+ Σημείωση: Αντικαταστήστε`"YourInputFile.pdf"` με τη διαδρομή του αρχείου PDF σας.
 
 ## Βήμα 3: Ανάκτηση και εμφάνιση προσαρμοσμένων ιδιοτήτων
 

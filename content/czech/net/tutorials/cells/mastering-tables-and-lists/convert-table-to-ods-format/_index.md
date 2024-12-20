@@ -68,7 +68,7 @@ Musíte otevřít soubor Excel obsahující tabulku, kterou chcete převést.
 Workbook wb = new Workbook(sourceDir + "SampleTable.xlsx");
 ```
 
- Tím se inicializuje nový`Workbook` objekt s cestou k souboru aplikace Excel. Ujistěte se, že "SampleTable.xlsx" odpovídá názvu vašeho souboru.
+ Tím se inicializuje nový`Workbook` objekt s cestou k souboru Excel. Ujistěte se, že "SampleTable.xlsx" odpovídá názvu vašeho souboru.
 
 ## Krok 3: Uložit jako soubor ODS
 

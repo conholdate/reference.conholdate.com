@@ -111,7 +111,7 @@ Velikost poloměru určuje rozsah činnosti filtru, zatímco hodnota vyhlazení 
 
 ### Kde najdu podporu a další zdroje?
 
- Pro dotazy a pomoc,[Fórum Aspose.PSD](https://forum.aspose.com/c/psd/34)je skvělým zdrojem pro spojení s komunitou a týmem podpory.
+ Pro dotazy a pomoc,[Fórum Aspose.PSD](https://forum.aspose.com/c/psd/34) je skvělým zdrojem pro spojení s komunitou a týmem podpory.
 
 ### Je k dispozici bezplatná zkušební verze pro Aspose.PSD?
 

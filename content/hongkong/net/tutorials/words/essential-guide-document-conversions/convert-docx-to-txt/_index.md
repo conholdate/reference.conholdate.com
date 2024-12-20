@@ -76,7 +76,7 @@ doc.Save(dataDir + "BaseConversions.DocxToTxt.txt");
 
 ## 常見問題解答
 
-### 我可以將多個 DOCX 檔案批次轉換為 TXT 嗎？
+### 我可以將多個 DOCX 檔案批量轉換為 TXT 嗎？
 
 絕對地！您可以循環遍歷 DOCX 檔案的目錄，並使用上述相同的轉換步驟將每個檔案轉換為 TXT。
 

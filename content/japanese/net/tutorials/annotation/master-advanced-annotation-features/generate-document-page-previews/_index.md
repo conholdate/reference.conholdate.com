@@ -79,7 +79,7 @@ GroupDocs.Annotation for .NET を使用してドキュメント ページ プレ
 はい、GroupDocs.Annotation for .NET は、.NET Core や .NET Standard を含む複数のバージョンと互換性があります。
 
 ### GroupDocs.Annotation で生成された注釈の外観をカスタマイズできますか?
-もちろんです! GroupDocs.Annotation には、特定の要件に合わせて注釈の外観をカスタマイズするための幅広いカスタマイズ オプションが用意されています。
+もちろんです! GroupDocs.Annotation には、特定の要件に合わせて注釈の外観をカスタマイズするための広範なカスタマイズ オプションが用意されています。
 
 ### GroupDocs.Annotation は PDF 以外のドキュメント形式をサポートしていますか?
 はい、DOCX、XLSX、PPTX など、さまざまな形式をサポートしています。

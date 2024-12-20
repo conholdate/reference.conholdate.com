@@ -31,7 +31,7 @@ using System.IO;
 
 ## Passaggio 1: aprire i flussi ZIP di input e output
 
-Per prima cosa, dovrai aprire i flussi per gli archivi Zip di input e output. Sostituisci`"Your Input Directory"` E`"Your Output Directory"` con i percorsi specificati.
+ Per prima cosa, dovrai aprire i flussi per gli archivi Zip di input e output. Sostituisci`"Your Input Directory"` E`"Your Output Directory"` con i percorsi specificati.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

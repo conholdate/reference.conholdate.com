@@ -65,7 +65,7 @@ Nachdem das Dokument und das Zertifikat geladen wurden, ist es Zeit zum Untersch
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Diese Methode signiert das Dokument. Die Parameter sind der ursprüngliche Dokumentpfad, der gewünschte Pfad für das signierte Dokument und der Zertifikatsinhaber.
+- `DigitalSignatureUtil.Sign`: Diese Methode signiert das Dokument. Die Parameter sind der ursprüngliche Dokumentpfad, der gewünschte Pfad für das signierte Dokument und der Zertifikatsinhaber.
 
 ## Schritt 5: Speichern Sie das signierte Dokument
 

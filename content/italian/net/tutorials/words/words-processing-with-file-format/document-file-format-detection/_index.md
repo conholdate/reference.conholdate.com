@@ -16,7 +16,7 @@ Gestire e organizzare in modo efficiente vari formati di documenti è fondamenta
 Prima di iniziare, assicurati che siano soddisfatti i seguenti requisiti:
 
 1. Aspose.Words per la libreria .NET  
-    Scarica la libreria da[Le parole di Aspose vengono rilasciate](https://releases.aspose.com/words/net/) e attivarlo utilizzando una licenza valida. Per le licenze temporanee, visita[Licenza temporanea Aspose](https://purchase.aspose.com/temporary-license/).
+    Scarica la libreria da[Le parole di Aspose vengono rilasciate](https://releases.aspose.com/words/net/) attivarlo utilizzando una licenza valida. Per le licenze temporanee, visita[Licenza temporanea Aspose](https://purchase.aspose.com/temporary-license/).
 
 2. Ambiente di sviluppo  
    Utilizzare Visual Studio (qualsiasi versione recente) con .NET Framework installato.
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- IL`FileFormatUtil.DetectFileFormat` Il metodo è fondamentale per identificare le caratteristiche del documento.
+ IL`FileFormatUtil.DetectFileFormat`Il metodo è fondamentale per identificare le caratteristiche del documento.
 
 ## Conclusione
 

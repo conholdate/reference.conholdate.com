@@ -102,7 +102,7 @@ Vytváření záložek v dokumentu aplikace Word pomocí Aspose.Words for .NET j
 Ano! Při ukládání jako PDF můžete vytvořit více záložek a definovat jejich hierarchii.
 
 ### Jak aktualizuji text záložky?
- Použití`DocumentBuilder.MoveToBookmark` přejděte na záložku a aktualizujte text.
+ Použití`DocumentBuilder.MoveToBookmark`přejděte na záložku a aktualizujte text.
 
 ### Je možné smazat záložku?
  Absolutně! Použijte`Bookmarks.Remove` zadáním názvu záložky.

@@ -37,7 +37,7 @@ string outputDirectory = "Your Document Directory";
 ```
  Se till att byta ut`"Your Document Directory"` med den faktiska sökvägen du vill använda.
 
-## Steg 2: Ställ in sidfilssökvägsformat
+## Steg 2: Konfigurera sidfilssökvägsformat
 
 Definiera formatet för filsökvägarna för varje renderad sida:
 

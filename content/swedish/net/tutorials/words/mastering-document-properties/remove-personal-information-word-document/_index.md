@@ -17,7 +17,7 @@ Innan du dyker in i koden är det viktigt att se till att du har de nödvändiga
 
 ### Aspose.Words för .NET
 
-För att komma igång behöver du Aspose.Words för .NET. Om du inte redan har gjort det, ladda ner det från[webbplats](https://releases.aspose.com/words/net/) . Om du är ny på Aspose.Words kan du prova det gratis genom att ladda ner en[gratis provperiod](https://releases.aspose.com/).
+ För att komma igång behöver du Aspose.Words för .NET. Om du inte redan har gjort det, ladda ner den från[webbplats](https://releases.aspose.com/words/net/) Om du är ny på Aspose.Words kan du prova det gratis genom att ladda ner en[gratis provperiod](https://releases.aspose.com/).
 
 ### Utvecklingsmiljö
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Ladda dokumentet
 
-Därefter laddar vi in dokumentet i programmet. Detta kan göras med hjälp av`Document` klass som tillhandahålls av Aspose.Words. Följande kodavsnitt visar hur man laddar ett Word-dokument från den angivna katalogen.
+ Därefter laddar vi in dokumentet i programmet. Detta kan göras med hjälp av`Document`klass som tillhandahålls av Aspose.Words. Följande kodavsnitt visar hur man laddar ett Word-dokument från den angivna katalogen.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Denna enda kodrad säkerställer att dokumentet inte längre innehåller några 
 
 ### 2.2 Spara det rengjorda dokumentet
 
- När den personliga informationen har tagits bort är det viktigt att spara det ändrade dokumentet. Detta kan göras med hjälp av`Save`metod, som kommer att skriva det uppdaterade dokumentet till en ny fil och bevara alla ändringar.
+ När den personliga informationen har tagits bort är det viktigt att spara det ändrade dokumentet. Detta kan göras med hjälp av`Save` metod, som kommer att skriva det uppdaterade dokumentet till en ny fil och bevara alla ändringar.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

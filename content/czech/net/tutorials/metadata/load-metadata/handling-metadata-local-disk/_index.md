@@ -93,7 +93,7 @@ tomto tutoriálu jsme prozkoumali, jak efektivně používat GroupDocs.Metadata 
  Ano, můžete si stáhnout bezplatnou zkušební verzi GroupDocs.Metadata[zde](https://releases.groupdocs.com/).
 
 ### Kde mohu získat podporu pro GroupDocs.Metadata?
- Pro podporu navštivte[Fórum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) za komunitní pomoc a diskuse.
+ Pro podporu navštivte[Fórum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) za pomoc komunity a diskuse.
 
 ### Jaké formáty souborů podporuje GroupDocs.Metadata?
 GroupDocs.Metadata podporuje různé formáty, včetně DOCX, XLSX, PDF, JPG, PNG a dalších.

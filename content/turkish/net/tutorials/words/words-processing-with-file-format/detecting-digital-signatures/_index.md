@@ -91,7 +91,7 @@ Hayır, Aspose.Words for .NET belgeleri açarken veya kaydederken dijital imzala
 
 ### Bir belgede birden fazla dijital imzayı tespit edebilir miyim?
 
- Evet,`HasDigitalSignature` özellik, bir veya daha fazla dijital imzanın mevcut olup olmadığını gösterir.
+ Evet,`HasDigitalSignature`özellik, bir veya daha fazla dijital imzanın mevcut olup olmadığını gösterir.
 
 ### Aspose.Words for .NET'in ücretsiz deneme sürümünü nasıl edinebilirim?
 

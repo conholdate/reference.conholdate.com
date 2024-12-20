@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- Pada langkah ini, Anda menginisialisasi instance baru dari`Document` kelas, yang berfungsi sebagai kanvas untuk lapisan masa depan kita. Pastikan untuk mengganti`"YOUR DOCUMENT DIRECTORY"` dengan jalur sebenarnya tempat Anda ingin menyimpan berkas PDF nanti.
+ Pada langkah ini, Anda menginisialisasi instance baru dari`Document`kelas, yang berfungsi sebagai kanvas untuk lapisan masa depan kita. Pastikan untuk mengganti`"YOUR DOCUMENT DIRECTORY"` dengan jalur sebenarnya tempat Anda ingin menyimpan berkas PDF nanti.
 
 ## Langkah 2: Buat Halaman Baru
 

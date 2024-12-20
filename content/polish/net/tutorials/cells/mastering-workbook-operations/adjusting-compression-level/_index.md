@@ -42,7 +42,7 @@ string sourceDir = "Your Document Directory\\";
 string outDir = "Your Document Directory\\";
 ```
 
- Pamiętaj o wymianie`"Your Document Directory\\"` z rzeczywistymi ścieżkami do Twoich katalogów. Dzięki temu Twój program może zlokalizować pliki, których potrzebuje do pracy.
+ Pamiętaj o wymianie`"Your Document Directory\\"` z rzeczywistymi ścieżkami do Twoich katalogów. Dzięki temu Twój program może zlokalizować pliki, z którymi musi pracować.
 
 ## Krok 2: Załaduj skoroszyt
 

@@ -111,7 +111,7 @@ De straalgrootte bepaalt de mate waarin het filter werkt, terwijl de smoothing-w
 
 ### Waar kan ik ondersteuning en aanvullende informatie vinden?
 
- Voor vragen en assistentie kunt u contact opnemen met de[Aspose.PSD-forum](https://forum.aspose.com/c/psd/34)is een geweldige bron om in contact te komen met de community en het ondersteuningsteam.
+ Voor vragen en assistentie kunt u contact opnemen met de[Aspose.PSD-forum](https://forum.aspose.com/c/psd/34) is een geweldige bron om in contact te komen met de community en het ondersteuningsteam.
 
 ### Is er een gratis proefversie beschikbaar voor Aspose.PSD?
 

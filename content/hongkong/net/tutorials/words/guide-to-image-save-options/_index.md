@@ -13,7 +13,7 @@ url: /zh-hant/net/tutorials/words/guide-to-image-save-options/
 
 ## 公開 TIFF 二值化的閾值控制
 
-一個常見的要求是透過二值化控制 TIFF 影像品質。本教學教您如何有效調整閾值控制，確保您的影像符合所需的品質標準。您將學習基本步驟：載入 Word 文件、調整設定以及使用所需參數將其儲存為 TIFF。這聽起來可能很複雜，但有了明確的說明，它就像在公園裡散步一樣輕鬆！[閱讀更多](./expose-threshold-control-for-tiff-binarization-in-word-document/).
+一個常見的要求是透過二值化控制 TIFF 影像品質。本教學教您如何有效調整閾值控制，確保您的影像符合所需的品質標準。您將學習基本步驟：載入 Word 文件、調整設定以及使用所需參數將其儲存為 TIFF。這聽起來可能很複雜，但有了明確的說明，它就像在公園散步一樣輕鬆！[閱讀更多](./expose-threshold-control-for-tiff-binarization-in-word-document/).
 
 ## 取得 JPEG 和 TIFF 格式的頁面範圍
 
@@ -23,7 +23,7 @@ url: /zh-hant/net/tutorials/words/guide-to-image-save-options/
 
 最後，我們討論建立 1Bpp 索引映像以進行存檔。本指南可確保您節省空間，同時保持文件處理效率。此外，您可以利用頁面儲存回呼自動將每個頁面轉換為單獨的 PNG 影像。當您想要以程式設計方式管理文件並提取影像以進行數位存檔或 Web 使用時，這尤其有用。[閱讀更多](./create-1bpp-indexed/)和[閱讀更多](./page-saving-callback-word-document/).
 
- ## 圖像保存選項教程指南
+ ## 圖像保存選項指南教程
 | 標題 | 描述 |
 | --- | --- |
 | [公開 Word 文件中 Tiff 二值化的閾值控制](./expose-threshold-control-for-tiff-binarization-in-word-document/) | 逐步了解如何配置影像保存選項以實現最佳文件處理，從載入文件到自訂輸出設定。非常適合經驗豐富的開發人員和初學者。 |

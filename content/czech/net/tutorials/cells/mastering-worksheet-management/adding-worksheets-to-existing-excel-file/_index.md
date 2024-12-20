@@ -15,7 +15,7 @@ Aspose.Cells for .NET nabízí výkonný způsob, jak programově manipulovat se
 
 Než se ponoříte do kódu, ujistěte se, že splňujete následující předpoklady:
 
-1.  Aspose.Cells for .NET Library: Můžete buď[stáhnout Aspose.Cells pro .NET](https://releases.aspose.com/cells/net/) nebo jej nainstalujte přes NuGet pomocí následujícího příkazu:
+1.  Aspose.Cells for .NET Library: Můžete buď[stáhněte si Aspose.Cells pro .NET](https://releases.aspose.com/cells/net/) nebo jej nainstalujte přes NuGet pomocí následujícího příkazu:
    ```bash
    Install-Package Aspose.Cells
    ```
@@ -95,7 +95,7 @@ Worksheet worksheet = workbook.Worksheets[sheetIndex];
 
 ## Krok 6: Přejmenujte nový list
 
- Přejmenování listu je důležitým organizačním krokem, zejména při práci s více listy. Použijte`Name` vlastnictvím`Worksheet` objekt pro nastavení smysluplného názvu.
+ Přejmenování listu je důležitým organizačním krokem, zejména při práci s více listy. Použijte`Name` vlastnictví`Worksheet` objekt pro nastavení smysluplného názvu.
 
 ```csharp
 // Přejmenujte nově přidaný list

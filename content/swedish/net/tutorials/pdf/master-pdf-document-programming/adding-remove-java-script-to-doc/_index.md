@@ -1,7 +1,7 @@
 ---
 title: Lägga till Ta bort Javascript till PDF-dokument
 linktitle: Lägga till Ta bort Javascript till PDF-dokument
-second_title: Aspose.PDF för .NET API-referens
+second_title: Aspose.PDF för .NET API Referens
 description: Den här omfattande guiden visar hur du lägger till anpassade beteenden, utför beräkningar eller valideringar dynamiskt och integrerar med andra program.
 type: docs
 weight: 30
@@ -43,7 +43,7 @@ doc.Pages.Add();
 
 Det är här du ska börja bygga din JavaScript-tunga PDF.
 
-## Steg 2: Lägg till JavaScript i PDF-filen
+## Steg 2: Lägg till JavaScript i PDF:en
 
  Infoga JavaScript-funktioner i ditt dokument med hjälp av`doc.JavaScript` samling. Här är ett exempel:
 

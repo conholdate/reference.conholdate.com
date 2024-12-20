@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/words/digital-signatures/set-digital-signature-provi
 
 在投入之前，請確保您具備以下條件：
 
-1.  Aspose.Words for .NET 函式庫：[在這裡下載](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET 函式庫：[在這裡下載](https://releases.aspose.com/words/net/).
 2. 開發環境：Visual Studio 或任何 C# 相容 IDE。
 3.  Word 文件：帶有簽名行的文件（例如，`Signature line.docx`）。
 4. 數位憑證：A`.pfx`證書文件（例如，`morzal.pfx`）。

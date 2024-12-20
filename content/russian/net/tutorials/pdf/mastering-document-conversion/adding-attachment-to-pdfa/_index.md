@@ -64,7 +64,7 @@ doc.Convert(dataDir + "log.txt", Aspose.Pdf.PdfFormat.PDF_A_3A, ConvertErrorActi
 
 - Укажите путь к файлу журнала.
 -  Выбирать`PDF_A_3A` формат для поддержки встроенных файлов (в отличие от`PDF` что не так).
--  Использовать`ConvertErrorAction.Delete` удалить любые элементы, не соответствующие стандартам PDF/A.
+-  Использовать`ConvertErrorAction.Delete`удалить любые элементы, не соответствующие стандартам PDF/A.
 
 ## Шаг 5: Сохранение полученного документа PDF/A
 

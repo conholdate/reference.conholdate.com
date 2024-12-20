@@ -128,4 +128,4 @@ Aspose.Cells for .NET je komplexní knihovna, která umožňuje vývojářům vy
 
 ### Kde mohu získat podporu pro Aspose.Cells?
 
- Pokud potřebujete podporu nebo máte dotazy, navštivte stránku[Aspose fórum](https://forum.aspose.com/c/cells/9), kde můžete najít odpovědi nebo požádat o pomoc komunitu.
+ Pokud potřebujete podporu nebo máte dotazy, navštivte[Aspose fórum](https://forum.aspose.com/c/cells/9), kde můžete najít odpovědi nebo požádat o pomoc komunitu.

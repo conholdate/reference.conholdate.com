@@ -159,7 +159,7 @@ Níže jsou uvedeny odkazy na některé užitečné zdroje, které můžete pot�
 
 **Welcome to Aspose.Diagram for Java**
 
-Aspose.Diagram je nejflexibilnější a nejspolehlivější API, které umožňuje aplikacím Java vytvářet a spravovat výkresy aplikace Microsoft Office Visio bez nutnosti instalace aplikace Microsoft Office Visio do systému. Poskytuje lepší výkon a je snazší jej používat k manipulaci s diagramy a převádění souborů než Microsoft Office Automation.
+Aspose.Diagram je nejflexibilnější a nejspolehlivější API, které umožňuje aplikacím Java vytvářet a spravovat výkresy aplikace Microsoft Office Visio bez nutnosti instalace aplikace Microsoft Office Visio do systému. Poskytuje lepší výkon a je snazší k manipulaci s diagramy a převodu souborů než Microsoft Office Automation.
 
 Aspose.Diagram využívá pokročilé funkce poskytované službami Visio k manipulaci s dokumenty Visio na serveru. Aspose.Diagram API je rozšiřitelné, snadno použitelné, kompaktní a poskytuje všechny nejběžnější funkce, takže vývojáři mohou psát méně kódu.
 

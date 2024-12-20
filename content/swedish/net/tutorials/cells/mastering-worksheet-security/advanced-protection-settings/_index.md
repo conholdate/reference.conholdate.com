@@ -71,7 +71,7 @@ Workbook excel = new Workbook(fstream);
 
 ## Steg 5: Öppna arbetsbladet
 
-Gå till det specifika kalkylblad du vill skydda. Här använder vi det första arbetsbladet:
+Gå till det specifika kalkylblad du vill skydda. Här kommer vi att använda det första arbetsbladet:
 
 ```csharp
 Worksheet worksheet = excel.Worksheets[0];

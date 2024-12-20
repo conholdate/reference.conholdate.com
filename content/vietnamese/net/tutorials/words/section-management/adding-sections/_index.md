@@ -15,7 +15,7 @@ Bạn đã bao giờ phải đối mặt với nhiệm vụ tạo một tài li�
 
 Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
 
-1.  Aspose.Words cho Thư viện .NET: Tải xuống phiên bản mới nhất[đây](https://releases.aspose.com/words/net/).
+1. Aspose.Words cho Thư viện .NET: Tải xuống phiên bản mới nhất[đây](https://releases.aspose.com/words/net/).
 2. Môi trường phát triển: IDE tương thích với .NET, chẳng hạn như Visual Studio.
 3. Kiến thức cơ bản về C#: Sự quen thuộc với cú pháp C# sẽ rất hữu ích.
 4. Mẫu tài liệu Word (Tùy chọn): Mặc dù chúng ta sẽ tạo một tài liệu từ đầu, nhưng việc có mẫu có thể có lợi cho việc thử nghiệm.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Bây giờ chúng ta đã có phần mới, hãy điền nội dung vào đó. 
 
- Để thêm nội dung vào phần mới, chúng ta cần di chuyển`DocumentBuilder`con trỏ đến phần đó:
+ Để thêm nội dung vào phần mới, chúng ta cần di chuyển`DocumentBuilder` con trỏ đến phần đó:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Cuối cùng, hãy lưu tài liệu để đảm bảo mọi công sức của c
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Hãy chắc chắn thay thế`"YourPath/YourDocument.docx"` với đường dẫn tệp mong muốn nơi bạn muốn lưu tài liệu. Dòng này lưu tệp Word của bạn với tất cả các phần và nội dung còn nguyên vẹn.
+ Hãy chắc chắn thay thế`"YourPath/YourDocument.docx"`với đường dẫn tệp mong muốn nơi bạn muốn lưu tài liệu. Dòng này lưu tệp Word của bạn với tất cả các phần và nội dung còn nguyên vẹn.
 
 ## Phần kết luận
 

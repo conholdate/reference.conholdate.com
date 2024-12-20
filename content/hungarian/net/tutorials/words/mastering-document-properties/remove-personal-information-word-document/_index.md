@@ -17,7 +17,7 @@ Mielőtt belemerülne a kódba, feltétlenül győződjön meg arról, hogy megv
 
 ### Aspose.Words for .NET
 
- kezdéshez szüksége lesz az Aspose.Words for .NET-re. Ha még nem tette meg, töltse le a[weboldal](https://releases.aspose.com/words/net/) . Ha még nem ismeri az Aspose.Words alkalmazást, ingyenesen kipróbálhatja, ha letölti a[ingyenes próbaverzió](https://releases.aspose.com/).
+ A kezdéshez szüksége lesz az Aspose.Words for .NET-re. Ha még nem tette meg, töltse le a[weboldal](https://releases.aspose.com/words/net/) Ha még nem ismeri az Aspose.Words alkalmazást, ingyenesen kipróbálhatja, ha letölti a[ingyenes próbaverzió](https://releases.aspose.com/).
 
 ### Fejlesztési környezet
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Töltse be a dokumentumot
 
-Ezután betöltjük a dokumentumot a programba. Ezt a`Document` osztály által biztosított Aspose.Words. A következő kódrészlet bemutatja, hogyan tölthet be Word-dokumentumot a megadott könyvtárból.
+ Ezután betöltjük a dokumentumot a programba. Ezt a`Document`osztály által biztosított Aspose.Words. A következő kódrészlet bemutatja, hogyan tölthet be Word-dokumentumot a megadott könyvtárból.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Ez az egyetlen kódsor biztosítja, hogy a dokumentum többé ne őrizzen meg a 
 
 ### 2.2 Mentse el a megtisztított dokumentumot
 
- A személyes adatok eltávolítása után elengedhetetlen a módosított dokumentum mentése. Ezt a`Save`módszerrel, amely a frissített dokumentumot egy új fájlba írja, megőrizve az összes változtatást.
+ A személyes adatok eltávolítása után elengedhetetlen a módosított dokumentum mentése. Ezt a`Save` módszerrel, amely a frissített dokumentumot egy új fájlba írja, megőrizve az összes változtatást.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

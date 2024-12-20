@@ -12,7 +12,7 @@ url: /tr/net/tutorials/cells/mastering-tables-and-lists/
 Excel manipülasyon becerilerinizi bir üst seviyeye taşımaya hazır mısınız? Aspose.Cells for .NET, Excel'de tablolar ve listelerle çalışmayı çocuk oyuncağı haline getirmek için burada. İster kodlama konusunda yeni başlayan biri olun, ister deneyimli bir geliştirici, bu eğitimler sizi kapsıyor.
 
 ## Excel'de Liste Nesneleri Oluşturma ve Yönetme  
- Excel'deki listeler yalnızca organizasyonla ilgili değildir; işlevsellikle ilgilidir. Aspose.Cells for .NET ile, elektronik tablolarınızı dinamik ve etkileşimli hale getirerek liste nesnelerini programlı bir şekilde oluşturabilir ve yönetebilirsiniz. Basit yapılacaklar listelerinden karmaşık veri kümelerine kadar, bu eğitim sizi her adımda yönlendirir. Otomasyona hazır mısınız? Tam kılavuza dalın[Burada](./create-and-manage-list-object/).  
+ Excel'deki listeler yalnızca organizasyonla ilgili değildir; işlevsellikle ilgilidir. Aspose.Cells for .NET ile, elektronik tablolarınızı dinamik ve etkileşimli hale getirerek liste nesnelerini programatik olarak oluşturabilir ve yönetebilirsiniz. Basit yapılacaklar listelerinden karmaşık veri kümelerine kadar, bu eğitim sizi her adımda yönlendirir. Otomasyona hazır mısınız? Tam kılavuza dalın[Burada](./create-and-manage-list-object/).  
 
 ## Tabloları ODS Formatına Dönüştür  
 Excel tabloları güçlüdür, ancak bazen esnekliğe ihtiyacınız olur. İşte bu noktada tabloları OpenDocument Spreadsheet (ODS) biçimine dönüştürmek işe yarar. .NET için Aspose.Cells, bu dönüşümü yalnızca birkaç satır kodla yapmanızı sağlar. Ayrıntılı bir yol gösterici mi istiyorsunuz? Tam öğreticiye göz atın[Burada](./convert-table-to-ods-format/).  

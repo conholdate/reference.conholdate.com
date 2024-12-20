@@ -18,7 +18,7 @@ Prima di immergerti nel codice, assicurati di disporre dei seguenti prerequisiti
 - Conoscenza di base di C# e del framework .NET.
 - Visual Studio installato sul computer di sviluppo.
 -  La libreria Aspose.Words per .NET, che puoi scaricare[Qui](https://releases.aspose.com/words/net/).
--  Una licenza valida per Aspose.Words. Se non ne hai ancora una, puoi ottenere una licenza temporanea[Qui](https://purchase.conholdate.com/temporary-license/).
+- Una licenza valida per Aspose.Words. Se non ne hai ancora una, puoi ottenere una licenza temporanea[Qui](https://purchase.conholdate.com/temporary-license/).
 
 ## Importazione degli spazi dei nomi
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Ora puoi lavorare con docFromBytes se necessario
 }
 ```
-1.  Creazione del flusso di memoria: crea un`MemoryStream` dall'array di byte.
+1.  Creazione del flusso di memoria: crea un`MemoryStream`dall'array di byte.
 2. Caricamento del documento: carica il documento direttamente dal flusso, rendendolo pronto per ulteriori operazioni.
 
 ## Conclusione

@@ -48,7 +48,7 @@ Workbook workbook = new Workbook("SampleFile.xlsm");
 VbaProject vbaProject = workbook.VbaProject;
 ```
 
-## Steg 3: Kontrollera aktuell skyddsstatus
+## Steg 3: Kontrollera den aktuella skyddsstatusen
 
  Innan du gör några ändringar är det viktigt att kontrollera om VBA-projektet redan är skyddat. De`IsProtected` egenskapen tillhandahåller denna information.
 

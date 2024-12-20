@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## 결론
 
-그리고 그게 전부입니다! Aspose.Words for .NET을 사용하여 Word 문서의 암호화 상태를 성공적으로 검증했습니다. 몇 줄의 코드로 이러한 작업을 얼마나 간소화할 수 있는지 인상적입니다. 질문이 있거나 문제가 발생하면 언제든지 문의하세요.[Aspose 지원 포럼](https://forum.aspose.com/c/words/8).
+ 그리고 그게 전부입니다! Aspose.Words for .NET을 사용하여 Word 문서의 암호화 상태를 성공적으로 검증했습니다. 몇 줄의 코드로 이러한 작업을 얼마나 간소화할 수 있는지 인상적입니다. 질문이 있거나 문제가 발생하면 언제든지 문의하세요.[Aspose 지원 포럼](https://forum.aspose.com/c/words/8).
 
 ## 자주 묻는 질문
 

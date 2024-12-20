@@ -115,6 +115,6 @@ Sim! O Aspose.Words para .NET suporta a incorporação de vários recursos, incl
 
 O Aspose.Words para .NET manipula todas as fontes usadas no seu documento, incorporando-as como Base64 no arquivo HTML de saída.
 
-### O Aspose.Words para .NET é gratuito?
+### Aspose.Words para .NET é gratuito?
 
  Aspose.Words para .NET é uma biblioteca comercial, mas uma versão de teste gratuita está disponível no[Lançamentos Aspose](https://releases.aspose.com/) página, permitindo que você teste seus recursos antes de comprar.

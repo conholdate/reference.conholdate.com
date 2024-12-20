@@ -91,7 +91,7 @@ Không, Aspose.Words for .NET không lưu giữ chữ ký số khi mở hoặc l
 
 ### Tôi có thể phát hiện nhiều chữ ký số trong một tài liệu không?
 
- Vâng,`HasDigitalSignature` thuộc tính cho biết liệu có một hoặc nhiều chữ ký số hiện diện hay không.
+ Vâng,`HasDigitalSignature`thuộc tính cho biết liệu có một hoặc nhiều chữ ký số hiện diện hay không.
 
 ### Làm thế nào tôi có thể dùng thử miễn phí Aspose.Words cho .NET?
 

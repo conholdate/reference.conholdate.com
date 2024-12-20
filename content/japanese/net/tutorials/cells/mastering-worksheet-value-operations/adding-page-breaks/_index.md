@@ -46,7 +46,7 @@ Workbook workbook = new Workbook();
 ワークシートを垂直に 2 つの部分に分割する水平方向のページ区切りを追加するには、次のコードを使用します。
 
 ```csharp
-// 30行目に水平改ページを追加します
+// 30行目に水平改ページを追加する
 workbook.Worksheets[0].HorizontalPageBreaks.Add("Y30");
 ```
 ここ、`Worksheets[0]`ワークブックの最初のシートを参照し、`HorizontalPageBreaks.Add("Y30")`行 30 に改行が追加され、上のコンテンツが 1 ページに表示され、下のコンテンツが新しいページから開始されます。
@@ -55,7 +55,7 @@ workbook.Worksheets[0].HorizontalPageBreaks.Add("Y30");
 次に、垂直のページ区切りを追加して、列間でコンテンツを水平に分離します。
 
 ```csharp
-//列Yに垂直ページ区切りを追加する
+// Y列に垂直ページ区切りを追加する
 workbook.Worksheets[0].VerticalPageBreaks.Add("Y30");
 ```
 この例では、`VerticalPageBreaks.Add("Y30")`列 X の後に改行を作成し、左側のコンテンツが 1 ページに表示され、右側のコンテンツが次のページに表示されるようにします。

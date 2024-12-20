@@ -106,7 +106,7 @@ Ano, knihovna podporuje různé operace, včetně mazání, formátování a ana
 Můžete si stáhnout bezplatnou zkušební verzi a prozkoumat její funkce, ale další používání bude vyžadovat nákup nebo licenci.
 
 ### Je Aspose.Cells vhodný pro začátečníky?  
-Absolutně! Jeho bohatá dokumentace a příklady jej zpřístupňují začátečníkům.
+Absolutně! Díky bohaté dokumentaci a příkladům je přístupný i pro začátečníky.
 
 ### Kde najdu podporu pro Aspose.Cells?  
  The[Aspose fórum](https://forum.aspose.com/c/cells/9) je skvělým místem pro kladení otázek a interakci s komunitou.

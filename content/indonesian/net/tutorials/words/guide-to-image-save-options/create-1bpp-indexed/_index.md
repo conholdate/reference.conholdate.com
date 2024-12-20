@@ -88,7 +88,7 @@ Citra berindeks 1Bpp (1 Bit Per Pixel) adalah format citra hitam putih yang tiap
  Ya, lisensi diperlukan untuk fungsionalitas penuh. Anda dapat memperoleh lisensi[lisensi sementara di sini](https://purchase.aspose.com/temporary-license/).
 
 ### Format gambar apa lagi yang dapat saya ubah ke dokumen Word saya?
- Aspose.Words mendukung berbagai format, termasuk JPEG, BMP, dan TIFF. Cukup ubah`SaveFormat`di dalam`ImageSaveOptions` ke format yang Anda inginkan.
+ Aspose.Words mendukung berbagai format, termasuk JPEG, BMP, dan TIFF. Cukup ubah`SaveFormat` di dalam`ImageSaveOptions`ke format yang Anda inginkan.
 
 ### Di mana saya dapat menemukan dokumentasi lebih lanjut tentang Aspose.Words untuk .NET?
  Untuk dokumentasi lengkap, kunjungi[Halaman dokumentasi Aspose.Words untuk .NET](https://reference.aspose.com/words/net/).

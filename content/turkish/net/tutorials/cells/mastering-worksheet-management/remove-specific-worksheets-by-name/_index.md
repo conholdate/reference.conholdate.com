@@ -1,6 +1,6 @@
 ---
-title: Aspose.Cells kullanarak Belirli Çalışma Sayfalarını Adına Göre Kaldırın
-linktitle: Aspose.Cells kullanarak Belirli Çalışma Sayfalarını Adına Göre Kaldırın
+title: Aspose.Cells kullanarak belirli çalışma sayfalarını isme göre kaldırın
+linktitle: Aspose.Cells kullanarak belirli çalışma sayfalarını isme göre kaldırın
 second_title: Aspose.Cells .NET Excel İşleme API'si
 description: Aspose.Cells for .NET ile Excel dosya yönetiminizi nasıl kolaylaştıracağınızı öğrenin. Bu kılavuz, belirli çalışma sayfalarını adlarına göre programatik olarak kaldırma adımlarında size yol gösterir, böylece zamandan tasarruf eder ve elektronik tablolarınızı düzenli tutarsınız.
 type: docs

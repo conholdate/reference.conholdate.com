@@ -9,7 +9,7 @@ url: /sv/net/tutorials/words/web-extensions/mastering-web-extension-task-panes/
 ---
 ## Introduktion  
 
-den här omfattande guiden fördjupar vi oss i den kraftfulla funktionaliteten med att integrera webbtilläggsuppgiftsrutor i Word-dokument med Aspose.Words för .NET. Uppgiftsrutor ger användare dynamiska, interaktiva verktyg direkt i sina Word-dokument, vilket gör arbetsflöden smidigare och effektivare. Låt oss utforska hur du kan ställa in och konfigurera webbtilläggsuppgiftsrutor med Aspose.Words.
+den här omfattande guiden fördjupar vi oss i den kraftfulla funktionaliteten för att integrera webbtilläggsuppgiftsrutor i Word-dokument med Aspose.Words för .NET. Uppgiftsrutor ger användare dynamiska, interaktiva verktyg direkt i sina Word-dokument, vilket gör arbetsflöden smidigare och effektivare. Låt oss utforska hur du kan ställa in och konfigurera webbtilläggsuppgiftsrutor med Aspose.Words.
 
 ## Förutsättningar  
 

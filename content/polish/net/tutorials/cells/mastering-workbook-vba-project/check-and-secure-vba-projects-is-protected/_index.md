@@ -2,7 +2,7 @@
 title: Sprawdź i zabezpiecz projekty VBA chronione za pomocą Aspose.Cells
 linktitle: Sprawdź i zabezpiecz projekty VBA chronione za pomocą Aspose.Cells
 second_title: Aspose.Cells .NET API przetwarzania programu Excel
-description: Dowiedz się, jak programowo sprawdzać i chronić projekty VBA w plikach Excela, używając Aspose.Cells dla .NET. Przewodnik krok po kroku z dołączonymi kompletnymi przykładami kodu.
+description: Dowiedz się, jak programowo sprawdzać i chronić projekty VBA w plikach Excela, używając Aspose.Cells dla .NET. Przewodnik krok po kroku z kompletnymi przykładami kodu.
 type: docs
 weight: 12
 url: /pl/net/tutorials/cells/mastering-workbook-vba-project/check-and-secure-vba-projects-is-protected/

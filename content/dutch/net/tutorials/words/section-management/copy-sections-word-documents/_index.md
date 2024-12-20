@@ -32,7 +32,7 @@ Deze naamruimte biedt alle hulpmiddelen die nodig zijn voor het programmatisch v
 
 ## Stap 1: Uw omgeving instellen
 
-1.  Installeer Aspose.Words: Download en installeer Aspose.Words voor .NET van[hier](https://releases.aspose.com/words/net/).
+1. Installeer Aspose.Words: Download en installeer Aspose.Words voor .NET van[hier](https://releases.aspose.com/words/net/).
 2. Een .NET-project maken: open Visual Studio en maak een nieuw C#-project.
 3. Voeg Aspose.Words-referentie toe: neem de bibliotheekreferentie op in uw project.
 

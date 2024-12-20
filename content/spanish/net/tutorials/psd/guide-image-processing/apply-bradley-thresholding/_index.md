@@ -75,7 +75,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 ### ¿Hay una versión de prueba disponible?
 
- ¡Sí! Puedes probar Aspose.PSD para .NET con una versión de prueba gratuita[aquí](https://releases.aspose.com/).
+¡Sí! Puedes probar Aspose.PSD para .NET con una versión de prueba gratuita[aquí](https://releases.aspose.com/).
 
 ### ¿Cómo puedo obtener soporte para Aspose.PSD?
 

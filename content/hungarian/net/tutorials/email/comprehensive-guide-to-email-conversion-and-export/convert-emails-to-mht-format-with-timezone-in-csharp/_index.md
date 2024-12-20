@@ -20,7 +20,7 @@ A kezdéshez gondoskodjon megfelelő fejlesztői környezetről:
 
 ## Az Aspose.Email telepítése .NET-hez
 
-Az Aspose.Email for .NET egy hatékony könyvtár, amely leegyszerűsíti az e-mail-feldolgozási feladatokat. A telepítéshez kövesse az alábbi lépéseket:
+Az Aspose.Email for .NET egy hatékony könyvtár, amely leegyszerűsíti az e-mail-feldolgozási feladatokat. Kövesse az alábbi lépéseket a telepítéshez:
 
 1. Nyissa meg projektjét a Visual Studióban.
 2. Lépjen az Eszközök > NuGet csomagkezelő > NuGet csomagok kezelése a megoldáshoz menüpontra.

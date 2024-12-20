@@ -47,7 +47,7 @@ var options = new HtmlSaveOptions();
 
 ## Schritt 3: Projektdaten als HTML speichern
 
- Jetzt ist es an der Zeit, Ihre Projektdaten im HTML-Format zu speichern. Geben Sie den Ausgabepfad an anstelle von`"OutputFilePath.html"`.
+ Jetzt ist es an der Zeit, Ihre Projektdaten im HTML-Format zu speichern. Geben Sie den Ausgabepfad anstelle von`"OutputFilePath.html"`.
 
 ```csharp
 project.Save("OutputFilePath.html", options);

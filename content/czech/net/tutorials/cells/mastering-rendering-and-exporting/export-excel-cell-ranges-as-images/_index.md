@@ -110,7 +110,7 @@ ImageOrPrintOptions options = new ImageOrPrintOptions
 
 Zde bude obrázek ve formátu JPEG s rozlišením 200 DPI. Upravte tato nastavení podle potřeby.
 
-## Krok 8: Vykreslete sešit na obrázek
+## Krok 8: Vykreslení listu na obrázek
 
 Je čas převést zadaný rozsah na obrázek:
 

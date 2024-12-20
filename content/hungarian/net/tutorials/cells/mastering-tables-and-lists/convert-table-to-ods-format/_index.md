@@ -2,7 +2,7 @@
 title: Konvertálja a táblázatot ODS formátumba az Aspose.Cells for .NET használatával
 linktitle: Konvertálja a táblázatot ODS formátumba az Aspose.Cells for .NET használatával
 second_title: Aspose.Cells .NET Excel Processing API
-description: Ismerje meg, hogyan konvertálhat zökkenőmentesen Excel-táblázatokat ODS formátumba az Aspose.Cells for .NET segítségével. Ez a lépésenkénti útmutató.
+description: Ismerje meg, hogyan konvertálhat zökkenőmentesen Excel-táblázatokat ODS formátumba az Aspose.Cells for .NET segítségével. Ez a lépésről-lépésre útmutató.
 type: docs
 weight: 12
 url: /hu/net/tutorials/cells/mastering-tables-and-lists/convert-table-to-ods-format/

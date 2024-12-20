@@ -32,7 +32,7 @@ Cet espace de noms fournit tous les outils nécessaires à la gestion programmat
 
 ## Étape 1 : Configuration de votre environnement
 
-1.  Installer Aspose.Words : Téléchargez et installez Aspose.Words pour .NET depuis[ici](https://releases.aspose.com/words/net/).
+1. Installer Aspose.Words : Téléchargez et installez Aspose.Words pour .NET depuis[ici](https://releases.aspose.com/words/net/).
 2. Créer un projet .NET : ouvrez Visual Studio et créez un nouveau projet C#.
 3. Ajouter une référence Aspose.Words : incluez la référence de la bibliothèque dans votre projet.
 

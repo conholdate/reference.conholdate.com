@@ -120,6 +120,6 @@ Aspose.Words for .NET é uma biblioteca poderosa que permite aos desenvolvedores
 
  Você pode buscar suporte através do[Fórum de suporte Aspose](https://forum.aspose.com/c/words/8).
 
-### Posso manipular outros tipos de documentos com o Aspose.Words para .NET?
+### Posso manipular outros tipos de documentos com o Aspose.Words for .NET?
 
 Absolutamente! O Aspose.Words para .NET suporta múltiplos formatos de documentos, incluindo DOCX, DOC, RTF, HTML, PDF e mais.

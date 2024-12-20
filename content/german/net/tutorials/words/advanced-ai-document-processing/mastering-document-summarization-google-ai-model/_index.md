@@ -66,7 +66,7 @@ Um auf das KI-Modell von Google zuzugreifen, rufen Sie den API-Schlüssel sicher
 string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 ```
 
-Indem Sie Ihren API-Schlüssel als Umgebungsvariable speichern, verringern Sie das Risiko, dass vertrauliche Informationen in Ihrem Code offengelegt werden.
+Indem Sie Ihren API-Schlüssel als Umgebungsvariable speichern, verringern Sie das Risiko, dass vertrauliche Informationen in Ihrem Code preisgegeben werden.
 
 ## Schritt 4: Einrichten der KI-Modellinstanz
 

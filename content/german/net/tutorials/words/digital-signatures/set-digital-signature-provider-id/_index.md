@@ -15,7 +15,7 @@ Hallo! Wenn Sie Ihrem Word-Dokument eine digitale Signatur mit einer bestimmten 
 
 Stellen Sie vor dem Eintauchen sicher, dass Sie Folgendes haben:
 
-1.  Aspose.Words für die .NET-Bibliothek:[Laden Sie es hier herunter](https://releases.aspose.com/words/net/).
+1. Aspose.Words für die .NET-Bibliothek:[Laden Sie es hier herunter](https://releases.aspose.com/words/net/).
 2. Entwicklungsumgebung: Visual Studio oder jede C#-kompatible IDE.
 3.  Word-Dokument: Ein Dokument mit einer Signaturzeile (z. B.`Signature line.docx`).
 4.  Digitales Zertifikat: A`.pfx` Zertifikatsdatei (z. B.`morzal.pfx`).
@@ -56,7 +56,7 @@ SignatureLine signatureLine = ((Shape)doc.FirstSection.Body.GetChild(NodeType.Sh
 
 ## Schritt 4: Signaturoptionen einrichten
 
-Erstellen wir nun die Signaturoptionen, zu denen die Anbieter-ID und die Signaturzeilen-ID gehören:
+Erstellen wir nun die Signaturoptionen, die die Anbieter-ID und die Signaturzeilen-ID umfassen:
 
 ```csharp
 SignOptions signOptions = new SignOptions

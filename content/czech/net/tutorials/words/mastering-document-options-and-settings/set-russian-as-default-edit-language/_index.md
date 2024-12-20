@@ -9,7 +9,7 @@ url: /cs/net/tutorials/words/mastering-document-options-and-settings/set-russian
 ---
 ## Zavedení
 
-V našem stále vícejazyčném světě je zásadní přizpůsobení dokumentů tak, aby vyhovovaly různým jazykovým preferencím. Pokud pracujete s Aspose.Words pro .NET, tento tutoriál vás provede procesem nastavení ruštiny jako výchozího jazyka pro úpravy ve vašich dokumentech aplikace Word. 
+V našem stále vícejazyčném světě je zásadní přizpůsobení dokumentů tak, aby vyhovovaly různým jazykovým preferencím. Pokud pracujete s Aspose.Words for .NET, tento tutoriál vás provede procesem nastavení ruštiny jako výchozího jazyka pro úpravy ve vašich dokumentech aplikace Word. 
 
 ## Předpoklady
 
@@ -42,7 +42,7 @@ LoadOptions loadOptions = new LoadOptions();
 
 ### Nastavte výchozí jazyk úprav na ruštinu
 
- Dále nastavte`DefaultEditingLanguage` nemovitost do ruštiny:
+Dále nastavte`DefaultEditingLanguage` nemovitost do ruštiny:
 
 ```csharp
 loadOptions.LanguagePreferences.DefaultEditingLanguage = EditingLanguage.Russian;
@@ -99,7 +99,7 @@ Tento výstup vás informuje, zda byl výchozí jazyk úprav úspěšně nastave
 
 ## Závěr
 
- Nastavení ruštiny jako výchozího jazyka pro úpravy v dokumentu aplikace Word pomocí Aspose.Words pro .NET je jednoduchý proces. Nakonfigurováním`LoadOptions`, načtení dokumentu a ověření jazykových nastavení, můžete své dokumenty přizpůsobit tak, aby efektivně vyhovovaly jazykovým potřebám vašeho publika.
+Nastavení ruštiny jako výchozího jazyka pro úpravy v dokumentu aplikace Word pomocí Aspose.Words pro .NET je jednoduchý proces. Nakonfigurováním`LoadOptions`, načtení dokumentu a ověření jazykových nastavení, můžete své dokumenty přizpůsobit tak, aby efektivně vyhovovaly jazykovým potřebám vašeho publika.
 
 ## FAQ
 
@@ -121,4 +121,4 @@ Aspose.Words for .NET je komplexní knihovna pro programové vytváření, manip
 
 ### Jak mohu získat podporu pro Aspose.Words pro .NET?
 
- Pro podporu navštivte[Aspose Support](https://forum.aspose.com/c/words/8) fórum, kde můžete klást otázky a přijímat pomoc od komunity a vývojářů Aspose.
+ Pro podporu navštivte[Aspose Support](https://forum.aspose.com/c/words/8)fórum, kde můžete klást otázky a přijímat pomoc od komunity a vývojářů Aspose.

@@ -18,7 +18,7 @@ Pokud jde o správu excelových listů, pozornost je často věnována zabezpeč
 Řádky v Excelu často obsahují důležité informace, takže jejich zabezpečení je zásadní. Díky Aspose.Cells for .NET je ochrana řádků intuitivní a přímočará. Ať už zamykáte mzdová data nebo důvěrné metriky, tento tutoriál vám ukáže, jak nastavit ochranu pomocí několika řádků kódu. Ponořte se do detailů[zde](./protecting-rows/).
 
 ## Překonejte základy s pokročilým nastavením ochrany  
- Myslíte si, že jste skončili pouze se zamykáním sloupců a řádků? Přemýšlejte znovu! Aspose.Cells for .NET nabízí pokročilé nastavení ochrany pro omezení akcí, jako je úprava vzorců, změna velikosti řádků nebo dokonce výběr buněk. Tento výukový program vás provede těmito funkcemi krok za krokem, takže je snadné vynutit podrobnou kontrolu nad soubory aplikace Excel. Přečtěte si další informace o pokročilém nastavení ochrany[zde](./advanced-protection-settings/).
+ Myslíte si, že jste skončili pouze se zamykáním sloupců a řádků? Přemýšlejte znovu! Aspose.Cells for .NET nabízí pokročilé nastavení ochrany pro omezení akcí, jako je úprava vzorců, změna velikosti řádků nebo dokonce výběr buněk. Tento výukový program vás provede těmito funkcemi krok za krokem, takže je snadné vynutit podrobnou kontrolu nad soubory aplikace Excel. Přečtěte si další informace o pokročilých nastaveních ochrany[zde](./advanced-protection-settings/).
 
 ## Zvládnutí výukových programů zabezpečení pracovních listů
 ### [Ochrana sloupců aplikace Excel v listu pomocí Aspose.Cells](./excel-column-protection/)

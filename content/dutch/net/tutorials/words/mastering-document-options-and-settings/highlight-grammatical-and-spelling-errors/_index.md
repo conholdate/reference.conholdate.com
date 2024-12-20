@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## Stap 1: Stel uw project in
 
- Maak eerst een nieuw .NET-project in uw IDE. Voeg een verwijzing toe naar de Aspose.Words-bibliotheek. Als u deze nog niet hebt gedownload, kunt u dit doen via[hier](https://releases.aspose.com/words/net/).
+Maak eerst een nieuw .NET-project in uw IDE. Voeg een verwijzing toe naar de Aspose.Words-bibliotheek. Als u deze nog niet hebt gedownload, kunt u dit doen via[hier](https://releases.aspose.com/words/net/).
 
 ## Stap 2: Definieer de documentdirectory
 

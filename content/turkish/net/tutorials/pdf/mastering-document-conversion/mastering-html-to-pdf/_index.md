@@ -24,8 +24,8 @@ Başlamadan önce aşağıdakilerin mevcut olduğundan emin olun:
 
 Başlamak için proje dizininizi ayarlamak üzere şu adımları izleyin:
 
-1. Bir Proje Dizini Oluşturun: Adında bir klasör oluşturun`Documents` Bilgisayarınızda. HTML dosyalarınızı ve çıktı PDF'inizi burada saklayacaksınız.
-2.  HTML Dosyanızı Ekleyin: HTML dosyanızı yerleştirin (örn.`HTMLToPDF.html` ) içinde`Documents` dosya.
+1.  Bir Proje Dizini Oluşturun: Adında bir klasör oluşturun`Documents` Bilgisayarınızda. HTML dosyalarınızı ve çıktı PDF'inizi burada saklayacaksınız.
+2.  HTML Dosyanızı Ekleyin: HTML dosyanızı yerleştirin (örn.`HTMLToPDF.html` içinde`Documents` dosya.
 
 ## Gerekli Paketleri İçe Aktarma
 

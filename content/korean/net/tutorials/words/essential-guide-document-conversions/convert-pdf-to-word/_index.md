@@ -90,5 +90,5 @@ doc.Save(dataDir + "ConvertedDocument.docx");
 ### 다른 운영 체제에서 Aspose.Words for .NET을 사용할 수 있나요?
 네! Aspose.Words for .NET은 크로스 플랫폼이며 Windows, Linux, macOS에서 사용할 수 있습니다.
 
-### .NET용 Aspose.Words에 대한 추가 문서는 어디에서 찾을 수 있나요?
+### Aspose.Words for .NET에 대한 추가 문서는 어디에서 찾을 수 있나요?
  포괄적인 문서를 찾을 수 있습니다[여기](https://reference.aspose.com/words/net/).

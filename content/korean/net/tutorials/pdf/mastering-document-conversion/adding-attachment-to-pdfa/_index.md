@@ -64,7 +64,7 @@ doc.Convert(dataDir + "log.txt", Aspose.Pdf.PdfFormat.PDF_A_3A, ConvertErrorActi
 
 - 로그 파일의 경로를 지정하세요.
 -  선택하다`PDF_A_3A` 내장된 파일을 지원하는 형식(`PDF` 그렇지 않음).
--  사용`ConvertErrorAction.Delete` PDF/A 표준을 준수하지 않는 요소를 삭제합니다.
+-  사용`ConvertErrorAction.Delete`PDF/A 표준을 준수하지 않는 요소를 삭제합니다.
 
 ## 5단계: 결과 PDF/A 문서 저장
 

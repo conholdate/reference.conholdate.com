@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- 이 단계에서는 새 인스턴스를 초기화합니다.`Document` 클래스는 미래 레이어의 캔버스 역할을 합니다. 반드시 교체하세요.`"YOUR DOCUMENT DIRECTORY"` 나중에 PDF 파일을 저장할 실제 경로를 입력합니다.
+ 이 단계에서는 새 인스턴스를 초기화합니다.`Document`클래스는 미래 레이어의 캔버스 역할을 합니다. 반드시 교체하세요.`"YOUR DOCUMENT DIRECTORY"` 나중에 PDF 파일을 저장할 실제 경로를 입력합니다.
 
 ## 2단계: 새 페이지 만들기
 

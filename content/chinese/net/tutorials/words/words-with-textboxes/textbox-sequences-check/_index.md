@@ -15,7 +15,7 @@ url: /zh/net/tutorials/words/words-with-textboxes/textbox-sequences-check/
 
 在深入研究代码之前，请确保您具有以下内容：
 
-1.  Aspose.Words for .NET 库：下载最新版本[这里](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET 库：下载最新版本[这里](https://releases.aspose.com/words/net/).
 2. 开发环境：与 .NET 兼容的环境，如 Visual Studio。
 3. 基本 C# 知识：熟悉 C# 语法将会有所帮助。
 4. 示例文档：手头有一份 Word 文档会很有帮助，但在此示例中，我们将从头开始创建所有内容。

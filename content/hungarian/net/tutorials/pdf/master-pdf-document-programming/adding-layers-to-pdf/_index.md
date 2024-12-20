@@ -15,7 +15,7 @@ Amint azt ebben az oktatóanyagban láthattuk, a rétegek hozzáadása egy PDF-f
 
 Mielőtt belevágnánk ebbe az oktatóanyagba, győződjön meg arról, hogy rendelkezik:
 
-1. C# alapvető ismerete: A nyelv alapjainak ismerete segít a kód megértésében.
+1. A C# alapvető ismerete: A nyelv alapjainak ismerete segít a kód megértésében.
 2.  Aspose.PDF for .NET Library: Töltse le innen[Aspose honlapja](https://releases.aspose.com/pdf/net/).
 3. Visual Studio vagy bármely C# IDE: Használjon a gépén beállított IDE-t a kód írásához, fordításához és végrehajtásához.
 4. Minta PDF dokumentum: A mintadokumentum birtoklása előnyös lehet a teszteléshez.
@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- Ebben a lépésben inicializálja a`Document` osztály, amely vászonként szolgál leendő rétegeink számára. Mindenképpen cserélje ki`"YOUR DOCUMENT DIRECTORY"` a tényleges elérési úttal, ahová később menteni szeretné a PDF-fájlt.
+ Ebben a lépésben inicializálja a`Document`osztály, amely vászonként szolgál leendő rétegeink számára. Ügyeljen arra, hogy cserélje ki`"YOUR DOCUMENT DIRECTORY"` a tényleges elérési úttal, ahová később menteni szeretné a PDF-fájlt.
 
 ## 2. lépés: Hozzon létre egy új oldalt
 

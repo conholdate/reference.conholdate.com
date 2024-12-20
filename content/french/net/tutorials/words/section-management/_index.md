@@ -9,7 +9,7 @@ url: /fr/net/tutorials/words/section-management/
 ---
 ## Introduction
 
-En matière de mise en forme de documents Word, les sections agissent comme l'épine dorsale. Elles vous permettent de créer des parties distinctes au sein d'un document, ce qui vous donne la possibilité d'appliquer différentes mises en forme telles que des en-têtes, des pieds de page et des mises en page. Considérez les sections comme des chapitres d'un livre : chaque segment peut être autonome tout en contribuant au récit plus vaste. Dans cette série de didacticiels, nous allons nous plonger dans les bases de la gestion des sections à l'aide d'Aspose.Words pour .NET, en veillant à ce que vos documents soient non seulement fonctionnels mais aussi visuellement attrayants.
+En matière de mise en forme de documents Word, les sections agissent comme l'épine dorsale. Elles vous permettent de créer des parties distinctes au sein d'un document, ce qui vous donne la possibilité d'appliquer différentes mises en forme telles que des en-têtes, des pieds de page et des mises en page. Considérez les sections comme des chapitres d'un livre : chaque segment peut être autonome tout en contribuant au récit plus vaste. Dans cette série de didacticiels, nous allons nous plonger dans les bases de la gestion des sections à l'aide d'Aspose.Words pour .NET, en veillant à ce que vos documents ne soient pas seulement fonctionnels mais aussi visuellement attrayants.
 
 ## Ajout et suppression de sections
 

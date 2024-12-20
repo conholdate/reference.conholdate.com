@@ -49,7 +49,7 @@ Successivamente, crea una nuova cartella di lavoro in cui copierai il modulo ute
 Workbook target = new Workbook();
 ```
 
-In questo modo viene inizializzata una cartella di lavoro vuota, che fungerà da base per il trasferimento dei dati successivo.
+In questo modo viene inizializzata una cartella di lavoro vuota, che funge da base per il trasferimento dei dati successivo.
 
 ## Passaggio 3: carica la cartella di lavoro del modello
 Carica la cartella di lavoro contenente il tuo modulo utente e le macro:
@@ -145,7 +145,7 @@ Aspose.Cells supporta vari formati Excel, tra cui XLSX, XLSM, CSV e altri.
 Sebbene Visual Studio sia consigliato per le sue funzionalità intuitive, qualsiasi IDE C# che supporti lo sviluppo .NET sarà sufficiente.
 
 ### Dove posso trovare altri esempi e documentazione?
- Puoi esplorare il[Documentazione di Aspose.Cells](https://reference.aspose.com/cells/net/) per ulteriori esempi e spiegazioni approfondite.
+ Puoi esplorare il[Documentazione Aspose.Cells](https://reference.aspose.com/cells/net/) per ulteriori esempi e spiegazioni approfondite.
 
 ### Come posso risolvere i problemi durante l'utilizzo di Aspose.Cells?
  Dovresti visitare il[Forum di supporto Aspose](https://forum.aspose.com/c/cells/9) per ricevere aiuto dalla comunità e dal personale di supporto di Aspose.

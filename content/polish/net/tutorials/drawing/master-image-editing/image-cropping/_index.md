@@ -58,7 +58,7 @@ Teraz załaduj obraz, który chcesz przyciąć:
 Bitmap image = new Bitmap("Your Document Directory" + @"Images\aspose_logo.png");
 ```
 
- Zastępować`"Your Document Directory"` podając rzeczywistą ścieżkę do folderu z obrazem i dostosowując nazwę pliku według potrzeb.
+ Zastępować`"Your Document Directory"` podając rzeczywistą ścieżkę do folderu z obrazem i zmieniając nazwę pliku według potrzeb.
 
 ## Krok 5: Zdefiniuj prostokąty źródłowe i docelowe
 

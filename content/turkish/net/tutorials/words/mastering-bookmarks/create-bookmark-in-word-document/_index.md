@@ -102,7 +102,7 @@ Aspose.Words for .NET ile bir Word belgesinde yer imleri oluşturmak basittir ve
 Evet! PDF olarak kaydederken birden fazla yer imi oluşturabilir ve bunların hiyerarşisini tanımlayabilirsiniz.
 
 ### Bir yer iminin metnini nasıl güncellerim?
- Kullanmak`DocumentBuilder.MoveToBookmark` yer imlerine gitmek ve metni güncellemek için.
+ Kullanmak`DocumentBuilder.MoveToBookmark`yer imlerine gitmek ve metni güncellemek için.
 
 ### Bir yer imini silmek mümkün müdür?
  Kesinlikle! Şunu kullanın:`Bookmarks.Remove` Yer iminin adını belirterek yöntemi.

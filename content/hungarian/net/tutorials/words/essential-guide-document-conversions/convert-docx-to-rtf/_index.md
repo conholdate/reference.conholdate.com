@@ -39,7 +39,7 @@ using System.IO;
 string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 ```
 
- Mindenképpen cserélje ki`"YOUR_DOCUMENT_DIRECTORY"` a rendszer tényleges elérési útjával.
+ Ügyeljen arra, hogy cserélje ki`"YOUR_DOCUMENT_DIRECTORY"` a rendszer tényleges elérési útjával.
 
 ## 2. lépés: Töltse be a DOCX-dokumentumot
 

@@ -18,7 +18,7 @@ Koda dalmadan önce aşağıdaki ön koşullara sahip olduğunuzdan emin olun:
 - C# ve .NET framework hakkında temel bilgi.
 - Geliştirme makinenize Visual Studio kurulu.
 -  İndirebileceğiniz .NET için Aspose.Words kütüphanesi[Burada](https://releases.aspose.com/words/net/).
--  Aspose.Words için geçerli bir lisans. Eğer henüz yoksa, geçici bir lisans alabilirsiniz[Burada](https://purchase.conholdate.com/temporary-license/).
+- Aspose.Words için geçerli bir lisans. Eğer henüz yoksa, geçici bir lisans alabilirsiniz[Burada](https://purchase.conholdate.com/temporary-license/).
 
 ## Ad Alanlarını İçe Aktar
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Artık gerektiğinde docFromBytes ile çalışabilirsiniz
 }
 ```
-1.  Bellek Akışı Oluşturma: Bir`MemoryStream` bayt dizisinden.
+1.  Bellek Akışı Oluşturma: Bir`MemoryStream`bayt dizisinden.
 2. Belge Yükleme: Belgeyi doğrudan akıştan yükleyin ve sonraki işlemler için hazır hale getirin.
 
 ## Çözüm

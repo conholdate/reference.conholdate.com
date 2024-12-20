@@ -42,7 +42,7 @@ LoadOptions loadOptions = new LoadOptions();
 
 ### Đặt ngôn ngữ chỉnh sửa mặc định thành tiếng Nga
 
- Tiếp theo, thiết lập`DefaultEditingLanguage` tài sản sang tiếng Nga:
+Tiếp theo, thiết lập`DefaultEditingLanguage` tài sản sang tiếng Nga:
 
 ```csharp
 loadOptions.LanguagePreferences.DefaultEditingLanguage = EditingLanguage.Russian;
@@ -99,7 +99,7 @@ Console.WriteLine(
 
 ## Phần kết luận
 
- Việc thiết lập tiếng Nga làm ngôn ngữ chỉnh sửa mặc định trong tài liệu Word bằng Aspose.Words cho .NET là một quá trình đơn giản. Bằng cách cấu hình`LoadOptions`, tải tài liệu và xác minh cài đặt ngôn ngữ, bạn có thể điều chỉnh tài liệu của mình để đáp ứng nhu cầu ngôn ngữ của đối tượng mục tiêu một cách hiệu quả.
+Việc thiết lập tiếng Nga làm ngôn ngữ chỉnh sửa mặc định trong tài liệu Word bằng Aspose.Words cho .NET là một quá trình đơn giản. Bằng cách cấu hình`LoadOptions`, tải tài liệu và xác minh cài đặt ngôn ngữ, bạn có thể điều chỉnh tài liệu của mình để đáp ứng nhu cầu ngôn ngữ của đối tượng mục tiêu một cách hiệu quả.
 
 ## Câu hỏi thường gặp
 
@@ -121,4 +121,4 @@ Aspose.Words for .NET là một thư viện toàn diện để tạo, chỉnh s�
 
 ### Làm thế nào tôi có thể nhận được hỗ trợ cho Aspose.Words dành cho .NET?
 
- Để được hỗ trợ, hãy truy cập[Hỗ trợ Aspose](https://forum.aspose.com/c/words/8) diễn đàn, nơi bạn có thể đặt câu hỏi và nhận được sự hỗ trợ từ cộng đồng và các nhà phát triển Aspose.
+ Để được hỗ trợ, hãy truy cập[Hỗ trợ Aspose](https://forum.aspose.com/c/words/8)diễn đàn, nơi bạn có thể đặt câu hỏi và nhận được sự hỗ trợ từ cộng đồng và các nhà phát triển Aspose.

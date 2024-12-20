@@ -15,7 +15,7 @@ url: /es/net/tutorials/words/section-management/adding-sections/
 
 Antes de comenzar, asegúrese de tener lo siguiente:
 
-1.  Biblioteca Aspose.Words para .NET: descargue la última versión[aquí](https://releases.aspose.com/words/net/).
+1. Biblioteca Aspose.Words para .NET: descargue la última versión[aquí](https://releases.aspose.com/words/net/).
 2. Entorno de desarrollo: un IDE compatible con .NET, como Visual Studio.
 3. Conocimientos básicos de C#: será útil estar familiarizado con la sintaxis de C#.
 4. Documento de Word de muestra (opcional): si bien crearemos uno desde cero, tener una muestra puede ser beneficioso para realizar pruebas.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Ahora que tenemos una nueva sección, vamos a rellenarla con algo de contenido. 
 
- Para agregar contenido a la nueva sección, necesitamos mover el`DocumentBuilder`cursor a esa sección:
+ Para agregar contenido a la nueva sección, necesitamos mover el`DocumentBuilder` cursor a esa sección:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Por último, guardemos el documento para garantizar que todo nuestro arduo traba
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Asegúrese de reemplazar`"YourPath/YourDocument.docx"` con la ruta del archivo deseado donde desea guardar el documento. Esta línea guarda su archivo de Word con todas las secciones y el contenido intactos.
+ Asegúrese de reemplazar`"YourPath/YourDocument.docx"`con la ruta del archivo deseado donde desea guardar el documento. Esta línea guarda su archivo de Word con todas las secciones y el contenido intactos.
 
 ## Conclusión
 

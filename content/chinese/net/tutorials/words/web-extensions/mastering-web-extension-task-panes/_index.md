@@ -9,7 +9,7 @@ url: /zh/net/tutorials/words/web-extensions/mastering-web-extension-task-panes/
 ---
 ## 介绍  
 
-在本综合指南中，我们将深入探讨使用 Aspose.Words for .NET 将 Web 扩展任务窗格集成到 Word 文档的强大功能。任务窗格为用户直接在 Word 文档中使用动态、交互式工具，使工作流程更顺畅、更高效。让我们探索如何使用 Aspose.Words 设置和配置 Web 扩展任务窗格。
+在本综合指南中，我们将深入探讨使用 Aspose.Words for .NET 将 Web 扩展任务窗格集成到 Word 文档的强大功能。任务窗格为用户提供直接在 Word 文档中的动态交互式工具，使工作流程更顺畅、更高效。让我们探索如何使用 Aspose.Words 设置和配置 Web 扩展任务窗格。
 
 ## 先决条件  
 

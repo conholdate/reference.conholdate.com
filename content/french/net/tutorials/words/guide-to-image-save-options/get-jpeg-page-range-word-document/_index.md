@@ -77,7 +77,7 @@ Félicitations ! Vous avez converti avec succès une page spécifique d'un docu
  Vous pouvez améliorer la qualité JPEG grâce à l'`JpegQuality`propriété dans`ImageSaveOptions`Les valeurs vont de 0 (qualité la plus basse) à 100 (qualité la plus élevée).
 
 ### Puis-je enregistrer dans d’autres formats d’image ?  
- Oui, Aspose.Words prend en charge plusieurs formats d'image, notamment PNG, BMP et TIFF. Modifiez simplement le`SaveFormat` dans`ImageSaveOptions` au format souhaité.
+ Oui, Aspose.Words prend en charge plusieurs formats d'image, notamment PNG, BMP et TIFF. Modifiez simplement le`SaveFormat` dans`ImageSaveOptions`au format souhaité.
 
 ### Existe-t-il un moyen de prévisualiser l’image avant de l’enregistrer ?  
 Aspose.Words n'inclut pas de fonctionnalité d'aperçu intégrée, mais vous pouvez créer un mécanisme d'aperçu personnalisé à l'aide d'une application Windows Forms ou WPF.

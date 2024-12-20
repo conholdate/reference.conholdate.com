@@ -94,7 +94,7 @@ ListObject table = worksheet.ListObjects[0];
 
 ## 第 5 步：新增切片器
 
-桌子準備好了，讓我們來增加一個切片機！這透過充當數據的圖形過濾器來增強互動性：
+桌子準備好後，讓我們來添加切片機！這透過充當數據的圖形過濾器來增強互動性：
 
 ```csharp
 int idx = worksheet.Slicers.Add(table, 0, "H5");

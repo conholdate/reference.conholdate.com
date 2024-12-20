@@ -92,4 +92,4 @@ new TeXJob(Path.Combine("Your Input Directory", "required-input-fs.tex"), new Im
 
 ### Πώς μπορώ να αγοράσω Aspose.TeX για .NET;
 
- Μπορείτε να αγοράσετε το Aspose.TeX για .NET απευθείας από το[σελίδα αγοράς](https://purchase.conholdate.com/buy).
+Μπορείτε να αγοράσετε το Aspose.TeX για .NET απευθείας από το[σελίδα αγοράς](https://purchase.conholdate.com/buy).

@@ -125,7 +125,7 @@ Hieronder vindt u links naar nuttige bronnen die u mogelijk nodig hebt om uw tak
 
 **Welcome to the GroupDocs.Redaction for Java**
 
-GroupDocs.Redaction voor Java is een API voor het verwijderen van gevoelige en geclassificeerde informatie uit documenten van verschillende bestandsformaten. De API biedt een enkele formaatonafhankelijke interface voor het verwijderen van gevoelige en geclassificeerde informatie uit documenten. Met de API kunt u gevoelige informatie en inhoud uit het document verwijderen met behulp van verschillende redactiemethoden en het document opslaan in de oorspronkelijke indeling en een ontsmet PDF-document maken met rasterafbeeldingen van originele pagina's.
+GroupDocs.Redaction voor Java is een API voor het verwijderen van gevoelige en geclassificeerde informatie uit documenten met verschillende bestandsformaten. De API biedt een enkele formaatonafhankelijke interface voor het verwijderen van gevoelige en geclassificeerde informatie uit documenten. Met de API kunt u gevoelige informatie en inhoud uit het document verwijderen met behulp van verschillende redactiemethoden en het document opslaan in de oorspronkelijke indeling en een ontsmet PDF-document maken met rasterafbeeldingen van originele pagina's.
 
 {{% /alert %}} 
 ## **GroupDocs.Redaction for Java**

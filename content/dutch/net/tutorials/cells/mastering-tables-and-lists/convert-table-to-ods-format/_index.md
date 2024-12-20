@@ -1,6 +1,6 @@
 ---
-title: Converteer tabel naar ODS-formaat met Aspose.Cells voor .NET
-linktitle: Converteer tabel naar ODS-formaat met Aspose.Cells voor .NET
+title: Converteer een tabel naar ODS-indeling met Aspose.Cells voor .NET
+linktitle: Converteer een tabel naar ODS-indeling met Aspose.Cells voor .NET
 second_title: Aspose.Cells .NET Excel-verwerkings-API
 description: Leer hoe u Excel-spreadsheets naadloos naar ODS-formaat converteert met Aspose.Cells voor .NET. Deze stapsgewijze handleiding.
 type: docs

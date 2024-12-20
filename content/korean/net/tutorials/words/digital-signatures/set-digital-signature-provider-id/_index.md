@@ -15,7 +15,7 @@ url: /ko/net/tutorials/words/digital-signatures/set-digital-signature-provider-i
 
 시작하기 전에 다음 사항이 있는지 확인하세요.
 
-1.  .NET 라이브러리용 Aspose.Words:[여기에서 다운로드하세요](https://releases.aspose.com/words/net/).
+1. .NET 라이브러리용 Aspose.Words:[여기에서 다운로드하세요](https://releases.aspose.com/words/net/).
 2. 개발 환경: Visual Studio 또는 C# 호환 IDE.
 3.  Word 문서: 서명란이 있는 문서(예:`Signature line.docx`).
 4.  디지털 인증서: A`.pfx` 인증서 파일(예:`morzal.pfx`).

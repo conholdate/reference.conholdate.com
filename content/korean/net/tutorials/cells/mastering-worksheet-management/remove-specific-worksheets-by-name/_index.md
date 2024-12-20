@@ -59,7 +59,7 @@ workbook.Worksheets.RemoveAt("Sheet1");
 
 ## 5단계: 수정된 통합 문서 저장
 
-원하지 않는 워크시트를 제거한 후 원본을 보존하려면 변경 사항을 새 파일에 저장하세요.
+원하지 않는 워크시트를 제거한 후 원본을 보존하기 위해 변경 사항을 새 파일에 저장하세요.
 
 ```csharp
 workbook.Save(dataDir + "output.out.xls");

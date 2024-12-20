@@ -47,7 +47,7 @@ Workbook excel = new Workbook();
 
 ## Steg 2: Öppna kalkylbladet och egenskaperna för sidinställningar
 
- Varje kalkylblad i Aspose.Cells har en`PageSetup` egenskap som styr layoutfunktioner, inklusive sidhuvuden och sidfötter. Skaffa`PageSetup` objekt för ditt arbetsblad:
+ Varje kalkylblad i Aspose.Cells har en`PageSetup` egenskap som styr layoutfunktioner, inklusive sidhuvuden och sidfötter. Skaffa`PageSetup` objekt för ditt kalkylblad:
 
 ```csharp
 // Skaffa referensen till PageSetup för det första kalkylbladet
@@ -76,7 +76,7 @@ Lägg sedan till aktuellt datum och tid i mittsektionen av rubriken och använd 
 pageSetup.SetHeader(1, "&\"Times New Roman,Bold\"&D-&T");
 ```
 
-I denna rad:
+På denna rad:
 - `&D` infogar aktuellt datum.
 - `&T` infogar aktuell tid.
 - `"Times New Roman,Bold"` använder ett djärvt Times New Roman-teckensnitt.

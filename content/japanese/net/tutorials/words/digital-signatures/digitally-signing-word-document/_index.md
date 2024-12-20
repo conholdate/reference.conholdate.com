@@ -65,7 +65,7 @@ Document doc = new Document(dataDir + "Digitally signed.docx");
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`このメソッドはドキュメントに署名します。パラメータは、元のドキュメントのパス、署名されたドキュメントの目的のパス、および証明書の所有者です。
+- `DigitalSignatureUtil.Sign`: このメソッドはドキュメントに署名します。パラメータは、元のドキュメントのパス、署名されたドキュメントの目的のパス、および証明書の所有者です。
 
 ## ステップ5: 署名した文書を保存する
 

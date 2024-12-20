@@ -15,7 +15,7 @@ Pernahkah Anda menghadapi tugas membuat dokumen Word yang memerlukan pengaturan 
 
 Sebelum kita mulai, pastikan Anda memiliki hal berikut:
 
-1.  Pustaka Aspose.Words untuk .NET: Unduh versi terbaru[Di Sini](https://releases.aspose.com/words/net/).
+1. Pustaka Aspose.Words untuk .NET: Unduh versi terbaru[Di Sini](https://releases.aspose.com/words/net/).
 2. Lingkungan Pengembangan: IDE yang kompatibel dengan .NET, seperti Visual Studio.
 3. Pengetahuan Dasar C#: Kemampuan dalam sintaksis C# akan sangat membantu.
 4. Contoh Dokumen Word (Opsional): Meskipun kami akan membuatnya dari awal, memiliki contoh dapat bermanfaat untuk pengujian.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Sekarang kita punya bagian baru, mari isi dengan beberapa konten. 
 
- Untuk menambahkan konten ke bagian baru, kita perlu memindahkan`DocumentBuilder`kursor ke bagian itu:
+ Untuk menambahkan konten ke bagian baru, kita perlu memindahkan`DocumentBuilder` kursor ke bagian itu:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Terakhir, mari simpan dokumen untuk memastikan semua kerja keras kita aman:
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Pastikan untuk mengganti`"YourPath/YourDocument.docx"` dengan jalur file yang diinginkan tempat Anda ingin menyimpan dokumen. Baris ini menyimpan file Word Anda dengan semua bagian dan konten yang utuh.
+ Pastikan untuk mengganti`"YourPath/YourDocument.docx"`dengan jalur file yang diinginkan tempat Anda ingin menyimpan dokumen. Baris ini menyimpan file Word Anda dengan semua bagian dan konten yang utuh.
 
 ## Kesimpulan
 

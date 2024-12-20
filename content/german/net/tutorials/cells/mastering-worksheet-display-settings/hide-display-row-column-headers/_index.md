@@ -123,7 +123,7 @@ Aspose.Cells ist eine .NET-Bibliothek, die die programmgesteuerte Bearbeitung vo
  Absolut! Einfach einstellen`worksheet.IsRowColumnHeadersVisible` Zu`true` , um die Überschriften wieder anzuzeigen.
 
 ### Ist Aspose.Cells kostenlos?
- Aspose.Cells ist eine kostenpflichtige Bibliothek, aber Sie können sie für eine begrenzte Zeit kostenlos ausprobieren. Überprüfen Sie deren[Seite „Kostenlose Testversion“](https://releases.aspose.com/).
+ Aspose.Cells ist eine kostenpflichtige Bibliothek, die Sie jedoch für eine begrenzte Zeit kostenlos ausprobieren können. Überprüfen Sie deren[Seite „Kostenlose Testversion“](https://releases.aspose.com/).
 
 ### Wo finde ich weitere Dokumentation?
  Weitere Details und Methoden zu Aspose.Cells finden Sie auf der[Dokumentationsseite](https://reference.aspose.com/cells/net/).

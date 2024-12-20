@@ -54,7 +54,7 @@ Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");
 
 ## Phần kết luận
 
-Và thế là xong! Bạn đã xác minh thành công trạng thái mã hóa của một tài liệu Word bằng Aspose.Words cho .NET. Thật ấn tượng khi chỉ cần một vài dòng mã có thể đơn giản hóa các tác vụ như vậy. Nếu bạn có bất kỳ câu hỏi hoặc gặp bất kỳ vấn đề nào, hãy liên hệ với chúng tôi qua[Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/words/8).
+ Và thế là xong! Bạn đã xác minh thành công trạng thái mã hóa của một tài liệu Word bằng Aspose.Words cho .NET. Thật ấn tượng khi chỉ cần một vài dòng mã có thể đơn giản hóa các tác vụ như vậy. Nếu bạn có bất kỳ câu hỏi hoặc gặp bất kỳ vấn đề nào, hãy liên hệ với chúng tôi qua[Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/words/8).
 
 ## Câu hỏi thường gặp
 

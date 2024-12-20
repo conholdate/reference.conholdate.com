@@ -24,8 +24,8 @@ Voordat we beginnen, zorg ervoor dat u het volgende geregeld hebt:
 
 Om te beginnen volgt u deze stappen om uw projectmap in te stellen:
 
-1. Maak een projectmap: Maak een map met de naam`Documents` op uw computer. Hier slaat u uw HTML-bestanden en de PDF-uitvoer op.
-2.  Voeg uw HTML-bestand toe: Plaats uw HTML-bestand (bijv.`HTMLToPDF.html` ) in de`Documents` map.
+1.  Maak een projectmap: Maak een map met de naam`Documents` op uw computer. Hier slaat u uw HTML-bestanden en de PDF-uitvoer op.
+2.  Voeg uw HTML-bestand toe: Plaats uw HTML-bestand (bijv.`HTMLToPDF.html` in de`Documents` map.
 
 ## Noodzakelijke pakketten importeren
 

@@ -75,7 +75,7 @@ Absolument ! Le seuillage Bradley est polyvalent et peut être appliqué à la p
 
 ### Existe-t-il une version d'essai disponible ?
 
- Oui ! Vous pouvez tester Aspose.PSD pour .NET avec une version d'essai gratuite[ici](https://releases.aspose.com/).
+Oui ! Vous pouvez tester Aspose.PSD pour .NET avec une version d'essai gratuite[ici](https://releases.aspose.com/).
 
 ### Comment puis-je obtenir de l'aide pour Aspose.PSD ?
 

@@ -97,7 +97,7 @@ Gratulacje! Właśnie nauczyłeś się, jak konwertować treść HTML z wiadomo�
 
 ## Najczęściej zadawane pytania
 
-### Do czego używany jest język C# w tym samouczku?  
+### Do czego służy język C# w tym samouczku?  
 C# to język programowania, którego używamy do wykonywania logiki niezbędnej do konwersji HTML na zwykły tekst.
 
 ### Czy potrzebuję licencji, aby korzystać z produktów Aspose?  

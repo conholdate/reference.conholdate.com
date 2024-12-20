@@ -59,7 +59,7 @@ Ez a lépés betölti a munkafüzetet a memóriába, lehetővé téve a további
 
 ## 4. lépés: Nyissa meg a kívánt munkalapot  
 
-A munkafüzetek több lapot is tartalmazhatnak. Az első munkalap kiválasztása a következőképpen történik:  
+A munkafüzeteknek több lapja is lehet. Az első munkalap kiválasztása a következőképpen történik:  
 
 ```csharp
 Worksheet worksheet = workbook.Worksheets[0];

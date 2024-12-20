@@ -117,7 +117,7 @@ Oui, vous pouvez joindre plusieurs fichiers en répétant le processus de pièce
 ### Quels formats d’image sont pris en charge pour les icônes ?
 Aspose.Note prend en charge les formats JPEG, PNG, BMP et GIF pour les icônes de pièces jointes.
 
-### Est-il possible de joindre des fichiers de manière dynamique à partir d'URL externes ?
+### Est-il possible de joindre dynamiquement des fichiers à partir d'URL externes ?
  Vous pouvez télécharger des fichiers à l'aide de bibliothèques .NET telles que`HttpClient` puis attachez-les à l'aide d'Aspose.Note.
 
 ### Existe-t-il des limitations quant à la taille des fichiers pour les pièces jointes ?

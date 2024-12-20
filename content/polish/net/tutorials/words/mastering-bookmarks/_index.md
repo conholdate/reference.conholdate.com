@@ -9,7 +9,7 @@ url: /pl/net/tutorials/words/mastering-bookmarks/
 ---
 ## Wstęp
 
-Jeśli chodzi o tworzenie profesjonalnie wyglądających dokumentów Word, zakładki są przełomem. Pomyśl o zakładkach jako o cyfrowych karteczkach samoprzylepnych w dokumentach — pomagają Ci one sprawnie poruszać się po treściach, odwoływać się do nich i nimi zarządzać. Używając Aspose.Words dla .NET, możesz przenieść swoje umiejętności edycji dokumentów na wyższy poziom, dzięki czemu Twoja praca będzie nie tylko łatwiejsza, ale również znacznie bardziej efektywna. Jesteś gotowy, aby wykorzystać potencjał zakładek? Zaczynajmy!
+Jeśli chodzi o tworzenie profesjonalnie wyglądających dokumentów Word, zakładki są przełomem. Pomyśl o zakładkach jako o cyfrowych karteczkach samoprzylepnych w dokumentach — pomagają Ci one sprawnie poruszać się po treściach, odwoływać się do nich i nimi zarządzać. Używając Aspose.Words dla .NET, możesz przenieść swoje umiejętności edycji dokumentów na wyższy poziom, dzięki czemu Twoja praca będzie nie tylko łatwiejsza, ale również znacznie bardziej efektywna. Gotowy, aby odkryć potencjał zakładek? Zaczynajmy!
 
 ## Czym są zakładki i dlaczego warto ich używać?
 

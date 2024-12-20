@@ -15,7 +15,7 @@ url: /es/net/tutorials/words/words-with-textboxes/textbox-sequences-check/
 
 Antes de sumergirnos en el código, asegúrese de tener lo siguiente:
 
-1.  Biblioteca Aspose.Words para .NET: descargue la última versión[aquí](https://releases.aspose.com/words/net/).
+1. Biblioteca Aspose.Words para .NET: descargue la última versión[aquí](https://releases.aspose.com/words/net/).
 2. Entorno de desarrollo: Un entorno compatible con .NET como Visual Studio.
 3. Conocimientos básicos de C#: será útil estar familiarizado con la sintaxis de C#.
 4. Documento de muestra: es útil tener un documento de Word a mano, pero en este ejemplo crearemos todo desde cero.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 En este fragmento:
 - `ShapeType.TextBox` especifica que estamos creando una forma de cuadro de texto.
-- `textBox`es la instancia del cuadro de texto real que manipularemos.
+- `textBox` es la instancia del cuadro de texto real que manipularemos.
 
 ## Paso 3: Comprobación de la secuencia de cuadros de texto
 
@@ -126,7 +126,7 @@ Conocer la secuencia permite gestionar el flujo lógico del contenido, especialm
 Sí, los cuadros de texto se pueden vincular de varias maneras, siempre que la disposición resultante tenga sentido para el contenido.
 
 ### ¿Cómo puedo desvincular un cuadro de texto de una secuencia?
- Puedes configurarlo`Next` o`Previous` Propiedades a`null` según sea necesario.
+ Puedes configurarlo`Next` o`Previous` Propiedades a`null`según sea necesario.
 
 ### ¿Es posible darle un estilo diferente al texto dentro de los cuadros de texto vinculados?
 ¡Por supuesto! Puedes aplicar estilos independientes al contenido de cada cuadro de texto, lo que proporciona flexibilidad de diseño.

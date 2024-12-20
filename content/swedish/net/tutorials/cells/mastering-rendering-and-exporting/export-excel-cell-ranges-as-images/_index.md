@@ -150,7 +150,7 @@ Aspose.Cells är designad för att hantera stora intervall, men prestandan kan v
 
 ### Kan jag automatisera denna process?
 
-Definitivt! Du kan integrera den här funktionen i större applikationer eller skript för automatisering.
+Definitivt! Du kan integrera denna funktionalitet i större applikationer eller skript för automatisering.
 
 ### Var kan jag få ytterligare stöd?
 

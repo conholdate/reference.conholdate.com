@@ -31,7 +31,7 @@ using System.IO;
 
 ## Krok 1: Otwórz strumienie wejściowe i wyjściowe ZIP
 
-Najpierw musisz otworzyć strumienie dla archiwów Zip wejściowych i wyjściowych. Zastąp`"Your Input Directory"` I`"Your Output Directory"` ze wskazanymi przez Ciebie ścieżkami.
+ Najpierw musisz otworzyć strumienie dla archiwów Zip wejściowych i wyjściowych. Zastąp`"Your Input Directory"` I`"Your Output Directory"` ze wskazanymi przez Ciebie ścieżkami.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

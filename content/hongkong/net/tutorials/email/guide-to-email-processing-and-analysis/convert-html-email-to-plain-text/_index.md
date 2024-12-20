@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
 透過訪問`HtmlBody`的財產`MailMessage`對象，HTML 內容現在儲存在名為的字串變數中`htmlBody`.
 
-### 步驟 3： 準備將 HTML 轉換為純文字
+### 第 3 步：準備將 HTML 轉換為純文字
 
 現在我們已經有了 HTML 內容，是時候為轉換做好準備了。我們將利用 Aspose.Words 將豐富的 HTML 轉換為純文字。但首先，我們需要建立一個新文件：
 
@@ -110,4 +110,4 @@ C# 是我們用來執行將 HTML 轉換為純文字所需邏輯的程式語言�
 您可以在以下位置探索更多範例和詳細文檔[Aspose 電子郵件文件頁面](https://reference.aspose.com/email/net/).
 
 ### 如果我在實施過程中遇到問題怎麼辦？  
-如需疑難排解和支持，您可以造訪 Aspose 支援論壇[這裡](https://forum.aspose.com/c/email/12/).
+如需故障排除和支持，您可以造訪 Aspose 支援論壇[這裡](https://forum.aspose.com/c/email/12/).

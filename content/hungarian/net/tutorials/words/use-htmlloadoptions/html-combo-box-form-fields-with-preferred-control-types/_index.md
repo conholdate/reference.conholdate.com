@@ -101,7 +101,7 @@ Ez létrehoz egy Word-fájlt, amely tartalmazza a megfelelően megjelenített ko
 ## GYIK
 
 ###  Mi az`HtmlControlType` in Aspose.Words for .NET?
-`HtmlControlType` meghatározza, hogy a HTML űrlapvezérlők hogyan jelenjenek meg a Word dokumentumokban. A lehetőségek közé tartozik`StructuredDocumentTag`, `InlineText`és mások.
+`HtmlControlType` meghatározza, hogy a HTML űrlapvezérlők hogyan jelenjenek meg a Word dokumentumokban. A lehetőségek közé tartozik`StructuredDocumentTag`, `InlineText`, és mások.
 
 ### Testreszabhatom a kombinált mezőt renderelés után?
 Igen, módosíthatja a kombinált mezőt az Aspose.Words API használatával, például új beállítások hozzáadásával vagy tulajdonságok módosításával.

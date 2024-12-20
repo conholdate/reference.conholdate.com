@@ -51,7 +51,7 @@ Workbook wb = new Workbook(sourceDir + "sampleRootElementNameOfXmlMap.xlsx");
  Nahradit`"sampleRootElementNameOfXmlMap.xlsx"` s vaším skutečným názvem souboru. Tento příkaz inicializuje novou instanci`Workbook`, načte se zadaný soubor Excel.
 
 ## Krok 3: Přístup k mapě XML
-Soubory aplikace Excel mohou obsahovat více map XML; v tomto příkladu se zaměříme na přístup k prvnímu.
+Soubory Excel mohou obsahovat více map XML; v tomto příkladu se zaměříme na přístup k prvnímu.
 
 ```csharp
 // Získejte přístup k první mapě XML v sešitu

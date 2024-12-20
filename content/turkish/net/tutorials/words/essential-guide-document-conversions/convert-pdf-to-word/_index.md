@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Adım 2: PDF Belgesini Yükleme
 
-Şimdi Aspose.Words'ü kullanarak PDF dokümanını projemize yükleyelim.
+Şimdi PDF dokümanını Aspose.Words kullanarak projemize yükleyelim.
 
 ```csharp
 Document doc = new Document(dataDir + "Pdf Document.pdf");

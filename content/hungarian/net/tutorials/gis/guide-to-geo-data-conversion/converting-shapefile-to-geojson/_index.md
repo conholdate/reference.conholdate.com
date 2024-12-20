@@ -37,7 +37,7 @@ string dataDir = @"C:\Your\Document\Directory\";
 string shapefilePath = System.IO.Path.Combine(dataDir, "InputShapeFile.shp");
 string jsonPath = System.IO.Path.Combine(dataDir, "output_out.json");
 ```
- Mindenképpen cserélje ki`@"C:\Your\Document\Directory\"` a fájlok tényleges elérési útjával.
+ Ügyeljen arra, hogy cserélje ki`@"C:\Your\Document\Directory\"` a fájlok tényleges elérési útjával.
 
 ## 2. lépés: Hajtsa végre az átalakítást
  Használja ki a`VectorLayer.Convert` az átalakítás végrehajtásának módja:

@@ -65,7 +65,7 @@ Setelah dokumen dan sertifikat dimuat, saatnya untuk menandatangani:
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Metode ini menandatangani dokumen. Parameternya adalah jalur dokumen asli, jalur yang diinginkan untuk dokumen yang ditandatangani, dan pemegang sertifikat.
+- `DigitalSignatureUtil.Sign`: Metode ini menandatangani dokumen. Parameternya adalah jalur dokumen asli, jalur yang diinginkan untuk dokumen yang ditandatangani, dan pemegang sertifikat.
 
 ## Langkah 5: Simpan Dokumen yang Ditandatangani
 

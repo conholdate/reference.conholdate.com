@@ -75,7 +75,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 ### 체험판이 있나요?
 
- 네! 무료 평가판으로 Aspose.PSD for .NET을 사용해 볼 수 있습니다.[여기](https://releases.aspose.com/).
+네! 무료 평가판으로 Aspose.PSD for .NET을 사용해 볼 수 있습니다.[여기](https://releases.aspose.com/).
 
 ### Aspose.PSD에 대한 지원은 어떻게 받을 수 있나요?
 

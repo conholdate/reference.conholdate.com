@@ -90,7 +90,7 @@ doc.Save(dataDir + "WorkingWithImageSaveOptions.PageSavingCallback.png", imageSa
 ## Часто задаваемые вопросы
 
 ### Могу ли я сохранять страницы в форматах, отличных от PNG?
- Да! Вы можете сохранять страницы в таких форматах, как JPEG, BMP и TIFF, изменяя`SaveFormat` в`ImageSaveOptions`.
+ Да! Вы можете сохранять страницы в таких форматах, как JPEG, BMP и TIFF, изменив`SaveFormat` в`ImageSaveOptions`.
 
 ### Как сохранить только определенные страницы?
  Чтобы сохранить определенные страницы, настройте`PageSet` параметр в`ImageSaveOptions` чтобы включить только нужные страницы.

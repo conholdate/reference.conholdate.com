@@ -47,7 +47,7 @@ string dataDir = "C:\\YourDocumentDirectory\\";
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // आपकी स्रोत PSD फ़ाइल का पथ
-string destName = dataDir + "result.png";   //आउटपुट छवि फ़ाइल के लिए पथ
+string destName = dataDir + "result.png";   // आउटपुट छवि फ़ाइल के लिए पथ
 ```
 
 ## चरण 3: PSD छवि लोड करें और न मिले फ़ॉन्ट को संभालें

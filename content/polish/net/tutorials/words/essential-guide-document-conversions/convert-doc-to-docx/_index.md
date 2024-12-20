@@ -9,7 +9,7 @@ url: /pl/net/tutorials/words/essential-guide-document-conversions/convert-doc-to
 ---
 ## Wstęp
 
-W tym samouczku przeprowadzimy Cię przez proces konwersji plików DOC do formatu DOCX przy użyciu Aspose.Words dla .NET. Aspose.Words to potężna biblioteka dla .NET, która umożliwia programistom łatwe tworzenie, modyfikowanie i konwertowanie dokumentów Word. Ten przewodnik został zaprojektowany, aby zapewnić Ci wszystko, czego potrzebujesz, aby sprawnie przeprowadzić konwersję DOC do DOCX.
+tym samouczku przeprowadzimy Cię przez proces konwersji plików DOC do formatu DOCX przy użyciu Aspose.Words dla .NET. Aspose.Words to potężna biblioteka dla .NET, która umożliwia programistom łatwe tworzenie, modyfikowanie i konwertowanie dokumentów Word. Ten przewodnik został zaprojektowany, aby zapewnić Ci wszystko, czego potrzebujesz, aby sprawnie przeprowadzić konwersję DOC do DOCX.
 
 ## Wymagania wstępne
 
@@ -68,6 +68,6 @@ Tak, Aspose.Words obsługuje wiele formatów, w tym PDF, HTML, RTF, TXT i inne.
  Możesz kupić licencję[Tutaj](https://purchase.conholdate.com/buy).
 
 ### Gdzie mogę uzyskać pomoc dotyczącą Aspose.Words?
- Aspose.Słowa[forum wsparcia](https://forum.aspose.com/c/words/8) jest dostępny, aby udzielić pomocy.
+Aspose.Słowa[forum wsparcia](https://forum.aspose.com/c/words/8) jest dostępny, aby udzielić pomocy.
 
 

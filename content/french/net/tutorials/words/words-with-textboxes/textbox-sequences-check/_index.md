@@ -15,7 +15,7 @@ Bonjour à tous les développeurs et passionnés de documents ! 🌟 Avez-vous d
 
 Avant de plonger dans le code, assurez-vous de disposer des éléments suivants :
 
-1.  Bibliothèque Aspose.Words pour .NET : téléchargez la dernière version[ici](https://releases.aspose.com/words/net/).
+1. Bibliothèque Aspose.Words pour .NET : téléchargez la dernière version[ici](https://releases.aspose.com/words/net/).
 2. Environnement de développement : un environnement compatible .NET comme Visual Studio.
 3. Connaissances de base de C# : une connaissance de la syntaxe C# sera utile.
 4. Exemple de document : il est utile d'avoir un document Word à portée de main, mais nous allons tout créer à partir de zéro dans cet exemple.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 Dans cet extrait :
 - `ShapeType.TextBox` spécifie que nous créons une forme de zone de texte.
-- `textBox`est l'instance réelle de la zone de texte que nous allons manipuler.
+- `textBox` est l'instance réelle de la zone de texte que nous allons manipuler.
 
 ## Étape 3 : Vérification de la séquence des zones de texte
 
@@ -126,7 +126,7 @@ Connaître la séquence vous permet de gérer le flux logique du contenu, en par
 Oui, les zones de texte peuvent être liées de différentes manières, à condition que la disposition résultante soit logique pour votre contenu.
 
 ### Comment puis-je dissocier une zone de texte d’une séquence ?
- Vous pouvez définir son`Next` ou`Previous` propriétés à`null` selon les besoins.
+ Vous pouvez définir son`Next` ou`Previous` propriétés à`null`selon les besoins.
 
 ### Est-il possible de styliser différemment le texte à l'intérieur des zones de texte liées ?
 Absolument ! Vous pouvez appliquer des styles indépendants au contenu de chaque zone de texte, offrant ainsi une certaine flexibilité de conception.

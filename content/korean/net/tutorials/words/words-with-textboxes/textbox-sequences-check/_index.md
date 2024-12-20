@@ -15,7 +15,7 @@ url: /ko/net/tutorials/words/words-with-textboxes/textbox-sequences-check/
 
 코드를 살펴보기 전에 다음 사항이 있는지 확인하세요.
 
-1.  Aspose.Words for .NET 라이브러리: 최신 버전 다운로드[여기](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET 라이브러리: 최신 버전 다운로드[여기](https://releases.aspose.com/words/net/).
 2. 개발 환경: Visual Studio와 같은 .NET 호환 환경.
 3. 기본 C# 지식: C# 구문에 익숙하면 도움이 됩니다.
 4. 샘플 문서: Word 문서를 준비해 두면 도움이 되지만, 이 예에서는 모든 것을 처음부터 만들어 보겠습니다.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 이 스니펫에서:
 - `ShapeType.TextBox` 텍스트 상자 모양을 만든다는 것을 지정합니다.
-- `textBox`우리가 조작할 실제 텍스트 상자 인스턴스입니다.
+- `textBox` 우리가 조작할 실제 텍스트 상자 인스턴스입니다.
 
 ## 3단계: 텍스트 상자 순서 확인
 
@@ -126,7 +126,7 @@ doc.Save("TextBoxSequenceCheck.docx");
 네, 텍스트 상자는 다양한 방법으로 연결할 수 있지만, 그 배열이 콘텐츠에 의미가 있어야 합니다.
 
 ### 텍스트 상자와 시퀀스의 연결을 해제하려면 어떻게 해야 하나요?
- 설정할 수 있습니다`Next` 또는`Previous` 속성에`null` 필요에 따라.
+ 설정할 수 있습니다`Next` 또는`Previous` 속성에`null`필요에 따라.
 
 ### 링크된 텍스트 상자 안의 텍스트 스타일을 다르게 지정할 수 있나요?
 물론입니다! 각 텍스트 상자의 콘텐츠에 독립적인 스타일을 적용하여 디자인의 유연성을 제공할 수 있습니다.

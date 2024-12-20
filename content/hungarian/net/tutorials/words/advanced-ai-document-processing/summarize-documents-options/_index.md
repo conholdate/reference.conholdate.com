@@ -1,6 +1,6 @@
 ---
-title: Összefoglalja a dokumentumok opcióit
-linktitle: Összefoglalja a dokumentumok opcióit
+title: Összefoglalja a dokumentumok beállításait
+linktitle: Összefoglalja a dokumentumok beállításait
 second_title: Aspose.Words Document Processing API
 description: Ismerje meg, hogyan lehet hatékonyan összefoglalni dokumentumokat az Aspose.Words for .NET segítségével. Ez az átfogó útmutató kiterjed a beállításra, a dokumentumbetöltésre és az AI-modell integrációjára.
 type: docs

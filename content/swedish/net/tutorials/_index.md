@@ -20,7 +20,7 @@ Aspose.Words tutorials och kodsnuttar för att skapa, redigera, konvertera, skri
 Aspose.PDF-handledningar och kodsnuttar för att arbeta med PDF-filer. Skapa, redigera, konvertera och extrahera PDF-dokument med omfattande funktioner i din applikation.
 {{% /alert %}}
 
-### Aspose.PDF handledningar
+### Aspose.PDF handledning
 - [Aspose.PDF för .NET Tutorials](./pdf/)
 
 ## Aspose.Cells
@@ -188,7 +188,7 @@ Upptäck omfattande självstudier för GroupDocs.Comparison för .NET, vilket un
 Lås upp den fulla potentialen hos GroupDocs.Annotation för .NET med våra tutorials. Integrera sömlöst, förbättra samarbetet och effektivisera arbetsflöden.
 {{% /alert %}}
 
-### Handledningar för GroupDocs.Annotation
+### GroupDocs.Annotation Tutorials
 - [GroupDocs.Annotation för .NET Tutorials](./annotation/)
 
 ## GroupDocs.Signature

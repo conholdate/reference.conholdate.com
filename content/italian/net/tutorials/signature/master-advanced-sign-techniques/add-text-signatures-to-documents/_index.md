@@ -9,7 +9,7 @@ url: /it/net/tutorials/signature/master-advanced-sign-techniques/add-text-signat
 ---
 ## Introduzione
 
-Nel panorama digitale odierno, la firma elettronica dei documenti è diventata essenziale per semplificare i flussi di lavoro e risparmiare risorse. GroupDocs.Signature per .NET fornisce una potente soluzione per aggiungere a livello di programmazione firme di testo a vari formati di documento. Questo tutorial ti guiderà attraverso i passaggi per firmare un documento con testo utilizzando GroupDocs.Signature per .NET.
+Nel panorama digitale odierno, la firma elettronica dei documenti è diventata essenziale per semplificare i flussi di lavoro e risparmiare risorse. GroupDocs.Signature per .NET fornisce una potente soluzione per aggiungere a livello di programmazione firme di testo a vari formati di documenti. Questo tutorial ti guiderà attraverso i passaggi per firmare un documento con testo utilizzando GroupDocs.Signature per .NET.
 
 ## Prerequisiti
 

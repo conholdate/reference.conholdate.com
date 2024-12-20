@@ -40,7 +40,7 @@ Document doc = new Document(dataDir + "YourDocument.docx");
 
 ## ขั้นตอนที่ 2: แปลงเป็นรูปแบบมาร์กดาวน์
 
-เมื่อคุณโหลดไฟล์ DOCX แล้ว คุณสามารถบันทึกไฟล์เป็นรูปแบบ Markdown ได้อย่างง่ายดาย ใช้โค้ดสั้นๆ ต่อไปนี้เพื่อดำเนินการแปลง:
+เมื่อคุณโหลดไฟล์ DOCX เสร็จแล้ว คุณสามารถบันทึกไฟล์เป็นรูปแบบ Markdown ได้อย่างง่ายดาย ใช้โค้ดสั้นๆ ต่อไปนี้เพื่อดำเนินการแปลง:
 
 ```csharp
 doc.Save(dataDir + "ConvertedDocument.md", SaveFormat.Markdown);

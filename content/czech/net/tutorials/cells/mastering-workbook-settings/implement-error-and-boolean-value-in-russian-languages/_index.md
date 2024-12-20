@@ -130,7 +130,7 @@ Po spuštění tohoto kódu najdete výstupní PDF v zadaném výstupním adres�
 
 ###  Jak mohu přidat další chybové hodnoty a booleovské hodnoty`RussianGlobalization`?
 
- Pro prodloužení`RussianGlobalization` třídy, můžete přidat další případy v`GetErrorValueString` a`GetBooleanValueString` metody pro další běžné chybové hodnoty, jako je`"#NUM!"`, `"#VALUE!"`atd. a poskytují jejich ruské překlady.
+ Pro prodloužení`RussianGlobalization` třídy, můžete přidat další případy v`GetErrorValueString` a`GetBooleanValueString` metody pro jiné běžné chybové hodnoty jako`"#NUM!"`, `"#VALUE!"`atd. a poskytují jejich ruské překlady.
 
 ###  Mohu uplatnit`RussianGlobalization` class to other Aspose products?
 

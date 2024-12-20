@@ -87,14 +87,14 @@ doc.Save(dataDir + "Document.Signed.docx");
 ### 什麼是數位簽章？
 數位簽名是一種電子簽名，可驗證簽名者的身份並確認文件未被更改。
 
-### 為什麼需要數位憑證？
+### 為什麼我需要數位憑證？
 數位憑證對於建立數位簽章至關重要。它包含公鑰和簽名者的身份，允許其他人驗證簽名。
 
 ### 我可以使用任何 .pfx 檔案進行簽署嗎？
 是的，只要 .pfx 檔案包含有效的數位憑證並且您有存取它的密碼。
 
 ### Aspose.Words for .NET 可以免費使用嗎？
- Aspose.Words for .NET 是一個商業函式庫。您可以下載免費試用版[這裡](https://releases.aspose.com/)，但完整功能需要許可證。購買它[這裡](https://purchase.aspose.com/buy).
+ Aspose.Words for .NET 是一個商業函式庫。您可以下載免費試用版[這裡](https://releases.aspose.com/)，但完整功能需要許可證。購買吧[這裡](https://purchase.aspose.com/buy).
 
 ### 在哪裡可以找到有關 Aspose.Words for .NET 的更多資訊？
 如需全面的文檔，請訪問[這裡](https://reference.aspose.com/words/net/)如需支持，請查看[這個論壇](https://forum.aspose.com/c/words/8).

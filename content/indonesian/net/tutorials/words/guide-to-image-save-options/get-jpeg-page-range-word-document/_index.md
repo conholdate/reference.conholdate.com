@@ -77,7 +77,7 @@ Selamat! Anda telah berhasil mengonversi halaman tertentu dari dokumen Word menj
  Anda dapat meningkatkan kualitas JPEG melalui`JpegQuality`properti di`ImageSaveOptions`Nilai berkisar dari 0 (kualitas terendah) hingga 100 (kualitas tertinggi).
 
 ### Bisakah saya menyimpan dalam format gambar lain?  
- Ya, Aspose.Words mendukung beberapa format gambar, termasuk PNG, BMP, dan TIFF. Cukup ubah`SaveFormat` di dalam`ImageSaveOptions` ke format yang Anda inginkan.
+ Ya, Aspose.Words mendukung beberapa format gambar, termasuk PNG, BMP, dan TIFF. Cukup ubah`SaveFormat` di dalam`ImageSaveOptions`ke format yang Anda inginkan.
 
 ### Apakah ada cara untuk melihat pratinjau gambar sebelum menyimpan?  
 Aspose.Words tidak menyertakan fitur pratinjau bawaan, tetapi Anda dapat membangun mekanisme pratinjau khusus menggunakan aplikasi Windows Forms atau WPF.

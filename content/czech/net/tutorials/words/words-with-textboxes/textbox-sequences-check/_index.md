@@ -15,7 +15,7 @@ Dobrý den, kolegové vývojáři a příznivci dokumentů! 🌟 Už jste někdy
 
 Než se ponoříme do kódu, ujistěte se, že máte následující:
 
-1.  Aspose.Words for .NET Library: Stáhněte si nejnovější verzi[zde](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Library: Stáhněte si nejnovější verzi[zde](https://releases.aspose.com/words/net/).
 2. Vývojové prostředí: Prostředí kompatibilní s .NET, jako je Visual Studio.
 3. Základní znalost C#: Bude užitečná znalost syntaxe C#.
 4. Ukázkový dokument: Je užitečné mít po ruce dokument aplikace Word, ale v tomto příkladu vytvoříme vše od začátku.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 V tomto úryvku:
 - `ShapeType.TextBox` určuje, že vytváříme tvar textového pole.
-- `textBox`je skutečná instance textového pole, se kterou budeme manipulovat.
+- `textBox` je skutečná instance textového pole, se kterou budeme manipulovat.
 
 ## Krok 3: Kontrola posloupnosti textových polí
 
@@ -126,7 +126,7 @@ Znalost posloupnosti vám umožňuje řídit logický tok obsahu, zejména u pro
 Ano, textová pole lze propojovat různými způsoby, pokud výsledné uspořádání dává vašemu obsahu smysl.
 
 ### Jak mohu odpojit textové pole od sekvence?
- Můžete jej nastavit`Next` nebo`Previous` vlastnosti do`null` podle potřeby.
+ Můžete jej nastavit`Next` nebo`Previous` vlastnosti do`null`podle potřeby.
 
 ### Je možné stylovat text uvnitř propojených textových polí jinak?
 Absolutně! Na obsah každého textového pole můžete použít nezávislé styly, což poskytuje flexibilitu návrhu.

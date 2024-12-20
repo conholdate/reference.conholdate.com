@@ -25,7 +25,7 @@ url: /zh-hant/net/tutorials/pdf/mastering-document-conversion/mastering-html-to-
 首先，請依照以下步驟設定項目目錄：
 
 1. 建立專案目錄：建立一個名為的資料夾`Documents`在您的計算機上。您將在此處儲存 HTML 檔案和輸出 PDF。
-2. 新增您的 HTML 檔案：放置您的 HTML 檔案（例如，`HTMLToPDF.html` ）在`Documents`資料夾。
+2. 新增您的 HTML 檔案：放置您的 HTML 檔案（例如，`HTMLToPDF.html`）在`Documents`資料夾。
 
 ## 導入必要的套件
 

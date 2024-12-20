@@ -30,7 +30,7 @@ using Aspose.Zip.Cpio;
 
 ## Steg 1: Ställ in din dokumentkatalog
 
- Därefter definierar du katalogen där dina dokument finns. Ersätta`"Your Document Directory"` med den faktiska sökvägen till dina dokument:
+Därefter definierar du katalogen där dina dokument finns. Ersätta`"Your Document Directory"` med den faktiska sökvägen till dina dokument:
 
 ```csharp
 string dataDir = "Your Document Directory";

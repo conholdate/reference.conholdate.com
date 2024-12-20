@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/cells/master-xml-map-operations/find-root-element-na
 ---
 ## 介紹
 
-當使用包含 XML 資料的 Excel 檔案時，識別 XML 對應的根元素名稱至關重要。此任務對於有效產生報告、轉換資料和管理結構化資訊至關重要。在本指南中，我們將引導您完成使用強大的 .NET 版 Aspose.Cells 函式庫提取 Excel 檔案中嵌入 XML 對應的根元素名稱的過程。
+當使用包含 XML 資料的 Excel 檔案時，識別 XML 對應的根元素名稱至關重要。此任務對於有效產生報告、轉換資料和管理結構化資訊至關重要。在本指南中，我們將引導您完成使用強大的 .NET Aspose.Cells 程式庫提取 Excel 檔案中嵌入 XML 映射的根元素名稱的過程。
 
 ## 先決條件
 

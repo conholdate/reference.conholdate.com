@@ -18,7 +18,7 @@ Innan du dyker in i koden, se till att du har följande förutsättningar:
 - Grundläggande förståelse för C# och .NET-ramverket.
 - Visual Studio installerat på din utvecklingsmaskin.
 -  Aspose.Words för .NET-biblioteket, som du kan ladda ner[här](https://releases.aspose.com/words/net/).
--  En giltig licens för Aspose.Words. Om du inte har en ännu kan du få en tillfällig licens[här](https://purchase.conholdate.com/temporary-license/).
+- En giltig licens för Aspose.Words. Om du inte har en ännu kan du få en tillfällig licens[här](https://purchase.conholdate.com/temporary-license/).
 
 ## Importera namnområden
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Nu kan du arbeta med docFromBytes vid behov
 }
 ```
-1.  Skapa minnesström: Skapa en`MemoryStream` från byte-arrayen.
+1.  Skapa minnesström: Skapa en`MemoryStream`från byte-arrayen.
 2. Dokumentladdning: Ladda dokumentet direkt från strömmen, så att det är redo för ytterligare operationer.
 
 ## Slutsats

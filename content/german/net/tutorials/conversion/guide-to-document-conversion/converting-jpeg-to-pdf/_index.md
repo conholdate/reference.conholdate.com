@@ -36,7 +36,7 @@ using GroupDocs.Conversion.Options.Convert;
 ```
 
 ## Schritt 1: Ausgabeverzeichnis und Dateinamen festlegen
-Bestimmen Sie, wo Ihre konvertierte PDF-Datei gespeichert werden soll, und legen Sie den Namen für Ihre Ausgabedatei fest:
+Bestimmen Sie, wo Ihre konvertierte PDF-Datei gespeichert wird, und legen Sie den Namen für Ihre Ausgabedatei fest:
 
 ```csharp
 string outputFolder = "Your Document Directory"; // Geben Sie Ihr Verzeichnis an

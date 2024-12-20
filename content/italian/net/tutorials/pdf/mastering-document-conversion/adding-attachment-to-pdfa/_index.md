@@ -64,7 +64,7 @@ Ecco cosa stiamo facendo:
 
 - Specificare il percorso per il file di registro.
 -  Scegliere`PDF_A_3A` formato per supportare i file incorporati (al contrario di`PDF` che non lo fa).
--  Utilizzo`ConvertErrorAction.Delete` per eliminare tutti gli elementi non conformi agli standard PDF/A.
+-  Utilizzo`ConvertErrorAction.Delete`per eliminare tutti gli elementi non conformi agli standard PDF/A.
 
 ## Passaggio 5: salvataggio del documento PDF/A risultante
 

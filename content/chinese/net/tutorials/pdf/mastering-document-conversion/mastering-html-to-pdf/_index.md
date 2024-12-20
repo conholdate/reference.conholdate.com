@@ -25,7 +25,7 @@ url: /zh/net/tutorials/pdf/mastering-document-conversion/mastering-html-to-pdf/
 首先，请按照以下步骤设置您的项目目录：
 
 1. 创建项目目录：创建一个名为的文件夹`Documents`在您的计算机上。这是您存储 HTML 文件和输出 PDF 的地方。
-2. 添加 HTML 文件：将 HTML 文件（例如，`HTMLToPDF.html` ）在`Documents`文件夹。
+2. 添加 HTML 文件：将 HTML 文件（例如，`HTMLToPDF.html`）在`Documents`文件夹。
 
 ## 导入必要的包
 

@@ -9,7 +9,7 @@ url: /cs/net/tutorials/words/words-processing-with-file-format/detecting-digital
 ---
 ## Zavedení
 
-V digitálním věku je zajištění integrity a pravosti vašich dokumentů důležitější než kdy jindy. Jednou z účinných metod, jak toho dosáhnout, je použití digitálních podpisů. V tomto tutoriálu prozkoumáme, jak detekovat digitální podpisy v dokumentech aplikace Word pomocí knihovny Aspose.Words for .NET. Na konci budete mít solidní pochopení procesu.
+digitálním věku je zajištění integrity a pravosti vašich dokumentů důležitější než kdy jindy. Jednou z účinných metod, jak toho dosáhnout, je použití digitálních podpisů. V tomto tutoriálu prozkoumáme, jak detekovat digitální podpisy v dokumentech aplikace Word pomocí knihovny Aspose.Words for .NET. Na konci budete mít solidní pochopení procesu.
 
 ## Předpoklady
 
@@ -91,7 +91,7 @@ Ne, Aspose.Words for .NET nezachovává digitální podpisy při otevírání ne
 
 ### Mohu v dokumentu detekovat více digitálních podpisů?
 
- Ano,`HasDigitalSignature` vlastnost označuje, zda je přítomen jeden nebo více digitálních podpisů.
+ Ano,`HasDigitalSignature`vlastnost označuje, zda je přítomen jeden nebo více digitálních podpisů.
 
 ### Jak mohu získat bezplatnou zkušební verzi Aspose.Words pro .NET?
 

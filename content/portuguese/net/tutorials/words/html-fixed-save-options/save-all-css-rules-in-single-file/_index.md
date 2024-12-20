@@ -82,7 +82,7 @@ Um único arquivo CSS simplifica o gerenciamento de estilo, tornando seu HTML ma
 ### Posso separar as regras CSS de fontes, se necessário?
  Absolutamente! Ao definir`SaveFontFaceCssSeparately` para`true`, você pode separar as regras CSS de fontes em um arquivo diferente.
 
-### O Aspose.Words para .NET é gratuito?
+### Aspose.Words para .NET é gratuito?
  Aspose.Words oferece um teste gratuito disponível para download[aqui](https://releases.aspose.com/) . Para uso contínuo, considere adquirir uma licença[aqui](https://purchase.aspose.com/buy).
 
 ### Para quais outros formatos o Aspose.Words for .NET pode ser convertido?

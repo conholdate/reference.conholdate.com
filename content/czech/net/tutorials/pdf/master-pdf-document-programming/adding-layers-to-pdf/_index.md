@@ -38,7 +38,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document();
 ```
 
- V tomto kroku inicializujete novou instanci souboru`Document` třídy, která slouží jako plátno pro naše budoucí vrstvy. Nezapomeňte vyměnit`"YOUR DOCUMENT DIRECTORY"` se skutečnou cestou, kam chcete soubor PDF později uložit.
+ V tomto kroku inicializujete novou instanci souboru`Document`třídy, která slouží jako plátno pro naše budoucí vrstvy. Nezapomeňte vyměnit`"YOUR DOCUMENT DIRECTORY"` se skutečnou cestou, kam chcete soubor PDF později uložit.
 
 ## Krok 2: Vytvořte novou stránku
 

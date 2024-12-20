@@ -93,5 +93,5 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ### 질문 4: 특정 슬라이드만 내보낼 수 있나요?
  물론입니다! 다음을 사용하여 특정 슬라이드를 선택할 수 있습니다.`Slides` 컬렉션에서`Presentation`수업.
 
-### Q5: 추가 예는 어디에서 볼 수 있나요?
+### Q5: 추가 예시는 어디에서 볼 수 있나요?
  방문하세요[.NET용 Aspose.Slides 설명서](https://reference.aspose.com/slides/net/) 더 많은 예와 사용 사례를 확인하세요.

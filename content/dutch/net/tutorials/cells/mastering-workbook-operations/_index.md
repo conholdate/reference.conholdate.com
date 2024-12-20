@@ -31,7 +31,7 @@ Heb je te maken met enorme Excel-bestanden? Leer hoe je de compressieniveaus in 
 
  Wilt u uw Excel-bestanden naar een hoger niveau tillen? Het toevoegen van webextensies kan de sleutel zijn! Deze tutorial behandelt hoe u webextensies in uw werkmappen integreert. Of u nu aangepaste functionaliteiten insluit of externe gegevens koppelt, deze gids vereenvoudigt het proces met duidelijke codevoorbeelden.[Lees meer](./adding-web-extension/).  
 
-## Zelfstudies voor het beheersen van werkboekbewerkingen
+## Zelfstudies over het beheersen van werkboekbewerkingen
 ### [Toegang tot Excel Web Extension-informatie met behulp van Aspose.Cells](./accessing-excel-web-extension-information/)
 Ontdek de kracht van Aspose.Cells voor .NET in deze gedetailleerde tutorial waarin u leert hoe u programmatisch toegang krijgt tot webextensiegegevens in Excel-bestanden en hoe u deze kunt bewerken.
 ### [Aangepaste XML-onderdelen toevoegen aan Excel-werkmappen](./add-custom-xml-parts/)

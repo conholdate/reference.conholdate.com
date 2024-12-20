@@ -111,7 +111,7 @@ Console.WriteLine($"Filtered image saved to: {destName}");
 
 ### 지원 및 추가 리소스는 어디서 찾을 수 있나요?
 
- 질문과 도움이 필요하면[Aspose.PSD 포럼](https://forum.aspose.com/c/psd/34)지역 사회와 지원팀을 연결하는 데 유용한 리소스입니다.
+ 질문과 도움이 필요하면[Aspose.PSD 포럼](https://forum.aspose.com/c/psd/34) 지역 사회와 지원팀을 연결하는 데 유용한 리소스입니다.
 
 ### Aspose.PSD에 대한 무료 평가판이 있나요?
 

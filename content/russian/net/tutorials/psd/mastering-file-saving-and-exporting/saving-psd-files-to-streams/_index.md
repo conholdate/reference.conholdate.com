@@ -47,7 +47,7 @@ string dataDir = "C:\\YourDocumentDirectory\\";
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Путь к исходному PSD-файлу
-string destName = dataDir + "result.png";   //Путь к выходному файлу изображения
+string destName = dataDir + "result.png";   // Путь к выходному файлу изображения
 ```
 
 ## Шаг 3: Загрузите изображение PSD и обработайте ненайденные шрифты

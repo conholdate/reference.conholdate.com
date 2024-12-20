@@ -2,7 +2,7 @@
 title: Копирование разделов между документами Word с помощью Aspose.Words
 linktitle: Копирование разделов между документами Word с помощью Aspose.Words
 second_title: API обработки документов Aspose.Words
-description: Изучите пошаговое руководство, как эффективно копировать разделы между документами Word с помощью Aspose.Words для .NET. Это подробное руководство охватывает предварительные условия, примеры кода, расширенные советы и часто задаваемые вопросы.
+description: Изучите пошаговое руководство по эффективному копированию разделов между документами Word с помощью Aspose.Words для .NET. Это подробное руководство охватывает предварительные условия, примеры кода, расширенные советы и часто задаваемые вопросы.
 type: docs
 weight: 10
 url: /ru/net/tutorials/words/section-management/copy-sections-word-documents/
@@ -32,7 +32,7 @@ using Aspose.Words;
 
 ## Шаг 1: Настройка среды
 
-1.  Установите Aspose.Words: Загрузите и установите Aspose.Words для .NET с сайта[здесь](https://releases.aspose.com/words/net/).
+1. Установите Aspose.Words: Загрузите и установите Aspose.Words для .NET с сайта[здесь](https://releases.aspose.com/words/net/).
 2. Создайте проект .NET: откройте Visual Studio и создайте новый проект C#.
 3. Добавьте ссылку на Aspose.Words: включите ссылку на библиотеку в свой проект.
 

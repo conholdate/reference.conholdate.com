@@ -77,7 +77,7 @@ doc.Save(dataDir + "ConvertedImage.jpeg", options);
  يمكنك تحسين جودة JPEG من خلال`JpegQuality`الممتلكات في`ImageSaveOptions`تتراوح القيم من 0 (أقل جودة) إلى 100 (أعلى جودة).
 
 ### هل يمكنني الحفظ بتنسيقات أخرى للصورة؟  
- نعم، يدعم Aspose.Words العديد من تنسيقات الصور، بما في ذلك PNG وBMP وTIFF. ما عليك سوى تغيير`SaveFormat` في`ImageSaveOptions` إلى التنسيق المطلوب.
+ نعم، يدعم Aspose.Words العديد من تنسيقات الصور، بما في ذلك PNG وBMP وTIFF. ما عليك سوى تغيير`SaveFormat` في`ImageSaveOptions`إلى التنسيق المطلوب.
 
 ### هل هناك طريقة لمعاينة الصورة قبل الحفظ؟  
 لا يتضمن Aspose.Words ميزة معاينة مضمنة، ولكن يمكنك إنشاء آلية معاينة مخصصة باستخدام تطبيق Windows Forms أو WPF.

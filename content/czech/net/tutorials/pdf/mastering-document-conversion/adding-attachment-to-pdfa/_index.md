@@ -64,7 +64,7 @@ Zde je to, co děláme:
 
 - Zadejte cestu k souboru protokolu.
 -  Vybrat`PDF_A_3A` formát pro podporu vložených souborů (na rozdíl od`PDF` což ne).
--  Použití`ConvertErrorAction.Delete` odstranit všechny prvky, které nejsou v souladu se standardy PDF/A.
+-  Použití`ConvertErrorAction.Delete`odstranit všechny prvky, které nejsou v souladu se standardy PDF/A.
 
 ## Krok 5: Uložení výsledného dokumentu PDF/A
 

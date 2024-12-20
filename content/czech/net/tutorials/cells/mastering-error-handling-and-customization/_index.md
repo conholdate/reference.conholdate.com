@@ -19,7 +19,7 @@ Přemýšleli jste někdy, jak zachovat tyto užitečné doplňky Office při p�
 
 ## Ignorujte chyby při vykreslování Excelu do PDF  
 
-Představte si toto: Převádíte soubor Excel s tisíci řádky, ale jedna otravná chyba vám zkazí den. Frustrující, že? S Aspose.Cells for .NET můžete obejít tyto nepříjemné chyby a soustředit se na získání bezchybných PDF.  
+Představte si toto: Převádíte soubor aplikace Excel s tisíci řádky, ale jedna otravná chyba vám zkazí den. Frustrující, že? S Aspose.Cells for .NET můžete obejít tyto nepříjemné chyby a soustředit se na získání bezchybných PDF.  
 
  Tento tutoriál vysvětluje, jak přizpůsobit zpracování chyb a zajistit, aby byl proces převodu hladký jako hedvábí. Najdete zde také úryvky kódu pro snadnou integraci těchto funkcí do vašich projektů. Chcete se naučit trik?[Podívejte se na to zde](./guide-ignore-errors-in-excel/).  
 

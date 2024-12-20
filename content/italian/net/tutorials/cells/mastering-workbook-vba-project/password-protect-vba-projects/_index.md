@@ -15,7 +15,7 @@ Proteggere i tuoi progetti VBA nei file Excel è fondamentale per mantenere la r
 
 Per iniziare, assicurati che siano presenti i seguenti elementi:
 
-1. Aspose.Cells per .NET installato: installa Aspose.Cells nel tuo progetto .NET. Usa il[Documentazione di Aspose.Cells](https://reference.aspose.com/cells/net/) per avere indicazioni.
+1. Aspose.Cells per .NET installato: installa Aspose.Cells nel tuo progetto .NET. Usa il[Documentazione Aspose.Cells](https://reference.aspose.com/cells/net/) per avere indicazioni.
 2. Ambiente di sviluppo: configurare un IDE compatibile con .NET come Visual Studio.
 3.  File Excel con progetto VBA: preparare un`.xlsm` file contenente un progetto VBA per testare la protezione.
 4. Conoscenza di base di C#: una conoscenza di base di C# ti aiuterà a orientarti tra i frammenti di codice.

@@ -88,7 +88,7 @@ Hình ảnh được lập chỉ mục 1Bpp (1 Bit cho mỗi Pixel) là định 
  Có, cần có giấy phép để có đầy đủ chức năng. Bạn có thể có được một[giấy phép tạm thời ở đây](https://purchase.aspose.com/temporary-license/).
 
 ### Tôi có thể chuyển đổi tài liệu Word của mình sang những định dạng hình ảnh nào khác?
- Aspose.Words hỗ trợ nhiều định dạng khác nhau, bao gồm JPEG, BMP và TIFF. Chỉ cần thay đổi`SaveFormat`trong`ImageSaveOptions` theo định dạng bạn mong muốn.
+ Aspose.Words hỗ trợ nhiều định dạng khác nhau, bao gồm JPEG, BMP và TIFF. Chỉ cần thay đổi`SaveFormat` trong`ImageSaveOptions`theo định dạng bạn mong muốn.
 
 ### Tôi có thể tìm thêm tài liệu về Aspose.Words cho .NET ở đâu?
  Để có tài liệu toàn diện, hãy truy cập[Trang tài liệu Aspose.Words cho .NET](https://reference.aspose.com/words/net/).

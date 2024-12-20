@@ -94,7 +94,7 @@ Aspose.Imaging for .NET は、開発者が .NET アプリケーションで Core
 
 はい、Aspose.Imaging for .NETの無料トライアルをこちらからダウンロードできます。[ここ](https://releases.aspose.com/).
 
-### Aspose.Imaging は CDR ファイルを PNG に一括変換するのに適していますか?
+### Aspose.Imaging は CDR ファイルを PNG にバッチ変換するのに適していますか?
 
 もちろんです! Aspose.Imaging for .NET は、CDR ファイルから PNG への単一変換とバッチ変換の両方をサポートしています。
 

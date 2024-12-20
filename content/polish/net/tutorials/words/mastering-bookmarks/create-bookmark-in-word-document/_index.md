@@ -102,7 +102,7 @@ Tworzenie zakładek w dokumencie Word za pomocą Aspose.Words for .NET jest pros
 Tak! Możesz utworzyć wiele zakładek i zdefiniować ich hierarchię podczas zapisywania jako PDF.
 
 ### Jak zaktualizować tekst zakładki?
- Używać`DocumentBuilder.MoveToBookmark` aby przejść do zakładki i zaktualizować tekst.
+ Używać`DocumentBuilder.MoveToBookmark`aby przejść do zakładki i zaktualizować tekst.
 
 ### Czy można usunąć zakładkę?
  Oczywiście! Użyj`Bookmarks.Remove` metodę poprzez podanie nazwy zakładki.

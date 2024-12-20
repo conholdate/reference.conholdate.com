@@ -9,7 +9,7 @@ url: /fr/net/tutorials/barcode/guide-one-dimensional-barcode-types/customizing-b
 ---
 ## Introduction
 
-Lors de la création d'applications .NET nécessitant la génération de codes-barres (par exemple pour la gestion des stocks ou la vente au détail), il peut être essentiel de disposer d'un contrôle précis sur les propriétés du code-barres. Aspose.BarCode pour .NET est une boîte à outils robuste qui vous permet de personnaliser facilement vos codes-barres, notamment en ajustant leur hauteur. Dans ce guide, nous vous fournirons un processus étape par étape pour modifier la hauteur d'un code-barres unidimensionnel à l'aide d'Aspose.BarCode.
+Lors de la création d'applications .NET qui nécessitent la génération de codes-barres (par exemple pour la gestion des stocks ou la vente au détail), il peut être essentiel de disposer d'un contrôle précis sur les propriétés du code-barres. Aspose.BarCode pour .NET est une boîte à outils robuste qui vous permet de personnaliser facilement vos codes-barres, notamment en ajustant leur hauteur. Dans ce guide, nous vous fournirons un processus étape par étape pour modifier la hauteur d'un code-barres unidimensionnel à l'aide d'Aspose.BarCode.
 
 ## Prérequis
 

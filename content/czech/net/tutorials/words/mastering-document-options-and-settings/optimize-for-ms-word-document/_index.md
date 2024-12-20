@@ -28,7 +28,7 @@ using Aspose.Words;
 using Aspose.Words.Saving;
 ```
 
-našimi připravenými nástroji si projdeme kroky pro optimalizaci vašeho dokumentu Word.
+S našimi připravenými nástroji si projdeme kroky pro optimalizaci vašeho dokumentu Word.
 
 ## Krok 1: Nastavte adresář dokumentů
 

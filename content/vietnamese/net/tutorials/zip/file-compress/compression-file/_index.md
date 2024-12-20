@@ -30,7 +30,7 @@ using Aspose.Zip.Cpio;
 
 ## Bước 1: Thiết lập thư mục tài liệu của bạn
 
- Tiếp theo, hãy xác định thư mục nơi tài liệu của bạn được lưu trữ. Thay thế`"Your Document Directory"` với đường dẫn thực tế đến tài liệu của bạn:
+Tiếp theo, hãy xác định thư mục nơi tài liệu của bạn được lưu trữ. Thay thế`"Your Document Directory"` với đường dẫn thực tế đến tài liệu của bạn:
 
 ```csharp
 string dataDir = "Your Document Directory";

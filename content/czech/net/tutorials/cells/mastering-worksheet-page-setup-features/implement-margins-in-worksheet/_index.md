@@ -48,7 +48,7 @@ string dataDir = "Your Document Directory"; // Nahraďte svou skutečnou cestou
 Workbook workbook = new Workbook();
 ```
 
-## Krok 3: Přístup ke kolekci Worksheet Collection
+## Krok 3: Vstupte do kolekce Worksheet Collection
 
 Nyní se podívejme na kolekci pracovních listů ve vašem novém sešitu:
 

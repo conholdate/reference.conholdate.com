@@ -2,7 +2,7 @@
 title: 加入日語作為編輯語言
 linktitle: 加入日語作為編輯語言
 second_title: Aspose.Words 文件處理 API
-description: 了解如何使用 Aspose.Words for .NET 將日文作為編輯語言無縫整合到文件中。這個逐步指南。
+description: 了解如何使用 Aspose.Words for .NET 將日文作為編輯語言無縫整合到文件中。本逐步指南。
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/words/mastering-document-options-and-settings/adding-japanese-as-editing-languages/
@@ -34,7 +34,7 @@ using Aspose.Words.Loading;
 
 ## 第 1 步：設定 LoadOptions
 
-首先，建立一個實例`LoadOptions`，您將在其中指定文件的語言首選項。
+首先，建立一個實例`LoadOptions`，您可以在其中指定文件的語言首選項。
 
 ```csharp
 LoadOptions loadOptions = new LoadOptions();

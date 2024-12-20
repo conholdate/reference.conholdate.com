@@ -2,7 +2,7 @@
 title: Skapa bokmärke i Word-dokument med Aspose.Words för .NET
 linktitle: Skapa bokmärke i Word-dokument med Aspose.Words för .NET
 second_title: Aspose.Words Document Processing API
-description: Lär dig hur du förbättrar dina Word-dokument genom att skapa och hantera bokmärken med Aspose.Words för .NET. Denna steg-för-steg handledning.
+description: Lär dig hur du förbättrar dina Word-dokument genom att skapa och hantera bokmärken med Aspose.Words för .NET. Denna steg-för-steg guide.
 type: docs
 weight: 10
 url: /sv/net/tutorials/words/mastering-bookmarks/create-bookmark-in-word-document/
@@ -102,7 +102,7 @@ Att skapa bokmärken i ett Word-dokument med Aspose.Words för .NET är enkelt o
 Ja! Du kan skapa flera bokmärken och definiera deras hierarki när du sparar som en PDF.
 
 ### Hur uppdaterar jag ett bokmärkes text?
- Använda`DocumentBuilder.MoveToBookmark` för att navigera till bokmärket och uppdatera texten.
+ Använda`DocumentBuilder.MoveToBookmark`för att navigera till bokmärket och uppdatera texten.
 
 ### Är det möjligt att ta bort ett bokmärke?
  Absolut! Använd`Bookmarks.Remove` metod genom att ange bokmärkets namn.

@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/email/comprehensive-guide-to-email-conversion-and-ex
 ---
 ## 介紹
 
-您是否正在處理一堆 EML 檔案並希望將它們轉換為 MSG 格式？您來對地方了！本逐步指南將教您如何使用 Aspose.Email for .NET 將 EML 檔案無縫轉換為 MSG 格式。無論您是經驗豐富的開發人員還是只是嘗試一下，本教學都會將其分解為易於管理的區塊，確保您了解流程的每個步驟。
+您是否正在處理一堆 EML 檔案並希望將它們轉換為 MSG 格式？您來對地方了！本逐步指南將教您如何使用 Aspose.Email for .NET 將 EML 檔案無縫轉換為 MSG 格式。無論您是經驗豐富的開發人員還是只是嘗試一下，本教學都會將其分解為可管理的區塊，確保您了解流程的每個步驟。
 
 ## 先決條件
 
@@ -111,7 +111,7 @@ EML 是一種用於電子郵件的文件格式，包含寄件者、收件者、�
 Microsoft Outlook 使用 MSG 格式，讓您更輕鬆地在熟悉的介面中存取電子郵件。
 
 ### 我可以使用此方法將 EML 檔案批次轉換為 MSG 嗎？
-是的！您可以循環遍歷 EML 檔案的目錄並對每個檔案套用相同的轉換邏輯。
+是的！您可以循環遍歷 EML 檔案的目錄，並對每個檔案套用相同的轉換邏輯。
 
 ### Aspose.Email 可以免費使用嗎？
  Aspose.Email 是一個付費庫，但您可以從他們的網站獲得免費試用[網站](https://releases.aspose.com/).

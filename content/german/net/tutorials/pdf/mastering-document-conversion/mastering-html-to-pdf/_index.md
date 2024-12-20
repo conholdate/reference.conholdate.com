@@ -24,8 +24,8 @@ Bevor wir beginnen, stellen Sie sicher, dass Sie Folgendes eingerichtet haben:
 
 Führen Sie zunächst die folgenden Schritte aus, um Ihr Projektverzeichnis einzurichten:
 
-1. Erstellen Sie ein Projektverzeichnis: Erstellen Sie einen Ordner mit dem Namen`Documents` auf Ihrem Computer. Hier speichern Sie Ihre HTML-Dateien und das Ausgabe-PDF.
-2.  Fügen Sie Ihre HTML-Datei hinzu: Platzieren Sie Ihre HTML-Datei (z. B.`HTMLToPDF.html` ) im`Documents` Ordner.
+1.  Erstellen Sie ein Projektverzeichnis: Erstellen Sie einen Ordner mit dem Namen`Documents` auf Ihrem Computer. Hier speichern Sie Ihre HTML-Dateien und das Ausgabe-PDF.
+2.  Fügen Sie Ihre HTML-Datei hinzu: Platzieren Sie Ihre HTML-Datei (z. B.`HTMLToPDF.html` im`Documents` Ordner.
 
 ## Erforderliche Pakete importieren
 

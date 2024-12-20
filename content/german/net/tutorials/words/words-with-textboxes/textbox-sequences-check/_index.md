@@ -15,7 +15,7 @@ Hallo liebe Entwickler und Dokument-Liebhaber! 🌟 Haben Sie sich schon einmal 
 
 Bevor wir uns in den Code vertiefen, stellen Sie sicher, dass Sie über Folgendes verfügen:
 
-1.  Aspose.Words für .NET-Bibliothek: Laden Sie die neueste Version herunter[Hier](https://releases.aspose.com/words/net/).
+1. Aspose.Words für .NET-Bibliothek: Laden Sie die neueste Version herunter[Hier](https://releases.aspose.com/words/net/).
 2. Entwicklungsumgebung: Eine .NET-kompatible Umgebung wie Visual Studio.
 3. Grundlegende C#-Kenntnisse: Kenntnisse der C#-Syntax sind hilfreich.
 4. Beispieldokument: Es ist hilfreich, ein Word-Dokument zur Hand zu haben, aber in diesem Beispiel erstellen wir alles von Grund auf neu.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 In diesem Snippet:
 - `ShapeType.TextBox` gibt an, dass wir eine Textfeldform erstellen.
-- `textBox`ist die eigentliche Textfeldinstanz, die wir bearbeiten werden.
+- `textBox` ist die eigentliche Textfeldinstanz, die wir bearbeiten werden.
 
 ## Schritt 3: Überprüfen der Reihenfolge der Textfelder
 
@@ -126,7 +126,7 @@ Die Kenntnis der Reihenfolge ermöglicht Ihnen die Verwaltung des logischen Inha
 Ja, Textfelder können auf verschiedene Arten verknüpft werden, solange die resultierende Anordnung für Ihren Inhalt sinnvoll ist.
 
 ### Wie kann ich die Verknüpfung eines Textfelds mit einer Sequenz aufheben?
- Sie können die`Next` oder`Previous` Eigenschaften zu`null` nach Bedarf.
+ Sie können die`Next` oder`Previous` Eigenschaften zu`null`nach Bedarf.
 
 ### Ist es möglich, den Text in verknüpften Textfeldern anders zu formatieren?
 Auf jeden Fall! Sie können auf den Inhalt jedes Textfelds unabhängige Stile anwenden und so für Gestaltungsflexibilität sorgen.

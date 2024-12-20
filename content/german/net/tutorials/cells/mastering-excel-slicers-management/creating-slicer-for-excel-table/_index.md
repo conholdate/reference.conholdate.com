@@ -128,7 +128,7 @@ Ein Slicer ist ein visuelles Filtertool, mit dem Benutzer Daten in Tabellen einf
 Auf jeden Fall! Aspose.Cells bietet Funktionen zum Anpassen des Stils und der Abmessungen von Slicern.
 
 ### Ist Aspose.Cells mit Mac-Systemen kompatibel?
-Aspose.Cells für .NET ist in erster Linie für Windows konzipiert. Mit den entsprechenden Setups kann es jedoch auch auf dem Mac mit .NET Core ausgeführt werden.
+Aspose.Cells für .NET ist in erster Linie für Windows konzipiert. Mit den entsprechenden Setups kann es jedoch auch auf Macs mit .NET Core ausgeführt werden.
 
 ### Benötige ich eine Lizenz, um Aspose.Cells zu verwenden?
  Aspose.Cells bietet eine kostenlose Testversion an, für die volle Funktionalität ist jedoch eine Lizenz erforderlich. Weitere Informationen finden Sie unter[Kaufseite](https://purchase.aspose.com/buy).

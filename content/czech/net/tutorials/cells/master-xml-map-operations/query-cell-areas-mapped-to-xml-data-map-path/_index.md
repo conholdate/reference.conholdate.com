@@ -54,7 +54,7 @@ Workbook workbook = new Workbook(sourceDir + "sampleXmlMapQuery.xlsx");
 Po načtení souboru otevřete mapu XML v sešitu:
 
 ```csharp
-// Přístup k první mapě XML v sešitu
+// Získejte přístup k první mapě XML v sešitu
 XmlMap xmlMap = workbook.Worksheets.XmlMaps[0];
 ```
 

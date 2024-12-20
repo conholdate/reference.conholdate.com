@@ -15,7 +15,7 @@ Você já enfrentou a tarefa de criar um documento do Word que precisa de organi
 
 Antes de começar, certifique-se de ter o seguinte:
 
-1.  Biblioteca Aspose.Words para .NET: Baixe a versão mais recente[aqui](https://releases.aspose.com/words/net/).
+1. Biblioteca Aspose.Words para .NET: Baixe a versão mais recente[aqui](https://releases.aspose.com/words/net/).
 2. Ambiente de desenvolvimento: Um IDE compatível com .NET, como o Visual Studio.
 3. Conhecimento básico de C#: familiaridade com a sintaxe C# será útil.
 4. Exemplo de documento do Word (opcional): embora criemos um do zero, ter um exemplo pode ser benéfico para testes.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Agora que temos uma nova seção, vamos preenchê-la com algum conteúdo. 
 
- Para adicionar conteúdo à nova seção, precisamos mover o`DocumentBuilder`cursor para essa seção:
+ Para adicionar conteúdo à nova seção, precisamos mover o`DocumentBuilder` cursor para essa seção:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Por fim, vamos salvar o documento para garantir que todo o nosso trabalho duro e
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Certifique-se de substituir`"YourPath/YourDocument.docx"` com o caminho de arquivo desejado onde você quer salvar o documento. Esta linha salva seu arquivo Word com todas as seções e conteúdo intactos.
+ Certifique-se de substituir`"YourPath/YourDocument.docx"`com o caminho de arquivo desejado onde você quer salvar o documento. Esta linha salva seu arquivo Word com todas as seções e conteúdo intactos.
 
 ## Conclusão
 

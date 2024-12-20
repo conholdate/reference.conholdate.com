@@ -18,7 +18,7 @@ Prima di approfondire il processo di conversione con GroupDocs.Conversion per .N
  È possibile scaricare la libreria GroupDocs.Conversion per .NET da[pagina di download](https://releases.groupdocs.com/conversion/net/) e seguire le istruzioni di installazione fornite.
 
 ### Nozioni di base di C#
-La familiarità con il linguaggio di programmazione C# è essenziale, poiché i nostri esempi utilizzeranno frammenti di codice C# per dimostrare il processo di conversione.
+È essenziale avere familiarità con il linguaggio di programmazione C#, poiché nei nostri esempi verranno utilizzati frammenti di codice C# per dimostrare il processo di conversione.
 
 ### Ambiente di sviluppo integrato (IDE)
 Avrai bisogno di un Integrated Development Environment (IDE) per scrivere ed eseguire il tuo codice. Le scelte più diffuse includono Visual Studio o JetBrains Rider.

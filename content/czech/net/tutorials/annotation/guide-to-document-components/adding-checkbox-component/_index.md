@@ -42,7 +42,7 @@ string outputPath = Path.Combine("Your Document Directory", "result" + Path.GetE
 
 ## Krok 3: Inicializujte anotátor
 
- Vytvořte instanci souboru`Annotator` třídy s cestou k vašemu vstupnímu dokumentu PDF:
+ Vytvořte instanci souboru`Annotator` třídy s cestou k vašemu vstupnímu PDF dokumentu:
 
 ```csharp
 using (Annotator annotator = new Annotator("input.pdf"))

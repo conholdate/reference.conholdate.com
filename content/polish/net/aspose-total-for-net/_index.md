@@ -43,7 +43,7 @@ Poniżej znajdują się linki do przydatnych zasobów, które mogą Ci się przy
 
 **Welcome to Aspose.Cells for .NET** 
 
-Aspose.Cells for .NET to biblioteka programowania arkuszy kalkulacyjnych, która umożliwia programistom oprogramowania manipulowanie plikami arkuszy kalkulacyjnych i konwertowanie ich z poziomu ich własnych aplikacji. Aspose.Cells for .NET, będąc połączeniem interfejsów API i kontrolek GUI, przyspiesza programowanie i konwersję w programie Microsoft Excel®. Aspose.Cells for .NET obsługuje popularne formaty plików arkuszy kalkulacyjnych (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS), z których Twoja firma korzysta na co dzień. Umożliwia również eksportowanie plików Excel do formatów PDF, XPS, HTML, MHTML, Plain Text i popularnych formatów obrazów, w tym TIFF, JPG, PNG, BMP i SVG. 
+Aspose.Cells for .NET to biblioteka programowania arkuszy kalkulacyjnych, która umożliwia programistom oprogramowania manipulowanie plikami arkuszy kalkulacyjnych i konwertowanie ich z poziomu ich własnych aplikacji. Aspose.Cells for .NET, będąc połączeniem interfejsów API i kontrolek GUI, przyspiesza programowanie i konwersję w programie Microsoft Excel®. Aspose.Cells for .NET obsługuje popularne formaty plików arkuszy kalkulacyjnych (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS), z których Twoja firma korzysta każdego dnia. Umożliwia również eksportowanie plików Excel do formatów PDF, XPS, HTML, MHTML, Plain Text i popularnych formatów obrazów, w tym TIFF, JPG, PNG, BMP i SVG. 
 
 {{% /alert %}} 
 

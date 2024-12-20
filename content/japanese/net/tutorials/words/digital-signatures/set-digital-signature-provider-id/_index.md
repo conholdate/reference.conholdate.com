@@ -15,7 +15,7 @@ url: /ja/net/tutorials/words/digital-signatures/set-digital-signature-provider-i
 
 始める前に、以下のものを用意してください。
 
-1.  Aspose.Words for .NET ライブラリ:[ここからダウンロード](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET ライブラリ:[ここからダウンロード](https://releases.aspose.com/words/net/).
 2. 開発環境: Visual Studio または C# 互換の IDE。
 3.  Word文書: 署名欄のある文書（例：`Signature line.docx`）。
 4. デジタル証明書: A`.pfx`証明書ファイル（例：`morzal.pfx`）。

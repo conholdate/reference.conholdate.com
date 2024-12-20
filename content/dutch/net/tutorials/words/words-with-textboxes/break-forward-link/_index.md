@@ -9,7 +9,7 @@ url: /nl/net/tutorials/words/words-with-textboxes/break-forward-link/
 ---
 ## Invoering
 
-Hallo, mede-ontwikkelaars en documentliefhebbers! 🌟 Als je ooit hebt geworsteld met Word-documenten, weet je dat het beheren van tekstvakken lastig kan zijn. Ze kunnen aanvoelen als een chaotische dans die zorgvuldige choreografie vereist om ervoor te zorgen dat je content soepel stroomt. Vandaag gaan we onderzoeken hoe je forward links in tekstvakken kunt verbreken met Aspose.Words voor .NET. Maak je geen zorgen als dit een beetje technisch klinkt; ik zal je op een vriendelijke, gemakkelijk te volgen manier door elke stap leiden. Of je nu een formulier, een nieuwsbrief of een complex document maakt, door forward links onder de knie te krijgen, heb je meer controle over je lay-out.
+Hallo, mede-ontwikkelaars en documentliefhebbers! 🌟 Als je ooit hebt geworsteld met Word-documenten, weet je dat het beheren van tekstvakken een beetje lastig kan zijn. Ze kunnen aanvoelen als een chaotische dans die zorgvuldige choreografie vereist om ervoor te zorgen dat je content soepel stroomt. Vandaag gaan we onderzoeken hoe je forward links in tekstvakken kunt verbreken met Aspose.Words voor .NET. Maak je geen zorgen als dit een beetje technisch klinkt; ik zal je op een vriendelijke, gemakkelijk te volgen manier door elke stap leiden. Of je nu een formulier, een nieuwsbrief of een complex document maakt, door forward links onder de knie te krijgen, krijg je meer controle over je lay-out.
 
 ## Vereisten
 

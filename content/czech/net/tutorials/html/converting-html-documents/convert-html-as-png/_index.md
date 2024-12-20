@@ -94,7 +94,7 @@ using (ImageDevice device = new ImageDevice(dataDir + @"document_out.png"))
 
 - `ImageDevice` převezme úplnou cestu k souboru PNG, který má být vytvořen. Zde specifikujeme, že se má uložit jako`document_out.png` v našem dříve definovaném adresáři.
 
-## Krok 5: Vykreslete dokument HTML do formátu PNG
+## Krok 5: Přeneste dokument HTML do formátu PNG
 
 Nyní přichází ta vzrušující část – vykreslení našeho dokumentu HTML do obrázku PNG! Zde voláme metodu render pro dokončení převodu.
 

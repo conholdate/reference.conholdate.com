@@ -30,7 +30,7 @@ using Aspose.Zip.Cpio;
 
 ## Stap 1: Stel uw documentenmap in
 
- Definieer vervolgens de directory waar uw documenten zich bevinden. Vervang`"Your Document Directory"` met het daadwerkelijke pad naar uw documenten:
+Definieer vervolgens de directory waar uw documenten zich bevinden. Vervang`"Your Document Directory"` met het daadwerkelijke pad naar uw documenten:
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -59,7 +59,7 @@ Console.WriteLine("Files have been successfully compressed into archive.cpio!");
   
 -  Opslaan Methode: Hiermee wordt het archief opgeslagen op het opgegeven pad, in dit geval als`archive.cpio` in de documentenmap.
   
-- Bericht dat het archief is aangemaakt: Nadat het compressieproces is voltooid, verschijnt er een bericht waarin wordt bevestigd dat het archief is aangemaakt.
+- Bericht dat het compressieproces is voltooid: Nadat het compressieproces is voltooid, verschijnt er een bericht waarin wordt bevestigd dat het archief succesvol is gemaakt.
 
 ## Conclusie
 

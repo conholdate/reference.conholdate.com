@@ -21,7 +21,7 @@ Mielőtt elkezdené, győződjön meg a következőkről:
 
 ### 2. Importálja a szükséges névtereket
 
-A .NET-projektben adja meg a szükséges névtereket a kód tetején:
+.NET-projektben adja meg a szükséges névtereket a kód tetején:
 
 ```csharp
 using Aspose.PSD.FileFormats.Psd;
@@ -37,7 +37,7 @@ using Aspose.PSD.ImageOptions;
 string dataDir = "Your Document Directory";
 ```
 
- Mindenképpen cserélje ki`"Your Document Directory"` a tényleges úttal.
+ Ügyeljen arra, hogy cserélje ki`"Your Document Directory"` a tényleges úttal.
 
 ## 2. lépés: Adja meg a forrás és a cél elérési útját
 

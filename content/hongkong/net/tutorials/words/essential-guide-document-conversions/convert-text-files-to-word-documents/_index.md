@@ -2,7 +2,7 @@
 title: 使用 Aspose.Words for .NET 將文字文件轉換為 Word 文件
 linktitle: 使用 Aspose.Words for .NET 將文字文件轉換為 Word 文件
 second_title: Aspose.Words 文件處理 API
-description: 了解如何使用 Aspose.Words for .NET 程式庫有效地將文字檔案轉換為 Word 文件。本逐步指南涵蓋先決條件和程式碼範例。
+description: 了解如何使用 Aspose.Words for .NET 程式庫將文字檔案有效率地轉換為 Word 文件。本逐步指南涵蓋先決條件和程式碼範例。
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/words/essential-guide-document-conversions/convert-text-files-to-word-documents/

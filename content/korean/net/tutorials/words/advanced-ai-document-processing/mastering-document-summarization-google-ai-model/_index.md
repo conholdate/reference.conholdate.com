@@ -102,7 +102,7 @@ multiDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.Multi.docx");
 
 ## 결론
 
-이 튜토리얼을 통해 Aspose.Words for .NET 및 Google AI 모델을 사용하여 문서를 효과적으로 요약할 수 있습니다. 문서 디렉토리 정의, 파일 로드, API 키 검색 및 모델 인스턴스 설정에 이르기까지 각 단계에서 대량의 텍스트를 효율적으로 처리하고 몇 줄의 코드로 간결한 요약을 만들 수 있습니다.
+이 튜토리얼을 통해 Aspose.Words for .NET 및 Google AI 모델을 사용하여 문서를 효과적으로 요약할 수 있습니다. 문서 디렉터리 정의, 파일 로드, API 키 검색 및 모델 인스턴스 설정에 이르기까지 각 단계에서 대량의 텍스트를 효율적으로 처리하고 몇 줄의 코드로 간결한 요약을 만들 수 있습니다.
 
 ## 자주 묻는 질문
 

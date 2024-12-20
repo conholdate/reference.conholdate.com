@@ -93,7 +93,7 @@ tym samouczku sprawdziliśmy, jak skutecznie używać GroupDocs.Metadata dla .NE
  Tak, możesz pobrać bezpłatną wersję próbną GroupDocs.Metadata[Tutaj](https://releases.groupdocs.com/).
 
 ### Gdzie mogę uzyskać pomoc dotyczącą GroupDocs.Metadata?
- Aby uzyskać pomoc, odwiedź stronę[Forum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) w celu uzyskania pomocy i dyskusji społeczności.
+ Aby uzyskać pomoc, odwiedź stronę[Forum GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata/14) w celu uzyskania pomocy i dyskusji ze strony społeczności.
 
 ### Jakie formaty plików obsługuje GroupDocs.Metadata?
 GroupDocs.Metadata obsługuje wiele formatów, w tym DOCX, XLSX, PDF, JPG, PNG i inne.

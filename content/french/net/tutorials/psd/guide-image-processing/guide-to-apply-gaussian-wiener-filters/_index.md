@@ -111,7 +111,7 @@ La taille du rayon détermine l'étendue du fonctionnement du filtre, tandis que
 
 ### Où puis-je trouver du soutien et des ressources supplémentaires ?
 
- Pour toute question ou assistance, veuillez contacter le[Forum Aspose.PSD](https://forum.aspose.com/c/psd/34)est une excellente ressource pour se connecter avec la communauté et soutenir l'équipe.
+ Pour toute question ou assistance, veuillez contacter le[Forum Aspose.PSD](https://forum.aspose.com/c/psd/34) est une excellente ressource pour se connecter avec la communauté et soutenir l'équipe.
 
 ### Existe-t-il un essai gratuit disponible pour Aspose.PSD ?
 

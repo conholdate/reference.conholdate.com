@@ -92,4 +92,4 @@ Aspose.TeX berfokus terutama pada pemrosesan dokumen TeX dan LaTeX. Jika Anda pe
 
 ### Bagaimana cara membeli Aspose.TeX untuk .NET?
 
- Anda dapat membeli Aspose.TeX untuk .NET langsung dari[halaman pembelian](https://purchase.conholdate.com/buy).
+Anda dapat membeli Aspose.TeX untuk .NET langsung dari[halaman pembelian](https://purchase.conholdate.com/buy).

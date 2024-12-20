@@ -24,7 +24,7 @@ Du behöver en IDE för att skriva och köra din C#-kod. Visual Studio är ett p
 ### Aspose.Cells för .NET
 Ladda ner Aspose.Cells-biblioteket från[här](https://releases.aspose.com/cells/net/). En gratis provperiod är tillgänglig om du vill testa den först.
 
-### Projektuppställning
+### Projektuppsättning
 Skapa ett nytt C#-projekt och lägg till en referens till Aspose.Cells-biblioteket genom att inkludera relevanta DLL-filer.
 
 När du har ställt in allt, låt oss gå in i kodningsprocessen!

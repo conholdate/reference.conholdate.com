@@ -15,7 +15,7 @@ Xin chào! Nếu bạn đang muốn thêm chữ ký số vào tài liệu Word c
 
 Trước khi bắt đầu, hãy đảm bảo bạn có những thứ sau:
 
-1.  Thư viện Aspose.Words cho .NET:[Tải xuống tại đây](https://releases.aspose.com/words/net/).
+1. Thư viện Aspose.Words cho .NET:[Tải xuống tại đây](https://releases.aspose.com/words/net/).
 2. Môi trường phát triển: Visual Studio hoặc bất kỳ IDE nào tương thích với C#.
 3.  Tài liệu Word: Một tài liệu có dòng chữ ký (ví dụ:`Signature line.docx`).
 4.  Chứng chỉ số: A`.pfx` tập tin chứng chỉ (ví dụ,`morzal.pfx`).

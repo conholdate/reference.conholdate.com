@@ -82,7 +82,7 @@ Tak, Aspose.Zip dla .NET potrafi efektywnie obsługiwać pliki o różnych rozmi
 ### Czy ten kod jest zgodny z najnowszą wersją Aspose.Zip dla .NET?
 Tak, kod jest zgodny z najnowszą wersją. Zawsze upewnij się, że masz najnowsze aktualizacje biblioteki.
 
-### Czy przy korzystaniu z Aspose.Zip na platformie .NET obowiązują jakieś zasady licencjonowania?
+### Czy są jakieś kwestie licencyjne związane z używaniem Aspose.Zip na platformie .NET?
  Tak, proszę zapoznać się ze szczegółami dotyczącymi licencji na stronie[Strona internetowa Aspose](https://purchase.conholdate.com/buy).
 
 ### Czy mogę używać Aspose.Zip dla .NET w projektach komercyjnych?

@@ -72,7 +72,7 @@ string outputDir = "Your Document Directory";
 //Ladda arbetsboken
 Workbook wb = new Workbook(sourceDir + "sampleRussianGlobalization.xlsx");
 
-// Använd ryska globaliseringsinställningar
+// Tillämpa ryska globaliseringsinställningar
 wb.Settings.GlobalizationSettings = new RussianGlobalization();
 ```
 

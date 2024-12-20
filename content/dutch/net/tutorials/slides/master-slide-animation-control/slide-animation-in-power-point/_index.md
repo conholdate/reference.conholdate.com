@@ -39,7 +39,7 @@ using (Presentation pres = new Presentation(dataDir + "BetterSlideTransitions.pp
 
 ## Stap 2: Pas cirkelovergang toe op de eerste dia
 
-Om een visueel aantrekkelijke overgang voor uw eerste dia te maken, past u een cirkelvormige overgang toe:
+Om een visueel aantrekkelijke overgang voor uw eerste dia te creëren, past u een cirkelvormige overgang toe:
 
 ```csharp
 pres.Slides[0].SlideShowTransition.Type = TransitionType.Circle;

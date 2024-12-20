@@ -78,7 +78,7 @@ Workbook workbook = new Workbook(sourceDir + "sampleCreateSlicerToExcelTable.xls
 Worksheet worksheet = workbook.Worksheets[0];
 ```
 
-## Βήμα 4: Πρόσβαση στον πίνακα Excel
+## Βήμα 4: Πρόσβαση στον Πίνακα του Excel
 
 Προσδιορίστε τον πίνακα μέσα στο φύλλο εργασίας:
 

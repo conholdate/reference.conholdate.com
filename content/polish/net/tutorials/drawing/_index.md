@@ -4,7 +4,7 @@ linktitle: Aspose.Drawing dla samouczków .NET
 type: docs
 weight: 10
 url: /pl/net/tutorials/drawing/
-description: Podnieś swoje umiejętności graficzne dzięki Aspose.Drawing dla .NET. Od precyzyjnych transformacji współrzędnych po dynamiczny tekst i czcionki, nasze samouczki odblokowują pełny potencjał grafiki.
+description: Podnieś swoje umiejętności graficzne dzięki Aspose.Drawing dla .NET. Od precyzyjnych przekształceń współrzędnych po dynamiczny tekst i czcionki, nasze samouczki odblokowują pełny potencjał grafiki.
 is_root: true
 ---
 

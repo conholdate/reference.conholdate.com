@@ -18,7 +18,7 @@ url: /el/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 - Βασική κατανόηση της C# και του πλαισίου .NET.
 - Το Visual Studio είναι εγκατεστημένο στο μηχάνημα ανάπτυξης.
 -  Η βιβλιοθήκη Aspose.Words for .NET, την οποία μπορείτε να κατεβάσετε[εδώ](https://releases.aspose.com/words/net/).
--  Μια έγκυρη άδεια για το Aspose.Words. Εάν δεν έχετε ακόμη, μπορείτε να αποκτήσετε προσωρινή άδεια[εδώ](https://purchase.conholdate.com/temporary-license/).
+- Μια έγκυρη άδεια για το Aspose.Words. Εάν δεν έχετε ακόμη, μπορείτε να αποκτήσετε προσωρινή άδεια[εδώ](https://purchase.conholdate.com/temporary-license/).
 
 ## Εισαγωγή χώρων ονομάτων
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Τώρα μπορείτε να εργαστείτε με το docFromBytes όπως απαιτείται
 }
 ```
-1.  Δημιουργία ροής μνήμης: Δημιουργία α`MemoryStream` από τον πίνακα byte.
+1.  Δημιουργία ροής μνήμης: Δημιουργία α`MemoryStream`από τον πίνακα byte.
 2. Φόρτωση εγγράφου: Φορτώστε το Έγγραφο απευθείας από τη ροή, καθιστώντας το έτοιμο για οποιεσδήποτε περαιτέρω λειτουργίες.
 
 ## Σύναψη

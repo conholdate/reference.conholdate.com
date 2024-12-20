@@ -77,7 +77,7 @@ using (var fs = File.OpenRead(dataDir + "document.epub"))
 ```csharp
 using (var device = new XpsDevice(dataDir + "document_out.xps"))
 {
-    // Logika vykreslování bude zde
+    // Logika vykreslování zde bude
 }
 ```
 

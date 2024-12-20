@@ -9,7 +9,7 @@ url: /it/net/tutorials/words/mastering-document-properties/remove-personal-infor
 ---
 ## Introduzione
 
-La gestione dei documenti nel mondo digitale odierno comporta la gestione di dati sensibili, spesso inclusi dati personali incorporati nelle proprietà e nei metadati dei documenti. Fortunatamente, Aspose.Words per .NET offre un modo semplice ma efficace per rimuovere tali dati personali dai documenti Word, assicurando che i documenti siano puliti e sicuri. In questa guida, ti guideremo attraverso i passaggi per rimuovere senza sforzo i dati personali dai file Word utilizzando Aspose.Words.
+La gestione dei documenti nel mondo digitale odierno comporta la gestione di dati sensibili, spesso inclusi dati personali incorporati nelle proprietà e nei metadati del documento. Fortunatamente, Aspose.Words per .NET offre un modo semplice ma efficace per rimuovere tali dati personali dai documenti Word, assicurando che i documenti siano puliti e sicuri. In questa guida, ti guideremo attraverso i passaggi per rimuovere senza sforzo i dati personali dai file Word utilizzando Aspose.Words.
 
 ## Prerequisiti
 
@@ -17,7 +17,7 @@ Prima di immergerti nel codice, è essenziale assicurarti di avere la configuraz
 
 ### Aspose.Words per .NET
 
-Per iniziare, hai bisogno di Aspose.Words per .NET. Se non lo hai già fatto, scaricalo da[sito web](https://releases.aspose.com/words/net/) Se sei nuovo su Aspose.Words, puoi provarlo gratuitamente scaricando un[prova gratuita](https://releases.aspose.com/).
+ Per iniziare, hai bisogno di Aspose.Words per .NET. Se non lo hai già fatto, scaricalo da[sito web](https://releases.aspose.com/words/net/)Se sei nuovo su Aspose.Words, puoi provarlo gratuitamente scaricando un[prova gratuita](https://releases.aspose.com/).
 
 ### Ambiente di sviluppo
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Carica il documento
 
-Successivamente, caricheremo il documento nel programma. Questo può essere fatto utilizzando`Document` classe fornita da Aspose.Words. Il seguente frammento di codice mostra come caricare un documento Word dalla directory specificata.
+ Successivamente, caricheremo il documento nel programma. Questo può essere fatto utilizzando`Document`classe fornita da Aspose.Words. Il seguente frammento di codice mostra come caricare un documento Word dalla directory specificata.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Questa singola riga di codice garantisce che il documento non conservi più alcu
 
 ### 2.2 Salvare il documento pulito
 
- Una volta rimosse le informazioni personali, è essenziale salvare il documento modificato. Questo può essere fatto utilizzando`Save`metodo, che scriverà il documento aggiornato in un nuovo file, conservando tutte le modifiche.
+ Una volta rimosse le informazioni personali, è essenziale salvare il documento modificato. Questo può essere fatto utilizzando`Save` metodo, che scriverà il documento aggiornato in un nuovo file, conservando tutte le modifiche.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

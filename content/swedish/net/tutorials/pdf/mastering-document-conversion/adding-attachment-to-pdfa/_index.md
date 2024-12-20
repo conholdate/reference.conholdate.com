@@ -1,7 +1,7 @@
 ---
 title: Lägga till bilagor till PDF/A med Aspose.PDF för .NET
 linktitle: Lägga till bilagor till PDF/A med Aspose.PDF för .NET
-second_title: Aspose.PDF för .NET API-referens
+second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du bifogar filer till ett PDF-dokument med Aspose.PDF för .NET och säkerställer överensstämmelse med PDF/A-standarder.
 type: docs
 weight: 10
@@ -64,7 +64,7 @@ Här är vad vi gör:
 
 - Ange sökvägen för loggfilen.
 -  Välja`PDF_A_3A` format för att stödja inbäddade filer (i motsats till`PDF` vilket inte gör det).
--  Använda`ConvertErrorAction.Delete` för att ta bort alla element som inte är kompatibla med PDF/A-standarder.
+-  Använda`ConvertErrorAction.Delete`för att ta bort alla element som inte är kompatibla med PDF/A-standarder.
 
 ## Steg 5: Spara det resulterande PDF/A-dokumentet
 

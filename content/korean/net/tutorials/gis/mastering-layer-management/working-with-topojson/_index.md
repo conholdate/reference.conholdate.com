@@ -121,7 +121,7 @@ Console.WriteLine("Output:");
 Console.WriteLine(builder.ToString());
 ```
 
-이 단계에서는 콘솔에서 직접 결과를 볼 수 있도록 모든 것이 설정되었습니다. TopoJSON 파일 내에서 각 기능에 대한 자세한 항목을 볼 수 있습니다.
+이 단계에서는 콘솔에서 직접 결과를 볼 수 있도록 모든 것이 설정되었습니다. TopoJSON 파일 내에서 각 기능에 대한 자세한 항목을 볼 수 있어야 합니다.
 
 ## 결론
 

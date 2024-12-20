@@ -12,7 +12,7 @@ url: /sv/net/tutorials/cells/mastering-worksheet-security/
 När det gäller att hantera Excel-kalkylblad är säkerheten ofta i fokus. Oavsett om du har att göra med känsliga data eller vill begränsa obehöriga ändringar är det ett måste att behärska säkerheten i Excel. Gå in i Aspose.Cells för .NET – ett robust API som tar Excel-säkerhet till nästa nivå. Låt oss dyka in i några spännande handledningar som kommer att förvandla dig till ett kalkylbladssäkerhetsproffs!
 
 ## Excel-kolumnskydd på ett enkelt sätt  
- Vill du låsa specifika kolumner i dina Excel-ark? Med Aspose.Cells för .NET kan du enkelt skydda utvalda kolumner, vilket säkerställer dataintegritet utan att begränsa åtkomsten till resten av kalkylbladet. Den här handledningen guidar dig genom att ställa in ditt projekt, konfigurera skyddsinställningar och spara din fil – allt på ett enkelt sätt. Redo att komma igång? Kolla in steg-för-steg-guiden[här](./excel-column-protection/).
+ Vill du låsa specifika kolumner i dina Excel-ark? Med Aspose.Cells för .NET kan du enkelt skydda utvalda kolumner, vilket säkerställer dataintegritet utan att begränsa åtkomsten till resten av kalkylbladet. Den här handledningen guidar dig genom att ställa in ditt projekt, konfigurera skyddsinställningar och spara din fil – allt på ett enkelt sätt. Redo att börja? Kolla in steg-för-steg-guiden[här](./excel-column-protection/).
 
 ## Skydda rader som ett proffs  
 Rader i Excel innehåller ofta viktig information, så det är viktigt att hålla dem säkra. Aspose.Cells för .NET gör radskydd intuitivt och enkelt. Oavsett om du låser lönedata eller konfidentiell statistik visar den här handledningen hur du ställer in skydd med bara några rader kod. Dyk ner i detaljerna[här](./protecting-rows/).

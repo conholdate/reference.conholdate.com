@@ -9,7 +9,7 @@ url: /cs/net/tutorials/comparison/load-and-save-documents/save-documents-metadat
 ---
 ## Zavedení
 
-Při vývoji softwaru, zejména v odvětvích, jako je právo, finance a vzdělávání, je schopnost efektivně porovnávat dokumenty prvořadá. GroupDocs Comparison for .NET poskytuje robustní řešení pro bezproblémové porovnání dokumentů v rámci vašich aplikací .NET. Tento výukový program vás provede využitím této výkonné knihovny k uložení zdroje metadat dokumentu, čímž zajistíte maximální využití jejích možností pro úlohy porovnávání dokumentů.
+Při vývoji softwaru, zejména v odvětvích, jako je právo, finance a vzdělávání, je schopnost efektivně porovnávat dokumenty prvořadá. GroupDocs Comparison for .NET poskytuje robustní řešení pro bezproblémové porovnání dokumentů v rámci vašich aplikací .NET. Tento výukový program vás provede využitím této výkonné knihovny k uložení zdroje metadat dokumentu a zajistí vám tak maximální využití jejích možností pro úlohy porovnávání dokumentů.
 
 ## Předpoklady
 

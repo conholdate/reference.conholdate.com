@@ -42,7 +42,7 @@ string sourceDir = "Your Document Directory";
 string outputDir = "Your Document Directory";
 ```
 
-L'organizzazione dei percorsi aiuta a mantenere il flusso di lavoro pulito e gestibile.
+Organizzare i percorsi aiuta a mantenere il flusso di lavoro pulito e gestibile.
 
 ## Passaggio 2: caricamento della cartella di lavoro
 

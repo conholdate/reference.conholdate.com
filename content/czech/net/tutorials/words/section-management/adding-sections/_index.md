@@ -15,7 +15,7 @@ Už jste někdy čelili úkolu vytvořit dokument Word, který vyžaduje jasnou 
 
 Než začneme, ujistěte se, že máte následující:
 
-1.  Aspose.Words for .NET Library: Stáhněte si nejnovější verzi[zde](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Library: Stáhněte si nejnovější verzi[zde](https://releases.aspose.com/words/net/).
 2. Vývojové prostředí: IDE kompatibilní s .NET, jako je Visual Studio.
 3. Základní znalost C#: Bude užitečná znalost syntaxe C#.
 4. Ukázkový dokument Word (volitelné): I když jej vytvoříme od začátku, mít vzorek může být pro testování přínosem.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Nyní, když máme novou sekci, pojďme ji naplnit nějakým obsahem. 
 
- Chcete-li přidat obsah do nové sekce, musíme přesunout`DocumentBuilder`kurzor na tuto sekci:
+ Chcete-li přidat obsah do nové sekce, musíme přesunout`DocumentBuilder` kurzor na tuto sekci:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Nakonec uložme dokument, abychom zajistili, že veškerá naše tvrdá práce b
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Nezapomeňte vyměnit`"YourPath/YourDocument.docx"` s požadovanou cestou k souboru, kam chcete dokument uložit. Tento řádek uloží váš soubor aplikace Word se všemi sekcemi a obsahem beze změny.
+ Nezapomeňte vyměnit`"YourPath/YourDocument.docx"` požadovanou cestou k souboru, kam chcete dokument uložit. Tento řádek uloží váš soubor aplikace Word se všemi sekcemi a obsahem beze změny.
 
 ## Závěr
 
@@ -112,7 +112,7 @@ Absolutně! Můžete přidat tolik sekcí, kolik potřebujete, každou s jedine�
 
 Rozvržení sekce můžete upravit úpravou vlastností, jako je velikost stránky, orientace, okraje a přidání záhlaví/zápatí pomocí Aspose.Words.
 
-### Lze sekce vnořit do dokumentů aplikace Word?
+### Mohou být sekce vnořeny do dokumentů aplikace Word?
 
 Ne, oddíly nelze vnořovat do jiných oddílů, ale v dokumentu můžete mít postupně více oddílů, z nichž každý má odlišné rozvržení.
 

@@ -19,7 +19,7 @@ Grâce à des extraits de code simples et à des explications claires, vous appr
 
 ## Guide de l'image à partir d'un flux dans la reconnaissance d'image OCR
 
-Maintenant, parlons d'un autre aspect essentiel : traiter les images non pas comme des fichiers mais comme des flux. Cela devient de plus en plus important car de nombreuses applications traitent des images extraites directement d'Internet ou de l'appareil d'un utilisateur.[Guide de l'image à partir d'un flux dans la reconnaissance d'image OCR](./guide-to-image-from-stream/) Le didacticiel offre un aperçu de cette fonctionnalité essentielle.
+Parlons maintenant d'un autre aspect essentiel : traiter les images non pas comme des fichiers mais comme des flux. Cela devient de plus en plus important car de nombreuses applications traitent des images extraites directement d'Internet ou de l'appareil d'un utilisateur.[Guide de l'image à partir d'un flux dans la reconnaissance d'image OCR](./guide-to-image-from-stream/) Le didacticiel offre un aperçu de cette fonctionnalité essentielle.
 
 Dans ce guide, vous découvrirez comment extraire du texte à partir d'images alors qu'elles sont encore au format flux. Cela signifie que vous pouvez traiter et reconnaître du texte à la volée sans avoir à enregistrer de fichiers intermédiaires. L'utilisation de flux peut optimiser considérablement les performances de votre application et améliorer l'expérience utilisateur. Il s'agit de rendre votre application plus intelligente et plus efficace !
 

@@ -68,6 +68,6 @@ Evet, Aspose.Words PDF, HTML, RTF, TXT ve daha fazlası dahil olmak üzere birç
  Lisans satın alabilirsiniz[Burada](https://purchase.conholdate.com/buy).
 
 ### Aspose.Words için desteği nereden alabilirim?
- Aspose.Kelimeler[destek forumu](https://forum.aspose.com/c/words/8) yardım için hazırdır.
+Aspose.Kelimeler[destek forumu](https://forum.aspose.com/c/words/8) yardım için hazırdır.
 
 

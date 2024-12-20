@@ -31,7 +31,7 @@ using System.IO;
 
 ## Stap 1: Open invoer- en uitvoer-ZIP-streams
 
-Eerst moet u streams openen voor de invoer- en uitvoer-ZIP-archieven. Vervangen`"Your Input Directory"` En`"Your Output Directory"` met de door u opgegeven paden.
+ Eerst moet u streams openen voor de invoer- en uitvoer-ZIP-archieven. Vervangen`"Your Input Directory"` En`"Your Output Directory"` met de door u opgegeven paden.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))
@@ -112,4 +112,4 @@ Momenteel ondersteunt Aspose.TeX voornamelijk ZIP-archieven.
 
 ### Hoe verkrijg ik een tijdelijke licentie voor Aspose.TeX?
 
- U kunt een tijdelijke vergunning aanvragen door naar[deze link](https://purchase.conholdate.com/temporary-license/).
+ U kunt een aanvraag voor een tijdelijke vergunning indienen door naar[deze link](https://purchase.conholdate.com/temporary-license/).

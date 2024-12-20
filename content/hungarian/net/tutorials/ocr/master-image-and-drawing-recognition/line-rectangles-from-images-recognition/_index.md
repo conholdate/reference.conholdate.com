@@ -43,7 +43,7 @@ Adja meg a könyvtárat, ahol a képfájl található:
 string dataDir = "Your Document Directory";
 ```
 
- Mindenképpen cserélje ki`"Your Document Directory"` a tényleges úttal.
+ Ügyeljen arra, hogy cserélje ki`"Your Document Directory"` a tényleges úttal.
 
 ## 2. lépés: Inicializálja az Aspose.OCR-t
 

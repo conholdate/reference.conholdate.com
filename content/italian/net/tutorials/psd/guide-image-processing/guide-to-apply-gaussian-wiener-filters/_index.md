@@ -111,7 +111,7 @@ La dimensione del raggio determina l'entità dell'operazione del filtro, mentre 
 
 ### Dove posso trovare supporto e risorse aggiuntive?
 
- Per domande e assistenza, il[Forum di Aspose.PSD](https://forum.aspose.com/c/psd/34)è un'ottima risorsa per entrare in contatto con la comunità e il team di supporto.
+ Per domande e assistenza, il[Forum di Aspose.PSD](https://forum.aspose.com/c/psd/34) è un'ottima risorsa per entrare in contatto con la comunità e il team di supporto.
 
 ### È disponibile una prova gratuita per Aspose.PSD?
 

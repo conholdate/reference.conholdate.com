@@ -9,7 +9,7 @@ url: /ja/net/tutorials/words/mastering-document-properties/remove-personal-infor
 ---
 ## 導入
 
-今日のデジタル世界でドキュメントを管理するには、機密データの取り扱いが伴います。多くの場合、ドキュメントのプロパティやメタデータに個人情報が埋め込まれています。幸い、Aspose.Words for .NET は、Word ドキュメントからそのような個人情報を削除するシンプルで効果的な方法を提供し、ドキュメントがクリーンかつ安全であることを保証します。このガイドでは、Aspose.Words を使用して Word ファイルから個人データを簡単に削除する手順を説明します。
+今日のデジタル世界でドキュメントを管理するには、機密データの取り扱いが伴います。機密データには、ドキュメントのプロパティやメタデータに埋め込まれた個人情報が含まれることがよくあります。幸いなことに、Aspose.Words for .NET は、Word ドキュメントからそのような個人情報を削除するシンプルで効果的な方法を提供し、ドキュメントがクリーンかつ安全であることを保証します。このガイドでは、Aspose.Words を使用して Word ファイルから個人データを簡単に削除する手順を説明します。
 
 ## 前提条件
 
@@ -17,7 +17,7 @@ url: /ja/net/tutorials/words/mastering-document-properties/remove-personal-infor
 
 ### .NET 用 Aspose.Words
 
-始めるには、Aspose.Words for .NETが必要です。まだダウンロードしていない場合は、[Webサイト](https://releases.aspose.com/words/net/) Aspose.Wordsを初めてご利用になる場合は、ダウンロードして無料でお試しいただけます。[無料トライアル](https://releases.aspose.com/).
+始めるには、Aspose.Words for .NETが必要です。まだダウンロードしていない場合は、[Webサイト](https://releases.aspose.com/words/net/)Aspose.Wordsを初めてご利用になる場合は、ダウンロードして無料でお試しいただけます。[無料トライアル](https://releases.aspose.com/).
 
 ### 開発環境
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 ドキュメントを読み込む
 
-次に、ドキュメントをプログラムに読み込みます。これは、`Document` Aspose.Words によって提供されるクラス。次のコード スニペットは、指定されたディレクトリから Word 文書を読み込む方法を示しています。
+次に、ドキュメントをプログラムに読み込みます。これは、`Document`Aspose.Words によって提供されるクラス。次のコード スニペットは、指定されたディレクトリから Word 文書を読み込む方法を示しています。
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");

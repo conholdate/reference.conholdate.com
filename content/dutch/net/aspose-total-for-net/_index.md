@@ -43,7 +43,7 @@ Hieronder vindt u links naar nuttige bronnen die u mogelijk nodig hebt om uw tak
 
 **Welcome to Aspose.Cells for .NET** 
 
-Aspose.Cells voor .NET is een spreadsheet-programmeerbibliotheek waarmee softwareontwikkelaars spreadsheetbestanden kunnen manipuleren en converteren vanuit hun eigen applicaties. Aspose.Cells voor .NET is een combinatie van API's en GUI-besturingselementen en versnelt Microsoft Excel®-programmering en -conversie. Aspose.Cells voor .NET ondersteunt de populaire spreadsheet-bestandsindelingen (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS) die uw bedrijf dagelijks gebruikt. Het staat ook toe om Excel-bestanden te exporteren naar PDF, XPS, HTML, MHTML, platte tekst en populaire afbeeldingsindelingen, waaronder TIFF, JPG, PNG, BMP en SVG. 
+Aspose.Cells voor .NET is een spreadsheet-programmeerbibliotheek waarmee softwareontwikkelaars spreadsheetbestanden kunnen manipuleren en converteren vanuit hun eigen applicaties. Aspose.Cells voor .NET is een combinatie van API's en GUI-besturingselementen en versnelt Microsoft Excel®-programmering en -conversie. Aspose.Cells voor .NET ondersteunt de populaire spreadsheet-bestandsindelingen (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS) die uw bedrijf dagelijks gebruikt. Het maakt ook het exporteren van Excel-bestanden naar PDF, XPS, HTML, MHTML, platte tekst en populaire afbeeldingsindelingen mogelijk, waaronder TIFF, JPG, PNG, BMP en SVG. 
 
 {{% /alert %}} 
 
@@ -93,7 +93,7 @@ Hieronder vindt u links naar nuttige bronnen die u mogelijk nodig hebt om uw tak
 
 **Welcome to Aspose.Imaging for .NET**
 
-Aspose.Imaging voor .NET biedt een aantal flexibele routines voor het maken en bewerken van afbeeldingen binnen .NET-toepassingen. Het functioneert onafhankelijk van andere grafische toepassingen en vereist niet dat er een afbeeldingseditor op de machine is geïnstalleerd. Aspose.Imaging breidt de native ondersteuning voor afbeeldingsformaten en beeldverwerkingsfuncties voor .NET uit. Met Aspose.Imaging kunnen ontwikkelaars afbeeldingen binnen hun eigen programma's snel en eenvoudig bewerken. 
+Aspose.Imaging voor .NET biedt een aantal flexibele routines voor het maken en bewerken van afbeeldingen binnen .NET-toepassingen. Het functioneert onafhankelijk van andere grafische toepassingen en vereist niet dat er een afbeeldingseditor op de machine is geïnstalleerd. Aspose.Imaging breidt de native ondersteuning voor afbeeldingsformaten en beeldverwerkingsfuncties voor .NET uit. Met Aspose.Imaging kunnen ontwikkelaars snel en eenvoudig afbeeldingen bewerken binnen hun eigen programma's. 
 
 Het component ondersteunt de meest voorkomende rasterbestandsformaten en biedt een breed scala aan compressiealgoritmen en talloze beeldverwerkingsbewerkingen. Het exporteren en converteren van afbeeldingen is de kern van de functies van Aspose.Imaging. Het component stelt ontwikkelaars in staat om bijvoorbeeld afbeeldingen om te zetten in miniaturen of om ze eenvoudig te delen binnen een organisatie. Aspose.Imaging biedt snelle verwerking via native byte-toegang en een aantal efficiënte algoritmen. Het component gaat verder dan conversies en laat ontwikkelaars objecten tekenen met behulp van kernfunctionaliteit en meer geavanceerde functionaliteit (gebaseerd op Graphics Path). Aspose.Imaging heeft ingebouwde cross-platform portabiliteit. Op dit moment ondersteunen we ook het werken in Mono. 
 

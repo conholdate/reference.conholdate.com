@@ -15,7 +15,7 @@ Har du någonsin stått inför uppgiften att skapa ett Word-dokument som behöve
 
 Innan vi börjar, se till att du har följande:
 
-1.  Aspose.Words för .NET Library: Ladda ner den senaste versionen[här](https://releases.aspose.com/words/net/).
+1. Aspose.Words för .NET Library: Ladda ner den senaste versionen[här](https://releases.aspose.com/words/net/).
 2. Utvecklingsmiljö: En .NET-kompatibel IDE, som Visual Studio.
 3. Grundläggande C#-kunskaper: Bekantskap med C#-syntax kommer att vara till hjälp.
 4. Exempel på Word-dokument (valfritt): Även om vi skapar ett från början, kan det vara fördelaktigt att testa ett prov.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 Nu när vi har ett nytt avsnitt, låt oss fylla det med lite innehåll. 
 
- För att lägga till innehåll i det nya avsnittet måste vi flytta`DocumentBuilder`markören till det avsnittet:
+ För att lägga till innehåll i det nya avsnittet måste vi flytta`DocumentBuilder` markören till det avsnittet:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ Slutligen, låt oss spara dokumentet för att säkerställa att allt vårt hård
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- Se till att byta ut`"YourPath/YourDocument.docx"` med önskad filsökväg där du vill spara dokumentet. Den här raden sparar din Word-fil med alla avsnitt och innehåll intakt.
+ Se till att byta ut`"YourPath/YourDocument.docx"`med önskad filsökväg där du vill spara dokumentet. Den här raden sparar din Word-fil med alla avsnitt och innehåll intakt.
 
 ## Slutsats
 

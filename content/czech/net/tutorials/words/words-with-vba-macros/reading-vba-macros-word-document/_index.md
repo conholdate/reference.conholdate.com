@@ -9,7 +9,7 @@ url: /cs/net/tutorials/words/words-with-vba-macros/reading-vba-macros-word-docum
 ---
 ## Zavedení
 
-Začlenění maker VBA (Visual Basic for Applications) do dokumentů aplikace Word otevírá dveře k obrovským možnostem automatizace a přizpůsobení. Ať už provádíte audit stávajících maker nebo vyvíjíte nová řešení pro automatizaci, porozumění tomu, jak efektivně číst makra VBA, je zásadní. V této příručce prozkoumáme, jak číst makra VBA z dokumentů aplikace Word pomocí Aspose.Words for .NET – robustní knihovny pro manipulaci s dokumenty aplikace Word. Sledováním tohoto výukového programu získáte nástroje pro přístup a kontrolu projektů VBA, které vám umožní odemknout plný potenciál vašich dokumentů.
+Začlenění maker VBA (Visual Basic for Applications) do dokumentů aplikace Word otevírá dveře k obrovským možnostem automatizace a přizpůsobení. Ať už provádíte audit stávajících maker nebo vyvíjíte nová řešení pro automatizaci, porozumění tomu, jak efektivně číst makra VBA, je zásadní. V této příručce prozkoumáme, jak číst makra VBA z dokumentů aplikace Word pomocí Aspose.Words for .NET – robustní knihovny pro manipulaci s dokumenty aplikace Word. Sledováním tohoto kurzu získáte nástroje pro přístup k projektům VBA a jejich kontrolu, což vám umožní odemknout plný potenciál vašich dokumentů.
 
 ## Předpoklady
 

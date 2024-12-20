@@ -111,7 +111,7 @@ Die Radiusgröße bestimmt das Ausmaß der Filterwirkung, während der Glättung
 
 ### Wo finde ich Unterstützung und zusätzliche Ressourcen?
 
- Für Fragen und Hilfe steht Ihnen die[Aspose.PSD-Forum](https://forum.aspose.com/c/psd/34)ist eine großartige Ressource, um mit der Community und dem Support-Team in Kontakt zu treten.
+ Für Fragen und Hilfe steht Ihnen die[Aspose.PSD-Forum](https://forum.aspose.com/c/psd/34) ist eine großartige Ressource, um mit der Community und dem Support-Team in Kontakt zu treten.
 
 ### Gibt es eine kostenlose Testversion für Aspose.PSD?
 

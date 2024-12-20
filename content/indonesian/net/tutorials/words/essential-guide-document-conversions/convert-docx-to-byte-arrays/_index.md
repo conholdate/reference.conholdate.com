@@ -18,7 +18,7 @@ Sebelum menyelami kode, pastikan Anda memiliki prasyarat berikut:
 - Pemahaman dasar tentang C# dan kerangka kerja .NET.
 - Visual Studio terinstal di mesin pengembangan Anda.
 -  Pustaka Aspose.Words untuk .NET, yang dapat Anda unduh[Di Sini](https://releases.aspose.com/words/net/).
--  Lisensi yang valid untuk Aspose.Words. Jika Anda belum memilikinya, Anda dapat memperoleh lisensi sementara[Di Sini](https://purchase.conholdate.com/temporary-license/).
+- Lisensi yang valid untuk Aspose.Words. Jika Anda belum memilikinya, Anda dapat memperoleh lisensi sementara[Di Sini](https://purchase.conholdate.com/temporary-license/).
 
 ## Mengimpor Ruang Nama
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Sekarang Anda dapat bekerja dengan docFromBytes sesuai kebutuhan
 }
 ```
-1.  Pembuatan Aliran Memori: Buat`MemoryStream` dari array byte.
+1.  Pembuatan Aliran Memori: Buat`MemoryStream`dari array byte.
 2. Pemuatan Dokumen: Muat Dokumen langsung dari aliran, membuatnya siap untuk operasi lebih lanjut.
 
 ## Kesimpulan

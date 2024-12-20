@@ -47,7 +47,7 @@ string outputFileName = Path.Combine(outputDirectory, "RESULT.docx");
 ```csharp
 using (Comparer comparer = new Comparer("SOURCE.docx"))
 ```
- Ez inicializálja a`Comparer` objektum, amely alapot ad a dokumentumok összehasonlításához.
+ Ez inicializálja a`Comparer` objektum, amely alapot biztosít a dokumentumok összehasonlításához.
 
 ## 3. lépés: Adja hozzá a céldokumentumot
 
@@ -60,7 +60,7 @@ Ez a lépés meghatározza azt a dokumentumot, amelyet összehasonlítani szeret
 
 ## 4. lépés: Hasonlítsa össze a dokumentumokat és mentse a metaadatforrást
 
-Itt az ideje az összehasonlításnak és a dokumentum metaadat-forrásának mentésének:
+Most itt az ideje, hogy elvégezzük az összehasonlítást és mentsük a dokumentum metaadatforrását:
 
 ```csharp
 comparer.Compare(outputFileName, new SaveOptions() { CloneMetadataType = MetadataType.Source });

@@ -39,7 +39,7 @@ Először adjon meg egy könyvtár elérési utat, ahová menteni szeretné az E
 string dataDir = "Your Document Directory";
 ```
 
- Mindenképpen cserélje ki`"Your Document Directory"` a kívánt úttal.
+ Ügyeljen arra, hogy cserélje ki`"Your Document Directory"` a kívánt úttal.
 
 ## 2. lépés: Ellenőrizze és hozzon létre könyvtárat
 

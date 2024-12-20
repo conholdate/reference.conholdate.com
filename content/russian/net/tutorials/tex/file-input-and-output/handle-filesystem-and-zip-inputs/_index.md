@@ -92,4 +92,4 @@ Aspose.TeX в первую очередь фокусируется на обра
 
 ### Как я могу приобрести Aspose.TeX для .NET?
 
- Вы можете приобрести Aspose.TeX для .NET напрямую у[страница покупки](https://purchase.conholdate.com/buy).
+Вы можете приобрести Aspose.TeX для .NET напрямую у[страница покупки](https://purchase.conholdate.com/buy).

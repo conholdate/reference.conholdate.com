@@ -121,7 +121,7 @@ Console.WriteLine("CreateSlicerToPivotTable executed successfully.");
 是的，您可以新增多個切片器來篩選資料透視表中的不同欄位。
 
 ### Aspose.Cells 可以免費使用嗎？
-Aspose.Cells 是一個付費庫，但您可以在試用期間免費試用。
+Aspose.Cells 是一個付費庫，但您可以在試用期內免費試用。
 
 ### 在哪裡可以找到更多 Aspose.Cells 文件？
 參觀[Aspose.Cells 文檔](https://reference.aspose.com/cells/net/)了解更多。

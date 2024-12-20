@@ -9,7 +9,7 @@ url: /ko/net/tutorials/words/words-with-vba-macros/reading-vba-macros-word-docum
 ---
 ## 소개
 
-VBA(Visual Basic for Applications) 매크로를 Word 문서에 통합하면 자동화 및 사용자 지정에 대한 엄청난 가능성이 열립니다. 기존 매크로를 감사하든 새로운 자동화 솔루션을 개발하든 VBA 매크로를 효율적으로 읽는 방법을 이해하는 것이 중요합니다. 이 가이드에서는 Word 문서 조작을 위한 강력한 라이브러리인 Aspose.Words for .NET을 사용하여 Word 문서에서 VBA 매크로를 읽는 방법을 살펴보겠습니다. 이 튜토리얼을 따르면 VBA 프로젝트에 액세스하고 검사할 수 있는 도구를 얻을 수 있으므로 문서의 잠재력을 최대한 활용할 수 있습니다.
+VBA(Visual Basic for Applications) 매크로를 Word 문서에 통합하면 자동화 및 사용자 지정에 대한 엄청난 가능성이 열립니다. 기존 매크로를 감사하든 새로운 자동화 솔루션을 개발하든 VBA 매크로를 효율적으로 읽는 방법을 이해하는 것이 중요합니다. 이 가이드에서는 Aspose.Words for .NET을 사용하여 Word 문서에서 VBA 매크로를 읽는 방법을 살펴보겠습니다. 이 가이드를 따르면 VBA 프로젝트에 액세스하고 검사할 수 있는 도구를 얻을 수 있으며, 이를 통해 문서의 잠재력을 최대한 활용할 수 있습니다.
 
 ## 필수 조건
 

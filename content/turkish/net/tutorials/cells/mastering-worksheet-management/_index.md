@@ -34,5 +34,5 @@ Aspose.Cells for .NET kullanarak Excel dosyalarına yeni çalışma sayfaların�
 Aspose.Cells for .NET ile Excel otomasyonunun gücünü açığa çıkarın. Bu adım adım eğitim, Excel dosyalarını programatik olarak oluşturma, çalışma sayfalarını ekleme ve yeniden adlandırma ve çalışmanızı zahmetsizce kaydetme konusunda size rehberlik eder.
 ### [Aspose.Cells ile Mevcut Excel Dosyasına Çalışma Sayfaları Ekleme](./adding-worksheets-to-existing-excel-file/)
 Aspose.Cells kullanarak .NET'te var olan bir Excel dosyasına yeni bir çalışma sayfasının nasıl kolayca ekleneceğini öğrenin. Bu adım adım kılavuz, ortamınızı kurmaktan değiştirilmiş Excel dosyasını kaydetmeye kadar her şeyi kapsar.
-### [Aspose.Cells kullanarak Belirli Çalışma Sayfalarını Adına Göre Kaldırın](./remove-specific-worksheets-by-name/)
+### [Aspose.Cells kullanarak belirli çalışma sayfalarını isme göre kaldırın](./remove-specific-worksheets-by-name/)
 Aspose.Cells for .NET ile Excel dosya yönetiminizi nasıl kolaylaştıracağınızı öğrenin. Bu kılavuz, belirli çalışma sayfalarını adlarına göre programatik olarak kaldırma adımlarında size yol gösterir, böylece zamandan tasarruf eder ve elektronik tablolarınızı düzenli tutarsınız.

@@ -64,7 +64,7 @@ Voici ce que nous faisons :
 
 - Spécifiez le chemin du fichier journal.
 -  Choisir`PDF_A_3A` format pour prendre en charge les fichiers intégrés (par opposition à`PDF` ce qui ne le fait pas).
--  Utiliser`ConvertErrorAction.Delete` pour supprimer tous les éléments non conformes aux normes PDF/A.
+-  Utiliser`ConvertErrorAction.Delete`pour supprimer tous les éléments non conformes aux normes PDF/A.
 
 ## Étape 5 : enregistrement du document PDF/A obtenu
 

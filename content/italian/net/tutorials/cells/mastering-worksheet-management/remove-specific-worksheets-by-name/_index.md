@@ -55,7 +55,7 @@ Ora arriva il compito principale: rimuovere un foglio di lavoro. Aspose.Cells se
 workbook.Worksheets.RemoveAt("Sheet1");
 ```
 
-*Note* : Sostituire`"Sheet1"` con il nome effettivo del foglio di lavoro che vuoi eliminare. Assicurati che il nome sia accurato per evitare errori.
+*Note* : Sostituire`"Sheet1"` con il nome effettivo del foglio di lavoro che vuoi eliminare. Assicurati che il nome sia corretto per evitare errori.
 
 ## Passaggio 5: salvare la cartella di lavoro modificata
 

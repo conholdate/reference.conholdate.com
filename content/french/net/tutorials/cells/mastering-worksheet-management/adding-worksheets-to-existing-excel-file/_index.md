@@ -126,7 +126,7 @@ fstream.Close();
 
 ## Conclusion
 
-Aspose.Cells pour .NET simplifie la tâche d'ajout de feuilles de calcul à un fichier Excel existant, en offrant une API intuitive qui fonctionne parfaitement avec C#. Que vous ayez besoin d'ajouter une seule feuille de calcul ou plusieurs feuilles, Aspose.Cells fournit une solution fiable qui s'intègre parfaitement à vos applications .NET. Ce didacticiel vous a montré comment ouvrir un fichier Excel existant, ajouter une nouvelle feuille de calcul, la renommer et enregistrer vos modifications, le tout avec seulement quelques lignes de code.
+Aspose.Cells pour .NET simplifie la tâche d'ajout de feuilles de calcul à un fichier Excel existant, en proposant une API intuitive qui fonctionne parfaitement avec C#. Que vous ayez besoin d'ajouter une seule feuille de calcul ou plusieurs feuilles, Aspose.Cells fournit une solution fiable qui s'intègre parfaitement à vos applications .NET. Ce didacticiel vous a montré comment ouvrir un fichier Excel existant, ajouter une nouvelle feuille de calcul, la renommer et enregistrer vos modifications, le tout avec seulement quelques lignes de code.
 
 ## FAQ
 

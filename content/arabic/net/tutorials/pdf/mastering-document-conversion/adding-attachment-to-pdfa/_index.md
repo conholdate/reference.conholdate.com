@@ -64,7 +64,7 @@ doc.Convert(dataDir + "log.txt", Aspose.Pdf.PdfFormat.PDF_A_3A, ConvertErrorActi
 
 - حدد المسار لملف السجل.
 -  يختار`PDF_A_3A` تنسيق لدعم الملفات المضمنة (على عكس`PDF` الذي لا يفعل ذلك).
--  يستخدم`ConvertErrorAction.Delete` لحذف أي عناصر غير متوافقة مع معايير PDF/A.
+-  يستخدم`ConvertErrorAction.Delete`لحذف أي عناصر غير متوافقة مع معايير PDF/A.
 
 ## الخطوة 5: حفظ مستند PDF/A الناتج
 

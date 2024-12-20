@@ -65,7 +65,7 @@ Document doc = new Document(dataDir + "Digitally signed.docx");
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`วิธีการนี้ใช้ในการลงนามในเอกสาร โดยพารามิเตอร์ ได้แก่ เส้นทางเอกสารต้นฉบับ เส้นทางที่ต้องการสำหรับเอกสารที่ลงนาม และผู้ถือใบรับรอง
+- `DigitalSignatureUtil.Sign`: วิธีการนี้ใช้ในการลงนามในเอกสาร โดยพารามิเตอร์ ได้แก่ เส้นทางเอกสารต้นฉบับ เส้นทางที่ต้องการสำหรับเอกสารที่ลงนาม และผู้ถือใบรับรอง
 
 ## ขั้นตอนที่ 5: บันทึกเอกสารที่ลงนาม
 

@@ -13,7 +13,7 @@ url: /zh-hant/net/tutorials/gis/mastering-layer-management/
 
 ## 在 Aspose.GIS for .NET 中使用 TopoJSON
 
-首先是 TopoJSON——一種用於編碼地理資料的緊湊格式。為什麼要關心？好吧，TopoJSON 簡化了地理空間數據，同時保留了拓撲，這意味著連接的幾何圖形共享點，從而在不丟失數據完整性的情況下縮小檔案大小。 
+首先是 TopoJSON——一種用於編碼地理資料的緊湊格式。為什麼要關心？嗯，TopoJSON 簡化了地理空間數據，同時保留了拓撲，這意味著連接的幾何圖形共享點，從而在不丟失數據完整性的情況下縮小檔案大小。 
 
 首先，您需要安裝 Aspose.GIS for .NET。完成後，請查看[在 Aspose.GIS for .NET 中使用 TopoJSON](./working-with-topojson/)教程。它逐步分解了從 TopoJSON 檔案讀取、提取和顯示地理空間特徵的過程。當您了解這種格式時，您會驚訝地發現可以如此輕鬆地操作空間資料！
 

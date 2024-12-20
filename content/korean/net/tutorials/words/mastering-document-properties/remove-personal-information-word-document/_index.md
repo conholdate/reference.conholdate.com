@@ -17,7 +17,7 @@ url: /ko/net/tutorials/words/mastering-document-properties/remove-personal-infor
 
 ### .NET을 위한 Aspose.Words
 
-시작하려면 Aspose.Words for .NET이 필요합니다. 아직 다운로드하지 않았다면 다음에서 다운로드하세요.[웹사이트](https://releases.aspose.com/words/net/) Aspose.Words를 처음 사용하는 경우 무료로 다운로드하여 사용해 볼 수 있습니다.[무료 체험](https://releases.aspose.com/).
+ 시작하려면 Aspose.Words for .NET이 필요합니다. 아직 다운로드하지 않았다면 다음에서 다운로드하세요.[웹사이트](https://releases.aspose.com/words/net/)Aspose.Words를 처음 사용하는 경우 무료로 다운로드하여 사용해 볼 수 있습니다.[무료 체험](https://releases.aspose.com/).
 
 ### 개발 환경
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 문서 로드
 
-다음으로, 우리는 문서를 프로그램에 로드할 것입니다. 이것은 다음을 사용하여 수행할 수 있습니다.`Document` Aspose.Words에서 제공하는 클래스입니다. 다음 코드 조각은 지정된 디렉토리에서 Word 문서를 로드하는 방법을 보여줍니다.
+ 다음으로, 우리는 문서를 프로그램에 로드할 것입니다. 이것은 다음을 사용하여 수행할 수 있습니다.`Document`Aspose.Words에서 제공하는 클래스입니다. 다음 코드 조각은 지정된 디렉토리에서 Word 문서를 로드하는 방법을 보여줍니다.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ doc.RemovePersonalInformation = true;
 
 ### 2.2 정리된 문서 저장
 
- 개인 정보가 제거되면 수정된 문서를 저장하는 것이 필수적입니다. 이는 다음을 사용하여 수행할 수 있습니다.`Save`이 방법은 모든 변경 사항을 보존한 채 업데이트된 문서를 새 파일에 쓰는 것입니다.
+ 개인 정보가 제거되면 수정된 문서를 저장하는 것이 필수적입니다. 이는 다음을 사용하여 수행할 수 있습니다.`Save` 이 방법은 모든 변경 사항을 보존한 채 업데이트된 문서를 새 파일에 쓰는 것입니다.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

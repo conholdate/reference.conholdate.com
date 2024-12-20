@@ -101,7 +101,7 @@ GroupDocs.Merger per .NET consente di tagliare e scambiare le pagine. Gestisce a
 ## **GroupDocs.Merger for .NET**
 Di seguito sono riportati i link ad alcune risorse utili che potrebbero servirti per portare a termine i tuoi compiti.
 
-- [GroupDocs.Merger per la guida di riferimento all'API .NET](https://apireference.groupdocs.com/merger/net)
+- [GroupDocs.Merger per la guida di riferimento dell'API .NET](https://apireference.groupdocs.com/merger/net)
 
 {{% alert color="primary" %}} 
 

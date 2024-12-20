@@ -23,7 +23,7 @@ Ezután egy kicsit más dologba merülünk bele – a ZIP-fájlokkal való munk�
 
 Miért érdemes ZIP fájlokat használni? Tekintsd úgy, mint egy digitális bőröndöt; mindent rendben tart, és megkönnyíti az utazást az iratokkal. Ez az oktatóanyag segít beállítani a konverziós beállításokat, megadni a beviteli könyvtárakat, és hatékonyan végrehajtani a konverziókat – mindezt úgy, hogy a munkaterületet rendben tartja. 
 
-## Fájlbevitel és -kimenet elsajátítása az Aspose.TeX oktatóanyagokkal
+## A fájlbevitel és -kimenet elsajátítása az Aspose.TeX oktatóanyagok segítségével
 ### [Kezelje a fájlrendszereket és az XPS-kimeneteket az Aspose.TeX for .NET-ben](./handle-filesystem-and-xps-output/)
 Tekintse meg átfogó útmutatónkat az Aspose.TeX for .NET használatáról fájlrendszerek kezelésére és XPS-kimenetek generálására. Ez a lépésenkénti oktatóanyag mindent lefed a környezet beállításától a TeX-feladatok végrehajtásáig.
 ### [Kezelje a fájlrendszer és ZIP bemeneteket az Aspose.TeX for .NET segítségével](./handle-filesystem-and-zip-inputs/)

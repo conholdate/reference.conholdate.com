@@ -1,5 +1,5 @@
 ---
-title: Oldalak hozzáadása PostScript-dokumentumokhoz az Aspose.Page for .NET használatával
+title: Adjon hozzá oldalakat a PostScript-dokumentumokhoz az Aspose.Page for .NET használatával
 linktitle: AAdjon hozzá oldalakat a PostScript dokumentumokhoz
 second_title: Aspose.Page .NET API
 description: Fedezze fel, hogyan javíthatja .NET-alkalmazásait a PostScript dokumentumok Aspose.Page segítségével történő manipulálásával. Ez a lépésenkénti útmutató egyértelmű utasításokat ad a dokumentum inicializálásához.

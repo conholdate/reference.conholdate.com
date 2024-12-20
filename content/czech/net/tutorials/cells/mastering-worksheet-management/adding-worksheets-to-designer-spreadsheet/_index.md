@@ -35,7 +35,7 @@ string dataDir = "Your Document Directory";
 string inputPath = Path.Combine(dataDir, "book1.xlsx");
 ```
 
-## Krok 3: Otevřete soubor Excel
+## Krok 3: Otevřete soubor aplikace Excel
  Vytvořte a`FileStream` otevřete soubor Excel a umožníte Aspose.Cells číst a upravovat jeho obsah.
 
 ```csharp
@@ -102,7 +102,7 @@ fstream.Close();
  Absolutně! Použijte`Insert` metoda k určení pozice nového listu.
 
 ### Mohu přejmenovat list po jeho přidání?
-Ano, stačí aktualizovat`Name` vlastnictvím`Worksheet` objekt.
+Ano, stačí aktualizovat`Name` vlastnictví`Worksheet` objekt.
 
 ### Vyžaduje Aspose.Cells instalaci aplikace Microsoft Excel?
 Ne, Aspose.Cells je samostatná knihovna, takže na vašem počítači není potřeba Microsoft Excel.

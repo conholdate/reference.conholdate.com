@@ -65,7 +65,7 @@ Sau khi đã tải xong tài liệu và chứng chỉ, đã đến lúc ký:
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Phương pháp này ký tài liệu. Các tham số là đường dẫn tài liệu gốc, đường dẫn mong muốn cho tài liệu đã ký và người giữ chứng chỉ.
+- `DigitalSignatureUtil.Sign`: Phương pháp này ký tài liệu. Các tham số là đường dẫn tài liệu gốc, đường dẫn mong muốn cho tài liệu đã ký và người giữ chứng chỉ.
 
 ## Bước 5: Lưu tài liệu đã ký
 

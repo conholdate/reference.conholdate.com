@@ -29,7 +29,7 @@ Aspose.Cells for .NET 是一個強大的工具，可以在 .NET 專案中自動�
  
 ## 使用 Web 擴充功能增強工作簿  
 
-想要將您的 Excel 檔案提升到一個新的水平嗎？添加網路擴展可能是關鍵！本教學介紹如何將 Web 擴充功能整合到您的工作簿中。無論您是嵌入自訂功能還是連結外部數據，本指南都可以透過清晰的程式碼範例簡化流程。[閱讀更多](./adding-web-extension/).  
+想要將您的 Excel 檔案提升到一個新的水平嗎？添加網路擴展可能是關鍵！本教學介紹如何將 Web 擴充功能整合到您的工作簿中。無論您是嵌入自訂功能還是連結外部數據，本指南都透過清晰的程式碼範例簡化了流程。[閱讀更多](./adding-web-extension/).  
 
 ## 掌握工作簿操作教程
 ### [使用 Aspose.Cells 存取 Excel Web 擴充訊息](./accessing-excel-web-extension-information/)

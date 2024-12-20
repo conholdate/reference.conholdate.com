@@ -88,7 +88,7 @@ doc.Save(dataDir + "ConvertedImage.Format1BppIndexed.Png", saveOptions);
  نعم، يلزم الحصول على ترخيص للاستفادة من الوظائف الكاملة. يمكنك الحصول على ترخيص[رخصة مؤقتة هنا](https://purchase.aspose.com/temporary-license/).
 
 ### ما هي تنسيقات الصور الأخرى التي يمكنني تحويل مستند Word إليها؟
- يدعم Aspose.Words تنسيقات مختلفة، بما في ذلك JPEG وBMP وTIFF. ما عليك سوى تغيير`SaveFormat`في`ImageSaveOptions` إلى التنسيق المطلوب.
+ يدعم Aspose.Words تنسيقات مختلفة، بما في ذلك JPEG وBMP وTIFF. ما عليك سوى تغيير`SaveFormat` في`ImageSaveOptions`إلى التنسيق المطلوب.
 
 ### أين يمكنني العثور على مزيد من الوثائق حول Aspose.Words لـ .NET؟
  للحصول على توثيق شامل، قم بزيارة[صفحة توثيق Aspose.Words لـ .NET](https://reference.aspose.com/words/net/).

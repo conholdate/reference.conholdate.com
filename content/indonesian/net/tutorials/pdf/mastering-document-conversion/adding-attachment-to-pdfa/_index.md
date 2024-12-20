@@ -64,7 +64,7 @@ Inilah yang sedang kami lakukan:
 
 - Tentukan jalur untuk berkas log.
 -  Memilih`PDF_A_3A` format untuk mendukung file tertanam (berbeda dengan`PDF` yang tidak).
--  Menggunakan`ConvertErrorAction.Delete` untuk menghapus elemen apa pun yang tidak sesuai dengan standar PDF/A.
+-  Menggunakan`ConvertErrorAction.Delete`untuk menghapus elemen apa pun yang tidak sesuai dengan standar PDF/A.
 
 ## Langkah 5: Menyimpan Hasil PDF/Dokumen A
 

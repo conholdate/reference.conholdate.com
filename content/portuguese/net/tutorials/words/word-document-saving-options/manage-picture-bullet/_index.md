@@ -77,7 +77,7 @@ doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 
 ## Conclusão
 
-aí está! Com apenas algumas linhas de código, você configurou com sucesso o Aspose.Words for .NET para omitir marcadores de imagem ao salvar documentos. Esse recurso é incrivelmente útil para obter uma aparência de documento limpa e consistente.
+E aí está! Com apenas algumas linhas de código, você configurou com sucesso o Aspose.Words for .NET para omitir marcadores de imagem ao salvar documentos. Esse recurso é incrivelmente útil para obter uma aparência de documento limpa e consistente.
 
 ## Perguntas frequentes
 

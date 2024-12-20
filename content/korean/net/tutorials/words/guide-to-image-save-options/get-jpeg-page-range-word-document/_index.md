@@ -77,7 +77,7 @@ doc.Save(dataDir + "ConvertedImage.jpeg", options);
  JPEG 품질을 향상할 수 있습니다.`JpegQuality`속성에`ImageSaveOptions`값의 범위는 0(가장 낮은 품질)에서 100(가장 높은 품질)까지입니다.
 
 ### 다른 이미지 형식으로 저장할 수 있나요?  
- 네, Aspose.Words는 PNG, BMP, TIFF를 포함한 여러 이미지 형식을 지원합니다. 간단히 변경하면 됩니다.`SaveFormat` ~에`ImageSaveOptions` 원하는 형식으로.
+ 네, Aspose.Words는 PNG, BMP, TIFF를 포함한 여러 이미지 형식을 지원합니다. 간단히 변경하면 됩니다.`SaveFormat` ~에`ImageSaveOptions`원하는 형식으로.
 
 ### 저장하기 전에 이미지를 미리 볼 수 있는 방법이 있나요?  
 Aspose.Words에는 기본 제공 미리보기 기능이 포함되어 있지 않지만 Windows Forms 또는 WPF 애플리케이션을 사용하여 사용자 지정 미리보기 메커니즘을 빌드할 수 있습니다.

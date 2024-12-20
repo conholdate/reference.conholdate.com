@@ -16,7 +16,7 @@ Behöver du en guide för att konvertera diagram från Excel-kalkylblad till PDF
 ### .NET-miljöinställningar
 Se till att du har antingen .NET Framework eller .NET Core installerat. Dessa miljöer är båda kompatibla med Aspose.Cells, så att du kan använda den som passar ditt projekt bäst.
 
-### Installation av Aspose.Cells Library
+### Aspose.Cells Library Installation
  Aspose.Cells-biblioteket är viktigt för diagram-till-PDF-konverteringar. Hämta den senaste versionen från[Aspose nedladdningssida](https://releases.aspose.com/cells/net/).
 
 ### Grundläggande C#-kunskaper

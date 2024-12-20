@@ -15,7 +15,7 @@ url: /ja/net/tutorials/words/words-with-textboxes/textbox-sequences-check/
 
 コードに進む前に、次のものを用意してください。
 
-1.  Aspose.Words for .NET ライブラリ: 最新バージョンをダウンロード[ここ](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET ライブラリ: 最新バージョンをダウンロード[ここ](https://releases.aspose.com/words/net/).
 2. 開発環境: Visual Studio などの .NET 互換環境。
 3. 基本的な C# の知識: C# 構文に精通していると役立ちます。
 4. サンプル ドキュメント: Word ドキュメントがあると便利ですが、この例ではすべてを最初から作成します。
@@ -125,7 +125,7 @@ doc.Save("TextBoxSequenceCheck.docx");
 ### テキスト ボックスを非線形シーケンスでリンクできますか?
 はい、テキスト ボックスは、結果の配置がコンテンツにとって意味をなす限り、さまざまな方法でリンクできます。
 
-### シーケンスからテキスト ボックスのリンクを解除するにはどうすればよいですか?
+### テキスト ボックスとシーケンスのリンクを解除するにはどうすればよいですか?
 設定することができます`Next`または`Previous`プロパティ`null`必要に応じて。
 
 ### リンクされたテキスト ボックス内のテキストのスタイルを異なるものにすることは可能ですか?

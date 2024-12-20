@@ -94,7 +94,7 @@ foreach (VbaModule vbaItem in templateFile.VbaProject.Modules)
     }
     else
     {
-        // Αντιγράψτε τον κωδικό και τα δεδομένα άλλων μονάδων
+        // Αντιγράψτε τον κώδικα και τα δεδομένα άλλων μονάδων
         int vbaMod = target.VbaProject.Modules.Add(vbaItem.Type, vbaItem.Name);
         target.VbaProject.Modules[vbaMod].Codes = vbaItem.Codes;
 

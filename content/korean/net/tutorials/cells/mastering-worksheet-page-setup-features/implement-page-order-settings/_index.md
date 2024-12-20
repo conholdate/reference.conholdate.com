@@ -69,7 +69,7 @@ pageSetup.Order = PrintOrderType.OverThenDown;
 마지막으로 통합 문서를 저장하여 변경 사항을 적용합니다.
 
 ```csharp
-// 통합 문서를 저장할 경로를 정의합니다.
+// 통합 문서를 저장할 경로를 정의하세요
 string dataDir = "Your Document Directory/";
 // 통합 문서 저장
 workbook.Save(dataDir + "SetPageOrder_out.xls");

@@ -2,14 +2,14 @@
 title: Adjon hozzá könyvjelzőket megnevezett célokkal az Excel fájlokból származó PDF-fájlokhoz
 linktitle: Adjon hozzá könyvjelzőket megnevezett célokkal az Excel fájlokból származó PDF-fájlokhoz
 second_title: Aspose.Cells .NET Excel Processing API
-description: Ismerje meg, hogyan hozhat létre egyszerűen interaktív PDF-eket Excel-fájlokból az Aspose.Cells for .NET segítségével. Ez az oktatóanyag a könyvjelzők hozzáadását ismerteti elnevezett célokkal a PDF-alapú navigáció javítása érdekében.
+description: Ismerje meg, hogyan hozhat létre egyszerűen interaktív PDF-eket Excel-fájlokból az Aspose.Cells for .NET segítségével. Ez az oktatóanyag a PDF navigáció javítása érdekében könyvjelzők hozzáadását ismerteti elnevezett célokkal.
 type: docs
 weight: 10
 url: /hu/net/tutorials/cells/mastering-rendering-and-exporting/add-bookmarks-with-named-destinations/
 ---
 ## Bevezetés
 
-A nagy PDF-fájlokban való navigálás gyakran olyan érzés lehet, mintha tűt keresne a szénakazalban, különösen, ha azokat kiterjedt Excel-táblázatokból állítják elő. A PDF-dokumentumok könyvjelzői zökkenőmentes módot kínálnak a fájl releváns részei közötti ugrásra, javítva a felhasználói élményt. Ez a részletes útmutató végigvezeti Önt azon a folyamaton, amikor az Aspose.Cells for .NET segítségével Excel-fájlból generált PDF-dokumentumokhoz hozzáadhat elnevezett célokkal rendelkező könyvjelzőket.
+A nagy PDF-fájlokban való navigálás gyakran olyan érzés lehet, mintha tűt keresnénk a szénakazalban, különösen, ha azokat kiterjedt Excel-táblázatokból állítják elő. A PDF-dokumentumok könyvjelzői zökkenőmentes módot kínálnak a fájl releváns részei közötti ugrásra, javítva a felhasználói élményt. Ez a részletes útmutató végigvezeti Önt azon a folyamaton, amikor az Aspose.Cells for .NET segítségével Excel-fájlból generált PDF-dokumentumokhoz elnevezett célokkal rendelkező könyvjelzőket adhat hozzá.
 
 ## Az Aspose.Cells for .NET használatának előfeltételei
 

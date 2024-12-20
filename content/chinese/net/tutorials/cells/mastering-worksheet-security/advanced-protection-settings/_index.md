@@ -2,7 +2,7 @@
 title: 使用 Aspose.Cells 进行高级保护设置
 linktitle: 使用 Aspose.Cells 进行高级保护设置
 second_title: Aspose.Cells .NET Excel 处理 API
-description: 了解如何通过使用 Aspose.Cells for .NET 实施高级保护设置来增强 Excel 文件的安全性。本综合指南将逐步指导您限制用户操作。
+description: 了解如何通过使用 Aspose.Cells for .NET 实施高级保护设置来增强 Excel 文件的安全性。本综合指南将逐步指导您如何限制用户操作。
 type: docs
 weight: 24
 url: /zh/net/tutorials/cells/mastering-worksheet-security/advanced-protection-settings/

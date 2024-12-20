@@ -82,7 +82,7 @@ using (SmtpClient client = new SmtpClient())
 
 ## 結論
 
-恭喜！您已成功將 DOCX 文件轉換為 MHTML，並使用 Aspose.Words 和 Aspose.Email for .NET 透過電子郵件傳送。此過程包括載入文件、將其轉換為 MHTML、建立電子郵件並透過 SMTP 用戶端發送。透過這些步驟，您可以在應用程式中無縫地自動轉換文件並透過電子郵件發送。
+恭喜！您已成功將 DOCX 文件轉換為 MHTML 並使用 Aspose.Words 和 Aspose.Email for .NET 透過電子郵件傳送。此過程包括載入文件、將其轉換為 MHTML、建立電子郵件並透過 SMTP 用戶端發送。透過這些步驟，您可以在應用程式中無縫地自動轉換文件並透過電子郵件發送。
 
 ## 常見問題解答
 

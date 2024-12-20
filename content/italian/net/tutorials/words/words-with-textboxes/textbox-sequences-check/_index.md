@@ -15,7 +15,7 @@ Ciao, colleghi sviluppatori e appassionati di documenti! 🌟 Hai mai affrontato
 
 Prima di immergerci nel codice, assicurati di avere quanto segue:
 
-1.  Aspose.Words per la libreria .NET: scarica l'ultima versione[Qui](https://releases.aspose.com/words/net/).
+1. Aspose.Words per la libreria .NET: scarica l'ultima versione[Qui](https://releases.aspose.com/words/net/).
 2. Ambiente di sviluppo: un ambiente compatibile con .NET come Visual Studio.
 3. Conoscenza di base del linguaggio C#: sarà utile avere familiarità con la sintassi del linguaggio C#.
 4. Documento di esempio: è utile avere a portata di mano un documento Word, ma in questo esempio creeremo tutto da zero.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 In questo frammento:
 - `ShapeType.TextBox` specifica che stiamo creando una forma di casella di testo.
-- `textBox`è l'istanza effettiva della casella di testo che andremo a manipolare.
+- `textBox` è l'istanza effettiva della casella di testo che andremo a manipolare.
 
 ## Passaggio 3: controllo della sequenza delle caselle di testo
 
@@ -115,7 +115,7 @@ Questo comando salva il documento corrente come "TextBoxSequenceCheck.docx", inc
 
 ## Conclusione
 
-Congratulazioni! 🎉 Hai imparato con successo come creare caselle di testo, determinarne la sequenza e collegarle in un documento Word utilizzando Aspose.Words per .NET. Questa competenza è inestimabile per gestire documenti complessi, come moduli e guide didattiche.
+Congratulazioni! 🎉 Hai imparato con successo come creare caselle di testo, determinarne la sequenza e collegarle in un documento Word utilizzando Aspose.Words per .NET. Questa competenza è inestimabile per la gestione di documenti complessi, come moduli e guide didattiche.
 
 ## Domande frequenti
 
@@ -126,7 +126,7 @@ Conoscere la sequenza consente di gestire il flusso logico dei contenuti, soprat
 Sì, le caselle di testo possono essere collegate in vari modi, purché la disposizione risultante abbia senso per il contenuto.
 
 ### Come posso scollegare una casella di testo da una sequenza?
- Puoi impostarlo`Next` O`Previous` proprietà a`null` secondo necessità.
+ Puoi impostarlo`Next` O`Previous` proprietà a`null`secondo necessità.
 
 ### È possibile formattare in modo diverso il testo all'interno delle caselle di testo collegate?
 Assolutamente! Puoi applicare stili indipendenti al contenuto di ogni casella di testo, offrendo flessibilità di progettazione.

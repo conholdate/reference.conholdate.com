@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/cells/mastering-worksheet-value-operations/adding-pa
 在我們深入研究程式碼之前，請確保您已準備好以下內容：
 - Visual Studio：確保您的系統上安裝了 Visual Studio。
 -  Aspose.Cells for .NET：下載並安裝 Aspose.Cells 函式庫。您可以獲得免費試用版[這裡](https://releases.aspose.com/cells/net/).
-- .NET Framework：本教學假設您使用的是 .NET Framework 或 .NET Core。對於其他環境，該過程可能略有不同。
+- .NET Framework：本教學假設您使用.NET Framework 或 .NET Core。對於其他環境，該過程可能略有不同。
 - 基本 C# 知識：熟悉 C# 程式設計和 Excel 中分頁符號的概念將會有所幫助。
 
 ## 導入包

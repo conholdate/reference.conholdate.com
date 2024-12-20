@@ -9,7 +9,7 @@ url: /nl/net/tutorials/cells/mastering-workbook-operations/adding-new-digital-si
 ---
 ## Invoering
 
-In het digitale landschap van vandaag de dag is het belangrijker dan ooit om de authenticiteit en integriteit van documenten te waarborgen. Digitale handtekeningen bieden een betrouwbare manier om te verifiëren dat een document niet is gewijzigd en dat het afkomstig is van een legitieme bron. Als u met Excel-bestanden in .NET werkt en een nieuwe digitale handtekening aan een bestand moet toevoegen dat al is ondertekend, dan is deze gids iets voor u! We leiden u door het proces van het toevoegen van een digitale handtekening aan een bestaand ondertekend Excel-bestand met behulp van Aspose.Cells voor .NET.
+In het digitale landschap van vandaag de dag is het belangrijker dan ooit om de authenticiteit en integriteit van documenten te waarborgen. Digitale handtekeningen bieden een betrouwbare manier om te verifiëren dat een document niet is gewijzigd en dat het afkomstig is van een legitieme bron. Als u met Excel-bestanden in .NET werkt en een nieuwe digitale handtekening moet toevoegen aan een bestand dat al is ondertekend, dan is deze gids iets voor u! We leiden u door het proces van het toevoegen van een digitale handtekening aan een bestaand ondertekend Excel-bestand met behulp van Aspose.Cells voor .NET.
 
 ## Vereisten
 

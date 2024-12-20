@@ -17,7 +17,7 @@ Föreställ dig att ha ett visuellt dokument som förmedlar inte bara en bild ut
 ## Säkra PDF-filer med förbättrade signaturer  
  PDF-filer är en stapelvara i affärsvärlden för hantering av kontrakt och formella dokument. Vårt omfattande[Guide till att signera PDF-filer med metadata med GroupDocs.Signature](./signing-pdf-with-metadata/)visar hur du förstärker dina PDF-dokument med kraftfulla signaturer. Den här handledningen fokuserar på att göra dina PDF-filer säkrare och mer spårbara genom att inkludera metadata som spårar signeringsprocessen och lägger till relevant information. Du hittar enkla exempel och tydliga förklaringar som gör det möjligt för dig att slutföra denna uppgift på nolltid.
 
-## Självstudier för masterdokumentsignering
+## Handledning för masterdokumentsignering
 ### [Guide till att signera bilder med metadata med hjälp av GroupDocs.Signature](./signing-images-with-metadata/)
 Lär dig hur du effektivt signerar bilder med metadata i dina .NET-applikationer med GroupDocs.Signature. Denna steg-för-steg handledning täcker allt från installation till implementering, så att du enkelt kan förbättra dina dokument med metadatasignaturer.
 ### [Guide till att signera PDF-filer med metadata med GroupDocs.Signature](./signing-pdf-with-metadata/)

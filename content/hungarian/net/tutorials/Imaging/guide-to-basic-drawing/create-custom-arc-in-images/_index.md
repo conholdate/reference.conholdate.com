@@ -101,7 +101,7 @@ Végül elmentjük a képen végzett változtatásokat:
 }
 ```
 
-A kép mentésre kerül a rárajzolt ívvel.
+A kép most a rárajzolt ívvel kerül mentésre.
 
 ## Következtetés
 

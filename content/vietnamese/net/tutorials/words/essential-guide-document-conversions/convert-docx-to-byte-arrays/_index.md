@@ -9,7 +9,7 @@ url: /vi/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 ---
 ## Giới thiệu
 
-Trong lĩnh vực phát triển .NET, Aspose.Words nổi lên như một công cụ mạnh mẽ để thao tác theo chương trình các tài liệu Word. Cho dù bạn đang phát triển các ứng dụng tự động hóa quy trình làm việc của tài liệu, tạo báo cáo hay nâng cao khả năng xử lý, Aspose.Words đều được trang bị chức năng mạnh mẽ. Bài viết này cung cấp hướng dẫn rõ ràng, chi tiết về cách chuyển đổi các tệp Docx thành mảng byte bằng Aspose.Words cho .NET, cho phép bạn khai thác chức năng này một cách hiệu quả trong các dự án của mình.
+Trong lĩnh vực phát triển .NET, Aspose.Words nổi lên như một công cụ mạnh mẽ để thao tác theo chương trình các tài liệu Word. Cho dù bạn đang phát triển các ứng dụng tự động hóa quy trình làm việc của tài liệu, tạo báo cáo hay tăng cường khả năng xử lý, Aspose.Words đều được trang bị chức năng mạnh mẽ. Bài viết này cung cấp hướng dẫn rõ ràng, chi tiết về cách chuyển đổi các tệp Docx thành mảng byte bằng Aspose.Words cho .NET, cho phép bạn khai thác chức năng này một cách hiệu quả trong các dự án của mình.
 
 ## Điều kiện tiên quyết
 
@@ -18,7 +18,7 @@ Trước khi tìm hiểu về mã, hãy đảm bảo bạn có đủ các điề
 - Hiểu biết cơ bản về C# và .NET framework.
 - Visual Studio được cài đặt trên máy phát triển của bạn.
 -  Thư viện Aspose.Words cho .NET, bạn có thể tải xuống[đây](https://releases.aspose.com/words/net/).
--  Giấy phép hợp lệ cho Aspose.Words. Nếu bạn chưa có, bạn có thể xin giấy phép tạm thời[đây](https://purchase.conholdate.com/temporary-license/).
+- Giấy phép hợp lệ cho Aspose.Words. Nếu bạn chưa có, bạn có thể xin giấy phép tạm thời[đây](https://purchase.conholdate.com/temporary-license/).
 
 ## Nhập không gian tên
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Bây giờ bạn có thể làm việc với docFromBytes khi cần thiết
 }
 ```
-1.  Tạo luồng bộ nhớ: Tạo một`MemoryStream` từ mảng byte.
+1.  Tạo luồng bộ nhớ: Tạo một`MemoryStream`từ mảng byte.
 2. Tải tài liệu: Tải tài liệu trực tiếp từ luồng, giúp tài liệu sẵn sàng cho mọi thao tác tiếp theo.
 
 ## Phần kết luận

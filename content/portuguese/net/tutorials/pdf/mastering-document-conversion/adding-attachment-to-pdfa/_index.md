@@ -64,7 +64,7 @@ Aqui está o que estamos fazendo:
 
 - Especifique o caminho para o arquivo de log.
 -  Escolher`PDF_A_3A` formato para suportar arquivos incorporados (em oposição a`PDF` que não).
--  Usar`ConvertErrorAction.Delete` para excluir quaisquer elementos que não estejam em conformidade com os padrões PDF/A.
+-  Usar`ConvertErrorAction.Delete`para excluir quaisquer elementos que não estejam em conformidade com os padrões PDF/A.
 
 ## Etapa 5: Salvando o documento PDF/A resultante
 

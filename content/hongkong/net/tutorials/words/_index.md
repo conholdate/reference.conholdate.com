@@ -27,5 +27,5 @@ is_root: true
 | [文件格式的文字處理](./words-processing-with-file-format/) | 透過我們全面的文件處理教學（包括文件格式偵測和數位簽章）來釋放 Aspose.Words for .NET 的強大功能。 |
 | [使用 Aspose.Words for .NET 修復 HTML 儲存選項](./html-fixed-save-options/) | 透過我們全面的 HTML 固定保存選項教學解鎖 Aspose.Words for .NET 的強大功能。了解如何簡化您的文件工作流程。 |
 | [在 Aspose.Words for .NET 中使用 HTMLLoadOptions](./use-htmlloadoptions/) | 在我們的綜合教學中了解如何有效地將 HTMLLoadOptions 與 Aspose.Words for .NET 結合使用。了解功能、技巧和實際範例。 |
-| [使用 Htmlsaveoptions 進行文字處理](./words-processing-with-htmlsaveoptions/) | 透過我們的逐步教學解鎖 Aspose.Words for .NET 的強大功能，涵蓋 HTML 和元檔案轉換以增強文件處理。 |
+| [使用 Htmlsaveoptions 進行文字處理](./words-processing-with-htmlsaveoptions/) | 透過我們的逐步教學釋放 Aspose.Words for .NET 的強大功能，涵蓋 HTML 和圖元檔案轉換以增強文件處理。 |
 | [Aspose.Words for .NET 中的圖片儲存選項指南](./guide-to-image-save-options/) | 探索使用 Aspose.Words for .NET 儲存映像的實用教學課程，其中包含易於遵循的步驟和程式碼範例，可實現高效的文件處理。 |

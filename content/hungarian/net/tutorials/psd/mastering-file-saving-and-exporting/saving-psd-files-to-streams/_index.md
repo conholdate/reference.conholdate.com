@@ -47,7 +47,7 @@ Határozza meg a forrás PSD-fájl helyét és azt, hogy hova szeretné menteni 
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // A forrás PSD-fájl elérési útja
-string destName = dataDir + "result.png";   // kimeneti képfájl elérési útja
+string destName = dataDir + "result.png";   // A kimeneti képfájl elérési útja
 ```
 
 ## 3. lépés: Töltse be a PSD-képet, és kezelje a nem található betűtípusokat

@@ -16,7 +16,7 @@ Att effektivt hantera och organisera olika dokumentformat är avgörande i dagen
 Innan vi börjar, se till att följande krav är uppfyllda:
 
 1. Aspose.Words för .NET Library  
-    Ladda ner biblioteket från[Aspose Words släpper](https://releases.aspose.com/words/net/) och aktivera den med en giltig licens. För tillfälliga licenser, besök[Aspose tillfällig licens](https://purchase.aspose.com/temporary-license/).
+    Ladda ner biblioteket från[Aspose Words släpper](https://releases.aspose.com/words/net/)och aktivera den med en giltig licens. För tillfälliga licenser, besök[Aspose tillfällig licens](https://purchase.aspose.com/temporary-license/).
 
 2. Utvecklingsmiljö  
    Använd Visual Studio (alla nyare versioner) med .NET Framework installerat.
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- De`FileFormatUtil.DetectFileFormat` metod är central för att identifiera dokumentets egenskaper.
+ De`FileFormatUtil.DetectFileFormat`metod är central för att identifiera dokumentets egenskaper.
 
 ## Slutsats
 

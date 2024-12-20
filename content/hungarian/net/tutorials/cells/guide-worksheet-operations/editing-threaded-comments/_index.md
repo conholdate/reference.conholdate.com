@@ -45,14 +45,14 @@ Most a környezeted készen áll a kódolásra!
  A forrás- és kimeneti könyvtár meghatározása kulcsfontosságú, mivel ez határozza meg, hogy hol találja meg az Excel-fájlt, és hova mentse a szerkesztett verziót. A tiédben`Main` módszerrel deklarálja ezeket a változókat:
 
 ```csharp
-string sourceDir = "Your Document Directory"; // Cserélje ki a tényleges könyvtárra
-string outDir = "Your Document Directory"; // Cserélje ki a tényleges könyvtárra
+string sourceDir = "Your Document Directory"; // Cserélje le tényleges könyvtárra
+string outDir = "Your Document Directory"; // Cserélje le tényleges könyvtárra
 ```
 
 Cserélje ki a „Dokumentumkönyvtár” elemet a gép tényleges elérési útjával.
 
 ## 3. lépés: Töltse be a munkafüzetet
-Most pedig jön az izgalmas rész: töltsd be a munkafüzetedet! Adja hozzá a következő kódot az Excel-fájl betöltéséhez:
+Most pedig jön az izgalmas rész: töltsd be a munkafüzetedet! Adja hozzá a következő kódot az Excel fájl betöltéséhez:
 
 ```csharp
 Workbook workbook = new Workbook(sourceDir + "ThreadedCommentsSample.xlsx");

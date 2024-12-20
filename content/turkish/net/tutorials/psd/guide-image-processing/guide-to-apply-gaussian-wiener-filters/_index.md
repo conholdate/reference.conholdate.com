@@ -111,7 +111,7 @@ Yarıçap boyutu, filtrenin çalışma kapsamını belirlerken, yumuşatma değe
 
 ### Destek ve ek kaynakları nerede bulabilirim?
 
- Sorularınız ve yardımlarınız için[Aspose.PSD forumu](https://forum.aspose.com/c/psd/34)Toplulukla bağlantı kurmak ve ekibi desteklemek için harika bir kaynaktır.
+ Sorularınız ve yardımlarınız için[Aspose.PSD forumu](https://forum.aspose.com/c/psd/34) Toplulukla bağlantı kurmak ve ekibi desteklemek için harika bir kaynaktır.
 
 ### Aspose.PSD için ücretsiz deneme sürümü mevcut mu?
 

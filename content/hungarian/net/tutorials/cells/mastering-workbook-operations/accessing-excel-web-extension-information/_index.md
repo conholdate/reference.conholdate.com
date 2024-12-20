@@ -47,7 +47,7 @@ using System;
 
 ## 3. lépés: Adja meg a forráskönyvtárat
 
-Ezután adja meg a programnak, hogy hol találja az Excel fájlt:
+Ezután adja meg a programnak, hogy hol találja az Excel-fájlt:
 
 ```csharp
 // Forrás könyvtár

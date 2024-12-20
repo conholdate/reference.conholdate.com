@@ -88,4 +88,4 @@ Ja, es unterstützt eine Vielzahl von Formaten, darunter DOCX, XLSX, PPTX und me
  Ja, eine kostenlose Testversion ist verfügbar. Sie können darauf zugreifen über[Veröffentlichungsseite](https://releases.groupdocs.com/).
 
 ### Wo finde ich Unterstützung für GroupDocs.Annotation für .NET?
-Für Hilfe besuchen Sie die GroupDocs.Annotation-Community-Foren[Hier](https://forum.groupdocs.com/c/annotation/10).
+Wenn Sie Hilfe benötigen, besuchen Sie die GroupDocs.Annotation-Community-Foren.[Hier](https://forum.groupdocs.com/c/annotation/10).

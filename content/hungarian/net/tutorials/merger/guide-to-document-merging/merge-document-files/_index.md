@@ -37,7 +37,7 @@ string outputFolder = "Your_Output_Directory"; // Helyettesítsd az utaddal
 string outputFile = Path.Combine(outputFolder, "merged.doc");
 ```
 
- Mindenképpen cserélje ki`"Your_Output_Directory"` azzal a tényleges elérési úttal, ahová az egyesített dokumentumot menteni szeretné.
+ Ügyeljen arra, hogy cserélje ki`"Your_Output_Directory"` azzal a tényleges elérési úttal, ahová az egyesített dokumentumot menteni szeretné.
 
 ## 2. lépés: Töltse be és egyesítse a forrás DOC fájlokat
 

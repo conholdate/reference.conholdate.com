@@ -25,7 +25,7 @@ url: /ja/net/tutorials/pdf/mastering-document-conversion/mastering-html-to-pdf/
 開始するには、次の手順に従ってプロジェクト ディレクトリを設定します。
 
 1. プロジェクトディレクトリを作成する: という名前のフォルダを作成します`Documents`コンピューター上。ここに HTML ファイルと出力 PDF を保存します。
-2.  HTMLファイルを追加する: HTMLファイル（例：`HTMLToPDF.html` ）の`Documents`フォルダ。
+2.  HTMLファイルを追加する: HTMLファイル（例：`HTMLToPDF.html`）の`Documents`フォルダ。
 
 ## 必要なパッケージのインポート
 

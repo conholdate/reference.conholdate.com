@@ -71,7 +71,7 @@ Worksheet ws2 = wb2.Worksheets[0];
 ```
 
 ## Steg 4: Kontrollera egenskapen IsAutomaticPaperSize
- För att verifiera pappersstorleksinställningarna, kontrollera`IsAutomaticPaperSize` egendom:
+ För att kontrollera inställningarna för pappersstorlek, kontrollera`IsAutomaticPaperSize` egendom:
 ```csharp
 // Skriv ut egenskapen PageSetup.IsAutomaticPaperSize för båda kalkylbladen
 Console.WriteLine("First Workbook - IsAutomaticPaperSize: " + ws1.PageSetup.IsAutomaticPaperSize);

@@ -77,7 +77,7 @@ Gefeliciteerd! U hebt met succes een specifieke pagina van een Word-document omg
  U kunt de JPEG-kwaliteit verbeteren via de`JpegQuality`eigendom in`ImageSaveOptions`De waarden variëren van 0 (laagste kwaliteit) tot 100 (hoogste kwaliteit).
 
 ### Kan ik in andere afbeeldingsformaten opslaan?  
- Ja, Aspose.Words ondersteunt verschillende afbeeldingsformaten, waaronder PNG, BMP en TIFF. Verander eenvoudig de`SaveFormat` in`ImageSaveOptions` naar het door u gewenste formaat.
+ Ja, Aspose.Words ondersteunt verschillende afbeeldingsformaten, waaronder PNG, BMP en TIFF. Verander eenvoudig de`SaveFormat` in`ImageSaveOptions`naar het door u gewenste formaat.
 
 ### Is er een manier om een voorbeeld van de afbeelding te bekijken voordat ik deze opsla?  
 Aspose.Words beschikt niet over een ingebouwde voorvertoningsfunctie, maar u kunt een aangepast voorvertoningsmechanisme bouwen met behulp van een Windows Forms- of WPF-toepassing.

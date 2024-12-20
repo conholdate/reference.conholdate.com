@@ -70,7 +70,7 @@ Console.WriteLine("Root Element Name of XML Map: " + xmap.RootElementName);
 
 Ez a sor lekéri a gyökérelem nevét az XML-leképezésről, és kinyomtatja a konzolra.
 
-## 5. lépés: Hajtsa végre a kódot
+## 5. lépés: Hajtsa végre a kódját
 Most, hogy mindent beállított, futtassa a programot. Ha sikeres, akkor az XML-leképezés gyökérelemének neve megjelenik a konzolablakban:
 
 ```plaintext

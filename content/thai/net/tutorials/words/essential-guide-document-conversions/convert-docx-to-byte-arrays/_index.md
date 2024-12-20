@@ -18,7 +18,7 @@ url: /th/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 - ความเข้าใจพื้นฐานเกี่ยวกับ C# และ .NET framework
 - ติดตั้ง Visual Studio บนเครื่องพัฒนาของคุณแล้ว
 -  ไลบรารี Aspose.Words สำหรับ .NET ซึ่งคุณสามารถดาวน์โหลดได้[ที่นี่](https://releases.aspose.com/words/net/).
--  ใบอนุญาตที่ถูกต้องสำหรับ Aspose.Words หากคุณยังไม่มี คุณสามารถขอรับใบอนุญาตชั่วคราวได้[ที่นี่](https://purchase.conholdate.com/temporary-license/).
+- ใบอนุญาตที่ถูกต้องสำหรับ Aspose.Words หากคุณยังไม่มี คุณสามารถขอรับใบอนุญาตชั่วคราวได้[ที่นี่](https://purchase.conholdate.com/temporary-license/).
 
 ## นำเข้าเนมสเปซ
 
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // ตอนนี้คุณสามารถทำงานกับ docFromBytes ตามความจำเป็น
 }
 ```
-1.  การสร้างสตรีมหน่วยความจำ: สร้าง`MemoryStream` จากอาร์เรย์ไบต์
+1.  การสร้างสตรีมหน่วยความจำ: สร้าง`MemoryStream`จากอาร์เรย์ไบต์
 2. การโหลดเอกสาร: โหลดเอกสารโดยตรงจากสตรีม ทำให้พร้อมสำหรับการดำเนินการใดๆ เพิ่มเติม
 
 ## บทสรุป

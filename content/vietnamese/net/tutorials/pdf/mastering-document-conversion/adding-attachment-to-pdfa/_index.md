@@ -64,7 +64,7 @@ Sau đây là những gì chúng tôi đang làm:
 
 - Chỉ định đường dẫn cho tệp nhật ký.
 -  Chọn`PDF_A_3A` định dạng để hỗ trợ các tập tin nhúng (trái ngược với`PDF` mà không phải vậy).
--  Sử dụng`ConvertErrorAction.Delete` để xóa bất kỳ thành phần nào không tuân thủ tiêu chuẩn PDF/A.
+-  Sử dụng`ConvertErrorAction.Delete`để xóa bất kỳ thành phần nào không tuân thủ tiêu chuẩn PDF/A.
 
 ## Bước 5: Lưu tài liệu PDF/A kết quả
 

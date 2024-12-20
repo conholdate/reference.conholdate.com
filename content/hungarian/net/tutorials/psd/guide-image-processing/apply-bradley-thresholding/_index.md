@@ -75,7 +75,7 @@ Teljesen! A Bradley Thresholding sokoldalú, és a legtöbb képtípushoz alkalm
 
 ### Létezik próbaverzió?
 
- Igen! Az Aspose.PSD for .NET ingyenes próbaverzióval kipróbálható[itt](https://releases.aspose.com/).
+Igen! Az Aspose.PSD for .NET ingyenes próbaverzióval kipróbálható[itt](https://releases.aspose.com/).
 
 ### Hogyan kaphatok támogatást az Aspose.PSD-hez?
 

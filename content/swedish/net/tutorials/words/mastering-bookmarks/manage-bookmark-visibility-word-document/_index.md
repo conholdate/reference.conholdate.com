@@ -22,7 +22,7 @@ Innan vi dyker in, se till att du har följande:
 
 ### Skapa ett nytt projekt
 
-1. Öppna Visual Studio och skapa ett nytt Console App (.NET Core)-projekt. Namnge det något i stil med "BookmarkVisibilityManager".
+1. Öppna Visual Studio och skapa ett nytt Console App-projekt (.NET Core). Namnge det något i stil med "BookmarkVisibilityManager".
 
 ### Installera Aspose.Words för .NET
 

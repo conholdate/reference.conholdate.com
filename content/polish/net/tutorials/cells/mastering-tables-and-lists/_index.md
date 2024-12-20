@@ -18,11 +18,11 @@ Czy jesteś gotowy, aby przenieść swoje umiejętności manipulacji w programie
 Tabele Excela są potężne, ale czasami potrzebujesz elastyczności. W tym miejscu przydaje się konwersja tabel do formatu OpenDocument Spreadsheet (ODS). Aspose.Cells dla .NET umożliwia obsługę tej konwersji za pomocą zaledwie kilku linijek kodu. Chcesz szczegółowego przewodnika? Sprawdź pełny samouczek[Tutaj](./convert-table-to-ods-format/).  
 
 ## Konwertuj tabele programu Excel na zakresy  
- Musisz rozłożyć tabelę na zwykły zakres, zachowując jednocześnie swoje dane? Aspose.Cells dla .NET ułatwia to zadanie. Niezależnie od tego, czy przygotowujesz raport, czy upraszczasz swoje dane, konwersja tabel na zakresy może zaoszczędzić czas i poprawić przejrzystość. Dowiedz się, jak to zrobić w naszym przewodniku krok po kroku[Tutaj](./convert-excel-tables-to-range/).  
+ Trzeba rozłożyć tabelę na zwykły zakres, zachowując jednocześnie dane? Aspose.Cells dla .NET ułatwia to zadanie. Niezależnie od tego, czy przygotowujesz raport, czy upraszczasz dane, konwersja tabel na zakresy może zaoszczędzić czas i poprawić przejrzystość. Dowiedz się, jak to zrobić w naszym przewodniku krok po kroku[Tutaj](./convert-excel-tables-to-range/).  
 
 ## Konwertuj tabele na zakresy z opcjami  
 
-Dostosowywanie sposobu konwersji tabel na zakresy jest często niezbędne do osiągnięcia pożądanych rezultatów. Aspose.Cells dla .NET oferuje elastyczność w dostrajaniu tych konwersji za pomocą opcji, takich jak zachowywanie formatowania lub dostosowywanie struktur danych. Niezależnie od tego, czy tworzysz dynamiczne raporty, czy udoskonalasz arkusze kalkulacyjne do prezentacji, ten samouczek gwarantuje, że za każdym razem zrobisz to dobrze. Chcesz dowiedzieć się więcej? Znajdź pełny przewodnik[Tutaj](./convert-tables-to-range-with-options/).  
+Dostosowanie sposobu konwersji tabel na zakresy jest często niezbędne do osiągnięcia pożądanych rezultatów. Aspose.Cells dla .NET oferuje elastyczność w dostrajaniu tych konwersji za pomocą opcji, takich jak zachowywanie formatowania lub dostosowywanie struktur danych. Niezależnie od tego, czy tworzysz dynamiczne raporty, czy udoskonalasz arkusze kalkulacyjne do prezentacji, ten samouczek gwarantuje, że za każdym razem zrobisz to dobrze. Chcesz dowiedzieć się więcej? Znajdź pełny przewodnik[Tutaj](./convert-tables-to-range-with-options/).  
 
 ## Samouczki dotyczące opanowywania tabel i list
 ### [Tworzenie i zarządzanie obiektami listy w programie Excel za pomocą Aspose.Cells](./create-and-manage-list-object/)

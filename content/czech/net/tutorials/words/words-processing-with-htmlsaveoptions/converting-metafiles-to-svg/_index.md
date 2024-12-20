@@ -1,6 +1,6 @@
 ---
 title: Převod metasouborů na Svg
-linktitle: Převést metasoubory na svg
+linktitle: Převést metasoubory na Svg
 second_title: Aspose.Words API pro zpracování dokumentů
 description: Zjistěte, jak vylepšit své dokumenty aplikace Word převodem metasouborů na SVG pomocí výkonné knihovny Aspose.Words for .NET. Tento komplexní výukový program vás provede každým krokem, od inicializace dokumentu po vložení grafiky SVG.
 type: docs
@@ -68,7 +68,7 @@ builder.InsertHtml(
 
 Tento úryvek vloží jednoduchý mnohoúhelník SVG se zadanými body a styly. Neváhejte a přizpůsobte si SVG kód tak, aby vyhovoval vašim potřebám!
 
-## Krok 4: Definujte HtmlSaveOptions
+## Krok 4: Definujte možnosti HtmlSaveOptions
 
  Abychom zajistili, že se naše metasoubory uloží jako SVG, definujeme`HtmlSaveOptions` a nastavte`MetafileFormat` majetek do`HtmlMetafileFormat.Svg`.
 

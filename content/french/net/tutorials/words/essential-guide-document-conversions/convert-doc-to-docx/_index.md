@@ -68,6 +68,6 @@ Oui, Aspose.Words prend en charge de nombreux formats, notamment PDF, HTML, RTF,
  Vous pouvez acheter une licence[ici](https://purchase.conholdate.com/buy).
 
 ### Où puis-je obtenir de l'aide pour Aspose.Words ?
- Les mots d'Aspose[Forum de soutien](https://forum.aspose.com/c/words/8) est disponible pour vous aider.
+Les mots d'Aspose[Forum de soutien](https://forum.aspose.com/c/words/8) est disponible pour vous aider.
 
 

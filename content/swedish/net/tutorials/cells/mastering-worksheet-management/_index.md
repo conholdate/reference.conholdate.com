@@ -13,7 +13,7 @@ url: /sv/net/tutorials/cells/mastering-worksheet-management/
 
 ## Lägga till kalkylblad till Designer-kalkylblad  
 
- Börjar du med designerkalkylblad? Denna guide har din rygg! Lär dig hur du sömlöst lägger till nya kalkylblad till en fördesignad Excel-mall. Med Aspose.Cells kan du programmässigt förbättra dina kalkylblad genom att skapa ytterligare kalkylblad för att passa dynamiska krav. För detaljerade steg, kontrollera[Lägga till kalkylblad till Designer-kalkylblad](./adding-worksheets-to-designer-spreadsheet/) guide.  
+ Börjar du med designerkalkylblad? Den här guiden har din rygg! Lär dig hur du sömlöst lägger till nya kalkylblad till en fördesignad Excel-mall. Med Aspose.Cells kan du programmässigt förbättra dina kalkylblad genom att skapa ytterligare kalkylblad för att passa dynamiska krav. För detaljerade steg, kontrollera[Lägga till kalkylblad till Designer-kalkylblad](./adding-worksheets-to-designer-spreadsheet/) guide.  
 
 ## Bygga en ny Excel-fil  
 

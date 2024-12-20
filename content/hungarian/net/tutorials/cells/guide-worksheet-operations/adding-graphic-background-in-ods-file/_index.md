@@ -109,7 +109,7 @@ background.GraphicType = OdsPageBackgroundGraphicType.Area;
 Magyarázat:
 - A PageSetup megnyitása: Manipulálja a munkalap oldalbeállításait.
 -  Állítsa be a háttér típusát: Változtassa meg a`Type` hogy`Graphic` képet használni.
--  Kép betöltése: A`GraphicData` tulajdonság átveszi a kép bájttömbjét.
+-  Kép betöltése: A`GraphicData` tulajdonság a kép bájttömbjét veszi át.
 -  Adja meg a grafikus típust: ennek beállítása`Area` azt jelenti, hogy a kép az egész munkalapot lefedi.
 
 ## 6. lépés: Mentse el a munkafüzetet

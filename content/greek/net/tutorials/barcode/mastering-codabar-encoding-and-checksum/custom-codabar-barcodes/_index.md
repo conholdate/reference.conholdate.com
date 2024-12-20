@@ -72,7 +72,7 @@ gen.Parameters.Barcode.Codabar.CodabarStartSymbol = CodabarSymbol.B;
 gen.Parameters.Barcode.Codabar.CodabarStopSymbol = CodabarSymbol.B;
 ```
 
-### Έναρξη C και στάση C:
+### Έναρξη C και Διακοπή C:
 
 ```csharp
 gen.Parameters.Barcode.Codabar.CodabarStartSymbol = CodabarSymbol.C;
@@ -111,7 +111,7 @@ gen.Save($"{path}CodabarStartDStopD.png", BarCodeImageFormat.Png);
 
 Το Codabar είναι μια αριθμητική συμβολολογία γραμμωτού κώδικα που χρησιμοποιείται ευρέως σε διάφορες βιομηχανίες. Οι χαρακτήρες έναρξης και λήξης υποδηλώνουν τα όρια του γραμμικού κώδικα, διασφαλίζοντας ακριβή λήψη δεδομένων.
 
-### Μπορώ να προσαρμόσω την εμφάνιση των γραμμωτών κωδίκων Codabar με το Aspose.BarCode για .NET;
+### Μπορώ να προσαρμόσω την εμφάνιση των γραμμωτών κωδικών Codabar με το Aspose.BarCode για .NET;
 
 Ναι, μπορείτε να προσαρμόσετε την εμφάνιση προσαρμόζοντας παραμέτρους όπως το X-Dimension ή αλλάζοντας τα σύμβολα έναρξης και διακοπής.
 

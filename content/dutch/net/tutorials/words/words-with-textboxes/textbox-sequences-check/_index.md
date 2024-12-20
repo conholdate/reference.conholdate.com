@@ -15,7 +15,7 @@ Hallo, mede-ontwikkelaars en documentliefhebbers! 🌟 Heb je ooit de uitdaging 
 
 Voordat we in de code duiken, moet u ervoor zorgen dat u het volgende heeft:
 
-1.  Aspose.Words voor .NET-bibliotheek: download de nieuwste versie[hier](https://releases.aspose.com/words/net/).
+1. Aspose.Words voor .NET-bibliotheek: download de nieuwste versie[hier](https://releases.aspose.com/words/net/).
 2. Ontwikkelomgeving: Een .NET-compatibele omgeving zoals Visual Studio.
 3. Basiskennis van C#: Kennis van de C#-syntaxis is nuttig.
 4. Voorbeelddocument: Het is handig om een Word-document bij de hand te hebben, maar in dit voorbeeld maken we alles helemaal zelf.
@@ -56,7 +56,7 @@ TextBox textBox = shape.TextBox;
 
 In dit fragment:
 - `ShapeType.TextBox` geeft aan dat we een tekstvakvorm maken.
-- `textBox`is het daadwerkelijke tekstvakexemplaar dat we gaan bewerken.
+- `textBox` is het daadwerkelijke tekstvakexemplaar dat we gaan bewerken.
 
 ## Stap 3: De volgorde van de tekstvakken controleren
 
@@ -126,7 +126,7 @@ Als u de volgorde kent, kunt u de logische stroom van de inhoud beheren, vooral 
 Ja, tekstvakken kunnen op verschillende manieren aan elkaar worden gekoppeld, zolang de uiteindelijke indeling maar aansluit bij uw inhoud.
 
 ### Hoe kan ik een tekstvak loskoppelen van een reeks?
- Je kunt het instellen`Next` of`Previous` eigenschappen aan`null` indien nodig.
+ Je kunt het instellen`Next` of`Previous` eigenschappen aan`null`indien nodig.
 
 ### Is het mogelijk om de tekst in gekoppelde tekstvakken anders op te maken?
 Absoluut! U kunt onafhankelijke stijlen toepassen op de inhoud van elk tekstvak, wat zorgt voor flexibiliteit in het ontwerp.

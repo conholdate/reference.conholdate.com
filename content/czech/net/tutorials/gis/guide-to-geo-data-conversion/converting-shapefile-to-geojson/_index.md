@@ -47,7 +47,7 @@ VectorLayer.Convert(shapefilePath, Drivers.Shapefile, jsonPath, Drivers.GeoJson)
 Tento kód převede váš vstupní soubor Shapefile (`shapefilePath` ) do formátu GeoJSON a uloží výsledek do zadaného`jsonPath`.
 
 ## Závěr
-Konverze Shapefiles do GeoJSON je základní operace při zpracování dat GIS. Knihovna Aspose.GIS for .NET tento úkol zjednodušuje, takže je pro vývojáře snadné integrovat geoprostorová data do jejich aplikací. Podle kroků popsaných v tomto kurzu můžete efektivně provádět převody a zlepšit interoperabilitu a analytické schopnosti vašich dat GIS.
+Konverze Shapefiles do GeoJSON je základní operace při zpracování dat GIS. Knihovna Aspose.GIS for .NET tento úkol zjednodušuje, takže je pro vývojáře snadné integrovat geoprostorová data do jejich aplikací. Dodržováním kroků popsaných v tomto kurzu můžete efektivně provádět převody a zlepšit interoperabilitu a analytické schopnosti vašich dat GIS.
 
 ## FAQ
 

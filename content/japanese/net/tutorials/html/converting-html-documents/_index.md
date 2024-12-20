@@ -35,4 +35,4 @@ EPUB ファイルを扱っていて、それを XPS 形式に変換したい場�
 ### [Aspose.HTML を使用して .NET で HTML を PNG に変換する](./convert-html-as-png/)
 Aspose.HTML ライブラリを使用して、.NET で HTML ドキュメントを PNG 画像に変換する方法を学びます。ステップバイステップのチュートリアルに従って、HTML から画像への変換を簡素化します。
 ### [Aspose.HTML を使用して .NET で EPUB を XPS に変換する](./convert-epub-as-xps/)
-Aspose.HTML を使用して、.NET で EPUB を XPS に簡単に変換できます。シームレスなドキュメント レンダリングについては、ステップ バイ ステップ ガイドに従ってください。
+Aspose.HTML を使用して、.NET で EPUB を XPS に簡単に変換します。シームレスなドキュメント レンダリングについては、ステップ バイ ステップ ガイドに従ってください。

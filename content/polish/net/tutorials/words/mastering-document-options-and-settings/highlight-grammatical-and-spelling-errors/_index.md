@@ -29,7 +29,7 @@ using Aspose.Words;
 
 ## Krok 1: Skonfiguruj swój projekt
 
- Najpierw utwórz nowy projekt .NET w swoim IDE. Dodaj odwołanie do biblioteki Aspose.Words. Jeśli jeszcze jej nie pobrałeś, możesz to zrobić z[Tutaj](https://releases.aspose.com/words/net/).
+Najpierw utwórz nowy projekt .NET w swoim IDE. Dodaj odwołanie do biblioteki Aspose.Words. Jeśli jeszcze jej nie pobrałeś, możesz to zrobić z[Tutaj](https://releases.aspose.com/words/net/).
 
 ## Krok 2: Zdefiniuj katalog dokumentów
 

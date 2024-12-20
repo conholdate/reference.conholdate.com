@@ -25,7 +25,7 @@ Gondolkozott már azon, hogyan teheti kitűnhet Excel diagramjait PDF-be konvert
 
 ## Renderelési és exportálási oktatóanyagok elsajátítása
 ### [Adjon hozzá könyvjelzőket megnevezett célokkal az Excel fájlokból származó PDF-fájlokhoz](./add-bookmarks-with-named-destinations/)
-Ismerje meg, hogyan hozhat létre egyszerűen interaktív PDF-eket Excel-fájlokból az Aspose.Cells for .NET segítségével. Ez az oktatóanyag a könyvjelzők hozzáadását ismerteti elnevezett célokkal a PDF-alapú navigáció javítása érdekében.
+Ismerje meg, hogyan hozhat létre egyszerűen interaktív PDF-eket Excel-fájlokból az Aspose.Cells for .NET segítségével. Ez az oktatóanyag a PDF navigáció javítása érdekében könyvjelzők hozzáadását ismerteti elnevezett célokkal.
 ### [A külső erőforrások vezérlése az Aspose.Cells segítségével .NET-hez](./control-external-resources/)
 Az Aspose.Cells for .NET segítségével tárja fel az Excelből PDF-be konvertálásának teljes potenciálját. Ebből az átfogó útmutatóból megtudhatja, hogyan kezelheti a külső erőforrásokat, például a képeket, biztosítva, hogy a PDF-fájlok pontosan tükrözzék a formázási követelményeket.
 ### [PDF-könyvjelző létrehozása diagramlaphoz az Aspose.Cells-ben](./creating-pdf-bookmark-for-chart-sheet/)

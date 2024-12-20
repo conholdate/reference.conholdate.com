@@ -61,7 +61,7 @@ HtmlFixedSaveOptions saveOptions = new HtmlFixedSaveOptions
 };
 ```
 
-## Krok 4: Konwertuj dokument do formatu HTML
+## Krok 4: Konwertuj dokument do HTML
 
 Na koniec zapisz dokument jako plik HTML z określonymi opcjami. Dzięki temu wszystkie reguły CSS będą uporządkowane w jednym pliku.
 

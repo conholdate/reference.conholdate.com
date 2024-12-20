@@ -102,7 +102,7 @@ doc.Save(dataDir + "WorkingWithBookmarks.CreateBookmark.pdf", options);
 ใช่! คุณสามารถสร้างบุ๊กมาร์กหลายรายการและกำหนดลำดับชั้นเมื่อบันทึกเป็น PDF
 
 ### ฉันจะอัปเดตข้อความของบุ๊กมาร์กได้อย่างไร?
- ใช้`DocumentBuilder.MoveToBookmark` เพื่อนำทางไปยังบุ๊กมาร์กและอัปเดตข้อความ
+ ใช้`DocumentBuilder.MoveToBookmark`เพื่อนำทางไปยังบุ๊กมาร์กและอัปเดตข้อความ
 
 ### สามารถลบบุ๊กมาร์กได้หรือไม่?
  แน่นอน! ใช้`Bookmarks.Remove` วิธีการโดยการระบุชื่อบุ๊กมาร์ก

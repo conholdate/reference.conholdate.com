@@ -131,4 +131,4 @@ Excel 中的清單物件表是一種結構化資料表，可輕鬆組織和操�
 
 ### 我需要許可證才能使用 Aspose.Cells 嗎？
 
-雖然 Aspose.Cells 可以在試用模式下使用，但生產使用需要完整的授權。您可以獲得[臨時執照](https://purchase.aspose.com/temporary-license/)或從以下位置購買完整許可證[Aspose購買頁面](https://purchase.aspose.com/buy).
+雖然 Aspose.Cells 可以在試用模式下使用，但生產使用需要完整授權。您可以獲得[臨時執照](https://purchase.aspose.com/temporary-license/)或從以下位置購買完整許可證[Aspose購買頁面](https://purchase.aspose.com/buy).

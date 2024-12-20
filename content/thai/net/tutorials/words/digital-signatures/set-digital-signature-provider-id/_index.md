@@ -15,7 +15,7 @@ url: /th/net/tutorials/words/digital-signatures/set-digital-signature-provider-i
 
 ก่อนที่จะดำน้ำ ให้แน่ใจว่าคุณมีสิ่งต่อไปนี้:
 
-1.  Aspose.Words สำหรับไลบรารี .NET:[ดาวน์โหลดได้ที่นี่](https://releases.aspose.com/words/net/).
+1. Aspose.Words สำหรับไลบรารี .NET:[ดาวน์โหลดได้ที่นี่](https://releases.aspose.com/words/net/).
 2. สภาพแวดล้อมการพัฒนา: Visual Studio หรือ IDE ที่เข้ากันได้กับ C#
 3.  เอกสาร Word: เอกสารที่มีบรรทัดลายเซ็น (เช่น`Signature line.docx`-
 4.  ใบรับรองดิจิทัล: A`.pfx` ไฟล์ใบรับรอง (เช่น`morzal.pfx`-

@@ -15,7 +15,7 @@ url: /ar/net/tutorials/words/section-management/adding-sections/
 
 قبل أن نبدأ، تأكد من أن لديك ما يلي:
 
-1.  Aspose.Words for .NET Library: تنزيل أحدث إصدار[هنا](https://releases.aspose.com/words/net/).
+1. Aspose.Words for .NET Library: تنزيل أحدث إصدار[هنا](https://releases.aspose.com/words/net/).
 2. بيئة التطوير: بيئة تطوير متكاملة متوافقة مع .NET، مثل Visual Studio.
 3. المعرفة الأساسية بلغة C#: ستكون المعرفة بقواعد لغة C# مفيدة.
 4. نموذج مستند Word (اختياري): على الرغم من أننا سنقوم بإنشاء مستند من الصفر، إلا أن وجود نموذج قد يكون مفيدًا للاختبار.
@@ -74,7 +74,7 @@ doc.Sections.Add(sectionToAdd);
 
 الآن بعد أن أصبح لدينا قسم جديد، فلنملأه ببعض المحتوى. 
 
- لإضافة محتوى إلى القسم الجديد، نحتاج إلى نقل`DocumentBuilder`المؤشر إلى هذا القسم:
+ لإضافة محتوى إلى القسم الجديد، نحتاج إلى نقل`DocumentBuilder` المؤشر إلى هذا القسم:
 
 ```csharp
 builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));
@@ -92,7 +92,7 @@ builder.Writeln("Welcome to the new section!");
 doc.Save("YourPath/YourDocument.docx");
 ```
 
- تأكد من الاستبدال`"YourPath/YourDocument.docx"` مع مسار الملف المطلوب حيث تريد حفظ المستند. يحفظ هذا السطر ملف Word الخاص بك مع جميع الأقسام والمحتوى سليمًا.
+ تأكد من الاستبدال`"YourPath/YourDocument.docx"`مع مسار الملف المطلوب حيث تريد حفظ المستند. يحفظ هذا السطر ملف Word الخاص بك مع جميع الأقسام والمحتوى سليمًا.
 
 ## خاتمة
 

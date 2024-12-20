@@ -77,7 +77,7 @@ Grattis! Du har framgångsrikt konverterat en specifik sida i ett Word-dokument 
  Du kan förbättra JPEG-kvaliteten genom`JpegQuality`fastighet i`ImageSaveOptions`. Värdena sträcker sig från 0 (lägsta kvalitet) till 100 (högsta kvalitet).
 
 ### Kan jag spara i andra bildformat?  
- Ja, Aspose.Words stöder flera bildformat, inklusive PNG, BMP och TIFF. Ändra helt enkelt`SaveFormat` i`ImageSaveOptions` till önskat format.
+ Ja, Aspose.Words stöder flera bildformat, inklusive PNG, BMP och TIFF. Ändra helt enkelt`SaveFormat` i`ImageSaveOptions`till önskat format.
 
 ### Finns det något sätt att förhandsgranska bilden innan du sparar?  
 Aspose.Words innehåller inte en inbyggd förhandsgranskningsfunktion, men du kan bygga en anpassad förhandsgranskningsmekanism med hjälp av en Windows Forms- eller WPF-applikation.

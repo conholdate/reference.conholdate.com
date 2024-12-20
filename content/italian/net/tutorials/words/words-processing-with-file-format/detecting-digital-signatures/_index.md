@@ -91,7 +91,7 @@ No, Aspose.Words per .NET non conserva le firme digitali quando si aprono o si s
 
 ### Posso rilevare più firme digitali in un documento?
 
- Sì, il`HasDigitalSignature` proprietà indica se sono presenti una o più firme digitali.
+ Sì, il`HasDigitalSignature`proprietà indica se sono presenti una o più firme digitali.
 
 ### Come posso ottenere una prova gratuita di Aspose.Words per .NET?
 

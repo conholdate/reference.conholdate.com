@@ -65,7 +65,7 @@ Po načtení dokumentu a certifikátu je čas podepsat:
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`Tato metoda podepíše dokument. Parametry jsou původní cesta dokumentu, požadovaná cesta pro podepsaný dokument a držitel certifikátu.
+- `DigitalSignatureUtil.Sign`: Tato metoda podepíše dokument. Parametry jsou původní cesta dokumentu, požadovaná cesta pro podepsaný dokument a držitel certifikátu.
 
 ## Krok 5: Uložte podepsaný dokument
 

@@ -102,7 +102,7 @@ Könyvjelzők létrehozása Word-dokumentumban az Aspose.Words for .NET segíts�
 Igen! Több könyvjelzőt is létrehozhat, és meghatározhatja azok hierarchiáját PDF formátumban történő mentéskor.
 
 ### Hogyan frissíthetem a könyvjelző szövegét?
- Használat`DocumentBuilder.MoveToBookmark` a könyvjelzőhöz való navigáláshoz és a szöveg frissítéséhez.
+ Használat`DocumentBuilder.MoveToBookmark` könyvjelzőhöz való navigáláshoz és a szöveg frissítéséhez.
 
 ### Lehetséges könyvjelzőt törölni?
  Teljesen! Használja a`Bookmarks.Remove` módszert a könyvjelző nevének megadásával.

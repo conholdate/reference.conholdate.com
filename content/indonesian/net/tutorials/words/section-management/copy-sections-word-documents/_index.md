@@ -32,7 +32,7 @@ Ruang nama ini menyediakan semua alat yang dibutuhkan untuk menangani dokumen Wo
 
 ## Langkah 1: Menyiapkan Lingkungan Anda
 
-1.  Instal Aspose.Words: Unduh dan instal Aspose.Words untuk .NET dari[Di Sini](https://releases.aspose.com/words/net/).
+1. Instal Aspose.Words: Unduh dan instal Aspose.Words untuk .NET dari[Di Sini](https://releases.aspose.com/words/net/).
 2. Buat Proyek .NET: Buka Visual Studio dan buat proyek C# baru.
 3. Tambahkan Referensi Aspose.Words: Sertakan referensi pustaka dalam proyek Anda.
 

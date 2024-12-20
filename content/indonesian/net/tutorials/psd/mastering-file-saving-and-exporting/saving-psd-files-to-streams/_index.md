@@ -47,7 +47,7 @@ Tentukan lokasi file PSD sumber dan tempat Anda ingin menyimpan gambar. Ubah bar
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Jalur ke file PSD sumber Anda
-string destName = dataDir + "result.png";   //Jalur untuk file gambar keluaran
+string destName = dataDir + "result.png";   // Jalur untuk file gambar keluaran
 ```
 
 ## Langkah 3: Muat Gambar PSD dan Tangani Font yang Tidak Ditemukan

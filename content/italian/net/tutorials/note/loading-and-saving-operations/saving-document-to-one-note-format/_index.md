@@ -34,7 +34,7 @@ using System.Text;
 
 ## Passaggio 2: definire i percorsi di input e output
 
-Stabilisci i percorsi per i file di input e output. Assicurati di sostituire i segnaposto con i percorsi effettivi dei tuoi file.
+Stabilisci i percorsi per i file di input e output. Assicurati di sostituire i segnaposto con i percorsi effettivi dei file.
 
 ```csharp
 string inputFilePath = "Sample1.one"; // Inserisci file OneNote

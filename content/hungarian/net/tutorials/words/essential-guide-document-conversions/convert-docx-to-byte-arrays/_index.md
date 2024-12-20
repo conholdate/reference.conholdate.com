@@ -18,7 +18,7 @@ Mielőtt belemerülne a kódba, győződjön meg arról, hogy rendelkezik a köv
 - A C# és a .NET keretrendszer alapvető ismerete.
 - A Visual Studio telepítve van a fejlesztőgépre.
 -  Az Aspose.Words for .NET könyvtár, amelyet letölthet[itt](https://releases.aspose.com/words/net/).
--  Az Aspose.Words érvényes licence. Ha még nem rendelkezik ilyennel, ideiglenes engedélyt szerezhet[itt](https://purchase.conholdate.com/temporary-license/).
+- Az Aspose.Words érvényes licence. Ha még nem rendelkezik ilyennel, ideiglenes engedélyt szerezhet[itt](https://purchase.conholdate.com/temporary-license/).
 
 ## Névterek importálása
 
@@ -58,7 +58,7 @@ using (MemoryStream outStream = new MemoryStream())
 Ha egy bájttömböt vissza kell konvertálnia Dokumentum objektummá, ezt a következő kóddal teheti meg:
 
 ```csharp
-// A bájttömb átalakítása vissza MemoryStreammé
+// Konvertálja vissza a bájttömböt MemoryStreammé
 using (MemoryStream inStream = new MemoryStream(docBytes))
 {
     // Töltse be a dokumentumot a MemoryStreamből
@@ -67,7 +67,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Most már szükség szerint dolgozhat a docFromBytes-szal
 }
 ```
-1.  Memóriafolyam létrehozása: Hozzon létre a`MemoryStream` a bájttömbből.
+1.  Memóriafolyam létrehozása: Hozzon létre a`MemoryStream` bájttömbből.
 2. Dokumentum betöltése: Töltse be a dokumentumot közvetlenül az adatfolyamból, így készen áll a további műveletekre.
 
 ## Következtetés

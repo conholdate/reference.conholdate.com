@@ -2,7 +2,7 @@
 title: 使用 Aspose.Note for .NET 操作 OneNote 文檔
 linktitle: 載入和儲存操作
 second_title: Aspose.Note .NET API
-description: 探索 Aspose.Note for .NET 教程，重點介紹如何建立、保存和轉換 OneNote 文檔，以及實用、易於理解的範例和常見問題解答。
+description: 探索 Aspose.Note for .NET 教程，專注於創建、保存和轉換 OneNote 文檔，並提供實用、易於理解的範例和常見問題解答。
 type: docs
 weight: 25
 url: /zh-hant/net/tutorials/note/one-note-document-manipulation/

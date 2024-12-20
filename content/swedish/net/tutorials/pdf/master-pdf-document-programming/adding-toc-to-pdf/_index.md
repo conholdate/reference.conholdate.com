@@ -1,7 +1,7 @@
 ---
 title: Lägga till en innehållsförteckning till ett PDF-dokument
 linktitle: Lägga till en innehållsförteckning till ett PDF-dokument
-second_title: Aspose.PDF för .NET API-referens
+second_title: Aspose.PDF för .NET API Referens
 description: Denna handledning visar hur man lägger till en innehållsförteckning (TOC) till ett PDF-dokument med Aspose.Pdf för .NET.
 type: docs
 weight: 40

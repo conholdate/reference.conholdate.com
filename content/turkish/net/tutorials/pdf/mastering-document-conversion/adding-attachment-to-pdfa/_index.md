@@ -64,7 +64,7 @@ doc.Convert(dataDir + "log.txt", Aspose.Pdf.PdfFormat.PDF_A_3A, ConvertErrorActi
 
 - Günlük dosyasının yolunu belirtin.
 -  Seçmek`PDF_A_3A` gömülü dosyaları desteklemek için biçimlendirme (karşıt olarak)`PDF` (ki bu da değil).
--  Kullanmak`ConvertErrorAction.Delete` PDF/A standartlarına uygun olmayan tüm öğeleri silmek için.
+-  Kullanmak`ConvertErrorAction.Delete`PDF/A standartlarına uygun olmayan tüm öğeleri silmek için.
 
 ## Adım 5: Ortaya Çıkan PDF/A Belgesini Kaydetme
 

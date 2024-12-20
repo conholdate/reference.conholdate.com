@@ -110,11 +110,11 @@ Förklaring:
 - Öppna PageSetup: Manipulera sidinställningarna för ditt kalkylblad.
 -  Ställ in bakgrundstyp: Ändra`Type` till`Graphic` att använda en bild.
 -  Ladda bilden: The`GraphicData` egenskapen tar byte-arrayen för din bild.
--  Ange grafiktyp: Ställer in den på`Area` betyder att bilden kommer att täcka hela arbetsbladet.
+-  Ange grafiktyp: Ställer in den på`Area` betyder att bilden kommer att täcka hela kalkylbladet.
 
 ## Steg 6: Spara arbetsboken
 
-När du har ställt in allt sparar du din nyskapade ODS-fil:
+När du har ställt in allt, spara din nyskapade ODS-fil:
 
 ```csharp
 workbook.Save(outputDir + "GraphicBackground.ods");

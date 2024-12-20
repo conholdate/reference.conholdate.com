@@ -1,19 +1,19 @@
 ---
-title: Conholdate API Referansları
+title: Conholdate API References
 weight: 10
 url: /tr/
 ---
 
-{{< blocks/product-header-new headertitle="API Referansları" headerpara="Bu paket, Aspose ve GroupDocs tarafından sunulan her türlü belge yönetim sistemi için hepsi bir arada bir çözümdür." >}}
+{{< blocks/product-header-new headertitle="API References" headerpara="This package is an all-in-one solution for all types of document managements systems offered by Aspose and GroupDocs." >}}
 
 {{< blocks/product-section-new >}}
 
 {{% blocks/product-row-new %}}
 
-{{< blocks/product-card-new additionalTitleText="Ürün Ailesi" title="**Conholdate.Total**" href="/" >}}
+{{< blocks/product-card-new additionalTitleText="Product Family" title="**Conholdate.Total**" href="/" >}}
 
 {{< blocks/card-item-text >}}
-Word, Excel, PowerPoint, E-posta, Visio, PDF, Görüntü, HTML ve daha fazlası dahil olmak üzere çok çeşitli popüler belge biçimleri arasında herhangi bir .NET, C#, ASP.NET, VB.NET ve Java masaüstü ve web uygulamasında oluşturun, okuyun, düzenleyin, yazdırın, görüntüleyin, açıklama ekleyin, karşılaştırın, imzalayın, otomatikleştirin, arayın ve dönüştürün. Bu paket, Aspose ve GroupDocs tarafından sunulan her türlü belge yönetim sistemi için hepsi bir arada bir çözümdür.
+Create, read, edit, print, view, annotate, compare, sign, automate, search & convert between a wide range of popular document formats including Word, Excel, PowerPoint, Email, Visio, PDF, Image, HTML and many more within any .NET, C#, ASP.NET, VB.NET and Java desktop and web applications. This package is an all-in-one solution for all types of document managements systems offered by Aspose and GroupDocs.
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item-new title=".NET" href="/net/" class="docs-btn"  >}} {{< blocks/product-item-new title="JAVA" href="/java/" class="docs-btn" >}}

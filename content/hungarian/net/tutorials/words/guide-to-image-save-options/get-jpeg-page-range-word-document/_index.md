@@ -74,10 +74,10 @@ Gratulálok! Sikeresen átalakította egy Word-dokumentum egy adott oldalát JPE
  Teljesen! Megadhat egy oldaltartományt a módosításával`PageSet`ingatlan be`ImageSaveOptions`.
 
 ### Hogyan állíthatom be a képminőséget?  
- A JPEG minőséget javíthatja a`JpegQuality`ingatlan be`ImageSaveOptions`. Az értékek 0-tól (legalacsonyabb minőség) 100-ig (legmagasabb minőség) terjednek.
+ Javíthatja a JPEG minőséget a`JpegQuality`ingatlan be`ImageSaveOptions`. Az értékek 0-tól (legalacsonyabb minőség) 100-ig (legmagasabb minőség) terjednek.
 
 ### Menthetek más képformátumba?  
- Igen, az Aspose.Words számos képformátumot támogat, beleértve a PNG-t, BMP-t és TIFF-et. Egyszerűen változtassa meg a`SaveFormat` be`ImageSaveOptions` a kívánt formátumra.
+ Igen, az Aspose.Words számos képformátumot támogat, beleértve a PNG-t, BMP-t és TIFF-et. Egyszerűen változtassa meg a`SaveFormat` be`ImageSaveOptions` kívánt formátumra.
 
 ### Van mód a kép előnézetére mentés előtt?  
 Az Aspose.Words nem tartalmaz beépített előnézeti funkciót, de létrehozhat egyéni előnézeti mechanizmust egy Windows Forms vagy WPF alkalmazás segítségével.

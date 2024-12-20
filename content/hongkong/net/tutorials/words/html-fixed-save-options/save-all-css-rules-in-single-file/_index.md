@@ -1,6 +1,6 @@
 ---
 title: 將所有 CSS 規則保存在單一檔案中
-linktitle: 將所有 CSS 規則寫入單一文件
+linktitle: 將所有 CSS 規則寫入單一檔案中
 second_title: Aspose.Words 文件處理 API
 description: 了解使用 HtmlFixedSaveOptions 儲存文件時如何使用 Aspose.Words for .NET 將所有 CSS 規則寫入單一檔案。請按照此詳細教學取得逐步指導。
 type: docs

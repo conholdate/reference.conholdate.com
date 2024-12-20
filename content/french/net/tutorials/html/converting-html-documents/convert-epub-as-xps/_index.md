@@ -51,7 +51,7 @@ Une fois les éléments fondamentaux en place, décrivons le guide étape par é
 
 ## Étape 1 : Configurez votre répertoire de données
 
-La première étape consiste à spécifier le répertoire dans lequel se trouve votre fichier EPUB, ainsi que l'emplacement où vous souhaitez enregistrer le fichier XPS généré. Ceci est crucial car votre application devra savoir où chercher les fichiers d'entrée et de sortie.
+La première étape consiste à spécifier le répertoire dans lequel se trouve votre fichier EPUB, ainsi que l'emplacement où vous souhaitez enregistrer le fichier XPS généré. Ceci est crucial car votre application devra savoir où rechercher les fichiers d'entrée et de sortie.
 
 ```csharp
 string dataDir = "Your Data Directory";

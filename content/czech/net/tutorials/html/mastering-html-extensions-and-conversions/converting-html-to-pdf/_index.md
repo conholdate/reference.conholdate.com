@@ -87,7 +87,7 @@ V této příručce jsme prozkoumali proces převodu HTML do PDF pomocí Aspose.
 Aspose.HTML for .NET je výkonná knihovna určená pro vývojáře k manipulaci a převodu HTML obsahu do různých formátů, včetně PDF, v rámci .NET aplikací.
 
 ### Kde najdu dokumentaci k Aspose.HTML pro .NET?
- K dokumentaci se dostanete zde:[Aspose.HTML pro dokumentaci .NET](https://reference.aspose.com/html/net/).
+ K dokumentaci se dostanete zde:[Aspose.HTML pro .NET dokumentaci](https://reference.aspose.com/html/net/).
 
 ### Je k dispozici bezplatná zkušební verze Aspose.HTML pro .NET?
  Ano, bezplatnou zkušební verzi Aspose.HTML pro .NET si můžete stáhnout zde:[Bezplatná zkušební verze Aspose.HTML pro .NET](https://releases.aspose.com/).

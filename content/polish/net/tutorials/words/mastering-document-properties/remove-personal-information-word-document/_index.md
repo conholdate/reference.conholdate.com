@@ -17,7 +17,7 @@ Zanim zagłębisz się w kod, koniecznie upewnij się, że masz wszystkie niezb�
 
 ### Aspose.Words dla .NET
 
-Aby zacząć, potrzebujesz Aspose.Words dla .NET. Jeśli jeszcze tego nie zrobiłeś, pobierz go ze strony[strona internetowa](https://releases.aspose.com/words/net/) . Jeśli jesteś nowy w Aspose.Words, możesz wypróbować go za darmo, pobierając[bezpłatny okres próbny](https://releases.aspose.com/).
+ Aby zacząć, potrzebujesz Aspose.Words dla .NET. Jeśli jeszcze tego nie zrobiłeś, pobierz go ze strony[strona internetowa](https://releases.aspose.com/words/net/) Jeśli jesteś nowy w Aspose.Words, możesz wypróbować go za darmo, pobierając[bezpłatny okres próbny](https://releases.aspose.com/).
 
 ### Środowisko programistyczne
 
@@ -50,7 +50,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ### 1.2 Załaduj dokument
 
-Następnie załadujemy dokument do programu. Można to zrobić za pomocą`Document` klasa dostarczona przez Aspose.Words. Poniższy fragment kodu pokazuje, jak załadować dokument Word z określonego katalogu.
+ Następnie załadujemy dokument do programu. Można to zrobić za pomocą`Document`klasa dostarczona przez Aspose.Words. Poniższy fragment kodu pokazuje, jak załadować dokument Word z określonego katalogu.
 
 ```csharp
 Document doc = new Document(dataDir + "Properties.docx");
@@ -72,7 +72,7 @@ Ta pojedyncza linijka kodu gwarantuje, że dokument nie będzie już zawierał �
 
 ### 2.2 Zapisz wyczyszczony dokument
 
- Po usunięciu danych osobowych konieczne jest zapisanie zmodyfikowanego dokumentu. Można to zrobić za pomocą`Save`metoda, która zapisze zaktualizowany dokument do nowego pliku, zachowując wszystkie zmiany.
+ Po usunięciu danych osobowych konieczne jest zapisanie zmodyfikowanego dokumentu. Można to zrobić za pomocą`Save` metoda, która zapisze zaktualizowany dokument do nowego pliku, zachowując wszystkie zmiany.
 
 ```csharp
 doc.Save(dataDir + "DocumentPropertiesAndVariables.RemovePersonalInformation.docx");

@@ -57,7 +57,7 @@ A dokumentum megjelenésének egységessége döntő fontosságú. Állítsa be 
 doc.FirstSection.PageSetup.CharactersPerLine = 30;
 ```
 
-## 4. lépés: Határozza meg az oldalankénti sorokat
+## 4. lépés: Határozza meg a sorokat oldalanként
 
 Hasonlóképpen, az oldalankénti sorok számának meghatározása hozzájárul a dokumentum egységes megjelenéséhez.
 
@@ -92,4 +92,4 @@ Az Aspose.Words for .NET egy robusztus könyvtár a dokumentumok létrehozásáh
 Az Aspose.Words nyelvek széles skáláját támogatja, beleértve az ázsiai nyelveket, például a kínait és a japánt.
 
 ### Hol találok részletesebb dokumentációt?
- Hozzáférhet a részletes dokumentációhoz[itt](https://reference.aspose.com/words/net/).
+Hozzáférhet a részletes dokumentációhoz[itt](https://reference.aspose.com/words/net/).

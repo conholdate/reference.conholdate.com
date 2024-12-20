@@ -103,7 +103,7 @@ Quebrar links para frente permite que você reorganize ou isole o conteúdo dent
 
 ### Posso vincular novamente as caixas de texto depois de quebrar o link?
 
- Claro! Você pode religar caixas de texto definindo o`Next` propriedade para outra caixa de texto, criando uma nova sequência.
+ Com certeza! Você pode religar caixas de texto definindo o`Next` propriedade para outra caixa de texto, criando uma nova sequência.
 
 ### É possível verificar se uma caixa de texto tem um link de encaminhamento antes de quebrá-lo?
 

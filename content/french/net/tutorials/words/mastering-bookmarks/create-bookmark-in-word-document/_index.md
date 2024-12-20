@@ -102,7 +102,7 @@ Créer des signets dans un document Word avec Aspose.Words pour .NET est simple 
 Oui ! Vous pouvez créer plusieurs signets et définir leur hiérarchie lors de l'enregistrement au format PDF.
 
 ### Comment mettre à jour le texte d'un signet ?
- Utiliser`DocumentBuilder.MoveToBookmark` pour accéder au signet et mettre à jour le texte.
+ Utiliser`DocumentBuilder.MoveToBookmark`pour accéder au signet et mettre à jour le texte.
 
 ### Est-il possible de supprimer un signet ?
  Absolument ! Utilisez le`Bookmarks.Remove` méthode en spécifiant le nom du signet.

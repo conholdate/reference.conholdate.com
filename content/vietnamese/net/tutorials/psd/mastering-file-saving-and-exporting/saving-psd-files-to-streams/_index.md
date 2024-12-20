@@ -47,7 +47,7 @@ Xác định vị trí tệp PSD nguồn của bạn và nơi bạn muốn lưu 
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Đường dẫn đến tệp PSD nguồn của bạn
-string destName = dataDir + "result.png";   //Đường dẫn đến tệp hình ảnh đầu ra
+string destName = dataDir + "result.png";   // Đường dẫn đến tệp hình ảnh đầu ra
 ```
 
 ## Bước 3: Tải hình ảnh PSD và xử lý phông chữ không tìm thấy

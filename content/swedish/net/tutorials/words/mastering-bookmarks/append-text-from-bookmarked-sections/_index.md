@@ -70,7 +70,7 @@ if (startPara.ParentNode != endPara.ParentNode)
     throw new InvalidOperationException("Start and end paragraphs must have the same parent.");
 ```
 
-## Steg 4: Identifiera noden som ska stoppas
+## Steg 4: Identifiera noden att stoppa
 
 Nu måste vi bestämma var vi ska sluta kopiera text, som kommer att vara noden omedelbart efter slutstycket.
 

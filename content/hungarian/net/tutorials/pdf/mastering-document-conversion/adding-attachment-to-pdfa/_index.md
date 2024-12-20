@@ -64,7 +64,7 @@ doc.Convert(dataDir + "log.txt", Aspose.Pdf.PdfFormat.PDF_A_3A, ConvertErrorActi
 
 - Adja meg a naplófájl elérési útját.
 -  Válasszon`PDF_A_3A` formátum a beágyazott fájlok támogatásához (szemben a`PDF` ami nem).
--  Használat`ConvertErrorAction.Delete` a PDF/A szabványoknak nem megfelelő elemek törléséhez.
+-  Használat`ConvertErrorAction.Delete` PDF/A szabványoknak nem megfelelő elemek törléséhez.
 
 ## 5. lépés: Mentse el az eredményül kapott PDF/A dokumentumot
 

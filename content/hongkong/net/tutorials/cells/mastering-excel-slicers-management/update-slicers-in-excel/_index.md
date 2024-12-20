@@ -117,7 +117,7 @@ Console.WriteLine("Slicer updated and workbook saved successfully.");
 
 ### Aspose.Cells 是免費的嗎？
 
-不，它是授權產品，但是[免費試用](https://releases.aspose.com/)可用於評估。購買許可證[這裡](https://purchase.aspose.com/buy).
+不，這是授權產品，但是[免費試用](https://releases.aspose.com/)可用於評估。購買許可證[這裡](https://purchase.aspose.com/buy).
 
 ### 我可以同時管理多個切片機嗎？
 

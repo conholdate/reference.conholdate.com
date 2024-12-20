@@ -47,7 +47,7 @@ string dataDir = "YOUR_DOCUMENTS_DIRECTORY";
 Načtěte dokument aplikace Word, který obsahuje odrážky obrázků. Tento dokument bude upraven tak, aby při ukládání vyloučil obrázkové odrážky.
 
 ```csharp
-// Vložte dokument s odrážkami obrázků
+// Vložte dokument s obrázkovými odrážkami
 Document doc = new Document(dataDir + "Image bullet points.docx");
 ```
 
@@ -77,7 +77,7 @@ doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 
 ## Závěr
 
-tady to máte! Pomocí několika řádků kódu jste úspěšně nakonfigurovali Aspose.Words pro .NET tak, aby při ukládání dokumentů vynechal obrázkové odrážky. Tato funkce je neuvěřitelně užitečná pro dosažení čistého a konzistentního vzhledu dokumentu.
+A tady to máte! Pomocí několika řádků kódu jste úspěšně nakonfigurovali Aspose.Words pro .NET tak, aby při ukládání dokumentů vynechal obrázkové odrážky. Tato funkce je neuvěřitelně užitečná pro dosažení čistého a konzistentního vzhledu dokumentu.
 
 ## FAQ
 

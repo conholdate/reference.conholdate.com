@@ -31,7 +31,7 @@ using System.IO;
 
 ## 1. lépés: Nyissa meg a bemeneti és kimeneti ZIP-folyamokat
 
-Először is meg kell nyitnia adatfolyamokat a bemeneti és kimeneti ZIP-archívumokhoz. Cserélje ki`"Your Input Directory"` és`"Your Output Directory"` a megadott útvonalakkal.
+ Először is meg kell nyitnia adatfolyamokat a bemeneti és kimeneti ZIP-archívumokhoz. Cserélje ki`"Your Input Directory"` és`"Your Output Directory"` a megadott útvonalakkal.
 
 ```csharp
 using (Stream inZipStream = File.Open(Path.Combine("Your Input Directory", "zip-in.zip"), FileMode.Open))

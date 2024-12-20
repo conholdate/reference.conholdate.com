@@ -13,7 +13,7 @@ url: /de/net/tutorials/3d/guide-to-3d-modeling/
 
 ## Erstellen Sie primitive 3D-Modelle
 
- Jeder Künstler braucht eine solide Grundlage und was wäre besser geeignet, als mit der Erstellung primitiver Formen zu beginnen? In unserem Tutorial zu[Erstellen primitiver 3D-Modelle](./create-primitive-3d-modeling/)lernen Sie, wie Sie einfache Objekte wie Kästen, Kugeln und Zylinder konstruieren. Diese Formen sind die Bausteine komplexerer Modelle und eignen sich perfekt für alle, die gerade erst anfangen.
+ Jeder Künstler braucht eine solide Grundlage und was wäre besser geeignet, als mit der Erstellung primitiver Formen zu beginnen? In unserem Tutorial zu[Erstellen primitiver 3D-Modelle](./create-primitive-3d-modeling/), lernen Sie, wie Sie einfache Objekte wie Kästen, Kugeln und Zylinder konstruieren. Diese Formen sind die Bausteine komplexerer Modelle und eignen sich perfekt für alle, die gerade erst anfangen.
 
 Wir führen Sie Schritt für Schritt durch den Prozess und unterteilen jede Aktion in einzelne Schritte, damit Sie sie problemlos nachvollziehen können. Stellen Sie sich vor, Sie bauen ein Haus. Zuerst legen Sie das Fundament mit einfachen Blöcken. In unserem Tutorial legen Sie den Boden mit einfachen Formen und können Ihrer Kreativität freien Lauf lassen, wenn Sie sie später mit Texturen und Farben anpassen. 
 

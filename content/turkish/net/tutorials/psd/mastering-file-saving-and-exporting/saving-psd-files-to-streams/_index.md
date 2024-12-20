@@ -47,7 +47,7 @@ Kaynak PSD dosyanızın konumunu ve görüntüyü kaydetmek istediğiniz yeri be
 
 ```csharp
 string sourceFile = dataDir + "sample.psd"; // Kaynak PSD dosyanıza giden yol
-string destName = dataDir + "result.png";   //Çıktı görüntü dosyasının yolu
+string destName = dataDir + "result.png";   // Çıktı görüntü dosyasının yolu
 ```
 
 ## Adım 3: PSD Görüntüsünü Yükleyin ve Bulunamayan Yazı Tiplerini İşleyin

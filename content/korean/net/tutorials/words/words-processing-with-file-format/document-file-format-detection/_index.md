@@ -16,7 +16,7 @@ url: /ko/net/tutorials/words/words-processing-with-file-format/document-file-for
 시작하기 전에 다음 요구 사항이 충족되는지 확인하세요.
 
 1. .NET 라이브러리를 위한 Aspose.Words  
-    라이브러리를 다운로드하세요[Aspose Words 출시](https://releases.aspose.com/words/net/) 유효한 라이선스를 사용하여 활성화합니다. 임시 라이선스의 경우 방문하세요.[임시 라이센스를 Aspose](https://purchase.aspose.com/temporary-license/).
+    라이브러리를 다운로드하세요[Aspose Words 출시](https://releases.aspose.com/words/net/)유효한 라이선스를 사용하여 활성화합니다. 임시 라이선스의 경우 방문하세요.[임시 라이센스를 Aspose](https://purchase.aspose.com/temporary-license/).
 
 2. 개발 환경  
    .NET Framework가 설치된 Visual Studio(최신 버전)를 사용하세요.
@@ -108,7 +108,7 @@ foreach (string fileName in fileList)
 }
 ```
 
- 그만큼`FileFormatUtil.DetectFileFormat` 이 방법은 문서의 특성을 식별하는 데 핵심적입니다.
+ 그만큼`FileFormatUtil.DetectFileFormat`이 방법은 문서의 특성을 식별하는 데 핵심적입니다.
 
 ## 결론
 

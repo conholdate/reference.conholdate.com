@@ -9,7 +9,7 @@ url: /cs/net/tutorials/words/use-htmlloadoptions/
 ---
 ## Zavedení
  
-Při práci s Aspose.Words pro .NET je klíčové porozumět HTMLLoadOptions. Umožňuje vám přizpůsobit způsob načítání obsahu HTML do dokumentů aplikace Word. Představte si to jako ladění rádia – úpravou nastavení můžete odstranit statickou elektřinu (chyby) a získat čistší zvuk (výstup). Se správnými konfiguracemi můžete ovládat různé aspekty interpretace obsahu HTML, od způsobu vykreslování obrázků až po použití stylů.  
+Při práci s Aspose.Words pro .NET je klíčové porozumět HTMLLoadOptions. Umožňuje vám přizpůsobit způsob načítání obsahu HTML do dokumentů aplikace Word. Představte si to jako ladění rádia – úpravou nastavení můžete eliminovat statickou elektřinu (chyby) a získat čistší zvuk (výstup). Se správnými konfiguracemi můžete ovládat různé aspekty interpretace obsahu HTML, od způsobu vykreslování obrázků až po použití stylů.  
 
 ## Začínáme s praktickými příklady  
 
