@@ -4,7 +4,7 @@ linktitle: Mastering Graph Programming in Aspose.PDF for .NET
 type: docs
 weight: 16
 url: /net/tutorials/pdf/mastering-graph-programming/
-description: Master Aspose.PDF for .NET with our tutorial listing! Learn drawing enhancements like gradients, filled rectangles, and lines in PDFs. Step-by-step guidance provided.
+description: Master Aspose.PDF for .NET with our tutorial listing. Learn drawing enhancements like gradients, filled rectangles, and lines in PDFs. Step-by-step guidance provided.
 ---
 ## Introduction
 
