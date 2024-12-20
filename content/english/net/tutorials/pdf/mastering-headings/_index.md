@@ -4,7 +4,7 @@ linktitle: Mastering Headings in PDF Documents
 type: docs
 weight: 20
 url: /net/tutorials/pdf/mastering-headings/
-description: Unlock the potential of Aspose.PDF for .NET with our comprehensive tutorials ranging from basic usage to advanced features. Enhance your PDF manipulation skills
+description: Unlock the potential of Aspose.PDF for .NET with our comprehensive tutorials ranging from basic usage to advanced features. Enhance your PDF manipulation skills.
 ---
 ## Introduction
 
