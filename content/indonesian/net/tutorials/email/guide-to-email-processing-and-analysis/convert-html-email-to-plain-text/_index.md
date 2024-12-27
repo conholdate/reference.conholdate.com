@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  Dengan mengakses`HtmlBody` milik`MailMessage` objek, konten HTML sekarang disimpan dalam variabel string bernama`htmlBody`.
 
-### Langkah 3: Persiapan untuk Mengonversi HTML ke Teks Biasa
+## Langkah 3: Persiapan untuk Mengonversi HTML ke Teks Biasa
 
 Sekarang setelah kita memiliki konten HTML, saatnya menyiapkan tahap untuk konversi. Kita akan menggunakan Aspose.Words untuk mengubah HTML kita menjadi teks biasa. Namun, pertama-tama, kita perlu membuat dokumen baru:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Ini menciptakan ruang kosong baru`Document`Kami menghapus semua simpul anak yang ada guna memastikan adanya alur yang bersih sebelum kami mulai memasukkan konten HTML.
 
-### Langkah 4: Masukkan Konten HTML
+## Langkah 4: Masukkan Konten HTML
 
  Di sinilah keajaiban konversi terjadi! Kita akan menggunakan`DocumentBuilder` kelas dari Aspose.Words untuk menyisipkan konten HTML ke dalam dokumen. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Di Sini,`DocumentBuilder().InsertHtml(htmlBody)` mengambil string HTML kita dan memuatnya ke dalam struktur dokumen baru di dalam`Document` objek. Menggunakan`ImportFormatMode.KeepSourceFormatting` memastikan bahwa format tetap utuh selama operasi ini.
 
-### Langkah 5: Simpan File Teks Biasa
+## Langkah 5: Simpan File Teks Biasa
 
 Akhirnya, saatnya menyimpan berkas teks biasa yang baru kita buat. Berikut cara melakukannya:
 

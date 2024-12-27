@@ -2,7 +2,7 @@
 title: 文档合并指南
 linktitle: 文档合并
 second_title: GroupDocs.Merger .NET API
-description: 使用 GroupDocs.Merger for .NET 轻松合并文档。探索有效合并 DOC 和 PDF 文件的分步教程。
+description: 使用 GroupDocs.Merger for .NET 轻松合并文档。探索有关有效合并 DOC 和 PDF 文件的分步教程。
 type: docs
 weight: 22
 url: /zh/net/tutorials/merger/guide-to-document-merging/

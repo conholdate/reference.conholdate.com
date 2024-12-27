@@ -2,7 +2,7 @@
 title: Skapa Vba-projekt i Word-dokument
 linktitle: Skapa Vba-projekt i Word-dokument
 second_title: Aspose.Words Document Processing API
-description: Lås upp kraften med automatisering i Word-dokument med vår omfattande guide för att skapa VBA-projekt med Aspose.Words för .NET. Denna steg-för-steg guide.
+description: Lås upp kraften med automatisering i Word-dokument med vår omfattande guide för att skapa VBA-projekt med Aspose.Words för .NET. Denna steg-för-steg handledning.
 type: docs
 weight: 10
 url: /sv/net/tutorials/words/words-with-vba-macros/creating-vba-project/

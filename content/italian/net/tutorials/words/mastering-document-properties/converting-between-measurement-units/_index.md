@@ -91,7 +91,7 @@ Sebbene sia possibile utilizzare Aspose.Words senza una licenza, alcune funziona
  Scaricalo da[sito web](https://releases.aspose.com/words/net/) e seguire le istruzioni di installazione fornite.
 
 ### Posso impostare unità diverse per sezioni diverse di un documento?
- Assolutamente! Puoi personalizzare margini e impostazioni per diverse sezioni utilizzando`Section`classe.
+ Assolutamente! Puoi personalizzare margini e impostazioni per diverse sezioni utilizzando`Section` classe.
 
 ### Quali altre funzionalità offre Aspose.Words?
  Aspose.Words supporta un'ampia gamma di funzionalità, tra cui la conversione di documenti, la stampa unione e ampie opzioni di formattazione. Controlla il[documentazione](https://reference.aspose.com/words/net/) per maggiori dettagli.

@@ -9,7 +9,7 @@ url: /hu/net/tutorials/annotation/guide-to-document-components/
 ---
 ## Bevezetés
 
-Készen áll arra, hogy PDF-dokumentumait a következő szintre emelje? A GroupDocs.Annotation for .NET segítségével interaktivitást adhat a fájlokhoz, így azok dinamikusabbak és vonzóbbak. Ebben az oktatóanyag-sorozatban két hatékony összetevő hozzáadására összpontosítunk: a gombok és a jelölőnégyzetek. Akár kezdő, akár tapasztalt fejlesztő vagy, ez az útmutató gyakorlati tudással gazdagítja.  
+Készen áll arra, hogy PDF-dokumentumait a következő szintre emelje? A GroupDocs.Annotation for .NET segítségével interaktivitást adhat a fájlokhoz, így azok dinamikusabbak és vonzóbbak. Ebben az oktatóanyag-sorozatban két hatékony összetevő hozzáadására összpontosítunk: a gombok és a jelölőnégyzetek. Akár kezdő, akár tapasztalt fejlesztő, ez az útmutató gyakorlati know-how-val látja el Önt.  
 
 ## Gombkomponensek hozzáadása a PDF-hez  
 

@@ -55,7 +55,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Krok 3: Použijte licenci  
 
- Použijte`SetLicense` metoda`License` třídy k načtení licenčního souboru.  
+ Použijte`SetLicense` metoda`License`třídy k načtení licenčního souboru.  
 
 ```csharp
 license.SetLicense(dataDir + "Aspose.Pdf.lic");

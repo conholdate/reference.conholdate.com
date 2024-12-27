@@ -23,7 +23,7 @@ Zanim zagłębisz się w kod, upewnij się, że masz wszystko, czego potrzebujes
 
 ## Konfigurowanie projektu
 
-Aby rozpocząć, wykonaj poniższe kroki, aby skonfigurować projekt C# z Aspose.PDF dla platformy .NET.
+Na początek wykonaj poniższe kroki, aby skonfigurować projekt C# z Aspose.PDF dla platformy .NET.
 
 ### Utwórz nowy projekt w programie Visual Studio
 

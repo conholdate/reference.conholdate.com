@@ -32,7 +32,7 @@ using System.IO;
 using Aspose.Pdf;
 ```
 
-Fügen Sie diese Namespaces oben in Ihrer Codedatei hinzu, um mit PDF-Dokumenten zu arbeiten und Aspose.PDF-Operatoren zu nutzen.
+Fügen Sie diese Namespaces oben Ihrer Codedatei hinzu, um mit PDF-Dokumenten zu arbeiten und Aspose.PDF-Operatoren zu nutzen.
 
 ## Schritt 1: Richten Sie Ihr Dokumentverzeichnis ein
 

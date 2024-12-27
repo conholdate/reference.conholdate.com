@@ -22,7 +22,7 @@ Prima di passare al codice, assicurati di avere a portata di mano i seguenti ele
 
 ## Importazione degli spazi dei nomi
 
-Per iniziare a lavorare con Aspose.Words, devi importare i namespace necessari. Questi namespace contengono le classi e i metodi essenziali per manipolare i documenti Word.
+Per iniziare a lavorare con Aspose.Words, devi importare i namespace necessari. Questi namespace contengono le classi e i metodi essenziali per la manipolazione dei documenti Word.
 
 Ecco come importarli:
 

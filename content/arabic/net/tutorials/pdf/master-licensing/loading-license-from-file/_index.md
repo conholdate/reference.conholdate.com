@@ -55,7 +55,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## الخطوة 3: تطبيق الترخيص  
 
- استخدم`SetLicense` طريقة`License` الفئة لتحميل ملف الترخيص.  
+ استخدم`SetLicense` طريقة`License`الفئة لتحميل ملف الترخيص.  
 
 ```csharp
 license.SetLicense(dataDir + "Aspose.Pdf.lic");

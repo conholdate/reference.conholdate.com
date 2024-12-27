@@ -46,14 +46,14 @@ Bước đầu tiên trong việc sửa đổi tài liệu Word là tải nó v�
 
 ### Bước 1: Xác định đường dẫn tệp
 
-Bạn cần xác định đường dẫn tệp của tài liệu Word. Đối với ví dụ này, chúng tôi sẽ sử dụng tài liệu`Properties.docx`.
+ Bạn cần xác định đường dẫn tệp của tài liệu Word. Đối với ví dụ này, chúng tôi sẽ sử dụng tài liệu`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Đảm bảo bạn thay thế`"YOUR DOCUMENT DIRECTORY"` với thư mục thực tế nơi tài liệu của bạn được lưu trữ.
+ Đảm bảo bạn thay thế`"YOUR DOCUMENT DIRECTORY"`với thư mục thực tế nơi tài liệu của bạn được lưu trữ.
 
 ## Truy cập và xóa thuộc tính tài liệu tùy chỉnh
 

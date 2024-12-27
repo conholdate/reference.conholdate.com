@@ -110,7 +110,7 @@ Ezzel a 3D modell képét a megadott kimeneti könyvtárba rendereli PNG formát
 
 ## Következtetés
 
-Gratulálok! Most megtanulta, hogyan lehet 3D-s modellképet renderelni a kamera szemszögéből az Aspose.3D for .NET használatával. A fenti lépések követésével kísérletezhet különböző modellekkel, kamerapozíciókkal és világítási beállításokkal, hogy dinamikusabb és tetszetősebb 3D-s vizualizációkat készítsen. Az Aspose.3D rugalmasságot kínál a 3D-s megjelenítések testreszabásához a projekt igényeihez.
+Gratulálok! Most megtanulta, hogyan lehet 3D-s modellképet renderelni a kamera szemszögéből az Aspose.3D for .NET használatával. A fenti lépések követésével kísérletezhet különböző modellekkel, kamerapozíciókkal és világítási beállításokkal, hogy dinamikusabb és tetszetősebb 3D vizualizációkat készítsen. Az Aspose.3D rugalmasságot kínál a 3D-s megjelenítések testreszabásához a projekt igényeihez.
 
 ## GYIK
 

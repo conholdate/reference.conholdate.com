@@ -73,7 +73,7 @@ OutlineItemCollection parentBookmark = new OutlineItemCollection(pdfDocument.Out
 
 ## ステップ4: 子ブックマークを作成する
 
-次に、親ブックマークの下に子ブックマークを追加しましょう。
+次に、親ブックマークの下に子ブックマークを追加してみましょう。
 
 ```csharp
 OutlineItemCollection childBookmark = new OutlineItemCollection(pdfDocument.Outlines)

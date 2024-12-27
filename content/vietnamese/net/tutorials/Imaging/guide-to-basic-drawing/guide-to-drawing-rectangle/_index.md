@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// Tạo hình ảnh
+//Tạo hình ảnh
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // Tiến hành vẽ trên hình ảnh
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## Bước 4: Lưu hình ảnh
 
- Việc lưu hình ảnh cuối cùng rất đơn giản, như được hiển thị ở trên trong`using` tuyên bố nơi`image.Save()`được gọi tự động khi`using` khối kết thúc.
+ Việc lưu hình ảnh cuối cùng rất đơn giản, như được hiển thị ở trên trong`using` tuyên bố nơi`image.Save()` được gọi tự động khi`using` khối kết thúc.
 
 ## Phần kết luận
 

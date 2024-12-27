@@ -47,7 +47,7 @@ string outputDir = "Your Document Directory"; // Nahraďte svým skutečným adr
 
 ## Krok 2: Načtěte existující podepsaný sešit
 
-Načtěte sešit aplikace Excel, který je již podepsaný:
+Načtěte sešit Excel, který je již podepsaný:
 
 ```csharp
 // Načtěte sešit, který je již digitálně podepsán

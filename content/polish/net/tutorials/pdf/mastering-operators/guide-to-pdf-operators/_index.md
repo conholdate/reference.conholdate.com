@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document pdfDocument = new Document(dataDir + "PDFOperators.pdf");
 ```
 
- Inicjuje to nowy`Document`obiekt i ładuje określony plik PDF, przygotowując go do manipulacji.
+ To inicjuje nowy`Document`obiekt i ładuje określony plik PDF, przygotowując go do manipulacji.
 
 ## Krok 3: Ustaw współrzędne obrazu
 

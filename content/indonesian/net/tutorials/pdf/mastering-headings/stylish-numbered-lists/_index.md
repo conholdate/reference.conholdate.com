@@ -55,7 +55,7 @@ Berikutnya, kita akan menambahkan halaman kosong ke dokumen PDF, tempat kita nan
 ```csharp
 // Tambahkan halaman baru ke dokumen PDF
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Gunakan pengaturan yang sama seperti dokumen
+pdfPage.PageInfo = pdfDoc.PageInfo; // Gunakan pengaturan yang sama seperti dokumen
 ```
 
 ## Langkah 3: Membuat Kotak Mengambang
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Gunakan pengaturan yang sama seperti dokum
 FloatingBox memungkinkan Anda memposisikan konten secara independen dari alur halaman, memberi Anda kontrol lebih besar atas tata letak Anda.
 
 ```csharp
-// Buat FloatingBox untuk konten terstruktur
+//Buat FloatingBox untuk konten terstruktur
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

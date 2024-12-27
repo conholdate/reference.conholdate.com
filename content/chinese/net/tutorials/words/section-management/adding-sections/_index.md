@@ -2,7 +2,7 @@
 title: 使用 Aspose.Words for .NET 添加部分
 linktitle: 使用 Aspose.Words for .NET 添加部分
 second_title: Aspose.Words 文档处理 API
-description: 了解如何在 Word 文档中创建章节以提高可读性和专业性。本指南涵盖从初始化文档到保存工作的所有内容。
+description: 了解如何在 Word 文档中创建部分以提高可读性和专业性。本指南涵盖从初始化文档到保存工作的所有内容。
 type: docs
 weight: 10
 url: /zh/net/tutorials/words/section-management/adding-sections/

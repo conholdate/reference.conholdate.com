@@ -23,5 +23,5 @@ description: 探索 Aspose.PDF for .NET 教學課程，透過 XForms、PDF 運�
 | 標題 | 描述 |
 | --- | --- | 
 | [使用 Aspose.PDF for .NET 在頁面上繪製 XForms](./draw-xforms-on-page/) | 在這個綜合教學中探索 Aspose.PDF for .NET 的強大功能。逐步學習如何建立動態 XForms 並將影像輕鬆整合到 PDF 文件中。 |  
-| [PDF 操作員指南](./guide-to-pdf-operators/) | 透過這份詳細指南，釋放 .NET 應用程式中 PDF 操作的全部潛力。了解如何使用強大的 Aspose.PDF 庫輕鬆將影像新增至 PDF 文件。 |  
+| [PDF 操作員指南](./guide-to-pdf-operators/) | 透過這份詳細指南，釋放 .NET 應用程式中 PDF 操作的全部潛力。了解如何使用強大的 Aspose.PDF 庫輕鬆地將影像新增至 PDF 文件。 |  
 | [從 PDF 檔案中刪除圖形對象](./remove-graphics-objects-from-pdf-file/) | 在此綜合指南中了解如何使用 Aspose.PDF for .NET 從 PDF 檔案中有效刪除不需要的圖形物件。無論您是希望增強文件可讀性還是減小文件大小。 |  

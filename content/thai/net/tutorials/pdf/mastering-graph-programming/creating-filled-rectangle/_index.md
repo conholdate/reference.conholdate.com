@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 เริ่มต้นเอกสาร PDF ใหม่:
 
 ```csharp
-//สร้างอินสแตนซ์เอกสาร
+// สร้างอินสแตนซ์เอกสาร
 Document doc = new Document();
 ```
 

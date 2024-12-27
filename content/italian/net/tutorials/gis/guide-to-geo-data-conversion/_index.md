@@ -13,11 +13,11 @@ Nel mondo in continua evoluzione dei dati geospaziali, avere a disposizione gli 
 
 ## Conversione da GeoJSON a TopoJSON
 
- GeoJSON e TopoJSON sono formati popolari nella comunità GIS, ma ognuno ha i suoi vantaggi unici. GeoJSON è semplice e facile da leggere, il che lo rende ottimo per le applicazioni web, mentre TopoJSON riduce le dimensioni del file codificando la topologia, il che può cambiare le carte in tavola per le prestazioni. Il nostro tutorial su[Conversione da GeoJSON a TopoJSON](./converting-geojson-to-topojson/) ti guida attraverso il processo di installazione e fornisce esempi di codice passo dopo passo per assicurarti di essere operativo in pochissimo tempo. Hai bisogno di aiuto con l'installazione? Ci pensiamo noi!
+GeoJSON e TopoJSON sono formati popolari nella comunità GIS, ma ognuno ha i suoi vantaggi unici. GeoJSON è semplice e facile da leggere, il che lo rende ottimo per le applicazioni web, mentre TopoJSON riduce le dimensioni del file codificando la topologia, il che può cambiare le carte in tavola per le prestazioni. Il nostro tutorial su[Conversione da GeoJSON a TopoJSON](./converting-geojson-to-topojson/) ti guida attraverso il processo di installazione e fornisce esempi di codice passo dopo passo per assicurarti di essere operativo in pochissimo tempo. Hai bisogno di aiuto con l'installazione? Ci pensiamo noi!
 
 ## Trasformazione di Shapefile in GeoJSON
 
-Gli shapefile sono un elemento fondamentale nei GIS, ma convertirli in GeoJSON può aprire nuove strade per l'utilizzo dei dati, specialmente nella mappatura web. La nostra guida su[Conversione di Shapefile in GeoJSON](./converting-shapefile-to-geojson/) ti guida attraverso l'intero processo. Iniziamo con gli elementi essenziali di cui hai bisogno per dare il via alle cose, poi ci immergiamo in esempi di codice chiari e concisi che semplificano il processo di conversione. Hai domande lungo il percorso? Il tutorial è progettato per affrontare gli ostacoli comuni che potresti incontrare.
+ Gli shapefile sono un elemento fondamentale nei GIS, ma convertirli in GeoJSON può aprire nuove strade per l'utilizzo dei dati, specialmente nella mappatura web. La nostra guida su[Conversione di Shapefile in GeoJSON](./converting-shapefile-to-geojson/) ti guida attraverso l'intero processo. Iniziamo con gli elementi essenziali di cui hai bisogno per dare il via alle cose, poi ci immergiamo in esempi di codice chiari e concisi che semplificano il processo di conversione. Hai domande lungo il percorso? Il tutorial è progettato per affrontare gli ostacoli comuni che potresti incontrare.
 
 ## Guida ai tutorial di conversione dei dati geografici
 ### [Conversione da GeoJSON a TopoJSON con Aspose.GIS per .NET](./converting-geojson-to-topojson/)

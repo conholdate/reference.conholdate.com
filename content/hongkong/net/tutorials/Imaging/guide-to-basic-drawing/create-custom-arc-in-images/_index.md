@@ -101,7 +101,7 @@ using (FileStream stream = new FileStream(Path.Combine(dataDir, "DrawingArc_out.
 }
 ```
 
-現在保存圖像並在其上繪製圓弧。
+現在儲存圖像並在其上繪製圓弧。
 
 ## 結論
 

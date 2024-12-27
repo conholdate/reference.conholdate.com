@@ -50,7 +50,7 @@ using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps")
     // Állítsa be a mentési beállításokat A4-es mérethez
     PsSaveOptions options = new PsSaveOptions();
     
-    //Hozzon létre egy új PostScript dokumentumot 2 oldallal
+    // Hozzon létre egy új PostScript dokumentumot 2 oldallal
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

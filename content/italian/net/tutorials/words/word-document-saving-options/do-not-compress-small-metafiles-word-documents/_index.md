@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Passaggio 3: Configurare le opzioni di salvataggio
 
- Ora, configura le opzioni di salvataggio per utilizzare la funzione "Non comprimere piccoli metafile" con`DocSaveOptions`classe.
+ Ora, configura le opzioni di salvataggio per utilizzare la funzione "Non comprimere piccoli metafile" con`DocSaveOptions` classe.
 
 ```csharp
 // Configura le opzioni di salvataggio con la funzione "Non comprimere i metafile di piccole dimensioni"

@@ -19,7 +19,7 @@ url: /zh-hant/net/tutorials/cells/guide-worksheet-operations/adding-graphic-back
    熟悉 C# 將幫助您理解所提供的程式碼片段。
 
 2. Aspose.Cells for .NET 函式庫  
-   確保您的專案中安裝了 Aspose.Cells 庫。如果您還沒有這樣做，您可以[在這裡下載](https://releases.aspose.com/cells/net/).
+   請確定您的專案中安裝了 Aspose.Cells 庫。如果您還沒有這樣做，您可以[在這裡下載](https://releases.aspose.com/cells/net/).
 
 3. 圖形影像  
    準備要用作背景的圖形圖像（JPG 或 PNG）。記下其目錄路徑以供以後使用。

@@ -83,7 +83,7 @@ Deze configuratie vertelt Aspose.Words om alle metabestanden in het document naa
 
 ## Stap 5: Sla het document op
 
- Laten we ten slotte ons document opslaan met behulp van de`Save` methode van de`Document`klas.
+ Laten we ten slotte ons document opslaan met behulp van de`Save` methode van de`Document` klas.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

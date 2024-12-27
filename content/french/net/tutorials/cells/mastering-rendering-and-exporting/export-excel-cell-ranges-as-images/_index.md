@@ -17,7 +17,7 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants à dispositio
 
 1. Visual Studio : vous aurez besoin de Visual Studio installé sur votre ordinateur.
 2.  Aspose.Cells pour .NET : téléchargez la bibliothèque à partir du[Site d'Aspose](https://releases.aspose.com/cells/net/)Vous pouvez opter pour un essai gratuit pour explorer les fonctionnalités.
-3. Connaissances de base en C# : la familiarité avec C# et .NET vous aidera à suivre ce tutoriel plus facilement.
+3. Connaissances de base en C# : une connaissance de C# et de .NET vous aidera à suivre ce tutoriel plus facilement.
 4. Exemple de fichier Excel : pour cette démonstration, nous utiliserons un fichier nommé`sampleExportRangeOfCellsInWorksheetToImage.xlsx`, que vous pouvez créer pour les tests.
 
 ## Étape 1 : Importer les packages nécessaires

@@ -15,13 +15,13 @@ Si te estás aventurando en el mundo de los SIG (sistemas de información geogr�
 
 En primer lugar, tenemos TopoJSON, un formato compacto para codificar datos geográficos. ¿Por qué debería importarte? Pues bien, TopoJSON simplifica tus datos geoespaciales a la vez que preserva la topología, lo que significa que las geometrías conectadas comparten puntos, lo que da como resultado archivos de menor tamaño sin perder la integridad de los datos. 
 
- Para comenzar, deberá instalar Aspose.GIS para .NET. Una vez que lo haya hecho, consulte la[Cómo trabajar con TopoJSON en Aspose.GIS para .NET](./working-with-topojson/) Tutorial que explica paso a paso el proceso de lectura, extracción y visualización de características geoespaciales de un archivo TopoJSON. ¡Te sorprenderá lo fácil que es manipular datos espaciales cuando conoces este formato!
+ Para comenzar, deberá instalar Aspose.GIS para .NET. Una vez que lo haya hecho, consulte la[Cómo trabajar con TopoJSON en Aspose.GIS para .NET](./working-with-topojson/)Tutorial que explica paso a paso el proceso de lectura, extracción y visualización de características geoespaciales de un archivo TopoJSON. ¡Te sorprenderá lo fácil que es manipular datos espaciales cuando conoces este formato!
 
 ## Cómo agregar una capa a una geodatabase de archivos
 
 A continuación, hablemos de las geodatabases de archivos (GDB), que son como archivadores digitales para sus datos espaciales. Agregar capas a una GDB puede parecer intimidante, pero con Aspose.GIS, ¡es simple! 
 
- En el[Agregar una capa a una geodatabase de archivos mediante Aspose.GIS para .NET](./add-layer-to-file-geo-database/)En este tutorial, aprenderá los pormenores de la creación de capas. Abarca todo, desde los requisitos previos que necesita tener establecidos hasta las importaciones de espacios de nombres y los pasos esenciales para crear y validar capas dentro de sus conjuntos de datos SIG. Piense en ello como si estuviera elaborando una receta: ¡necesita los ingredientes adecuados y un buen método para cocinar algo delicioso!
+ En el[Agregar una capa a una geodatabase de archivos mediante Aspose.GIS para .NET](./add-layer-to-file-geo-database/) En este tutorial, aprenderá los pormenores de la creación de capas. Abarca todo, desde los requisitos previos que necesita tener establecidos hasta las importaciones de espacios de nombres y los pasos esenciales para crear y validar capas dentro de sus conjuntos de datos SIG. Piense en ello como si estuviera elaborando una receta: ¡necesita los ingredientes adecuados y un buen método para cocinar algo delicioso!
 
 ## Tutoriales para dominar la gestión de capas
 ### [Cómo trabajar con TopoJSON en Aspose.GIS para .NET](./working-with-topojson/)

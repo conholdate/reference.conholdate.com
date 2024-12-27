@@ -35,7 +35,7 @@ Abaixo está a implementação detalhada passo a passo.
 
 ## Etapa 1: Crie um novo documento do OneNote
 
- Inicialize um novo documento do OneNote usando o`Document`aula.
+ Inicialize um novo documento do OneNote usando o`Document` aula.
 
 ```csharp
 Document doc = new Document();

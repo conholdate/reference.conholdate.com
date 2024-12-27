@@ -107,7 +107,7 @@ Console.WriteLine($"\nDocument saved successfully.\nCheck output in {outputPath}
 
 ### Μπορώ να δοκιμάσω το GroupDocs.Annotation για .NET πριν το αγοράσω;
 
- Ναι, είναι διαθέσιμη μια δωρεάν δοκιμή. Μπορείτε να έχετε πρόσβαση σε αυτό[εδώ](https://releases.groupdocs.com/).
+ Ναι, είναι διαθέσιμη μια δωρεάν δοκιμή. Μπορείτε να έχετε πρόσβαση[εδώ](https://releases.groupdocs.com/).
 
 ### Πού μπορώ να βρω υποστήριξη για το GroupDocs.Annotation για .NET;
 

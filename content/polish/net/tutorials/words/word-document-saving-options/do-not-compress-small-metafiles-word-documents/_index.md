@@ -9,7 +9,7 @@ url: /pl/net/tutorials/words/word-document-saving-options/do-not-compress-small-
 ---
 ## Wstęp
 
-świecie przetwarzania dokumentów sposób zapisywania plików może mieć ogromny wpływ na ich jakość i funkcjonalność. Aspose.Words dla .NET zawiera funkcje, które pomogą Ci zapisywać dokumenty Word z precyzją. Jedną z godnych uwagi funkcji jest opcja „Nie kompresuj małych metaplików”. Ten samouczek przeprowadzi Cię przez korzystanie z tej funkcji, aby zapewnić integralność Twoich metaplików. Zaczynajmy!
+świecie przetwarzania dokumentów sposób zapisywania plików może mieć ogromny wpływ na ich jakość i funkcjonalność. Aspose.Words dla .NET zawiera funkcje, które pomogą Ci zapisywać dokumenty Word z precyzją. Jedną z godnych uwagi funkcji jest opcja „Do Not Compress Small Metafiles”. Ten samouczek przeprowadzi Cię przez korzystanie z tej funkcji, aby zapewnić integralność Twoich metaplików. Zaczynajmy!
 
 ## Wymagania wstępne
 
@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Krok 3: Skonfiguruj opcje zapisywania
 
- Teraz skonfiguruj opcje zapisu, aby wykorzystać funkcję „Nie kompresuj małych metaplików”`DocSaveOptions`klasa.
+ Teraz skonfiguruj opcje zapisu, aby wykorzystać funkcję „Nie kompresuj małych metaplików”`DocSaveOptions` klasa.
 
 ```csharp
 // Skonfiguruj opcje zapisu z funkcją „Nie kompresuj małych metaplików”

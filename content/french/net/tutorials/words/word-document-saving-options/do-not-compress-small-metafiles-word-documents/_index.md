@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Étape 3 : Configurer les options d’enregistrement
 
- Maintenant, configurez les options de sauvegarde pour utiliser la fonction « Ne pas compresser les petits métafichiers » avec le`DocSaveOptions`classe.
+ Maintenant, configurez les options de sauvegarde pour utiliser la fonction « Ne pas compresser les petits métafichiers » avec le`DocSaveOptions` classe.
 
 ```csharp
 // Configurer les options de sauvegarde avec la fonction « Ne pas compresser les petits métafichiers »

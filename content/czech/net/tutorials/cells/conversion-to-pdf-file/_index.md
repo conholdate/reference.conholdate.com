@@ -19,7 +19,7 @@ Chtěli jste někdy sdílet svá data aplikace Excel bez odesílání objemných
 
 ## Snadná konverze grafu
 
-Co je lepšího než převádět celé tabulky? Co takhle transformovat grafy Excelu do PDF? Tabulky a grafy jsou skvělé pro vizualizaci dat, ale díky samostatnému PDF mohou vaše výsledky zazářit v prezentacích nebo sestavách. Aspose.Cells tento proces zjednodušuje! 
+Co je lepšího než převádět celé tabulky? Co takhle transformovat grafy Excel do PDF? Tabulky a grafy jsou skvělé pro vizualizaci dat, ale díky samostatnému PDF mohou vaše výsledky zazářit v prezentacích nebo sestavách. Aspose.Cells tento proces zjednodušuje! 
 
  Ponořte se do našeho tutoriálu na[Převod grafů Excelu do PDF pomocí Aspose.Cells pro .NET](./convert-excel-charts-to-pdf/), kde najdete všechny informace, jak začít. S jednoduchými pokyny a užitečnými ukázkami kódu se naučíte, jak převádět konkrétní grafy nebo celé listy bez ztráty vizuální integrity. Tato příručka je perfektní, pokud chcete své prezentace dat okořenit a zároveň je zachovat profesionální a úhledné.
 

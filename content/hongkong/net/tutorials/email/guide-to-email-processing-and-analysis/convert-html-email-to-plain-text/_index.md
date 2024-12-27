@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
 透過訪問`HtmlBody`的財產`MailMessage`對象，HTML 內容現在儲存在名為的字串變數中`htmlBody`.
 
-### 第 3 步：準備將 HTML 轉換為純文字
+## 步驟 3： 準備將 HTML 轉換為純文字
 
 現在我們已經有了 HTML 內容，是時候為轉換做好準備了。我們將利用 Aspose.Words 將豐富的 HTML 轉換為純文字。但首先，我們需要建立一個新文件：
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
 這會創建一個新的空`Document`。我們刪除所有現有的子節點，以確保在開始插入 HTML 內容之前有一個乾淨的狀態。
 
-### 第 4 步：插入 HTML 內容
+## 第 4 步：插入 HTML 內容
 
 這就是轉換的魔力發生的地方！我們將使用`DocumentBuilder`Aspose.Words 中的類別將 HTML 內容插入到文件中。 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
 這裡，`DocumentBuilder().InsertHtml(htmlBody)`取得我們的 HTML 字串並將其載入到新的文件結構中`Document`目的。使用`ImportFormatMode.KeepSourceFormatting`確保在此操作期間格式保持不變。
 
-### 第 5 步：儲存純文字文件
+## 第 5 步：儲存純文字文件
 
 最後，是時候保存我們新建立的純文字檔案了。操作方法如下：
 

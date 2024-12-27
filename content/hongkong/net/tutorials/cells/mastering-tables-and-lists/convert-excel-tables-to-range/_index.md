@@ -18,7 +18,7 @@ url: /zh-hant/net/tutorials/cells/mastering-tables-and-lists/convert-excel-table
 熟悉 .NET 語言（尤其是 C#）將會很有幫助，因為我們的範例將使用 C# 語言。
 
 ### Aspose.Cells 庫
-確保您的專案中安裝了 Aspose.Cells 庫。如果您還沒有安裝，您可以[在這裡下載庫](https://releases.aspose.com/cells/net/)並將其添加到您的應用程式中。
+請確定您的專案中安裝了 Aspose.Cells 庫。如果您還沒有安裝，您可以[在這裡下載庫](https://releases.aspose.com/cells/net/)並將其添加到您的應用程式中。
 
 ### 開發環境
 您需要像 Visual Studio 這樣的 IDE 來有效地編寫和測試程式碼。

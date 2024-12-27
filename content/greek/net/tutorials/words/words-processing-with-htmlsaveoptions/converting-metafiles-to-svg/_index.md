@@ -83,7 +83,7 @@ HtmlSaveOptions saveOptions = new HtmlSaveOptions
 
 ## Βήμα 5: Αποθηκεύστε το έγγραφο
 
- Τέλος, ας αποθηκεύσουμε το έγγραφό μας χρησιμοποιώντας το`Save` μέθοδος του`Document`τάξη.
+ Τέλος, ας αποθηκεύσουμε το έγγραφό μας χρησιμοποιώντας το`Save` μέθοδος του`Document` τάξη.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

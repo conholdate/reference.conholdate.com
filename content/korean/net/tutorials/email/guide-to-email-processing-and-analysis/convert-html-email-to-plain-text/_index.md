@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  접근하여`HtmlBody` 의 속성`MailMessage` 객체, HTML 콘텐츠는 이제 문자열 변수에 저장됩니다.`htmlBody`.
 
-### 3단계: HTML을 일반 텍스트로 변환 준비
+## 3단계: HTML을 일반 텍스트로 변환 준비
 
 이제 HTML 콘텐츠가 있으니 변환을 위한 무대를 마련할 차례입니다. Aspose.Words를 사용하여 리치 HTML을 일반 텍스트로 변환합니다. 하지만 먼저 새 문서를 만들어야 합니다.
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  이렇게 하면 새로운 빈 항목이 생성됩니다.`Document`HTML 콘텐츠를 삽입하기 전에 기존 자식 노드를 모두 제거하여 깨끗한 상태인지 확인합니다.
 
-### 4단계: HTML 콘텐츠 삽입
+## 4단계: HTML 콘텐츠 삽입
 
  변환의 마법이 일어나는 곳이 바로 여기입니다! 우리는 다음을 사용할 것입니다.`DocumentBuilder` Aspose.Words의 클래스를 사용하여 HTML 콘텐츠를 문서에 삽입합니다. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  여기,`DocumentBuilder().InsertHtml(htmlBody)` HTML 문자열을 가져와서 내부의 새 문서 구조에 로드합니다.`Document` 객체. 사용`ImportFormatMode.KeepSourceFormatting` 이 작업 중에 서식이 그대로 유지되도록 보장합니다.
 
-### 5단계: 일반 텍스트 파일 저장
+## 5단계: 일반 텍스트 파일 저장
 
 마지막으로, 새로 만든 일반 텍스트 파일을 저장할 시간입니다. 방법은 다음과 같습니다.
 

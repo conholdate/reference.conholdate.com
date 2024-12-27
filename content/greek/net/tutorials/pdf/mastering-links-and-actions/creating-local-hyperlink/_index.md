@@ -16,7 +16,7 @@ url: /el/net/tutorials/pdf/mastering-links-and-actions/creating-local-hyperlink/
 Πριν βουτήξετε στον κώδικα, βεβαιωθείτε ότι έχετε τα εξής:
 
 1.  Visual Studio: Κατεβάστε το από το[Ιστοσελίδα του Visual Studio](https://visualstudio.microsoft.com/).
-2.  Aspose.PDF για .NET: Κάντε λήψη της βιβλιοθήκης μέσω του[Aspose ιστότοπο](https://releases.aspose.com/pdf/net/). Αυτή η βιβλιοθήκη παρέχει ένα πλούσιο σύνολο δυνατοτήτων για χειρισμό PDF.
+2.  Aspose.PDF για .NET: Κάντε λήψη της βιβλιοθήκης μέσω του[Aspose website](https://releases.aspose.com/pdf/net/). Αυτή η βιβλιοθήκη παρέχει ένα πλούσιο σύνολο δυνατοτήτων για χειρισμό PDF.
 3. Βασικές γνώσεις C#: Η εξοικείωση με τον προγραμματισμό C# θα σας βοηθήσει, αλλά μην ανησυχείτε. θα εξηγήσουμε τον κώδικα γραμμή προς γραμμή.
 4. .NET Framework: Βεβαιωθείτε ότι έχετε εγκαταστήσει το πλαίσιο .NET στο μηχάνημά σας. Ελέγξτε τις απαιτήσεις στο Aspose.PDF[απόδειξη με έγγραφα](https://reference.aspose.com/pdf/net/).
 
@@ -54,7 +54,7 @@ using Aspose.Pdf.Text;
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Ρυθμίστε τον κατάλογο εγγράφων σας
-Document doc = new Document(); //Δημιουργία παρουσίας εγγράφου
+Document doc = new Document(); // Δημιουργία παρουσίας εγγράφου
 ```
 
  Αντικαθιστώ`"YOUR_DOCUMENT_DIRECTORY"` με την πραγματική διαδρομή στο σύστημά σας όπου θα αποθηκευτεί το PDF.
@@ -154,7 +154,7 @@ Console.WriteLine("\nLocal hyperlink created successfully.\nFile saved at " + da
 Ναι, το Aspose.PDF υποστηρίζει επίσης τη δημιουργία υπερσυνδέσμων σε εξωτερικές διευθύνσεις URL εκτός από τοπικούς υπερσυνδέσμους εντός του PDF.
 
 ### Υπάρχει δωρεάν δοκιμή για το Aspose.PDF;
- Απολύτως! Μπορείτε να αποκτήσετε πρόσβαση στη δωρεάν δοκιμή από το[Aspose ιστότοπο](https://releases.aspose.com/).
+ Απολύτως! Μπορείτε να αποκτήσετε πρόσβαση στη δωρεάν δοκιμή από το[Aspose website](https://releases.aspose.com/).
 
 ### Ποιες γλώσσες προγραμματισμού υποστηρίζει το Aspose;
 Η Aspose προσφέρει βιβλιοθήκες για διάφορες γλώσσες προγραμματισμού, συμπεριλαμβανομένων των Java, C++, και Python, μεταξύ άλλων.

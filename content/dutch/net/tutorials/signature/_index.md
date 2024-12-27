@@ -8,7 +8,7 @@ description: Ontdek uitgebreide tutorials over het gebruik van GroupDocs.Signatu
 is_root: true
 ---
 
-### [Ondertekening van hoofddocumenten met GroupDocs.Signature voor .NET](./master-document-signing/)
+### [Masterdocumentondertekening met GroupDocs.Signature voor .NET](./master-document-signing/)
 Leer documenten ondertekenen met GroupDocs.Signature voor .NET in onze gedetailleerde tutorials. Onderteken moeiteloos afbeeldingen en PDF's met metadata.
 ### [Geavanceerde handtekeningtechnieken onder de knie krijgen](./master-advanced-sign-techniques/)
 Verhoog de beveiliging van uw documenten met GroupDocs.Signature voor .NET-zelfstudies. Leer geavanceerde handtekeningtechnieken, van aangepaste afbeeldingen tot teksthandtekeningen.

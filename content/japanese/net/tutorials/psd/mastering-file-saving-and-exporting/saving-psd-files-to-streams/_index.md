@@ -16,7 +16,7 @@ url: /ja/net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-
 始める前に、次の設定がされていることを確認してください。
 
 1. Visual Studio: マシンに Visual Studio がインストールされていることを確認してください。
-2.  Aspose.PSD for .NET: Aspose.PSDライブラリをダウンロードしてインストールします。最新バージョンは以下から入手できます。[ここ](https://releases.aspose.com/psd/net/).
+2. Aspose.PSD for .NET: Aspose.PSDライブラリをダウンロードしてインストールします。最新バージョンは以下から入手できます。[ここ](https://releases.aspose.com/psd/net/).
 3. サンプル PSD ファイル: テスト用のサンプル PSD ファイルを入手します。サンプル PSD ファイルがない場合、デモンストレーション用には任意の PSD ファイルを使用できます。
 4. ドキュメント ディレクトリ: プロジェクト内にディレクトリを作成し、画像を保存して、後で使用するためにパスをメモします。
 

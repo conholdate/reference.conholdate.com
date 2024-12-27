@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Stap 3: Configureer opslagopties
 
- Configureer nu de opslagopties om de functie 'Kleine metabestanden niet comprimeren' te gebruiken met de`DocSaveOptions`klas.
+ Configureer nu de opslagopties om de functie 'Kleine metabestanden niet comprimeren' te gebruiken met de`DocSaveOptions` klas.
 
 ```csharp
 // Configureer opslagopties met de functie 'Kleine metabestanden niet comprimeren'

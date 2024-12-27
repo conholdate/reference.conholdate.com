@@ -1,6 +1,6 @@
 ---
 title: Bryt vidarelänken i Word-dokument med Aspose.Words för .NET
-linktitle: Bryt vidarelänken i Word-dokument
+linktitle: Bryt länken framåt i Word-dokument
 second_title: Aspose.Words Document Processing API
 description: Upptäck hur du bryter, hanterar och anpassar vidarekopplingar i textrutor med Aspose.Words för .NET. Den här steg-för-steg-guiden täcker allt du behöver för att effektivisera din dokumentlayout och förbättra din Word-filhantering.
 type: docs

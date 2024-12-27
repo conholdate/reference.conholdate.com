@@ -35,7 +35,7 @@ using System.Drawing.Imaging;
 
 ## चरण 1: नया OneNote दस्तावेज़ बनाएँ
 
- का उपयोग करके एक नया OneNote दस्तावेज़ आरंभ करें`Document`कक्षा।
+ का उपयोग करके एक नया OneNote दस्तावेज़ आरंभ करें`Document` कक्षा।
 
 ```csharp
 Document doc = new Document();

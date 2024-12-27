@@ -4,7 +4,7 @@ linktitle: Aspose.OCR für .NET-Tutorials
 type: docs
 weight: 10
 url: /de/net/tutorials/ocr/
-description: Steigern Sie die Präzision bei der OCR-Bilderkennung mit Aspose.OCR für .NET. Entdecken Sie Tutorials zur Berechnung des Schrägwinkels, Texterkennung, OCR-Konfiguration und Optimierung.
+description: Steigern Sie die Präzision der OCR-Bilderkennung mit Aspose.OCR für .NET. Entdecken Sie Tutorials zur Berechnung des Schrägwinkels, Texterkennung, OCR-Konfiguration und Optimierung.
 is_root: true
 ---
 

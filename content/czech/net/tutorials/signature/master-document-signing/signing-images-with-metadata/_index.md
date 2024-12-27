@@ -49,7 +49,7 @@ using (Signature signature = new Signature(filePath))
     ushort imgsMetadataId = 41996; // Počáteční ID pro metadata
     MetadataSignOptions options = new MetadataSignOptions();
 
-    //Přidejte různé typy podpisů metadat
+    // Přidejte různé typy podpisů metadat
     options
         .Add(new ImageMetadataSignature(imgsMetadataId++, "Mr. Sherlock Holmes")) // Hodnota řetězce
         .Add(new ImageMetadataSignature(imgsMetadataId++, DateTime.Now))          // Hodnota DateTime
@@ -66,7 +66,7 @@ using (Signature signature = new Signature(filePath))
 
 ## Závěr
 
-V tomto kurzu jste se naučili, jak podepsat obrázek pomocí metadat pomocí GroupDocs.Signature for .NET. Pomocí těchto kroků můžete snadno přidat podpisy metadat do aplikací .NET, čímž vylepšíte funkčnost a integritu svých obrázků.
+V tomto kurzu jste se naučili, jak podepsat obrázek pomocí metadat pomocí GroupDocs.Signature for .NET. Pomocí těchto kroků můžete snadno přidat podpisy metadat do svých aplikací .NET, čímž vylepšíte funkčnost a integritu svých obrázků.
 
 ## FAQ
 

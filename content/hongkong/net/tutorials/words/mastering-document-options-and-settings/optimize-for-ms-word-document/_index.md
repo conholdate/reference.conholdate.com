@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/words/mastering-document-options-and-settings/optimi
 ---
 ## 介紹
 
-您是否曾經花費數小時完善 Word 文檔，卻發現在另一個版本的 Microsoft Word 中打開它時看起來完全不同？令人沮喪，對吧？透過 Aspose.Words for .NET，您可以輕鬆地針對各種版本的 MS Word 優化文檔，從而確保跨平台的一致性和美觀的外觀。讓我們探討一下如何只用幾行 C# 程式碼即可實現這一目標！
+您是否曾經花費數小時完善 Word 文檔，卻發現在另一個版本的 Microsoft Word 中打開它時看起來完全不同？令人沮喪，對吧？透過 Aspose.Words for .NET，您可以輕鬆針對各種版本的 MS Word 優化文檔，從而確保跨平台的一致性和美觀的外觀。讓我們探討一下如何只用幾行 C# 程式碼即可實現這一目標！
 
 ## 先決條件
 
@@ -67,7 +67,7 @@ doc.Save(dataDir + "Optimized_For_Word_2016.docx");
 
 ## 結論
 
-現在你就擁有了！只需幾行程式碼，您就可以使用 Aspose.Words for .NET 優化 Word 文檔，使其與 MS Word 2016 相容。現在，無論您的受眾使用哪個版本的 Word，您的文件都將保持其預期的外觀和風格。輕而易舉－試試看！
+現在你就得到它了！只需幾行程式碼，您就可以使用 Aspose.Words for .NET 優化 Word 文檔，使其與 MS Word 2016 相容。現在，無論您的受眾使用哪個版本的 Word，您的文件都將保持其預期的外觀和風格。輕而易舉－試試看！
 
 ## 常見問題解答
 

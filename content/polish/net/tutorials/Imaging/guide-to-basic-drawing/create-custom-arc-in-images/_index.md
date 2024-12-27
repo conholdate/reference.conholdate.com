@@ -70,7 +70,7 @@ Następnie inicjujemy kontekst graficzny, aby manipulować obrazem:
             graphic.Clear(Color.Yellow); // Wyczyść obraz za pomocą żółtego tła
 ```
 
-W tej części oczyszczamy powierzchnię obrazu za pomocą żółtego koloru, aby poprawić widoczność.
+tej części oczyszczamy powierzchnię obrazu za pomocą żółtego koloru, aby poprawić widoczność.
 
 ## Krok 3: Narysuj łuk
 

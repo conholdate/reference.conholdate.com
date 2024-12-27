@@ -127,7 +127,7 @@ Console.WriteLine("The XML path is: " + xmlPath);
 
 ### Совместим ли Aspose.Cells с .NET Core?
 
-Конечно! Aspose.Cells полностью совместим с .NET Core, .NET Framework и различными другими платформами .NET, что делает его пригодным для широкого спектра приложений.
+Конечно! Aspose.Cells полностью совместим с .NET Core, .NET Framework и другими платформами .NET, что делает его пригодным для широкого спектра приложений.
 
 ### Нужна ли мне лицензия для использования Aspose.Cells?
 

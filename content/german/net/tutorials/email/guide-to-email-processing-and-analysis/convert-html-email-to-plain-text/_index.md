@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  Durch den Zugriff auf die`HtmlBody` Eigentum der`MailMessage` -Objekt wird der HTML-Inhalt nun in einer Zeichenfolgenvariable mit dem Namen gespeichert`htmlBody`.
 
-### Schritt 3: Bereiten Sie die Konvertierung von HTML in Nur-Text vor
+## Schritt 3: Bereiten Sie die Konvertierung von HTML in Nur-Text vor
 
 Jetzt, da wir unseren HTML-Inhalt haben, ist es an der Zeit, die Bühne für die Konvertierung zu bereiten. Wir werden Aspose.Words verwenden, um unser Rich-HTML in einfachen Text umzuwandeln. Aber zuerst müssen wir ein neues Dokument erstellen:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Dadurch entsteht ein neuer leerer`Document`. Wir entfernen alle vorhandenen untergeordneten Knoten, um sicherzustellen, dass wir eine saubere Grundlage haben, bevor wir mit dem Einfügen unseres HTML-Inhalts beginnen.
 
-### Schritt 4: HTML-Inhalt einfügen
+## Schritt 4: HTML-Inhalt einfügen
 
  Hier geschieht die Magie der Konvertierung! Wir verwenden die`DocumentBuilder` Klasse von Aspose.Words, um unseren HTML-Inhalt in das Dokument einzufügen. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Hier,`DocumentBuilder().InsertHtml(htmlBody)` nimmt unseren HTML-String und lädt ihn in eine neue Dokumentstruktur innerhalb des`Document` Objekt. Mit`ImportFormatMode.KeepSourceFormatting` stellt sicher, dass die Formatierung bei diesem Vorgang erhalten bleibt.
 
-### Schritt 5: Speichern Sie die reine Textdatei
+## Schritt 5: Speichern Sie die reine Textdatei
 
 Schließlich ist es an der Zeit, unsere neu erstellte reine Textdatei zu speichern. So geht's:
 

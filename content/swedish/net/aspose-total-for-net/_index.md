@@ -367,7 +367,7 @@ Följande är länkarna till några användbara resurser som du kan behöva för
 
 **Welcome to Aspose.Finance for .NET**
 
-Aspose.Finance, som ett rent .NET-bibliotek, ger mycket bättre prestanda och användarvänlighet för att manipulera finansrelaterade format, såsom XBRL, iXBRL. Finans-API:et är utbyggbart, lätt att använda och kompakt och tillhandahåller alla vanliga funktioner så att utvecklare skriver mindre kod för att utföra vanliga operationer.
+Aspose.Finance, som ett rent .NET-bibliotek ger mycket bättre prestanda och användarvänlighet för att manipulera finansrelaterade format, såsom XBRL, iXBRL. Finans-API:et är utbyggbart, lätt att använda och kompakt och tillhandahåller alla vanliga funktioner så att utvecklare skriver mindre kod för att utföra vanliga operationer.
 
 {{% /alert %}} 
 ## **Aspose.Finance for .NET**

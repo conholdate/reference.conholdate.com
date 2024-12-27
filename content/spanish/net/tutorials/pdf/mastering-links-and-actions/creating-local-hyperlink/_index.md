@@ -54,7 +54,7 @@ Dividamos el proceso de creación de hipervínculos locales en pasos simples.
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Establezca su directorio de documentos
-Document doc = new Document(); //Crear instancia de documento
+Document doc = new Document(); // Crear instancia de documento
 ```
 
  Reemplazar`"YOUR_DOCUMENT_DIRECTORY"` con la ruta real en su sistema donde se guardará el PDF.

@@ -9,7 +9,7 @@ url: /de/net/tutorials/pdf/mastering-image-Processing/delete-images-from-pdf-fil
 ---
 ## Einführung
 
-Das Löschen von Bildern aus einer PDF-Datei ist eine häufige Aufgabe bei der Dokumentverarbeitung, egal ob Sie die Dateigröße optimieren oder unerwünschte Inhalte entfernen. In diesem Tutorial führen wir Sie durch den Prozess des Löschens von Bildern aus einer PDF-Datei mit Aspose.PDF für .NET. Lassen Sie uns anfangen!
+Das Löschen von Bildern aus einer PDF-Datei ist eine häufige Aufgabe bei der Dokumentverarbeitung, unabhängig davon, ob Sie die Dateigröße optimieren oder unerwünschte Inhalte entfernen. In diesem Tutorial führen wir Sie durch den Prozess des Löschens von Bildern aus einer PDF-Datei mit Aspose.PDF für .NET. Lassen Sie uns beginnen!
 
 ## Voraussetzungen
 

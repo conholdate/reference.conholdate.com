@@ -17,7 +17,7 @@ Mielőtt belemerülnénk a kódba, győződjön meg arról, hogy rendelkezik a k
 
 -  Aspose.PDF for .NET könyvtár: Töltse le és telepítse a[letöltési oldal](https://releases.aspose.com/pdf/net/).
 - .NET fejlesztői környezet: a Visual Studio ajánlott.
-- C# és .NET alkalmazások alapvető ismerete.
+- C# és .NET alkalmazások alapismerete.
 -  Aspose.PDF licenc: Használhatja a[ideiglenes engedély](https://purchase.aspose.com/temporary-license/) vagy próba módban.
 
 Ha megvannak ezek az előfeltételek, ugorjunk bele a kódolásba!

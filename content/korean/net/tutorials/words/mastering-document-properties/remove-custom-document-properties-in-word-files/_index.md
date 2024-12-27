@@ -46,14 +46,14 @@ Word 문서를 수정하는 첫 번째 단계는 응용 프로그램에 로드�
 
 ### 1단계: 파일 경로 정의
 
-Word 문서의 파일 경로를 정의해야 합니다. 이 예에서는 document를 사용합니다.`Properties.docx`.
+ Word 문서의 파일 경로를 정의해야 합니다. 이 예에서는 document를 사용합니다.`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- 교체해야 합니다`"YOUR DOCUMENT DIRECTORY"` 문서가 저장된 실제 디렉토리와 동일합니다.
+ 교체해야 합니다`"YOUR DOCUMENT DIRECTORY"`문서가 저장된 실제 디렉토리와 동일합니다.
 
 ## 사용자 정의 문서 속성 액세스 및 제거
 

@@ -54,7 +54,7 @@ Omówmy proces tworzenia lokalnych hiperłączy w kilku prostych krokach.
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Ustaw katalog dokumentów
-Document doc = new Document(); //Utwórz instancję dokumentu
+Document doc = new Document(); // Utwórz instancję dokumentu
 ```
 
  Zastępować`"YOUR_DOCUMENT_DIRECTORY"` z rzeczywistą ścieżką w systemie, gdzie zostanie zapisany plik PDF.

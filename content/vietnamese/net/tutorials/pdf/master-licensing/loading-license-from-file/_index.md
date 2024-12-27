@@ -55,7 +55,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Bước 3: Áp dụng Giấy phép  
 
- Sử dụng`SetLicense` phương pháp của`License` lớp để tải tệp giấy phép.  
+ Sử dụng`SetLicense` phương pháp của`License`lớp để tải tệp giấy phép.  
 
 ```csharp
 license.SetLicense(dataDir + "Aspose.Pdf.lic");

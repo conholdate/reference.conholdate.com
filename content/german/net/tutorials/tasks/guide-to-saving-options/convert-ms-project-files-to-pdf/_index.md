@@ -22,7 +22,7 @@ Stellen Sie vor dem Fortfahren sicher, dass die folgenden Voraussetzungen erfül
    Praktische Kenntnisse der Programmiersprache C# und einer konfigurierten .NET-Entwicklungsumgebung.
 
 3. Microsoft Project-Eingabedatei  
-    Besitzen Sie eine gültige`.mpp` Datei zur Konvertierung verfügbar.
+   Besitzen Sie eine gültige`.mpp` Datei zur Konvertierung verfügbar.
 
 ## Wichtige Namespaces importieren
 
@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Schritt 4: Bestimmte Seiten zum Exportieren auswählen (optional)
 
-Geben Sie die genauen Seiten an, die in das PDF aufgenommen werden sollen, indem Sie das`Pages` Eigenschaft. So exportieren Sie beispielsweise die Seiten 1 und 4:
+ Geben Sie die genauen Seiten an, die in das PDF aufgenommen werden sollen, indem Sie das`Pages` Eigenschaft. So exportieren Sie beispielsweise die Seiten 1 und 4:
 
 ```csharp
 options.Pages.Add(1);
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Schritt 5: Speichern Sie die Projektdatei als PDF
 
- Speichern Sie abschließend die`.mpp` Datei als PDF durch Aufrufen des`Save` Methode. Geben Sie den Ausgabedateipfad an und übergeben Sie die konfigurierten Optionen.
+Speichern Sie abschließend die`.mpp` Datei als PDF durch Aufrufen des`Save` Methode. Geben Sie den Ausgabedateipfad an und übergeben Sie die konfigurierten Optionen.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);
@@ -92,7 +92,7 @@ Ja, Aspose.Tasks ermöglicht die Anpassung von Schriftarten, Farben und Seitenla
 ###  Ist es möglich, zu konvertieren`.mpp` files from older versions of Microsoft Project?
  Aspose.Tasks unterstützt`.mpp` Dateien ab Microsoft Project 2003.
 
-### Wie stelle ich alle Projektdaten auf einer einzigen PDF-Seite dar?
+### Wie kann ich alle Projektdaten auf einer einzigen PDF-Seite darstellen?
  Legen Sie die`RenderToSinglePage` Eigentum der`PdfSaveOptions` Einwände erheben gegen`true`.
 
 ```csharp

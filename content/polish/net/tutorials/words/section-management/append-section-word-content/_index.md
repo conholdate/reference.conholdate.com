@@ -114,7 +114,7 @@ Aspose.Words for .NET to potężna biblioteka, która umożliwia programistom pr
 
 ### Jakie są główne cechy Aspose.Words dla .NET?
 
- Aspose.Words dla .NET oferuje różne funkcje, w tym tworzenie dokumentów, formatowanie, konwersję i manipulację. Aby uzyskać pełną listę, sprawdź[Dokumentacja API](https://reference.aspose.com/words/net/).
+Aspose.Words dla .NET oferuje różne funkcje, w tym tworzenie dokumentów, formatowanie, konwersję i manipulację. Aby uzyskać pełną listę, sprawdź[Dokumentacja API](https://reference.aspose.com/words/net/).
 
 ### Jak uzyskać pomoc techniczną dotyczącą Aspose.Words dla platformy .NET?
 

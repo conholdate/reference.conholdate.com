@@ -54,7 +54,7 @@ using Aspose.Pdf.Text;
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Установите каталог документов
-Document doc = new Document(); //Создать экземпляр документа
+Document doc = new Document(); // Создать экземпляр документа
 ```
 
  Заменять`"YOUR_DOCUMENT_DIRECTORY"` на фактический путь в вашей системе, где будет сохранен PDF-файл.
@@ -129,7 +129,7 @@ Page newPage = doc.Pages.Add(); // Добавить новую страницу 
 newPage.Paragraphs.Add(textBack); // Добавить фрагмент текста на новую страницу
 ```
 
-## Шаг 9: Сохраните документ
+## Шаг 9: Сохраните документ.
 
 Наконец, сохраните документ.
 

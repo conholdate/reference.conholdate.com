@@ -72,7 +72,7 @@ doc.Pages[1].Annotations.Add(annotation);
 - `DefaultAppearance`: Ställer in typsnittet (Helvetica, storlek 16, röd färg).
 - `Contents`: Den här egenskapen innehåller ditt dolda meddelande (i det här fallet "ABCDEFG").
 - `Characteristics.Border`: Definierar kantfärgen för anteckningen.
-- `Flags` : Specificerar synlighetsbeteende;`Print` tillåter synlighet vid utskrift, medan`NoView` håller den dold på skärmen.
+- `Flags` : Anger synlighetsbeteenden;`Print` tillåter synlighet vid utskrift, medan`NoView` håller den dold på skärmen.
 
 ## Steg 4: Spara det uppdaterade PDF-dokumentet
 

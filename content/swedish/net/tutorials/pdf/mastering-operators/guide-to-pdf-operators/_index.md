@@ -16,7 +16,7 @@ I dagens digitala landskap är att arbeta med PDF-filer en vanlig uppgift för m
 Innan du dyker in i detaljerna, se till att du har följande:
 
 1. Grundläggande C#-kunskaper: Bekantskap med C#-programmeringskoncept hjälper dig att enkelt följa med.
-2.  Aspose.PDF-bibliotek: Ladda ner och installera Aspose.PDF-biblioteket från[Aspose PDF för .NET versioner sida](https://releases.aspose.com/pdf/net/).
+2.  Aspose.PDF-bibliotek: Ladda ner och installera Aspose.PDF-biblioteket från[Aspose PDF för .NET-versioner sida](https://releases.aspose.com/pdf/net/).
 3. IDE: Använd Visual Studio eller någon annan integrerad utvecklingsmiljö för att skriva och köra din kod.
 4.  Bildfiler: Förbered bilderna du vill lägga till. För den här handledningen använder vi en exempelbild med namnet`PDFOperators.jpg`.
 5.  PDF-mall: Låt ett exempel på en PDF-fil namnges`PDFOperators.pdf` redo i din projektkatalog.

@@ -79,7 +79,7 @@ A1: Absoluut! Aspose.PSD ondersteunt verschillende afbeeldingsformaten, wat flex
 
 ### Is er een proefversie beschikbaar?
 
- A2: Ja, u kunt een gratis proefversie downloaden[hier](https://releases.aspose.com/).
+A2: Ja, u kunt een gratis proefversie downloaden[hier](https://releases.aspose.com/).
 
 ### Waar kan ik ondersteuning vinden voor Aspose.PSD voor .NET?
 

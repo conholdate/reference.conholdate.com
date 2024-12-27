@@ -82,7 +82,7 @@ builder.Writeln("Welcome to the new section!");
 ```
 
 - `builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));` nastaví pozici kurzoru na nově přidanou sekci.
-- `builder.Writeln("Welcome to the new section!");` přidá do této sekce odstavec.
+- `builder.Writeln("Welcome to the new section!");` přidá odstavec do této části.
 
 ## Krok 5: Uložení dokumentu
 

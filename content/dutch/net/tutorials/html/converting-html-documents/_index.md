@@ -35,4 +35,4 @@ Het proces is eenvoudig:
 ### [Converteer HTML naar PNG met Aspose.HTML in .NET met Aspose.HTML](./convert-html-as-png/)
 Leer hoe u HTML-documenten kunt converteren als PNG-afbeeldingen in .NET met behulp van de Aspose.HTML-bibliotheek. Volg onze stapsgewijze tutorial om HTML-naar-afbeeldingconversie te vereenvoudigen.
 ### [Converteer EPUB naar XPS met Aspose.HTML in .NET met Aspose.HTML](./convert-epub-as-xps/)
-Converteer EPUB moeiteloos naar XPS in .NET met Aspose.HTML. Volg onze stapsgewijze handleiding voor naadloze documentweergave.
+Converteer EPUB moeiteloos naar XPS in .NET met Aspose.HTML. Volg onze stapsgewijze handleiding voor naadloze documentrendering.

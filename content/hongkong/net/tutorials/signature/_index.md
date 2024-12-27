@@ -4,7 +4,7 @@ linktitle: .NET 教學的 GroupDocs.Signature
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/signature/
-description: 探索使用 GroupDocs.Signature for .NET 的綜合教學。透過清晰的逐步指南，學習實施數位簽章、自訂工作流程並增強文件安全性。
+description: 探索使用 GroupDocs.Signature for .NET 的綜合教學。透過清晰的逐步指南，學習如何實施數位簽章、自訂工作流程並增強文件安全性。
 is_root: true
 ---
 

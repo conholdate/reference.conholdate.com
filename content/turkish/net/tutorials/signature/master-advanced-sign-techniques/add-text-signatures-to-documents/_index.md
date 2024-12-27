@@ -15,7 +15,7 @@ Günümüzün dijital ortamında, elektronik belge imzalama iş akışlarını k
 
 Başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
-1.  GroupDocs.Signature for .NET: Kütüphaneyi şu adresten indirin ve yükleyin:[Burada](https://releases.groupdocs.com/signature/net/).
+1. GroupDocs.Signature for .NET: Kütüphaneyi şu adresten indirin ve yükleyin:[Burada](https://releases.groupdocs.com/signature/net/).
 2. Geliştirme Ortamı: .NET geliştirme ortamınızı kurun.
 3. Belge: İmzalamak istediğiniz belgeyi hazırlayın (örneğin PDF, Word).
 
@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithText", 
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, // pozisyonu
+    Left = 50, // X pozisyonu
     Top = 200, // Y pozisyonu
     Width = 100, // İmzanın genişliği
     Height = 30, // İmzanın yüksekliği

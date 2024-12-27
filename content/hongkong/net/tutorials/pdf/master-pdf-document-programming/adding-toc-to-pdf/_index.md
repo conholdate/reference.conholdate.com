@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/pdf/master-pdf-document-programming/adding-toc-to-pd
 
 在開始之前，請確保您具備以下條件：
 
-1.   Aspose.PDF for .NET：從下列位置下載並安裝最新版本[這裡](https://releases.aspose.com/pdf/net/).
+1.   Aspose.PDF for .NET：從以下位置下載並安裝最新版本[這裡](https://releases.aspose.com/pdf/net/).
 2.  開發環境：設定 .NET 開發環境，如 Visual Studio。
 3.  許可證：如果需要，請申請臨時許可證；請訪問[Aspose.Pdf 授權頁面](https://asposepdf.com/developers)了解更多。
 
@@ -47,7 +47,7 @@ Page tocPage = doc.Pages.Insert(1);
 
 ## 步驟 3：建立 TOC 資訊對象
 
-建立一個代表 TOC 資訊的物件。添加標題和連結以便更好地導航。
+建立一個表示 TOC 資訊的物件。添加標題和連結以便更好地導航。
 
 ```csharp
 TocInfo tocInfo = new TocInfo();

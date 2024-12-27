@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// สร้างภาพลักษณ์
+//สร้างภาพลักษณ์
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // ดำเนินการวาดภาพ
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## ขั้นตอนที่ 4: บันทึกภาพ
 
- การบันทึกภาพสุดท้ายนั้นทำได้ง่าย ๆ ดังแสดงด้านบนใน`using` คำกล่าวที่`image.Save()`จะถูกเรียกโดยอัตโนมัติเมื่อ`using` บล็อคสิ้นสุด
+ การบันทึกภาพสุดท้ายนั้นทำได้ง่าย ๆ ดังแสดงด้านบนใน`using` คำกล่าวที่`image.Save()` จะถูกเรียกโดยอัตโนมัติเมื่อ`using` บล็อคสิ้นสุด
 
 ## บทสรุป
 

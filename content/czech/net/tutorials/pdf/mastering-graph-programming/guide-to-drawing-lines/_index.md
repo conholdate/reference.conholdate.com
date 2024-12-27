@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Dále nakreslete druhou čáru z levého horního rohu do pravého dolního rohu:
 
 ```csharp
-//Vytvořte čáru z levého horního do pravého dolního rohu
+// Vytvořte čáru z levého horního do pravého dolního rohu
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Přidejte druhý řádek do objektu Graph
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## Krok 6: Přidejte graf na stránku
 
- S oběma nakreslenými čarami přidejte`Graph` vznést námitku na stránku:
+ S oběma nakreslenými čarami přidejte`Graph`vznést námitku na stránku:
 
 ```csharp
 // Přidejte objekt Graph do kolekce odstavců stránky
@@ -122,7 +122,7 @@ Pomocí těchto jednoduchých kroků můžete snadno kreslit čáry v dokumentu 
  Můžete upravit`StrokeColor` a`LineWidth` vlastnosti`Line` objekt upravit jeho vzhled.
 
 ### Mohu umístit řádky do konkrétních oblastí stránky?
-Absolutně! Upravte souřadnice`Line` objekt umístit kamkoli potřebujete.
+ Absolutně! Upravte souřadnice`Line` objekt umístit kamkoli potřebujete.
 
 ### Je možné přidat text spolu s řádky?
  Ano, můžete tvořit`TextFragment` objekty a přidejte je do kolekce odstavců stránky.

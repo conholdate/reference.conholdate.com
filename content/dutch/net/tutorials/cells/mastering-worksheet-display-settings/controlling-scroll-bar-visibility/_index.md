@@ -18,7 +18,7 @@ Voordat we beginnen met coderen, moet u ervoor zorgen dat u het volgende heeft g
 1. Basiskennis van C# en .NET: Kennis van de programmeerconcepten van C# zorgt ervoor dat u de cursus gemakkelijk kunt volgen.
 2. Aspose.Cells voor .NET-bibliotheek: zorg ervoor dat u de Aspose.Cells-bibliotheek in uw project hebt geïnstalleerd. U kunt deze downloaden van[hier](https://releases.aspose.com/cells/net/).
 3. Ontwikkelomgeving: Een geschikte ontwikkelomgeving, zoals Visual Studio, is noodzakelijk voor het schrijven en testen van uw C#-code.
-4.  Een Excel-bestand: U moet een bestaand Excel-bestand hebben met de naam`book1.xls`Plaats dit bestand in uw projectmap of op een locatie waar u toegang toe hebt.
+4.  Een Excel-bestand: U moet een bestaand Excel-bestand hebben met de naam`book1.xls`Plaats dit bestand in uw projectmap of op een locatie die u kunt openen.
 
 Laten we nu beginnen met de tutorial!
 

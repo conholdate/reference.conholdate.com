@@ -15,7 +15,7 @@ Dalam lanskap digital saat ini, penandatanganan dokumen elektronik telah menjadi
 
 Sebelum kita mulai, pastikan Anda memiliki hal berikut:
 
-1.  GroupDocs.Signature untuk .NET: Unduh dan instal pustaka dari[Di Sini](https://releases.groupdocs.com/signature/net/).
+1. GroupDocs.Signature untuk .NET: Unduh dan instal pustaka dari[Di Sini](https://releases.groupdocs.com/signature/net/).
 2. Lingkungan Pengembangan: Siapkan lingkungan pengembangan .NET Anda.
 3. Dokumen: Siapkan dokumen yang ingin Anda tandatangani (misalnya, PDF, Word).
 
@@ -56,7 +56,7 @@ Konfigurasikan opsi untuk tanda tangan teks Anda, termasuk konten, posisi, ukura
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, //Posisi X
+    Left = 50, // Posisi X
     Top = 200, // Posisi Y
     Width = 100, // Lebar tanda tangan
     Height = 30, // Tinggi tanda tangan

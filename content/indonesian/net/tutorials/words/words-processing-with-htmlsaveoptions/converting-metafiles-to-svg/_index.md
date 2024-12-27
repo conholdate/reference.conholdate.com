@@ -83,7 +83,7 @@ Konfigurasi ini memberitahu Aspose.Words untuk mengonversi metafile apa pun dala
 
 ## Langkah 5: Simpan Dokumen
 
- Terakhir, mari kita simpan dokumen kita menggunakan`Save` metode dari`Document`kelas.
+ Terakhir, mari kita simpan dokumen kita menggunakan`Save` metode dari`Document` kelas.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

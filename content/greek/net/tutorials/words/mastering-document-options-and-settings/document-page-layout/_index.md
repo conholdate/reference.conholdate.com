@@ -49,7 +49,7 @@ Document doc = new Document(dataDir + "Document.docx");
 doc.FirstSection.PageSetup.LayoutMode = SectionLayoutMode.Grid;
 ```
 
-## Βήμα 3: Ορίστε τους χαρακτήρες ανά γραμμή
+## Βήμα 3: Ορίστε χαρακτήρες ανά γραμμή
 
 Η διατήρηση της ομοιομορφίας στην εμφάνιση του εγγράφου σας είναι ζωτικής σημασίας. Ορίστε τον αριθμό των χαρακτήρων ανά γραμμή ως εξής:
 

@@ -83,7 +83,7 @@ Esta configuración le indica a Aspose.Words que convierta cualquier metarchivo 
 
 ## Paso 5: Guardar el documento
 
- Por último, guardemos nuestro documento usando el`Save` método de la`Document`clase.
+ Por último, guardemos nuestro documento usando el`Save` método de la`Document` clase.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

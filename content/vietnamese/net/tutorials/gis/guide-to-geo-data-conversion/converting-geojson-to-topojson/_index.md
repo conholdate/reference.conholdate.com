@@ -18,7 +18,7 @@ Trước khi bắt đầu quá trình chuyển đổi, hãy đảm bảo đáp �
 ### Cài đặt Aspose.GIS cho .NET
 
 -  Tải xuống Thư viện: Truy cập phiên bản mới nhất của Aspose.GIS cho .NET từ[trang phát hành](https://releases.aspose.com/gis/net/).
--  Cài đặt: Thực hiện theo hướng dẫn cài đặt chi tiết được cung cấp trong[tài liệu](https://reference.aspose.com/gis/net/).
+- Cài đặt: Thực hiện theo hướng dẫn cài đặt chi tiết được cung cấp trong[tài liệu](https://reference.aspose.com/gis/net/).
 
 ### Thêm không gian tên bắt buộc
 

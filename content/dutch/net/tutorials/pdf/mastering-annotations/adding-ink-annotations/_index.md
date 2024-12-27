@@ -120,7 +120,7 @@ ia.Border = border;
 ia.Opacity = 0.5;
 ```
 
-Deze code voegt een rand met een specifieke breedte toe en stelt de dekking van de annotatie zo in dat deze semi-transparant wordt.
+Met deze code wordt een rand met een specifieke breedte toegevoegd en wordt de dekking van de annotatie zodanig ingesteld dat deze semi-transparant wordt.
 
 ## Stap 7: Voeg de annotatie toe aan de pagina
 

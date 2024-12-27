@@ -46,14 +46,14 @@ De eerste stap bij het aanpassen van een Word-document is het laden ervan in uw 
 
 ### Stap 1: Definieer het bestandspad
 
- moet het bestandspad van uw Word-document definiëren. Voor dit voorbeeld gebruiken we het document`Properties.docx`.
+ U moet het bestandspad van uw Word-document definiëren. Voor dit voorbeeld gebruiken we het document`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Zorg ervoor dat u vervangt`"YOUR DOCUMENT DIRECTORY"` met de daadwerkelijke map waarin uw document is opgeslagen.
+ Zorg ervoor dat u vervangt`"YOUR DOCUMENT DIRECTORY"`met de daadwerkelijke map waarin uw document is opgeslagen.
 
 ## Toegang krijgen tot en verwijderen van aangepaste documenteigenschappen
 

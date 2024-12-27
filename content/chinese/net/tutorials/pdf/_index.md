@@ -19,7 +19,7 @@ Aspose.Pdf for .NET 教程是一本全面的指南，旨在帮助您掌握 Aspos
 | [掌握 Aspose.PDF for .NET 的许可](./master-licensing/) | 通过有关许可、确保合规性和优化 PDF 工作流程的详细教程，释放 Aspose.PDF for .NET 的全部潜力。 |
 | [掌握 PDF 附件](./mastering-pdf-attachments/) | 使用我们全面的 Aspose.PDF for .NET 教程轻松掌握 PDF 附件。循序渐进地指导如何有效管理 PDF 文档。 |
 | [掌握 Aspose.PDF for .NET 中的书签](./mastering-bookmarks/) | 掌握使用 Aspose.PDF for .NET 管理 PDF 文件中书签的技巧。我们的教程涵盖了从添加到无缝删除书签的所有内容。 |
-| [使用 Aspose.PDF for .NET 掌握 PDF 表单](./mastering-pdf-forms/) | 通过我们简单的 Aspose.PDF for .NET 教程掌握 PDF 表单。学习添加工具提示、填充字段和创建交互式组件。 |
+| [使用 Aspose.PDF for .NET 掌握 PDF 表单](./mastering-pdf-forms/) | 使用我们简单的 Aspose.PDF for .NET 教程掌握 PDF 表单。学习添加工具提示、填充字段和创建交互式组件。 |
 | [掌握 Aspose.Pdf for .NET 中的图形编程](./mastering-graph-programming/) | 通过我们的教程列表掌握 Aspose.PDF for .NET。学习在 PDF 中绘制渐变、填充矩形和线条等增强功能。提供分步指导。 |
 | [掌握 PDF 文档中的标题](./mastering-headings/) | 通过我们全面的教程（从基本用法到高级功能）释放 Aspose.PDF for .NET 的潜力。增强您的 PDF 操作技能。 |
 | [掌握 PDF 文件中的图像处理](./mastering-image-Processing/) | 探索 Aspose.PDF for .NET 教程。通过简单易懂、SEO 优化的指南和代码示例，掌握在 PDF 文件中添加、转换和管理图像的方法。 |

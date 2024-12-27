@@ -144,6 +144,6 @@ catch (Exception ex)
 
  임시면허는 다음에서 받을 수 있습니다.[여기](https://purchase.aspose.com/temporary-license/), 제한 없이 라이브러리의 모든 기능을 탐색할 수 있습니다.
 
-### Aspose.Words for .NET에 대한 추가 문서는 어디에서 찾을 수 있나요?
+### .NET용 Aspose.Words에 대한 추가 문서는 어디에서 찾을 수 있나요?
 
  자세한 문서는 다음을 방문하세요.[여기](https://reference.aspose.com/words/net/).

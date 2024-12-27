@@ -18,7 +18,7 @@ Sebelum Anda memulai proses konversi, pastikan prasyarat berikut terpenuhi:
 ### Instal Aspose.GIS untuk .NET
 
 -  Unduh Perpustakaan: Akses versi terbaru Aspose.GIS untuk .NET dari[halaman rilis](https://releases.aspose.com/gis/net/).
--  Instalasi: Ikuti petunjuk instalasi terperinci yang disediakan dalam[dokumentasi](https://reference.aspose.com/gis/net/).
+- Instalasi: Ikuti petunjuk instalasi terperinci yang disediakan dalam[dokumentasi](https://reference.aspose.com/gis/net/).
 
 ### Tambahkan Namespace yang Diperlukan
 

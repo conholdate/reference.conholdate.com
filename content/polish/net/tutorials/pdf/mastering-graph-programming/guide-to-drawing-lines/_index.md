@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Następnie narysuj drugą linię od lewego górnego rogu do prawego dolnego rogu:
 
 ```csharp
-//Utwórz linię od lewego górnego rogu do prawego dolnego rogu
+// Utwórz linię od lewego górnego rogu do prawego dolnego rogu
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Dodaj drugą linię do obiektu Graph
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## Krok 6: Dodaj wykres do strony
 
- Mając narysowane obie linie, dodaj`Graph` sprzeciw wobec strony:
+ Mając narysowane obie linie, dodaj`Graph`sprzeciw wobec strony:
 
 ```csharp
 // Dodaj obiekt Graph do kolekcji akapitów strony
@@ -122,7 +122,7 @@ Dzięki tym prostym krokom możesz łatwo rysować linie w dokumencie PDF za pom
  Możesz dostosować`StrokeColor` I`LineWidth` właściwości`Line` obiekt, aby dostosować jego wygląd.
 
 ### Czy mogę umieścić linie w określonych obszarach strony?
-Oczywiście! Zmień współrzędne`Line` obiekt, aby umieścić go w dowolnym miejscu.
+ Oczywiście! Zmień współrzędne`Line` obiekt, aby umieścić go w dowolnym miejscu.
 
 ### Czy można dodać tekst wzdłuż linii?
  Tak, możesz utworzyć`TextFragment` obiekty i dodać je do zbioru akapitów strony.

@@ -153,7 +153,7 @@ GroupDocs.Search for Java 是一个引人入胜的文档搜索 API。它从文�
 
 **Welcome to the GroupDocs.Signature for Java**
 
-GroupDocs.Signature for Java 允许开发人员编写能够对各种文件格式的电子文档进行签名的应用程序。此电子签名 API 允许用户在电子文档上添加不同类型的签名，如文本、图像或数字签名。该 API 的一个非常吸引人的事实是，它的 UI 较少，可以进行独立调用。
+GroupDocs.Signature for Java 允许开发人员编写能够对各种文件格式的电子文档进行签名的应用程序。此电子签名 API 允许用户在电子文档上添加不同类型的签名，如文本、图像或数字签名。该 API 非常吸引人的事实是，它的 UI 较少，可以进行独立调用。
 
 {{% /alert %}} 
 ## **GroupDocs.Signature for Java**

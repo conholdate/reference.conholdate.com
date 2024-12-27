@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
 By accessing the `HtmlBody` property of the `MailMessage` object, the HTML content is now stored in a string variable named `htmlBody`.
 
-### Step 3: Prepare to Convert HTML to Plain Text
+## Step 3: Prepare to Convert HTML to Plain Text
 
 Now that we have our HTML content, it’s time to set the stage for conversion. We will make use of Aspose.Words to turn our rich HTML into plain text. But first, we need to create a new document:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
 This creates a new empty `Document`. We remove any existing child nodes to ensure that there’s a clean slate before we start inserting our HTML content.
 
-### Step 4: Insert HTML Content
+## Step 4: Insert HTML Content
 
 This is where the magic of conversion happens! We’ll use the `DocumentBuilder` class from Aspose.Words to insert our HTML content into the document. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
 Here, `DocumentBuilder().InsertHtml(htmlBody)` takes our HTML string and loads it into a new document structure inside the `Document` object. Using `ImportFormatMode.KeepSourceFormatting` ensures that the formatting remains intact during this operation.
 
-### Step 5: Save the Plain Text File
+## Step 5: Save the Plain Text File
 
 Finally, it’s time to save our newly created plain text file. Here’s how to do it:
 

@@ -17,7 +17,7 @@ Innan vi dyker in i koden, se till att du har följande:
 
 1. Visual Studio: Din IDE för denna handledning.
 2. .NET Framework: Bekräfta att du har rätt version installerad för kompatibilitet.
-3.  Aspose.PDF Library: Ladda ner biblioteket från[Aspose PDF för .NET versioner sida](https://releases.aspose.com/pdf/net/). En gratis provperiod är också tillgänglig om du vill experimentera först.
+3.  Aspose.PDF Library: Ladda ner biblioteket från[Aspose PDF för .NET-versioner sida](https://releases.aspose.com/pdf/net/). En gratis provperiod är också tillgänglig om du vill experimentera först.
 4. Grundläggande C#-kunskaper: Bekantskap med C# hjälper dig att bättre förstå exemplen.
 
 ## Importera nödvändiga paket

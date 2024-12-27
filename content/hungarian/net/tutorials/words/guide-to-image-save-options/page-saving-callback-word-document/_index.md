@@ -13,7 +13,7 @@ Szüksége volt már arra, hogy egy Word-dokumentum minden oldalát egyedi képe
 
 ## Előfeltételek
 
-A merülés előtt győződjön meg arról, hogy rendelkezik a következőkkel:
+Búvárkodás előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
 1.  Aspose.Words for .NET: Töltse le és telepítse a webhelyről[itt](https://releases.aspose.com/words/net/).
 2. Visual Studio: Bármelyik verzió működik, de ehhez az útmutatóhoz a Visual Studio 2019-et fogjuk használni.
@@ -85,7 +85,7 @@ doc.Save(dataDir + "WorkingWithImageSaveOptions.PageSavingCallback.png", imageSa
 
 ## Következtetés
 
-Gratulálok! Sikeresen beállított egy oldalmentő visszahívást, amellyel egy Word-dokumentum minden oldalát külön PNG-képként mentheti az Aspose.Words for .NET segítségével. Ez a technika hihetetlenül hasznos különféle alkalmazásokhoz, az oldal-előnézetek létrehozásától a jelentésekhez készített egyedi oldalképekig.
+Gratulálok! Sikeresen beállított egy oldalmentő visszahívást, amellyel egy Word-dokumentum minden oldalát külön PNG-képként mentheti az Aspose.Words for .NET segítségével. Ez a technika hihetetlenül hasznos a különböző alkalmazásokhoz, az oldal-előnézetek létrehozásától a jelentésekhez készített egyedi oldalképekig.
 
 ## GYIK
 

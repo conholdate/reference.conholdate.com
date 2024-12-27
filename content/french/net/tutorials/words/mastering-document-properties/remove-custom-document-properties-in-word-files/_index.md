@@ -46,14 +46,14 @@ La première étape de la modification d'un document Word consiste à le charger
 
 ### Étape 1 : Définir le chemin d’accès au fichier
 
-Vous devez définir le chemin d'accès au fichier de votre document Word. Pour cet exemple, nous utiliserons le document`Properties.docx`.
+ Vous devez définir le chemin d'accès au fichier de votre document Word. Pour cet exemple, nous utiliserons le document`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Assurez-vous de remplacer`"YOUR DOCUMENT DIRECTORY"` avec le répertoire réel où votre document est stocké.
+ Assurez-vous de remplacer`"YOUR DOCUMENT DIRECTORY"`avec le répertoire réel où votre document est stocké.
 
 ## Accéder aux propriétés personnalisées d'un document et les supprimer
 

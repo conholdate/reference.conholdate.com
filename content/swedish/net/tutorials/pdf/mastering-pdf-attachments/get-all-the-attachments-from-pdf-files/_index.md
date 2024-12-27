@@ -63,7 +63,7 @@ Använd Aspose.PDF-biblioteket för att öppna ditt PDF-dokument:
 Document pdfDocument = new Document(dataDir + "GetAlltheAttachments.pdf");
 ```
 
-Se till att sökvägen och namnet är korrekta.
+Se till att sökvägen och filnamnet är korrekta.
 
 ## Steg 3: Gå till samlingen av inbäddade filer
 

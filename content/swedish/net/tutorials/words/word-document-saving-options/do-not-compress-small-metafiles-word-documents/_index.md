@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Steg 3: Konfigurera sparalternativ
 
- Konfigurera nu sparalternativen för att använda funktionen "Komprimera inte små metafiler" med`DocSaveOptions`klass.
+ Konfigurera nu sparalternativen för att använda funktionen "Komprimera inte små metafiler" med`DocSaveOptions` klass.
 
 ```csharp
 // Konfigurera sparalternativ med funktionen "Komprimera inte små metafiler".
@@ -87,7 +87,7 @@ Genom att följa dessa steg kan du säkerställa att små metafiler i dina Word-
 
 ### Varför ska jag använda funktionen "Komprimera inte små metafiler"?
 
-Den här funktionen är fördelaktig för att bevara den visuella kvaliteten hos små metafiler, vilket är avgörande för att uppnå professionella och högkvalitativa dokumentutdata.
+Denna funktion är fördelaktig för att bevara den visuella kvaliteten hos små metafiler, vilket är avgörande för att uppnå professionella och högkvalitativa dokumentutdata.
 
 ### Kan jag använda den här funktionen med andra filformat?
 

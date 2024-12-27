@@ -96,7 +96,7 @@ Diese Zeile fügt Ihre neu erstellte Anmerkung der ersten Seite des PDFs hinzu u
 
 ## Schritt 5: Speichern Sie das aktualisierte PDF-Dokument
 
-Speichern Sie abschließend das Dokument, um Ihre Änderungen beizubehalten.
+Speichern Sie das Dokument abschließend, um Ihre Änderungen beizubehalten.
 
 ```csharp
 // Speichern Sie das aktualisierte PDF-Dokument

@@ -89,7 +89,7 @@ Absolument ! Aspose.Drawing prend en charge une large gamme d'opérations graphi
 Oui, il prend en charge la traduction, la mise à l'échelle et l'inclinaison.
 
 ### Comment gérer les exceptions ?  
- Mettre en œuvre la gestion des erreurs et consulter le[documentation](https://reference.aspose.com/drawing/net/) à titre indicatif.
+ Implémenter la gestion des erreurs et consulter le[documentation](https://reference.aspose.com/drawing/net/) à titre indicatif.
 
 ### Puis-je l'essayer avant de l'acheter ?  
  Oui, explorez un[essai gratuit](https://releases.aspose.com/).

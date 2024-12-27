@@ -79,7 +79,7 @@ A1: Hoàn toàn đúng! Aspose.PSD hỗ trợ nhiều định dạng hình ảnh
 
 ### Có phiên bản dùng thử không?
 
- A2: Có, bạn có thể tải xuống bản dùng thử miễn phí[đây](https://releases.aspose.com/).
+A2: Có, bạn có thể tải xuống bản dùng thử miễn phí[đây](https://releases.aspose.com/).
 
 ### Tôi có thể tìm thấy sự hỗ trợ cho Aspose.PSD dành cho .NET ở đâu?
 

@@ -55,7 +55,7 @@ pdfDoc.PageInfo.Margin = new Aspose.Pdf.MarginInfo(72, 72, 72, 72); // هوام�
 ```csharp
 // إضافة صفحة جديدة إلى مستند PDF
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //استخدم نفس الإعدادات الموجودة في المستند
+pdfPage.PageInfo = pdfDoc.PageInfo; // استخدم نفس الإعدادات الموجودة في المستند
 ```
 
 ## الخطوة 3: إنشاء صندوق عائم
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //استخدم نفس الإعدادات ا�
 يتيح لك FloatingBox وضع المحتوى بشكل مستقل عن تدفق الصفحة، مما يمنحك سيطرة أكبر على تخطيطك.
 
 ```csharp
-// إنشاء FloatingBox للمحتوى المنظم
+//إنشاء FloatingBox للمحتوى المنظم
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

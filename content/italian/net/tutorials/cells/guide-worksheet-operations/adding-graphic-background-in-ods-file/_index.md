@@ -48,7 +48,7 @@ Per prima cosa, specifica i percorsi per i file di origine (input) e di output:
 ```csharp
 // Elenco di origine
 string sourceDir = "Your Document Directory";
-// Directory di uscita
+// Directory di output
 string outputDir = "Your Document Directory";
 ```
 

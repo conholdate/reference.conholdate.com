@@ -89,7 +89,7 @@ A dokumentum engedélyezésének nyomon követéséhez adjunk hozzá egy dátum 
 customDocumentProperties.Add("Authorized Date", DateTime.Today);
 ```
 
- Ez a sor hozzáad egy "Engedélyezett dátum" nevű tulajdonságot, és a mai dátumhoz rendeli hozzá`DateTime.Today`.
+ Ez a sor hozzáad egy "Engedélyezett dátum" nevű tulajdonságot, és hozzárendeli a mai dátumhoz a használatával`DateTime.Today`.
 
 ## 7. lépés: Revíziószám hozzáadása
 

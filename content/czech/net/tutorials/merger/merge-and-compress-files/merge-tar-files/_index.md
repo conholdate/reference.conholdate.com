@@ -86,4 +86,4 @@ Ano, GroupDocs.Merger je kompatibilní s .NET Framework i .NET Core.
 Rozhodně! GroupDocs.Merger poskytuje řadu rozhraní API, která vám umožňují přizpůsobit operace slučování, včetně rozsahů stránek a pořadí souborů.
 
 ### Kde najdu podporu pro GroupDocs.Merger?
- Pro podporu a diskuse navštivte[Fórum GroupDocs](https://forum.groupdocs.com/c/merger/32).
+ Pro podporu a diskuze navštivte[Fórum GroupDocs](https://forum.groupdocs.com/c/merger/32).

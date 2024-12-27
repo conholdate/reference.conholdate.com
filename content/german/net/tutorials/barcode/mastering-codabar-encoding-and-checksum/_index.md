@@ -13,7 +13,7 @@ Mit Aspose.BarCode für .NET ist das Generieren eines Barcodes mit Prüfsumme zi
 
 ## Erstellen benutzerdefinierter Codabar-Barcodes
 
-Nachdem Sie nun Prüfsummen verstanden haben, sprechen wir über die Anpassung. Manchmal reicht ein Standard-Barcode einfach nicht aus. Möglicherweise benötigen Sie bestimmte Start- und Stoppzeichen, einzigartige Abmessungen oder unterschiedliche Bildformate. Glücklicherweise können Sie mit Aspose.BarCode Ihrer Kreativität freien Lauf lassen!
+Nachdem Sie nun Prüfsummen verstanden haben, können wir über die Anpassung sprechen. Manchmal reicht ein Standard-Barcode einfach nicht aus. Möglicherweise benötigen Sie bestimmte Start- und Stoppzeichen, einzigartige Abmessungen oder unterschiedliche Bildformate. Glücklicherweise können Sie mit Aspose.BarCode Ihrer Kreativität freien Lauf lassen!
 
  Um benutzerdefinierte Codabar-Barcodes zu erstellen, müssen Sie zunächst Ihre Barcode-Parameter definieren. Sie können alles von der Höhe und Breite bis zur Hintergrundfarbe angeben. Es ist, als wären Sie ein Künstler mit Ihrer Barcode-Leinwand! Nachdem Sie Ihre Parameter festgelegt haben, müssen Sie nur noch die entsprechende Methode in der Aspose.BarCode-Bibliothek aufrufen, um Ihr benutzerdefiniertes Barcode-Bild zu generieren. Möchten Sie mehr über das Festlegen dieser Parameter erfahren? Lesen Sie unseren Leitfaden zu[Erstellen benutzerdefinierter Codabar-Barcodes](./custom-codabar-barcodes/).
 

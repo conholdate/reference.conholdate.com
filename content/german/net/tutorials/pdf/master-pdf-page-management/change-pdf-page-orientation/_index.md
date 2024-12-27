@@ -118,7 +118,7 @@ Und da haben Sie es! Das Ändern der Seitenausrichtung einer PDF-Datei mit Aspos
 ### Kann ich im PDF statt aller Seiten nur bestimmte Seiten drehen?  
 Ja, Sie können die Schleife ändern, um bestimmte Seiten nach ihrem Index anzusprechen, anstatt alle Seiten zu durchlaufen.
 
-### Was ist die`MediaBox`?  
+### Was ist der`MediaBox`?  
  Der`MediaBox` definiert die Größe und Form der Seite in einer PDF-Datei und bestimmt, wo der Inhalt platziert wird.
 
 ### Funktioniert Aspose.PDF für .NET mit anderen Dateiformaten?  

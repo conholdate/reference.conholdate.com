@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 새 PDF 문서 초기화:
 
 ```csharp
-//문서 인스턴스 생성
+// 문서 인스턴스 생성
 Document doc = new Document();
 ```
 

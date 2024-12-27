@@ -69,7 +69,7 @@ fileSpecification.Encoding = FileEncoding.None;
 
 ## 步驟 5：將文件附加到 PDF 文檔
 
-將準備好的文件加入 PDF 文件的`EmbeddedFiles`收藏。
+將準備好的文件加入到 PDF 文件的`EmbeddedFiles`收藏。
 
 ```csharp
 pdfDocument.EmbeddedFiles.Add(fileSpecification);

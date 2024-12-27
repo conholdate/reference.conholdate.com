@@ -83,7 +83,7 @@ Questa riga interrompe il collegamento, assicurando che questa casella di testo 
 
 A volte, una casella di testo potrebbe essere parte di una catena, con altre caselle collegate ad essa. Interrompere questi collegamenti in entrata può essere essenziale per riordinare o isolare il contenuto.
 
- Per interrompere qualsiasi collegamento in entrata, controlla se`Previous` la casella di testo esiste e chiama`BreakForwardLink` su di esso:
+ Per interrompere qualsiasi collegamento in entrata, controllare se`Previous` la casella di testo esiste e chiama`BreakForwardLink` su di esso:
 
 ```csharp
 textBox.Previous?.BreakForwardLink();

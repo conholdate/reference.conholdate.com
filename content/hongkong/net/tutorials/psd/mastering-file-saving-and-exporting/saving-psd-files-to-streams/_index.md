@@ -2,7 +2,7 @@
 title: 使用 Aspose.PSD for .NET 將 PSD 檔案儲存到串流
 linktitle: 使用 Aspose.PSD for .NET 將 PSD 檔案儲存到串流
 second_title: Aspose.PSD .NET API
-description: 了解如何使用 Aspose.PSD for .NET 將映像從 PSD 檔案有效儲存到串流。這個全面的逐步指南涵蓋了先決條件、程式碼和技術。
+description: 了解如何使用 Aspose.PSD for .NET 將 PSD 檔案中的影像有效地儲存到流中。這個全面的逐步指南涵蓋了先決條件、程式碼和技術。
 type: docs
 weight: 11
 url: /zh-hant/net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-to-streams/
@@ -16,7 +16,7 @@ url: /zh-hant/net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-f
 在我們深入之前，請確保您已進行以下設定：
 
 1. Visual Studio：確保您的電腦上安裝了 Visual Studio。
-2.  Aspose.PSD for .NET：下載並安裝 Aspose.PSD 函式庫。你可以找到最新版本[這裡](https://releases.aspose.com/psd/net/).
+2. Aspose.PSD for .NET：下載並安裝 Aspose.PSD 函式庫。你可以找到最新版本[這裡](https://releases.aspose.com/psd/net/).
 3. 範例 PSD 檔案：取得範例 PSD 檔案以進行測試。如果您沒有，任何 PSD 檔案都可以用於演示目的。
 4. 文件目錄：在專案中建立目錄來儲存映像並記下路徑以供以後使用。
 

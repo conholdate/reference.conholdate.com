@@ -51,7 +51,7 @@ Stellen Sie sicher, dass der Dateipfad korrekt auf Ihren Dateispeicherort verwei
 
 ## Schritt 2: Öffnen Sie die Excel-Datei
 
- Um eine Excel-Datei bearbeiten zu können, muss sie mit einem`FileStream`. Dadurch kann Aspose.Cells den Dateiinhalt lesen und bearbeiten.
+ Um eine Excel-Datei zu bearbeiten, muss sie mit einem`FileStream`. Dadurch kann Aspose.Cells den Dateiinhalt lesen und bearbeiten.
 
 ```csharp
 // Öffnen Sie die Excel-Datei mit FileStream

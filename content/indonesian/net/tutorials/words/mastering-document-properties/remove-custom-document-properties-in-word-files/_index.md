@@ -46,14 +46,14 @@ Langkah pertama dalam memodifikasi dokumen Word adalah memuatnya ke dalam aplika
 
 ### Langkah 1: Tentukan Jalur File
 
-Anda perlu menentukan jalur file dokumen Word Anda. Untuk contoh ini, kami akan menggunakan jalur dokumen`Properties.docx`.
+ Anda perlu menentukan jalur file dokumen Word Anda. Untuk contoh ini, kami akan menggunakan jalur dokumen`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Pastikan Anda mengganti`"YOUR DOCUMENT DIRECTORY"` dengan direktori sebenarnya tempat dokumen Anda disimpan.
+ Pastikan Anda mengganti`"YOUR DOCUMENT DIRECTORY"`dengan direktori sebenarnya tempat dokumen Anda disimpan.
 
 ## Mengakses dan Menghapus Properti Dokumen Kustom
 

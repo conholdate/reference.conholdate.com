@@ -55,7 +55,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Βήμα 3: Εφαρμόστε την Άδεια Χρήσης  
 
- Χρησιμοποιήστε το`SetLicense` μέθοδος του`License` κλάση για να φορτώσει το αρχείο άδειας χρήσης.  
+ Χρησιμοποιήστε το`SetLicense` μέθοδος του`License`κλάση για να φορτώσει το αρχείο άδειας χρήσης.  
 
 ```csharp
 license.SetLicense(dataDir + "Aspose.Pdf.lic");

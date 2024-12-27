@@ -9,13 +9,13 @@ url: /sv/net/tutorials/signature/master-advanced-sign-techniques/add-text-signat
 ---
 ## Introduktion
 
-dagens digitala landskap har elektronisk dokumentsignering blivit avgörande för att effektivisera arbetsflöden och spara resurser. GroupDocs.Signature för .NET tillhandahåller en kraftfull lösning för att programmatiskt lägga till textsignaturer till olika dokumentformat. Denna handledning guidar dig genom stegen för att signera ett dokument med text med GroupDocs.Signature för .NET.
+I dagens digitala landskap har elektronisk dokumentsignering blivit avgörande för att effektivisera arbetsflöden och spara resurser. GroupDocs.Signature för .NET tillhandahåller en kraftfull lösning för att programmatiskt lägga till textsignaturer till olika dokumentformat. Denna handledning guidar dig genom stegen för att signera ett dokument med text med GroupDocs.Signature för .NET.
 
 ## Förutsättningar
 
 Innan vi börjar, se till att du har följande:
 
-1.  GroupDocs.Signature för .NET: Ladda ner och installera biblioteket från[här](https://releases.groupdocs.com/signature/net/).
+1. GroupDocs.Signature för .NET: Ladda ner och installera biblioteket från[här](https://releases.groupdocs.com/signature/net/).
 2. Utvecklingsmiljö: Konfigurera din .NET-utvecklingsmiljö.
 3. Dokument: Förbered dokumentet du vill signera (t.ex. PDF, Word).
 
@@ -56,7 +56,7 @@ Konfigurera alternativen för din textsignatur, inklusive innehåll, position, s
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, //X-position
+    Left = 50, // X-position
     Top = 200, // Y-position
     Width = 100, // Signaturens bredd
     Height = 30, // Signaturens höjd
@@ -79,7 +79,7 @@ using (Signature signature = new Signature(filePath))
 
 ## Slutsats
 
-I den här handledningen demonstrerade vi hur man programmässigt lägger till en textsignatur till ett dokument med GroupDocs.Signature för .NET. Genom att följa dessa steg kan du förbättra säkerheten och äktheten för dina dokument effektivt.
+den här handledningen demonstrerade vi hur man programmässigt lägger till en textsignatur till ett dokument med GroupDocs.Signature för .NET. Genom att följa dessa steg kan du förbättra säkerheten och äktheten för dina dokument effektivt.
 
 ## FAQ's
 

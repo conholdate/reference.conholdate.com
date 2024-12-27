@@ -54,7 +54,7 @@ using Aspose.Pdf.Text;
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // قم بتعيين دليل المستندات الخاص بك
-Document doc = new Document(); //إنشاء مثيل المستند
+Document doc = new Document(); // إنشاء مثيل المستند
 ```
 
  يستبدل`"YOUR_DOCUMENT_DIRECTORY"` مع المسار الفعلي على نظامك حيث سيتم حفظ ملف PDF.

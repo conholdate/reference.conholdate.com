@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// Créer l'image
+//Créer l'image
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // Procéder au dessin sur l'image
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## Étape 4 : Enregistrer l'image
 
- L'enregistrement de l'image finale est simple, comme indiqué ci-dessus dans le`using` déclaration où`image.Save()`est appelé automatiquement lorsque le`using` les extrémités du bloc.
+ L'enregistrement de l'image finale est simple, comme indiqué ci-dessus dans le`using` déclaration où`image.Save()` est appelé automatiquement lorsque le`using` les extrémités du bloc.
 
 ## Conclusion
 

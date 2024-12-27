@@ -17,7 +17,7 @@ Il primo punto del nostro programma è aggiungere pagine ai documenti PostScript
 
 ### Aggiunta di pagine tramite programmazione ai documenti XPS
 
-Ora, discutiamo di come aggiungere pagine ai documenti XPS. XPS, o XML Paper Specification, può essere un po' complicato, ma Aspose.Page lo rende un gioco da ragazzi. Il nostro tutorial copre tutto, dai prerequisiti ai frammenti di codice dettagliati. Consideralo la tua guida completa per padroneggiare la manipolazione XPS. Alla fine, non solo aggiungerai pagine con facilità, ma capirai anche il funzionamento interno dei documenti XPS. Hai mai avuto problemi con problemi di formattazione o layout di pagina? Questa guida ti copre! Vuoi approfondire?[Leggi di più qui](./adding-page-to-xps-document/).
+Ora, discutiamo di come aggiungere pagine ai documenti XPS. XPS, o XML Paper Specification, può essere un po' complicato, ma Aspose.Page lo rende un gioco da ragazzi. Il nostro tutorial copre tutto, dai prerequisiti ai frammenti di codice dettagliati. Consideralo la tua guida completa per padroneggiare la manipolazione XPS. Alla fine, non solo aggiungerai pagine con facilità, ma capirai anche il funzionamento interno dei documenti XPS. Hai mai avuto problemi con la formattazione o il layout di pagina? Questa guida ti copre! Vuoi approfondire?[Leggi di più qui](./adding-page-to-xps-document/).
 
 ## Tutorial sulla manipolazione delle pagine master
 ### [Aggiungere pagine ai documenti PostScript utilizzando Aspose.Page per .NET](./add-page-to-postscript-document/)

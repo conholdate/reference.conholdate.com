@@ -115,7 +115,7 @@ TiffDevice tiffDevice = new TiffDevice(resolution, tiffSettings);
 Most konvertálja át a PDF-dokumentumot, és mentse el TIFF-fájlként:
 
 ```csharp
-// Konvertálja a PDF-fájlt, és mentse el a képet
+// A PDF konvertálása és a kép mentése
 tiffDevice.Process(pdfDocument, dataDir + "AllPagesToTIFF_out.tif");
 ```
 

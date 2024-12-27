@@ -73,7 +73,7 @@ Aspose.Cells.Pivot.PivotTable pt = ws.PivotTables[0];
 
 ## Steg 5: Lägg till en skivare
 
-Nu till den spännande delen - att lägga till skivaren! Detta steg binder slicern till ett basfält i pivottabellen:
+Nu till den spännande delen – att lägga till skivaren! Detta steg binder slicern till ett basfält i pivottabellen:
 
 ```csharp
 // Lägg till en skivare relaterad till pivottabellen i cell B22.

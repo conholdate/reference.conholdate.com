@@ -9,7 +9,7 @@ url: /cs/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 ---
 ## Zavedení
 
-Zefektivnění informací z velkých dokumentů nebylo nikdy jednodušší. Tato příručka se zabývá tím, jak využít Aspose.Words pro .NET a modely umělé inteligence Google k přesnému a efektivnímu shrnutí dokumentů Wordu. Ať už potřebujete vytvořit stručné souhrny pro zprávy, extrahovat klíčové poznatky z výzkumu nebo zpracovat více dokumentů, tento komplexní tutoriál vás provede každým krokem.
+Zefektivnění informací z velkých dokumentů nebylo nikdy jednodušší. Tato příručka se zabývá tím, jak využít Aspose.Words pro .NET a modely umělé inteligence Google k přesnému a efektivnímu shrnutí dokumentů aplikace Word. Ať už potřebujete vytvořit stručné souhrny pro zprávy, extrahovat klíčové poznatky z výzkumu nebo zpracovat více dokumentů, tento komplexní tutoriál vás provede každým krokem.
 
 ## Předpoklady
 

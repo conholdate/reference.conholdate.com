@@ -120,7 +120,7 @@ Nach dem Ausführen dieses Codes finden Sie das Ausgabe-PDF im angegebenen Ausga
 
 ## Häufig gestellte Fragen
 
-### Was ist die`GlobalizationSettings` class used for in Aspose.Cells for .NET?
+### Was ist der`GlobalizationSettings` class used for in Aspose.Cells for .NET?
 
 `GlobalizationSettings` ermöglicht Ihnen, die Anzeige von Fehlerwerten, Booleschen Werten und anderen länderspezifischen Informationen in Ihren Tabellen anzupassen. Diese Funktion ist besonders nützlich, wenn Sie ein internationales Publikum ansprechen oder Daten in bestimmten Sprachen präsentieren möchten.
 

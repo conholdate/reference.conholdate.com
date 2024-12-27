@@ -153,7 +153,7 @@ Prozkoumejte výukové programy Aspose.Tasks pro .NET zahrnující možnosti ukl
 
 ## Aspose.GIS
 {{% alert color="primary" %}}
-Objevte sílu Aspose.GIS pro .NET prostřednictvím obsáhlých výukových programů. Master převod GeoData, vytváření geometrie, analýza, správa vrstev a další.
+Objevte sílu Aspose.GIS pro .NET prostřednictvím obsáhlých výukových programů. Master GeoData konverze, tvorba geometrie, analýza, správa vrstev a další.
 {{% /alert %}}
 
 ### Výukové programy Aspose.GIS

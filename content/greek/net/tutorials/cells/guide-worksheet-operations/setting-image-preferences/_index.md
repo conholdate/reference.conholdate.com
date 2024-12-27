@@ -16,7 +16,7 @@ url: /el/net/tutorials/cells/guide-worksheet-operations/setting-image-preference
 Πριν βουτήξετε στον κώδικα, βεβαιωθείτε ότι έχετε τα εξής:
 
 1. Εγκαταστάθηκε το Visual Studio: Ένα περιβάλλον ανάπτυξης όπως το Visual Studio είναι απαραίτητο για την εκτέλεση και τη δοκιμή των εφαρμογών σας .NET.
-2.  Aspose.Cells για .NET: Κάντε λήψη και εγκατάσταση της πιο πρόσφατης έκδοσης από το[Aspose ιστότοπο](https://releases.aspose.com/cells/net/).
+2.  Aspose.Cells για .NET: Κάντε λήψη και εγκατάσταση της πιο πρόσφατης έκδοσης από το[Aspose website](https://releases.aspose.com/cells/net/).
 3. Βασικές γνώσεις C#: Η εξοικείωση με τον προγραμματισμό C# θα σας βοηθήσει να κατανοήσετε τα παραδείγματα πιο αποτελεσματικά.
 4.  Δείγμα αρχείου Excel: Προετοιμάστε ένα αρχείο Excel με όνομα`Book1.xlsx` και τοποθετήστε το σε έναν καθορισμένο φάκελο για αναφορά στον κώδικά σας.
 
@@ -137,7 +137,7 @@ book.Save(Path.Combine(dataDir, "output.html"), saveOptions);
 
 ### Υπάρχει διαθέσιμη δοκιμαστική έκδοση;
 
- Απολύτως! Μπορείτε να κάνετε λήψη μιας δωρεάν δοκιμαστικής έκδοσης του Aspose.Cells από το[Aspose ιστότοπο](https://releases.aspose.com/).
+ Απολύτως! Μπορείτε να κάνετε λήψη μιας δωρεάν δοκιμαστικής έκδοσης του Aspose.Cells από το[Aspose website](https://releases.aspose.com/).
 
 ### Ποιες μορφές εικόνας μπορώ να χρησιμοποιήσω με το Aspose.Cells;
 

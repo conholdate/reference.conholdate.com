@@ -21,7 +21,7 @@ Att lägga till en slicer i en Excel-tabell är som att ge dina data en superkra
 
 ## [Uppdatera Slicers i Excel med Aspose.Cells .NET](./update-slicers-in-excel/)
 
- Låt oss inse det – data ändras och dina skärare måste hänga med. Denna handledning fördjupar sig i konsten att uppdatera slicers i din Excel-fil. Oavsett om det handlar om att uppdatera slicerdata eller synkronisera den med pivottabeller, säkerställer den här guiden att du aldrig kommer att lämnas efter. Se det som att ge din skärare ett nytt liv. Kom igång med detta[omfattande guide](./update-slicers-in-excel/).
+ Låt oss inse det – data ändras och dina skärare måste hänga med. Denna handledning fördjupar sig i konsten att uppdatera slicers i din Excel-fil. Oavsett om det handlar om att uppdatera slicer-data eller synkronisera den med pivottabeller, säkerställer den här guiden att du aldrig kommer att bli kvar. Se det som att ge din skärare ett nytt liv. Kom igång med detta[omfattande guide](./update-slicers-in-excel/).
 
 ## [Skapa Slicer för pivottabell i Aspose.Cells .NET](./creating-slicer-for-pivot-table/)
 

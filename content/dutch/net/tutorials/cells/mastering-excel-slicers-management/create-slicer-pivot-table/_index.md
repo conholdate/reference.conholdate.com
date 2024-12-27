@@ -117,7 +117,7 @@ Gefeliciteerd! U hebt met succes een slicer voor een draaitabel gemaakt met Aspo
 ### Wat is een slicer in Excel?
 Een slicer is een visueel filter waarmee gebruikers snel gegevens in een draaitabel kunnen filteren.
 
-### Kan ik meerdere slicers toevoegen aan een draaitabel?
+### Kan ik meerdere slicers aan een draaitabel toevoegen?
 Ja, u kunt meerdere slicers toevoegen om verschillende velden in een draaitabel te filteren.
 
 ### Is Aspose.Cells gratis te gebruiken?

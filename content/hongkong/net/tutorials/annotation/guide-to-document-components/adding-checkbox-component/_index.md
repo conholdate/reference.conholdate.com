@@ -69,7 +69,7 @@ CheckBoxComponent checkBox = new CheckBoxComponent
 
 ## 第 5 步：將複選框新增至文件中
 
-將已建立的複選框組件新增至 PDF 中：
+將建立的複選框組件新增至PDF：
 
 ```csharp
 annotator.Add(checkBox);
@@ -83,7 +83,7 @@ annotator.Add(checkBox);
 annotator.Save("result.pdf");
 ```
 
-## 第7步：顯示輸出路徑
+## 步驟7：顯示輸出路徑
 
 最後，通知使用者修改後的文件保存在哪裡：
 

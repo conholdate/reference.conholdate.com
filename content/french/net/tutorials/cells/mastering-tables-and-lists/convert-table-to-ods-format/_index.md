@@ -58,7 +58,7 @@ string sourceDir = "Your Document Directory";
 string outputDir = "Your Document Directory";
 ```
 
- Remplacer`"Your Document Directory"` avec le chemin d'accès réel sur votre ordinateur. Des chemins corrects sont essentiels pour éviter les erreurs lors des opérations sur les fichiers.
+ Remplacer`"Your Document Directory"` avec le chemin d'accès réel sur votre ordinateur. Des chemins d'accès corrects sont essentiels pour éviter les erreurs lors des opérations sur les fichiers.
 
 ## Étape 2 : Ouvrir le fichier Excel
 

@@ -81,7 +81,7 @@ Den här raden sparar det nya dokumentet med det klonade VBA-projektet som "Work
 
 ## Slutsats
 
-Och där har du det! Du har precis bemästrat konsten att klona ett VBA-projekt i Word-dokument med Aspose.Words för .NET. Detta kraftfulla bibliotek förenklar arbetet med komplexa Word-dokument, från grundläggande textmanipulationer till intrikata VBA-projekt. Genom att följa den här guiden har du inte bara lärt dig att klona VBA-projekt utan också lagt grunden för att ytterligare utforska Aspose.Words enorma kapacitet.
+Och där har du det! Du har precis bemästrat konsten att klona ett VBA-projekt i Word-dokument med Aspose.Words för .NET. Detta kraftfulla bibliotek förenklar arbetet med komplexa Word-dokument, från grundläggande textmanipulationer till invecklade VBA-projekt. Genom att följa den här guiden har du inte bara lärt dig att klona VBA-projekt utan också lagt grunden för att ytterligare utforska Aspose.Words enorma kapacitet.
 
 ## FAQ's
 

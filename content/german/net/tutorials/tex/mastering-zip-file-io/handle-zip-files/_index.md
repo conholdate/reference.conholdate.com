@@ -80,7 +80,7 @@ TeXJob job = new TeXJob("hello-world", new PdfDevice(), options);
 job.Run();
 ```
 
-## Schritt 7: Das Ausgabe-ZIP-Archiv fertigstellen
+## Schritt 7: Das ZIP-Ausgabearchiv fertigstellen
 
 Stellen Sie abschließend sicher, dass das Zip-Ausgabearchiv ordnungsgemäß fertiggestellt ist.
 

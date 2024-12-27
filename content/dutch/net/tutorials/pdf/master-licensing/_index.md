@@ -22,7 +22,7 @@ Een van de meest eenvoudige manieren om te beginnen is door het configureren van
  Het begrijpen van Aspose.PDF voor .NET-licenties lijkt misschien in eerste instantie ontmoedigend, maar met deze tutorials zet u een grote stap in de richting van het onder de knie krijgen van deze krachtige tool. Klaar om erin te duiken? Laten we beginnen! Bekijk voor meer diepgaande tutorials en tips onze uitgebreide gids op[Handleiding voor het instellen van een licentie met behulp van een ingebedde bron](./guide-to-set-license-using-embedded-resource/). 
 
 
-## Master Licentie Tutorials
+## Master Licensing-zelfstudies
 | Titel | Beschrijving |
 | --- | --- | 
 | [Gemeten licentiesleutels configureren in PDF-bestand](./configureing-metered-license-keys/) | Ontgrendel het volledige potentieel van Aspose.PDF voor .NET met onze stapsgewijze handleiding voor het configureren van gemeten licenties. Of u nu uitgebreide PDF-workflows verwerkt of kleine aanpassingen maakt. |  

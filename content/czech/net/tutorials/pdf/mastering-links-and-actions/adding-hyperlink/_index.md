@@ -114,7 +114,7 @@ document.Save(dataDir);
 
 ## Závěr
 
-Přidání hypertextových odkazů do dokumentů PDF pomocí Aspose.PDF for .NET nejen zvyšuje jejich profesionalitu, ale také zlepšuje zapojení uživatelů. Pomocí kroků uvedených v této příručce můžete snadno přidat hypertextové odkazy do jakéhokoli PDF, které vytvoříte nebo upravíte.
+Přidání hypertextových odkazů do dokumentů PDF pomocí Aspose.PDF for .NET nejen zvyšuje jejich profesionalitu, ale také zlepšuje zapojení uživatelů. Pomocí kroků uvedených v této příručce můžete snadno přidat hypertextové odkazy do libovolného souboru PDF, který vytvoříte nebo upravíte.
 
 ## FAQ
 

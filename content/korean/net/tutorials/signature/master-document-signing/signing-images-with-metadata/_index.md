@@ -49,7 +49,7 @@ using (Signature signature = new Signature(filePath))
     ushort imgsMetadataId = 41996; // 메타데이터의 시작 ID
     MetadataSignOptions options = new MetadataSignOptions();
 
-    //다양한 유형의 메타데이터 서명 추가
+    // 다양한 유형의 메타데이터 서명 추가
     options
         .Add(new ImageMetadataSignature(imgsMetadataId++, "Mr. Sherlock Holmes")) // 문자열 값
         .Add(new ImageMetadataSignature(imgsMetadataId++, DateTime.Now))          // DateTime 값

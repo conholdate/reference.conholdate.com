@@ -18,7 +18,7 @@ Antes de iniciar o processo de conversão, certifique-se de que os seguintes pr�
 ### Instalar Aspose.GIS para .NET
 
 -  Baixe a Biblioteca: Acesse a versão mais recente do Aspose.GIS para .NET em[página de lançamento](https://releases.aspose.com/gis/net/).
--  Instalação: Siga as instruções detalhadas de instalação fornecidas no[documentação](https://reference.aspose.com/gis/net/).
+- Instalação: Siga as instruções detalhadas de instalação fornecidas no[documentação](https://reference.aspose.com/gis/net/).
 
 ### Adicionar namespaces necessários
 
@@ -63,7 +63,7 @@ Converter GeoJSON em TopoJSON é um processo crucial no gerenciamento de dados G
 
 ## Perguntas frequentes
 
-### O Aspose.GIS para .NET é compatível com todas as versões do .NET?
+### Aspose.GIS para .NET é compatível com todas as versões do .NET?
 
 Sim, o Aspose.GIS para .NET suporta todas as versões do .NET Framework e .NET Core.
 

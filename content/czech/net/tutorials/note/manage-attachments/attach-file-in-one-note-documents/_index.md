@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Krok 5: Inicializujte připojený soubor
 
- Zadejte cestu k souboru, který chcete připojit pomocí`AttachedFile`třída.
+ Zadejte cestu k souboru, který chcete připojit pomocí`AttachedFile` třída.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

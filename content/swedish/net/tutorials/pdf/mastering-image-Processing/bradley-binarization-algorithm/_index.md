@@ -139,5 +139,5 @@ En upplösning på 300 DPI rekommenderas generellt för bilder av hög kvalitet,
 ### Vad betyder 1bpp i färgdjup?
 1bpp (1 bit per pixel) indikerar att bilden kommer att vara i svartvitt, där varje pixel är antingen helt svart eller helt vit.
 
-### Är Bradley-algoritmen lämplig för OCR?
+### Är Bradley Algorithm lämplig för OCR?
 Ja, Bradley-algoritmen används ofta i OCR-förbearbetning eftersom den förbättrar kontrasten hos text i skannade dokument, vilket förbättrar igenkänningsnoggrannheten.

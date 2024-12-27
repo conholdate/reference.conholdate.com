@@ -4,7 +4,7 @@ linktitle: 使用 Aspose.PDF for .NET 掌握 PDF 表单
 type: docs
 weight: 13
 url: /zh/net/tutorials/pdf/mastering-pdf-forms/
-description: 通过我们简单的 Aspose.PDF for .NET 教程掌握 PDF 表单。学习添加工具提示、填充字段和创建交互式组件。
+description: 使用我们简单的 Aspose.PDF for .NET 教程掌握 PDF 表单。学习添加工具提示、填充字段和创建交互式组件。
 ---
 ## 介绍
 

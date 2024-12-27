@@ -83,7 +83,7 @@ Denna konfiguration talar om för Aspose.Words att konvertera alla metafiler i d
 
 ## Steg 5: Spara dokumentet
 
- Slutligen, låt oss spara vårt dokument med hjälp av`Save` metod för`Document`klass.
+ Slutligen, låt oss spara vårt dokument med hjälp av`Save` metod för`Document` klass.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

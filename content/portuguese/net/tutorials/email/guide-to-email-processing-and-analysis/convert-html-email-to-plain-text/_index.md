@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  Ao acessar o`HtmlBody` propriedade do`MailMessage` objeto, o conteúdo HTML agora é armazenado em uma variável de string chamada`htmlBody`.
 
-### Etapa 3: Prepare-se para converter HTML em texto simples
+## Etapa 3: Prepare-se para converter HTML em texto simples
 
 Agora que temos nosso conteúdo HTML, é hora de preparar o cenário para a conversão. Usaremos o Aspose.Words para transformar nosso HTML rico em texto simples. Mas, primeiro, precisamos criar um novo documento:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Isso cria um novo vazio`Document`. Removemos todos os nós filhos existentes para garantir que haja um novo começo antes de começarmos a inserir nosso conteúdo HTML.
 
-### Etapa 4: Insira conteúdo HTML
+## Etapa 4: Insira conteúdo HTML
 
  É aqui que a mágica da conversão acontece! Usaremos o`DocumentBuilder` classe do Aspose.Words para inserir nosso conteúdo HTML no documento. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Aqui,`DocumentBuilder().InsertHtml(htmlBody)` pega nossa string HTML e a carrega em uma nova estrutura de documento dentro do`Document` objeto. Usando`ImportFormatMode.KeepSourceFormatting` garante que a formatação permaneça intacta durante esta operação.
 
-### Etapa 5: Salve o arquivo de texto simples
+## Etapa 5: Salve o arquivo de texto simples
 
 Finalmente, é hora de salvar nosso arquivo de texto simples recém-criado. Veja como fazer isso:
 

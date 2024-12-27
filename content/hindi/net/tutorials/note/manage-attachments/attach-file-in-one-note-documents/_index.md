@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## चरण 5: संलग्न फ़ाइल को आरंभ करें
 
- उस फ़ाइल का पथ निर्दिष्ट करें जिसे आप संलग्न करना चाहते हैं`AttachedFile`कक्षा।
+ उस फ़ाइल का पथ निर्दिष्ट करें जिसे आप संलग्न करना चाहते हैं`AttachedFile` कक्षा।
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

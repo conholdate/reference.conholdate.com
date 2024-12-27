@@ -39,7 +39,7 @@ using System.Text;
 
 ```csharp
 // Κατάλογος πηγής
-string sourceDir = "Your Document Directory"; // Αντικαταστήστε τη διαδρομή καταλόγου προέλευσης
+string sourceDir = "Your Document Directory"; // Αντικαταστήστε με τη διαδρομή καταλόγου προέλευσης
 // Κατάλογος εξόδου
 string outputDir = "Your Document Directory"; // Αντικαταστήστε με τη διαδρομή καταλόγου εξόδου
 ```

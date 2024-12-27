@@ -65,7 +65,7 @@ Dále vytvořte novou instanci sešitu. Tento objekt bude vaším pracovním pro
 Workbook workbook = new Workbook();
 ```
 
- Vytvořením instance`Workbook`, vytvořili jste v paměti nový soubor aplikace Excel.
+ Vytvořením instance`Workbook`, vytvořili jste v paměti nový soubor Excel.
 
 ## Krok 3: Otevřete první pracovní list
 

@@ -106,4 +106,4 @@ Auf jeden Fall! Sie können mehrere Dokumente gleichzeitig signieren, indem Sie 
 
 ### Gibt es technischen Support für GroupDocs.Signature-Benutzer?
 
-Ja, GroupDocs bietet dedizierten technischen Support über seine Foren. Sie können auf das Support-Forum zugreifen[Hier](https://forum.groupdocs.com/c/signature/13).
+ Ja, GroupDocs bietet dedizierten technischen Support über seine Foren. Sie können auf das Support-Forum zugreifen[Hier](https://forum.groupdocs.com/c/signature/13).

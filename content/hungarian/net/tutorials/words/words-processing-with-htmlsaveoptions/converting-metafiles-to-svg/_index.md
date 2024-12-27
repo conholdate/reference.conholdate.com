@@ -83,7 +83,7 @@ Ez a konfiguráció arra utasítja az Aspose.Words-t, hogy a dokumentumban talá
 
 ## 5. lépés: Mentse el a dokumentumot
 
- Végül mentsük el a dokumentumunkat a`Save` módszere a`Document`osztály.
+ Végül mentsük el a dokumentumunkat a`Save` módszere a`Document` osztály.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

@@ -91,7 +91,7 @@ Grattis! Du har framgångsrikt konverterat och ställt in marginaler och avstån
  Ladda ner den från[webbplats](https://releases.aspose.com/words/net/) och följ installationsanvisningarna.
 
 ### Kan jag ställa in olika enheter för olika delar av ett dokument?
- Absolut! Du kan anpassa marginaler och inställningar för olika sektioner med hjälp av`Section`klass.
+ Absolut! Du kan anpassa marginaler och inställningar för olika sektioner med hjälp av`Section` klass.
 
 ### Vilka andra funktioner erbjuder Aspose.Words?
  Aspose.Words stöder ett brett utbud av funktioner, inklusive dokumentkonvertering, sammanslagning och omfattande formateringsalternativ. Kontrollera[dokumentation](https://reference.aspose.com/words/net/) för mer information.

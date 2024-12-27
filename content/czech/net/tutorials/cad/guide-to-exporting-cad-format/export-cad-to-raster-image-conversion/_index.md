@@ -124,6 +124,6 @@ Gratuluji! Naučili jste se, jak efektivně převádět rozvržení CAD do form�
 
  Ano, dočasné licence jsou k dispozici; můžete požádat o jeden[zde](https://purchase.conholdate.com/temporary-license/).
 
-### Kde získám podrobnou dokumentaci?
+### Kde mohu získat podrobnou dokumentaci?
 
  Navštivte komplexní dokumentaci[zde](https://reference.aspose.com/cad/net/) pro více informací.

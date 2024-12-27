@@ -79,7 +79,7 @@ A1: Tentu saja! Aspose.PSD mendukung berbagai format gambar, sehingga memberikan
 
 ### Apakah ada versi uji coba yang tersedia?
 
- A2: Ya, Anda dapat mengunduh uji coba gratis[Di Sini](https://releases.aspose.com/).
+A2: Ya, Anda dapat mengunduh uji coba gratis[Di Sini](https://releases.aspose.com/).
 
 ### Di mana saya dapat menemukan dukungan untuk Aspose.PSD untuk .NET?
 

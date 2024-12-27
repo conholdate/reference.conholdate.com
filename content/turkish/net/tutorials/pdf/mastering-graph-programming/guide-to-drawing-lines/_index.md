@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Daha sonra sol üst köşeden sağ alt köşeye doğru ikinci bir çizgi çizin:
 
 ```csharp
-//Sol üst köşeden sağ alt köşeye doğru bir çizgi oluşturun
+// Sol üst köşeden sağ alt köşeye doğru bir çizgi oluşturun
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Graph nesnesine ikinci satırı ekleyin
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## Adım 6: Grafiği Sayfaya Ekleyin
 
- Her iki çizgi de çizildiğinde,`Graph` sayfaya itiraz:
+ Her iki çizgi de çizildiğinde,`Graph`sayfaya itiraz:
 
 ```csharp
 // Graph nesnesini sayfanın paragraf koleksiyonuna ekleyin
@@ -122,7 +122,7 @@ Bu basit adımlarla, .NET için Aspose.PDF kullanarak bir PDF belgesinde kolayca
  Ayarlayabilirsiniz`StrokeColor` Ve`LineWidth` özellikleri`Line` Görünümünü özelleştirmek için nesne.
 
 ### Sayfanın belirli alanlarına satırlar yerleştirebilir miyim?
-Kesinlikle! Koordinatları değiştirin`Line` istediğiniz yere koyabileceğiniz bir nesne.
+ Kesinlikle! Koordinatları değiştirin`Line` istediğiniz yere koyabileceğiniz bir nesne.
 
 ### Satırlara metin eklemek mümkün mü?
  Evet, yaratabilirsiniz`TextFragment` nesneleri seçin ve bunları sayfanın paragraf koleksiyonuna ekleyin.

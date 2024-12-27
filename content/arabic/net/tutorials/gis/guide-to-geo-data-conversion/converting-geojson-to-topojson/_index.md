@@ -18,7 +18,7 @@ url: /ar/net/tutorials/gis/guide-to-geo-data-conversion/converting-geojson-to-to
 ### تثبيت Aspose.GIS لـ .NET
 
 -  تنزيل المكتبة: قم بالوصول إلى أحدث إصدار من Aspose.GIS لـ .NET من[صفحة الإصدار](https://releases.aspose.com/gis/net/).
--  التثبيت: اتبع تعليمات التثبيت التفصيلية الواردة في[التوثيق](https://reference.aspose.com/gis/net/).
+- التثبيت: اتبع تعليمات التثبيت التفصيلية الواردة في[التوثيق](https://reference.aspose.com/gis/net/).
 
 ### إضافة المساحات المطلوبة
 

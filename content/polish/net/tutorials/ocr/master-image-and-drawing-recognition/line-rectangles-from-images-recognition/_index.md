@@ -90,7 +90,7 @@ Gratulacje! Udało Ci się pobrać prostokąty dla linii w obrazie OCR przy uży
 
 ### Czy mogę używać Aspose.OCR dla .NET z dowolnym typem obrazu?
 
-Tak, Aspose.OCR obsługuje różne formaty obrazów, co zapewnia elastyczność aplikacji OCR.
+Tak, Aspose.OCR obsługuje różne formaty obrazów, zapewniając elastyczność aplikacjom OCR.
 
 ### Jaki jest poziom dokładności rozpoznawania OCR?
 

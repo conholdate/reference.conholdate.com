@@ -9,7 +9,7 @@ url: /hu/net/tutorials/imaging/guide-to-basic-drawing/guide-to-drawing-rectangle
 ---
 ## Bevezetés
 
-A .NET-ben lévő képekkel való munka kihívást jelenthet, de az Aspose.Imaging for .NET jelentősen leegyszerűsíti a folyamatot. Ez az útmutató világos, lépésről lépésre bemutatja, hogyan rajzolhat téglalapokat egy képre ezzel a hatékony könyvtárral. Akár asztali, akár webes alkalmazásokat fejleszt, az Aspose.Imaging javíthatja képkezelési képességeit. Kezdjük is!
+.NET-ben lévő képekkel való munka kihívást jelenthet, de az Aspose.Imaging for .NET jelentősen leegyszerűsíti a folyamatot. Ez az útmutató világos, lépésről lépésre bemutatja, hogyan rajzolhat téglalapokat egy képre ezzel a hatékony könyvtárral. Akár asztali, akár webes alkalmazásokat fejleszt, az Aspose.Imaging javíthatja képkezelési képességeit. Kezdjük is!
 
 ## Előfeltételek
 
@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// Hozd létre a képet
+//Hozd létre a képet
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // Folytassa a rajzolással a képre
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## 4. lépés: Mentse el a képet
 
- A végső kép mentése egyszerű, amint az fent látható a`using` nyilatkozat hol`image.Save()`automatikusan meghívódik, amikor a`using` blokk végei.
+ A végső kép mentése egyszerű, amint az fent látható a`using` nyilatkozat hol`image.Save()` automatikusan meghívódik, amikor a`using` blokk végei.
 
 ## Következtetés
 

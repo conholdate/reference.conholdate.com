@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Inicializujte nový dokument PDF:
 
 ```csharp
-//Vytvořit instanci dokumentu
+// Vytvořit instanci dokumentu
 Document doc = new Document();
 ```
 
@@ -96,7 +96,7 @@ Aspose.Pdf.Drawing.Rectangle rect = new Aspose.Pdf.Drawing.Rectangle(100, 100, 2
 
 ## Krok 9: Zadejte barvu výplně
 
-Vyberte barvu pro svůj obdélník. Pro tento příklad použijeme červenou:
+Vyberte si barvu pro svůj obdélník. Pro tento příklad použijeme červenou:
 
 ```csharp
 // Určete barvu výplně pro objekt Graph

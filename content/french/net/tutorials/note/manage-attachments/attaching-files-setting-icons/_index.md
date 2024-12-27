@@ -35,7 +35,7 @@ Vous trouverez ci-dessous la mise en œuvre détaillée étape par étape.
 
 ## Étape 1 : Créer un nouveau document OneNote
 
- Initialisez un nouveau document OneNote à l'aide de l'`Document`classe.
+ Initialisez un nouveau document OneNote à l'aide de l'`Document` classe.
 
 ```csharp
 Document doc = new Document();

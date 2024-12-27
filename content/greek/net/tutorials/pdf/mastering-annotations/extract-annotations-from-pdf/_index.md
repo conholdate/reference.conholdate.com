@@ -82,7 +82,7 @@ foreach (MarkupAnnotation annotation in pdfDocument.Pages[1].Annotations)
 ## Συχνές ερωτήσεις
 
 ### Πώς μπορώ να εγκαταστήσω το Aspose.PDF για .NET;
- Μπορείτε να το εγκαταστήσετε μέσω του NuGet Package Manager στο Visual Studio ή να το κατεβάσετε απευθείας από το[Aspose ιστότοπο](https://releases.aspose.com/pdf/net/).
+ Μπορείτε να το εγκαταστήσετε μέσω του NuGet Package Manager στο Visual Studio ή να το κατεβάσετε απευθείας από το[Aspose website](https://releases.aspose.com/pdf/net/).
 
 ### Μπορώ να εξαγάγω σχολιασμούς από συγκεκριμένους τύπους αρχείων PDF;
 Ναι, το Aspose.PDF υποστηρίζει την εξαγωγή σχολιασμών από όλα τα τυπικά αρχεία PDF, ανεξάρτητα από την πολυπλοκότητά τους.

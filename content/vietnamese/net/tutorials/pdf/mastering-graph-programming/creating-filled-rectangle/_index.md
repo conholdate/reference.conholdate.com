@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Khởi tạo một tài liệu PDF mới:
 
 ```csharp
-//Tạo phiên bản Tài liệu
+// Tạo phiên bản Tài liệu
 Document doc = new Document();
 ```
 

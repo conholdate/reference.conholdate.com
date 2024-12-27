@@ -22,7 +22,7 @@ url: /zh/net/tutorials/html/mastering-html-extensions-and-conversions/
 此功能不仅可以节省您的时间，还可以为您提供可用于 Web 应用程序、营销材料甚至演示文稿的专业品质图像。有关详细的分步指南，请查看我们的教程[在 .NET 中使用 Aspose.HTML 将 HTML 转换为 GIF](./converting-html-to-gif/).
 
 ## 将 HTML 转换为 PDF
-现在，让我们讨论如何将 HTML 转换为 PDF。在文档需要易于呈现和共享的时代，PDF 必不可少。Aspose.HTML for .NET 使这种转换变得顺畅而高效。 
+现在，我们来谈谈如何将 HTML 转换为 PDF。在文档需要易于呈现和共享的时代，PDF 必不可少。Aspose.HTML for .NET 使这种转换变得顺畅而高效。 
 
 1. 加载您的 HTML 文档：就像 GIF 一样，首先将您的 HTML 文件加载到 Aspose.HTML 环境中。
 2. 设置 PDF 选项：您可以调整页面大小、边距和方向等设置，以确保您的 PDF 看起来正确。

@@ -65,7 +65,7 @@ Med dokumentet och certifikatet laddade är det dags att underteckna:
 DigitalSignatureUtil.Sign(dataDir + "Digitally signed.docx", dataDir + "Document.Signed.docx", certHolder);
 ```
 
-- `DigitalSignatureUtil.Sign`: Denna metod signerar dokumentet. Parametrarna är den ursprungliga dokumentsökvägen, den önskade sökvägen för det signerade dokumentet och certifikatinnehavaren.
+- `DigitalSignatureUtil.Sign`: Den här metoden signerar dokumentet. Parametrarna är den ursprungliga dokumentsökvägen, den önskade sökvägen för det signerade dokumentet och certifikatinnehavaren.
 
 ## Steg 5: Spara det signerade dokumentet
 

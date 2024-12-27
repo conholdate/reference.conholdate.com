@@ -9,7 +9,7 @@ url: /cs/net/tutorials/signature/master-document-signing/signing-pdf-with-metada
 ---
 ## Zavedení
 
-V tomto tutoriálu se naučíme, jak podepsat dokument PDF a přidat metadata pomocí GroupDocs.Signature for .NET. Přidáním metadat vylepšíte dokument poskytnutím základních informací, jako je autorství, datum vytvoření, ID dokumentu a další.
+tomto tutoriálu se naučíme, jak podepsat dokument PDF a přidat metadata pomocí GroupDocs.Signature for .NET. Přidáním metadat vylepšíte dokument poskytnutím základních informací, jako je autorství, datum vytvoření, ID dokumentu a další.
 
 ## Předpoklady
 
@@ -106,4 +106,4 @@ Absolutně! Můžete hromadně podepsat více dokumentů procházením seznamu s
 
 ### Je pro uživatele GroupDocs.Signature k dispozici technická podpora?
 
-Ano, GroupDocs poskytuje specializovanou technickou podporu prostřednictvím svých fór. Můžete vstoupit do fóra podpory[zde](https://forum.groupdocs.com/c/signature/13).
+ Ano, GroupDocs poskytuje specializovanou technickou podporu prostřednictvím svých fór. Můžete vstoupit do fóra podpory[zde](https://forum.groupdocs.com/c/signature/13).

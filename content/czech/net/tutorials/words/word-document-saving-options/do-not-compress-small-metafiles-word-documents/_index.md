@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Krok 3: Nakonfigurujte možnosti uložení
 
- Nyní nakonfigurujte možnosti ukládání tak, aby využívaly funkci „Nekomprimovat malé metasoubory“ s`DocSaveOptions`třída.
+ Nyní nakonfigurujte možnosti ukládání tak, aby využívaly funkci „Nekomprimovat malé metasoubory“ s`DocSaveOptions` třída.
 
 ```csharp
 // Nakonfigurujte možnosti ukládání pomocí funkce „Nekomprimovat malé metasoubory“.

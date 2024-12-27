@@ -17,7 +17,7 @@ Trước khi bắt đầu triển khai phân tích thư rác Bayesian, hãy đ�
 
 1. Visual Studio: Môi trường phát triển tích hợp (IDE) để viết và quản lý các dự án C# của bạn.
 2. .NET Framework hoặc .NET Core: Đảm bảo bạn đã cài đặt một trong hai nền tảng này vì chúng rất cần thiết để chạy các ứng dụng C#.
-3. Aspose.Email cho .NET: Thư viện mạnh mẽ này sẽ giúp bạn xử lý các hoạt động email. Bạn có thể tải xuống thư viện từ[đây](https://releases.aspose.com/email/net/) hoặc bắt đầu với bản dùng thử miễn phí từ[liên kết này](https://releases.aspose.com/).
+3.  Aspose.Email cho .NET: Thư viện mạnh mẽ này sẽ giúp bạn xử lý các hoạt động email. Bạn có thể tải xuống thư viện từ[đây](https://releases.aspose.com/email/net/) hoặc bắt đầu với bản dùng thử miễn phí từ[liên kết này](https://releases.aspose.com/).
 4. Kiến thức cơ bản về C#: Sự quen thuộc với ngôn ngữ lập trình C# sẽ giúp bạn thực hiện hướng dẫn này dễ dàng hơn.
 
 Khi đã có đủ những điều kiện tiên quyết này, bạn đã sẵn sàng để bắt tay vào viết mã!
@@ -44,7 +44,7 @@ Bây giờ, chúng ta hãy chia nhỏ quá trình thực hiện thành các bư�
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- Các`Load`phương pháp này lấy đường dẫn tệp của email bạn muốn phân tích. Tệp này phải ở định dạng EML. Nếu bạn không có, hãy thoải mái tạo một email đơn giản và lưu dưới dạng`email.eml`.
+ Các`Load` phương pháp này lấy đường dẫn tệp của email bạn muốn phân tích. Tệp này phải ở định dạng EML. Nếu bạn không có, hãy thoải mái tạo một email đơn giản và lưu dưới dạng`email.eml`.
 
 ## Bước 2: Tạo Trình phân tích thư rác
 
@@ -97,7 +97,7 @@ double spamProbability = spamAnalyzer.Test(message);
 bool isSpam = spamProbability > 0.5;
 ```
 
- Các`Test` phương pháp sẽ trả về giá trị xác suất cho biết khả năng email là thư rác. Nếu giá trị này lớn hơn 0,5, chúng tôi coi đó là thư rác.
+ Các`Test`phương pháp sẽ trả về giá trị xác suất cho biết khả năng email là thư rác. Nếu giá trị này lớn hơn 0,5, chúng tôi coi đó là thư rác.
 
 ## Bước 7: Hiển thị kết quả
 

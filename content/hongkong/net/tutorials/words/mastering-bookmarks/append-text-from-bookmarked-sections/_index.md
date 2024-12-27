@@ -1,6 +1,6 @@
 ---
-title: 附加 Word 文件中已加書籤的部分的文本
-linktitle: 附加 Word 文件中已加書籤的部分的文本
+title: 從 Word 文件中新增書籤的部分新增文本
+linktitle: 從 Word 文件中新增書籤的部分新增文本
 second_title: Aspose.Words 文件處理 API
 description: 了解如何使用 Aspose.Words for .NET 從 Word 文件的書籤部分無縫附加文字。這個逐步教程。
 type: docs
@@ -60,7 +60,7 @@ if (startPara == null || endPara == null)
     throw new InvalidOperationException("Bookmark start or end does not have a valid paragraph parent.");
 ```
 
-## 第 3 步：驗證段落父項
+## 第 3 步：驗證段落父級
 
 我們需要確保開始和結束段落共享相同的父節點。這是避免複雜化的簡化方法。
 

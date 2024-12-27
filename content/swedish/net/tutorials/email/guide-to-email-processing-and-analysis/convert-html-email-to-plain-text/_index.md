@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  Genom att komma åt`HtmlBody` egendom av`MailMessage` objekt lagras HTML-innehållet nu i en strängvariabel med namnet`htmlBody`.
 
-### Steg 3: Förbered dig på att konvertera HTML till vanlig text
+## Steg 3: Förbered dig på att konvertera HTML till vanlig text
 
 Nu när vi har vårt HTML-innehåll är det dags att ställa in scenen för konvertering. Vi kommer att använda oss av Aspose.Words för att förvandla vår rika HTML till vanlig text. Men först måste vi skapa ett nytt dokument:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Detta skapar en ny tom`Document`. Vi tar bort alla befintliga underordnade noder för att säkerställa att det finns ett rent blad innan vi börjar infoga vårt HTML-innehåll.
 
-### Steg 4: Infoga HTML-innehåll
+## Steg 4: Infoga HTML-innehåll
 
  Det är här omvandlingens magi sker! Vi kommer att använda`DocumentBuilder` klass från Aspose.Words för att infoga vårt HTML-innehåll i dokumentet. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Här,`DocumentBuilder().InsertHtml(htmlBody)` tar vår HTML-sträng och läser in den i en ny dokumentstruktur inuti`Document` objekt. Använder`ImportFormatMode.KeepSourceFormatting` säkerställer att formateringen förblir intakt under denna operation.
 
-### Steg 5: Spara vanlig textfil
+## Steg 5: Spara vanlig textfil
 
 Äntligen är det dags att spara vår nyskapade vanlig textfil. Så här gör du:
 
@@ -97,7 +97,7 @@ Grattis! Du har precis lärt dig hur man konverterar en HTML-text från ett e-po
 
 ## FAQ's
 
-### Vad används C# till i denna handledning?  
+### Vad används C# till i den här handledningen?  
 C# är det programmeringsspråk vi använder för att exekvera logiken som krävs för att konvertera HTML till vanlig text.
 
 ### Behöver jag en licens för att använda Aspose-produkter?  

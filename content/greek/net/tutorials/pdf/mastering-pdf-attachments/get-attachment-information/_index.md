@@ -118,7 +118,7 @@ if (fileSpecification.Params != null)
 Το Aspose.PDF για .NET είναι μια βιβλιοθήκη που επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται και να μετατρέπουν έγγραφα PDF μέσω προγραμματισμού.
 
 ### Πώς μπορώ να εγκαταστήσω το Aspose.PDF για .NET;
- Μπορείτε να το εγκαταστήσετε μέσω του NuGet Package Manager στο Visual Studio ή να το κατεβάσετε από το[Aspose ιστότοπο](https://releases.aspose.com/pdf/net/).
+ Μπορείτε να το εγκαταστήσετε μέσω του NuGet Package Manager στο Visual Studio ή να το κατεβάσετε από το[Aspose website](https://releases.aspose.com/pdf/net/).
 
 ### Είναι το Aspose.PDF δωρεάν για χρήση;
  Το Aspose προσφέρει μια δωρεάν δοκιμαστική έκδοση για αξιολόγηση. Μπορείτε να το βρείτε[εδώ](https://releases.aspose.com/).

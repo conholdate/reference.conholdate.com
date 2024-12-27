@@ -141,9 +141,9 @@ Poniżej znajdują się linki do przydatnych zasobów, które mogą Ci się przy
 
 **Welcome to the Aspose.OCR for Java**
 
-Aspose.OCR for Java to API optycznego znaku, które pozwala programistom dodawać funkcjonalność OCR do swoich aplikacji Java bez konieczności korzystania z dodatkowych narzędzi lub API. Aspose.OCR for Java umożliwia wyodrębnianie tekstu z obrazów o różnych czcionkach i stylach — oszczędzając czas i wysiłek związany z opracowywaniem rozwiązania OCR od podstaw.
+Aspose.OCR for Java to API optycznego znaku, które pozwala programistom dodawać funkcjonalność OCR do swoich aplikacji Java bez konieczności używania dodatkowych narzędzi lub API. Aspose.OCR for Java umożliwia wyodrębnianie tekstu z obrazów o różnych czcionkach i stylach — oszczędzając czas i wysiłek związany z opracowywaniem rozwiązania OCR od podstaw.
 
-Aspose.OCR for Java zawiera w pełni funkcjonalne dema i działające przykłady napisane w Javie. Dema pomagają programistom poznać funkcje komponentu i szybko rozpocząć pracę. Korzystając z Aspose.OCR for Java, programiści mogą wyodrębnić tekst i powiązane informacje, takie jak czcionka, styl i lokalizacja tekstu z określonych części obrazu. Ta funkcja umożliwia szybkie wykonanie operacji OCR na skanach dokumentów, które mają podobną strukturę.
+Aspose.OCR dla Javy zawiera w pełni funkcjonalne dema i działające przykłady napisane w Javie. Dema pomagają programistom poznać funkcje komponentu i szybko rozpocząć pracę. Korzystając z Aspose.OCR dla Javy, programiści mogą wyodrębnić tekst i powiązane informacje, takie jak czcionka, styl i lokalizacja tekstu z określonych części obrazu. Ta funkcja umożliwia szybkie wykonanie operacji OCR na skanach dokumentów, które mają podobną strukturę.
 
 {{% /alert %}}
 

@@ -79,7 +79,7 @@ C1: Kesinlikle! Aspose.PSD çeşitli görüntü formatlarını destekleyerek pro
 
 ### Deneme sürümü mevcut mu?
 
- A2: Evet, ücretsiz denemeyi indirebilirsiniz[Burada](https://releases.aspose.com/).
+A2: Evet, ücretsiz denemeyi indirebilirsiniz[Burada](https://releases.aspose.com/).
 
 ### Aspose.PSD for .NET desteğini nerede bulabilirim?
 

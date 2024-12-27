@@ -55,7 +55,7 @@ Ensuite, nous ajouterons une page vierge au document PDF, où nous appliquerons 
 ```csharp
 // Ajouter une nouvelle page au document PDF
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Utiliser les mêmes paramètres que le document
+pdfPage.PageInfo = pdfDoc.PageInfo; // Utiliser les mêmes paramètres que le document
 ```
 
 ## Étape 3 : Créer une boîte flottante
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Utiliser les mêmes paramètres que le doc
 Une FloatingBox vous permet de positionner le contenu indépendamment du flux de la page, vous donnant ainsi un meilleur contrôle sur votre mise en page.
 
 ```csharp
-// Créer une FloatingBox pour le contenu structuré
+//Créer une FloatingBox pour le contenu structuré
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

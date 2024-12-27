@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// छवि बनाएं
+//छवि बनाएं
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // चित्र पर चित्र बनाना शुरू करें
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## चरण 4: छवि सहेजें
 
- अंतिम छवि को सहेजना सरल है, जैसा कि ऊपर दिखाया गया है`using` बयान जहां`image.Save()`स्वचालित रूप से बुलाया जाता है जब`using` ब्लॉक समाप्त होता है.
+ अंतिम छवि को सहेजना सरल है, जैसा कि ऊपर दिखाया गया है`using` बयान जहां`image.Save()` स्वचालित रूप से बुलाया जाता है जब`using` ब्लॉक समाप्त होता है.
 
 ## निष्कर्ष
 

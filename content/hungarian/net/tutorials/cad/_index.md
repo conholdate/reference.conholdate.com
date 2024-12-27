@@ -12,4 +12,4 @@ is_root: true
 ### [Útmutató a CAD szolgáltatásokhoz és támogatáshoz](./guide-to-cad-features-and-support/)
 Fedezze fel átfogó útmutatónkat az Aspose.CAD for .NET oktatóanyagairól, amely tökéletes azoknak a fejlesztőknek, akik szoftverüket CAD-funkciókkal kívánják bővíteni.
 ### [Útmutató a CAD-fájlok formátumának exportálásához](./guide-to-exporting-cad-format/)
-Fedezze fel az Aspose.CAD for .NET oktatóanyagokat. Sajátítsa el a CAD fájlok exportálását, a CAD raszterképekké konvertálását, és a DGN-t PDF formátumba alakításában.
+Fedezze fel az Aspose.CAD for .NET oktatóanyagokat. Sajátítsa el a CAD fájlok exportálását, a CAD raszterképekké konvertálását és a DGN-t PDF formátumba történő átalakításában.

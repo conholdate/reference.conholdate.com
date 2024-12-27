@@ -54,7 +54,7 @@ Bontsuk le a helyi hiperhivatkozások létrehozásának folyamatát egyszerű l�
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Állítsa be a dokumentumkönyvtárat
-Document doc = new Document(); //Dokumentumpéldány létrehozása
+Document doc = new Document(); // Dokumentumpéldány létrehozása
 ```
 
  Cserélje ki`"YOUR_DOCUMENT_DIRECTORY"` a rendszer tényleges elérési útjával, ahová a PDF mentésre kerül.

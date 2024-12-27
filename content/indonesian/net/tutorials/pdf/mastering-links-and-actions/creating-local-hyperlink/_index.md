@@ -54,7 +54,7 @@ Mari kita uraikan proses pembuatan hyperlink lokal ke dalam langkah-langkah sede
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Atur direktori dokumen Anda
-Document doc = new Document(); //Buat contoh Dokumen
+Document doc = new Document(); // Buat contoh Dokumen
 ```
 
  Mengganti`"YOUR_DOCUMENT_DIRECTORY"` dengan jalur sebenarnya pada sistem Anda tempat PDF akan disimpan.

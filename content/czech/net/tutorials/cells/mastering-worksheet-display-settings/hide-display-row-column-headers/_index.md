@@ -46,7 +46,7 @@ Po položení základů se vrhněme na kód!
 
 ## Krok 1: Zadejte adresář dokumentů
 
-Nejprve zadejte cestu k adresáři dokumentů. To je klíčové pro správné načítání a ukládání souborů aplikace Excel.
+Nejprve zadejte cestu k adresáři dokumentů. To je zásadní pro správné načítání a ukládání souborů aplikace Excel.
 
 ```csharp
 string dataDir = "Your Document Directory";

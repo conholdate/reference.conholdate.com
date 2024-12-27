@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Zeichnen Sie als Nächstes eine zweite Linie von der oberen linken Ecke zur unteren rechten Ecke:
 
 ```csharp
-//Zeichnen Sie eine Linie von der oberen linken zur unteren rechten Ecke
+// Zeichnen Sie eine Linie von der oberen linken zur unteren rechten Ecke
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Fügen Sie dem Graph-Objekt die zweite Linie hinzu
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## Schritt 6: Fügen Sie das Diagramm zur Seite hinzu
 
- Wenn beide Linien gezeichnet sind, fügen Sie die`Graph` Einspruch gegen die Seite erheben:
+ Wenn beide Linien gezeichnet sind, fügen Sie die`Graph`Einspruch gegen die Seite erheben:
 
 ```csharp
 // Fügen Sie das Graph-Objekt zur Absatzsammlung der Seite hinzu
@@ -122,7 +122,7 @@ Mit diesen einfachen Schritten können Sie mit Aspose.PDF für .NET ganz einfach
  Sie können die`StrokeColor` Und`LineWidth` Eigenschaften der`Line` Objekt, um sein Erscheinungsbild anzupassen.
 
 ### Kann ich Linien in bestimmten Bereichen der Seite positionieren?
-Absolut! Ändern Sie die Koordinaten des`Line` Objekt, um es dort zu platzieren, wo Sie es brauchen.
+ Absolut! Ändern Sie die Koordinaten des`Line` Objekt, um es dort zu platzieren, wo Sie es brauchen.
 
 ### Ist es möglich, den Zeilen Text hinzuzufügen?
  Ja, Sie können erstellen`TextFragment` -Objekte und fügen Sie sie der Absatzsammlung der Seite hinzu.

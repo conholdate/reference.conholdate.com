@@ -99,7 +99,7 @@ Non, Aspose.Words pour .NET ne conserve pas les signatures numériques lors de l
 
 ### Où puis-je trouver plus de documentation sur Aspose.Words pour .NET ?
 
- Une documentation complète est disponible sur le site[Page de documentation d'Aspose](https://reference.aspose.com/words/net/).
+ Une documentation complète est disponible sur le[Page de documentation d'Aspose](https://reference.aspose.com/words/net/).
 
 ### Comment puis-je obtenir de l'aide pour Aspose.Words pour .NET ?
 

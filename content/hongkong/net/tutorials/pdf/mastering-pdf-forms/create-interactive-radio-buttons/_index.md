@@ -123,7 +123,7 @@ Aspose.PDF for .NET 是一個強大的程式庫，可讓開發人員以程式設
 如需支持，請訪問[Aspose論壇](https://forum.aspose.com/c/pdf/10).
 
 ### 我可以使用 Aspose.PDF 建立其他表單欄位嗎？
-是的！ Aspose.PDF支援各種表單字段，包括文字字段、複選框和下拉列表。
+是的！ Aspose.PDF 支援各種表單字段，包括文字字段、複選框和下拉列表。
 
 ### 哪裡可以購買 Aspose.PDF for .NET？
 您可以購買 Aspose.PDF 的許可證[這裡](https://purchase.aspose.com/buy).

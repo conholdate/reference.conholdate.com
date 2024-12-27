@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Rita sedan en andra linje från det övre vänstra hörnet till det nedre högra hörnet:
 
 ```csharp
-//Skapa en linje från det övre vänstra till det nedre högra hörnet
+// Skapa en linje från det övre vänstra till det nedre högra hörnet
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Lägg till den andra raden i Graph-objektet
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## Steg 6: Lägg till grafen på sidan
 
- Med båda linjerna ritade, lägg till`Graph` invända mot sidan:
+ Med båda linjerna ritade, lägg till`Graph`invända mot sidan:
 
 ```csharp
 // Lägg till Graph-objektet till sidans styckesamling
@@ -122,7 +122,7 @@ Med dessa enkla steg kan du enkelt rita linjer i ett PDF-dokument med Aspose.PDF
  Du kan justera`StrokeColor` och`LineWidth` egenskaper hos`Line` objekt för att anpassa dess utseende.
 
 ### Kan jag placera linjer i specifika områden på sidan?
-Absolut! Ändra koordinaterna för`Line` objekt för att placera den var du än behöver.
+ Absolut! Ändra koordinaterna för`Line` objekt för att placera den var du än behöver.
 
 ### Är det möjligt att lägga till text tillsammans med raderna?
  Ja, du kan skapa`TextFragment` objekt och lägg till dem i sidans styckesamling.

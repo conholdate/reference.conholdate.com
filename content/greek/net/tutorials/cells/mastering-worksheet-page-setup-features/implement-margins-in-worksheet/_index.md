@@ -16,7 +16,7 @@ url: /el/net/tutorials/cells/mastering-worksheet-page-setup-features/implement-m
 Πριν βουτήξουμε, βεβαιωθείτε ότι έχετε έτοιμα τα εξής:
 
 1. .NET Environment: Ρυθμίστε ένα περιβάλλον ανάπτυξης, όπως το Visual Studio, που υποστηρίζει .NET.
-2.  Aspose.Cells Library: Κάντε λήψη της βιβλιοθήκης Aspose.Cells για .NET από το[Aspose ιστότοπο](https://releases.aspose.com/cells/net/).
+2.  Aspose.Cells Library: Κάντε λήψη της βιβλιοθήκης Aspose.Cells για .NET από το[Aspose website](https://releases.aspose.com/cells/net/).
 3. Βασικές γνώσεις C#: Η εξοικείωση με την C# και τον αντικειμενοστραφή προγραμματισμό θα είναι χρήσιμη.
 4. Πρόσβαση σε έναν κατάλογο εγγράφων: Δημιουργήστε έναν κατάλογο στο σύστημά σας όπου μπορείτε να αποθηκεύσετε τα αρχεία Excel.
 

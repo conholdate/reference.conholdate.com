@@ -55,7 +55,7 @@ Dále do dokumentu PDF přidáme prázdnou stránku, kde později použijeme sty
 ```csharp
 // Přidejte do dokumentu PDF novou stránku
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Použijte stejná nastavení jako v dokumentu
+pdfPage.PageInfo = pdfDoc.PageInfo; // Použijte stejná nastavení jako v dokumentu
 ```
 
 ## Krok 3: Vytvoření plovoucího boxu
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Použijte stejná nastavení jako v dokume
 FloatingBox vám umožňuje umístit obsah nezávisle na toku stránky, což vám dává větší kontrolu nad rozložením.
 
 ```csharp
-// Vytvořte FloatingBox pro strukturovaný obsah
+//Vytvořte FloatingBox pro strukturovaný obsah
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

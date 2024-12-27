@@ -27,4 +27,4 @@ Dále si proberme další praktický tutoriál: převod vašich prezentací Powe
 ### [Převod HTML s vloženými obrázky pomocí Aspose.Slides](./converting-html-with-embedded-images/)
 Naučte se, jak plynule převádět PowerPointové prezentace do HTML s vloženými obrázky pomocí Aspose.Slides for .NET. Podrobný průvodce pro bezproblémovou konverzi.
 ### [Převod poznámek Slide View do PDF pomocí Aspose.Slides pro .NET](./converting-notes-slide-view-to-pdf/)
-Naučte se, jak bez námahy převádět PowerPointové prezentace pomocí Notes Slide View do formátu PDF pomocí Aspose.Slides for .NET. Tato příručka obsahuje podrobné pokyny.
+Naučte se, jak bez námahy převést PowerPointové prezentace pomocí Notes Slide View do formátu PDF pomocí Aspose.Slides for .NET. Tato příručka obsahuje podrobné pokyny.

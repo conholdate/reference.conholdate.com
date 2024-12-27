@@ -55,7 +55,7 @@ string dataDir = "Your Document Directory Path";
 
  Yer değiştirmek`"Your Document Directory Path"` dosyanızın gerçek yolunu belirtin.
 
-## Adım 2: Excel Çalışma Kitabını Yükleyin
+## Adım 2: Excel Çalışma Kitabını yükleyin
 
 Şimdi dönüştürmek istediğiniz grafikleri içeren Excel dosyasını yükleyin.
 

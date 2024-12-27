@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Etapa 3: Configurar opções de salvamento
 
- Agora, configure as opções de salvamento para utilizar o recurso "Não compactar metarquivos pequenos" com o`DocSaveOptions`aula.
+ Agora, configure as opções de salvamento para utilizar o recurso "Não compactar metarquivos pequenos" com o`DocSaveOptions` aula.
 
 ```csharp
 // Configurar opções de salvamento com o recurso "Não compactar metarquivos pequenos"

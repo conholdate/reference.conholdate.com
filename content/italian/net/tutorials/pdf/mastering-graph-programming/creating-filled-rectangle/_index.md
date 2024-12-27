@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Inizializza un nuovo documento PDF:
 
 ```csharp
-//Crea istanza del documento
+// Crea istanza del documento
 Document doc = new Document();
 ```
 

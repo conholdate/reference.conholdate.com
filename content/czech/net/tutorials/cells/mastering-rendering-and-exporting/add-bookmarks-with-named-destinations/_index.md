@@ -128,7 +128,7 @@ To vytváří stromovou strukturu, kde každá záložka může mít více podz�
 
 ### Nastavení možností uložení PDF
 
- Před uložením dokumentu jako PDF musíme určit možnosti uložení a zajistit, aby byly zahrnuty záložky. budeme používat`PdfSaveOptions` pro tento účel.
+ Před uložením dokumentu jako PDF musíme určit možnosti uložení a zajistit, aby byly zahrnuty záložky. Budeme používat`PdfSaveOptions` pro tento účel.
 
 ```csharp
 PdfSaveOptions opts = new PdfSaveOptions();

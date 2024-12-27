@@ -9,7 +9,7 @@ url: /hu/net/tutorials/html/mastering-html-extensions-and-conversions/converting
 ---
 ## Bevezetés
 
-A webfejlesztés felgyorsult világában a HTML-tartalom különféle formátumokba – különösen PDF – formátumokba konvertálása kulcsfontosságú készség. Az Aspose.HTML for .NET felvértezi a fejlesztőket a zökkenőmentes HTML-ből PDF-be konvertálásához szükséges eszközökkel. Ez az átfogó útmutató végigvezeti Önt a teljes folyamaton, az előfeltételektől a lépésenkénti oktatóanyagig. Merüljünk el!
+webfejlesztés felgyorsult világában a HTML-tartalom különféle formátumokba – különösen PDF – formátumokba konvertálása kulcsfontosságú készség. Az Aspose.HTML for .NET felvértezi a fejlesztőket a zökkenőmentes HTML-ből PDF-be konvertálásához szükséges eszközökkel. Ez az átfogó útmutató végigvezeti Önt a teljes folyamaton, az előfeltételektől a lépésenkénti oktatóanyagig. Merüljünk el!
 
 ## Előfeltételek
 
@@ -24,7 +24,7 @@ Győződjön meg arról, hogy a Visual Studio vagy bármely előnyben részesít
 ### 3. C# és .NET alapismeretek
 A C# és a .NET alapvető ismerete segít hatékonyan követni ezt az oktatóanyagot.
 
-## névtér importálása
+## A névtér importálása
 
 Az Aspose.HTML szolgáltatásainak használatához importálnia kell a megfelelő névteret a projektbe.
 

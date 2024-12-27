@@ -55,7 +55,7 @@ pdfDoc.PageInfo.Margin = new Aspose.Pdf.MarginInfo(72, 72, 72, 72); // ระย
 ```csharp
 // เพิ่มหน้าใหม่ลงในเอกสาร PDF
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //ใช้การตั้งค่าเดียวกันกับเอกสาร
+pdfPage.PageInfo = pdfDoc.PageInfo; // ใช้การตั้งค่าเดียวกันกับเอกสาร
 ```
 
 ## ขั้นตอนที่ 3: การสร้างกล่องลอย
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //ใช้การตั้งค่าเ
 FloatingBox ช่วยให้คุณวางตำแหน่งเนื้อหาโดยอิสระจากการไหลของหน้า ทำให้คุณควบคุมเค้าโครงของคุณได้ดีขึ้น
 
 ```csharp
-// สร้าง FloatingBox สำหรับเนื้อหาที่มีโครงสร้าง
+//สร้าง FloatingBox สำหรับเนื้อหาที่มีโครงสร้าง
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

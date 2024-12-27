@@ -43,7 +43,7 @@ string dataDir = "Your Document Directory";
 Workbook excel = new Workbook();
 ```
 
- Hier, een`Workbook` object vertegenwoordigt uw Excel-bestand. De`PageSetup` Met de eigenschap 'Koptekst' van het werkblad kunt u de kop- en voetteksten aanpassen.
+ Hier, een`Workbook` object vertegenwoordigt uw Excel-bestand. De`PageSetup` Met de eigenschap 'Koptekst' van het werkblad kunt u kopteksten en voetteksten aanpassen.
 
 ## Stap 2: Toegang tot de eigenschappen van het werkblad en de pagina-instelling
 

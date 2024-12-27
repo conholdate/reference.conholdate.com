@@ -17,7 +17,7 @@ Voordat u begint met het implementeren van Bayesiaanse spamanalyse, moet u ervoo
 
 1. Visual Studio: de geïntegreerde ontwikkelomgeving (IDE) voor het schrijven en beheren van uw C#-projecten.
 2. .NET Framework of .NET Core: Zorg ervoor dat u een van deze twee hebt geïnstalleerd, omdat ze essentieel zijn voor het uitvoeren van C#-toepassingen.
-3. Aspose.Email voor .NET: Deze krachtige bibliotheek helpt u bij het verwerken van e-mailbewerkingen. U kunt de bibliotheek downloaden van[hier](https://releases.aspose.com/email/net/) of begin met een gratis proefperiode van[deze link](https://releases.aspose.com/).
+3.  Aspose.Email voor .NET: Deze krachtige bibliotheek helpt u bij het verwerken van e-mailbewerkingen. U kunt de bibliotheek downloaden van[hier](https://releases.aspose.com/email/net/) of begin met een gratis proefperiode van[deze link](https://releases.aspose.com/).
 4. Basiskennis van C#: Als u bekend bent met de programmeertaal C#, kunt u deze tutorial gemakkelijker volgen.
 
 Zodra je aan deze vereisten voldoet, kun je aan de slag met coderen!
@@ -44,7 +44,7 @@ Laten we de implementatie nu opsplitsen in duidelijke stappen, zodat u ze gemakk
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- De`Load`methode neemt het bestandspad van de e-mail die u wilt analyseren. Dit bestand moet in EML-formaat zijn. Als u er geen hebt, kunt u gerust een eenvoudige e-mail maken en deze opslaan als`email.eml`.
+ De`Load` methode neemt het bestandspad van de e-mail die u wilt analyseren. Dit bestand moet in EML-formaat zijn. Als u er geen hebt, kunt u gerust een eenvoudige e-mail maken en deze opslaan als`email.eml`.
 
 ## Stap 2: Maak een spam-analysator
 
@@ -80,7 +80,7 @@ spamAnalyzer.SaveDatabase(spamFilterDatabase);
 
 ## Stap 5: Laad de database
 
-Voordat u een e-mailbericht analyseert, moet u de getrainde spamfilterdatabase laden.
+Voordat u een e-mailbericht analyseert, moet u de database van het getrainde spamfilter laden.
 
 ```csharp
 spamAnalyzer.LoadDatabase(spamFilterDatabase);
@@ -97,7 +97,7 @@ double spamProbability = spamAnalyzer.Test(message);
 bool isSpam = spamProbability > 0.5;
 ```
 
- De`Test` methode retourneert een waarschijnlijkheidswaarde die aangeeft hoe waarschijnlijk het is dat de e-mail spam is. Als deze waarde groter is dan 0,5, beschouwen we het als spam.
+ De`Test`methode retourneert een waarschijnlijkheidswaarde die aangeeft hoe waarschijnlijk het is dat de e-mail spam is. Als deze waarde groter is dan 0,5, beschouwen we het als spam.
 
 ## Stap 7: Toon het resultaat
 

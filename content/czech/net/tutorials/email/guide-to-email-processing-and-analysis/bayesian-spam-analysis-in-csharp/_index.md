@@ -9,7 +9,7 @@ url: /cs/net/tutorials/email/guide-to-email-processing-and-analysis/bayesian-spa
 ---
 ## Zavedení
 
-digitálním věku, kdy jsou naše schránky zaplaveny zprávami, může být rozlišování mezi skutečnými e-maily a spamem jako hledání jehly v kupce sena. Zde vstupuje do hry Bayesovská analýza spamu – metoda, která využívá pravděpodobnost a strojové učení k efektivní klasifikaci e-mailů. Tento tutoriál vás provede procesem implementace Bayesovské analýzy spamu pomocí knihovny Aspose.Email for .NET. Prozkoumáme předpoklady, ponoříme se do potřebných balíčků a rozložíme kód do jednoduchých, stravitelných kroků. Jste připraveni změnit své dovednosti v oblasti zpracování e-mailů? Pojďme rovnou do toho!
+V digitálním věku, kdy jsou naše schránky zaplaveny zprávami, může být rozlišování mezi skutečnými e-maily a spamem jako hledání jehly v kupce sena. Zde vstupuje do hry Bayesovská analýza spamu – metoda, která využívá pravděpodobnost a strojové učení k efektivní klasifikaci e-mailů. Tento tutoriál vás provede procesem implementace Bayesovské analýzy spamu pomocí knihovny Aspose.Email for .NET. Prozkoumáme předpoklady, ponoříme se do potřebných balíčků a rozložíme kód do jednoduchých, stravitelných kroků. Jste připraveni změnit své dovednosti v oblasti zpracování e-mailů? Pojďme rovnou do toho!
 
 ## Předpoklady
 
@@ -17,7 +17,7 @@ Než začnete s implementací Bayesovské analýzy spamu, ujistěte se, že mát
 
 1. Visual Studio: Integrované vývojové prostředí (IDE) pro psaní a správu vašich projektů v C#.
 2. .NET Framework nebo .NET Core: Ujistěte se, že máte nainstalované kterékoli z nich, protože jsou nezbytné pro spouštění aplikací C#.
-3. Aspose.Email pro .NET: Tato výkonná knihovna vám pomůže zvládnout e-mailové operace. Knihovnu si můžete stáhnout z[zde](https://releases.aspose.com/email/net/) nebo začněte s bezplatnou zkušební verzí od[tento odkaz](https://releases.aspose.com/).
+3.  Aspose.Email pro .NET: Tato výkonná knihovna vám pomůže zvládnout e-mailové operace. Knihovnu si můžete stáhnout z[zde](https://releases.aspose.com/email/net/) nebo začněte s bezplatnou zkušební verzí od[tento odkaz](https://releases.aspose.com/).
 4. Základní znalost C#: Znalost programovacího jazyka C# usnadní sledování tohoto návodu.
 
 Jakmile budete mít tyto předpoklady, můžete se ponořit do kódu!
@@ -44,7 +44,7 @@ Nyní rozdělme implementaci do jasných kroků, abyste zajistili, že ji budete
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- The`Load`metoda přebírá cestu k souboru e-mailu, který chcete analyzovat. Tento soubor by měl být ve formátu EML. Pokud žádný nemáte, vytvořte si jednoduchý e-mail a uložte jej jako`email.eml`.
+ The`Load` metoda přebírá cestu k souboru e-mailu, který chcete analyzovat. Tento soubor by měl být ve formátu EML. Pokud žádný nemáte, vytvořte si jednoduchý e-mail a uložte jej jako`email.eml`.
 
 ## Krok 2: Vytvořte analyzátor spamu
 
@@ -66,7 +66,7 @@ spamAnalyzer.TrainFilter(MailMessage.Load("spam1.eml"), true);
 spamAnalyzer.TrainFilter(MailMessage.Load("ham1.eml"), false);
 ```
 
-V tomto kroku načteme spamový e-mail (`spam1.eml`) a legitimní (`ham1.eml`). Booleovská hodnota označuje, zda je e-mail spam. Ujistěte se, že máte tyto dva e-maily k dispozici pro školení.
+tomto kroku načteme spamový e-mail (`spam1.eml`) a legitimní (`ham1.eml`). Booleovská hodnota označuje, zda je e-mail spam. Ujistěte se, že máte tyto dva e-maily k dispozici pro školení.
 
 ## Krok 4: Uložte databázi
 
@@ -97,7 +97,7 @@ double spamProbability = spamAnalyzer.Test(message);
 bool isSpam = spamProbability > 0.5;
 ```
 
- The`Test` metoda vrátí hodnotu pravděpodobnosti ukazující, s jakou pravděpodobností je e-mail spam. Pokud je tato hodnota větší než 0,5, považujeme to za spam.
+ The`Test`metoda vrátí hodnotu pravděpodobnosti ukazující, s jakou pravděpodobností je e-mail spam. Pokud je tato hodnota větší než 0,5, považujeme to za spam.
 
 ## Krok 7: Zobrazte výsledek
 

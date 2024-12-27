@@ -12,7 +12,7 @@ url: /cs/net/tutorials/cad/guide-to-exporting-cad-format/
 Prozkoumejte dokonalý zdroj pro výukové programy Aspose.CAD for .NET! V této příručce vám představíme dvě základní techniky: převod souborů CAD na rastrové obrázky a převod souborů DGN na soubory PDF. Aspose.CAD for .NET je vaše knihovna pro bezproblémovou manipulaci se soubory CAD a my jsme tu, abychom vás těmito procesy krok za krokem provedli. Pojďme se ponořit!
 
 ## Export CAD na konverzi rastrových obrázků pomocí Aspose.CAD pro .NET  
-Chcete přeměnit rozvržení CAD na úžasné rastrové obrázky? Představte si toto: máte složitý návrh CAD, ale váš klient chce jednoduchý náhled JPEG. Aspose.CAD pro .NET dělá tento úkol hračkou. Díky jeho výkonnému API můžete exportovat CAD soubory jako DWG nebo DXF do formátů jako JPEG, PNG a BMP.  
+Chcete přeměnit rozvržení CAD na úžasné rastrové obrázky? Představte si toto: máte složitý návrh CAD, ale váš klient chce jednoduchý náhled JPEG. Aspose.CAD pro .NET dělá tento úkol hračkou. S jeho výkonným API můžete exportovat CAD soubory jako DWG nebo DXF do formátů jako JPEG, PNG a BMP.  
 
 Zde je postup: načtěte soubor CAD, nakonfigurujte možnosti rasterizace a určete výstupní formát. Voila! Vaše mistrovské dílo CAD je nyní ostrý a vysoce kvalitní obraz připravený ke sdílení. Nejlepší část? Je to rychlé a snadné implementovat.  
 

@@ -20,7 +20,7 @@ GroupDocs.Signature для .NET — это мощная библиотека, к
 
 ## Импорт необходимых пространств имен
 
-В коде C# импортируйте следующие пространства имен:
+В вашем коде C# импортируйте следующие пространства имен:
 
 ```csharp
 using System;
@@ -49,7 +49,7 @@ using (Signature signature = new Signature(filePath))
     ushort imgsMetadataId = 41996; // Начальный идентификатор для метаданных
     MetadataSignOptions options = new MetadataSignOptions();
 
-    //Добавляйте различные типы подписей метаданных
+    // Добавляйте различные типы подписей метаданных
     options
         .Add(new ImageMetadataSignature(imgsMetadataId++, "Mr. Sherlock Holmes")) // Строковое значение
         .Add(new ImageMetadataSignature(imgsMetadataId++, DateTime.Now))          // Значение DateTime

@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Шаг 5: Инициализируйте прикрепленный файл
 
- Укажите путь к файлу, который вы хотите прикрепить, используя`AttachedFile`сорт.
+ Укажите путь к файлу, который вы хотите прикрепить, используя`AttachedFile` сорт.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

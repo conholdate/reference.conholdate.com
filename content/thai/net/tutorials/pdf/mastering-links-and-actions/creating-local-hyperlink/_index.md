@@ -54,7 +54,7 @@ using Aspose.Pdf.Text;
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // ตั้งค่าไดเรกทอรีเอกสารของคุณ
-Document doc = new Document(); //สร้างอินสแตนซ์เอกสาร
+Document doc = new Document(); // สร้างอินสแตนซ์เอกสาร
 ```
 
  แทนที่`"YOUR_DOCUMENT_DIRECTORY"` ด้วยเส้นทางจริงบนระบบของคุณที่จะบันทึก PDF

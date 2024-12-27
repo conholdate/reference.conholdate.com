@@ -90,5 +90,5 @@ doc.Save(dataDir + "ConvertedImage.Format1BppIndexed.Png", saveOptions);
 ### Word 문서를 어떤 다른 이미지 형식으로 변환할 수 있나요?
  Aspose.Words는 JPEG, BMP, TIFF를 포함한 다양한 형식을 지원합니다.`SaveFormat` 에서`ImageSaveOptions`원하는 형식으로.
 
-### Aspose.Words for .NET에 대한 추가 문서는 어디에서 찾을 수 있나요?
+### .NET용 Aspose.Words에 대한 추가 문서는 어디에서 찾을 수 있나요?
  포괄적인 문서는 다음을 방문하세요.[.NET 설명서 페이지용 Aspose.Words](https://reference.aspose.com/words/net/).

@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 다음으로, 왼쪽 상단 모서리에서 오른쪽 하단 모서리까지 두 번째 선을 그립니다.
 
 ```csharp
-//좌측 상단에서 우측 하단 모서리까지 선을 만듭니다.
+// 좌측 상단에서 우측 하단 모서리까지 선을 만듭니다.
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Graph 객체에 두 번째 줄을 추가합니다.
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## 6단계: 페이지에 그래프 추가
 
- 두 선을 모두 그린 후 다음을 추가합니다.`Graph` 페이지에 대한 반대:
+ 두 선을 모두 그린 후 다음을 추가합니다.`Graph`페이지에 대한 반대:
 
 ```csharp
 // 페이지의 문단 컬렉션에 Graph 객체를 추가합니다.
@@ -122,7 +122,7 @@ Console.WriteLine($"\nLines drawn successfully. File saved at: {dataDir}");
  조정할 수 있습니다`StrokeColor` 그리고`LineWidth` 의 속성`Line` 객체의 모양을 사용자 정의할 수 있습니다.
 
 ### 페이지의 특정 영역에 줄을 배치할 수 있나요?
-물론입니다! 좌표를 수정하세요.`Line` 원하는 곳에 두는 것이 좋습니다.
+ 물론입니다! 좌표를 수정하세요.`Line` 원하는 곳에 두는 것이 좋습니다.
 
 ### 줄과 함께 텍스트를 추가할 수 있나요?
  네, 만들 수 있습니다`TextFragment` 객체를 추가하여 페이지의 문단 컬렉션에 추가합니다.

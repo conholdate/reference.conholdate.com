@@ -35,7 +35,7 @@ using System.Drawing.Imaging;
 
 ## 1단계: 새 OneNote 문서 만들기
 
- 다음을 사용하여 새 OneNote 문서를 초기화합니다.`Document`수업.
+ 다음을 사용하여 새 OneNote 문서를 초기화합니다.`Document` 수업.
 
 ```csharp
 Document doc = new Document();

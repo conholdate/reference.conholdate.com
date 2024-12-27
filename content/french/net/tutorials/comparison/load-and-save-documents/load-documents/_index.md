@@ -86,10 +86,10 @@ Absolument ! GroupDocs.Comparison pour .NET vous permet de comparer différents 
  Oui ! Vous pouvez essayer gratuitement GroupDocs.Comparison pour .NET. Visitez le[Site Web de GroupDocs](https://releases.groupdocs.com/) pour télécharger la version d'essai.
 
 ### Où puis-je trouver la documentation pour GroupDocs.Comparison pour .NET ?
- Une documentation complète est disponible sur le site[page de documentation](https://reference.groupdocs.com/comparison/net/).
+ Une documentation complète est disponible sur le[page de documentation](https://reference.groupdocs.com/comparison/net/).
 
 ### Comment puis-je obtenir une licence temporaire pour GroupDocs.Comparison pour .NET ?
  Pour une licence temporaire, visitez le[page de licence temporaire](https://purchase.groupdocs.com/temporary-license/) sur le site Web GroupDocs.
 
-### Où puis-je rechercher de l'aide pour GroupDocs.Comparison pour .NET ?
+### Où puis-je chercher de l'aide pour GroupDocs.Comparison pour .NET ?
  Pour obtenir de l'aide ou des questions, consultez le[Forum de comparaison GroupDocs](https://forum.groupdocs.com/c/comparison/12).

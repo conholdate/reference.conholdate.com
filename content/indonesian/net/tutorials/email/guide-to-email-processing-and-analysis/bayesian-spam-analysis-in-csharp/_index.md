@@ -17,7 +17,7 @@ Sebelum Anda mulai menerapkan analisis spam Bayesian, pastikan Anda memiliki hal
 
 1. Visual Studio: Lingkungan pengembangan terintegrasi (IDE) untuk menulis dan mengelola proyek C# Anda.
 2. .NET Framework atau .NET Core: Pastikan Anda telah menginstal salah satu dari keduanya, karena keduanya penting untuk menjalankan aplikasi C#.
-3. Aspose.Email untuk .NET: Pustaka canggih ini akan membantu Anda menangani operasi email. Anda dapat mengunduh pustaka dari[Di Sini](https://releases.aspose.com/email/net/) atau mulai dengan uji coba gratis dari[tautan ini](https://releases.aspose.com/).
+3.  Aspose.Email untuk .NET: Pustaka canggih ini akan membantu Anda menangani operasi email. Anda dapat mengunduh pustaka dari[Di Sini](https://releases.aspose.com/email/net/) atau mulai dengan uji coba gratis dari[tautan ini](https://releases.aspose.com/).
 4. Pengetahuan Dasar C#: Keakraban dengan bahasa pemrograman C# akan memudahkan mengikuti tutorial ini.
 
 Setelah Anda memiliki prasyarat ini, Anda siap untuk mulai mengetik kodenya!
@@ -44,7 +44,7 @@ Sekarang, mari kita uraikan implementasinya menjadi langkah-langkah yang jelas u
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- Itu`Load`metode ini mengambil jalur berkas email yang ingin Anda analisis. Berkas ini harus dalam format EML. Jika Anda tidak memilikinya, silakan buat email sederhana dan simpan sebagai`email.eml`.
+ Itu`Load` metode ini mengambil jalur berkas email yang ingin Anda analisis. Berkas ini harus dalam format EML. Jika Anda tidak memilikinya, silakan buat email sederhana dan simpan sebagai`email.eml`.
 
 ## Langkah 2: Buat Penganalisis Spam
 
@@ -97,7 +97,7 @@ double spamProbability = spamAnalyzer.Test(message);
 bool isSpam = spamProbability > 0.5;
 ```
 
- Itu`Test` Metode ini akan mengembalikan nilai probabilitas yang menunjukkan seberapa besar kemungkinan email tersebut adalah spam. Jika nilai ini lebih besar dari 0,5, kami menganggapnya sebagai spam.
+ Itu`Test`Metode ini akan mengembalikan nilai probabilitas yang menunjukkan seberapa besar kemungkinan email tersebut adalah spam. Jika nilai ini lebih besar dari 0,5, kami menganggapnya sebagai spam.
 
 ## Langkah 7: Tampilkan Hasilnya
 

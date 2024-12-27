@@ -27,4 +27,4 @@ Kezdjük a dolgokat a DOC fájlok egyesítésével. A GroupDocs.Merger for .NET 
 ### [Egyesítse a dokumentumfájlokat a GroupDocs.Merger for .NET szolgáltatással](./merge-document-files/)
 Ismerje meg, hogyan lehet több DOC-fájlt zökkenőmentesen egyetlen dokumentummá kombinálni a GroupDocs.Merger for .NET segítségével. Ez az átfogó oktatóanyag világos, lépésről lépésre haladó megközelítést kínál, lefedi az előfeltételeket, a kódrészleteket és a GYIK-et.
 ### [PDF-fájlok egyesítése a GroupDocs.Merger for .NET programmal](./merge-pdf-files/)
-Fedezze fel, hogyan lehet több PDF-fájlt zökkenőmentesen egyesíteni .NET-alkalmazásaiban a GroupDocs.Merger segítségével. Ez az átfogó oktatóanyag világos, lépésről lépésre bemutatja a PDF-fájlok kombinálását.
+Fedezze fel, hogyan egyesíthet zökkenőmentesen több PDF-fájlt .NET-alkalmazásaiban a GroupDocs.Merger segítségével. Ez az átfogó oktatóanyag világos, lépésről lépésre bemutatja a PDF-fájlok kombinálását.

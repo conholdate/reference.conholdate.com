@@ -106,4 +106,4 @@ Chắc chắn rồi! Bạn có thể ký nhiều tài liệu cùng lúc bằng c
 
 ### Người dùng GroupDocs.Signature có được hỗ trợ kỹ thuật không?
 
-Có, GroupDocs cung cấp hỗ trợ kỹ thuật chuyên dụng thông qua diễn đàn của mình. Bạn có thể truy cập diễn đàn hỗ trợ[đây](https://forum.groupdocs.com/c/signature/13).
+ Có, GroupDocs cung cấp hỗ trợ kỹ thuật chuyên dụng thông qua diễn đàn của mình. Bạn có thể truy cập diễn đàn hỗ trợ[đây](https://forum.groupdocs.com/c/signature/13).

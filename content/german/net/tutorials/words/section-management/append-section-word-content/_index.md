@@ -114,7 +114,7 @@ Aspose.Words für .NET ist eine leistungsstarke Bibliothek, mit der Entwickler W
 
 ### Was sind die Hauptfunktionen von Aspose.Words für .NET?
 
- Aspose.Words für .NET bietet verschiedene Funktionen, darunter Dokumenterstellung, Formatierung, Konvertierung und Bearbeitung. Eine umfassende Liste finden Sie unter[API-Dokumentation](https://reference.aspose.com/words/net/).
+Aspose.Words für .NET bietet verschiedene Funktionen, darunter Dokumenterstellung, Formatierung, Konvertierung und Bearbeitung. Eine umfassende Liste finden Sie unter[API-Dokumentation](https://reference.aspose.com/words/net/).
 
 ### Wie erhalte ich Unterstützung für Aspose.Words für .NET?
 

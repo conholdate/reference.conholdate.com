@@ -62,7 +62,7 @@ options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; //使用您�
 
 ## 步驟3：創建PDF設備
 
-您將建立一個 PDF 設備來促進轉換。如有必要，您可以指定頁面大小，但 595x842 點 (A4) 的預設大小通常就足夠了。
+您將建立一個 PDF 設備來促進轉換。如果需要，您可以指定頁面大小，但 595x842 點 (A4) 的預設大小通常就足夠了。
 
 ```csharp
 //預設頁面大小為 595x842，不強制在 PdfDevice 中設置

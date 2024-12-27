@@ -41,7 +41,7 @@ string path = @"C:\YourDirectoryPath\"; // Ujistěte se, že jste na konci uvedl
 
 ## Krok 2: Vytvořte generátor čárových kódů
 
- Vytvořte instanci souboru`BarcodeGenerator` třída. Zde použijeme`Code128` zadejte čárový kód a nastavte hodnotu na "ASPOSE":
+ Vytvořte instanci souboru`BarcodeGenerator` třída. Zde použijeme`Code128` typ čárového kódu a nastavte hodnotu na "ASPOSE":
 
 ```csharp
 BarcodeGenerator barcodeGen = new BarcodeGenerator(EncodeTypes.Code128, "ASPOSE");

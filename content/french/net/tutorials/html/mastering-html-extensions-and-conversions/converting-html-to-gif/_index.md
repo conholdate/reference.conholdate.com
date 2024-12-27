@@ -31,7 +31,7 @@ Préparez le document HTML que vous souhaitez convertir et enregistrez-le dans l
 
 Une compréhension de base de C# vous aidera à parcourir les exemples de ce guide.
 
-Maintenant que tout est prêt, explorons comment convertir HTML en GIF à l'aide d'Aspose.HTML pour .NET.
+Maintenant que tout est prêt, explorons comment convertir HTML en GIF à l’aide d’Aspose.HTML pour .NET.
 
 ## Étape 1 : Importer les espaces de noms
 

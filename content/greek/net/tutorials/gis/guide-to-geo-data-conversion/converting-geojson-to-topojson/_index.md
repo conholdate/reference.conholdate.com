@@ -18,7 +18,7 @@ url: /el/net/tutorials/gis/guide-to-geo-data-conversion/converting-geojson-to-to
 ### Εγκαταστήστε το Aspose.GIS για .NET
 
 -  Λήψη της Βιβλιοθήκης: Αποκτήστε πρόσβαση στην πιο πρόσφατη έκδοση του Aspose.GIS για .NET από το[σελίδα έκδοσης](https://releases.aspose.com/gis/net/).
--  Εγκατάσταση: Ακολουθήστε τις λεπτομερείς οδηγίες εγκατάστασης που παρέχονται στο[απόδειξη με έγγραφα](https://reference.aspose.com/gis/net/).
+- Εγκατάσταση: Ακολουθήστε τις λεπτομερείς οδηγίες εγκατάστασης που παρέχονται στο[απόδειξη με έγγραφα](https://reference.aspose.com/gis/net/).
 
 ### Προσθήκη απαιτούμενων χώρων ονομάτων
 

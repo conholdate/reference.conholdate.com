@@ -106,4 +106,4 @@ Console.WriteLine($"\nSource document signed successfully with {result.Succeeded
 
 ### Είναι διαθέσιμη τεχνική υποστήριξη για τους χρήστες του GroupDocs.Signature;
 
-Ναι, το GroupDocs παρέχει αποκλειστική τεχνική υποστήριξη μέσω των φόρουμ του. Μπορείτε να αποκτήσετε πρόσβαση στο φόρουμ υποστήριξης[εδώ](https://forum.groupdocs.com/c/signature/13).
+ Ναι, το GroupDocs παρέχει αποκλειστική τεχνική υποστήριξη μέσω των φόρουμ του. Μπορείτε να αποκτήσετε πρόσβαση στο φόρουμ υποστήριξης[εδώ](https://forum.groupdocs.com/c/signature/13).

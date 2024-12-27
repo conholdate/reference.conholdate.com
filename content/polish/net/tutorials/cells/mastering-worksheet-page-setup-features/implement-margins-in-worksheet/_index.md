@@ -9,7 +9,7 @@ url: /pl/net/tutorials/cells/mastering-worksheet-page-setup-features/implement-m
 ---
 ## Wstęp
 
-Tworzenie atrakcyjnych wizualnie i dobrze sformatowanych arkuszy kalkulacyjnych jest kluczowe dla skutecznej prezentacji danych, zwłaszcza podczas drukowania lub udostępniania dokumentów. Prawidłowe marginesy odgrywają znaczącą rolę w osiągnięciu profesjonalnego wyglądu. W tym samouczku przyjrzymy się, jak ustawić marginesy w arkuszu kalkulacyjnym programu Excel przy użyciu biblioteki Aspose.Cells dla platformy .NET. Nie martw się, jeśli jesteś w tym nowy — to prostsze, niż się wydaje!
+Tworzenie atrakcyjnych wizualnie i dobrze sformatowanych arkuszy kalkulacyjnych jest kluczowe dla skutecznej prezentacji danych, zwłaszcza podczas drukowania lub udostępniania dokumentów. Prawidłowe marginesy odgrywają znaczącą rolę w uzyskaniu profesjonalnego wyglądu. W tym samouczku przyjrzymy się, jak ustawić marginesy w arkuszu kalkulacyjnym programu Excel przy użyciu biblioteki Aspose.Cells dla platformy .NET. Nie martw się, jeśli jesteś w tym nowy — to prostsze, niż się wydaje!
 
 ## Wymagania wstępne
 

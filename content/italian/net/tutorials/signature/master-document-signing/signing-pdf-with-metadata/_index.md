@@ -106,4 +106,4 @@ Assolutamente! Puoi firmare più documenti in blocco scorrendo un elenco di file
 
 ### È disponibile supporto tecnico per gli utenti di GroupDocs.Signature?
 
-Sì, GroupDocs fornisce supporto tecnico dedicato tramite i suoi forum. Puoi accedere al forum di supporto[Qui](https://forum.groupdocs.com/c/signature/13).
+ Sì, GroupDocs fornisce supporto tecnico dedicato tramite i suoi forum. Puoi accedere al forum di supporto[Qui](https://forum.groupdocs.com/c/signature/13).

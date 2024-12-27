@@ -106,4 +106,4 @@ Kesinlikle! Bir dosya listesi üzerinde yineleme yaparak ve imzalama sürecini p
 
 ### GroupDocs.Signature kullanıcıları için teknik destek mevcut mu?
 
-Evet, GroupDocs forumları aracılığıyla özel teknik destek sağlar. Destek forumuna erişebilirsiniz[Burada](https://forum.groupdocs.com/c/signature/13).
+ Evet, GroupDocs forumları aracılığıyla özel teknik destek sağlar. Destek forumuna erişebilirsiniz[Burada](https://forum.groupdocs.com/c/signature/13).

@@ -2,7 +2,7 @@
 title: 在 PDF 檔案中插入空白頁
 linktitle: 在 PDF 檔案中插入空白頁
 second_title: Aspose.PDF for .NET API 參考
-description: 了解如何使用 Aspose.PDF for .NET 以程式設計方式將空白頁面插入 PDF 文件中。這個綜合指南將引導您完成專案設定、載入 PDF、新增空白頁面。
+description: 了解如何使用 Aspose.PDF for .NET 以程式設計方式將空白頁面插入 PDF 文件。這個綜合指南將引導您完成專案設定、載入 PDF、新增空白頁面。
 type: docs
 weight: 120
 url: /zh-hant/net/tutorials/pdf/master-pdf-page-management/insert-empty-pages/

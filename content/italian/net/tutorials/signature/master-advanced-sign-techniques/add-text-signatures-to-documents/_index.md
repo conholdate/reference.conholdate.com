@@ -15,7 +15,7 @@ Nel panorama digitale odierno, la firma elettronica dei documenti è diventata e
 
 Prima di iniziare, assicurati di avere quanto segue:
 
-1.  GroupDocs.Signature per .NET: Scarica e installa la libreria da[Qui](https://releases.groupdocs.com/signature/net/).
+1. GroupDocs.Signature per .NET: Scarica e installa la libreria da[Qui](https://releases.groupdocs.com/signature/net/).
 2. Ambiente di sviluppo: configura il tuo ambiente di sviluppo .NET.
 3. Documento: prepara il documento che vuoi firmare (ad esempio, PDF, Word).
 
@@ -56,7 +56,7 @@ Configura le opzioni per la tua firma testuale, inclusi contenuto, posizione, di
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, //Posizione X
+    Left = 50, // Posizione X
     Top = 200, // Posizione Y
     Width = 100, // Larghezza della firma
     Height = 30, // Altezza della firma

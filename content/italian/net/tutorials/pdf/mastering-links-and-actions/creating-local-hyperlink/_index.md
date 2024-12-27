@@ -54,7 +54,7 @@ Scomponiamo il processo di creazione di collegamenti ipertestuali locali in semp
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Imposta la directory dei tuoi documenti
-Document doc = new Document(); //Crea istanza del documento
+Document doc = new Document(); // Crea istanza del documento
 ```
 
  Sostituire`"YOUR_DOCUMENT_DIRECTORY"` con il percorso effettivo sul tuo sistema in cui verrà salvato il PDF.

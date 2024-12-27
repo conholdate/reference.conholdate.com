@@ -30,7 +30,7 @@ Chcete-li začít s Aspose.Words pro .NET, musíte integrovat knihovnu do svého
 Install-Package Aspose.Words
 ```
 
-2. Import nezbytných jmenných prostorů:
+2. Importovat potřebné jmenné prostory:
    Ve svém projektu C# budete muset importovat základní jmenné prostory pro interakci s Aspose.Words API.
    
 ```csharp
@@ -46,14 +46,14 @@ Prvním krokem při úpravě dokumentu aplikace Word je jeho načtení do aplika
 
 ### Krok 1: Definujte cestu k souboru
 
-Musíte definovat cestu k souboru dokumentu aplikace Word. Pro tento příklad použijeme dokument`Properties.docx`.
+ Musíte definovat cestu k souboru dokumentu aplikace Word. Pro tento příklad použijeme dokument`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Ujistěte se, že vyměníte`"YOUR DOCUMENT DIRECTORY"` se skutečným adresářem, kde je váš dokument uložen.
+ Ujistěte se, že vyměníte`"YOUR DOCUMENT DIRECTORY"`se skutečným adresářem, kde je váš dokument uložen.
 
 ## Přístup k uživatelským vlastnostem dokumentu a jejich odstranění
 

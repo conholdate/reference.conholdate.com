@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// Skapa bilden
+//Skapa bilden
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // Fortsätt att rita på bilden
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## Steg 4: Spara bilden
 
- Att spara den slutliga bilden är enkelt, som visas ovan i`using` uttalande var`image.Save()`anropas automatiskt när`using` blockändar.
+ Att spara den slutliga bilden är enkelt, som visas ovan i`using` uttalande var`image.Save()` anropas automatiskt när`using` blockändar.
 
 ## Slutsats
 

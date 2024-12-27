@@ -55,7 +55,7 @@ using (FileStream fs = new FileStream(dataDir + "FillFormField.pdf", FileMode.Op
 }
 ```
 
-Abrir el archivo PDF en modo lectura-escritura le permitirá modificar su contenido.
+Abrir el archivo PDF en modo lectura-escritura le permite modificar su contenido.
 
 ## Paso 3: Acceda al TextBoxField
 

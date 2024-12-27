@@ -79,7 +79,7 @@ A1 : Absolument ! Aspose.PSD prend en charge différents formats d'image, offr
 
 ### Existe-t-il une version d'essai disponible ?
 
- A2 : Oui, vous pouvez télécharger une version d'essai gratuite[ici](https://releases.aspose.com/).
+A2 : Oui, vous pouvez télécharger une version d'essai gratuite[ici](https://releases.aspose.com/).
 
 ### Où puis-je trouver du support pour Aspose.PSD pour .NET ?
 

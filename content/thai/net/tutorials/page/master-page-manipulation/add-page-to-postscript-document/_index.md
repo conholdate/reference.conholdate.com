@@ -50,7 +50,7 @@ using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps")
     // ตั้งค่าตัวเลือกการบันทึกสำหรับขนาด A4
     PsSaveOptions options = new PsSaveOptions();
     
-    //สร้างเอกสาร PostScript ใหม่ที่มี 2 หน้า
+    // สร้างเอกสาร PostScript ใหม่ที่มี 2 หน้า
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

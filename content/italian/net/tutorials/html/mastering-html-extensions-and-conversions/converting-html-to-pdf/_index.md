@@ -79,7 +79,7 @@ Ed ecco che il tuo contenuto HTML viene convertito con successo in un documento 
 
 ## Conclusione
 
-In questa guida, abbiamo esplorato il processo di conversione di HTML in PDF usando Aspose.HTML per .NET. Abbiamo trattato i prerequisiti, importato lo spazio dei nomi necessario e guidato ogni passaggio del processo di conversione. Con Aspose.HTML a tua disposizione, puoi gestire in modo efficiente il contenuto HTML e trasformarlo in formato PDF, migliorando i tuoi progetti di sviluppo web.
+In questa guida, abbiamo esplorato il processo di conversione di HTML in PDF usando Aspose.HTML per .NET. Abbiamo trattato i prerequisiti, importato lo spazio dei nomi necessario e guidato ogni fase del processo di conversione. Con Aspose.HTML a tua disposizione, puoi gestire in modo efficiente il contenuto HTML e trasformarlo in formato PDF, migliorando i tuoi progetti di sviluppo web.
 
 ## Domande frequenti
 

@@ -70,7 +70,7 @@ Därefter initierar vi grafikkontexten för att manipulera bilden:
             graphic.Clear(Color.Yellow); // Rensa bilden med gul bakgrund
 ```
 
-I den här delen rengör vi bildytan med en gul färg för att förbättra synligheten.
+den här delen rengör vi bildytan med en gul färg för att förbättra synligheten.
 
 ## Steg 3: Rita bågen
 

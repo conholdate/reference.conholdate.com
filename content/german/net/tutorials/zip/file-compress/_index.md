@@ -25,7 +25,7 @@ Stellen Sie zunächst sicher, dass Sie Aspose.Zip installiert haben. Führen Sie
 
 ## Zip-Dateien ändern
 
-Gezippte Dateien zu haben ist toll, aber was passiert, wenn Sie Änderungen vornehmen müssen? Hier kommen die Änderungsfunktionen von Aspose.Zip zum Tragen. Es ist ähnlich wie beim Bearbeiten eines Dokuments – manchmal müssen Sie Inhalte hinzufügen, entfernen oder ändern.
+Gezippte Dateien sind toll, aber was passiert, wenn Sie Änderungen vornehmen müssen? Hier kommen die Änderungsfunktionen von Aspose.Zip zum Tragen. Es ist ähnlich wie beim Bearbeiten eines Dokuments – manchmal müssen Sie Inhalte hinzufügen, entfernen oder ändern.
 
 Hier ist ein kurzer Überblick darüber, wie Sie ZIP-Dateien effizient bearbeiten können:
 

@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Βήμα 3: Διαμόρφωση επιλογών αποθήκευσης
 
- Τώρα, διαμορφώστε τις επιλογές αποθήκευσης για να χρησιμοποιήσετε τη δυνατότητα "Do Not Compress Small Metafiles" με το`DocSaveOptions`τάξη.
+ Τώρα, διαμορφώστε τις επιλογές αποθήκευσης για να χρησιμοποιήσετε τη δυνατότητα "Do Not Compress Small Metafiles" με το`DocSaveOptions` τάξη.
 
 ```csharp
 // Διαμορφώστε τις επιλογές αποθήκευσης με τη λειτουργία "Do Not Compress Small Metafiles".

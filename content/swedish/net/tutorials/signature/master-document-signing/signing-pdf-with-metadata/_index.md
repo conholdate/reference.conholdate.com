@@ -9,7 +9,7 @@ url: /sv/net/tutorials/signature/master-document-signing/signing-pdf-with-metada
 ---
 ## Introduktion
 
-I den här handledningen kommer vi att lära oss hur du signerar ett PDF-dokument och lägger till metadata med GroupDocs.Signature för .NET. Att lägga till metadata förbättrar dokumentet genom att tillhandahålla viktig information som författare, skapandedatum, dokument-ID och mer.
+den här handledningen kommer vi att lära oss hur du signerar ett PDF-dokument och lägger till metadata med GroupDocs.Signature för .NET. Att lägga till metadata förbättrar dokumentet genom att tillhandahålla viktig information som författare, skapandedatum, dokument-ID och mer.
 
 ## Förutsättningar
 
@@ -106,4 +106,4 @@ Absolut! Du kan signera flera dokument samtidigt genom att iterera genom en list
 
 ### Finns teknisk support tillgänglig för GroupDocs.Signature-användare?
 
-Ja, GroupDocs tillhandahåller dedikerad teknisk support genom sina forum. Du kan komma åt supportforumet[här](https://forum.groupdocs.com/c/signature/13).
+ Ja, GroupDocs tillhandahåller dedikerad teknisk support genom sina forum. Du kan komma åt supportforumet[här](https://forum.groupdocs.com/c/signature/13).

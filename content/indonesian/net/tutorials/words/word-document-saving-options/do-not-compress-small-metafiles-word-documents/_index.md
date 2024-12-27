@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Langkah 3: Konfigurasikan Opsi Penyimpanan
 
- Sekarang, konfigurasikan opsi penyimpanan untuk menggunakan fitur "Jangan Kompres Metafile Kecil" dengan`DocSaveOptions`kelas.
+ Sekarang, konfigurasikan opsi penyimpanan untuk menggunakan fitur "Jangan Kompres Metafile Kecil" dengan`DocSaveOptions` kelas.
 
 ```csharp
 // Konfigurasikan opsi penyimpanan dengan fitur "Jangan Kompres Metafile Kecil"

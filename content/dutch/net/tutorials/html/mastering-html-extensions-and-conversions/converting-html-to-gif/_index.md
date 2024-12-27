@@ -82,7 +82,7 @@ En dat is alles! U hebt succesvol een HTML-document omgezet naar een GIF-afbeeld
 
 ## Conclusie
 
-hebt geleerd hoe u Aspose.HTML voor .NET kunt gebruiken om HTML-documenten efficiënt om te zetten in GIF's. Dit proces is met name handig voor het genereren van beeldrepresentaties van webcontent voor verschillende toepassingen.
+U hebt geleerd hoe u Aspose.HTML voor .NET kunt gebruiken om HTML-documenten efficiënt om te zetten in GIF's. Dit proces is met name handig voor het genereren van beeldrepresentaties van webcontent voor verschillende toepassingen.
 
 ## Veelgestelde vragen
 

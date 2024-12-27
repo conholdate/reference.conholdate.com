@@ -150,7 +150,7 @@ Aspose.Cells は、さまざまな形式の Excel ファイルの作成、操作
 はい！無料トライアルは、[無料トライアルページ](https://releases.aspose.com/).
 
 ### Aspose.Cells のサポートはどこで見つかりますか?
-サポート関連のお問い合わせについては、[Aspose サポート フォーラム](https://forum.aspose.com/c/cells/9).
+サポート関連のお問い合わせについては、[Aspose サポートフォーラム](https://forum.aspose.com/c/cells/9).
 
 ### Aspose.Cells の一時ライセンスを取得するにはどうすればよいですか?
-一時免許を申請することができます[ここ](https://purchase.aspose.com/temporary-license/).
+一時ライセンスを申請することができます[ここ](https://purchase.aspose.com/temporary-license/).

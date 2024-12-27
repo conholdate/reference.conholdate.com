@@ -46,14 +46,14 @@ using Aspose.Words;
 
 ### الخطوة 1: تحديد مسار الملف
 
-يجب عليك تحديد مسار الملف الخاص بمستند Word الخاص بك. في هذا المثال، سنستخدم المستند`Properties.docx`.
+ يجب عليك تحديد مسار الملف الخاص بمستند Word الخاص بك. في هذا المثال، سنستخدم المستند`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- تأكد من استبدال`"YOUR DOCUMENT DIRECTORY"` مع الدليل الفعلي الذي يتم تخزين مستندك فيه.
+ تأكد من استبدال`"YOUR DOCUMENT DIRECTORY"`مع الدليل الفعلي الذي يتم تخزين مستندك فيه.
 
 ## الوصول إلى خصائص المستند المخصصة وإزالتها
 

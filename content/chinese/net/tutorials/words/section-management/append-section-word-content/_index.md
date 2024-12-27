@@ -114,7 +114,7 @@ Aspose.Words for .NET 是一个功能强大的库，可让开发人员以编程�
 
 ### Aspose.Words for .NET 的主要功能是什么？
 
- Aspose.Words for .NET 提供各种功能，包括文档创建、格式化、转换和操作。有关完整列表，请查看[API 文档](https://reference.aspose.com/words/net/).
+Aspose.Words for .NET 提供各种功能，包括文档创建、格式化、转换和操作。有关完整列表，请查看[API 文档](https://reference.aspose.com/words/net/).
 
 ### 如何获得 Aspose.Words for .NET 的支持？
 

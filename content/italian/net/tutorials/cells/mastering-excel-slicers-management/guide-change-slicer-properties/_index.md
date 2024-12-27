@@ -9,7 +9,7 @@ url: /it/net/tutorials/cells/mastering-excel-slicers-management/guide-change-sli
 ---
 ## Introduzione
 
-Siete pronti a esplorare l'entusiasmante mondo della manipolazione di Excel usando Aspose.Cells per .NET? Se sì, siete nel posto giusto! Gli slicer sono una potente funzionalità di Excel che rende la presentazione dei dati più accessibile e visivamente accattivante. Che stiate gestendo grandi set di dati o creando report, la regolazione delle proprietà dello slicer può migliorare significativamente l'esperienza utente. In questo tutorial, vi guideremo attraverso il processo di modifica delle proprietà dello slicer in un foglio di lavoro Excel usando Aspose.Cells.
+Siete pronti a esplorare l'entusiasmante mondo della manipolazione di Excel usando Aspose.Cells per .NET? Se sì, siete nel posto giusto! Gli slicer sono una potente funzionalità di Excel che rende la presentazione dei dati più accessibile e visivamente accattivante. Sia che gestiate grandi set di dati o creiate report, la regolazione delle proprietà dello slicer può migliorare notevolmente l'esperienza utente. In questo tutorial, vi guideremo attraverso il processo di modifica delle proprietà dello slicer in un foglio di lavoro Excel usando Aspose.Cells.
 
 ## Prerequisiti
 
@@ -53,7 +53,7 @@ Per prima cosa, specifica dove si trova il tuo file Excel di esempio e dove vuoi
 // Elenco di origine
 string sourceDir = "Your Document Directory";
 
-// Directory di uscita
+// Directory di output
 string outputDir = "Your Document Directory";
 ```
 

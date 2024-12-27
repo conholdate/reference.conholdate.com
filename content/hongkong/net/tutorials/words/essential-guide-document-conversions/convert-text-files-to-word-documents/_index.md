@@ -2,7 +2,7 @@
 title: 使用 Aspose.Words for .NET 將文字文件轉換為 Word 文件
 linktitle: 使用 Aspose.Words for .NET 將文字文件轉換為 Word 文件
 second_title: Aspose.Words 文件處理 API
-description: 了解如何使用 Aspose.Words for .NET 程式庫將文字檔案有效率地轉換為 Word 文件。本逐步指南涵蓋先決條件和程式碼範例。
+description: 了解如何使用 Aspose.Words for .NET 程式庫有效地將文字檔案轉換為 Word 文件。本逐步指南涵蓋先決條件和程式碼範例。
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/words/essential-guide-document-conversions/convert-text-files-to-word-documents/
@@ -57,7 +57,7 @@ doc.Save(dataDir + "ConvertedDocument.docx", SaveFormat.Docx);
 是的，Aspose.Words 針對高效處理大型文字檔案進行了最佳化。
 
 ### 此方法是否保留文字格式？
-絕對地！轉換為 Word 文件格式會保留基本文字格式，包括字體樣式和段落。
+絕對地！轉換為 Word 文件格式會保留基本文字格式，包括字型樣式和段落。
 
 ### Aspose.Words 是否與不同的.NET 框架相容？
 是的，Aspose.Words 支援各種 .NET 框架，確保跨不同環境的廣泛相容性。

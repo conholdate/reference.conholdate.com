@@ -121,7 +121,7 @@ Aspose.Cells je knihovna .NET, která umožňuje vývojářům efektivně vytvá
 Ano! Svislý nebo vodorovný posuvník můžete selektivně skrýt nastavením příslušné vlastnosti.
 
 ### Potřebuji licenci k používání Aspose.Cells?  
- Aspose.Cells nabízí bezplatnou zkušební verzi, ale k odemknutí všech funkcí si budete muset zakoupit licenci. Více informací lze nalézt[zde](https://purchase.aspose.com/buy).
+ Aspose.Cells nabízí bezplatnou zkušební verzi, ale k odemknutí všech funkcí si budete muset zakoupit licenci. Více informací naleznete[zde](https://purchase.aspose.com/buy).
 
 ### Jaké další funkce mohu používat s Aspose.Cells?  
 Knihovna podporuje širokou škálu funkcí, včetně čtení, psaní, formátování tabulek a provádění složitých výpočtů.

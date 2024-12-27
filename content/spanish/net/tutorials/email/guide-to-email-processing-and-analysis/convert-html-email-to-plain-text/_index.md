@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  Accediendo a la`HtmlBody` propiedad de la`MailMessage` objeto, el contenido HTML ahora se almacena en una variable de cadena llamada`htmlBody`.
 
-### Paso 3: Prepárese para convertir HTML a texto sin formato
+## Paso 3: Prepárese para convertir HTML a texto sin formato
 
 Ahora que tenemos nuestro contenido HTML, es hora de preparar el terreno para la conversión. Usaremos Aspose.Words para convertir nuestro HTML enriquecido en texto sin formato. Pero primero, necesitamos crear un nuevo documento:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Esto crea un nuevo vacío.`Document`Eliminamos todos los nodos secundarios existentes para garantizar que haya un borrón y cuenta nueva antes de comenzar a insertar nuestro contenido HTML.
 
-### Paso 4: Insertar contenido HTML
+## Paso 4: Insertar contenido HTML
 
  ¡Aquí es donde ocurre la magia de la conversión! Usaremos el`DocumentBuilder` clase de Aspose.Words para insertar nuestro contenido HTML en el documento. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Aquí,`DocumentBuilder().InsertHtml(htmlBody)` toma nuestra cadena HTML y la carga en una nueva estructura de documento dentro de`Document` objeto. Usando`ImportFormatMode.KeepSourceFormatting` garantiza que el formato permanezca intacto durante esta operación.
 
-### Paso 5: Guarde el archivo de texto sin formato
+## Paso 5: Guarde el archivo de texto sin formato
 
 Por último, es hora de guardar el archivo de texto sin formato que acabamos de crear. A continuación, le indicamos cómo hacerlo:
 

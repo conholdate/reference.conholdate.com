@@ -46,14 +46,14 @@ using Aspose.Words;
 
 ### ขั้นตอนที่ 1: กำหนดเส้นทางไฟล์
 
-คุณต้องกำหนดเส้นทางไฟล์ของเอกสาร Word ของคุณ สำหรับตัวอย่างนี้ เราจะใช้เอกสาร`Properties.docx`.
+ คุณต้องกำหนดเส้นทางไฟล์ของเอกสาร Word ของคุณ สำหรับตัวอย่างนี้ เราจะใช้เอกสาร`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- ให้แน่ใจว่าคุณเปลี่ยน`"YOUR DOCUMENT DIRECTORY"` พร้อมไดเร็กทอรีจริงที่คุณเก็บเอกสารไว้
+ ให้แน่ใจว่าคุณเปลี่ยน`"YOUR DOCUMENT DIRECTORY"`พร้อมไดเร็กทอรีจริงที่คุณเก็บเอกสารไว้
 
 ## การเข้าถึงและการลบคุณสมบัติเอกสารที่กำหนดเอง
 

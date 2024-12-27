@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  Door toegang te krijgen tot de`HtmlBody` eigendom van de`MailMessage` object, de HTML-inhoud wordt nu opgeslagen in een tekenreeksvariabele met de naam`htmlBody`.
 
-### Stap 3: Bereid je voor om HTML naar platte tekst te converteren
+## Stap 3: Bereid je voor om HTML naar platte tekst te converteren
 
 Nu we onze HTML-inhoud hebben, is het tijd om het toneel voor conversie in te stellen. We zullen Aspose.Words gebruiken om onze rijke HTML om te zetten in platte tekst. Maar eerst moeten we een nieuw document maken:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Dit creëert een nieuwe lege`Document`We verwijderen alle bestaande onderliggende knooppunten om ervoor te zorgen dat er een schone lei is voordat we beginnen met het invoegen van onze HTML-inhoud.
 
-### Stap 4: HTML-inhoud invoegen
+## Stap 4: HTML-inhoud invoegen
 
  Dit is waar de magie van conversie plaatsvindt! We zullen de`DocumentBuilder` klasse van Aspose.Words om onze HTML-inhoud in het document in te voegen. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Hier,`DocumentBuilder().InsertHtml(htmlBody)` neemt onze HTML-string en laadt deze in een nieuwe documentstructuur binnen de`Document` object. Gebruikend`ImportFormatMode.KeepSourceFormatting` zorgt ervoor dat de opmaak intact blijft tijdens deze bewerking.
 
-### Stap 5: Sla het platte tekstbestand op
+## Stap 5: Sla het platte tekstbestand op
 
 Ten slotte is het tijd om ons nieuw gecreëerde platte tekstbestand op te slaan. Dit is hoe je dat doet:
 

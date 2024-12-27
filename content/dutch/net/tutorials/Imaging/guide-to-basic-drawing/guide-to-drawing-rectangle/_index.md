@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// Maak de afbeelding
+//Maak de afbeelding
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // Ga door met tekenen op de afbeelding
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## Stap 4: Sla de afbeelding op
 
- Het opslaan van de uiteindelijke afbeelding is eenvoudig, zoals hierboven weergegeven in de`using` verklaring waar`image.Save()`wordt automatisch aangeroepen wanneer de`using` blok eindigt.
+ Het opslaan van de uiteindelijke afbeelding is eenvoudig, zoals hierboven weergegeven in de`using` verklaring waar`image.Save()` wordt automatisch aangeroepen wanneer de`using` blok eindigt.
 
 ## Conclusie
 

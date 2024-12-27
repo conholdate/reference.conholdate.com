@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Quindi, traccia una seconda linea dall'angolo in alto a sinistra all'angolo in basso a destra:
 
 ```csharp
-//Crea una linea dall'angolo in alto a sinistra a quello in basso a destra
+// Crea una linea dall'angolo in alto a sinistra a quello in basso a destra
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Aggiungere la seconda riga all'oggetto Graph
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## Passaggio 6: aggiungere il grafico alla pagina
 
- Con entrambe le linee tracciate, aggiungi il`Graph` oggetto alla pagina:
+ Con entrambe le linee tracciate, aggiungi il`Graph`oggetto alla pagina:
 
 ```csharp
 // Aggiungere l'oggetto Graph alla raccolta dei paragrafi della pagina
@@ -122,7 +122,7 @@ Con questi semplici passaggi, puoi facilmente disegnare linee in un documento PD
  Puoi regolare il`StrokeColor` E`LineWidth` proprietà del`Line` oggetto per personalizzarne l'aspetto.
 
 ### Posso posizionare le linee in aree specifiche della pagina?
-Assolutamente! Modifica le coordinate del`Line` oggetto per posizionarlo dove vuoi.
+ Assolutamente! Modifica le coordinate del`Line` oggetto per posizionarlo dove vuoi.
 
 ### È possibile aggiungere del testo insieme alle linee?
  Sì, puoi creare`TextFragment` oggetti e aggiungerli alla raccolta di paragrafi della pagina.

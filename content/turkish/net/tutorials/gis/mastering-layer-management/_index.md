@@ -15,13 +15,13 @@ Aspose.GIS for .NET kullanarak GIS (Coğrafi Bilgi Sistemleri) dünyasına adım
 
 İlk sırada TopoJSON var — coğrafi verileri kodlamak için kompakt bir format. Neden umursamalısınız? TopoJSON, topolojiyi korurken coğrafi verilerinizi basitleştirir, bu da bağlı geometrilerin noktaları paylaşması ve veri bütünlüğünü kaybetmeden daha küçük dosya boyutları elde edilmesi anlamına gelir. 
 
- Başlamak için, .NET için Aspose.GIS'i yüklemek isteyeceksiniz. Bunu yaptıktan sonra, şuraya göz atın:[.NET için Aspose.GIS'te TopoJSON ile çalışma](./working-with-topojson/) öğretici. Bir TopoJSON dosyasından coğrafi özellikleri okuma, çıkarma ve görüntüleme sürecini adım adım açıklar. Bu formatta yolunuzu bildiğinizde, mekansal verileri ne kadar zahmetsizce işleyebileceğinize şaşıracaksınız!
+ Başlamak için, .NET için Aspose.GIS'i yüklemek isteyeceksiniz. Bunu yaptıktan sonra, şuraya göz atın:[.NET için Aspose.GIS'te TopoJSON ile çalışma](./working-with-topojson/)öğretici. Bir TopoJSON dosyasından coğrafi özellikleri okuma, çıkarma ve görüntüleme sürecini adım adım açıklar. Bu formatta yolunuzu bildiğinizde, mekansal verileri ne kadar zahmetsizce işleyebileceğinize şaşıracaksınız!
 
 ## Bir Dosya Jeoveritabanına Katman Ekleme
 
 Şimdi, Dosya Jeoveritabanları (GDB) hakkında konuşalım — bunlar mekansal verileriniz için dijital dosya dolapları gibidir. Bir GDB'ye katman eklemek korkutucu gelebilir, ancak Aspose.GIS ile bu basittir! 
 
- İçinde[Aspose.GIS for .NET Kullanarak Bir Dosya Jeoveritabanına Katman Ekleme](./add-layer-to-file-geo-database/)eğitimde, katman oluşturmanın inceliklerini öğreneceksiniz. Yerinde bulundurmanız gereken ön koşullardan ad alanı içe aktarımlarına ve GIS veri kümelerinizde katman oluşturma ve doğrulamanın incelikli adımlarına kadar her şeyi kapsar. Bunu bir tarif hazırlamak olarak düşünün — lezzetli bir şey pişirmek için doğru malzemelere ve iyi bir yönteme ihtiyacınız var!
+ İçinde[Aspose.GIS for .NET Kullanarak Bir Dosya Jeoveritabanına Katman Ekleme](./add-layer-to-file-geo-database/) eğitimde, katman oluşturmanın inceliklerini öğreneceksiniz. Yerinde bulundurmanız gereken ön koşullardan ad alanı içe aktarımlarına ve GIS veri kümelerinizde katman oluşturma ve doğrulamanın incelikli adımlarına kadar her şeyi kapsar. Bunu bir tarif hazırlamak olarak düşünün — lezzetli bir şey pişirmek için doğru malzemelere ve iyi bir yönteme ihtiyacınız var!
 
 ## Katman Yönetimi Eğitimlerinde Ustalaşma
 ### [.NET için Aspose.GIS'te TopoJSON ile çalışma](./working-with-topojson/)

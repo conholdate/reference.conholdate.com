@@ -70,7 +70,7 @@ new TeXJob(Path.Combine("Your Input Directory", "required-input-fs.tex"), new Im
 
 ## Wniosek
 
-Gratulacje! Udało Ci się nauczyć, jak obsługiwać system plików i dane wejściowe ZIP w Aspose.TeX dla .NET. Ten samouczek obejmował wszystko, od importów przestrzeni nazw po wykonywanie procesu konwersji, podkreślając, jak Aspose.TeX upraszcza zarządzanie dokumentami i konwersję.
+Gratulacje! Udało Ci się nauczyć, jak obsługiwać system plików i dane wejściowe ZIP w Aspose.TeX dla .NET. Ten samouczek obejmował wszystko, od importów przestrzeni nazw po wykonywanie procesu konwersji, podkreślając, w jaki sposób Aspose.TeX upraszcza zarządzanie dokumentami i konwersję.
 
 ## Najczęściej zadawane pytania
 

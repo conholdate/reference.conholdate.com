@@ -35,7 +35,7 @@ Níže je podrobná implementace krok za krokem.
 
 ## Krok 1: Vytvořte nový dokument OneNotu
 
- Inicializujte nový dokument OneNotu pomocí`Document`třída.
+ Inicializujte nový dokument OneNotu pomocí`Document` třída.
 
 ```csharp
 Document doc = new Document();

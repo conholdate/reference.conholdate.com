@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// Utwórz obraz
+//Utwórz obraz
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // Przejdź do rysowania na obrazie
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## Krok 4: Zapisz obraz
 
- Zapisywanie ostatecznego obrazu jest proste, jak pokazano powyżej`using` oświadczenie gdzie`image.Save()`jest wywoływany automatycznie, gdy`using` blok się kończy.
+ Zapisywanie ostatecznego obrazu jest proste, jak pokazano powyżej`using` oświadczenie gdzie`image.Save()` jest wywoływany automatycznie, gdy`using` blok się kończy.
 
 ## Wniosek
 

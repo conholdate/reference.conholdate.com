@@ -64,4 +64,4 @@ VectorLayer.Convert(shapefilePath, Drivers.Shapefile, jsonPath, Drivers.GeoJson)
 Ναι, το Aspose.GIS για .NET επιτρέπει εκτεταμένες επιλογές προσαρμογής, δίνοντάς σας τη δυνατότητα να καθορίσετε συστήματα συντεταγμένων και αντιστοιχίσεις χαρακτηριστικών όπως απαιτείται.
 
 ### Υπάρχει διαθέσιμη δοκιμαστική έκδοση;
- Ναι, μπορείτε να κάνετε λήψη μιας δωρεάν δοκιμαστικής έκδοσης του Aspose.GIS για .NET από το[Aspose ιστότοπο](https://releases.aspose.com/).
+ Ναι, μπορείτε να κάνετε λήψη μιας δωρεάν δοκιμαστικής έκδοσης του Aspose.GIS για .NET από το[Aspose website](https://releases.aspose.com/).

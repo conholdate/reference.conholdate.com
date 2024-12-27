@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Passaggio 4: inizializzare l'oggetto firma
 
- Crea un'istanza di`Signature`classe, passando il percorso del file del documento:
+ Crea un'istanza di`Signature` classe, passando il percorso del file del documento:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

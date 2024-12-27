@@ -54,7 +54,7 @@ Chúng ta hãy chia nhỏ quá trình tạo siêu liên kết cục bộ thành 
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Thiết lập thư mục tài liệu của bạn
-Document doc = new Document(); //Tạo phiên bản Tài liệu
+Document doc = new Document(); // Tạo phiên bản Tài liệu
 ```
 
  Thay thế`"YOUR_DOCUMENT_DIRECTORY"` với đường dẫn thực tế trên hệ thống của bạn nơi tệp PDF sẽ được lưu.

@@ -62,7 +62,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "RemoveGraphicsObjects.pdf");
 ```
 
- Detta skapar en instans av`Document` klass som laddar din angivna PDF-fil.
+ Detta skapar en instans av`Document` klass som laddar din specificerade PDF-fil.
 
 ## Steg 2: Öppna sidan och operatörssamlingen
 

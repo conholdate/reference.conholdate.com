@@ -22,7 +22,7 @@ Innan du fortsätter, se till att följande förutsättningar är uppfyllda:
    En praktisk kunskap om programmeringsspråket C# och en konfigurerad .NET-utvecklingsmiljö.
 
 3. Mata in Microsoft Project-fil  
-    Har en giltig`.mpp` fil tillgänglig för konvertering.
+   Har en giltig`.mpp` fil tillgänglig för konvertering.
 
 ## Importera viktiga namnområden
 
@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Steg 4: Välj specifika sidor för export (valfritt)
 
-Ange de exakta sidor som ska inkluderas i PDF:en genom att fylla i`Pages` egendom. För att till exempel exportera sidorna 1 och 4:
+ Ange de exakta sidor som ska inkluderas i PDF:en genom att fylla i`Pages` egendom. För att till exempel exportera sidorna 1 och 4:
 
 ```csharp
 options.Pages.Add(1);
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Steg 5: Spara projektfilen som PDF
 
- Slutligen, spara`.mpp` fil som PDF genom att anropa`Save` metod. Ange utdatafilens sökväg och skicka de konfigurerade alternativen.
+Slutligen, spara`.mpp` fil som PDF genom att anropa`Save` metod. Ange utdatafilens sökväg och skicka de konfigurerade alternativen.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

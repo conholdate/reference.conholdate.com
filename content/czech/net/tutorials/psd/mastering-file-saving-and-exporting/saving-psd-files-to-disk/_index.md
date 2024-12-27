@@ -79,7 +79,7 @@ A1: Rozhodně! Aspose.PSD podporuje různé formáty obrázků a nabízí flexib
 
 ### Je k dispozici zkušební verze?
 
- A2: Ano, můžete si stáhnout bezplatnou zkušební verzi[zde](https://releases.aspose.com/).
+A2: Ano, můžete si stáhnout bezplatnou zkušební verzi[zde](https://releases.aspose.com/).
 
 ### Kde najdu podporu pro Aspose.PSD pro .NET?
 

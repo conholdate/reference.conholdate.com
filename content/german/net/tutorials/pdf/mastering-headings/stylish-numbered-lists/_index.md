@@ -55,7 +55,7 @@ Als nächstes fügen wir dem PDF-Dokument eine leere Seite hinzu, auf der wir sp
 ```csharp
 // Dem PDF-Dokument eine neue Seite hinzufügen
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Dieselben Einstellungen wie im Dokument verwenden
+pdfPage.PageInfo = pdfDoc.PageInfo; // Dieselben Einstellungen wie im Dokument verwenden
 ```
 
 ## Schritt 3: Erstellen einer schwebenden Box
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Dieselben Einstellungen wie im Dokument ve
 Mit einer FloatingBox können Sie Inhalte unabhängig vom Seitenfluss positionieren und so mehr Kontrolle über Ihr Layout haben.
 
 ```csharp
-// Erstellen Sie eine FloatingBox für strukturierte Inhalte
+//Erstellen Sie eine FloatingBox für strukturierte Inhalte
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

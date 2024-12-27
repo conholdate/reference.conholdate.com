@@ -100,7 +100,7 @@ document.Save(dataDir + "ConvertedDocument.emf", saveOptions);
 
 ## 結論
 
-本教學示範如何使用 Aspose.Words for .NET 將 SVG 影像轉換為 EMF 或 WMF 格式。透過執行以下步驟，您可以增強 Word 文件的相容性和視覺保真度。無論您是自動建立文件還是準備高品質報告，此方法都可確保獲得無縫結果。
+本教學示範如何使用 Aspose.Words for .NET 將 SVG 影像轉換為 EMF 或 WMF 格式。透過執行以下步驟，您可以增強 Word 文件的相容性和視覺保真度。無論您是自動建立文件還是準備高品質報告，此方法都能確保無縫結果。
 
 ## 常見問題解答
 

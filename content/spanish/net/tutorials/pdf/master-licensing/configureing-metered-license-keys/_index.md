@@ -46,7 +46,7 @@ Dividamos el proceso de configuración en pasos claros para garantizar que no se
 Aspose.Pdf.Metered metered = new Aspose.Pdf.Metered();
 ```
 
--  Por qué esto es importante: El`Metered` La clase es esencial para utilizar el modelo de licencia medida, que puede resultar más económico para el procesamiento de documentos de gran volumen.
+-  Por qué esto es importante:`Metered` La clase es esencial para utilizar el modelo de licencia medida, que puede resultar más económico para el procesamiento de documentos de gran volumen.
 
 ## Paso 3: Establezca sus claves de licencia medidas
 

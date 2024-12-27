@@ -16,7 +16,7 @@ url: /ko/net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-
 자세한 내용을 살펴보기 전에 다음 사항이 설정되어 있는지 확인하세요.
 
 1. Visual Studio: 컴퓨터에 Visual Studio가 설치되어 있는지 확인하세요.
-2.  .NET용 Aspose.PSD: Aspose.PSD 라이브러리를 다운로드하고 설치하세요. 최신 버전을 찾을 수 있습니다.[여기](https://releases.aspose.com/psd/net/).
+2. .NET용 Aspose.PSD: Aspose.PSD 라이브러리를 다운로드하고 설치하세요. 최신 버전을 찾을 수 있습니다.[여기](https://releases.aspose.com/psd/net/).
 3. 샘플 PSD 파일: 테스트용 샘플 PSD 파일을 얻으세요. 없으면 데모 목적으로는 어떤 PSD 파일이든 됩니다.
 4. 문서 디렉토리: 프로젝트에 이미지를 저장할 디렉토리를 만들고 나중에 사용할 수 있도록 경로를 기록해 둡니다.
 
@@ -89,10 +89,10 @@ using (var fileStream = new FileStream(destName, FileMode.Create))
 ## 자주 묻는 질문
 
 ### Aspose.PSD를 모든 유형의 이미지 파일에 사용할 수 있나요?
-네! Aspose.PSD는 PSD, PNG, JPEG 등 다양한 이미지 형식을 지원합니다. 자세한 목록은 설명서를 확인하세요.[여기](https://reference.aspose.com/psd/net/).
+ 네! Aspose.PSD는 PSD, PNG, JPEG 등 다양한 이미지 형식을 지원합니다. 자세한 목록은 설명서를 확인하세요.[여기](https://reference.aspose.com/psd/net/).
 
 ### Aspose.PSD에 대한 지원은 어떻게 받을 수 있나요?
- 지원 및 커뮤니티 지원을 받으려면 Aspose.PSD 지원 포럼을 방문하세요.[여기](https://forum.aspose.com/c/psd/34).
+지원 및 커뮤니티 지원을 받으려면 Aspose.PSD 지원 포럼을 방문하세요.[여기](https://forum.aspose.com/c/psd/34).
 
 ### 무료 체험판이 있나요?
  물론입니다! 무료 체험판을 다운로드할 수 있습니다.[여기](https://releases.aspose.com/) 구매하기 전에 Aspose.PSD의 기능을 알아보세요.

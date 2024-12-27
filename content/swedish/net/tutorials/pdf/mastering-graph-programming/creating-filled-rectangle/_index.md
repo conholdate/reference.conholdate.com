@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Initiera ett nytt PDF-dokument:
 
 ```csharp
-//Skapa dokumentinstans
+// Skapa dokumentinstans
 Document doc = new Document();
 ```
 

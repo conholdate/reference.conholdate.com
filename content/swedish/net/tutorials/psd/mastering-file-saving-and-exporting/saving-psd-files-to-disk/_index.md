@@ -21,7 +21,7 @@ Innan du börjar bör du kontrollera följande:
 
 ### 2. Importera nödvändiga namnområden
 
-ditt .NET-projekt, inkludera de nödvändiga namnrymden överst i koden:
+I ditt .NET-projekt, inkludera de nödvändiga namnrymden överst i koden:
 
 ```csharp
 using Aspose.PSD.FileFormats.Psd;
@@ -79,7 +79,7 @@ A1: Absolut! Aspose.PSD stöder olika bildformat, vilket ger flexibilitet i dina
 
 ### Finns det en testversion tillgänglig?
 
- A2: Ja, du kan ladda ner en gratis testversion[här](https://releases.aspose.com/).
+A2: Ja, du kan ladda ner en gratis testversion[här](https://releases.aspose.com/).
 
 ### Var kan jag hitta support för Aspose.PSD för .NET?
 

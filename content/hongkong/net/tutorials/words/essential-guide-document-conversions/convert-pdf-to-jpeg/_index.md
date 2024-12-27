@@ -70,7 +70,7 @@ doc.Save(dataDir + "ConvertedImage.jpeg", SaveFormat.Jpeg);
 
 ## 結論
 
-現在你就擁有了！使用 Aspose.Words for .NET 將 PDF 轉換為 JPEG 是一個簡單的過程。只需幾行程式碼，您就可以轉換文件並釋放新的可能性。無論您是希望簡化工作流程的開發人員還是只是喜歡嘗試程式碼的開發人員，Aspose.Words 都是您工具包中的絕佳工具。
+現在你就得到它了！使用 Aspose.Words for .NET 將 PDF 轉換為 JPEG 是一個簡單的過程。只需幾行程式碼，您就可以轉換文件並釋放新的可能性。無論您是希望簡化工作流程的開發人員還是只是喜歡嘗試程式碼的開發人員，Aspose.Words 都是您工具包中的絕佳工具。
 
 ## 常見問題解答
 

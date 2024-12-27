@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Paso 3: Configurar las opciones de guardado
 
- Ahora, configure las opciones de guardado para utilizar la función "No comprimir metarchivos pequeños" con el`DocSaveOptions`clase.
+ Ahora, configure las opciones de guardado para utilizar la función "No comprimir metarchivos pequeños" con el`DocSaveOptions` clase.
 
 ```csharp
 // Configurar las opciones de guardado con la función "No comprimir metarchivos pequeños"

@@ -18,7 +18,7 @@ Dönüştürme işlemine başlamadan önce aşağıdaki ön koşulların karşı
 ### .NET için Aspose.GIS'i yükleyin
 
 -  Kütüphaneyi İndirin: Aspose.GIS for .NET'in en son sürümüne şuradan erişin:[yayın sayfası](https://releases.aspose.com/gis/net/).
--  Kurulum: Aşağıdaki ayrıntılı kurulum talimatlarını izleyin:[belgeleme](https://reference.aspose.com/gis/net/).
+- Kurulum: Aşağıdaki ayrıntılı kurulum talimatlarını izleyin:[belgeleme](https://reference.aspose.com/gis/net/).
 
 ### Gerekli Ad Alanlarını Ekle
 

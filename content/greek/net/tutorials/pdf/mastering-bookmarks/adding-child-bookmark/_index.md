@@ -15,7 +15,7 @@ url: /el/net/tutorials/pdf/mastering-bookmarks/adding-child-bookmark/
 
 Πριν προχωρήσουμε στην προσθήκη σελιδοδεικτών, βεβαιωθείτε ότι έχετε τα εξής:
 
-1.  Aspose.PDF για .NET: Κάντε λήψη της βιβλιοθήκης από το[Aspose ιστότοπο](https://releases.aspose.com/pdf/net/).
+1.  Aspose.PDF για .NET: Κάντε λήψη της βιβλιοθήκης από το[Aspose website](https://releases.aspose.com/pdf/net/).
 2. Visual Studio: Ένα περιβάλλον ανάπτυξης για τη σύνταξη και τη δοκιμή του κώδικά σας.
 3. Βασικές γνώσεις C#: Η εξοικείωση με τον προγραμματισμό C# θα σας βοηθήσει να κατανοήσετε τα αποσπάσματα κώδικα.
 

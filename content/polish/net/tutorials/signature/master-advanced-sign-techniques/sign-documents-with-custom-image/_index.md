@@ -9,7 +9,7 @@ url: /pl/net/tutorials/signature/master-advanced-sign-techniques/sign-documents-
 ---
 ## Wstęp
 
-tym samouczku dowiesz się, jak używać GroupDocs.Signature dla .NET do podpisywania dokumentów obrazami. Podpisywanie dokumentów zwiększa autentyczność i bezpieczeństwo plików, zapewniając, że są one odporne na manipulacje i prawnie wiążące. Dzięki zintegrowaniu funkcji podpisywania dokumentów z aplikacjami .NET możesz znacznie usprawnić swoje przepływy pracy.
+W tym samouczku dowiesz się, jak używać GroupDocs.Signature dla .NET do podpisywania dokumentów obrazami. Podpisywanie dokumentów zwiększa autentyczność i bezpieczeństwo plików, zapewniając, że są one odporne na manipulacje i prawnie wiążące. Dzięki zintegrowaniu funkcji podpisywania dokumentów z aplikacjami .NET możesz znacznie usprawnić swoje przepływy pracy.
 
 ## Wymagania wstępne
 
@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Krok 4: Zainicjuj obiekt podpisu
 
- Utwórz instancję`Signature`klasa, przekazując ścieżkę do pliku dokumentu:
+ Utwórz instancję`Signature` klasa, przekazując ścieżkę do pliku dokumentu:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

@@ -73,7 +73,7 @@ Po skonfigurowaniu opcji zapisz prezentację jako plik PDF. Oto, jak możesz to 
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
-Spowoduje to wygenerowanie pliku PDF o nazwie`Pdf_Notes_out.pdf` w określonym przez Ciebie katalogu, zawierającym slajdy wraz z notatkami.
+ Spowoduje to wygenerowanie pliku PDF o nazwie`Pdf_Notes_out.pdf` określonym przez Ciebie katalogu, zawierającym slajdy wraz z notatkami.
 
 ## Wniosek
 
@@ -88,10 +88,10 @@ Tak, Aspose.Slides dla platformy .NET jest przeznaczony do wydajnej obsługi pre
  Bezpłatną wersję próbną można pobrać ze strony[Tutaj](https://releases.aspose.com/).
 
 ### P3: Czy są dostępne inne opcje eksportu do pliku PDF?
- Tak, możesz dostosować czcionki, układ strony, kompresję i wiele więcej, korzystając z`PdfOptions`klasa.
+ Tak, możesz dostosować czcionki, układ strony, kompresję i wiele więcej, korzystając z`PdfOptions` klasa.
 
 ### P4: Czy mogę eksportować tylko wybrane slajdy?
- Oczywiście! Możesz wybrać konkretne slajdy za pomocą`Slides` kolekcja w`Presentation`klasa.
+ Oczywiście! Możesz wybrać konkretne slajdy za pomocą`Slides` kolekcja w`Presentation` klasa.
 
 ### P5: Gdzie mogę znaleźć dodatkowe przykłady?
- Odwiedź[Dokumentacja Aspose.Slides dla .NET](https://reference.aspose.com/slides/net/) aby zobaczyć więcej przykładów i przypadków użycia.
+ Odwiedź[Dokumentacja Aspose.Slides dla .NET](https://reference.aspose.com/slides/net/)aby zobaczyć więcej przykładów i przypadków użycia.

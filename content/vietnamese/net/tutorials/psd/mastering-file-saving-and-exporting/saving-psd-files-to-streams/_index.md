@@ -16,7 +16,7 @@ Trong lĩnh vực phát triển .NET nhanh chóng, Aspose.PSD nổi lên như m�
 Trước khi bắt đầu, hãy đảm bảo bạn đã thiết lập xong những điều sau:
 
 1. Visual Studio: Đảm bảo bạn đã cài đặt Visual Studio trên máy của mình.
-2.  Aspose.PSD cho .NET: Tải xuống và cài đặt thư viện Aspose.PSD. Bạn có thể tìm thấy phiên bản mới nhất[đây](https://releases.aspose.com/psd/net/).
+2. Aspose.PSD cho .NET: Tải xuống và cài đặt thư viện Aspose.PSD. Bạn có thể tìm thấy phiên bản mới nhất[đây](https://releases.aspose.com/psd/net/).
 3. Tệp PSD mẫu: Lấy tệp PSD mẫu để thử nghiệm. Nếu bạn không có, bất kỳ tệp PSD nào cũng có thể dùng cho mục đích trình diễn.
 4. Thư mục tài liệu: Tạo một thư mục trong dự án của bạn để lưu hình ảnh và ghi chú đường dẫn để sử dụng sau.
 
@@ -89,10 +89,10 @@ Xin chúc mừng! Bạn đã học thành công cách lưu hình ảnh vào lu�
 ## Câu hỏi thường gặp
 
 ### Tôi có thể sử dụng Aspose.PSD với bất kỳ loại tệp hình ảnh nào không?
-Có! Aspose.PSD hỗ trợ nhiều định dạng hình ảnh, bao gồm PSD, PNG, JPEG và nhiều định dạng khác. Để biết danh sách chi tiết, hãy kiểm tra tài liệu[đây](https://reference.aspose.com/psd/net/).
+ Có! Aspose.PSD hỗ trợ nhiều định dạng hình ảnh, bao gồm PSD, PNG, JPEG và nhiều định dạng khác. Để biết danh sách chi tiết, hãy kiểm tra tài liệu[đây](https://reference.aspose.com/psd/net/).
 
 ### Làm thế nào để tôi nhận được hỗ trợ cho Aspose.PSD?
- Để được hỗ trợ và cộng đồng hỗ trợ, hãy truy cập diễn đàn hỗ trợ Aspose.PSD[đây](https://forum.aspose.com/c/psd/34).
+Để được hỗ trợ và cộng đồng hỗ trợ, hãy truy cập diễn đàn hỗ trợ Aspose.PSD[đây](https://forum.aspose.com/c/psd/34).
 
 ### Có bản dùng thử miễn phí không?
  Chắc chắn rồi! Bạn có thể tải xuống bản dùng thử miễn phí[đây](https://releases.aspose.com/) để khám phá các tính năng của Aspose.PSD trước khi quyết định mua.

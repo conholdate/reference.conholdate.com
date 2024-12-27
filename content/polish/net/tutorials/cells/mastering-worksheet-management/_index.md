@@ -17,7 +17,7 @@ Czy masz dość ręcznego zarządzania plikami Excel? Wyobraź sobie automatyzac
 
 ## Tworzenie nowego pliku Excel  
 
- Tworzenie zupełnie nowego pliku Excel od podstaw może wydawać się zniechęcające, ale nie z Aspose.Cells! Nauczysz się programowo dodawać wiele arkuszy kalkulacyjnych, zmieniać ich nazwy i zapisywać swoją pracę — wszystko w usprawniony sposób. Ten samouczek jest idealny dla początkujących lub osób, które dopiero zaczynają przygodę z automatyzacją programu Excel. Dowiedz się więcej w[Dodawanie arkuszy kalkulacyjnych do nowego pliku Excel](./adding-worksheets-to-new-excel-file/).  
+ Tworzenie zupełnie nowego pliku Excel od podstaw może wydawać się zniechęcające, ale nie z Aspose.Cells! Nauczysz się programowo dodawać wiele arkuszy kalkulacyjnych, zmieniać ich nazwy i zapisywać swoją pracę — wszystko w usprawniony sposób. Ten samouczek jest idealny dla początkujących lub osób, które dopiero zaczynają przygodę z automatyzacją Excela. Dowiedz się więcej w[Dodawanie arkuszy kalkulacyjnych do nowego pliku Excel](./adding-worksheets-to-new-excel-file/).  
 
 ## Ulepszanie istniejących plików Excel  
 

@@ -15,7 +15,7 @@ V této příručce vás provedeme procesem vytváření místních hypertextov�
 
 Než se ponoříte do kódu, ujistěte se, že máte následující:
 
-1.  Visual Studio: Stáhněte si jej z[Webové stránky Visual Studia](https://visualstudio.microsoft.com/).
+1.  Visual Studio: Stáhněte si jej z[Web Visual Studio](https://visualstudio.microsoft.com/).
 2.  Aspose.PDF pro .NET: Stáhněte si knihovnu přes[Aspose webové stránky](https://releases.aspose.com/pdf/net/). Tato knihovna poskytuje bohatou sadu funkcí pro manipulaci s PDF.
 3. Základní znalost C#: Znalost programování v C# pomůže, ale nebojte se; vysvětlíme si kód řádek po řádku.
 4. .NET Framework: Ujistěte se, že máte na svém počítači nainstalovaný .NET Framework. Zkontrolujte požadavky na Aspose.PDF[dokumentace](https://reference.aspose.com/pdf/net/).
@@ -54,7 +54,7 @@ Pojďme si proces vytváření lokálních hypertextových odkazů rozdělit do 
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Nastavte adresář dokumentů
-Document doc = new Document(); //Vytvořit instanci dokumentu
+Document doc = new Document(); // Vytvořit instanci dokumentu
 ```
 
  Nahradit`"YOUR_DOCUMENT_DIRECTORY"` se skutečnou cestou ve vašem systému, kam bude PDF uložen.

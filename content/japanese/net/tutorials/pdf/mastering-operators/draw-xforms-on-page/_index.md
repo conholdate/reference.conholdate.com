@@ -119,7 +119,7 @@ form.Contents.Add(new GRestore());
 
 ## ステップ8: XFormをページ上に配置
 
-特定の座標でXFormをレンダリングするには、別の`ConcatenateMatrix`手術。
+XFormを特定の座標でレンダリングするには、別の`ConcatenateMatrix`手術。
 
 ```csharp
 pageContents.Add(new ConcatenateMatrix(1, 0, 0, 1, 100, 500));

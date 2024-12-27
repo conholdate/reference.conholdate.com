@@ -15,7 +15,7 @@ url: /el/net/tutorials/cells/mastering-worksheet-page-setup-features/implement-p
 
 Πριν βουτήξουμε, βεβαιωθείτε ότι έχετε τα εξής:
 
-1. Aspose.Cells για .NET: Κάντε λήψη του από το[Aspose ιστότοπο](https://releases.aspose.com/cells/net/) και εγκαταστήστε το στο έργο σας.
+1. Aspose.Cells για .NET: Κάντε λήψη του από το[Aspose website](https://releases.aspose.com/cells/net/) και εγκαταστήστε το στο έργο σας.
 2. Περιβάλλον ανάπτυξης: Χρησιμοποιήστε οποιοδήποτε IDE συμβατό με .NET, όπως το Visual Studio.
 3. Βασικές γνώσεις C#: Η εξοικείωση με το C# θα σας βοηθήσει να κατανοήσετε τα αποσπάσματα κώδικα.
 
@@ -91,7 +91,7 @@ workbook.Save(dataDir + "SetPageOrder_out.xls");
 
  Εκτός`OverThenDown` , μπορείτε να χρησιμοποιήσετε`DownThenOver`, το οποίο εκτυπώνει πρώτα τις στήλες πριν μετακινηθεί στις σειρές.
 
-### Αυτός ο κωδικός απαιτεί άδεια;
+### Αυτός ο κωδικός απαιτεί άδεια χρήσης;
 
  Ορισμένες λειτουργίες ενδέχεται να είναι περιορισμένες χωρίς άδεια. Μπορείτε να δοκιμάσετε[Aspose.Cells για .NET με δωρεάν δοκιμή](https://releases.aspose.com/).
 

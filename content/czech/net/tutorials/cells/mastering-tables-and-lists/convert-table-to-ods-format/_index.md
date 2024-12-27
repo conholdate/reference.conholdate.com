@@ -104,7 +104,7 @@ Aspose.Cells je výkonná knihovna pro správu a manipulaci se soubory Excel v a
 
  Ano! Můžete si stáhnout bezplatnou zkušební verzi Aspose.Cells z[zde](https://releases.aspose.com/cells/net/).
 
-### Je k dispozici podpora pro uživatele Aspose.Cells?
+### Je dostupná podpora pro uživatele Aspose.Cells?
 
  Absolutně! Podporu můžete získat prostřednictvím[Aspose fórum](https://forum.aspose.com/c/cells/9).
 

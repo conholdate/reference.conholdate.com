@@ -62,7 +62,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "RemoveGraphicsObjects.pdf");
 ```
 
- Dit creëert een instantie van de`Document` klasse die uw opgegeven PDF-bestand laadt.
+ Dit creëert een instantie van de`Document` klasse die het door u opgegeven PDF-bestand laadt.
 
 ## Stap 2: Toegang tot de pagina en operatorcollectie
 

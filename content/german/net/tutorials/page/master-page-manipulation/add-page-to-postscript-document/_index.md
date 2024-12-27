@@ -50,7 +50,7 @@ using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps")
     // Speicheroptionen für das Format A4 einrichten
     PsSaveOptions options = new PsSaveOptions();
     
-    //Erstellen Sie ein neues PostScript-Dokument mit 2 Seiten
+    // Erstellen Sie ein neues PostScript-Dokument mit 2 Seiten
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

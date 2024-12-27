@@ -87,7 +87,7 @@ Converter.ConvertHTML(htmlDocument, options, outputFile);
 ## 자주 묻는 질문
 
 ### .NET용 Aspose.HTML은 무료인가요?  
- .NET용 Aspose.HTML은 상용 제품입니다. 그러나 다음을 얻을 수 있습니다.[임시 면허](https://purchase.conholdate.com/temporary-license/) 평가를 위해서.
+ .NET용 Aspose.HTML은 상용 제품입니다. 그러나 다음을 얻을 수 있습니다.[임시 면허](https://purchase.conholdate.com/temporary-license/) 평가를 위해.
 
 ### HTML을 어떤 형식으로 변환할 수 있나요?  
 라이브러리는 GIF 외에도 PDF, PNG, JPEG 등 다양한 형식을 지원합니다.

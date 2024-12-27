@@ -2,7 +2,7 @@
 title: Vérification des séquences de zones de texte dans les documents Word
 linktitle: Vérification des séquences de zones de texte dans les documents Word
 second_title: API de traitement de documents Aspose.Words
-description: Découvrez comment créer, lier et vérifier facilement l'ordre des zones de texte pour garantir que votre contenu s'enchaîne de manière logique. Idéal pour les développeurs qui cherchent à améliorer la structure et la conception de leurs documents.
+description: Découvrez comment créer, lier et vérifier facilement l'ordre des zones de texte pour garantir la cohérence de votre contenu. Idéal pour les développeurs souhaitant améliorer la structure et la conception de leurs documents.
 type: docs
 weight: 10
 url: /fr/net/tutorials/words/words-with-textboxes/textbox-sequences-check/

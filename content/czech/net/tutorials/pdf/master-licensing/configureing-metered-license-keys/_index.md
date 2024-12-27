@@ -89,7 +89,7 @@ Gratuluji! Úspěšně jste nakonfigurovali měřené licenční klíče pro va�
 Měřená licence vám umožňuje platit na základě vašeho využití API, takže je ideální pro zpracování velkého objemu dokumentů.
 
 ### Jak získám měřené licenční klíče?  
- Kupte si měřené licenční klíče od[zde](https://purchase.aspose.com/buy) nebo požádat o dočasnou licenci.
+ Koupit měřené licenční klíče od[zde](https://purchase.aspose.com/buy) nebo požádat o dočasnou licenci.
 
 ### Mohu používat Aspose.PDF bez licence?  
 Ano, ale bezplatná verze má omezení. Pro neomezený přístup ke všem funkcím je vyžadována platná licence.

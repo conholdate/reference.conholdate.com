@@ -59,7 +59,7 @@ Console.WriteLine("Files have been successfully compressed into archive.cpio!");
   
 -  Opslaan Methode: Hiermee wordt het archief opgeslagen op het opgegeven pad, in dit geval als`archive.cpio` in de documentenmap.
   
-- Bericht dat het compressieproces is voltooid: Nadat het compressieproces is voltooid, verschijnt er een bericht waarin wordt bevestigd dat het archief succesvol is gemaakt.
+- Bericht dat het archief is aangemaakt: Nadat het compressieproces is voltooid, verschijnt er een bericht waarin wordt bevestigd dat het archief is aangemaakt.
 
 ## Conclusie
 

@@ -9,7 +9,7 @@ url: /nl/net/tutorials/pdf/master-licensing/loading-license-from-stream-object/
 ---
 ## Invoering
 
-Bent u klaar om de volledige kracht van Aspose.PDF voor .NET te benutten? Of u nu robuuste PDF-oplossingen bouwt of documenten beheert in een dynamische applicatie, de juiste licentie is essentieel. Zonder licentie kunt u beperkingen tegenkomen, zoals watermerken op uw documenten. Maak u geen zorgen: deze gids leidt u op een eenvoudige en vriendelijke manier door het proces van het laden van een licentie van een streamobject in Aspose.PDF voor .NET. Laten we beginnen!
+Bent u klaar om de volledige kracht van Aspose.PDF voor .NET te benutten? Of u nu robuuste PDF-oplossingen bouwt of documenten beheert in een dynamische applicatie, de juiste licentie is essentieel. Zonder licentie kunt u te maken krijgen met beperkingen, zoals watermerken op uw documenten. Maak u geen zorgen: deze gids leidt u op een eenvoudige en vriendelijke manier door het proces van het laden van een licentie van een streamobject in Aspose.PDF voor .NET. Laten we beginnen!
 
 ## Vereisten
 

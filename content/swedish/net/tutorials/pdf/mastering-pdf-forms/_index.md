@@ -27,7 +27,7 @@ I den digitala världen är det viktigt att göra dina dokument användarvänlig
 
 Att skapa interaktiva textrutor i dina PDF-filer kan avsevärt förbättra hur användarna interagerar med ditt formulär. Föreställ dig att designa en enkät eller ett feedbackformulär där användare kan skriva in sina svar direkt i dokumentet. Med Aspose.PDF för .NET-biblioteket är det enkelt att lägga till anpassningsbara textrutor. Denna handledning guidar dig genom hela processen, från att ställa in ditt PDF-dokument till att effektivt integrera textrutor. Se det som att utrusta din PDF med en personlig touch – så att användarna kan uttrycka sig fritt på formuläret![Läs mer](./adding-text-boxes/).
 
-## Bemästra PDF-formulär Tutorials
+## Handledning för att bemästra PDF-formulär
 | Titel | Beskrivning |
 | --- | --- | 
 | [Lägga till verktygstips till PDF-formulärfält med Aspose.PDF för .NET](./adding-tooltips-to-pdf-form-fields/) | Upptäck hur du kan förbättra användbarheten av dina PDF-formulär genom att lägga till informativa verktygstips till formulärfält med Aspose.PDF för .NET. Denna steg-för-steg guide leder dig genom processen. |  

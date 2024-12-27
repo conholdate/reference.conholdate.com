@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// Görüntüyü oluştur
+//Görüntüyü oluştur
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // Resmin üzerine çizmeye devam edin
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## Adım 4: Görüntüyü Kaydedin
 
- Son görüntüyü kaydetmek, yukarıda gösterildiği gibi basittir.`using` ifadesi nerede`image.Save()`otomatik olarak çağrılır`using` blok biter.
+ Son görüntüyü kaydetmek, yukarıda gösterildiği gibi basittir.`using` ifadesi nerede`image.Save()` otomatik olarak çağrılır`using` blok biter.
 
 ## Çözüm
 

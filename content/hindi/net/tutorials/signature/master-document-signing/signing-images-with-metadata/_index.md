@@ -49,7 +49,7 @@ using (Signature signature = new Signature(filePath))
     ushort imgsMetadataId = 41996; // मेटाडेटा के लिए आरंभिक आईडी
     MetadataSignOptions options = new MetadataSignOptions();
 
-    //विभिन्न प्रकार के मेटाडेटा हस्ताक्षर जोड़ें
+    // विभिन्न प्रकार के मेटाडेटा हस्ताक्षर जोड़ें
     options
         .Add(new ImageMetadataSignature(imgsMetadataId++, "Mr. Sherlock Holmes")) // स्ट्रिंग वैल्यू
         .Add(new ImageMetadataSignature(imgsMetadataId++, DateTime.Now))          // दिनांकसमय मान

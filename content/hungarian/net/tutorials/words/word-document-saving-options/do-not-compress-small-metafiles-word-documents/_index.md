@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## 3. lépés: Konfigurálja a mentési beállításokat
 
- Most állítsa be a mentési beállításokat a "Ne tömörítsen kis metafájlokat" funkció használatához a`DocSaveOptions`osztály.
+ Most állítsa be a mentési beállításokat a "Ne tömörítsen kis metafájlokat" funkció használatához a`DocSaveOptions` osztály.
 
 ```csharp
 // Konfigurálja a mentési beállításokat a "Ne tömörítsen kis metafájlokat" funkcióval
@@ -87,7 +87,7 @@ Ha követi ezeket a lépéseket, biztosíthatja, hogy a Word-dokumentumokban lé
 
 ### Miért használjam a "Ne tömörítsen kis metafájlokat" funkciót?
 
-Ez a funkció előnyös a kis metafájlok vizuális minőségének megőrzéséhez, ami döntő fontosságú a professzionális és jó minőségű dokumentumkimenetek eléréséhez.
+Ez a funkció előnyös a kisméretű metafájlok vizuális minőségének megőrzéséhez, ami döntő fontosságú a professzionális és jó minőségű dokumentumkimenetek eléréséhez.
 
 ### Használhatom ezt a funkciót más fájlformátumokkal?
 

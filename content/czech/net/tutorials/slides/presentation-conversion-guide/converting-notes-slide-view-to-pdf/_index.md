@@ -2,7 +2,7 @@
 title: Převod poznámek Slide View do PDF pomocí Aspose.Slides pro .NET
 linktitle: Převod poznámek Slide View do PDF pomocí Aspose.Slides pro .NET
 second_title: Aspose.Slides .NET PowerPoint Processing API
-description: Naučte se, jak bez námahy převádět PowerPointové prezentace pomocí Notes Slide View do formátu PDF pomocí Aspose.Slides for .NET. Tato příručka obsahuje podrobné pokyny.
+description: Naučte se, jak bez námahy převést PowerPointové prezentace pomocí Notes Slide View do formátu PDF pomocí Aspose.Slides for .NET. Tato příručka obsahuje podrobné pokyny.
 type: docs
 weight: 15
 url: /cs/net/tutorials/slides/presentation-conversion-guide/converting-notes-slide-view-to-pdf/
@@ -73,7 +73,7 @@ Jakmile jsou vaše možnosti nakonfigurovány, uložte prezentaci jako PDF. Mů�
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
-Tím se vygeneruje soubor PDF s názvem`Pdf_Notes_out.pdf` ve vámi zadaném adresáři obsahující snímky spolu s jejich poznámkami.
+ Tím se vygeneruje soubor PDF s názvem`Pdf_Notes_out.pdf`ve vámi zadaném adresáři obsahující snímky spolu s jejich poznámkami.
 
 ## Závěr
 
@@ -88,10 +88,10 @@ Ano, Aspose.Slides for .NET je navržen tak, aby efektivně zpracovával prezent
  Můžete si stáhnout bezplatnou zkušební verzi z[zde](https://releases.aspose.com/).
 
 ### Q3: Jsou k dispozici další možnosti exportu PDF?
- Ano, můžete upravit písma, rozvržení stránky, kompresi a další pomocí`PdfOptions`třída.
+ Ano, můžete upravit písma, rozvržení stránky, kompresi a další pomocí`PdfOptions` třída.
 
 ### Q4: Mohu exportovat pouze konkrétní snímky?
- Absolutně! Konkrétní snímky můžete vybrat pomocí`Slides` sbírka v`Presentation`třída.
+ Absolutně! Konkrétní snímky můžete vybrat pomocí`Slides` sbírka v`Presentation` třída.
 
 ### Q5: Kde najdu další příklady?
- Navštivte[Aspose.Slides pro .NET dokumentaci](https://reference.aspose.com/slides/net/) pro další příklady a případy použití.
+ Navštivte[Aspose.Slides pro .NET dokumentaci](https://reference.aspose.com/slides/net/)pro další příklady a případy použití.

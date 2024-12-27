@@ -21,7 +21,7 @@ Mielőtt elkezdené, győződjön meg a következőkről:
 
 ### 2. Importálja a szükséges névtereket
 
-.NET-projektben adja meg a szükséges névtereket a kód tetején:
+A .NET-projektben adja meg a szükséges névtereket a kód tetején:
 
 ```csharp
 using Aspose.PSD.FileFormats.Psd;
@@ -79,7 +79,7 @@ A1: Abszolút! Az Aspose.PSD különféle képformátumokat támogat, rugalmass�
 
 ### Létezik próbaverzió?
 
- 2. válasz: Igen, letölthet egy ingyenes próbaverziót[itt](https://releases.aspose.com/).
+2. válasz: Igen, letölthet egy ingyenes próbaverziót[itt](https://releases.aspose.com/).
 
 ### Hol találok támogatást az Aspose.PSD for .NET számára?
 

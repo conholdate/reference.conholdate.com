@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// Vytvořte obrázek
+//Vytvořte obrázek
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // Pokračujte v kreslení na obrázek
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## Krok 4: Uložte obrázek
 
- Uložení konečného obrázku je jednoduché, jak je znázorněno výše na obrázku`using` prohlášení kde`image.Save()`se volá automaticky, když je`using` blok končí.
+ Uložení konečného obrázku je jednoduché, jak je znázorněno výše na obrázku`using` prohlášení kde`image.Save()` se volá automaticky, když je`using` blok končí.
 
 ## Závěr
 

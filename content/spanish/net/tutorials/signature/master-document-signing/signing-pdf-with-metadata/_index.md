@@ -106,4 +106,4 @@ Sí, GroupDocs.Signature admite una amplia gama de formatos de documentos, inclu
 
 ### ¿Hay soporte técnico disponible para los usuarios de GroupDocs.Signature?
 
-Sí, GroupDocs ofrece soporte técnico especializado a través de sus foros. Puede acceder al foro de soporte[aquí](https://forum.groupdocs.com/c/signature/13).
+ Sí, GroupDocs ofrece soporte técnico especializado a través de sus foros. Puede acceder al foro de soporte[aquí](https://forum.groupdocs.com/c/signature/13).

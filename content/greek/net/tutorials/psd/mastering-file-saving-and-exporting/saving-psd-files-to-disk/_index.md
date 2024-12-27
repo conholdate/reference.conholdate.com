@@ -79,7 +79,7 @@ using (Image image = Image.Load(sourceFile))
 
 ### Υπάρχει διαθέσιμη δοκιμαστική έκδοση;
 
- A2: Ναι, μπορείτε να κάνετε λήψη μιας δωρεάν δοκιμής[εδώ](https://releases.aspose.com/).
+A2: Ναι, μπορείτε να κάνετε λήψη μιας δωρεάν δοκιμής[εδώ](https://releases.aspose.com/).
 
 ### Πού μπορώ να βρω υποστήριξη για το Aspose.PSD για .NET;
 

@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/words/mastering-bookmarks/create-bookmark-in-word-do
 
 在投入之前，請確保您具備以下條件：
 
-1.  Aspose.Words for .NET Library：從以下位置下載並安裝它[這裡](https://releases.aspose.com/words/net/).
+1.  Aspose.Words for .NET Library：從以下位址下載並安裝它[這裡](https://releases.aspose.com/words/net/).
 2. 開發環境：使用 Visual Studio 或任何與 .NET 相容的 IDE。
 3. 基本 C# 知識：熟悉 C# 程式設計概念將會很有幫助。
 

@@ -18,11 +18,11 @@ Voordat we beginnen, is het belangrijk om ervoor te zorgen dat uw ontwikkelomgev
 1.  Aspose.Cells voor .NET: U moet de Aspose.Cells-bibliotheek geïnstalleerd hebben. U kunt de nieuwste versie downloaden van de[Aspose-website](https://releases.aspose.com/cells/net/).
 2. IDE: Visual Studio (of een .NET IDE naar keuze) om uw code te schrijven en uit te voeren.
 3. Basiskennis van C#: Als u bekend bent met C#-programmering, kunt u de voorbeelden gemakkelijker volgen.
-4.  Excel-bestand: voor deze tutorial gebruiken we een Excel-bestand met de naam`ThreadedCommentsSample.xlsx`, die enkele threaded comments bevat. Zorg ervoor dat uw bestand comments bevat om te kunnen volgen.
+4.  Excel-bestand: voor deze tutorial gebruiken we een Excel-bestand met de naam`ThreadedCommentsSample.xlsx`, die enkele threaded comments bevat. Zorg ervoor dat uw bestand comments bevat om te volgen.
 
 ## De vereiste pakketten importeren
 
-Om te beginnen moet u de benodigde naamruimten importeren om met Aspose.Cells te werken. Open uw C#-project en voeg het volgende toe met behulp van richtlijnen boven aan uw codebestand:
+Om te beginnen moet u de benodigde namespaces importeren om met Aspose.Cells te werken. Open uw C#-project en voeg het volgende toe met behulp van richtlijnen boven aan uw codebestand:
 
 ```csharp
 using System;

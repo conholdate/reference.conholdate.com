@@ -127,7 +127,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to Aspose.Diagram for .NET**
 
-Az Aspose.Diagram egy tiszta .NET API a Microsoft Visio objektummodelljével való együttműködéshez. Az Aspose.Diagram jobb teljesítményt nyújt, és könnyebben használható diagramok kezelésére és fájlok konvertálására, mint a Microsoft Office Automation.
+Az Aspose.Diagram egy tiszta .NET API a Microsoft Visio objektummodelljével való együttműködéshez. Az Aspose.Diagram jobb teljesítményt biztosít, és könnyebben használható diagramok kezelésére és fájlok konvertálására, mint a Microsoft Office Automation.
 
 Az Aspose.Diagram kihasználja a Microsoft Office Visio által biztosított fejlett funkciókat a kiszolgálón lévő Visio diagramok kezeléséhez. Az Aspose.Diagram API bővíthető, könnyen használható, kompakt, és az összes leggyakoribb funkciót biztosítja, így a fejlesztők kevesebb kódot írhatnak.
 
@@ -397,7 +397,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to the Aspose.Font for .NET**
 
-Az Aspose.Font egy .NET betűkészlet-betöltő és rajzoló könyvtár. Több elülső formátumot támogat, mint például a TrueType (TrueType gyűjtőkkel), CFF, OpenType és Type1. Az API gazdag funkcionalitást biztosít a betűtípusok betöltéséhez/mentéséhez, és információkat biztosít az adatstruktúráiról, valamint az összes betűtípus által támogatott karakterjelről. Kódolási információkat is biztosít az összes betűtípushoz, amely a karakterkódok és a karakterjel-azonosítók közötti leképezést jelenti. Renderelő alrendszere segít a végfelhasználóknak a kívánt jelkép vagy szöveg megjelenítésében. Speciális karakterjelek előállíthatók az interfész megvalósításával egyszerű grafikus funkciókkal (pont mozgatása, vonal rajzolása, görbe).
+Az Aspose.Font egy .NET betűkészlet-betöltő és rajzoló könyvtár. Több elülső formátumot támogat, mint például a TrueType (TrueType gyűjteményekkel), a CFF, az OpenType és a Type1. Az API gazdag funkcionalitást biztosít a betűtípusok betöltéséhez/mentéséhez, és információkat biztosít az adatstruktúráiról, valamint az összes betűtípus által támogatott karakterjelről. Kódolási információkat is biztosít az összes betűtípushoz, amely a karakterkódok és a karakterjel-azonosítók közötti leképezést jelenti. Renderelő alrendszere segít a végfelhasználóknak a kívánt jelkép vagy szöveg megjelenítésében. Speciális karakterjelek előállíthatók az interfész egyszerű grafikus funkcionalitással (pont mozgatása, vonal rajzolása, görbe) megvalósításával.
 
 {{% /alert %}} 
 

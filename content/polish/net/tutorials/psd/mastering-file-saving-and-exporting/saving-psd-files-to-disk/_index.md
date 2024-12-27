@@ -21,7 +21,7 @@ Zanim zaczniesz, upewnij się, że:
 
 ### 2. Importuj wymagane przestrzenie nazw
 
-projekcie .NET dodaj niezbędne przestrzenie nazw na początku kodu:
+W projekcie .NET dodaj niezbędne przestrzenie nazw na początku kodu:
 
 ```csharp
 using Aspose.PSD.FileFormats.Psd;
@@ -79,7 +79,7 @@ A1: Oczywiście! Aspose.PSD obsługuje różne formaty obrazów, oferując elast
 
 ### Czy jest dostępna wersja próbna?
 
- A2: Tak, możesz pobrać bezpłatną wersję próbną[Tutaj](https://releases.aspose.com/).
+A2: Tak, możesz pobrać bezpłatną wersję próbną[Tutaj](https://releases.aspose.com/).
 
 ### Gdzie mogę znaleźć pomoc techniczną dotyczącą Aspose.PSD dla .NET?
 

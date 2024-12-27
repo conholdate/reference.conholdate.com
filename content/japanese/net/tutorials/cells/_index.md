@@ -18,8 +18,8 @@ Aspose.Cells for .NET は、.NET アプリケーションで Excel ファイル�
 | [Excel ワークシートの操作ガイド](./guide-to-working-with-excel-worksheets/) | C# 開発者向けにカスタマイズされた Aspose.Cells for .NET を使用して Excel ワークシートを効率的に管理するための包括的なチュートリアルをご覧ください。 |
 | [PDFファイルへの変換](./conversion-to-pdf-file/) | Aspose.Cells for .NET を使用すると、Excel ファイルを簡単に PDF に変換できます。包括的なチュートリアルで、ステップバイステップのガイド、コード スニペット、ヒントをご覧ください。 |
 | [Aspose.Cells for .NET のワークシート操作ガイド](./guide-worksheet-operations/) | HTML の画像設定から ODS でのグラフィック背景の追加まで、Aspose.Cells for .NET のチュートリアルをご覧ください。ステップ バイ ステップ ガイドで学習します。 |
-| [Aspose.Cells でのエラー処理とカスタマイズの習得](./mastering-error-handling-and-customization/) | Aspose.Cells for .NET のチュートリアルを確認し、エラー処理をマスターし、Excel ワークフローをカスタマイズし、シームレスなガイドを使用して Office アドインを PDF に変換します。 |
-| [Excel スライサー管理の習得](./mastering-excel-slicers-management/) | Aspose.Cells for .NET のチュートリアルを確認し、エラー処理をマスターし、Excel ワークフローをカスタマイズし、シームレスなガイドを使用して Office アドインを PDF に変換します。 |
+| [Aspose.Cells でのエラー処理とカスタマイズの習得](./mastering-error-handling-and-customization/) | Aspose.Cells for .NET チュートリアルを確認し、エラー処理をマスターし、Excel ワークフローをカスタマイズし、シームレスなガイドを使用して Office アドインを PDF に変換します。 |
+| [Excel スライサー管理の習得](./mastering-excel-slicers-management/) | Aspose.Cells for .NET チュートリアルを確認し、エラー処理をマスターし、Excel ワークフローをカスタマイズし、シームレスなガイドを使用して Office アドインを PDF に変換します。 |
 | [Aspose.Cells for .NET でのレンダリングとエクスポートの習得](./mastering-rendering-and-exporting/) | 重要な Aspose.Cells for .NET チュートリアルを見つけ、詳細なガイドでレンダリング、エクスポート、リソースの管理、ブックマークの追加などを学習します。 |
 | [Aspose.Cells for .NET でのテーブルとリストの習得](./mastering-tables-and-lists/) | 重要な Aspose.Cells for .NET チュートリアルを見つけ、詳細なガイドでレンダリング、エクスポート、リソースの管理、ブックマークの追加などを学習します。 |
 | [Aspose.Cells for .NET でのワークブック操作の習得](./mastering-workbook-operations/) | Web 拡張データへのアクセス、デジタル署名の追加、圧縮レベルの調整に関するガイドを含む、Aspose.Cells for .NET チュートリアルの厳選リストをご覧ください。 |

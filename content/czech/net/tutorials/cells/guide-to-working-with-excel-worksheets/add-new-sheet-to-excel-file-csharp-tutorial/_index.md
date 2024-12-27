@@ -9,7 +9,7 @@ url: /cs/net/tutorials/cells/guide-to-working-with-excel-worksheets/add-new-shee
 ---
 ## Zavedení
 
-Programová správa souborů aplikace Excel může znamenat zásadní změnu pro automatizaci pracovních postupů a zpracování dat. Jedním ze základních úkolů je přidávání nových listů do existujícího nebo nového souboru Excel. Aspose.Cells for .NET poskytuje robustní a efektivní způsob, jak takové operace zvládnout. V této příručce se podíváme na to, jak plynule přidat nový list do sešitu aplikace Excel pomocí Aspose.Cells, což zajistí, že budete moci plně využít výhody této výkonné knihovny.
+Programová správa souborů aplikace Excel může znamenat zásadní změnu pro automatizaci pracovních postupů a zpracování dat. Jedním ze základních úkolů je přidávání nových listů do existujícího nebo nového souboru Excel. Aspose.Cells for .NET poskytuje robustní a efektivní způsob, jak takové operace zvládnout. V této příručce se budeme zabývat tím, jak bez problémů přidat nový list do sešitu aplikace Excel pomocí Aspose.Cells, což zajistí, že budete moci plně využít výhody této výkonné knihovny.
 
 ## Předpoklady úspěchu
 

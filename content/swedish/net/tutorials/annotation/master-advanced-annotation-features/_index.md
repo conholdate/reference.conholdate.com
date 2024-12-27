@@ -29,4 +29,4 @@ Denna funktion är en livräddare, särskilt för applikationer som hanterar må
 ### [Exportera kommentarer från XML-filer med GroupDocs.Annotation för .NET](./export-annotations-from-xml-file/)
 Upptäck hur du förbättrar ditt arbetsflöde för dokumenthantering genom att exportera kommentarer från XML-filer med GroupDocs.Annotation för .NET. Denna omfattande handledning ger steg-för-steg.
 ### [Generera förhandsvisningar av dokumentsidor med GroupDocs.Annotation för .NET](./generate-document-page-previews/)
-Upptäck hur du sömlöst integrerar förhandsgranskningsfunktioner för dokumentsidor i dina .NET-applikationer med hjälp av GroupDocs.Annotation. Denna steg-för-steg guide.
+Upptäck hur du sömlöst integrerar förhandsgranskningsfunktioner för dokumentsidor i dina .NET-applikationer med hjälp av GroupDocs.Annotation. Denna steg-för-steg handledning.

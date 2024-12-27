@@ -54,7 +54,7 @@ using System.Text;
 首先，我們需要建立一個實例`License`類，它將處理我們的許可證文件。
 
 ```csharp
-//初始化許可證對象
+//初始化許可對象
 Aspose.Pdf.License license = new Aspose.Pdf.License();
 ```
 
@@ -87,7 +87,7 @@ Console.WriteLine("License set successfully.");
 
 ## 結論
 
-現在你就擁有了！您已經了解如何從 Aspose.PDF for .NET 中的串流物件載入授權。此步驟對於解鎖 Aspose.PDF 提供的全部功能至關重要。將本指南放在手邊，您將做好充分準備來處理遇到的任何 PDF 許可任務。
+現在你就得到它了！您已經了解如何從 Aspose.PDF for .NET 中的串流物件載入授權。此步驟對於解鎖 Aspose.PDF 提供的全部功能至關重要。將本指南放在手邊，您將做好充分準備來處理遇到的任何 PDF 許可任務。
 
 ## 常見問題解答
 

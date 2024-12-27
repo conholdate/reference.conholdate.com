@@ -111,7 +111,7 @@ Gefeliciteerd! U hebt zojuist geleerd hoe u PDF-bestanden kunt samenvoegen met A
 Aspose.PDF voor .NET is een bibliotheek waarmee ontwikkelaars PDF-bestanden kunnen maken, bewerken en converteren.
 
 ### Kan ik Aspose.PDF gratis gebruiken?  
- Ja! Aspose biedt een gratis proefperiode aan die u kunt gebruiken om de bibliotheek te verkennen. Bekijk het[hier](https://releases.aspose.com/).
+ Ja! Aspose biedt een gratis proefperiode aan die u kunt gebruiken om de bibliotheek te verkennen. Bekijk het eens[hier](https://releases.aspose.com/).
 
 ### Hoe kan ik Aspose.PDF voor .NET kopen?  
  U kunt Aspose.PDF kopen door de website te bezoeken[aankooppagina](https://purchase.aspose.com/buy).

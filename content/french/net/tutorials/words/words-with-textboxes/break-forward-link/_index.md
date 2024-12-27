@@ -9,7 +9,7 @@ url: /fr/net/tutorials/words/words-with-textboxes/break-forward-link/
 ---
 ## Introduction
 
-Bonjour à tous les développeurs et passionnés de documents ! 🌟 Si vous avez déjà travaillé avec des documents Word, vous savez que la gestion des zones de texte peut être un peu délicate. Elles peuvent ressembler à une danse chaotique qui nécessite une chorégraphie minutieuse pour garantir la fluidité de votre contenu. Aujourd'hui, nous allons découvrir comment rompre les liens vers l'avant dans les zones de texte à l'aide d'Aspose.Words pour .NET. Ne vous inquiétez pas si cela semble un peu technique ; je vous guiderai à travers chaque étape de manière conviviale et facile à suivre. Que vous créiez un formulaire, une newsletter ou tout autre document complexe, la maîtrise des liens vers l'avant vous donnera un meilleur contrôle sur votre mise en page.
+Bonjour à tous les développeurs et passionnés de documents ! 🌟 Si vous avez déjà eu du mal à gérer des documents Word, vous savez que la gestion des zones de texte peut être un peu délicate. Elles peuvent ressembler à une danse chaotique qui nécessite une chorégraphie minutieuse pour garantir la fluidité de votre contenu. Aujourd'hui, nous allons découvrir comment rompre les liens vers l'avant dans les zones de texte à l'aide d'Aspose.Words pour .NET. Ne vous inquiétez pas si cela semble un peu technique ; je vous guiderai à travers chaque étape de manière conviviale et facile à suivre. Que vous créiez un formulaire, une newsletter ou tout autre document complexe, la maîtrise des liens vers l'avant vous donnera un meilleur contrôle sur votre mise en page.
 
 ## Prérequis
 

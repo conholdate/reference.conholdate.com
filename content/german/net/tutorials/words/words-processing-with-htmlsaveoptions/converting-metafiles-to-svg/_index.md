@@ -83,7 +83,7 @@ Diese Konfiguration weist Aspose.Words an, beim Exportieren nach HTML alle Metad
 
 ## Schritt 5: Speichern Sie das Dokument
 
- Zum Schluss speichern wir unser Dokument mit dem`Save` Methode der`Document`Klasse.
+ Zum Schluss speichern wir unser Dokument mit dem`Save` Methode der`Document` Klasse.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

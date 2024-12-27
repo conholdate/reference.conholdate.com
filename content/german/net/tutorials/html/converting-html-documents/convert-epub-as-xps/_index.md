@@ -51,7 +51,7 @@ Nachdem die Grundlagen vorhanden sind, können wir nun die Schritt-für-Schritt-
 
 ## Schritt 1: Richten Sie Ihr Datenverzeichnis ein
 
-Der erste Schritt besteht darin, das Verzeichnis anzugeben, in dem sich Ihre EPUB-Datei befindet, sowie den Speicherort der generierten XPS-Datei. Dies ist wichtig, da Ihre Anwendung wissen muss, wo nach Eingabe- und Ausgabedateien gesucht werden soll.
+Der erste Schritt besteht darin, das Verzeichnis anzugeben, in dem sich Ihre EPUB-Datei befindet, sowie den Speicherort der generierten XPS-Datei. Dies ist wichtig, da Ihre Anwendung wissen muss, wo nach Eingabe- und Ausgabedateien gesucht werden muss.
 
 ```csharp
 string dataDir = "Your Data Directory";

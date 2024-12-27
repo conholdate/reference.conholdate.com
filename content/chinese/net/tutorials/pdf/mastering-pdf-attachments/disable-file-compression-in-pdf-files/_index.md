@@ -86,7 +86,7 @@ pdfDocument.Save(dataDir);
 
 ## 步骤 7：确认成功
 
-（可选）打印确认消息到控制台以验证操作。
+（可选）打印一条确认消息到控制台来验证操作。
 
 ```csharp
 Console.WriteLine("File compression disabled and PDF saved at: " + outputFile);

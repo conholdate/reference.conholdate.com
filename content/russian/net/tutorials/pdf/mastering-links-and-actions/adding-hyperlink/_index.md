@@ -103,7 +103,7 @@ FreeTextAnnotation textAnnotation = new FreeTextAnnotation(
 document.Pages[1].Annotations.Add(textAnnotation);
 ```
 
-## Шаг 9: Сохраните документ
+## Шаг 9: Сохраните документ.
 
 Наконец, сохраните обновленный PDF-файл с помощью гиперссылки:
 

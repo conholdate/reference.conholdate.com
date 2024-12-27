@@ -18,7 +18,7 @@ url: /ru/net/tutorials/gis/guide-to-geo-data-conversion/converting-geojson-to-to
 ### Установить Aspose.GIS для .NET
 
 -  Загрузите библиотеку: получите доступ к последней версии Aspose.GIS для .NET с сайта[страница релиза](https://releases.aspose.com/gis/net/).
--  Установка: Следуйте подробным инструкциям по установке, приведенным в[документация](https://reference.aspose.com/gis/net/).
+- Установка: Следуйте подробным инструкциям по установке, приведенным в[документация](https://reference.aspose.com/gis/net/).
 
 ### Добавить требуемые пространства имен
 

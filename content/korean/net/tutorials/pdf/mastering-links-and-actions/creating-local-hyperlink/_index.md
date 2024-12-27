@@ -54,7 +54,7 @@ using Aspose.Pdf.Text;
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // 문서 디렉토리 설정
-Document doc = new Document(); //문서 인스턴스 생성
+Document doc = new Document(); // 문서 인스턴스 생성
 ```
 
  바꾸다`"YOUR_DOCUMENT_DIRECTORY"` PDF가 저장될 시스템의 실제 경로를 입력합니다.

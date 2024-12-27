@@ -35,7 +35,7 @@ using System.Drawing.Imaging;
 
 ## Βήμα 1: Δημιουργήστε ένα νέο έγγραφο OneNote
 
- Εκκινήστε ένα νέο έγγραφο OneNote χρησιμοποιώντας το`Document`τάξη.
+ Εκκινήστε ένα νέο έγγραφο OneNote χρησιμοποιώντας το`Document` τάξη.
 
 ```csharp
 Document doc = new Document();

@@ -15,7 +15,7 @@ url: /el/net/tutorials/pdf/mastering-Graph-programming/add-gradient-filled-drawi
 
 Πριν προχωρήσουμε στην υλοποίηση, βεβαιωθείτε ότι έχετε τα εξής:
 
-1.  Aspose.PDF για .NET Library: Κάντε λήψη και εγκατάσταση της βιβλιοθήκης από το[Aspose ιστότοπο](https://releases.aspose.com/pdf/net/).
+1.  Aspose.PDF για .NET Library: Κάντε λήψη και εγκατάσταση της βιβλιοθήκης από το[Aspose website](https://releases.aspose.com/pdf/net/).
 2. Περιβάλλον ανάπτυξης: Ρυθμίστε ένα περιβάλλον ανάπτυξης .NET, όπως το Visual Studio, για να γράψετε και να εκτελέσετε τον κώδικά σας.
 3. Βασική κατανόηση της C#: Η εξοικείωση με τον προγραμματισμό C# θα σας βοηθήσει να ακολουθήσετε ομαλά.
 

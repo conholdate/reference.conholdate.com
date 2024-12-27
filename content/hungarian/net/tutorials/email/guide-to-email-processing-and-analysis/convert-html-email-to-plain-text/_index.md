@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  A hozzáféréssel a`HtmlBody` tulajdona a`MailMessage` objektum esetén a HTML-tartalom most egy elnevezésű karakterlánc-változóban kerül tárolásra`htmlBody`.
 
-### 3. lépés: Készüljön fel a HTML egyszerű szöveggé konvertálására
+## 3. lépés: Készüljön fel a HTML egyszerű szöveggé konvertálására
 
 Most, hogy megvan a HTML tartalom, ideje előkészíteni a terepet a konverzióhoz. Használjuk az Aspose.Words-t, hogy gazdag HTML-kódunkat egyszerű szöveggé alakítsuk. De először létre kell hoznunk egy új dokumentumot:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Ez új üreset hoz létre`Document`. A HTML-tartalom beszúrásának megkezdése előtt eltávolítunk minden meglévő alárendelt csomópontot, hogy megbizonyosodjunk a tiszta lapról.
 
-### 4. lépés: HTML tartalom beszúrása
+## 4. lépés: HTML tartalom beszúrása
 
  Itt történik a megtérés varázsa! Használjuk a`DocumentBuilder` osztályt az Aspose.Words-ből, hogy HTML-tartalmunkat beillesszük a dokumentumba. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Itt,`DocumentBuilder().InsertHtml(htmlBody)` felveszi a HTML-karakterláncunkat, és betölti egy új dokumentumszerkezetbe`Document` objektum. Használata`ImportFormatMode.KeepSourceFormatting` biztosítja, hogy a formázás sértetlen maradjon a művelet során.
 
-### 5. lépés: Mentse el az egyszerű szöveges fájlt
+## 5. lépés: Mentse el az egyszerű szöveges fájlt
 
 Végül itt az ideje, hogy mentsük az újonnan létrehozott egyszerű szöveges fájlunkat. Íme, hogyan kell csinálni:
 

@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Selanjutnya, gambar garis kedua dari sudut kiri atas ke sudut kanan bawah:
 
 ```csharp
-//Buat garis dari sudut kiri atas ke sudut kanan bawah
+// Buat garis dari sudut kiri atas ke sudut kanan bawah
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Tambahkan baris kedua ke objek Grafik
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## Langkah 6: Tambahkan Grafik ke Halaman
 
- Dengan kedua garis digambar, tambahkan`Graph` keberatan terhadap halaman:
+ Dengan kedua garis digambar, tambahkan`Graph`keberatan terhadap halaman:
 
 ```csharp
 // Tambahkan objek Grafik ke koleksi paragraf halaman
@@ -122,7 +122,7 @@ Dengan langkah-langkah mudah ini, Anda dapat dengan mudah menggambar garis dalam
  Anda dapat menyesuaikan`StrokeColor` Dan`LineWidth` properti dari`Line` objek untuk menyesuaikan tampilannya.
 
 ### Dapatkah saya menempatkan baris di area tertentu pada halaman?
-Tentu saja! Ubah koordinat`Line` objek untuk menempatkannya di mana pun Anda membutuhkan.
+ Tentu saja! Ubah koordinat`Line` objek untuk menempatkannya di mana pun Anda membutuhkan.
 
 ### Apakah mungkin untuk menambahkan teks bersama baris-baris tersebut?
  Ya, Anda bisa membuatnya`TextFragment` objek dan menambahkannya ke koleksi paragraf halaman.

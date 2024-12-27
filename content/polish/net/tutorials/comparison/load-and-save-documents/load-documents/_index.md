@@ -9,7 +9,7 @@ url: /pl/net/tutorials/comparison/load-and-save-documents/load-documents/
 ---
 ## Wstęp
 
-Witamy w naszym samouczku dotyczącym korzystania z GroupDocs.Comparison dla .NET! Ta potężna biblioteka pozwala deweloperom łatwo porównywać szeroką gamę formatów dokumentów, w tym pliki Word, PDF i Excel. W tym przewodniku przeprowadzimy Cię przez proces porównywania dokumentów krok po kroku, zapewniając, że będziesz mógł skutecznie wykorzystać to narzędzie w swoich projektach.
+Witamy w naszym samouczku dotyczącym korzystania z GroupDocs.Comparison dla .NET! Ta potężna biblioteka pozwala deweloperom łatwo porównywać szeroki zakres formatów dokumentów, w tym pliki Word, PDF i Excel. W tym przewodniku przeprowadzimy Cię przez proces porównywania dokumentów krok po kroku, zapewniając, że będziesz mógł skutecznie wykorzystać to narzędzie w swoich projektach.
 
 ## Wymagania wstępne
 
@@ -65,7 +65,7 @@ using (Comparer comparer = new Comparer(sourcePath))
 }
 ```
 
-## Krok 4: Wyświetl lokalizację wyjścia
+## Krok 4: Wyświetl lokalizację wyjściową
 
 Po przeprowadzeniu porównania poinformuj użytkownika, gdzie może znaleźć wyniki:
 

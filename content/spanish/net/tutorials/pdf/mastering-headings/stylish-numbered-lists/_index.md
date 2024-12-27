@@ -55,7 +55,7 @@ A continuación, agregaremos una página en blanco al documento PDF, donde luego
 ```csharp
 // Agregar una nueva página al documento PDF
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Utilice la misma configuración que el documento
+pdfPage.PageInfo = pdfDoc.PageInfo; // Utilice la misma configuración que el documento
 ```
 
 ## Paso 3: Crear un cuadro flotante
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Utilice la misma configuración que el doc
 Un FloatingBox le permite posicionar el contenido independientemente del flujo de la página, lo que le brinda un mayor control sobre su diseño.
 
 ```csharp
-// Crear un FloatingBox para contenido estructurado
+//Crear un FloatingBox para contenido estructurado
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin
