@@ -9,7 +9,7 @@ url: /id/net/tutorials/barcode/guide-one-dimensional-barcode-types/
 ---
 ## Perkenalan
 
-Apakah Anda ingin mendalami dunia pembuatan kode batang di .NET? Baik Anda seorang profesional atau baru memulai, Aspose.BarCode untuk .NET menyediakan berbagai alat canggih untuk mempermudah pembuatan kode batang. Mari kita bahas beberapa tutorial utama untuk membantu Anda memulai.
+Apakah Anda sedang mendalami dunia pembuatan kode batang di .NET? Baik Anda seorang profesional atau baru memulai, Aspose.BarCode untuk .NET menyediakan berbagai alat canggih untuk mempermudah pembuatan kode batang. Mari kita bahas beberapa tutorial utama untuk membantu Anda memulai.
 
 ## Menyesuaikan Tinggi Barcode dengan Aspose.BarCode di .NET  
 

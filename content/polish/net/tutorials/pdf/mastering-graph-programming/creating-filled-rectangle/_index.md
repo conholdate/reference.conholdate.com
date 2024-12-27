@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Zainicjuj nowy dokument PDF:
 
 ```csharp
-//Utwórz instancję dokumentu
+// Utwórz instancję dokumentu
 Document doc = new Document();
 ```
 
@@ -124,7 +124,7 @@ doc.Save(dataDir);
 
 ## Krok 12: Wiadomość potwierdzająca
 
-Wydrukuj komunikat potwierdzający sukces:
+Wydrukuj komunikat potwierdzający pomyślne wykonanie operacji:
 
 ```csharp
 Console.WriteLine("\nFilled rectangle object created successfully.\nFile saved at " + dataDir);

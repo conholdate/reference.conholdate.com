@@ -55,7 +55,7 @@ Successivamente aggiungeremo una pagina vuota al documento PDF, dove in seguito 
 ```csharp
 // Aggiungere una nuova pagina al documento PDF
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Utilizzare le stesse impostazioni del documento
+pdfPage.PageInfo = pdfDoc.PageInfo; // Utilizzare le stesse impostazioni del documento
 ```
 
 ## Passaggio 3: creazione di una casella mobile
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Utilizzare le stesse impostazioni del docu
 Un FloatingBox consente di posizionare il contenuto indipendentemente dal flusso della pagina, offrendo un maggiore controllo sul layout.
 
 ```csharp
-// Crea un FloatingBox per contenuti strutturati
+//Crea un FloatingBox per contenuti strutturati
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

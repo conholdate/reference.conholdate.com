@@ -54,7 +54,7 @@ using Aspose.Pdf.Text;
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // अपनी दस्तावेज़ निर्देशिका सेट करें
-Document doc = new Document(); //दस्तावेज़ उदाहरण बनाएँ
+Document doc = new Document(); // दस्तावेज़ उदाहरण बनाएँ
 ```
 
  प्रतिस्थापित करें`"YOUR_DOCUMENT_DIRECTORY"` आपके सिस्टम पर वास्तविक पथ के साथ जहां पीडीएफ सहेजा जाएगा।

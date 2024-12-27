@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/words/mastering-bookmarks/
 ---
 ## 介紹
 
-在建立具有專業外觀的 Word 文件時，書籤可以改變遊戲規則。將書籤視為文件中的數位便簽 — 它們可協助您有效地導覽、參考和管理內容的特定部分。使用 Aspose.Words for .NET，您可以將您的文件編輯技能提升到一個新的水平，使您的工作不僅更輕鬆，而且更有效。準備好釋放書籤的潛力了嗎？讓我們開始吧！
+在建立具有專業外觀的 Word 文件時，書籤可以改變遊戲規則。將書籤視為文件中的數位便簽 - 它們可以幫助您有效地導航、參考和管理內容的特定部分。使用 Aspose.Words for .NET，您可以將文件編輯技能提升到一個新的水平，使您的工作不僅更輕鬆，而且更有效。準備好釋放書籤的潛力了嗎？讓我們開始吧！
 
 ## 什麼是書籤以及為什麼要使用它們？
 
@@ -23,7 +23,7 @@ url: /zh-hant/net/tutorials/words/mastering-bookmarks/
 
 ## 高級書籤功能
 
-對於那些尋求更高級功能的人，請考慮從已添加書籤的部分附加文字等任務。這是根據使用者定義的部分動態收集內容的強大方法。想像一下，根據您之前創建的書籤將包含基本文本的報告匯總在一起！查看我們的指南[附加 Word 文件中已加書籤的部分的文本](./append-text-from-bookmarked-sections/)了解這是如何完成的並學習有效管理內容的技巧。
+對於那些尋求更高級功能的人，請考慮從已添加書籤的部分附加文字等任務。這是根據使用者定義的部分動態收集內容的強大方法。想像一下，根據您之前創建的書籤將包含基本文本的報告匯總在一起！查看我們的指南[從 Word 文件中新增書籤的部分新增文本](./append-text-from-bookmarked-sections/)了解這是如何完成的並學習有效管理內容的技巧。
 
 ## 使用書籤刪除行
 
@@ -35,7 +35,7 @@ url: /zh-hant/net/tutorials/words/mastering-bookmarks/
  ## 掌握書籤教程
 | 標題 | 描述 |
 | --- | --- |
-| [附加 Word 文件中已加書籤的部分的文本](./append-text-from-bookmarked-sections/) | 了解如何使用 Aspose.Words for .NET 從 Word 文件的書籤部分無縫附加文字。這個逐步教程。 |
+| [從 Word 文件中新增書籤的部分新增文本](./append-text-from-bookmarked-sections/) | 了解如何使用 Aspose.Words for .NET 從 Word 文件的書籤部分無縫附加文字。這個逐步教程。 |
 | [使用 Aspose.Words for .NET 在 Word 文件中建立書籤](./create-bookmark-in-word-document/) | 了解如何使用 Aspose.Words for .NET 在 Word 文件中建立書籤 了解如何透過使用 Aspose.Words for .NET 建立和管理書籤來增強您的 Word 文件。本逐步教程指南。 |
 | [管理 Word 文件中的書籤可見性](./manage-bookmark-visibility-word-document/) | 了解如何使用 Aspose.Words for .NET 熟練地控制 Word 文件中內容的可見性。本逐步指南。 |
 | [使用 Aspose.Words for .NET 在 Word 文件中按書籤刪除行](./delete-row-by-bookmark-word-documents/) | 了解如何透過 Aspose.Words for .NET 使用書籤來有效刪除 Word 文件中的特定行。本逐步指南涵蓋了載入文件的內容。 |

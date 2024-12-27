@@ -81,7 +81,7 @@ using (MemoryStream dstStream = new MemoryStream())
 네! DOC, DOCX, HTML을 포함한 다양한 형식에서 RTF로 변환할 수 있습니다.
 
 ### Aspose.Words를 사용하려면 라이센스가 필요한가요?
- Aspose.Words는 체험 모드를 제공하지만 장기 사용이나 상업적 프로젝트의 경우 라이센스가 필요합니다. 다음을 고려하세요.[임시 면허](https://purchase.conholdate.com/temporary-license/) 평가를 위해서.
+ Aspose.Words는 체험 모드를 제공하지만 장기 사용이나 상업적 프로젝트의 경우 라이센스가 필요합니다. 다음을 고려하세요.[임시 면허](https://purchase.conholdate.com/temporary-license/) 평가를 위해.
 
 ### 전환 결과가 예상과 다르면 어떻게 되나요?
  문제점에 대한 입력 문서를 검토하거나 다음을 참조하십시오.[Aspose.Words 문서](https://reference.aspose.com/words/net/) 지침을 위해.

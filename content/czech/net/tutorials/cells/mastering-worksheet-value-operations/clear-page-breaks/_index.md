@@ -73,7 +73,7 @@ To vám efektivně zajistí čistý pracovní list bez přerušení.
 Po vymazání zalomení stránek uložte změny a dokončete sešit:
 
 ```csharp
-// Uložte soubor Excel
+// Uložte soubor aplikace Excel
 workbook.Save(dataDir + "ClearAllPageBreaks_out.xls");
 ```
 

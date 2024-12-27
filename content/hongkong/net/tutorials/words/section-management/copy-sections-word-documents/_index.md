@@ -67,7 +67,7 @@ Section sectionToCopy = sourceDoc.Sections[0];
 為了確保相容性，請將該部分匯入目標文件中。
 
 ```csharp
-//將部分匯入目標文檔
+//將部分匯入目標文件中
 Section importedSection = (Section)destinationDoc.ImportNode(sectionToCopy, true);
 ```
 

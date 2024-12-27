@@ -49,7 +49,7 @@ using (Signature signature = new Signature(filePath))
     ushort imgsMetadataId = 41996; // A metaadatok kezdőazonosítója
     MetadataSignOptions options = new MetadataSignOptions();
 
-    //Különféle típusú metaadat-aláírások hozzáadása
+    // Különféle típusú metaadat-aláírások hozzáadása
     options
         .Add(new ImageMetadataSignature(imgsMetadataId++, "Mr. Sherlock Holmes")) // Karakterlánc értéke
         .Add(new ImageMetadataSignature(imgsMetadataId++, DateTime.Now))          // DateTime érték

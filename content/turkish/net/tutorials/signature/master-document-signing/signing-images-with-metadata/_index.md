@@ -49,7 +49,7 @@ using (Signature signature = new Signature(filePath))
     ushort imgsMetadataId = 41996; // Meta veriler için başlangıç kimliği
     MetadataSignOptions options = new MetadataSignOptions();
 
-    //Çeşitli meta veri imzaları türleri ekleyin
+    // Çeşitli meta veri imzaları türleri ekleyin
     options
         .Add(new ImageMetadataSignature(imgsMetadataId++, "Mr. Sherlock Holmes")) // Dize değeri
         .Add(new ImageMetadataSignature(imgsMetadataId++, DateTime.Now))          // DateTime değeri

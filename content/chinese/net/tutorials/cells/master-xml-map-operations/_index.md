@@ -9,7 +9,7 @@ url: /zh/net/tutorials/cells/master-xml-map-operations/
 ---
 ## 介绍
 
-如果您曾经在 Excel 中管理 XML 数据时遇到困难，那么您来对地方了！Aspose.Cells for .NET 简化了 XML 映射的使用，使您能够精确地操作数据。无论是获取根元素名称、查询 XML 路径还是自动映射单元格区域，这些教程都能满足您的需求。
+如果您曾经在 Excel 中管理 XML 数据时遇到困难，那么您来对地方了！Aspose.Cells for .NET 简化了 XML 映射的使用，使您能够精确地操作数据。无论是获取根元素名称、查询 XML 路径还是自动化映射单元格区域，这些教程都能满足您的需求。
 
 ## 从 XML 映射中查找根元素名称  
 想知道如何从嵌入在 Excel 文件中的 XML 映射中提取根元素名称吗？本教程将指导您逐步完成使用 Aspose.Cells for .NET 的过程。它展示了如何仅用几行代码加载 Excel 文档、访问 XML 映射并获取根元素名称。[阅读更多](./find-root-element-name-from-xml-map/).

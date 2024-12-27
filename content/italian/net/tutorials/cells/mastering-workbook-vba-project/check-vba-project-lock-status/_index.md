@@ -73,7 +73,7 @@ Console.WriteLine("Is VBA Project Locked for Viewing: " + vbaProject.IsLockedFor
 
 ## Conclusione
 
-In questa guida, abbiamo esplorato come verificare se un progetto VBA è protetto e bloccato per la visualizzazione utilizzando Aspose.Cells per .NET. Abbiamo trattato i prerequisiti, importato i pacchetti necessari e suddiviso il processo in passaggi facili da seguire. Aspose.Cells semplifica le attività complesse, rendendolo uno strumento inestimabile per gli sviluppatori .NET che lavorano con file Excel.
+In questa guida, abbiamo esplorato come verificare se un progetto VBA è protetto e bloccato per la visualizzazione utilizzando Aspose.Cells per .NET. Abbiamo trattato i prerequisiti, importato i pacchetti necessari e suddiviso il processo in passaggi facili da seguire. Aspose.Cells semplifica le attività complesse, rendendolo uno strumento prezioso per gli sviluppatori .NET che lavorano con file Excel.
 
 Se ti è mai capitato di essere frustrato dai progetti VBA bloccati, questa guida ti fornirà le conoscenze necessarie per valutare e superare efficacemente queste barriere.
 

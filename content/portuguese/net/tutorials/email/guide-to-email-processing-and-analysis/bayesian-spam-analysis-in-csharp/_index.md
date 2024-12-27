@@ -17,7 +17,7 @@ Antes de começar a implementar a análise de spam bayesiana, certifique-se de t
 
 1. Visual Studio: O ambiente de desenvolvimento integrado (IDE) para escrever e gerenciar seus projetos C#.
 2. .NET Framework ou .NET Core: certifique-se de ter um deles instalado, pois eles são essenciais para executar aplicativos C#.
-3. Aspose.Email para .NET: Esta biblioteca poderosa ajudará você a lidar com operações de e-mail. Você pode baixar a biblioteca em[aqui](https://releases.aspose.com/email/net/) ou comece com um teste gratuito em[este link](https://releases.aspose.com/).
+3.  Aspose.Email para .NET: Esta biblioteca poderosa ajudará você a lidar com operações de e-mail. Você pode baixar a biblioteca em[aqui](https://releases.aspose.com/email/net/) ou comece com um teste gratuito em[este link](https://releases.aspose.com/).
 4. Conhecimento básico de C#: A familiaridade com a linguagem de programação C# tornará mais fácil seguir este tutorial.
 
 Depois de ter esses pré-requisitos, você estará pronto para mergulhar no código!
@@ -44,7 +44,7 @@ Agora, vamos dividir a implementação em etapas claras para garantir que você 
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- O`Load` método pega o caminho do arquivo do e-mail que você deseja analisar. Este arquivo deve estar no formato EML. Se você não tiver um, sinta-se à vontade para criar um e-mail simples e salvá-lo como`email.eml`.
+ O`Load` O método pega o caminho do arquivo do e-mail que você deseja analisar. Este arquivo deve estar no formato EML. Se você não tiver um, sinta-se à vontade para criar um e-mail simples e salvá-lo como`email.eml`.
 
 ## Etapa 2: Crie um analisador de spam
 
@@ -97,7 +97,7 @@ double spamProbability = spamAnalyzer.Test(message);
 bool isSpam = spamProbability > 0.5;
 ```
 
- O`Test` método retornará um valor de probabilidade mostrando a probabilidade de o e-mail ser spam. Se esse valor for maior que 0,5, o consideramos spam.
+ O`Test`método retornará um valor de probabilidade mostrando a probabilidade de o e-mail ser spam. Se esse valor for maior que 0,5, o consideramos spam.
 
 ## Etapa 7: Exibir o resultado
 
@@ -107,7 +107,7 @@ Por fim, vamos imprimir o resultado no console.
 Console.WriteLine($"Is Spam: {isSpam}");
 ```
 
-resultado é uma saída booleana simples, indicando se o e-mail verificado é spam. Ver a saída traz uma sensação de realização, não é?
+O resultado é uma saída booleana simples, indicando se o e-mail verificado é spam. Ver a saída traz uma sensação de realização, não é?
 
 ## Conclusão
 

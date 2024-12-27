@@ -18,7 +18,7 @@ Voordat u met het conversieproces begint, moet u ervoor zorgen dat aan de volgen
 ### Aspose.GIS voor .NET installeren
 
 -  Download de bibliotheek: Krijg toegang tot de nieuwste versie van Aspose.GIS voor .NET vanaf de[vrijgavepagina](https://releases.aspose.com/gis/net/).
--  Installatie: Volg de gedetailleerde installatie-instructies die in de[documentatie](https://reference.aspose.com/gis/net/).
+- Installatie: Volg de gedetailleerde installatie-instructies die in de[documentatie](https://reference.aspose.com/gis/net/).
 
 ### Vereiste naamruimten toevoegen
 

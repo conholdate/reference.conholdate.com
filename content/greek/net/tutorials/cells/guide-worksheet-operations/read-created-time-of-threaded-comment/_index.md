@@ -15,7 +15,7 @@ url: /el/net/tutorials/cells/guide-worksheet-operations/read-created-time-of-thr
 
 Πριν ξεκινήσουμε, είναι σημαντικό να βεβαιωθείτε ότι το περιβάλλον ανάπτυξής σας έχει ρυθμιστεί σωστά για να χρησιμοποιήσετε το Aspose.Cells για .NET. Εδώ είναι τι θα χρειαστείτε:
 
-1.  Aspose.Cells για .NET: Θα χρειαστείτε εγκατεστημένη τη βιβλιοθήκη Aspose.Cells. Μπορείτε να λάβετε την πιο πρόσφατη έκδοση από το[Aspose ιστότοπο](https://releases.aspose.com/cells/net/).
+1.  Aspose.Cells για .NET: Θα χρειαστείτε εγκατεστημένη τη βιβλιοθήκη Aspose.Cells. Μπορείτε να λάβετε την πιο πρόσφατη έκδοση από το[Aspose website](https://releases.aspose.com/cells/net/).
 2. IDE: Visual Studio (ή οποιοδήποτε .NET IDE της επιλογής σας) για να γράψετε και να εκτελέσετε τον κώδικά σας.
 3. Βασικές γνώσεις C#: Η εξοικείωση με τον προγραμματισμό C# θα διευκολύνει την παρακολούθηση των παραδειγμάτων.
 4.  Αρχείο Excel: Για αυτό το σεμινάριο, θα χρησιμοποιήσουμε ένα αρχείο Excel με το όνομα`ThreadedCommentsSample.xlsx`, το οποίο περιλαμβάνει ορισμένα σχόλια με νήματα. Βεβαιωθείτε ότι το αρχείο σας περιέχει σχόλια που πρέπει να ακολουθήσετε.
@@ -116,7 +116,7 @@ Console.WriteLine("Successfully retrieved threaded comment created times.");
 
 ### Πώς μπορώ να κατεβάσω το Aspose.Cells για .NET;
 
- Μπορείτε να κάνετε λήψη της πιο πρόσφατης έκδοσης του Aspose.Cells για .NET από το[Aspose ιστότοπο](https://releases.aspose.com/cells/net/).
+ Μπορείτε να κάνετε λήψη της πιο πρόσφατης έκδοσης του Aspose.Cells για .NET από το[Aspose website](https://releases.aspose.com/cells/net/).
 
 ### Υπάρχει δωρεάν δοκιμή διαθέσιμη;
 

@@ -63,7 +63,7 @@ Aspose.Imaging for .NET のエキスパート チュートリアルをご覧く�
 ### Aspose.Imaging チュートリアル
 - [Aspose.Imaging for .NET チュートリアル](./imaging/)
 
-## Aspose.バーコード
+## Aspose.BarCode
 {{% alert color="primary" %}}
 Aspose.BarCode for .NET の包括的なチュートリアルをご覧ください。詳細なステップバイステップのガイドを使用して、バーコードの生成、カスタマイズ、管理方法を学習します。
 {{% /alert %}}

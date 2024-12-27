@@ -55,7 +55,7 @@ Następnie dodamy pustą stronę do dokumentu PDF, na której później zastosuj
 ```csharp
 // Dodaj nową stronę do dokumentu PDF
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Użyj tych samych ustawień co w dokumencie
+pdfPage.PageInfo = pdfDoc.PageInfo; // Użyj tych samych ustawień co w dokumencie
 ```
 
 ## Krok 3: Tworzenie pływającego pola
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Użyj tych samych ustawień co w dokumenci
 Dzięki FloatingBox możesz pozycjonować treść niezależnie od układu strony, co daje Ci większą kontrolę nad jej układem.
 
 ```csharp
-// Utwórz FloatingBox dla treści strukturalnej
+//Utwórz FloatingBox dla treści strukturalnej
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

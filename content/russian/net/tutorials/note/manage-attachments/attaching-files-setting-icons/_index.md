@@ -35,7 +35,7 @@ using System.Drawing.Imaging;
 
 ## Шаг 1: Создайте новый документ OneNote
 
- Инициализируйте новый документ OneNote с помощью`Document`сорт.
+ Инициализируйте новый документ OneNote с помощью`Document` сорт.
 
 ```csharp
 Document doc = new Document();

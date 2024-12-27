@@ -148,7 +148,7 @@ wb.CustomXmlParts[2].ID = "Sport";
 wb.CustomXmlParts[3].ID = "Shape";
 ```
 Ebben a lépésben értelmes azonosítókat rendel hozzá, például „gyümölcs”, „szín”, „sport” és „alak”. Ez megkönnyíti a megfelelő alkatrészek azonosítását és utólagos kezelését.
-## 5. lépés: Adja meg az egyéni XML-alkatrész keresési azonosítóját
+## 5. lépés: Adja meg az egyéni XML-rész keresési azonosítóját
 Ha egy adott XML-részt az azonosítójával kíván lekérni, meg kell határoznia a keresett azonosítót.
 ```csharp
 //Adja meg a keresés egyéni xml alkatrészazonosítóját.

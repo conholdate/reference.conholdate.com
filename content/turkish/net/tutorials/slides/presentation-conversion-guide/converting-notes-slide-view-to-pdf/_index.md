@@ -73,7 +73,7 @@ Seçenekleriniz yapılandırıldıktan sonra sunumu PDF olarak kaydedin. Bunu na
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
-Bu, şu adlı bir PDF dosyası oluşturacaktır:`Pdf_Notes_out.pdf` Belirtilen dizinde, slaytlar ve notlarını içeren.
+ Bu, şu adlı bir PDF dosyası oluşturacaktır:`Pdf_Notes_out.pdf`Belirtilen dizinde, slaytlar ve notlarını içeren.
 
 ## Çözüm
 
@@ -88,10 +88,10 @@ Evet, Aspose.Slides for .NET her boyuttaki sunumu verimli bir şekilde işleyece
  Ücretsiz deneme sürümünü şuradan indirebilirsiniz:[Burada](https://releases.aspose.com/).
 
 ### S3: Başka PDF dışa aktarma seçenekleri mevcut mu?
- Evet, yazı tiplerini, sayfa düzenini, sıkıştırmayı ve daha fazlasını kullanarak özelleştirebilirsiniz.`PdfOptions`sınıf.
+ Evet, yazı tiplerini, sayfa düzenini, sıkıştırmayı ve daha fazlasını kullanarak özelleştirebilirsiniz.`PdfOptions` sınıf.
 
 ### S4: Yalnızca belirli slaytları dışa aktarabilir miyim?
- Kesinlikle! Belirli slaytları kullanarak seçebilirsiniz.`Slides` koleksiyonda`Presentation`sınıf.
+ Kesinlikle! Belirli slaytları kullanarak seçebilirsiniz.`Slides` koleksiyonda`Presentation` sınıf.
 
 ### S5: Ek örnekleri nerede bulabilirim?
- Ziyaret edin[Aspose.Slides .NET Belgeleri için](https://reference.aspose.com/slides/net/) Daha fazla örnek ve kullanım durumu için.
+ Ziyaret edin[Aspose.Slides .NET Belgeleri için](https://reference.aspose.com/slides/net/)Daha fazla örnek ve kullanım durumu için.

@@ -15,13 +15,13 @@ Jika Anda berkecimpung di dunia GIS (Sistem Informasi Geografis) menggunakan Asp
 
 Pertama adalah TopoJSON — format ringkas untuk mengodekan data geo. Mengapa Anda harus peduli? TopoJSON menyederhanakan data geospasial Anda sambil mempertahankan topologi, yang berarti geometri yang terhubung berbagi titik, sehingga menghasilkan ukuran file yang lebih kecil tanpa kehilangan integritas data. 
 
- Untuk memulai, Anda perlu menginstal Aspose.GIS untuk .NET. Setelah Anda melakukannya, lihat[Bekerja dengan TopoJSON di Aspose.GIS untuk .NET](./working-with-topojson/) tutorial. Buku ini menguraikan proses membaca, mengekstrak, dan menampilkan fitur geospasial dari file TopoJSON langkah demi langkah. Anda akan kagum betapa mudahnya Anda dapat memanipulasi data spasial jika Anda menguasai format ini!
+ Untuk memulai, Anda perlu menginstal Aspose.GIS untuk .NET. Setelah Anda melakukannya, lihat[Bekerja dengan TopoJSON di Aspose.GIS untuk .NET](./working-with-topojson/)tutorial. Buku ini menguraikan proses membaca, mengekstrak, dan menampilkan fitur geospasial dari file TopoJSON langkah demi langkah. Anda akan kagum betapa mudahnya Anda dapat memanipulasi data spasial jika Anda menguasai format ini!
 
 ## Menambahkan Lapisan ke Geodatabase File
 
 Selanjutnya, mari kita bahas tentang File Geodatabases (GDB) — GDB seperti lemari arsip digital untuk data spasial Anda. Menambahkan lapisan ke GDB mungkin terdengar menakutkan, tetapi dengan Aspose.GIS, itu mudah! 
 
- Di dalam[Menambahkan Layer ke Geodatabase File Menggunakan Aspose.GIS untuk .NET](./add-layer-to-file-geo-database/)tutorial ini, Anda akan mempelajari seluk-beluk pembuatan layer. Tutorial ini mencakup segala hal mulai dari prasyarat yang perlu Anda miliki hingga impor namespace dan langkah-langkah penting dalam membuat dan memvalidasi layer dalam kumpulan data GIS Anda. Anggap saja seperti membuat resep — Anda memerlukan bahan yang tepat dan metode yang baik untuk memasak sesuatu yang lezat!
+ Di dalam[Menambahkan Layer ke Geodatabase File Menggunakan Aspose.GIS untuk .NET](./add-layer-to-file-geo-database/) tutorial ini, Anda akan mempelajari seluk-beluk pembuatan layer. Tutorial ini mencakup segala hal mulai dari prasyarat yang perlu Anda miliki hingga impor namespace dan langkah-langkah penting dalam membuat dan memvalidasi layer dalam kumpulan data GIS Anda. Anggap saja seperti membuat resep — Anda memerlukan bahan yang tepat dan metode yang baik untuk memasak sesuatu yang lezat!
 
 ## Menguasai Tutorial Manajemen Lapisan
 ### [Bekerja dengan TopoJSON di Aspose.GIS untuk .NET](./working-with-topojson/)

@@ -46,14 +46,14 @@ Bir Word belgesini düzenlemenin ilk adımı, onu uygulamanıza yüklemektir. İ
 
 ### Adım 1: Dosya Yolunu Tanımlayın
 
-Word belgenizin dosya yolunu tanımlamanız gerekir. Bu örnek için, belgeyi kullanacağız`Properties.docx`.
+ Word belgenizin dosya yolunu tanımlamanız gerekir. Bu örnek için, belgeyi kullanacağız`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Değiştirdiğinizden emin olun`"YOUR DOCUMENT DIRECTORY"` Belgenizin saklandığı gerçek dizinle.
+ Değiştirdiğinizden emin olun`"YOUR DOCUMENT DIRECTORY"`Belgenizin saklandığı gerçek dizinle.
 
 ## Özel Belge Özelliklerine Erişim ve Kaldırma
 

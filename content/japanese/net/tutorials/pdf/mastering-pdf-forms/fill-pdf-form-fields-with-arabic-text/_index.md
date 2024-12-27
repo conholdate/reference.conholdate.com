@@ -96,7 +96,7 @@ pdfDocument.Save(dataDir);
 Console.WriteLine("\nArabic text filled successfully in form field.\nFile saved at " + dataDir);
 ```
 
-このメッセージは、すべてが順調に進んだことの確認となります。
+このメッセージは、すべてが順調に進んだことを確認するものです。
 
 ## 結論
 

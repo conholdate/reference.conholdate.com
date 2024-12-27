@@ -88,7 +88,7 @@ using (var renderer = Renderer.CreateRenderer())
 ```
 
 - Cube Render Texture: Detta används för att återge en kubkarta för panoramavyn. Vi definierar en 512x512 textur här.
-- Final Render Texture: Detta är texturen som kommer att hålla den sista ekvirektangulära panoramavyn.
+- Final Render Texture: Det här är texturen som kommer att hålla den sista ekvirektangulära panoramavyn.
 
 ## Steg 4: Konfigurera visningsporten och rendera scenen
 

@@ -84,7 +84,7 @@ wb.Save(outputDir + "outputErrorExcel2Pdf.pdf", opts);
 
 ## 6. lépés: Erősítse meg a sikeres végrehajtást
 
-A PDF mentése után célszerű tájékoztatnia magát (vagy a felhasználókat), hogy a folyamat sikeres volt. Ezt egy egyszerű konzolüzenettel teheti meg:
+A PDF mentése után célszerű tájékoztatnia magát (vagy a felhasználókat), hogy a folyamat sikeres volt. Ezt megteheti egy egyszerű konzolüzenettel:
 
 ```csharp
 Console.WriteLine("Conversion executed successfully. Check your output directory for the PDF.");

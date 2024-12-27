@@ -84,7 +84,7 @@ using (FileStream imageStream = new FileStream(dataDir + "aspose-logo.jpg", File
 
 Se till att sökvägen till bildfilen är korrekt.
 
-## Steg 6: Spara aktuell grafikstatus
+## Steg 6: Spara det aktuella grafikläget
 
 Innan du placerar bilden, spara den aktuella grafikstatusen:
 
@@ -133,7 +133,7 @@ page.Contents.Add(new Aspose.Pdf.Operators.GRestore());
 
 ## Steg 11: Spara det uppdaterade PDF-dokumentet
 
-Slutligen, spara den modifierade PDF:en:
+Slutligen, spara den ändrade PDF:en:
 
 ```csharp
 dataDir = dataDir + "AddImage_out.pdf";

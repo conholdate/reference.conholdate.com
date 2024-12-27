@@ -65,7 +65,7 @@ Workbook wb = new Workbook(sourceDir + "sampleRenderOfficeAdd-Ins.xlsx");
 
 ## 3. lépés: Mentse el a munkafüzetet PDF formátumban
 
-Amikor a munkafüzet betöltődött, ideje elmenteni PDF fájlként:
+A munkafüzet betöltése után ideje elmenteni PDF fájlként:
 
 ```csharp
 // Mentse el a munkafüzetet PDF formátumba
@@ -100,7 +100,7 @@ Teljesen! Az Aspose.Cells többféle formátumot támogat, beleértve az XLSX, X
 Használhatja a próbaverziót, de hosszabb használathoz ideiglenes licenc is beszerezhető. További részletek találhatók[itt](https://purchase.aspose.com/temporary-license/).
 
 ### Hogyan ellenőrizhetem, hogy az Aspose.Cells megfelelően van-e telepítve?
- Győződjön meg arról, hogy az Aspose.Cells névteret hiba nélkül tudja importálni. Arra is hivatkozhat[dokumentáció](https://reference.aspose.com/cells/net/) további részletekért.
+ Győződjön meg arról, hogy az Aspose.Cells névteret hiba nélkül tudja importálni. Hivatkozhat a[dokumentáció](https://reference.aspose.com/cells/net/) további részletekért.
 
 ### Hol találok támogatást az Aspose.Cells számára?
  Segítséget kérhet az Aspose közösségtől és a támogatási fórumtól[itt](https://forum.aspose.com/c/cells/9).

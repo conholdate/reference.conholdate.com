@@ -2,7 +2,7 @@
 title: PDF 操作員指南
 linktitle: PDF 操作員指南
 second_title: Aspose.PDF for .NET API 參考
-description: 透過這份詳細指南，釋放 .NET 應用程式中 PDF 操作的全部潛力。了解如何使用強大的 Aspose.PDF 庫輕鬆將影像新增至 PDF 文件。
+description: 透過這份詳細指南，釋放 .NET 應用程式中 PDF 操作的全部潛力。了解如何使用強大的 Aspose.PDF 庫輕鬆地將影像新增至 PDF 文件。
 type: docs
 weight: 20
 url: /zh-hant/net/tutorials/pdf/mastering-operators/guide-to-pdf-operators/

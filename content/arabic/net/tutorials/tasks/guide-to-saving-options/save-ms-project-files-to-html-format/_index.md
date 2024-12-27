@@ -16,7 +16,7 @@ url: /ar/net/tutorials/tasks/guide-to-saving-options/save-ms-project-files-to-ht
 قبل أن نبدأ، يرجى التأكد من توفر المتطلبات الأساسية التالية:
 
 1. المعرفة الأساسية بلغة C#: يُفترض الإلمام بلغة البرمجة C#.
-2.  تثبيت Aspose.Tasks: تأكد من تثبيت Aspose.Tasks for .NET في بيئة التطوير الخاصة بك. يمكنك الحصول عليه بسهولة من[موقع اسبوس](https://www.aspose.com).
+2. تثبيت Aspose.Tasks: تأكد من تثبيت Aspose.Tasks for .NET في بيئة التطوير الخاصة بك. يمكنك الحصول عليه بسهولة من[موقع اسبوس](https://www.aspose.com).
 3.  ملف Microsoft Project: احصل على ملف Microsoft Project جاهزًا للتحويل (مع`.mpp` امتداد).
 
 ## استيراد المساحات الأساسية الضرورية

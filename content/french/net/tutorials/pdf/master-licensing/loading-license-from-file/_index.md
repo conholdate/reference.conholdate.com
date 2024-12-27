@@ -55,7 +55,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Étape 3 : Appliquer la licence  
 
- Utilisez le`SetLicense` méthode de la`License` classe pour charger le fichier de licence.  
+ Utilisez le`SetLicense` méthode de la`License`classe pour charger le fichier de licence.  
 
 ```csharp
 license.SetLicense(dataDir + "Aspose.Pdf.lic");

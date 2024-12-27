@@ -105,7 +105,7 @@ Aspose.3D は主に .NET をサポートしていますが、Java やその他�
 
 はい、Aspose.3Dの機能を試すことができます。[無料トライアル](https://releases.aspose.com/).
 
-### Aspose.3D for .NET のサポートはどこで受けられますか?
+### Aspose.3D for .NET のサポートはどこで見つかりますか?
 
 コミュニティサポートについては、[Aspose.3D フォーラム](https://forum.aspose.com/c/3d/18).
 

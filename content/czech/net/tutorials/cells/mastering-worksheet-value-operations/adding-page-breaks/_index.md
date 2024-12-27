@@ -64,7 +64,7 @@ workbook.Worksheets[0].VerticalPageBreaks.Add("Y30");
 Nakonec uložte sešit, aby změny zůstaly zachovány:
 
 ```csharp
-// Uložte soubor Excel
+// Uložte soubor aplikace Excel
 workbook.Save(dataDir + "AddingPageBreaks_out.xls");
 ```
 Tento řádek uloží sešit s přidanými konci stránek do zadané cesty (`AddingPageBreaks_out.xls`).

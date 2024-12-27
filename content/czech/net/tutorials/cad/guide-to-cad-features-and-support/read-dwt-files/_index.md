@@ -65,7 +65,7 @@ Nyní můžete procházet entity v souboru DWT. Přizpůsobte logiku uvnitř smy
 ```csharp
 foreach (CadBaseEntity entity in image.Entities)
 {
-    // Provádějte operace s každou entitou CAD
+    // Provádějte operace na každé entitě CAD
     ProcessEntity(entity);
 }
 ```
@@ -84,7 +84,7 @@ Aspose.CAD je navržen tak, aby podporoval širokou škálu formátů CAD, včet
 
 ### Mohu použít Aspose.CAD pro komerční projekty?
 
- Ano, Aspose.CAD je vhodný pro osobní i komerční použití. Informace o licencích naleznete na[nákupní stránku](https://purchase.conholdate.com/buy).
+ Ano, Aspose.CAD je vhodný pro osobní i komerční použití. Informace o licencích naleznete na adrese[nákupní stránku](https://purchase.conholdate.com/buy).
 
 ### Je k dispozici bezplatná zkušební verze?
 

@@ -91,7 +91,7 @@ foreach (ThreadedComment comment in threadedComments)
 }
 ```
 
- Ce code affichera le contenu du commentaire, le nom de l'auteur et l'heure à laquelle le commentaire a été créé.`CreatedTime` la propriété renvoie l'horodatage de la création initiale du commentaire.
+ Ce code affichera le contenu du commentaire, le nom de l'auteur et l'heure de création du commentaire.`CreatedTime` la propriété renvoie l'horodatage de la création initiale du commentaire.
 
 ## Étape 6 : Afficher un message de confirmation
 

@@ -2,7 +2,7 @@
 title: Jelölje ki a nyelvtani és helyesírási hibákat
 linktitle: Jelölje ki a nyelvtani és helyesírási hibákat
 second_title: Aspose.Words Document Processing API
-description: Ismerje meg, hogyan automatizálhatja a nyelvtani és helyesírási hibák észlelését Word-dokumentumokban az Aspose.Words for .NET segítségével. Ez a lépésről-lépésre útmutató.
+description: Ismerje meg, hogyan automatizálhatja a nyelvtani és helyesírási hibák észlelését Word-dokumentumokban az Aspose.Words for .NET segítségével. Ez a lépésenkénti útmutató.
 type: docs
 weight: 10
 url: /hu/net/tutorials/words/mastering-document-options-and-settings/highlight-grammatical-and-spelling-errors/

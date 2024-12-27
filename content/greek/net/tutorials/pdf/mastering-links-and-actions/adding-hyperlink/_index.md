@@ -16,7 +16,7 @@ url: /el/net/tutorials/pdf/mastering-links-and-actions/adding-hyperlink/
 Πριν ξεκινήσουμε, βεβαιωθείτε ότι έχετε τα εξής:
 
 1. .NET Framework: Μια συμβατή έκδοση του .NET Framework που είναι εγκατεστημένη στον υπολογιστή σας.
-2.  Aspose.PDF για .NET Library: Κάντε λήψη της βιβλιοθήκης από το[Aspose ιστότοπο](https://releases.aspose.com/pdf/net/).
+2.  Aspose.PDF για .NET Library: Κάντε λήψη της βιβλιοθήκης από το[Aspose website](https://releases.aspose.com/pdf/net/).
 3. Βασικές γνώσεις C#: Η εξοικείωση με τον προγραμματισμό C# θα σας βοηθήσει να ακολουθήσετε ομαλά.
 4. Περιβάλλον ανάπτυξης: Ένα IDE όπως το Visual Studio που έχει δημιουργηθεί για κωδικοποίηση και δοκιμή.
 

@@ -35,7 +35,7 @@ Nejprve definujte adresář, kam se uloží váš výstupní soubor, a vytvořte
 
 ```csharp
 string dataDir = "Your Document Directory";
-// Vytvořte adresář, pokud není přítomen.
+// Vytvořte adresář, pokud není k dispozici.
 if (!Directory.Exists(dataDir))
     Directory.CreateDirectory(dataDir);
 ```
@@ -107,7 +107,7 @@ V tomto tutoriálu jsme probrali celý proces ochrany sloupců v excelovém list
 ### Mohu chránit více než jeden sloupec najednou?
 Ano, můžete zamknout více sloupců použitím stylu zámku na každý z nich, podobně jako jsme zamkli první sloupec.
 
-### Mohu uživatelům umožnit upravovat konkrétní sloupce a zároveň chránit zbytek?
+### Mohu povolit uživatelům upravovat konkrétní sloupce a zároveň chránit zbytek?
  Ano! Odemkněte konkrétní sloupce nastavením`style.IsLocked = false` pro ně před použitím ochrany listu.
 
 ### Jak odstraním ochranu z listu?

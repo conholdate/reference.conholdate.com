@@ -29,7 +29,7 @@ Lesezeichen fungieren als Verknüpfungen in Ihrem Word-Dokument. Sie ermögliche
 
 Wenn Sie schon einmal in der Situation waren, bestimmte Zeilen aus einer Tabelle in einem Word-Dokument löschen zu müssen, können Lesezeichen den Vorgang erheblich vereinfachen. Anstatt Ihr Dokument mit endlosem Scrollen zu durchsuchen, können Sie Aspose.Words für .NET nutzen, um Zeilen anhand von Lesezeichen zu identifizieren und zu löschen. Diese Methode spart nicht nur Zeit, sondern verringert auch die Fehlerwahrscheinlichkeit. 
 
- Unser Tutorial zu[Löschen Sie Zeilen per Lesezeichen in Word-Dokumenten mit Aspose.Words für .NET](./delete-row-by-bookmark-word-documents/) führt Sie Schritt für Schritt durch diesen Vorgang. Sie erfahren, wie Sie ein Dokument laden, Ihre mit Lesezeichen versehenen Zeilen finden und diese effizient löschen. Stellen Sie sich vor, Sie könnten Ihre Tabellen bereinigen, ohne jeden Eintrag manuell durchgehen zu müssen – das ist die Macht der Verwendung von Lesezeichen! 
+ Unser Tutorial zu[Löschen Sie Zeilen per Lesezeichen in Word-Dokumenten mit Aspose.Words für .NET](./delete-row-by-bookmark-word-documents/) führt Sie Schritt für Schritt durch diesen Prozess. Sie erfahren, wie Sie ein Dokument laden, Ihre mit Lesezeichen versehenen Zeilen finden und diese effizient löschen. Stellen Sie sich vor, Sie könnten Ihre Tabellen bereinigen, ohne jeden Eintrag manuell durchgehen zu müssen – das ist die Macht der Verwendung von Lesezeichen! 
 
 
  ## Tutorials zum Beherrschen von Lesezeichen

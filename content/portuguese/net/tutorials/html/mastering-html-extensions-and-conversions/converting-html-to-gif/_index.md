@@ -86,7 +86,7 @@ Você aprendeu como utilizar o Aspose.HTML para .NET para converter documentos H
 
 ## Perguntas frequentes
 
-### O Aspose.HTML para .NET é gratuito?  
+### Aspose.HTML para .NET é gratuito?  
  Aspose.HTML para .NET é um produto comercial. No entanto, você pode obter um[licença temporária](https://purchase.conholdate.com/temporary-license/) para avaliação.
 
 ### Em quais formatos posso converter HTML?  

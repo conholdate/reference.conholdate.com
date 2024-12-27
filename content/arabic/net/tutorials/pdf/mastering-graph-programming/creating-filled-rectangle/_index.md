@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 تهيئة مستند PDF جديد:
 
 ```csharp
-//إنشاء مثيل المستند
+// إنشاء مثيل المستند
 Document doc = new Document();
 ```
 

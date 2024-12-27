@@ -126,7 +126,7 @@ excelWorkbook1.Save(dataDir + "CopyWorksheetFromWorkbookToOther_out.xls");
 
 ## 結論
 
-現在你就擁有了！您可以使用 Aspose.Cells for .NET 輕鬆地將工作表從一個工作簿複製到另一個工作簿。此方法非常適合大型資料集、範本建立和報告生成。 
+現在你就得到它了！您可以使用 Aspose.Cells for .NET 輕鬆地將工作表從一個工作簿複製到另一個工作簿。此方法非常適合大型資料集、範本建立和報告生成。 
 
 ## 常見問題解答
 

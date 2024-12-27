@@ -16,7 +16,7 @@ Witamy w naszym kompleksowym samouczku dotyczącym konwersji plików Microsoft P
 Zanim zaczniemy, upewnij się, że spełnione są następujące wymagania wstępne:
 
 1. Podstawowa znajomość języka C#: Zakłada się znajomość języka programowania C#.
-2.  Instalacja Aspose.Tasks: Upewnij się, że Aspose.Tasks dla .NET jest zainstalowany w Twoim środowisku programistycznym. Możesz go łatwo uzyskać z[Strona internetowa Aspose](https://www.aspose.com).
+2. Instalacja Aspose.Tasks: Upewnij się, że Aspose.Tasks dla .NET jest zainstalowany w Twoim środowisku programistycznym. Możesz go łatwo uzyskać z[Strona internetowa Aspose](https://www.aspose.com).
 3.  Plik Microsoft Project: Przygotuj plik Microsoft Project do konwersji (z rozszerzeniem`.mpp` rozszerzenie).
 
 ## Importowanie niezbędnych przestrzeni nazw

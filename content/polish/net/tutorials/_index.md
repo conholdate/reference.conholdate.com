@@ -41,7 +41,7 @@ Odblokuj wydajne zarządzanie pocztą e-mail dzięki samouczkom Aspose.Email. Od
 
 ## Aspose.Slajdy
 {{% alert color="primary" %}}
-Odkryj świat manipulacji prezentacjami, konwersji i przetwarzania PowerPoint dzięki samouczkom Aspose.Slides dla .NET. Naucz się tworzyć, konwertować i ulepszać prezentacje, aby uzyskać imponujące rezultaty.
+Odkryj świat manipulacji prezentacjami, konwersji i przetwarzania PowerPoint dzięki samouczkom Aspose.Slides dla .NET. Naucz się tworzyć, konwertować i ulepszać prezentacje, aby uzyskać efektowne rezultaty.
 {{% /alert %}}
 
 ### Samouczki Aspose.Slides
@@ -81,7 +81,7 @@ Dowiedz się krok po kroku, jak łatwo i wydajnie tworzyć, edytować, konwertow
 
 ## Aspose.Rysunek
 {{% alert color="primary" %}}
-Podnieś swoje umiejętności graficzne dzięki Aspose.Drawing dla .NET. Od precyzyjnych przekształceń współrzędnych po dynamiczny tekst i czcionki, nasze samouczki odblokowują pełny potencjał grafiki.
+Podnieś swoje umiejętności graficzne dzięki Aspose.Drawing dla .NET. Od precyzyjnych transformacji współrzędnych po dynamiczny tekst i czcionki, nasze samouczki odblokowują pełny potencjał grafiki.
 {{% /alert %}}
 
 ### Aspose.Samouczki rysowania

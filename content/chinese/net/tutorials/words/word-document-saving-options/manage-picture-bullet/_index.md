@@ -9,7 +9,7 @@ url: /zh/net/tutorials/words/word-document-saving-options/manage-picture-bullet/
 ---
 ## 介绍
 
-各位开发人员，大家好！您是否曾经为处理 Word 文档中的图片项目符号而苦恼？这是那些可能严重影响文档外观的小细节之一。今天，我将指导您完成在 Aspose.Words for .NET 中管理图片项目符号的过程，特别关注“不保存图片项目符号”功能。让我们开始吧！
+各位开发人员，大家好！您是否曾经为 Word 文档中的图片项目符号而苦恼？这是一个可以显著影响文档外观的小细节。今天，我将指导您完成在 Aspose.Words for .NET 中管理图片项目符号的过程，特别关注“不保存图片项目符号”功能。让我们开始吧！
 
 ## 先决条件
 

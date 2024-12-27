@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Ensuite, tracez une deuxième ligne du coin supérieur gauche au coin inférieur droit :
 
 ```csharp
-//Créez une ligne du coin supérieur gauche au coin inférieur droit
+// Créez une ligne du coin supérieur gauche au coin inférieur droit
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Ajoutez la deuxième ligne à l'objet Graph
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## Étape 6 : ajouter le graphique à la page
 
- Avec les deux lignes tracées, ajoutez le`Graph` objet à la page :
+ Avec les deux lignes tracées, ajoutez le`Graph`objet à la page :
 
 ```csharp
 // Ajoutez l'objet Graph à la collection de paragraphes de la page
@@ -122,7 +122,7 @@ Grâce à ces étapes simples, vous pouvez facilement dessiner des lignes dans u
  Vous pouvez ajuster le`StrokeColor` et`LineWidth` propriétés de la`Line` objet pour personnaliser son apparence.
 
 ### Puis-je positionner des lignes dans des zones spécifiques de la page ?
-Absolument ! Modifiez les coordonnées de la`Line` objet à placer où vous en avez besoin.
+ Absolument ! Modifiez les coordonnées de la`Line` objet à placer où vous en avez besoin.
 
 ### Est-il possible d'ajouter du texte le long des lignes ?
  Oui, vous pouvez créer`TextFragment` objets et les ajouter à la collection de paragraphes de la page.

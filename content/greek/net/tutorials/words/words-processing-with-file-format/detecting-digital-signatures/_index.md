@@ -61,7 +61,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 FileFormatInfo info = FileFormatUtil.DetectFileFormat(Path.Combine(dataDir, "Digitally signed.docx"));
 ```
 
- Αυτός ο κωδικός ελέγχει τη μορφή του`Digitally signed.docx`.
+ Αυτός ο κώδικας ελέγχει τη μορφή του`Digitally signed.docx`.
 
 ## Βήμα 5: Ελέγξτε για ψηφιακές υπογραφές
 

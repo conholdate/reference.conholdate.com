@@ -35,7 +35,7 @@ Az alábbiakban bemutatjuk a részletes, lépésről lépésre történő megval
 
 ## 1. lépés: Hozzon létre egy új OneNote-dokumentumot
 
- Inicializáljon egy új OneNote-dokumentumot a`Document`osztály.
+ Inicializáljon egy új OneNote-dokumentumot a`Document` osztály.
 
 ```csharp
 Document doc = new Document();

@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Adım 3: Kaydetme Seçeneklerini Yapılandırın
 
- Şimdi, "Küçük Meta Dosyalarını Sıkıştırma" özelliğini kullanmak için kaydetme seçeneklerini yapılandırın`DocSaveOptions`sınıf.
+ Şimdi, "Küçük Meta Dosyalarını Sıkıştırma" özelliğini kullanmak için kaydetme seçeneklerini yapılandırın`DocSaveOptions` sınıf.
 
 ```csharp
 // "Küçük Meta Dosyalarını Sıkıştırma" özelliğiyle kaydetme seçeneklerini yapılandırın

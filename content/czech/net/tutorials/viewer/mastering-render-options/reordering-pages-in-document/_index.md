@@ -67,7 +67,7 @@ Předejte čísla stránek v požadovaném pořadí pro vykreslení. Chcete-li n
 viewer.View(options, 2, 1); // Objednejte podle potřeby
 ```
 
-## Krok 6: Upozorněte uživatele na úspěšné vykreslení
+## Krok 6: Informujte uživatele o úspěšném vykreslení
 
 Po vykreslení dokumentu informujte uživatele, že operace byla úspěšná.
 

@@ -22,7 +22,7 @@ Voordat we beginnen, zorg ervoor dat u het volgende heeft:
 
 ## Uw omgeving instellen
 
-Om te beginnen moet je de benodigde namespaces importeren. Dit zet je codeeromgeving op en bereidt je voor op het werken met Word-documenten.
+Om te beginnen moet je de benodigde namespaces importeren. Dit stelt je codeeromgeving in en bereidt je voor op het werken met Word-documenten.
 
 ```csharp
 using System;

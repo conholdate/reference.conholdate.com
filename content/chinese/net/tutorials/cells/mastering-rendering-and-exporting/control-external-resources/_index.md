@@ -153,4 +153,4 @@ Aspose.Cells 是一个面向 .NET 开发人员的强大库，可以创建、操�
 对于与支持相关的疑问，请访问[Aspose 支持论坛](https://forum.aspose.com/c/cells/9).
 
 ### 如何获得 Aspose.Cells 的临时许可证？
-您可以申请临时执照[这里](https://purchase.aspose.com/temporary-license/).
+您可以申请临时驾照[这里](https://purchase.aspose.com/temporary-license/).

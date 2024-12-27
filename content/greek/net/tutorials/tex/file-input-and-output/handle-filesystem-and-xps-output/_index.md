@@ -15,7 +15,7 @@ url: /el/net/tutorials/tex/file-input-and-output/handle-filesystem-and-xps-outpu
 
 Πριν ξεκινήσουμε, βεβαιωθείτε ότι έχετε τα εξής:
 
--  Aspose.TeX για .NET: Κάντε λήψη και εγκατάσταση της πιο πρόσφατης έκδοσης από το[Aspose ιστότοπο](https://releases.aspose.com/tex/net/).
+-  Aspose.TeX για .NET: Κάντε λήψη και εγκατάσταση της πιο πρόσφατης έκδοσης από το[Aspose website](https://releases.aspose.com/tex/net/).
 - Περιβάλλον ανάπτυξης: Ρυθμίστε ένα περιβάλλον ανάπτυξης .NET (όπως το Visual Studio).
 - Κατάλογοι εισόδου και εξόδου: Προετοιμάστε καταλόγους για τα αρχεία TeX σας και προσαρμόστε ανάλογα τις διαδρομές στα παραδείγματα.
 

@@ -46,14 +46,14 @@ Pierwszym krokiem w modyfikowaniu dokumentu Word jest załadowanie go do aplikac
 
 ### Krok 1: Określ ścieżkę pliku
 
-Musisz zdefiniować ścieżkę pliku swojego dokumentu Word. W tym przykładzie użyjemy document`Properties.docx`.
+ Musisz zdefiniować ścieżkę pliku swojego dokumentu Word. W tym przykładzie użyjemy document`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Upewnij się, że wymieniasz`"YOUR DOCUMENT DIRECTORY"` z rzeczywistym katalogiem, w którym przechowywany jest Twój dokument.
+ Upewnij się, że wymieniasz`"YOUR DOCUMENT DIRECTORY"` rzeczywistym katalogiem, w którym przechowywany jest Twój dokument.
 
 ## Uzyskiwanie dostępu do niestandardowych właściwości dokumentu i ich usuwanie
 

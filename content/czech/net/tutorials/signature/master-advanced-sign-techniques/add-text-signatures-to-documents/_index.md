@@ -9,13 +9,13 @@ url: /cs/net/tutorials/signature/master-advanced-sign-techniques/add-text-signat
 ---
 ## Zavedení
 
-dnešním digitálním prostředí se elektronické podepisování dokumentů stalo nezbytným pro zefektivnění pracovních postupů a úsporu zdrojů. GroupDocs.Signature for .NET poskytuje výkonné řešení pro programové přidávání textových podpisů do různých formátů dokumentů. Tento tutoriál vás provede kroky k podepsání dokumentu pomocí textu pomocí GroupDocs.Signature for .NET.
+V dnešním digitálním prostředí se elektronické podepisování dokumentů stalo nezbytným pro zefektivnění pracovních postupů a úsporu zdrojů. GroupDocs.Signature for .NET poskytuje výkonné řešení pro programové přidávání textových podpisů do různých formátů dokumentů. Tento tutoriál vás provede kroky k podepsání dokumentu pomocí textu pomocí GroupDocs.Signature for .NET.
 
 ## Předpoklady
 
 Než začneme, ujistěte se, že máte následující:
 
-1.  GroupDocs.Signature for .NET: Stáhněte a nainstalujte knihovnu z[zde](https://releases.groupdocs.com/signature/net/).
+1. GroupDocs.Signature for .NET: Stáhněte a nainstalujte knihovnu z[zde](https://releases.groupdocs.com/signature/net/).
 2. Vývojové prostředí: Nastavte své vývojové prostředí .NET.
 3. Dokument: Připravte dokument, který chcete podepsat (např. PDF, Word).
 
@@ -56,7 +56,7 @@ Nakonfigurujte možnosti pro váš textový podpis, včetně obsahu, pozice, vel
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, //pozice X
+    Left = 50, // pozice X
     Top = 200, // Y pozice
     Width = 100, // Šířka podpisu
     Height = 30, // Výška podpisu
@@ -79,7 +79,7 @@ using (Signature signature = new Signature(filePath))
 
 ## Závěr
 
-V tomto tutoriálu jsme si ukázali, jak programově přidat textový podpis do dokumentu pomocí GroupDocs.Signature for .NET. Dodržováním těchto kroků můžete efektivně zvýšit zabezpečení a autenticitu svých dokumentů.
+tomto tutoriálu jsme si ukázali, jak programově přidat textový podpis do dokumentu pomocí GroupDocs.Signature for .NET. Dodržováním těchto kroků můžete efektivně zvýšit zabezpečení a autenticitu svých dokumentů.
 
 ## FAQ
 

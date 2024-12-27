@@ -20,7 +20,7 @@ Avant de commencer, assurez-vous d’avoir tout ce dont vous avez besoin :
 3. Connaissances de base de C# et .NET : Une familiarité avec les concepts de programmation de base en C# est supposée.
 4. Visual Studio : toute version prenant en charge le framework .NET fonctionnera.
 
-Maintenant que nous avons trié nos prérequis, passons à l'action !
+Maintenant que nous avons réglé nos prérequis, passons à l'action !
 
 ## Importer les espaces de noms nécessaires
 

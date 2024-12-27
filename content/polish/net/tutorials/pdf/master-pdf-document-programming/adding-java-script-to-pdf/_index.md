@@ -75,7 +75,7 @@ Tak, możesz przypisać różne akcje JavaScript poszczególnym stronom lub cał
 ### Czy można usunąć JavaScript z pliku PDF po jego dodaniu?
  Tak, możesz usunąć lub zmodyfikować istniejące akcje JavaScript, czyszcząc`Actions` Właściwości dokumentu lub strony.
 
-### Jakich funkcji JavaScript mogę używać w pliku PDF?
+### Jakie funkcje JavaScript mogę wykorzystać w pliku PDF?
 Można używać dowolnego języka JavaScript obsługiwanego przez moduł JavaScript programu Adobe Acrobat, takiego jak drukowanie, alerty i manipulacje formularzami.
 
 ### Czy JavaScript działa we wszystkich przeglądarkach PDF?

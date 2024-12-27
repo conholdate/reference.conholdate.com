@@ -137,7 +137,7 @@ wb.CustomXmlParts.Add(btsData, btsSchema);
 wb.CustomXmlParts.Add(btsData, btsSchema);
 wb.CustomXmlParts.Add(btsData, btsSchema);
 ```
-Tento fragment kódu přidá do sešitu čtyři identické vlastní části XML. To si můžete přizpůsobit podle svých požadavků.
+Tento fragment kódu přidá do sešitu čtyři identické vlastní části XML. Můžete si to přizpůsobit podle svých požadavků.
 ## Krok 4: Přiřaďte ID vlastním částem XML
 Nyní, když jsme přidali naše části XML, dejte každé z nich jedinečný identifikátor. Toto ID nám pomůže později načíst části XML.
 ```csharp

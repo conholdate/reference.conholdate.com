@@ -15,7 +15,7 @@ Aspose.Imaging for .NET é uma biblioteca avançada projetada para tarefas de pr
 
 Antes de começar, certifique-se de ter o seguinte:
 
-1.  Aspose.Imaging para .NET: Se você ainda não o instalou, você pode baixá-lo em[o site da Aspose](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging para .NET: Se você ainda não o instalou, você pode baixá-lo em[site da Aspose](https://releases.aspose.com/imaging/net/).
 
 2. Ambiente de desenvolvimento: um ambiente de desenvolvimento .NET funcional (como o Visual Studio) onde você pode escrever e executar código C#.
 

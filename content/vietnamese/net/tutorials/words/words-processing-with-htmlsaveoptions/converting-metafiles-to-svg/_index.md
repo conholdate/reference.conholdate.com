@@ -83,7 +83,7 @@ Cấu hình này yêu cầu Aspose.Words chuyển đổi bất kỳ tệp siêu 
 
 ## Bước 5: Lưu tài liệu
 
- Cuối cùng, hãy lưu tài liệu của chúng ta bằng cách sử dụng`Save` phương pháp của`Document`lớp học.
+ Cuối cùng, hãy lưu tài liệu của chúng ta bằng cách sử dụng`Save` phương pháp của`Document` lớp học.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

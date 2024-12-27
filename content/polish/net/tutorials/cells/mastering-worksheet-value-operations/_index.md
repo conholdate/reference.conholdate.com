@@ -13,7 +13,7 @@ Czy chcesz podnieść poziom swojej automatyzacji w programie Excel dzięki .NET
 
 ## Dodawanie i czyszczenie podziałów stron  
 
-Wyobraź sobie, że próbujesz wydrukować idealnie sformatowany arkusz Excela, a podziały stron są wszędzie! Dzięki Aspose.Cells możesz łatwo dodać poziome i pionowe podziały stron, aby zapewnić czysty układ wydruku. Musisz zacząć od nowa? Możesz wyczyścić wszystkie podziały stron za jednym razem! Te przewodniki przeprowadzą Cię przez każdy krok za pomocą szczegółowych fragmentów kodu.  
+Wyobraź sobie próbę wydrukowania idealnie sformatowanego arkusza Excela, a podziały stron są wszędzie! Dzięki Aspose.Cells możesz łatwo dodawać poziome i pionowe podziały stron, aby zapewnić czysty układ wydruku. Musisz zacząć od nowa? Możesz wyczyścić wszystkie podziały stron za jednym razem! Te przewodniki przeprowadzą Cię przez każdy krok za pomocą szczegółowych fragmentów kodu.  
 
 [Dodawanie podziałów stron w arkuszu kalkulacyjnym za pomocą Aspose.Cells](./adding-page-breaks/)  
 [Wyczyść podziały stron w arkuszu kalkulacyjnym za pomocą Aspose.Cells](./clear-page-breaks/)  

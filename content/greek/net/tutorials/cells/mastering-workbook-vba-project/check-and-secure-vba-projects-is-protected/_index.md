@@ -92,7 +92,7 @@ Console.WriteLine("Updated VBA Project Protection Status: " + vbaProject.IsProte
 Ναι, χρειάζεστε κωδικό πρόσβασης για να εφαρμόσετε προστασία σε ένα έργο VBA χρησιμοποιώντας το Aspose.Cells.
 
 ### Πώς μπορώ να εγκαταστήσω το Aspose.Cells για .NET;
- Μπορείτε να το εγκαταστήσετε μέσω του NuGet στο Visual Studio ή να το κατεβάσετε απευθείας από το[Aspose ιστότοπο](https://releases.aspose.com/cells/net/).
+ Μπορείτε να το εγκαταστήσετε μέσω του NuGet στο Visual Studio ή να το κατεβάσετε απευθείας από το[Aspose website](https://releases.aspose.com/cells/net/).
 
 ### Πού μπορώ να βρω επιπλέον υποστήριξη;
  Επισκεφθείτε το[Φόρουμ υποστήριξης Aspose.Cells](https://forum.aspose.com/c/cells/9) για βοήθεια από ειδικούς.

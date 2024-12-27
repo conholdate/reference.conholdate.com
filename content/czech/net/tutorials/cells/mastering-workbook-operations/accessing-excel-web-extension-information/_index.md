@@ -17,7 +17,7 @@ Před potápěním se ujistěte, že máte následující nastavení:
 
 1. Visual Studio: Vyžadováno pro psaní a spouštění vašeho kódu C#.
 2.  Aspose.Cells pro .NET: Stáhnout[zde](https://releases.aspose.com/cells/net/).
-3.  Ukázkový soubor Excel: Využijeme`WebExtensionsSample.xlsx` analyzovat data webových rozšíření.
+3.  Ukázkový soubor Excel: Využijeme`WebExtensionsSample.xlsx` k analýze dat webových rozšíření.
 4. Základní znalost C#: Znalost C# vám pomůže efektivně se v kódu orientovat.
 5. Nastavení projektu .NET: Vytvořte nový projekt .NET v sadě Visual Studio pro implementaci kódu.
 

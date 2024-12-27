@@ -9,7 +9,7 @@ url: /zh/net/tutorials/words/words-with-vba-macros/creating-vba-project/
 ---
 ## 介绍
 
-大家好，技术爱好者们！您准备好进入 Word 文档中激动人心的 Visual Basic for Applications (VBA) 世界了吗？无论您是经验丰富的开发人员还是刚刚入门，本指南都将指导您使用 Aspose.Words for .NET 在 Word 文档中创建 VBA 项目。这个功能强大的库使您能够自动执行任务、创建宏并增强 Word 文档的功能。让我们开始吧！
+大家好，技术爱好者们！您准备好深入探索 Word 文档中激动人心的 Visual Basic for Applications (VBA) 世界了吗？无论您是经验丰富的开发人员还是刚刚起步，本指南都将指导您使用 Aspose.Words for .NET 在 Word 文档中创建 VBA 项目。这个功能强大的库使您能够自动执行任务、创建宏并增强 Word 文档的功能。让我们开始吧！
 
 ## 先决条件
 
@@ -18,7 +18,7 @@ url: /zh/net/tutorials/words/words-with-vba-macros/creating-vba-project/
 1.  Aspose.Words for .NET Library：从以下网址下载最新版本[这里](https://releases.aspose.com/words/net/).
 2. 开发环境：设置 .NET 开发环境，例如 Visual Studio，用于编写和测试代码。
 3. 基本 C# 知识：熟悉 C# 将帮助您顺利浏览代码。
-4. 示例文档目录：准备一个用于保存 Word 文档的目录。
+4. 示例文档目录：准备一个目录来保存您的 Word 文档。
 
 ## 导入命名空间
 

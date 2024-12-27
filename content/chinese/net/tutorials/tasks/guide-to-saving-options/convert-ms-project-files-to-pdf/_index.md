@@ -37,7 +37,7 @@ using System.Collections.Generic;
 
 ## 步骤 1：加载 Microsoft Project 文件
 
-首先，加载`.mpp`文件到`Project`对象。替换`"Your_Project_File_Path.mpp"`使用输入文件的路径。
+首先，加载`.mpp`文件放入`Project`对象。替换`"Your_Project_File_Path.mpp"`使用输入文件的路径。
 
 ```csharp
 var project = new Project("Your_Project_File_Path.mpp");

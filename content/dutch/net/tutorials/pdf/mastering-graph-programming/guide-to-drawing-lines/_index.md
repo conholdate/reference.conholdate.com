@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Teken vervolgens een tweede lijn van de linkerbovenhoek naar de rechteronderhoek:
 
 ```csharp
-//Trek een lijn van de linkerbovenhoek naar de rechteronderhoek
+// Trek een lijn van de linkerbovenhoek naar de rechteronderhoek
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Voeg de tweede regel toe aan het Graph-object
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## Stap 6: Voeg de grafiek toe aan de pagina
 
- Met beide lijnen getekend, voeg de`Graph` object op de pagina:
+ Met beide lijnen getekend, voeg de`Graph`object op de pagina:
 
 ```csharp
 // Voeg het Graph-object toe aan de alineaverzameling van de pagina
@@ -122,7 +122,7 @@ Met deze eenvoudige stappen kunt u eenvoudig lijnen tekenen in een PDF-document 
  U kunt de`StrokeColor` En`LineWidth` eigenschappen van de`Line` object om het uiterlijk ervan aan te passen.
 
 ### Kan ik lijnen op specifieke plekken op de pagina plaatsen?
-Absoluut! Wijzig de coördinaten van de`Line` object om het te plaatsen waar u het nodig heeft.
+ Absoluut! Wijzig de coördinaten van de`Line` object om het te plaatsen waar u het nodig heeft.
 
 ### Is het mogelijk om tekst aan de lijnen toe te voegen?
  Ja, je kunt creëren`TextFragment` objecten en voeg ze toe aan de alineaverzameling van de pagina.

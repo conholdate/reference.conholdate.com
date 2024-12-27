@@ -106,4 +106,4 @@ Console.WriteLine($"\nSource document signed successfully with {result.Succeeded
 
 ### هل يتوفر الدعم الفني لمستخدمي GroupDocs.Signature؟
 
-نعم، توفر GroupDocs دعمًا فنيًا مخصصًا من خلال منتدياتها. يمكنك الوصول إلى منتدى الدعم[هنا](https://forum.groupdocs.com/c/signature/13).
+ نعم، توفر GroupDocs دعمًا فنيًا مخصصًا من خلال منتدياتها. يمكنك الوصول إلى منتدى الدعم[هنا](https://forum.groupdocs.com/c/signature/13).

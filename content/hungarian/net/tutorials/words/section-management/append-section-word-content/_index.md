@@ -114,7 +114,7 @@ Az Aspose.Words for .NET egy hatékony könyvtár, amely lehetővé teszi a fejl
 
 ### Melyek az Aspose.Words for .NET főbb funkciói?
 
- Az Aspose.Words for .NET különféle funkciókat kínál, beleértve a dokumentumok létrehozását, formázását, konvertálását és manipulálását. A teljes lista megtekintéséhez ellenőrizze a[API dokumentáció](https://reference.aspose.com/words/net/).
+Az Aspose.Words for .NET különféle funkciókat kínál, beleértve a dokumentumok létrehozását, formázását, konvertálását és manipulálását. A teljes lista megtekintéséhez ellenőrizze a[API dokumentáció](https://reference.aspose.com/words/net/).
 
 ### Hogyan kaphatok támogatást az Aspose.Words for .NET-hez?
 

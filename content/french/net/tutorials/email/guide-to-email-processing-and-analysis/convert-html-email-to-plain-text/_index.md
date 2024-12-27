@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  En accédant au`HtmlBody` propriété de la`MailMessage` objet, le contenu HTML est désormais stocké dans une variable de chaîne nommée`htmlBody`.
 
-### Étape 3 : Préparez-vous à convertir du HTML en texte brut
+## Étape 3 : Préparez-vous à convertir du HTML en texte brut
 
 Maintenant que nous avons notre contenu HTML, il est temps de préparer le terrain pour la conversion. Nous allons utiliser Aspose.Words pour transformer notre contenu HTML enrichi en texte brut. Mais d'abord, nous devons créer un nouveau document :
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Cela crée un nouveau vide`Document`Nous supprimons tous les nœuds enfants existants pour garantir une table rase avant de commencer à insérer notre contenu HTML.
 
-### Étape 4 : Insérer du contenu HTML
+## Étape 4 : Insérer du contenu HTML
 
  C'est ici que la magie de la conversion se produit ! Nous utiliserons le`DocumentBuilder` classe de Aspose.Words pour insérer notre contenu HTML dans le document. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Ici,`DocumentBuilder().InsertHtml(htmlBody)` prend notre chaîne HTML et la charge dans une nouvelle structure de document à l'intérieur du`Document` objet. Utilisation`ImportFormatMode.KeepSourceFormatting` garantit que le formatage reste intact pendant cette opération.
 
-### Étape 5 : Enregistrer le fichier texte brut
+## Étape 5 : Enregistrer le fichier texte brut
 
 Enfin, il est temps d'enregistrer notre fichier texte brut nouvellement créé. Voici comment procéder :
 

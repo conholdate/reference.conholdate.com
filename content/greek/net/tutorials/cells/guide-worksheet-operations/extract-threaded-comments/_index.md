@@ -16,7 +16,7 @@ url: /el/net/tutorials/cells/guide-worksheet-operations/extract-threaded-comment
 
 1. Βασικές γνώσεις C#: Η εξοικείωση με την C# και το .NET Framework είναι απαραίτητη, καθώς τα παραδείγματα κώδικα μας θα είναι σε C#.
 2. Visual Studio: Εγκαταστήστε το Visual Studio στον υπολογιστή σας για να εκτελέσετε τον κώδικα C#.
-3.  Aspose.Cells για .NET: Λήψη και εγκατάσταση της βιβλιοθήκης Aspose.Cells από το[Aspose ιστότοπο](https://releases.aspose.com/cells/net/).
+3.  Aspose.Cells για .NET: Λήψη και εγκατάσταση της βιβλιοθήκης Aspose.Cells από το[Aspose website](https://releases.aspose.com/cells/net/).
 4.  Δείγμα αρχείου Excel: Έχετε ένα δείγμα αρχείου Excel (π.χ.`ThreadedCommentsSample.xlsx`) αποθηκεύτηκε στον κατάλογό σας που περιέχει σχόλια με νήματα για δοκιμή.
 
 ## Εισαγωγή απαιτούμενων πακέτων

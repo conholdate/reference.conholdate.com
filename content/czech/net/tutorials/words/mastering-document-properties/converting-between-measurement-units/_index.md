@@ -77,7 +77,7 @@ Tím se dokument uloží se zadanými okraji a vzdálenostmi v bodech.
 
 ## Závěr
 
-Gratuluji! Úspěšně jste převedli a nastavili okraje a vzdálenosti v dokumentu aplikace Word pomocí Aspose.Words for .NET. Dodržováním těchto kroků můžete bez námahy zvládnout převody jednotek a zlepšit tak proces přizpůsobení dokumentu. Prozkoumejte různá nastavení a rozsáhlé funkce, které Aspose.Words nabízí.
+Gratuluji! Úspěšně jste převedli a nastavili okraje a vzdálenosti v dokumentu aplikace Word pomocí Aspose.Words for .NET. Dodržením těchto kroků můžete bez námahy zvládnout převody jednotek a zlepšit tak proces přizpůsobení dokumentu. Prozkoumejte různá nastavení a rozsáhlé funkce, které Aspose.Words nabízí.
 
 ## FAQ
 
@@ -91,7 +91,7 @@ I když můžete Aspose.Words používat bez licence, některé pokročilé funk
  Stáhněte si jej z[webové stránky](https://releases.aspose.com/words/net/) a postupujte podle dodaných pokynů k instalaci.
 
 ### Mohu nastavit různé jednotky pro různé části dokumentu?
- Absolutně! Okraje a nastavení pro různé sekce můžete upravit pomocí`Section`třída.
+ Absolutně! Okraje a nastavení pro různé sekce můžete upravit pomocí`Section` třída.
 
 ### Jaké další funkce Aspose.Words nabízí?
  Aspose.Words podporuje širokou škálu funkcí, včetně převodu dokumentů, hromadné korespondence a rozsáhlých možností formátování. Zkontrolujte[dokumentace](https://reference.aspose.com/words/net/) pro více podrobností.

@@ -16,7 +16,7 @@ Az Excel-fájlok programozott kezelése megváltoztathatja a munkafolyamatok és
 Mielőtt belevágna a kódba, győződjön meg arról, hogy készen áll a következő előfeltételekkel:
 
 1.  Visual Studio: telepítve van a rendszerére (letöltés innen:[Microsoft](https://visualstudio.microsoft.com/)).
-2.  Aspose.Cells Library: Elérhető a projektjéhez. Szerezd meg onnan[Aspose Releases](https://releases.aspose.com/cells/net/).
+2.  Aspose.Cells Library: Elérhető a projektjéhez. Szerezd meg tőle[Aspose Releases](https://releases.aspose.com/cells/net/).
 3. NuGet Package Manager: Az Aspose.Cells projektbe való integrálására szolgál.
 4. .NET-keretrendszer vagy .NET Core: Biztosítsa a projekttel való kompatibilitást.
 5. Alapszintű C# ismeretek: Az osztályok és az objektumorientált programozás ismerete ajánlott.
@@ -62,7 +62,7 @@ Ez biztosítja, hogy a fájlkönyvtár készen álljon, és megakadályozza a hi
 Workbook workbook = new Workbook();
 ```
 
-Ezzel inicializálja az üres munkafüzetet. Ha egy meglévő munkafüzetet szeretne betölteni, adja meg a fájl elérési útját paraméterként:
+Ez inicializál egy üres munkafüzetet. Ha egy meglévő munkafüzetet szeretne betölteni, adja meg a fájl elérési útját paraméterként:
 
 ```csharp
 Workbook workbook = new Workbook(dataDir + "ExistingWorkbook.xlsx");

@@ -196,7 +196,7 @@ Aspose.OCR for .NET 是一個字元和光學標記識別元件，允許開發人
 
 ![Aspose.CAD for .NET](aspose-cad-net.png)
 
-Aspose.CAD for .NET 可讓開發人員將 AutoCAD DWG、DWF 和 DXF 檔案轉換為 PDF 和光柵影像。它是本機 API，不需要安裝 AutoCAD 或任何軟體。您也可以從 AutoCAD 檔案轉換選定的圖層和佈局。轉換為 PDF 和光柵圖像的品質非常高。
+Aspose.CAD for .NET 可讓開發人員將 AutoCAD DWG、DWF 和 DXF 檔案轉換為 PDF 和光柵影像。它是本機 API，不需要安裝 AutoCAD 或任何軟體。您也可以轉換 AutoCAD 檔案中選定的圖層和佈局。轉換為 PDF 和光柵圖像的品質非常高。
 
 在專案中使用 Aspose.CAD for .NET 為您帶來以下好處： 
 
@@ -234,7 +234,7 @@ Aspose.3D for .NET是一個類別庫項目，它使.NET應用程式能夠自動�
 
 **Welcome to the Aspose.HTML for .NET documentation** 
 
-Aspose.HTML for .NET 是一個跨平台類別庫，使您的應用程式能夠執行各種 HTML 操作任務。由於 HTML 通常與其他技術結合使用，Aspose.HTML 不僅支援 HTML5，還支援 CSS3、SVG 和 HTML Canvas 規範。使用 Aspose.HTML，您可以載入網頁、分析和編輯內容、儲存頁面並在以下格式之間進行轉換：(X)HTML、MHTML、SVG、Markdown、PDF、XPS、EPUB、PNG、TIFF 、JPEG、BMP等格式。
+Aspose.HTML for .NET 是一個跨平台類別庫，使您的應用程式能夠執行各種 HTML 操作任務。由於 HTML 通常與其他技術結合使用，因此 Aspose.HTML 不僅支援 HTML5，還支援 CSS3、SVG 和 HTML Canvas 規範。使用 Aspose.HTML，您可以載入網頁、分析和編輯內容、儲存頁面並在以下格式之間進行轉換：(X)HTML、MHTML、SVG、Markdown、PDF、XPS、EPUB、PNG、TIFF 、JPEG、BMP等格式。
 
 {{% /alert %}} 
 

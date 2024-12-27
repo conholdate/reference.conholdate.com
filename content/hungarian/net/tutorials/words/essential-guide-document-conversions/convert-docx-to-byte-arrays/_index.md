@@ -64,7 +64,7 @@ using (MemoryStream inStream = new MemoryStream(docBytes))
     // Töltse be a dokumentumot a MemoryStreamből
     Document docFromBytes = new Document(inStream);
     
-    // Most már szükség szerint dolgozhat a docFromBytes-szal
+    // Mostantól szükség szerint dolgozhat a docFromBytes-szal
 }
 ```
 1.  Memóriafolyam létrehozása: Hozzon létre a`MemoryStream` bájttömbből.

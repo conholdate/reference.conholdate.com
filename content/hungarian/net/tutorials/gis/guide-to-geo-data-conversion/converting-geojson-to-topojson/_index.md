@@ -1,6 +1,6 @@
 ---
 title: GeoJSON konvertálása TopoJSON-ba az Aspose.GIS for .NET segítségével
-linktitle: A GeoJSON konvertálása TopoJSON-ba
+linktitle: GeoJSON konvertálása TopoJSON-ba
 second_title: Aspose.GIS .NET API
 description: Tanulja meg, hogyan konvertálhat zökkenőmentesen GeoJSON fájlokat TopoJSON formátumba a hatékony Aspose.GIS for .NET könyvtár segítségével. Ez a lépésenkénti oktatóanyag a telepítéstől a végrehajtásig mindent lefed.
 type: docs
@@ -18,7 +18,7 @@ Az átalakítási folyamat megkezdése előtt győződjön meg arról, hogy a k�
 ### Telepítse az Aspose.GIS-t .NET-hez
 
 -  A Library letöltése: Az Aspose.GIS for .NET legfrissebb verziójának elérése a webhelyről[kiadási oldal](https://releases.aspose.com/gis/net/).
--  Telepítés: Kövesse a részletes telepítési utasításokat, amelyeket a[dokumentáció](https://reference.aspose.com/gis/net/).
+- Telepítés: Kövesse a részletes telepítési utasításokat, amelyeket a[dokumentáció](https://reference.aspose.com/gis/net/).
 
 ### Adja hozzá a szükséges névtereket
 

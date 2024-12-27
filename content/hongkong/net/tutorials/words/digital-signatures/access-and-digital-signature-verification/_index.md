@@ -50,7 +50,7 @@ using Aspose.Words.DigitalSignatures;
 
 ## 第 2 步：載入經過數位簽署的 Word 文檔
 
-設定好項目後，讓我們載入經過數位簽署的 Word 文件。
+設定項目後，讓我們載入經過數位簽署的 Word 文件。
 
 ```csharp
 //指定文檔目錄的路徑。

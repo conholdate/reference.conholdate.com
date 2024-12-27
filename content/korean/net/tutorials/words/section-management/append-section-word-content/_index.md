@@ -114,7 +114,7 @@ Aspose.Words for .NET은 개발자가 Word 문서를 프로그래밍 방식으�
 
 ### Aspose.Words for .NET의 주요 기능은 무엇입니까?
 
- Aspose.Words for .NET은 문서 생성, 서식 지정, 변환 및 조작을 포함한 다양한 기능을 제공합니다. 포괄적인 목록은 다음을 확인하세요.[API 문서](https://reference.aspose.com/words/net/).
+Aspose.Words for .NET은 문서 생성, 서식 지정, 변환 및 조작을 포함한 다양한 기능을 제공합니다. 포괄적인 목록은 다음을 확인하세요.[API 문서](https://reference.aspose.com/words/net/).
 
 ### Aspose.Words for .NET에 대한 지원을 받으려면 어떻게 해야 하나요?
 

@@ -81,7 +81,7 @@ GroupDocs.Conversion for .NET は、あらゆる .NET アプリケーション�
 
 **Welcome to the GroupDocs.Editor for .NET**
 
-GroupDocs.Editor for .NET は、HTML を使用した強力なドキュメント編集 API です。API は、外部、オープンソース、または有料の HTML エディターで使用できます。エディター API は、ドキュメントを読み込み、それを HTML に変換し、HTML を外部 UI に提供し、操作後に HTML を元のドキュメントに保存する処理を行います。また、さまざまな Microsoft Word ドキュメント、XML、OpenDocument 形式、および TXT ファイルを生成するためにも使用できます。
+GroupDocs.Editor for .NET は、HTML を使用した強力なドキュメント編集 API です。API は、外部、オープンソース、または有料の HTML エディターで使用できます。エディター API は、ドキュメントを読み込み、HTML に変換し、HTML を外部 UI に提供し、操作後に HTML を元のドキュメントに保存する処理を行います。また、さまざまな Microsoft Word ドキュメント、XML、OpenDocument 形式、および TXT ファイルを生成するためにも使用できます。
 
 {{% /alert %}} 
 ## **GroupDocs.Editor for .NET**

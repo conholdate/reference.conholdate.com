@@ -58,9 +58,9 @@ Dále musíme z e-mailové zprávy vytáhnout obsah HTML. Představte si tento k
 string htmlBody = message.HtmlBody;
 ```
 
- Přístupem k`HtmlBody` vlastnictví`MailMessage` je nyní obsah HTML uložen v řetězcové proměnné s názvem`htmlBody`.
+ Přístupem k`HtmlBody` vlastnictvím`MailMessage` je nyní obsah HTML uložen v řetězcové proměnné s názvem`htmlBody`.
 
-### Krok 3: Připravte se na převod HTML na prostý text
+## Krok 3: Připravte se na převod HTML na prostý text
 
 Nyní, když máme obsah HTML, je čas připravit půdu pro konverzi. Využijeme Aspose.Words k přeměně našeho bohatého HTML na prostý text. Nejprve však musíme vytvořit nový dokument:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Tím se vytvoří nové prázdné`Document`. Odstraníme všechny existující podřízené uzly, abychom zajistili, že před vkládáním našeho obsahu HTML bude čistý štít.
 
-### Krok 4: Vložte obsah HTML
+## Krok 4: Vložte obsah HTML
 
  Tady se odehrává kouzlo konverze! Použijeme`DocumentBuilder` třídy z Aspose.Words k vložení našeho obsahu HTML do dokumentu. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Zde,`DocumentBuilder().InsertHtml(htmlBody)` vezme náš řetězec HTML a načte ho do nové struktury dokumentu uvnitř`Document` objekt. Použití`ImportFormatMode.KeepSourceFormatting` zajišťuje, že formátování během této operace zůstane nedotčeno.
 
-### Krok 5: Uložte soubor ve formátu prostého textu
+## Krok 5: Uložte soubor ve formátu prostého textu
 
 Konečně je čas uložit náš nově vytvořený prostý textový soubor. Jak na to:
 

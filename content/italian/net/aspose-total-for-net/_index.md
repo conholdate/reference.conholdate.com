@@ -163,7 +163,7 @@ Di seguito sono riportati i link ad alcune risorse utili di cui potresti aver bi
 
 Aspose.OCR per .NET è un componente per il riconoscimento ottico di caratteri e segni che consente agli sviluppatori di aggiungere funzionalità OCR alle proprie applicazioni .NET utilizzando un semplice set di classi.
 
-Il componente è implementato usando Managed C# e può essere usato con qualsiasi linguaggio .NET. Aspose.OCR per .NET è fornito con demo dettagliate ed esempi funzionanti scritti in C#. Le demo aiutano gli sviluppatori a conoscere le funzionalità del componente e a iniziare a usarlo rapidamente.
+Il componente è implementato usando Managed C# e può essere utilizzato con qualsiasi linguaggio .NET. Aspose.OCR per .NET è dotato di demo dettagliate ed esempi funzionanti scritti in C#. Le demo aiutano gli sviluppatori a conoscere le funzionalità del componente e a iniziare a usarlo rapidamente.
 
 {{% /alert %}} 
 

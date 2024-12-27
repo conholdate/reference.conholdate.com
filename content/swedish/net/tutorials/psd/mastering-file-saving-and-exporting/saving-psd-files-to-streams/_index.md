@@ -16,7 +16,7 @@ I den snabba sfären av .NET-utveckling framstår Aspose.PSD som ett ovärderlig
 Innan vi dyker in, se till att du har följande inställning:
 
 1. Visual Studio: Se till att du har Visual Studio installerat på din dator.
-2.  Aspose.PSD för .NET: Ladda ner och installera Aspose.PSD-biblioteket. Du kan hitta den senaste versionen[här](https://releases.aspose.com/psd/net/).
+2. Aspose.PSD för .NET: Ladda ner och installera Aspose.PSD-biblioteket. Du kan hitta den senaste versionen[här](https://releases.aspose.com/psd/net/).
 3. Exempel på PSD-fil: Skaffa ett exempel på PSD-fil för testning. Om du inte har en, fungerar vilken PSD-fil som helst för demonstrationsändamål.
 4. Dokumentkatalog: Skapa en katalog i ditt projekt för att spara dina bilder och notera sökvägen för senare användning.
 
@@ -89,10 +89,10 @@ Grattis! Du har framgångsrikt lärt dig hur du sparar bilder i en ström med As
 ## FAQ's
 
 ### Kan jag använda Aspose.PSD med någon typ av bildfil?
-Ja! Aspose.PSD stöder olika bildformat, inklusive PSD, PNG, JPEG och mer. Se dokumentationen för en detaljerad lista[här](https://reference.aspose.com/psd/net/).
+ Ja! Aspose.PSD stöder olika bildformat, inklusive PSD, PNG, JPEG och mer. Se dokumentationen för en detaljerad lista[här](https://reference.aspose.com/psd/net/).
 
 ### Hur får jag support för Aspose.PSD?
- Besök supportforumet för Aspose.PSD för hjälp och gemenskapsstöd[här](https://forum.aspose.com/c/psd/34).
+Besök supportforumet för Aspose.PSD för hjälp och gemenskapsstöd[här](https://forum.aspose.com/c/psd/34).
 
 ### Finns det en gratis provperiod?
  Absolut! Du kan ladda ner en gratis testversion[här](https://releases.aspose.com/) att utforska Aspose.PSD:s funktioner innan du bestämmer dig för att köpa.

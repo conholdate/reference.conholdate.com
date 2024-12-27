@@ -35,7 +35,7 @@ using System.Drawing.Imaging;
 
 ## الخطوة 1: إنشاء مستند OneNote جديد
 
- قم بتهيئة مستند OneNote جديد باستخدام`Document`فصل.
+ قم بتهيئة مستند OneNote جديد باستخدام`Document` فصل.
 
 ```csharp
 Document doc = new Document();

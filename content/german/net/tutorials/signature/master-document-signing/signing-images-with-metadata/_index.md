@@ -49,7 +49,7 @@ using (Signature signature = new Signature(filePath))
     ushort imgsMetadataId = 41996; // Start-ID für Metadaten
     MetadataSignOptions options = new MetadataSignOptions();
 
-    //Verschiedene Arten von Metadatensignaturen hinzufügen
+    // Verschiedene Arten von Metadatensignaturen hinzufügen
     options
         .Add(new ImageMetadataSignature(imgsMetadataId++, "Mr. Sherlock Holmes")) // Zeichenfolgenwert
         .Add(new ImageMetadataSignature(imgsMetadataId++, DateTime.Now))          // DateTime-Wert

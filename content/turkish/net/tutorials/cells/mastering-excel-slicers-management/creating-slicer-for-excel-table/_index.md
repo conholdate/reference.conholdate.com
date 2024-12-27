@@ -58,7 +58,7 @@ string outputDir = "Your Document Directory/";
 
  Yer değiştirmek`"Your Document Directory"`Excel dosyanızın saklandığı gerçek yol ile.
 
-## Adım 2: Excel Çalışma Kitabını Yükleyin
+## Adım 2: Excel Çalışma Kitabını yükleyin
 
 Aşağıdaki tabloyu içeren Excel çalışma kitabını yükleyin:
 

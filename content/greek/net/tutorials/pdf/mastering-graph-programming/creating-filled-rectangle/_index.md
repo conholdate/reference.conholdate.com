@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Αρχικοποιήστε ένα νέο έγγραφο PDF:
 
 ```csharp
-//Δημιουργία παρουσίας εγγράφου
+// Δημιουργία παρουσίας εγγράφου
 Document doc = new Document();
 ```
 

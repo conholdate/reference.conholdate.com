@@ -43,7 +43,7 @@ Hieronder vindt u links naar nuttige bronnen die u mogelijk nodig hebt om uw tak
 
 **Welcome to Aspose.Cells for .NET** 
 
-Aspose.Cells voor .NET is een spreadsheet-programmeerbibliotheek waarmee softwareontwikkelaars spreadsheetbestanden kunnen manipuleren en converteren vanuit hun eigen applicaties. Aspose.Cells voor .NET is een combinatie van API's en GUI-besturingselementen en versnelt Microsoft Excel®-programmering en -conversie. Aspose.Cells voor .NET ondersteunt de populaire spreadsheet-bestandsindelingen (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS) die uw bedrijf dagelijks gebruikt. Het maakt ook het exporteren van Excel-bestanden naar PDF, XPS, HTML, MHTML, platte tekst en populaire afbeeldingsindelingen mogelijk, waaronder TIFF, JPG, PNG, BMP en SVG. 
+Aspose.Cells voor .NET is een spreadsheet-programmeerbibliotheek waarmee softwareontwikkelaars spreadsheetbestanden kunnen manipuleren en converteren vanuit hun eigen applicaties. Aspose.Cells voor .NET is een combinatie van API's en GUI-besturingselementen en versnelt Microsoft Excel®-programmering en -conversie. Aspose.Cells voor .NET ondersteunt de populaire spreadsheet-bestandsindelingen (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS) die uw bedrijf dagelijks gebruikt. Het staat ook toe om Excel-bestanden te exporteren naar PDF, XPS, HTML, MHTML, platte tekst en populaire afbeeldingsindelingen, waaronder TIFF, JPG, PNG, BMP en SVG. 
 
 {{% /alert %}} 
 

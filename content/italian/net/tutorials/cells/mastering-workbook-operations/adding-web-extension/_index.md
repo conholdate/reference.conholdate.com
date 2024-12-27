@@ -9,7 +9,7 @@ url: /it/net/tutorials/cells/mastering-workbook-operations/adding-web-extension/
 ---
 ## Introduzione
 
-Benvenuti nell'entusiasmante mondo di Aspose.Cells per .NET! Se state cercando di migliorare le funzionalità della vostra cartella di lavoro Excel integrando estensioni web, siete nel posto giusto. In questa guida, vi guideremo passo dopo passo in un tutorial su come aggiungere senza problemi estensioni web alle vostre cartelle di lavoro Excel utilizzando Aspose.Cells. Che stiate sviluppando applicazioni o automatizzando report, le estensioni web possono migliorare significativamente l'interattività e la funzionalità. Quindi, tuffiamoci!
+Benvenuti nell'entusiasmante mondo di Aspose.Cells per .NET! Se state cercando di migliorare le funzionalità della vostra cartella di lavoro Excel integrando estensioni web, siete nel posto giusto. In questa guida, vi guideremo passo dopo passo in un tutorial su come aggiungere senza problemi estensioni web alle vostre cartelle di lavoro Excel utilizzando Aspose.Cells. Sia che stiate sviluppando applicazioni o automatizzando report, le estensioni web possono migliorare significativamente l'interattività e la funzionalità. Quindi, tuffiamoci!
 
 ## Prerequisiti
 

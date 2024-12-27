@@ -9,7 +9,7 @@ url: /vi/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 ---
 ## Giới thiệu
 
-Trong lĩnh vực phát triển .NET, Aspose.Words nổi lên như một công cụ mạnh mẽ để thao tác theo chương trình các tài liệu Word. Cho dù bạn đang phát triển các ứng dụng tự động hóa quy trình làm việc của tài liệu, tạo báo cáo hay tăng cường khả năng xử lý, Aspose.Words đều được trang bị chức năng mạnh mẽ. Bài viết này cung cấp hướng dẫn rõ ràng, chi tiết về cách chuyển đổi các tệp Docx thành mảng byte bằng Aspose.Words cho .NET, cho phép bạn khai thác chức năng này một cách hiệu quả trong các dự án của mình.
+Trong lĩnh vực phát triển .NET, Aspose.Words nổi lên như một công cụ mạnh mẽ để thao tác theo chương trình các tài liệu Word. Cho dù bạn đang phát triển các ứng dụng tự động hóa quy trình làm việc của tài liệu, tạo báo cáo hay nâng cao khả năng xử lý, Aspose.Words đều được trang bị chức năng mạnh mẽ. Bài viết này cung cấp hướng dẫn rõ ràng, chi tiết về cách chuyển đổi các tệp Docx thành mảng byte bằng Aspose.Words cho .NET, cho phép bạn khai thác chức năng này một cách hiệu quả trong các dự án của mình.
 
 ## Điều kiện tiên quyết
 

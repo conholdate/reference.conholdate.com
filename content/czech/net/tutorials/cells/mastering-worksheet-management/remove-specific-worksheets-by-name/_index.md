@@ -35,7 +35,7 @@ string dataDir = "Your Document Directory";
 ```csharp
 using (FileStream fstream = new FileStream(dataDir + "book1.xls", FileMode.Open))
 {
-    // Kód pro manipulaci se souborem bude umístěn zde
+    // Zde bude kód pro manipulaci se souborem
 }
 ```
 

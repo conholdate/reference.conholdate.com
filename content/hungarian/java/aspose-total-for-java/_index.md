@@ -27,7 +27,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to Aspose.PDF for Java**
 
-Az Aspose.PDF egy Java-összetevő, amely lehetővé teszi a fejlesztők számára, hogy egyszerű vagy összetett PDF-dokumentumokat készítsenek menet közben, programozottan. Az Aspose.PDF for Java lehetővé teszi a fejlesztők számára, hogy táblázatokat, grafikonokat, képeket, hiperhivatkozásokat, egyedi betűtípusokat és még sok mást illesszenek be PDF dokumentumokba. Ezenkívül lehetőség van PDF dokumentumok tömörítésére is. Az Aspose.PDF for Java kiváló biztonsági szolgáltatásokat nyújt a biztonságos PDF dokumentumok fejlesztéséhez. Az Aspose.PDF for Java legkülönlegesebb tulajdonsága, hogy támogatja a PDF dokumentumok létrehozását API-n és XML-sablonokból egyaránt.
+Az Aspose.PDF egy Java-komponens, amely lehetővé teszi a fejlesztők számára, hogy egyszerű vagy összetett PDF-dokumentumokat készítsenek menet közben, programozottan. Az Aspose.PDF for Java lehetővé teszi a fejlesztők számára, hogy táblázatokat, grafikonokat, képeket, hiperhivatkozásokat, egyedi betűtípusokat és még sok mást illesszenek be PDF dokumentumokba. Ezenkívül lehetőség van PDF dokumentumok tömörítésére is. Az Aspose.PDF for Java kiváló biztonsági szolgáltatásokat nyújt a biztonságos PDF dokumentumok fejlesztéséhez. Az Aspose.PDF for Java legkülönlegesebb tulajdonsága, hogy támogatja a PDF dokumentumok létrehozását API-n és XML-sablonokból egyaránt.
 
 {{% /alert %}}
 
@@ -161,7 +161,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 Az Aspose.Diagram a legrugalmasabb és legmegbízhatóbb API, amely lehetővé teszi a Java alkalmazások számára, hogy Microsoft Office Visio rajzokat hozzanak létre és kezeljenek anélkül, hogy a Microsoft Office Visio programot telepíteni kellene a rendszerre. Jobb teljesítményt biztosít, és könnyebben használható diagramok kezelésére és fájlok konvertálására, mint a Microsoft Office Automation.
 
-Az Aspose.Diagram kihasználja a Visio-szolgáltatások által biztosított fejlett funkciókat a Visio-dokumentumok kiszolgálón történő kezeléséhez. Az Aspose.Diagram API bővíthető, könnyen használható, kompakt, és az összes leggyakoribb funkciót biztosítja, így a fejlesztők kevesebb kódot írhatnak.
+Az Aspose.Diagram kihasználja a Visio-szolgáltatások által biztosított fejlett funkciókat a Visio-dokumentumok kiszolgálón történő kezeléséhez. Az Aspose.Diagram API bővíthető, könnyen használható, kompakt, és biztosítja az összes leggyakoribb funkciót, így a fejlesztők kevesebb kódot írhatnak.
 
 {{% /alert %}}
 
@@ -194,7 +194,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 <img src="cad.png" alt="Aspose.CAD for Java" style="zoom:50%;" />
 
-Az Aspose.CAD for Java lehetővé teszi a fejlesztők számára, hogy az AutoCAD DWG-, DWF- és DXF-fájlokat PDF- és raszterképekké alakítsák. Ez egy natív API, és nem szükséges AutoCAD vagy bármilyen szoftver telepítése.
+Az Aspose.CAD for Java lehetővé teszi a fejlesztők számára, hogy az AutoCAD DWG, DWF és DXF fájlokat PDF- és raszterképekké alakítsák. Ez egy natív API, és nem szükséges AutoCAD vagy bármilyen szoftver telepítése.
 
 A kiválasztott rétegeket és elrendezéseket az AutoCAD fájlokból is konvertálhatja. A PDF és raszteres képek átalakítása nagyon jó minőségű.
 

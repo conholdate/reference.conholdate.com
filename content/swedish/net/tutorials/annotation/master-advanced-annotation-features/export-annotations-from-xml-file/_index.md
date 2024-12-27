@@ -38,7 +38,7 @@ using (Annotator annotator = new Annotator("input.pdf"))
 {
 ```
 
-## Steg 3: Exportera anteckningar från XML
+## Steg 3: Exportera kommentarer från XML
 
  Använd`ExportAnnotationsFromXMLFile` metod för att exportera kommentarer från din XML-fil:
 

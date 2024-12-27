@@ -16,7 +16,7 @@ V rychle se rozvíjející oblasti vývoje .NET se Aspose.PSD ukazuje jako neoce
 Než se ponoříme, ujistěte se, že máte následující nastavení:
 
 1. Visual Studio: Ujistěte se, že máte na svém počítači nainstalované Visual Studio.
-2.  Aspose.PSD pro .NET: Stáhněte a nainstalujte knihovnu Aspose.PSD. Můžete najít nejnovější verzi[zde](https://releases.aspose.com/psd/net/).
+2. Aspose.PSD pro .NET: Stáhněte a nainstalujte knihovnu Aspose.PSD. Můžete najít nejnovější verzi[zde](https://releases.aspose.com/psd/net/).
 3. Ukázkový soubor PSD: Získejte ukázkový soubor PSD pro testování. Pokud žádný nemáte, pro demonstrační účely postačí jakýkoli soubor PSD.
 4. Adresář dokumentů: Vytvořte v projektu adresář, do kterého budete ukládat obrázky a poznamenejte si cestu pro pozdější použití.
 
@@ -89,10 +89,10 @@ Gratuluji! Úspěšně jste se naučili ukládat obrázky do streamu pomocí Asp
 ## FAQ
 
 ### Mohu použít Aspose.PSD s jakýmkoli typem souboru obrázku?
-Ano! Aspose.PSD podporuje různé formáty obrázků, včetně PSD, PNG, JPEG a dalších. Podrobný seznam naleznete v dokumentaci[zde](https://reference.aspose.com/psd/net/).
+ Ano! Aspose.PSD podporuje různé formáty obrázků, včetně PSD, PNG, JPEG a dalších. Podrobný seznam naleznete v dokumentaci[zde](https://reference.aspose.com/psd/net/).
 
 ### Jak získám podporu pro Aspose.PSD?
- Pro pomoc a podporu komunity navštivte fórum podpory Aspose.PSD[zde](https://forum.aspose.com/c/psd/34).
+Pro pomoc a podporu komunity navštivte fórum podpory Aspose.PSD[zde](https://forum.aspose.com/c/psd/34).
 
 ### Je k dispozici bezplatná zkušební verze?
  Absolutně! Můžete si stáhnout bezplatnou zkušební verzi[zde](https://releases.aspose.com/) k prozkoumání funkcí Aspose.PSD, než se rozhodnete pro nákup.

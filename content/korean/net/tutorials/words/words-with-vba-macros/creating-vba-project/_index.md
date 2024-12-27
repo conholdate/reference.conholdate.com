@@ -101,7 +101,7 @@ Aspose.Words for .NET을 사용하여 Word 문서에서 VBA 프로젝트를 성�
 Aspose.Words for .NET은 개발자가 .NET 애플리케이션에서 Word 문서를 만들고, 편집하고, 변환할 수 있는 강력한 라이브러리입니다. VBA로 문서 워크플로를 자동화하고 기능을 향상시키는 데 이상적입니다.
 
 ### Aspose.Words를 무료로 사용할 수 있나요?
- 물론입니다! Aspose.Words를 사용해 보세요.[무료 체험](https://releases.aspose.com/) 또는 획득하다[임시 면허](https://purchase.aspose.com/temporary-license/) 평가를 위해서.
+ 물론입니다! Aspose.Words를 사용해 보세요.[무료 체험](https://releases.aspose.com/) 또는 획득하다[임시 면허](https://purchase.aspose.com/temporary-license/) 평가를 위해.
 
 ### Word 문서에 VBA 코드를 추가하려면 어떻게 해야 하나요?
  VBA 코드를 추가하려면 다음을 생성하세요.`VbaModule` , 설정하다`SourceCode` 매크로 코드로 속성을 추가하고 모듈을 추가하세요.`VbaProject`.

@@ -22,7 +22,7 @@ Devam etmeden önce aşağıdaki ön koşulların karşılandığından emin olu
    C# programlama dilinin çalışma bilgisi ve yapılandırılmış bir .NET geliştirme ortamı.
 
 3. Microsoft Project Dosyasını Girin  
-    Geçerli bir`.mpp` dosya dönüştürülmeye hazır.
+   Geçerli bir`.mpp` dosya dönüştürülmeye hazır.
 
 ## Temel Ad Alanlarını İçe Aktar
 
@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Adım 4: Dışa Aktarma için Belirli Sayfaları Seçin (İsteğe Bağlı)
 
-PDF'ye dahil edilecek tam sayfaları belirterek doldurun`Pages` özellik. Örneğin, 1 ve 4 sayfalarını dışa aktarmak için:
+ PDF'ye dahil edilecek tam sayfaları belirterek doldurun`Pages` özellik. Örneğin, 1 ve 4 sayfalarını dışa aktarmak için:
 
 ```csharp
 options.Pages.Add(1);
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Adım 5: Proje Dosyasını PDF Olarak Kaydedin
 
- Son olarak, kaydedin`.mpp` PDF olarak dosyalamak için`Save` yöntem. Çıktı dosyası yolunu belirtin ve yapılandırılmış seçenekleri iletin.
+Son olarak, kaydedin`.mpp` PDF olarak dosyalamak için`Save` yöntem. Çıktı dosyası yolunu belirtin ve yapılandırılmış seçenekleri iletin.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

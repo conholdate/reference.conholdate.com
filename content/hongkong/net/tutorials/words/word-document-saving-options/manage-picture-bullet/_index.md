@@ -77,7 +77,7 @@ doc.Save(dataDir + "Output_Without_Picture_Bullets.docx", saveOptions);
 
 ## 結論
 
-現在你就擁有了！只需幾行程式碼，您就可以成功配置 Aspose.Words for .NET 在儲存文件時省略圖片項目符號。此功能對於實現乾淨一致的文檔外觀非常有用。
+現在你就得到它了！只需幾行程式碼，您就可以成功配置 Aspose.Words for .NET 在儲存文件時省略圖片項目符號。此功能對於實現乾淨一致的文檔外觀非常有用。
 
 ## 常見問題解答
 

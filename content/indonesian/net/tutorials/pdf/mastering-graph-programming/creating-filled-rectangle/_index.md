@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Inisialisasi dokumen PDF baru:
 
 ```csharp
-//Buat contoh Dokumen
+// Buat contoh Dokumen
 Document doc = new Document();
 ```
 

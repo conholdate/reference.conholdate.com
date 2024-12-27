@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  Uzyskując dostęp do`HtmlBody` własność`MailMessage` obiekt, zawartość HTML jest teraz przechowywana w zmiennej typu string o nazwie`htmlBody`.
 
-### Krok 3: Przygotuj się do konwersji HTML na zwykły tekst
+## Krok 3: Przygotuj się do konwersji HTML na zwykły tekst
 
 Teraz, gdy mamy już zawartość HTML, czas przygotować grunt pod konwersję. Wykorzystamy Aspose.Words, aby zamienić nasz bogaty HTML na zwykły tekst. Ale najpierw musimy utworzyć nowy dokument:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Tworzy to nowy pusty`Document`Usuwamy wszystkie istniejące węzły podrzędne, aby mieć pewność, że mamy czystą kartę, zanim zaczniemy wstawiać naszą zawartość HTML.
 
-### Krok 4: Wstaw zawartość HTML
+## Krok 4: Wstaw zawartość HTML
 
  To tutaj dzieje się magia konwersji! Użyjemy`DocumentBuilder` Klasa z Aspose.Words służąca do wstawiania zawartości HTML do dokumentu. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Tutaj,`DocumentBuilder().InsertHtml(htmlBody)` pobiera nasz ciąg HTML i ładuje go do nowej struktury dokumentu wewnątrz`Document` obiekt. Używanie`ImportFormatMode.KeepSourceFormatting` zapewnia, że formatowanie pozostanie nienaruszone podczas tej operacji.
 
-### Krok 5: Zapisz plik zwykłego tekstu
+## Krok 5: Zapisz plik zwykłego tekstu
 
 Na koniec nadszedł czas na zapisanie naszego nowo utworzonego pliku zwykłego tekstu. Oto jak to zrobić:
 

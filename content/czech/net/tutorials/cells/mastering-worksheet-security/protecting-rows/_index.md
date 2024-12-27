@@ -68,7 +68,7 @@ for (int i = 0; i <= 255; i++)
 ```
 
 ## Krok 4: Uzamkněte konkrétní řádky
-Nyní zamkněte řádky, které chcete chránit. V tomto příkladu uzamkneme první řádek.
+Nyní zamkněte řádky, které chcete chránit. V tomto příkladu zamkneme první řádek.
 
 ```csharp
 // Zamkněte první řadu.

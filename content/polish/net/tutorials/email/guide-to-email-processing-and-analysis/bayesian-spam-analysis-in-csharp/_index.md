@@ -9,7 +9,7 @@ url: /pl/net/tutorials/email/guide-to-email-processing-and-analysis/bayesian-spa
 ---
 ## Wstęp
 
-erze cyfrowej, w której nasze skrzynki odbiorcze są zalewane wiadomościami, odróżnianie prawdziwych wiadomości e-mail od spamu może przypominać szukanie igły w stogu siana. To właśnie tutaj wkracza bayesowska analiza spamu — metoda wykorzystująca prawdopodobieństwo i uczenie maszynowe do skutecznej klasyfikacji wiadomości e-mail. Ten samouczek przeprowadzi Cię przez proces wdrażania bayesowskiej analizy spamu przy użyciu biblioteki Aspose.Email dla .NET. Przyjrzymy się wymaganiom wstępnym, zagłębimy się w niezbędne pakiety i rozbijemy kod na proste, przyswajalne kroki. Jesteś gotowy, aby przekształcić swoje umiejętności obsługi wiadomości e-mail? Zaczynajmy!
+W erze cyfrowej, w której nasze skrzynki odbiorcze są zalewane wiadomościami, odróżnianie prawdziwych wiadomości e-mail od spamu może przypominać szukanie igły w stogu siana. To właśnie tutaj wkracza bayesowska analiza spamu — metoda wykorzystująca prawdopodobieństwo i uczenie maszynowe do skutecznej klasyfikacji wiadomości e-mail. Ten samouczek przeprowadzi Cię przez proces wdrażania bayesowskiej analizy spamu przy użyciu biblioteki Aspose.Email dla .NET. Przyjrzymy się wymaganiom wstępnym, zagłębimy się w niezbędne pakiety i rozbijemy kod na proste, przyswajalne kroki. Jesteś gotowy, aby przekształcić swoje umiejętności obsługi wiadomości e-mail? Zaczynajmy!
 
 ## Wymagania wstępne
 
@@ -17,7 +17,7 @@ Zanim zaczniesz wdrażać analizę spamu metodą bayesowską, upewnij się, że 
 
 1. Visual Studio: zintegrowane środowisko programistyczne (IDE) do pisania i zarządzania projektami w języku C#.
 2. .NET Framework lub .NET Core: Upewnij się, że masz zainstalowany jeden z tych programów, ponieważ są one niezbędne do uruchamiania aplikacji C#.
-3. Aspose.Email dla .NET: Ta potężna biblioteka pomoże Ci obsługiwać operacje e-mail. Możesz pobrać bibliotekę z[Tutaj](https://releases.aspose.com/email/net/) lub zacznij od bezpłatnego okresu próbnego[ten link](https://releases.aspose.com/).
+3.  Aspose.Email dla .NET: Ta potężna biblioteka pomoże Ci obsługiwać operacje e-mail. Możesz pobrać bibliotekę z[Tutaj](https://releases.aspose.com/email/net/) lub zacznij od bezpłatnego okresu próbnego[ten link](https://releases.aspose.com/).
 4. Podstawowa znajomość języka C#: Znajomość języka programowania C# ułatwi korzystanie z tego samouczka.
 
 Gdy już spełnisz te wymagania wstępne, możesz zagłębić się w kod!
@@ -44,7 +44,7 @@ Teraz podzielimy proces wdrażania na jasne kroki, aby ułatwić Ci śledzenie p
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- Ten`Load`Metoda pobiera ścieżkę pliku wiadomości e-mail, którą chcesz przeanalizować. Ten plik powinien być w formacie EML. Jeśli go nie masz, możesz utworzyć prosty e-mail i zapisać go jako`email.eml`.
+ Ten`Load` Metoda pobiera ścieżkę pliku wiadomości e-mail, którą chcesz przeanalizować. Ten plik powinien być w formacie EML. Jeśli go nie masz, możesz utworzyć prosty e-mail i zapisać go jako`email.eml`.
 
 ## Krok 2: Utwórz analizator spamu
 
@@ -66,7 +66,7 @@ spamAnalyzer.TrainFilter(MailMessage.Load("spam1.eml"), true);
 spamAnalyzer.TrainFilter(MailMessage.Load("ham1.eml"), false);
 ```
 
-W tym kroku ładujemy wiadomość e-mail będącą spamem (`spam1.eml`) i prawowity (`ham1.eml`). Wartość logiczna wskazuje, czy e-mail jest spamem. Upewnij się, że masz te dwa e-maile dostępne do szkolenia.
+tym kroku ładujemy wiadomość e-mail będącą spamem (`spam1.eml`) i prawowity (`ham1.eml`). Wartość logiczna wskazuje, czy e-mail jest spamem. Upewnij się, że masz te dwa e-maile dostępne do szkolenia.
 
 ## Krok 4: Zapisz bazę danych
 
@@ -97,7 +97,7 @@ double spamProbability = spamAnalyzer.Test(message);
 bool isSpam = spamProbability > 0.5;
 ```
 
- Ten`Test` Metoda zwróci wartość prawdopodobieństwa pokazującą, jak prawdopodobne jest, że e-mail jest spamem. Jeśli ta wartość jest większa niż 0,5, uznajemy go za spam.
+ Ten`Test`Metoda zwróci wartość prawdopodobieństwa pokazującą, jak prawdopodobne jest, że e-mail jest spamem. Jeśli ta wartość jest większa niż 0,5, uznajemy go za spam.
 
 ## Krok 7: Wyświetl wynik
 

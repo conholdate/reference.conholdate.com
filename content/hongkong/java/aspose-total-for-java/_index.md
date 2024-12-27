@@ -270,7 +270,7 @@ Aspose.Page 是一個 Java API，旨在允許開發人員使用 XPS 和 EPS/PS �
 
 Aspose.PSD for Java 允許對 PSD 檔案格式進行廣泛的操作。該產品不需要安裝 Adobe Photoshop。 Aspose.PSD for Java 允許編輯 PSD 檔案、更新圖層屬性、新增浮水印、執行圖形操作以及將一種檔案格式轉換為另一種檔案格式。該產品還支援不同的自動化場景，為開發人員提供協助。
 
-目前，Aspose.PSD for Java 支援 PSD 和 PSB 檔案格式進行載入和操作。未來的版本將允許載入更多 PSD 檔案格式。 Aspose.PSD for Java 允許匯出為各種光柵檔案格式，例如 TIFF、JPEG、JPEG2000、PNG、GIF 和 BMP。該產品使用的演算法可以有效地編輯 PSD 檔案並保持良好的效能。該產品正在積極開發中，並將添加許多有用的功能以滿足市場需求。
+目前，Aspose.PSD for Java 支援 PSD 和 PSB 檔案格式進行載入和操作。未來的版本將允許載入更多 PSD 檔案格式。 Aspose.PSD for Java 允許匯出為各種光柵檔案格式，例如 TIFF、JPEG、JPEG2000、PNG、GIF 和 BMP。該產品使用的演算法允許以有效的方式執行 PSD 文件編輯並保持良好的性能。該產品正在積極開發中，並將添加許多有用的功能以滿足市場需求。
 
 {{% /alert %}}
 
@@ -316,7 +316,7 @@ Aspose.PUB for Java API 可讓您在 Java 應用程式中使用 PUB 檔案。它
 
 **Welcome to Aspose.Font for Java**
 
-Aspose.Font for Java 是一個字體載入和繪圖函式庫。它支援多種字型格式，例如 TrueType（帶有 TrueType 集合）、CFF、OpenType 和 Type1。 API 提供了豐富的功能來載入/儲存字體，並提供有關其資料結構以及所有字體類型支援的任何字形的資訊。它還提供所有字體類型的編碼資訊，表示字元代碼和字形標識符之間的對應。其渲染子系統可協助最終使用者渲染任何所需的字形或文字。可以透過使用簡單的圖形功能（移動點、畫線、曲線）來實現介面來呈現特殊字形。
+Aspose.Font for Java 是一個字體載入和繪圖函式庫。它支援多種字型格式，例如 TrueType（帶有 TrueType 集合）、CFF、OpenType 和 Type1。該 API 提供了豐富的功能來載入/儲存字體，並提供有關其資料結構以及所有字體類型支援的任何字形的資訊。它還提供所有字體類型的編碼資訊，表示字元代碼和字形標識符之間的對應。其渲染子系統可協助最終使用者渲染任何所需的字形或文字。可以透過使用簡單的圖形功能（移動點、畫線、曲線）來實現介面來呈現特殊字形。
 {{% /alert %}}
 
 ## **Aspose.Font for Java**

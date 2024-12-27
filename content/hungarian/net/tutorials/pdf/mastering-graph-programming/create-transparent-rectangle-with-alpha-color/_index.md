@@ -86,7 +86,7 @@ canvas.Shapes.Add(rect1);
 
 ## 6. lépés: Szerelje fel a grafikont az oldalra
 
- Most integrálja a rajzolt alakzatokat a`Graph` objektum az oldal bekezdésgyűjteményével szemben.
+ Most integrálja a rajzolt alakzatokat a`Graph` tiltakozik az oldal bekezdésgyűjteményével szemben.
 
 ```csharp
 // Adja hozzá a grafikont az oldalhoz

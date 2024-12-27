@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  Erişim sağlayarak`HtmlBody` mülkiyeti`MailMessage` nesne, HTML içeriği artık adlı bir dize değişkeninde saklanır`htmlBody`.
 
-### Adım 3: HTML'yi Düz Metne Dönüştürmeye Hazırlanın
+## Adım 3: HTML'yi Düz Metne Dönüştürmeye Hazırlanın
 
 Artık HTML içeriğimiz olduğuna göre, dönüşüm için ortamı hazırlamanın zamanı geldi. Zengin HTML'imizi düz metne dönüştürmek için Aspose.Words'ü kullanacağız. Ancak önce yeni bir belge oluşturmamız gerekiyor:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Bu yeni bir boşluk yaratır`Document`HTML içeriğimizi eklemeye başlamadan önce temiz bir sayfa olduğundan emin olmak için mevcut tüm alt düğümleri kaldırıyoruz.
 
-### Adım 4: HTML İçeriğini Ekle
+## Adım 4: HTML İçeriğini Ekle
 
  Dönüşümün büyüsü burada gerçekleşir!`DocumentBuilder` HTML içeriğimizi belgeye eklemek için Aspose.Words sınıfından yararlanıyoruz. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Burada,`DocumentBuilder().InsertHtml(htmlBody)` HTML dizimizi alır ve onu yeni bir belge yapısına yükler`Document` nesne. Kullanarak`ImportFormatMode.KeepSourceFormatting` Bu işlem sırasında biçimlendirmenin bozulmadan kalmasını sağlar.
 
-### Adım 5: Düz Metin Dosyasını Kaydedin
+## Adım 5: Düz Metin Dosyasını Kaydedin
 
 Son olarak, yeni oluşturduğumuz düz metin dosyamızı kaydetme zamanı geldi. İşte bunu nasıl yapacağınız:
 

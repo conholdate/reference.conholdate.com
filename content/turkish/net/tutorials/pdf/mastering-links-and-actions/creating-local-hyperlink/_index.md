@@ -54,7 +54,7 @@ Yerel hiperlink oluşturma sürecini basit adımlara bölelim.
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Belge dizininizi ayarlayın
-Document doc = new Document(); //Belge örneği oluştur
+Document doc = new Document(); // Belge örneği oluştur
 ```
 
  Yer değiştirmek`"YOUR_DOCUMENT_DIRECTORY"` PDF'in sisteminizde kaydedileceği gerçek yol ile.

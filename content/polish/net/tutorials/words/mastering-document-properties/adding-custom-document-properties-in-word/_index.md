@@ -9,7 +9,7 @@ url: /pl/net/tutorials/words/mastering-document-properties/adding-custom-documen
 ---
 ## Wstęp
 
-Witamy! Jeśli eksplorujesz Aspose.Words dla .NET i chcesz dowiedzieć się, jak dodawać niestandardowe właściwości dokumentu do plików Word, jesteś we właściwym miejscu. Niestandardowe właściwości są nieocenione do przechowywania dodatkowych metadanych, których nie obejmują wbudowane właściwości. Niezależnie od tego, czy musisz śledzić autoryzację dokumentu, numery rewizji czy konkretne daty, niestandardowe właściwości mogą pomóc. W tym samouczku przeprowadzimy Cię przez kroki, aby bezproblemowo dodać te właściwości za pomocą Aspose.Words dla .NET. Zaczynajmy!
+Witamy! Jeśli eksplorujesz Aspose.Words dla .NET i chcesz dowiedzieć się, jak dodawać niestandardowe właściwości dokumentu do plików Word, jesteś we właściwym miejscu. Niestandardowe właściwości są bezcenne do przechowywania dodatkowych metadanych, których nie obejmują wbudowane właściwości. Niezależnie od tego, czy musisz śledzić autoryzację dokumentu, numery rewizji czy konkretne daty, niestandardowe właściwości mogą pomóc. W tym samouczku przeprowadzimy Cię przez kroki, aby bezproblemowo dodać te właściwości za pomocą Aspose.Words dla .NET. Zaczynajmy!
 
 ## Wymagania wstępne
 

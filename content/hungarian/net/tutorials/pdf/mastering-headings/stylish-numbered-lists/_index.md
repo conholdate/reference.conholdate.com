@@ -53,9 +53,9 @@ Ezzel a beállítással a dokumentum szabványos betűméretet biztosít, minden
 Ezután adunk hozzá egy üres oldalt a PDF dokumentumhoz, ahol később alkalmazzuk a számozási stílusokat.
 
 ```csharp
-// Új oldal hozzáadása a PDF dokumentumhoz
+// Új oldal hozzáadása a PDF-dokumentumhoz
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Használja ugyanazokat a beállításokat, mint a dokumentum
+pdfPage.PageInfo = pdfDoc.PageInfo; // Használja ugyanazokat a beállításokat, mint a dokumentum
 ```
 
 ## 3. lépés: Lebegő doboz létrehozása
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Használja ugyanazokat a beállításokat,
 A FloatingBox lehetővé teszi, hogy a tartalmat az oldal áramlásától függetlenül helyezze el, így jobban irányíthatja az elrendezést.
 
 ```csharp
-// Hozzon létre egy FloatingBoxot a strukturált tartalomhoz
+//Hozzon létre egy FloatingBoxot a strukturált tartalomhoz
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

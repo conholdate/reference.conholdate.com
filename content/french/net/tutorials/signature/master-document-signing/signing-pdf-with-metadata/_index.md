@@ -106,4 +106,4 @@ Absolument ! Vous pouvez signer plusieurs documents en masse en parcourant une 
 
 ### Le support technique est-il disponible pour les utilisateurs de GroupDocs.Signature ?
 
-Oui, GroupDocs fournit un support technique dédié via ses forums. Vous pouvez accéder au forum d'assistance[ici](https://forum.groupdocs.com/c/signature/13).
+ Oui, GroupDocs fournit un support technique dédié via ses forums. Vous pouvez accéder au forum d'assistance[ici](https://forum.groupdocs.com/c/signature/13).

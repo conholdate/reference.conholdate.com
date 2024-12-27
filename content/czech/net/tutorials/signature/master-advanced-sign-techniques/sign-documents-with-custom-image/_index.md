@@ -9,7 +9,7 @@ url: /cs/net/tutorials/signature/master-advanced-sign-techniques/sign-documents-
 ---
 ## Zavedení
 
-tomto tutoriálu se naučíte, jak používat GroupDocs.Signature for .NET k podepisování dokumentů pomocí obrázků. Podepisování dokumentů zvyšuje autenticitu a bezpečnost vašich souborů a zajišťuje, že jsou odolné proti neoprávněné manipulaci a jsou právně závazné. Integrací funkcí podepisování dokumentů do vašich aplikací .NET můžete výrazně zefektivnit své pracovní postupy.
+V tomto tutoriálu se naučíte, jak používat GroupDocs.Signature for .NET k podepisování dokumentů pomocí obrázků. Podepisování dokumentů zvyšuje autenticitu a bezpečnost vašich souborů a zajišťuje, že jsou odolné proti neoprávněné manipulaci a jsou právně závazné. Integrací funkcí podepisování dokumentů do vašich aplikací .NET můžete výrazně zefektivnit své pracovní postupy.
 
 ## Předpoklady
 
@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Krok 4: Inicializujte objekt podpisu
 
- Vytvořte instanci souboru`Signature`třídy, předáním cesty k souboru dokumentu:
+ Vytvořte instanci souboru`Signature` třídy, předáním cesty k souboru dokumentu:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

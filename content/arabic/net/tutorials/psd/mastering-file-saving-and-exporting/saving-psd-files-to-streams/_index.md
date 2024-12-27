@@ -16,7 +16,7 @@ url: /ar/net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-
 قبل أن نبدأ، تأكد من إعداد ما يلي:
 
 1. Visual Studio: تأكد من تثبيت Visual Studio على جهازك.
-2.  Aspose.PSD لـ .NET: قم بتنزيل مكتبة Aspose.PSD وتثبيتها. يمكنك العثور على أحدث إصدار[هنا](https://releases.aspose.com/psd/net/).
+2. Aspose.PSD لـ .NET: قم بتنزيل مكتبة Aspose.PSD وتثبيتها. يمكنك العثور على أحدث إصدار[هنا](https://releases.aspose.com/psd/net/).
 3. ملف PSD نموذجي: احصل على ملف PSD نموذجي للاختبار. إذا لم يكن لديك ملف PSD، فيمكنك استخدام أي ملف PSD لأغراض العرض التوضيحي.
 4. دليل المستندات: قم بإنشاء دليل في مشروعك لحفظ صورك وملاحظة المسار لاستخدامها لاحقًا.
 
@@ -89,10 +89,10 @@ using (var fileStream = new FileStream(destName, FileMode.Create))
 ## الأسئلة الشائعة
 
 ### هل يمكنني استخدام Aspose.PSD مع أي نوع من ملفات الصور؟
-نعم! يدعم Aspose.PSD تنسيقات صور مختلفة، بما في ذلك PSD وPNG وJPEG والمزيد. للحصول على قائمة مفصلة، راجع الوثائق[هنا](https://reference.aspose.com/psd/net/).
+ نعم! يدعم Aspose.PSD تنسيقات صور مختلفة، بما في ذلك PSD وPNG وJPEG والمزيد. للحصول على قائمة مفصلة، راجع الوثائق[هنا](https://reference.aspose.com/psd/net/).
 
 ### كيف أحصل على الدعم لـ Aspose.PSD؟
- للحصول على المساعدة ودعم المجتمع، قم بزيارة منتدى دعم Aspose.PSD[هنا](https://forum.aspose.com/c/psd/34).
+للحصول على المساعدة ودعم المجتمع، قم بزيارة منتدى دعم Aspose.PSD[هنا](https://forum.aspose.com/c/psd/34).
 
 ### هل هناك نسخة تجريبية مجانية متاحة؟
  بالتأكيد! يمكنك تنزيل نسخة تجريبية مجانية[هنا](https://releases.aspose.com/) لاستكشاف ميزات Aspose.PSD قبل اتخاذ قرار الشراء.

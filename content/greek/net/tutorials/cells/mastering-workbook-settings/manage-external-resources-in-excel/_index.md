@@ -138,7 +138,7 @@ public static void Execute()
 Το Aspose.Cells είναι μια ισχυρή βιβλιοθήκη σχεδιασμένη για προγραμματιστές .NET να δημιουργούν, να χειρίζονται και να διαχειρίζονται αρχεία Excel χωρίς να απαιτείται Microsoft Excel.
 
 ### Πώς μπορώ να κατεβάσω το Aspose.Cells για .NET;
- Μπορείτε να το κατεβάσετε από το[Aspose ιστότοπο](https://releases.aspose.com/cells/net/).
+ Μπορείτε να το κατεβάσετε από το[Aspose website](https://releases.aspose.com/cells/net/).
 
 ### Υπάρχει δωρεάν δοκιμή διαθέσιμη;
  Ναί! Το Aspose προσφέρει μια δωρεάν δοκιμή των Aspose.Cells, διαθέσιμα στο δικό τους[σελίδα έκδοσης](https://releases.aspose.com/cells/net/).

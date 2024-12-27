@@ -2,7 +2,7 @@
 title: 使用 Aspose.PDF for .NET 从 PDF 文件获取书签
 linktitle: 使用 Aspose.PDF for .NET 从 PDF 文件获取书签
 second_title: Aspose.PDF for .NET API 参考
-description: 通过学习如何使用 Aspose.PDF for .NET 提取书签，释放 PDF 文档的全部潜力。本分步教程将指导您完成项目设置。
+description: 通过学习如何使用 Aspose.PDF for .NET 提取书签，充分发挥 PDF 文档的潜力。本分步教程将指导您完成项目设置。
 type: docs
 weight: 70
 url: /zh/net/tutorials/pdf/mastering-bookmarks/get-bookmarks-from-pdf-files/

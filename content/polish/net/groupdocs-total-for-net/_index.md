@@ -165,7 +165,7 @@ Poniżej znajdują się linki do przydatnych zasobów, które mogą Ci się przy
 
 **Welcome to the GroupDocs.Signature for .NET**
 
-GroupDocs.Signature dla .NET umożliwia programistom pisanie aplikacji z możliwością znaczącego podpisywania dokumentów elektronicznych w różnych formatach plików. To API e-signing pozwala użytkownikom dodawać różne typy podpisów, takie jak tekst, obraz lub podpisy cyfrowe w dokumentach elektronicznych. Dość fascynującym faktem dotyczącym API jest to, że jego interfejs użytkownika jest mniej i można wykonywać niezależne wywołania.
+GroupDocs.Signature dla .NET umożliwia programistom pisanie aplikacji z możliwością znaczącego podpisywania dokumentów elektronicznych w różnych formatach plików. To API e-podpisu pozwala użytkownikom dodawać różne typy podpisów, takie jak tekst, obraz lub podpisy cyfrowe w dokumentach elektronicznych. Dość fascynującym faktem dotyczącym API jest to, że jego interfejs użytkownika jest mniej i można wykonywać niezależne wywołania.
 
 {{% /alert %}} 
 ## **GroupDocs.Signature for .NET**

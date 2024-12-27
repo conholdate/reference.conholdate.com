@@ -32,7 +32,7 @@ using Aspose.Imaging.Sources;
 
 ## Paso 2: Crea una imagen
 
-continuación, crearemos una nueva imagen. El siguiente fragmento de código demuestra cómo configurar una imagen con propiedades específicas:
+A continuación, crearemos una nueva imagen. El siguiente fragmento de código demuestra cómo configurar una imagen con propiedades específicas:
 
 ```csharp
 string dataDir = "Your Document Directory/rectangles.bmp"; // Ruta donde se guardará la imagen
@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// Crea la imagen
+//Crea la imagen
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // Proceda a dibujar sobre la imagen.
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## Paso 4: Guarda la imagen
 
- Guardar la imagen final es sencillo, como se muestra arriba.`using` declaración donde`image.Save()`se llama automáticamente cuando el`using` El bloque termina.
+ Guardar la imagen final es sencillo, como se muestra arriba.`using` declaración donde`image.Save()` se llama automáticamente cuando el`using` El bloque termina.
 
 ## Conclusión
 

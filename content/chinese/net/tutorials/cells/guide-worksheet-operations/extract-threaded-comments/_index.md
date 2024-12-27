@@ -16,7 +16,7 @@ url: /zh/net/tutorials/cells/guide-worksheet-operations/extract-threaded-comment
 
 1. C# 基础知识：熟悉 C# 和 .NET Framework 至关重要，因为我们的代码示例将使用 C#。
 2. Visual Studio：在您的机器上安装 Visual Studio 以运行 C# 代码。
-3.  Aspose.Cells for .NET：从以下位置下载并安装 Aspose.Cells 库[Aspose 网站](https://releases.aspose.com/cells/net/).
+3.  Aspose.Cells for .NET：从以下位置下载并安装 Aspose.Cells 库：[Aspose 网站](https://releases.aspose.com/cells/net/).
 4. 示例 Excel 文件：准备一个示例 Excel 文件（例如，`ThreadedCommentsSample.xlsx`) 已保存在您的目录中，其中包含用于测试的线程评论。
 
 ## 导入所需包

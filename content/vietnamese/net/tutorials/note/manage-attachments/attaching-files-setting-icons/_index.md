@@ -35,7 +35,7 @@ Dưới đây là hướng dẫn thực hiện chi tiết từng bước.
 
 ## Bước 1: Tạo một tài liệu OneNote mới
 
- Khởi tạo một tài liệu OneNote mới bằng cách sử dụng`Document`lớp học.
+ Khởi tạo một tài liệu OneNote mới bằng cách sử dụng`Document` lớp học.
 
 ```csharp
 Document doc = new Document();

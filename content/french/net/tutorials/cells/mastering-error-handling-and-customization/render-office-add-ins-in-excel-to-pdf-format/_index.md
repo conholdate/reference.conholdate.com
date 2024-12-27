@@ -61,7 +61,7 @@ string outputDir = "Your Document Directory";
 Workbook wb = new Workbook(sourceDir + "sampleRenderOfficeAdd-Ins.xlsx");
 ```
 
- Assurez-vous que votre fichier Excel est nommé`sampleRenderOfficeAdd-Ins.xlsx` et se trouve dans votre répertoire source spécifié. Le chargement du classeur est similaire à l'ouverture d'un livre ; vous pouvez désormais accéder à tout son contenu !
+ Assurez-vous que votre fichier Excel est nommé`sampleRenderOfficeAdd-Ins.xlsx` et se trouve dans votre répertoire source spécifié. Le chargement du classeur s'apparente à l'ouverture d'un livre ; vous pouvez désormais accéder à tout son contenu !
 
 ## Étape 3 : Enregistrer le classeur au format PDF
 

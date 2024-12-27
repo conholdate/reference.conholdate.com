@@ -9,7 +9,7 @@ url: /de/net/tutorials/pdf/mastering-bookmarks/adding-bookmark/
 ---
 ## Einführung
 
-Das Navigieren in großen PDF-Dokumenten kann eine gewaltige Aufgabe sein. Wenn Sie in einem mehrseitigen Dokument nach bestimmten Informationen suchen, kann endloses Scrollen wertvolle Zeit verschwenden. Lesezeichen bieten eine einfache Lösung für dieses Problem und ermöglichen es, schnell zu relevanten Abschnitten in einem PDF zu springen. Dieses Tutorial führt Sie Schritt für Schritt durch das Hinzufügen von Lesezeichen zu PDF-Dateien mit Aspose.PDF für .NET, einer leistungsstarken Bibliothek, die für die Arbeit mit PDF-Dateien in .NET-Anwendungen entwickelt wurde.
+Das Navigieren in großen PDF-Dokumenten kann eine gewaltige Aufgabe sein. Wenn Sie in einem mehrseitigen Dokument nach bestimmten Informationen suchen, kann endloses Scrollen wertvolle Zeit verschwenden. Lesezeichen bieten eine einfache Lösung für dieses Problem, da sie eine Möglichkeit bieten, schnell zu relevanten Abschnitten in einem PDF zu springen. Dieses Tutorial führt Sie Schritt für Schritt durch das Hinzufügen von Lesezeichen zu PDF-Dateien mit Aspose.PDF für .NET, einer leistungsstarken Bibliothek, die für die Arbeit mit PDF-Dateien in .NET-Anwendungen entwickelt wurde.
 
 ## Voraussetzungen
 
@@ -79,7 +79,7 @@ Sie können den Titel und das Aussehen des Lesezeichens ändern. In diesem Fall 
 
 ## Schritt 4: Lesezeichenziel festlegen
 
-Jedes Lesezeichen benötigt ein Ziel. Dieses Ziel ist die spezifische Seite in der PDF-Datei, auf die das Lesezeichen verweist. So verknüpfen Sie das Lesezeichen beispielsweise mit der ersten Seite:
+Jedes Lesezeichen benötigt ein Ziel. Dieses Ziel ist die spezifische Seite im PDF, auf die das Lesezeichen verweist. So verknüpfen Sie das Lesezeichen beispielsweise mit der ersten Seite:
 
 ```csharp
 pdfOutline.Action = new GoToAction(pdfDocument.Pages[1]);

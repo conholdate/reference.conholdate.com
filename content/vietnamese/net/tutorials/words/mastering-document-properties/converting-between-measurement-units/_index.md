@@ -91,7 +91,7 @@ Mặc dù bạn có thể sử dụng Aspose.Words mà không cần giấy phép
  Tải xuống từ[trang web](https://releases.aspose.com/words/net/) và làm theo hướng dẫn cài đặt được cung cấp.
 
 ### Tôi có thể thiết lập các đơn vị khác nhau cho các phần khác nhau của tài liệu không?
- Chắc chắn rồi! Bạn có thể tùy chỉnh lề và cài đặt cho các phần khác nhau bằng cách sử dụng`Section`lớp học.
+ Chắc chắn rồi! Bạn có thể tùy chỉnh lề và cài đặt cho các phần khác nhau bằng cách sử dụng`Section` lớp học.
 
 ### Aspose.Words còn cung cấp những tính năng nào khác?
  Aspose.Words hỗ trợ nhiều tính năng, bao gồm chuyển đổi tài liệu, trộn thư và các tùy chọn định dạng mở rộng. Kiểm tra[tài liệu](https://reference.aspose.com/words/net/) để biết thêm chi tiết.

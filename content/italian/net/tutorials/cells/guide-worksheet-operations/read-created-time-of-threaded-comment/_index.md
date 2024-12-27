@@ -95,7 +95,7 @@ foreach (ThreadedComment comment in threadedComments)
 
 ## Passaggio 6: visualizzare un messaggio di conferma
 
-Dopo aver letto con successo i commenti in thread e visualizzato le informazioni, è sempre una buona pratica includere un messaggio di conferma nel codice. Questo aiuta a confermare che il processo è stato eseguito correttamente.
+Dopo aver letto con successo i commenti in thread e visualizzato le informazioni, è sempre una buona norma includere un messaggio di conferma nel codice. Ciò aiuta a confermare che il processo è stato eseguito correttamente.
 
 ```csharp
 // Messaggio di conferma

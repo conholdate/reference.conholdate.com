@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Em seguida, desenhe uma segunda linha do canto superior esquerdo até o canto inferior direito:
 
 ```csharp
-//Crie uma linha do canto superior esquerdo ao canto inferior direito
+// Crie uma linha do canto superior esquerdo ao canto inferior direito
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Adicione a segunda linha ao objeto Graph
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## Etapa 6: adicione o gráfico à página
 
- Com ambas as linhas desenhadas, adicione o`Graph` objetar à página:
+ Com ambas as linhas desenhadas, adicione o`Graph`objetar à página:
 
 ```csharp
 // Adicione o objeto Graph à coleção de parágrafos da página
@@ -122,7 +122,7 @@ Com essas etapas simples, você pode facilmente desenhar linhas em um documento 
  Você pode ajustar o`StrokeColor` e`LineWidth` propriedades do`Line` objeto para personalizar sua aparência.
 
 ### Posso posicionar linhas em áreas específicas da página?
-Claro! Modifique as coordenadas do`Line` objeto para colocá-lo onde você precisar.
+ Claro! Modifique as coordenadas do`Line` objeto para colocá-lo onde você precisar.
 
 ### É possível adicionar texto junto com as linhas?
  Sim, você pode criar`TextFragment` objetos e adicioná-los à coleção de parágrafos da página.

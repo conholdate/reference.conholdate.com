@@ -95,5 +95,5 @@ Absoluut! U kunt een bestaand document laden en opslaan met een nieuw wachtwoord
 ### Is het mogelijk om het wachtwoord van een document te verwijderen?
 Ja, u kunt het document opslaan zonder een wachtwoord op te geven om de bestaande beveiliging te verwijderen.
 
-### Hoe veilig is de encryptie die Aspose.Words biedt voor .NET?
+### Hoe veilig is de encryptie die Aspose.Words voor .NET biedt?
 Aspose.Words maakt gebruik van robuuste encryptiestandaarden, waardoor uw documenten optimaal worden beschermd.

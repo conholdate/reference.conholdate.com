@@ -91,7 +91,7 @@ Bien que vous puissiez utiliser Aspose.Words sans licence, certaines fonctionnal
  Téléchargez-le à partir du[site web](https://releases.aspose.com/words/net/) et suivez les instructions d'installation fournies.
 
 ### Puis-je définir des unités différentes pour différentes sections d’un document ?
- Absolument ! Vous pouvez personnaliser les marges et les paramètres des différentes sections à l'aide de l'`Section`classe.
+ Absolument ! Vous pouvez personnaliser les marges et les paramètres des différentes sections à l'aide de l'`Section` classe.
 
 ### Quelles autres fonctionnalités offre Aspose.Words ?
  Aspose.Words prend en charge une large gamme de fonctionnalités, notamment la conversion de documents, la fusion de courrier et de nombreuses options de formatage.[documentation](https://reference.aspose.com/words/net/) pour plus de détails.

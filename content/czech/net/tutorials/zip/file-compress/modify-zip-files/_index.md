@@ -41,7 +41,7 @@ Začněte otevřením hlavního souboru zip (vnější zip):
 string dataDir = "Your Data Directory";
 using (Archive outer = new Archive(dataDir + "outer.zip"))
 {
-    // Pokračujte v identifikaci vnitřních zipových vstupů
+    // Pokračujte v identifikaci vnitřních vstupů zipu
 }
 ```
 

@@ -2,7 +2,7 @@
 title: Állítsa be az oroszt alapértelmezett szerkesztési nyelvként
 linktitle: Állítsa be az oroszt alapértelmezett szerkesztési nyelvként
 second_title: Aspose.Words Document Processing API
-description: Ismerje meg, hogyan szabhatja testre Word-dokumentumait az orosz nyelv alapértelmezett szerkesztési nyelvként történő beállításával az Aspose.Words for .NET használatával. Ez a lépésről-lépésre útmutató.
+description: Ismerje meg, hogyan szabhatja testre Word-dokumentumait az orosz nyelv alapértelmezett szerkesztési nyelvként történő beállításával az Aspose.Words for .NET használatával. Ez a lépésenkénti útmutató.
 type: docs
 weight: 10
 url: /hu/net/tutorials/words/mastering-document-options-and-settings/set-russian-as-default-edit-language/

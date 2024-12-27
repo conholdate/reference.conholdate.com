@@ -327,7 +327,7 @@ Aspose.OMR for .NET, OMR sayısallaştırılmış sayfa görüntülerinden optik
 
 Görevlerinizi yerine getirmek için ihtiyaç duyabileceğiniz bazı yararlı kaynakların bağlantıları aşağıdadır.
 
-- [Aspose.OMR for .NET API Referans Kılavuzu](https://reference.aspose.com/omr/net)
+- [Aspose.OMR for .NET API Başvuru Kılavuzu](https://reference.aspose.com/omr/net)
 
 {{% alert color="primary" %}} 
 

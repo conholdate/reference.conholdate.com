@@ -11,7 +11,7 @@ url: /it/net/tutorials/annotation/master-advanced-annotation-features/
 
 Quando si tratta di gestire documenti, le annotazioni sono un punto di svolta. Non solo migliorano la collaborazione, ma semplificano anche il monitoraggio delle modifiche e dei feedback. Con GroupDocs.Annotation per .NET, gli sviluppatori hanno a portata di mano uno strumento potente per semplificare questo processo. Immergiamoci nei due tutorial chiave che ti aiuteranno a sfruttare appieno il potenziale di questo software.
 
-## Esportare annotazioni da file XML
+## Esporta annotazioni da file XML
 
  Immagina di avere uno scrigno di annotazioni di documenti e di doverle esportare in modo efficiente. Ecco dove si trova il tutorial su[Esportazione di annotazioni da file XML](./export-annotations-from-xml-file/) entra in gioco. Questa guida ti accompagna attraverso l'intero processo, assicurandoti di non perdere un colpo. 
 

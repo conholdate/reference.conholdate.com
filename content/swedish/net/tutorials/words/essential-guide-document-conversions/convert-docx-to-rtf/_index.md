@@ -67,7 +67,7 @@ using (MemoryStream dstStream = new MemoryStream())
 ```
 
 I det här steget:
--  Vi skapar en`MemoryStream` för att hålla RTF-data.
+-  Vi skapar en`MemoryStream` för att lagra RTF-data.
 - Spara dokumentet som RTF i denna ström.
 -  Skriv strömmens innehåll till en ny RTF-fil med namnet`"ConvertedDocument.rtf"` i din angivna katalog.
 
@@ -86,7 +86,7 @@ Ja! Du kan konvertera från olika format, inklusive DOC, DOCX och HTML till RTF.
 ### Vad händer om mitt konverteringsresultat inte är som förväntat?
  Granska indatadokumentet för problem eller hänvisa till[Aspose.Words dokumentation](https://reference.aspose.com/words/net/) för vägledning.
 
-### Kan jag automatisera denna konverteringsprocess?
+### Kan jag automatisera den här konverteringsprocessen?
 Definitivt! Integrera den medföljande koden i dina applikationer eller skript för att automatisera dokumentkonverteringar sömlöst.
 
 ### Var kan jag hitta mer support?

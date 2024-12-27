@@ -2,7 +2,7 @@
 title: फ़ाइल से लाइसेंस लोड किया जा रहा है
 linktitle: फ़ाइल से लाइसेंस लोड किया जा रहा है
 second_title: .NET API संदर्भ के लिए Aspose.PDF
-description: किसी फ़ाइल से लाइसेंस लोड करने के बारे में हमारी चरण-दर-चरण मार्गदर्शिका से .NET के लिए Aspose.PDF की पूरी क्षमता को अनलॉक करने का तरीका जानें।
+description: किसी फ़ाइल से लाइसेंस लोड करने के बारे में हमारी चरण-दर-चरण मार्गदर्शिका के साथ .NET के लिए Aspose.PDF की पूरी क्षमता को अनलॉक करने का तरीका जानें।
 type: docs
 weight: 20
 url: /hi/net/tutorials/pdf/master-licensing/loading-license-from-file/
@@ -55,7 +55,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## चरण 3: लाइसेंस लागू करें  
 
- उपयोग`SetLicense` की विधि`License` लाइसेंस फ़ाइल लोड करने के लिए क्लास का उपयोग करें.  
+ उपयोग`SetLicense` की विधि`License`लाइसेंस फ़ाइल लोड करने के लिए क्लास का उपयोग करें.  
 
 ```csharp
 license.SetLicense(dataDir + "Aspose.Pdf.lic");

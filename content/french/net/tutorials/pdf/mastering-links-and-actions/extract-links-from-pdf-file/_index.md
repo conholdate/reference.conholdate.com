@@ -9,7 +9,7 @@ url: /fr/net/tutorials/pdf/mastering-links-and-actions/extract-links-from-pdf-fi
 ---
 ## Introduction
 
-Dans l'environnement numérique actuel, qui évolue à un rythme effréné, il est essentiel de gérer efficacement les documents. L'extraction de liens à partir de fichiers PDF est une tâche courante. Que vous soyez un développeur intégrant des fonctionnalités PDF dans votre application ou que vous cherchiez simplement à rationaliser la gestion de vos documents numériques, une bibliothèque puissante comme Aspose.PDF pour .NET peut simplifier ce processus. Dans ce didacticiel, nous vous guiderons dans l'extraction de liens à partir d'un document PDF à l'aide d'Aspose.PDF pour .NET, en décomposant le processus en étapes faciles à suivre. Plongeons-nous dans le vif du sujet !
+Dans l'environnement numérique actuel, qui évolue à un rythme effréné, il est essentiel de gérer efficacement les documents. L'extraction de liens à partir de fichiers PDF est une tâche courante. Que vous soyez un développeur intégrant des fonctionnalités PDF dans votre application ou que vous cherchiez simplement à rationaliser la gestion de vos documents numériques, une bibliothèque puissante comme Aspose.PDF pour .NET peut simplifier ce processus. Dans ce didacticiel, nous vous guiderons dans l'extraction de liens à partir d'un document PDF à l'aide d'Aspose.PDF pour .NET, en décomposant le processus en étapes faciles à suivre. Plongeons-nous dans le vif du sujet !
 
 ## Prérequis
 

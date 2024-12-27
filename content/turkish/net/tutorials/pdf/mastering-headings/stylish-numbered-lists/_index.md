@@ -55,7 +55,7 @@ Daha sonra PDF belgesine boş bir sayfa ekleyeceğiz ve numaralandırma stilleri
 ```csharp
 // PDF belgesine yeni bir sayfa ekleyin
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Belgeyle aynı ayarları kullanın
+pdfPage.PageInfo = pdfDoc.PageInfo; // Belgeyle aynı ayarları kullanın
 ```
 
 ## Adım 3: Yüzen Kutu Oluşturma
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Belgeyle aynı ayarları kullanın
 FloatingBox, içeriği sayfanın akışından bağımsız olarak konumlandırmanıza olanak tanır ve böylece düzeniniz üzerinde daha fazla kontrol sahibi olursunuz.
 
 ```csharp
-// Yapılandırılmış içerik için bir FloatingBox oluşturun
+//Yapılandırılmış içerik için bir FloatingBox oluşturun
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

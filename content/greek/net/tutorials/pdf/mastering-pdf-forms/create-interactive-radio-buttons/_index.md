@@ -16,7 +16,7 @@ url: /el/net/tutorials/pdf/mastering-pdf-forms/create-interactive-radio-buttons/
 Πριν ξεκινήσουμε, βεβαιωθείτε ότι έχετε τα εξής:
 
 1. Visual Studio: Το περιβάλλον ανάπτυξής σας.
-2.  Aspose.PDF για .NET: Κάντε λήψη της βιβλιοθήκης από το[Aspose ιστότοπο](https://releases.aspose.com/pdf/net/).
+2.  Aspose.PDF για .NET: Κάντε λήψη της βιβλιοθήκης από το[Aspose website](https://releases.aspose.com/pdf/net/).
 3. Βασικές γνώσεις C#: Η εξοικείωση με το C# θα σας βοηθήσει να πλοηγηθείτε στα αποσπάσματα κώδικα.
 
 ## Δημιουργία Νέου Έργου

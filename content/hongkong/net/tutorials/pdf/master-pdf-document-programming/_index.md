@@ -20,7 +20,7 @@ description: 透過這個全面的 Aspose.PDF for .NET 教學清單掌握 PDF �
 瀏覽大型 PDF 可能會讓人頭疼，尤其是當您處理多個部分時。幸運的是，我們的指南[將目錄新增至 PDF 文檔](./adding-toc-to-pdf/)簡化了這個過程。它引導您完成添加功能目錄的步驟，使您的讀者更輕鬆地快速找到他們需要的資訊。
 
 ## 從 PDF 文件中刪除 JavaScript
-您是否需要簡化 PDF 並刪除不必要的 JavaScript？查看我們的教程[新增刪除 Javascript 到 PDF 文檔](./adding-remove-java-script-to-doc/)。本指南介紹了有效去除不需要的 JavaScript 元素的過程。無論您是為了專業用途而精煉文檔，還是確保無法透過腳本存取敏感信息，本教程都提供了使您的 PDF 整潔高效的步驟。
+您是否需要簡化 PDF 並刪除不必要的 JavaScript？查看我們的教程[新增刪除 Javascript 到 PDF 文檔](./adding-remove-java-script-to-doc/)。本指南介紹了有效去除不需要的 JavaScript 元素的過程。無論您是為了專業用途而優化文檔，還是確保無法透過腳本存取敏感信息，本教程都提供了使您的 PDF 整潔高效的步驟。
 
 ## 掌握 PDF 文件程式設計教學
 | 標題 | 描述 |

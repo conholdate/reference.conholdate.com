@@ -14,7 +14,7 @@ url: /el/net/tutorials/cells/mastering-worksheet-security/excel-column-protectio
 ## Προαπαιτούμενα
 Πριν ξεκινήσουμε, βεβαιωθείτε ότι έχετε τα εξής:
 - Visual Studio: Ένα IDE συμβατό με .NET εγκατεστημένο στον υπολογιστή σας.
--  Aspose.Cells για .NET: Η βιβλιοθήκη που είναι ενσωματωμένη στο έργο σας. Μπορείτε να το κατεβάσετε από το[Aspose ιστότοπο](https://releases.aspose.com/cells/net/).
+-  Aspose.Cells για .NET: Η βιβλιοθήκη που είναι ενσωματωμένη στο έργο σας. Μπορείτε να το κατεβάσετε από το[Aspose website](https://releases.aspose.com/cells/net/).
 - Βασικές γνώσεις C#: Εξοικείωση με τον προγραμματισμό C# υποτίθεται.
 
  Για νεοεισερχόμενους στο Aspose.Cells, εξετάστε το ενδεχόμενο να ελέγξετε το[απόδειξη με έγγραφα](https://reference.aspose.com/cells/net/) για να κατανοήσουν καλύτερα τα χαρακτηριστικά του.

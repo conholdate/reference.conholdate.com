@@ -46,14 +46,14 @@ Det första steget i att ändra ett Word-dokument är att ladda det i din ansök
 
 ### Steg 1: Definiera filsökvägen
 
-Du måste definiera sökvägen till ditt Word-dokument. För det här exemplet använder vi dokumentet`Properties.docx`.
+ Du måste definiera sökvägen till ditt Word-dokument. För det här exemplet använder vi dokumentet`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Se till att du byter ut`"YOUR DOCUMENT DIRECTORY"` med den faktiska katalogen där ditt dokument är lagrat.
+ Se till att du byter ut`"YOUR DOCUMENT DIRECTORY"`med den faktiska katalogen där ditt dokument är lagrat.
 
 ## Öppna och ta bort anpassade dokumentegenskaper
 

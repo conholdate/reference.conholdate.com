@@ -52,7 +52,7 @@ string outDir = "Your Document Directory"; // Cserélje le tényleges könyvtár
 Cserélje ki a „Dokumentumkönyvtár” elemet a gép tényleges elérési útjával.
 
 ## 3. lépés: Töltse be a munkafüzetet
-Most pedig jön az izgalmas rész: töltsd be a munkafüzetedet! Adja hozzá a következő kódot az Excel fájl betöltéséhez:
+Most pedig jön az izgalmas rész: töltsd be a munkafüzetedet! Adja hozzá a következő kódot az Excel-fájl betöltéséhez:
 
 ```csharp
 Workbook workbook = new Workbook(sourceDir + "ThreadedCommentsSample.xlsx");
@@ -88,7 +88,7 @@ comment.Notes = "Updated Comment";
 Helyettesítse a „Frissített megjegyzés” szöveget a kívánt szöveggel a munkafüzeten belüli kommunikáció javítása érdekében.
 
 ## 7. lépés: Mentse el a munkafüzetet
-A módosításokat el kell menteni, hogy életbe lépjenek. Adja hozzá ezt a sort a módosítások mentéséhez:
+Az elvégzett módosításokat el kell menteni, hogy életbe lépjenek. Adja hozzá ezt a sort a módosítások mentéséhez:
 
 ```csharp
 workbook.Save(outDir + "EditThreadedComments.xlsx");

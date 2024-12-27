@@ -37,4 +37,4 @@ description: 掌握使用 Aspose.PDF for .NET 管理 PDF 文件中书签的技�
 | [在 PDF 文件中添加子书签](./adding-child-bookmark/) | 了解如何通过使用 Aspose.PDF for .NET 添加子书签来增强 PDF 文档导航。本分步指南提供了必要的工具和技术。 |  
 | [使用 Aspose.PDF for .NET 从 PDF 中删除所有书签](./remove-all-bookmarks/) | 了解如何使用 Aspose.PDF for .NET 轻松删除 PDF 文档中的所有书签。本分步指南提供了详细说明。 |  
 | [检索 PDF 文件中的书签页码](./retrieve-bookmark-page-number/) | 了解如何使用 Aspose.PDF for .NET 检索 PDF 文档中特定书签的页码。本分步教程提供代码示例和详细说明。 |  
-| [使用 Aspose.PDF for .NET 从 PDF 文件获取书签](./get-bookmarks-from-pdf-files/) | 通过学习如何使用 Aspose.PDF for .NET 提取书签，释放 PDF 文档的全部潜力。本分步教程将指导您完成项目设置。 |  
+| [使用 Aspose.PDF for .NET 从 PDF 文件获取书签](./get-bookmarks-from-pdf-files/) | 通过学习如何使用 Aspose.PDF for .NET 提取书签，充分发挥 PDF 文档的潜力。本分步教程将指导您完成项目设置。 |  

@@ -11,7 +11,7 @@ weight: 20
 
 **Welcome to the GroupDocs.Annotation for .NET**
 
-A GroupDocs.Annotation for .NET API lehetővé teszi a fejlesztők számára, hogy zökkenőmentesen fejlesszék alkalmazásaikat azzal a lehetőséggel, hogy szöveget vagy képeket megjegyzésekkel láthassanak el egy dokumentumban. Az annotáció alkalmazható megjegyzések, kiemelt megjegyzésekkel ellátott magyarázatok, vízjel, vonallánc és még sok más formájában. Annotátor API támogatja a PDF, a Microsoft Word DOCX, az Excel XLSX és a PowerPoint PPTX dokumentumokat.
+A GroupDocs.Annotation for .NET API lehetővé teszi a fejlesztők számára, hogy zökkenőmentesen fejlesszék alkalmazásaikat azzal a lehetőséggel, hogy szöveget vagy képeket megjegyzésekkel láthassanak el egy dokumentumban. Az annotáció alkalmazható megjegyzések, kiemelt megjegyzésekkel ellátott magyarázatok, vízjel, vonallánc és még sok más formájában. Annotátor API támogatja a PDF, Microsoft Word DOCX, Excel XLSX és PowerPoint PPTX dokumentumokat.
 
 {{% /alert %}} 
 ## **GroupDocs.Annotation for .NET**
@@ -151,7 +151,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to the GroupDocs.Search for .NET**
 
-A GroupDocs.Search for .NET egy lenyűgöző dokumentumkereső API. Szövegeket és metaadatokat kinyeri ki a dokumentumokból, és fejlett keresési és indexelési műveleteket hajt végre fuzzy és szinonim algoritmusok alapján. Az API támogatja a teljes szöveges keresést is. A teljes szöveges keresés alapján történő információkeresés indexek alapján történik. Ennek eredményeként megjelenik minden olyan dokumentum, amely legalább egy kifejezésben, paragrafusban vagy szóban egyezést tartalmaz.
+A GroupDocs.Search for .NET egy lenyűgöző dokumentumkereső API. Szövegeket és metaadatokat kinyeri ki a dokumentumokból, és fejlett keresési és indexelési műveleteket hajt végre fuzzy és szinonim algoritmusok alapján. Az API támogatja a teljes szöveges keresést is. A teljes szöveges keresés alapján történő információkeresés indexek alapján történik. Ennek eredményeként az összes olyan dokumentum listázásra kerül, amely legalább egy egyezést tartalmaz kifejezésekben, paragrafusokban vagy szavakban.
 
 {{% /alert %}} 
 ## **GroupDocs.Search for .NET**

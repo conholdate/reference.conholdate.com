@@ -72,7 +72,7 @@ doc.Save(dataDir + "BaseConversions.DocxToTxt.txt");
 
 ## Abschluss
 
-Herzlichen Glückwunsch! Sie haben eine DOCX-Datei mit Aspose.Words für .NET erfolgreich in das TXT-Format konvertiert. Dieser Vorgang ist nicht nur unkompliziert, sondern eröffnet auch verschiedene Möglichkeiten zur effektiven Handhabung und Verarbeitung von Textdokumenten. Egal, ob Sie Inhalte zur Analyse extrahieren oder einfach Dokumentformate konvertieren, Aspose.Words macht es Ihnen leicht.
+Herzlichen Glückwunsch! Sie haben eine DOCX-Datei mit Aspose.Words für .NET erfolgreich in das TXT-Format konvertiert. Dieser Vorgang ist nicht nur unkompliziert, sondern eröffnet auch verschiedene Möglichkeiten zur effektiven Handhabung und Verarbeitung von Textdokumenten. Egal, ob Sie Inhalte zur Analyse extrahieren oder einfach Dokumentformate konvertieren, Aspose.Words macht es einfach.
 
 ## Häufig gestellte Fragen
 

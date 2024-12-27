@@ -21,6 +21,6 @@ url: /zh-hant/net/tutorials/words/essential-guide-document-conversions/
 | [將 DOCX 轉換為 MHTML 並使用 Aspose.Words for .NET 發送電子郵件](./convert-docx-to-mhtml-send-email/) | 本綜合指南提供了將 DOCX 文件轉換為 MHTML 格式並使用 .NET 中的 Aspose.Words 和 Aspose.Email 庫透過電子郵件發送它們的逐步教學。 |
 | [使用 Aspose.Words for .NET 將 DOCX 轉換為 Markdown](./convert-docx-to-markdown/) | 了解如何使用 Aspose.Words for .NET 將 DOCX 檔案無縫轉換為 Markdown 來增強您的 .NET 應用程式。本綜合指南包含逐步說明和常見問題。 |
 | [使用 Aspose.Words for .NET 將 DOCX 轉換為 TXT](./convert-docx-to-txt/) | 在此綜合指南中了解如何使用 Aspose.Words for .NET 將 DOCX 檔案轉換為純文字格式 (TXT)。 |
-| [使用 Aspose.Words for .NET 將文字文件轉換為 Word 文件](./convert-text-files-to-word-documents/) | 了解如何使用 Aspose.Words for .NET 程式庫將文字檔案有效率地轉換為 Word 文件。本逐步指南涵蓋先決條件和程式碼範例。 | 
+| [使用 Aspose.Words for .NET 將文字文件轉換為 Word 文件](./convert-text-files-to-word-documents/) | 了解如何使用 Aspose.Words for .NET 程式庫有效地將文字檔案轉換為 Word 文件。本逐步指南涵蓋先決條件和程式碼範例。 | 
 | [使用 Aspose.Words for .NET 將 PDF 轉換為 JPEG](./convert-pdf-to-jpeg/) | 了解如何使用 Aspose.Words for .NET 將 PDF 檔案輕鬆轉換為精美的 JPEG 影像。非常適合開發人員和愛好者。 |
 | [使用 Aspose.Words for .NET 將 PDF 轉換為 Word 文件](./convert-pdf-to-word/) | 了解如何使用 Aspose.Words for .NET 將 PDF 文件無縫轉換為 Word (Docx) 格式。這個逐步指南讓開發人員可以輕鬆上手。 |

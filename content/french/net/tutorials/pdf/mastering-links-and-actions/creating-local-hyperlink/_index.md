@@ -54,7 +54,7 @@ Décomposons le processus de création de liens hypertexte locaux en étapes sim
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Définissez votre répertoire de documents
-Document doc = new Document(); //Créer une instance de document
+Document doc = new Document(); // Créer une instance de document
 ```
 
  Remplacer`"YOUR_DOCUMENT_DIRECTORY"` avec le chemin réel sur votre système où le PDF sera enregistré.

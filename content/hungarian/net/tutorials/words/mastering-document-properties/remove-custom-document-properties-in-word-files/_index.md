@@ -46,14 +46,14 @@ A Word-dokumentum módosításának első lépése a dokumentum betöltése az a
 
 ### 1. lépés: Határozza meg a fájl elérési útját
 
-Meg kell határoznia a Word-dokumentum elérési útját. Ebben a példában a dokumentumot fogjuk használni`Properties.docx`.
+ Meg kell határoznia a Word-dokumentum elérési útját. Ebben a példában a dokumentumot fogjuk használni`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Ügyeljen arra, hogy cserélje ki`"YOUR DOCUMENT DIRECTORY"` azzal a könyvtárral, ahol a dokumentumot tárolják.
+ Ügyeljen arra, hogy cserélje ki`"YOUR DOCUMENT DIRECTORY"`azzal a könyvtárral, ahol a dokumentumot tárolják.
 
 ## Egyéni dokumentumtulajdonságok elérése és eltávolítása
 

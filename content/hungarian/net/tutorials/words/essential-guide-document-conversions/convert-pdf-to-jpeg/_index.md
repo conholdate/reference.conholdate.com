@@ -86,5 +86,5 @@ Valóban! Az Aspose.Words támogatja a .NET-keretrendszert és a .NET Core-t is.
 ### Szükségem van engedélyre az Aspose.Words használatához?
  Kezdheti egy ingyenes próbaverzióval[itt](https://releases.aspose.com/) vagy vásároljon licencet[itt](https://purchase.conholdate.com/buy).
 
-### Hol találok további oktatóanyagokat az Aspose.Words webhelyen?
+### Hol találok további oktatóanyagokat az Aspose.Words oldalon?
  Nézze meg a[dokumentáció](https://reference.aspose.com/words/net/) rengeteg oktatóanyagért és útmutatóért.

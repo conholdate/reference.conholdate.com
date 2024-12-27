@@ -9,7 +9,7 @@ url: /nl/net/tutorials/merger/guide-to-document-merging/
 ---
 ## Invoering
 
-In een wereld waarin efficiëntie en productiviteit de boventoon voeren, is het beheren van documenten nog nooit zo cruciaal geweest. Daar komt GroupDocs.Merger voor .NET om de hoek kijken, met krachtige tools voor het samenvoegen van verschillende documenttypen. Als u ooit met meerdere bestanden hebt moeten jongleren, weet u hoe vervelend dat kan zijn. Gelukkig stroomlijnt deze handige bibliotheek het proces, waardoor het eenvoudiger dan ooit is om documenten in .NET-toepassingen te combineren.
+In een wereld waarin efficiëntie en productiviteit de boventoon voeren, is het beheren van documenten nog nooit zo cruciaal geweest. Daar komt GroupDocs.Merger voor .NET om de hoek kijken, met krachtige tools voor het samenvoegen van verschillende documenttypen. Als u ooit met meerdere bestanden hebt gewerkt, weet u hoe vervelend dat kan zijn. Gelukkig stroomlijnt deze handige bibliotheek het proces, waardoor het eenvoudiger dan ooit is om documenten in .NET-toepassingen te combineren.
 
 ## Documentbestanden samenvoegen met GroupDocs.Merger voor .NET
 

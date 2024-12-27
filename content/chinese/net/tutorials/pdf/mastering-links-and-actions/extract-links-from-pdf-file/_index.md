@@ -9,7 +9,7 @@ url: /zh/net/tutorials/pdf/mastering-links-and-actions/extract-links-from-pdf-fi
 ---
 ## 介绍
 
-在当今快节奏的数字环境中，有效管理文档至关重要。一项常见任务是从 PDF 文件中提取链接。无论您是将 PDF 功能集成到应用程序中的开发人员，还是只是想简化数字文档管理，像 Aspose.PDF for .NET 这样强大的库都可以让这个过程变得简单。在本教程中，我们将指导您使用 Aspose.PDF for .NET 从 PDF 文档中提取链接，并将其分解为易于遵循的步骤。让我们开始吧！
+在当今快节奏的数字环境中，有效管理文档至关重要。一项常见任务是从 PDF 文件中提取链接。无论您是将 PDF 功能集成到应用程序中的开发人员，还是只是想简化数字文档管理，像 Aspose.PDF for .NET 这样的强大库都可以让这个过程变得简单。在本教程中，我们将指导您使用 Aspose.PDF for .NET 从 PDF 文档中提取链接，并将其分解为易于遵循的步骤。让我们开始吧！
 
 ## 先决条件
 
@@ -138,4 +138,4 @@ Aspose.PDF for .NET 是一个综合库，用于在 .NET 应用程序内创建、
 您可以通过他们的[支持论坛](https://forum.aspose.com/c/pdf/10).
 
 ### 如何获得 Aspose.PDF 的临时许可证？
-如果你需要临时执照，可以通过此方式申请[关联](https://purchase.aspose.com/temporary-license/).
+如果你需要临时执照，可以通过此网站申请[关联](https://purchase.aspose.com/temporary-license/).

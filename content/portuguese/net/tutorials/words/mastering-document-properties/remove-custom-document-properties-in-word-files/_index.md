@@ -46,14 +46,14 @@ O primeiro passo para modificar um documento do Word é carregá-lo em seu aplic
 
 ### Etapa 1: Defina o caminho do arquivo
 
-Você precisa definir o caminho do arquivo do seu documento do Word. Para este exemplo, usaremos o documento`Properties.docx`.
+ Você precisa definir o caminho do arquivo do seu documento do Word. Para este exemplo, usaremos o documento`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Certifique-se de substituir`"YOUR DOCUMENT DIRECTORY"` com o diretório real onde seu documento está armazenado.
+ Certifique-se de substituir`"YOUR DOCUMENT DIRECTORY"`com o diretório real onde seu documento está armazenado.
 
 ## Acessando e removendo propriedades de documentos personalizadas
 

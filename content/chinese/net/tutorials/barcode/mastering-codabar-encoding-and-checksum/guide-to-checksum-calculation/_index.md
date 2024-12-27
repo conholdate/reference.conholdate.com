@@ -71,7 +71,7 @@ gen.Save($"{path}CodabarChecksumMod16.png", BarCodeImageFormat.Png);
 
 ## 结论
 
-现在，您已成功使用 Aspose.BarCode for .NET 生成具有不同校验和类型的 Codabar 条形码。这些校验和对于维护编码数据的完整性至关重要，可确保可扫描的信息准确可靠。
+现在，您已成功使用 Aspose.BarCode for .NET 生成具有不同校验和类型的 Codabar 条形码。这些校验和对于维护编码数据的完整性至关重要，可确保可扫描的信息既准确又可靠。
 
 如果你有任何疑问或遇到问题，请随时联系充满活力的社区[Aspose.BarCode 论坛](https://forum.aspose.com/c/barcode/13).
 

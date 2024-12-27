@@ -47,7 +47,7 @@ Workbook excel = new Workbook();
 
 ## Steg 2: Öppna kalkylbladet och egenskaperna för sidinställningar
 
- Varje kalkylblad i Aspose.Cells har en`PageSetup` egenskap som styr layoutfunktioner, inklusive sidhuvuden och sidfötter. Skaffa`PageSetup` objekt för ditt kalkylblad:
+ Varje kalkylblad i Aspose.Cells har en`PageSetup` egenskap som styr layoutfunktioner, inklusive sidhuvuden och sidfötter. Skaffa`PageSetup` objekt för ditt arbetsblad:
 
 ```csharp
 // Skaffa referensen till PageSetup för det första kalkylbladet

@@ -17,7 +17,7 @@ Avant de commencer à mettre en œuvre l’analyse bayésienne du spam, assurez-
 
 1. Visual Studio : l'environnement de développement intégré (IDE) pour écrire et gérer vos projets C#.
 2. .NET Framework ou .NET Core : assurez-vous que l’un de ces deux éléments est installé, car ils sont essentiels à l’exécution des applications C#.
-3. Aspose.Email pour .NET : cette puissante bibliothèque vous aidera à gérer les opérations de courrier électronique. Vous pouvez télécharger la bibliothèque à partir de[ici](https://releases.aspose.com/email/net/) ou commencez avec un essai gratuit à partir de[ce lien](https://releases.aspose.com/).
+3.  Aspose.Email pour .NET : cette puissante bibliothèque vous aidera à gérer les opérations de courrier électronique. Vous pouvez télécharger la bibliothèque à partir de[ici](https://releases.aspose.com/email/net/) ou commencez avec un essai gratuit à partir de[ce lien](https://releases.aspose.com/).
 4. Connaissances de base de C# : La familiarité avec le langage de programmation C# facilitera le suivi de ce tutoriel.
 
 Une fois ces prérequis réunis, vous êtes prêt à plonger dans le code !
@@ -44,7 +44,7 @@ Maintenant, décomposons la mise en œuvre en étapes claires pour vous assurer 
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- Le`Load`La méthode prend le chemin du fichier de l'e-mail que vous souhaitez analyser. Ce fichier doit être au format EML. Si vous n'en avez pas, n'hésitez pas à créer un e-mail simple et à l'enregistrer sous`email.eml`.
+ Le`Load` La méthode prend le chemin du fichier de l'e-mail que vous souhaitez analyser. Ce fichier doit être au format EML. Si vous n'en avez pas, n'hésitez pas à créer un e-mail simple et à l'enregistrer sous`email.eml`.
 
 ## Étape 2 : Créer un analyseur de spam
 
@@ -97,7 +97,7 @@ double spamProbability = spamAnalyzer.Test(message);
 bool isSpam = spamProbability > 0.5;
 ```
 
- Le`Test` La méthode renvoie une valeur de probabilité indiquant la probabilité que l'e-mail soit un spam. Si cette valeur est supérieure à 0,5, nous le considérons comme un spam.
+ Le`Test`La méthode renvoie une valeur de probabilité indiquant la probabilité que l'e-mail soit un spam. Si cette valeur est supérieure à 0,5, nous le considérons comme un spam.
 
 ## Étape 7 : Afficher le résultat
 

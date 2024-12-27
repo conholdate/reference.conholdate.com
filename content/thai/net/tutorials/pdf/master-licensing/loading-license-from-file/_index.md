@@ -55,7 +55,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## ขั้นตอนที่ 3: สมัครใบอนุญาต  
 
- ใช้`SetLicense` วิธีการของ`License` คลาสที่จะโหลดไฟล์ลิขสิทธิ์  
+ ใช้`SetLicense` วิธีการของ`License`คลาสที่จะโหลดไฟล์ลิขสิทธิ์  
 
 ```csharp
 license.SetLicense(dataDir + "Aspose.Pdf.lic");

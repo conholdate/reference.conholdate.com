@@ -18,7 +18,7 @@ url: /hi/net/tutorials/gis/guide-to-geo-data-conversion/converting-geojson-to-to
 ### .NET के लिए Aspose.GIS स्थापित करें
 
 -  लाइब्रेरी डाउनलोड करें: .NET के लिए Aspose.GIS के नवीनतम संस्करण तक पहुंचें[रिलीज़ पेज](https://releases.aspose.com/gis/net/).
--  स्थापना: निर्देश पुस्तिका में दिए गए विस्तृत स्थापना निर्देशों का पालन करें।[प्रलेखन](https://reference.aspose.com/gis/net/).
+- स्थापना: निर्देश पुस्तिका में दिए गए विस्तृत स्थापना निर्देशों का पालन करें।[प्रलेखन](https://reference.aspose.com/gis/net/).
 
 ### आवश्यक नामस्थान जोड़ें
 

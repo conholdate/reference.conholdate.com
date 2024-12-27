@@ -88,7 +88,7 @@ catch (Exception ex)
 
 ## Steg 5: Granska konverteringsfel
 
-Om du valde att undertrycka fel är det viktigt att kontrollera om det finns några undantag som inträffade under konverteringsprocessen. Detta kommer att hjälpa dig att säkerställa integriteten hos utdata.
+Om du valde att undertrycka fel är det viktigt att kontrollera om det finns några undantag som inträffade under konverteringsprocessen. Detta kommer att hjälpa dig att säkerställa utgångens integritet.
 
 ```csharp
 // Granska fel om de undertrycks

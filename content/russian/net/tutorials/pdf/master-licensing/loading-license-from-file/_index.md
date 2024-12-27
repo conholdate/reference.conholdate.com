@@ -55,7 +55,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Шаг 3: Подайте заявку на лицензию  
 
- Используйте`SetLicense` Метод`License` класс для загрузки файла лицензии.  
+ Используйте`SetLicense` Метод`License`класс для загрузки файла лицензии.  
 
 ```csharp
 license.SetLicense(dataDir + "Aspose.Pdf.lic");

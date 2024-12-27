@@ -2,7 +2,7 @@
 title: Добавление рабочего листа в существующую книгу Excel Учебник по C#
 linktitle: Добавление рабочего листа в существующую книгу Excel Учебник по C#
 second_title: Справочник API Aspose.Cells для .NET
-description: Узнайте, как программно добавить новый рабочий лист в существующую книгу Excel с помощью Aspose.Cells для .NET. Это пошаговое руководство охватывает сохранение измененной книги, что упрощает задачу для разработчиков.
+description: Узнайте, как программно добавить новый рабочий лист в существующую книгу Excel с помощью Aspose.Cells for .NET. Это пошаговое руководство охватывает сохранение измененной книги, что упрощает задачу для разработчиков.
 type: docs
 weight: 10
 url: /ru/net/tutorials/cells/guide-to-working-with-excel-worksheets/adding-worksheet-to-existing-excel-workbook-csharp-tutorial/

@@ -114,7 +114,7 @@ Aspose.Words for .NET é uma biblioteca poderosa que permite aos desenvolvedores
 
 ### Quais são os principais recursos do Aspose.Words para .NET?
 
- O Aspose.Words para .NET fornece vários recursos, incluindo criação, formatação, conversão e manipulação de documentos. Para uma lista abrangente, verifique o[Documentação da API](https://reference.aspose.com/words/net/).
+ Aspose.Words para .NET fornece vários recursos, incluindo criação, formatação, conversão e manipulação de documentos. Para uma lista abrangente, verifique o[Documentação da API](https://reference.aspose.com/words/net/).
 
 ### Como obtenho suporte para o Aspose.Words para .NET?
 

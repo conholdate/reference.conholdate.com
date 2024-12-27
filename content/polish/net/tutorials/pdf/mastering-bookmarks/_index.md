@@ -20,7 +20,7 @@ Najpierw przyjrzyjmy się, jak dodawać zakładki do plików PDF. Dodawanie zak�
 
 ## Usuwanie zakładek w razie potrzeby
 
-Czasami możesz stwierdzić, że niektóre zakładki nie są już istotne lub po prostu chcesz mieć czystszy dokument. Nie martw się — Aspose.PDF dla .NET ułatwia usuwanie wszystkich zakładek za pomocą zaledwie kilku linijek kodu. Ta elastyczność jest niezbędna do aktualizowania dokumentów bez bałaganu niechcianych linków. Wyobraź sobie, że pozbywasz się bałaganu w swojej przestrzeni roboczej; usuwanie zakładek, gdy nie są już potrzebne, utrzymuje przestrzeń cyfrową w porządku i organizacji.[Więcej informacji znajdziesz tutaj.](./remove-all-bookmarks/)
+Czasami możesz stwierdzić, że niektóre zakładki nie są już istotne lub po prostu chcesz mieć czystszy dokument. Nie martw się — Aspose.PDF dla .NET ułatwia usuwanie wszystkich zakładek za pomocą zaledwie kilku linijek kodu. Ta elastyczność jest niezbędna do aktualizowania dokumentów bez bałaganu niechcianych linków. Wyobraź sobie, że pozbywasz się bałaganu w swojej przestrzeni roboczej; usuwanie zakładek, gdy nie są już potrzebne, utrzymuje cyfrową przestrzeń w porządku i organizacji.[Więcej informacji znajdziesz tutaj.](./remove-all-bookmarks/)
 
 ## Pobieranie numerów stron zakładek
 

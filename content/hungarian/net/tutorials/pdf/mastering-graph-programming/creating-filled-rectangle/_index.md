@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Új PDF dokumentum inicializálása:
 
 ```csharp
-//Dokumentumpéldány létrehozása
+// Dokumentumpéldány létrehozása
 Document doc = new Document();
 ```
 

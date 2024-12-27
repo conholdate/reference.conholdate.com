@@ -34,7 +34,7 @@ Aspose.Cells for .NET 是一個強大的工具，可以在 .NET 專案中自動�
 ## 掌握工作簿操作教程
 ### [使用 Aspose.Cells 存取 Excel Web 擴充訊息](./accessing-excel-web-extension-information/)
 在這個詳細教學中探索 Aspose.Cells for .NET 的強大功能，您將學習如何以程式設計方式存取和操作 Excel 檔案中的 Web 擴充資料。
-### [在 Excel 工作簿中新增自訂 XML 部分](./add-custom-xml-parts/)
+### [在 Excel 工作簿中新增自訂 XML 元件](./add-custom-xml-parts/)
 探索使用 Aspose.Cells for .NET 將自訂 XML 元件整合到 Excel 工作簿中的綜合指南。了解如何建立工作簿、新增自訂 XML、指派唯一 ID 以及有效擷取這些部分。
 ### [在已簽名的 Excel 檔案中新增新的數位簽名](./adding-new-digital-signature-to-signed-excel-file/)
 了解如何使用 Aspose.Cells for .NET 將新的數位簽章新增至現有簽署的 Excel 檔案。本綜合指南涵蓋了所有先決條件、逐步說明和程式碼範例。

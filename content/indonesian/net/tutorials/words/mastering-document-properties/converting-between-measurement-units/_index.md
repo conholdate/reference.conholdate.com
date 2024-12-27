@@ -91,7 +91,7 @@ Meskipun Anda dapat menggunakan Aspose.Words tanpa lisensi, beberapa fitur lanju
  Unduh dari[situs web](https://releases.aspose.com/words/net/) dan ikuti petunjuk instalasi yang disediakan.
 
 ### Dapatkah saya menetapkan unit yang berbeda untuk bagian yang berbeda dalam suatu dokumen?
- Tentu saja! Anda dapat menyesuaikan margin dan pengaturan untuk bagian yang berbeda menggunakan`Section`kelas.
+ Tentu saja! Anda dapat menyesuaikan margin dan pengaturan untuk bagian yang berbeda menggunakan`Section` kelas.
 
 ### Fitur apa lagi yang ditawarkan Aspose.Words?
  Aspose.Words mendukung berbagai fitur, termasuk konversi dokumen, gabungan surat, dan opsi pemformatan yang luas. Periksa[dokumentasi](https://reference.aspose.com/words/net/) untuk lebih jelasnya.

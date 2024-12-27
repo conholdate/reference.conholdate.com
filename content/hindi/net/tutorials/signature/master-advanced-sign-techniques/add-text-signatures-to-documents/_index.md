@@ -15,7 +15,7 @@ url: /hi/net/tutorials/signature/master-advanced-sign-techniques/add-text-signat
 
 शुरू करने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित हैं:
 
-1.  .NET के लिए GroupDocs.Signature: लाइब्रेरी डाउनलोड करें और इंस्टॉल करें[यहाँ](https://releases.groupdocs.com/signature/net/).
+1. .NET के लिए GroupDocs.Signature: लाइब्रेरी डाउनलोड करें और इंस्टॉल करें[यहाँ](https://releases.groupdocs.com/signature/net/).
 2. विकास वातावरण: अपना .NET विकास वातावरण सेट करें.
 3. दस्तावेज़: वह दस्तावेज़ तैयार करें जिस पर आप हस्ताक्षर करना चाहते हैं (जैसे, पीडीएफ, वर्ड)।
 
@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithText", 
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, //एक्स स्थिति
+    Left = 50, // एक्स स्थिति
     Top = 200, // वाई स्थिति
     Width = 100, // हस्ताक्षर की चौड़ाई
     Height = 30, // हस्ताक्षर की ऊंचाई

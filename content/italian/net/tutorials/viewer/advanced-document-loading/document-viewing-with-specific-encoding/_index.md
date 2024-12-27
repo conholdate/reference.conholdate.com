@@ -96,4 +96,4 @@ Assolutamente! GroupDocs.Viewer offre ampie funzionalità di personalizzazione, 
  Sì, puoi esplorare tutte le funzionalità di GroupDocs.Viewer accedendo a[versione di prova gratuita](https://releases.groupdocs.com/).
 
 ### Come posso ottenere una licenza temporanea per GroupDocs.Viewer?
- È possibile acquisire una licenza temporanea visitando il[pagina della licenza temporanea](https://purchase.groupdocs.com/temporary-license/).
+ È possibile ottenere una licenza temporanea visitando il[pagina della licenza temporanea](https://purchase.groupdocs.com/temporary-license/).

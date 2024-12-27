@@ -16,7 +16,7 @@ Ebben az oktatóanyagban végigvezetjük a PDF-oldalak TIFF-képpé alakításá
 Mielőtt elkezdené, győződjön meg arról, hogy rendelkezik az alábbiakkal:
 
 -  Aspose.PDF for .NET: Töltse le a könyvtárat innen[itt](https://releases.aspose.com/pdf/net/).
-- Visual Studio (vagy bármilyen C# IDE).
+- Visual Studio (vagy bármely C# IDE).
 - C# alapismeretek.
 -  Érvényes jogosítvány vagy a[ideiglenes engedély](https://purchase.aspose.com/temporary-license/) Aspose-tól.
 
@@ -139,5 +139,5 @@ A jó minőségű képekhez általában 300 DPI-s felbontás javasolt, de ezt sa
 ### Mit jelent az 1bpp színmélységben?
 Az 1bpp (1 bit/pixel) azt jelzi, hogy a kép fekete-fehér lesz, és minden képpont teljesen fekete vagy teljesen fehér.
 
-### A Bradley algoritmus alkalmas OCR-re?
+### Alkalmas-e a Bradley algoritmus az OCR-hez?
 Igen, a Bradley algoritmust gyakran használják az OCR előfeldolgozásban, mert növeli a beolvasott dokumentumok szövegének kontrasztját, javítva a felismerés pontosságát.

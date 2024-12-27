@@ -47,7 +47,7 @@ using System;
 
 ## 3. lépés: Adja meg a forráskönyvtárat
 
-Ezután adja meg a programnak, hogy hol találja az Excel-fájlt:
+Ezután adja meg a programnak, hogy hol találja az Excel fájlt:
 
 ```csharp
 // Forrás könyvtár
@@ -67,7 +67,7 @@ Workbook workbook = new Workbook(sourceDir + "WebExtensionsSample.xlsx");
 
  Ez a sor létrehozza a`Workbook` osztályba, amely lehetővé teszi a fájl tartalmának felfedezését.
 
-## 5. lépés: Nyissa meg a webbővítmény munkaablakokat
+## 5. lépés: Nyissa meg a webbővítmény munkaablakait
 
 Ideje elérni a munkafüzethez társított webbővítmény munkaablakokat:
 

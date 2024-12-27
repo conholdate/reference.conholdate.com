@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// 이미지를 생성하다
+//이미지를 생성하다
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // 이미지에 그리기를 진행하세요
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## 4단계: 이미지 저장
 
- 최종 이미지를 저장하는 것은 위에 표시된 것처럼 간단합니다.`using` 진술서`image.Save()`자동으로 호출됩니다`using` 블록 끝.
+ 최종 이미지를 저장하는 것은 위에 표시된 것처럼 간단합니다.`using` 진술서`image.Save()` 자동으로 호출됩니다`using` 블록 끝.
 
 ## 결론
 

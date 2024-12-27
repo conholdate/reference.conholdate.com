@@ -17,7 +17,7 @@ url: /ja/net/tutorials/email/guide-to-email-processing-and-analysis/bayesian-spa
 
 1. Visual Studio: C# プロジェクトを作成および管理するための統合開発環境 (IDE)。
 2. .NET Framework または .NET Core: C# アプリケーションを実行するにはこれらのいずれかが必須なので、インストールされていることを確認してください。
-3. Aspose.Email for .NET: この強力なライブラリは、電子メール操作の処理に役立ちます。ライブラリは以下からダウンロードできます。[ここ](https://releases.aspose.com/email/net/)または無料トライアルから始めましょう[このリンク](https://releases.aspose.com/).
+3.  Aspose.Email for .NET: この強力なライブラリは、電子メール操作の処理に役立ちます。ライブラリは以下からダウンロードできます。[ここ](https://releases.aspose.com/email/net/)または無料トライアルから始めましょう[このリンク](https://releases.aspose.com/).
 4. C# の基礎知識: C# プログラミング言語に精通していると、このチュートリアルを理解しやすくなります。
 
 これらの前提条件が満たされたら、コードに取り組む準備は完了です。

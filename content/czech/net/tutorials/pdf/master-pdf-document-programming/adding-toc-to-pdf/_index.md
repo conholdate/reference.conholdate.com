@@ -119,7 +119,7 @@ Ano, můžete si plně přizpůsobit vzhled obsahu, včetně stylu písma, velik
 
 ### Jak přidám podnadpisy do obsahu?
 
-Podnadpisy můžete přidat úpravou`Heading` úroveň (např.`Heading(2)`).
+Můžete přidat podnadpisy úpravou`Heading` úroveň (např.`Heading(2)`).
 
 ### Je možné automaticky aktualizovat TOC, pokud se dokument změní?
 

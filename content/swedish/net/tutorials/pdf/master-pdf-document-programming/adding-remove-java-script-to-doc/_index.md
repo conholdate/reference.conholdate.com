@@ -43,7 +43,7 @@ doc.Pages.Add();
 
 Det är här du ska börja bygga din JavaScript-tunga PDF.
 
-## Steg 2: Lägg till JavaScript i PDF:en
+## Steg 2: Lägg till JavaScript i PDF-filen
 
  Infoga JavaScript-funktioner i ditt dokument med hjälp av`doc.JavaScript` samling. Här är ett exempel:
 

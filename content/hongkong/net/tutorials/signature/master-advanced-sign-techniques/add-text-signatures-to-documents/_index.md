@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/signature/master-advanced-sign-techniques/add-text-s
 
 在我們開始之前，請確保您具備以下條件：
 
-1.  GroupDocs.Signature for .NET：從以下位置下載並安裝該程式庫[這裡](https://releases.groupdocs.com/signature/net/).
+1. GroupDocs.Signature for .NET：從以下位置下載並安裝該程式庫[這裡](https://releases.groupdocs.com/signature/net/).
 2. 開發環境：設定 .NET 開發環境。
 3. 文件：準備您要簽署的文件（例如 PDF、Word）。
 
@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithText", 
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, //X位置
+    Left = 50, // X位置
     Top = 200, //Y位置
     Width = 100, //簽名寬度
     Height = 30, //簽名高度

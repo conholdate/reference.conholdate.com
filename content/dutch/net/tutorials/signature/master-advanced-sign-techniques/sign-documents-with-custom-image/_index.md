@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Stap 4: Initialiseer het handtekeningobject
 
- Maak een exemplaar van de`Signature`klasse, waarbij het pad naar het documentbestand wordt doorgegeven:
+ Maak een exemplaar van de`Signature` klasse, waarbij het pad naar het documentbestand wordt doorgegeven:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

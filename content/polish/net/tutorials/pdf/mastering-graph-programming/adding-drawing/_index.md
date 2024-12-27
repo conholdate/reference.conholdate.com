@@ -18,7 +18,7 @@ Zanim zaczniesz, upewnij się, że masz następujące rzeczy:
 1.  Aspose.PDF dla .NET: Pobierz ze strony[Strona internetowa Aspose](https://releases.aspose.com/pdf/net/).
 2. .NET Framework: W tym samouczku założono, że masz skonfigurowane środowisko programistyczne .NET.
 3. Visual Studio: Choć nie jest to konieczne, Visual Studio upraszcza kodowanie i debugowanie.
-4. Podstawowa znajomość języka C#: Znajomość programowania w języku C# będzie zaletą.
+4. Podstawowa znajomość języka C#: Znajomość programowania w języku C# będzie dodatkowym atutem.
 
 ## Importuj niezbędne pakiety
 

@@ -32,6 +32,6 @@ Föreställ dig att du har skapat det perfekta VBA-projektet och du vill replike
  ## Handledning för ord med Word VBA-makron
 | Titel | Beskrivning |
 | --- | --- |
-| [Skapa Vba-projekt i Word-dokument](./creating-vba-project/) | Lås upp kraften med automatisering i Word-dokument med vår omfattande guide för att skapa VBA-projekt med Aspose.Words för .NET. Denna steg-för-steg guide. |
+| [Skapa Vba-projekt i Word-dokument](./creating-vba-project/) | Lås upp kraften med automatisering i Word-dokument med vår omfattande guide för att skapa VBA-projekt med Aspose.Words för .NET. Denna steg-för-steg handledning. |
 | [Läsa VBA-makron från Word-dokument med Aspose.Words](./reading-vba-macros-word-document/) | Upptäck hur du effektivt läser och extraherar VBA-makron från Word-dokument med Aspose.Words för .NET. Den här detaljerade guiden ger steg-för-steg-instruktioner, inklusive kodexempel. |
 | [Klona VBA-projekt i Word-dokument med Aspose.Words](./clone-vba-project-word-document/) | Lär dig hur du sömlöst klona VBA-projekt från ett Word-dokument till ett annat med Aspose.Words för .NET. Denna steg-för-steg handledning leder dig genom installationen. |

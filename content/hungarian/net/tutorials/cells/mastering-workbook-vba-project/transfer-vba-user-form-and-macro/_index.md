@@ -34,7 +34,7 @@ Ezek a névterek hozzáférést biztosítanak az Aspose.Cells könyvtárba ágya
 Először határozza meg a fájlok helyét:
 
 ```csharp
-// Határozza meg a forrás- és kimeneti könyvtárat
+// Határozza meg a forrás- és kimeneti könyvtárakat
 string sourceDir = @"Your\Source\Directory\";
 string outputDir = @"Your\Output\Directory\";
 ```

@@ -9,7 +9,7 @@ url: /pl/net/tutorials/pdf/mastering-pdf-attachments/get-attachment-information/
 ---
 ## Wstęp
 
-W zarządzaniu dokumentami umiejętność wyodrębniania i manipulowania danymi z plików PDF jest niezbędna. Niezależnie od tego, czy jesteś programistą ulepszającym swoją aplikację, czy profesjonalistą biznesowym zarządzającym dokumentami, Aspose.PDF dla .NET zapewnia solidny zestaw narzędzi do pracy z plikami PDF. Ten samouczek przeprowadzi Cię przez pobieranie informacji o załącznikach z dokumentu PDF przy użyciu Aspose.PDF dla .NET. Pod koniec będziesz wyposażony w narzędzia umożliwiające skuteczny dostęp do osadzonych plików i ich właściwości.
+W zarządzaniu dokumentami, umiejętność wyodrębniania i manipulowania danymi z plików PDF jest niezbędna. Niezależnie od tego, czy jesteś deweloperem ulepszającym swoją aplikację, czy profesjonalistą biznesowym zarządzającym dokumentami, Aspose.PDF dla .NET zapewnia solidny zestaw narzędzi do pracy z plikami PDF. Ten samouczek przeprowadzi Cię przez pobieranie informacji o załącznikach z dokumentu PDF przy użyciu Aspose.PDF dla .NET. Pod koniec będziesz wyposażony, aby uzyskać dostęp do osadzonych plików i ich właściwości w sposób efektywny.
 
 ## Wymagania wstępne
 

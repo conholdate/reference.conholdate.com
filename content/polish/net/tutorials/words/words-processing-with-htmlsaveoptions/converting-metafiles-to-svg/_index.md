@@ -83,7 +83,7 @@ Ta konfiguracja informuje Aspose.Words, że podczas eksportowania do formatu HTM
 
 ## Krok 5: Zapisz dokument
 
- Na koniec zapiszmy nasz dokument za pomocą`Save` metoda`Document`klasa.
+ Na koniec zapiszmy nasz dokument za pomocą`Save` metoda`Document` klasa.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

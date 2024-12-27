@@ -1,6 +1,6 @@
 ---
-title: TextBox Sequences Check in Word dokumentumok
-linktitle: TextBox Sequences Check in Word dokumentumok
+title: Szövegdoboz-sorozatok ellenőrzése a Word dokumentumokban
+linktitle: Szövegdoboz-sorozatok ellenőrzése a Word dokumentumokban
 second_title: Aspose.Words Document Processing API
 description: Ismerje meg, hogyan hozhat létre egyszerűen, linkelheti el és ellenőrizheti a szövegmezőket, hogy biztosítsa a tartalom logikus áramlását. Tökéletes azoknak a fejlesztőknek, akik szeretnék javítani a dokumentum szerkezetét és kialakítását.
 type: docs

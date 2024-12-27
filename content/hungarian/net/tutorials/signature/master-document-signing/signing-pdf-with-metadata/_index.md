@@ -106,4 +106,4 @@ Teljesen! Több dokumentumot is aláírhat tömegesen, ha végignézi a fájllis
 
 ### Elérhető technikai támogatás a GroupDocs.Signature felhasználók számára?
 
-Igen, a GroupDocs dedikált technikai támogatást nyújt fórumain keresztül. Hozzáférhet a támogatási fórumhoz[itt](https://forum.groupdocs.com/c/signature/13).
+ Igen, a GroupDocs dedikált technikai támogatást nyújt fórumain keresztül. Hozzáférhet a támogatási fórumhoz[itt](https://forum.groupdocs.com/c/signature/13).

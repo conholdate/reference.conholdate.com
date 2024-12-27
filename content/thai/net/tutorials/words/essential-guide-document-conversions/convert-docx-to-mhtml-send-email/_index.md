@@ -44,7 +44,7 @@ Document doc = new Document(dataDir + "Document.docx");
 
 ## ขั้นตอนที่ 2: บันทึกเอกสารเป็น MHTML
 
- ขั้นตอนต่อไปคือการแปลงเอกสารที่โหลดมาเป็นรูปแบบ MHTML ซึ่งทำได้โดยใช้`Save` วิธีการของ`Document`ระดับ.
+ ขั้นตอนต่อไปคือการแปลงเอกสารที่โหลดมาเป็นรูปแบบ MHTML ซึ่งทำได้โดยใช้`Save` วิธีการของ`Document` ระดับ.
 
 ```csharp
 using (Stream stream = new MemoryStream())
@@ -90,7 +90,7 @@ using (SmtpClient client = new SmtpClient())
 แน่นอน! Aspose.Words รองรับรูปแบบต่างๆ มากมาย ช่วยให้คุณแปลง DOC, DOCX, RTF และอื่นๆ เป็น MHTML ได้
 
 ### ฉันจะเพิ่มไฟล์แนบไปในอีเมล์ได้อย่างไร?
- คุณสามารถเพิ่มสิ่งที่แนบมาได้อย่างง่ายดายโดยใช้`Attachments` ทรัพย์สินของ`MailMessage`ระดับ.
+ คุณสามารถเพิ่มสิ่งที่แนบมาได้อย่างง่ายดายโดยใช้`Attachments` ทรัพย์สินของ`MailMessage` ระดับ.
 
 ### Aspose.Words เข้ากันได้กับ .NET Core ได้หรือไม่
 ใช่ Aspose.Words เข้ากันได้กับ .NET Core จึงเหมาะสำหรับใช้ในแอปพลิเคชัน .NET Core

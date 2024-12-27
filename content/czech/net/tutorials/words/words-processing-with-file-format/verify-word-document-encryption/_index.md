@@ -46,7 +46,7 @@ FileFormatInfo info = FileFormatUtil.DetectFileFormat(dataDir + "Encrypted.docx"
 
 ## Krok 4: Zkontrolujte, zda je dokument zašifrován
 
- Chcete-li zjistit, zda je dokument zašifrován, můžeme použít`IsEncrypted` vlastnictví`FileFormatInfo` objekt. Tato vlastnost se vrací`true` je-li dokument zašifrován, a`false` jinak. Výsledek zobrazíme v konzoli:
+ Chcete-li zjistit, zda je dokument zašifrován, můžeme použít`IsEncrypted` vlastnictvím`FileFormatInfo` objekt. Tato vlastnost se vrací`true` je-li dokument zašifrován, a`false` jinak. Výsledek zobrazíme v konzoli:
 
 ```csharp
 Console.WriteLine($"Is the document encrypted? {info.IsEncrypted}");

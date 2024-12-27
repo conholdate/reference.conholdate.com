@@ -17,7 +17,7 @@ Bayes spam analizini uygulamaya başlamadan önce aşağıdakilere sahip olduğu
 
 1. Visual Studio: C# projelerinizi yazmak ve yönetmek için entegre geliştirme ortamı (IDE).
 2. .NET Framework veya .NET Core: C# uygulamalarını çalıştırmak için gerekli olduklarından, bunlardan birinin yüklü olduğundan emin olun.
-3. Aspose.Email for .NET: Bu güçlü kütüphane e-posta işlemlerini halletmenize yardımcı olacaktır. Kütüphaneyi şu adresten indirebilirsiniz:[Burada](https://releases.aspose.com/email/net/) veya ücretsiz denemeyle başlayın[bu bağlantı](https://releases.aspose.com/).
+3.  Aspose.Email for .NET: Bu güçlü kütüphane e-posta işlemlerini halletmenize yardımcı olacaktır. Kütüphaneyi şu adresten indirebilirsiniz:[Burada](https://releases.aspose.com/email/net/) veya ücretsiz denemeyle başlayın[bu bağlantı](https://releases.aspose.com/).
 4. C# Temel Bilgisi: C# programlama diline aşina olmak bu eğitimi takip etmenizi kolaylaştıracaktır.
 
 Bu ön koşullara sahip olduğunuzda, koda dalmaya hazırsınız!
@@ -44,7 +44,7 @@ Bu içe aktarımlarla Aspose.Email'in spam analizinde sunduğu olanaklardan yara
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- The`Load`method analiz etmek istediğiniz e-postanın dosya yolunu alır. Bu dosya EML formatında olmalıdır. Eğer bir tane yoksa, basit bir e-posta oluşturup onu şu şekilde kaydedebilirsiniz:`email.eml`.
+ The`Load` method analiz etmek istediğiniz e-postanın dosya yolunu alır. Bu dosya EML formatında olmalıdır. Eğer bir tane yoksa, basit bir e-posta oluşturup onu şu şekilde kaydedebilirsiniz:`email.eml`.
 
 ## Adım 2: Spam Analizörü Oluşturun
 
@@ -97,7 +97,7 @@ double spamProbability = spamAnalyzer.Test(message);
 bool isSpam = spamProbability > 0.5;
 ```
 
- The`Test` yöntemi, e-postanın spam olma olasılığını gösteren bir olasılık değeri döndürecektir. Bu değer 0,5'ten büyükse, onu spam olarak değerlendiririz.
+ The`Test`yöntemi, e-postanın spam olma olasılığını gösteren bir olasılık değeri döndürecektir. Bu değer 0,5'ten büyükse, onu spam olarak değerlendiririz.
 
 ## Adım 7: Sonucu Göster
 

@@ -55,7 +55,7 @@ Vervolgens voegen we een lege pagina toe aan het PDF-document, waarop we later d
 ```csharp
 // Een nieuwe pagina toevoegen aan het PDF-document
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Gebruik dezelfde instellingen als in het document
+pdfPage.PageInfo = pdfDoc.PageInfo; // Gebruik dezelfde instellingen als in het document
 ```
 
 ## Stap 3: Een zwevende doos maken
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Gebruik dezelfde instellingen als in het d
 Met een FloatingBox kunt u inhoud onafhankelijk van de paginastroom positioneren, waardoor u meer controle hebt over de lay-out.
 
 ```csharp
-// Maak een FloatingBox voor gestructureerde inhoud
+//Maak een FloatingBox voor gestructureerde inhoud
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

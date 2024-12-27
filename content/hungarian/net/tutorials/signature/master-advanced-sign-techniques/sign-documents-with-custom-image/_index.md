@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## 4. lépés: Inicializálja az aláírási objektumot
 
- Hozzon létre egy példányt a`Signature`osztály, átadja a dokumentum fájl elérési útját:
+ Hozzon létre egy példányt a`Signature` osztály, átadja a dokumentum fájl elérési útját:
 
 ```csharp
 using (Signature signature = new Signature(filePath))
@@ -104,7 +104,7 @@ Ebben az oktatóanyagban bemutattuk, hogyan írhat alá dokumentumokat képek ha
 
 Igen, aláírhat egy dokumentumot több kép használatával. Egyszerűen ismételje meg az aláírási folyamatot minden egyes képnél, ha szükséges.
 
-### GroupDocs.Signature for .NET kompatibilis az összes dokumentumtípussal?
+### A GroupDocs.Signature for .NET kompatibilis az összes dokumentumtípussal?
 
 A GroupDocs.Signature for .NET számos dokumentumformátumot támogat, beleértve a PDF, Word, Excel és egyebeket.
 

@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/pdf/mastering-annotations/adding-pdf-annotation/
 ---
 ## 介紹
 
-註釋豐富了 PDF 文檔，使其具有互動性和資訊性。無論您是與他人協作還是為讀者提供額外的見解，註釋都是必不可少的工具。在本教學中，我們將探索如何使用 Aspose.PDF for .NET 將 PDF 註解新增至 PDF 檔案中，引導您完成每個步驟，以確保您精通此流程。
+註釋豐富了 PDF 文檔，使其具有互動性和資訊性。無論您是與他人協作還是為讀者提供額外的見解，註釋都是必不可少的工具。在本教學中，我們將探討如何使用 Aspose.PDF for .NET 將 PDF 註解新增至 PDF 檔案中，引導您完成每個步驟，以確保您精通此流程。
 
 ## 先決條件
 
@@ -120,7 +120,7 @@ Console.WriteLine("\nAnnotation added successfully.\nFile saved at " + dataDir);
 絕對地！您可以修改註解的大小、顏色、邊框和圖示。
 
 ### 是否可以在一個頁面上新增多個註解？
-是的，您可以在 PDF 中的任何頁面中新增多個註解。
+是的，您可以為 PDF 中的任何頁面新增多個註解。
 
 ### 新增註釋後可以刪除嗎？
 是的，可以使用以下命令刪除註釋`Annotations.Delete`Aspose.PDF提供的方法。

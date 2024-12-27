@@ -50,7 +50,7 @@ using (Stream outPsStream = new FileStream(Path.Combine(dataDir, "document1.ps")
     // Nastavte možnosti uložení pro velikost A4
     PsSaveOptions options = new PsSaveOptions();
     
-    //Vytvořte nový PostScriptový dokument se 2 stránkami
+    // Vytvořte nový PostScriptový dokument se 2 stránkami
     PsDocument document = new PsDocument(outPsStream, options, 2);
 ```
 

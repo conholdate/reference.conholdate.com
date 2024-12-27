@@ -16,7 +16,7 @@ url: /hu/net/tutorials/tasks/guide-to-saving-options/save-ms-project-files-to-ht
 Mielőtt elkezdené, győződjön meg arról, hogy a következő előfeltételeket teljesítette:
 
 1. Alapvető C# ismerete: Feltételezzük a C# programozási nyelv ismeretét.
-2.  Az Aspose.Tasks telepítése: Győződjön meg arról, hogy az Aspose.Tasks for .NET telepítve van a fejlesztői környezetében. Könnyen beszerezheti a[Aspose honlapja](https://www.aspose.com).
+2. Az Aspose.Tasks telepítése: Győződjön meg arról, hogy az Aspose.Tasks for .NET telepítve van a fejlesztői környezetében. Könnyen beszerezheti a[Aspose honlapja](https://www.aspose.com).
 3.  Microsoft Project fájl: Készítsen egy Microsoft Project fájlt a konvertálásra (a`.mpp` kiterjesztés).
 
 ## A szükséges névterek importálása

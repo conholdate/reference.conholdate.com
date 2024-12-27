@@ -13,7 +13,7 @@ Im Bereich der Dokumentenverarbeitung ist Aspose.Words für .NET ein robustes To
 
 ## Erste Schritte mit KI-Modellen
 
- Stellen Sie sich vor, Sie könnten umfangreiche Dokumente mit nur wenigen Klicks zusammenfassen. Klingt verlockend, oder? Beginnen Sie Ihre Reise mit unserem Tutorial zu[Dokumentzusammenfassung mit KI-Modellen meistern](./mastering-document-summarization-ai-model/)Dieser Leitfaden führt Sie durch den Prozess der Integration von KI, um mit Aspose.Words eine effektive Dokumentzusammenfassung zu erreichen. Stellen Sie es sich so vor, als hätten Sie einen persönlichen Assistenten, der riesige Textmengen durchforsten, die wichtigsten Punkte hervorheben und die Informationen für Sie verdichten kann. Dieses Tutorial bietet einen klaren und prägnanten Plan für die Implementierung von KI-Modellen, der Ihre Dokumentenverwaltungsaufgaben zum Kinderspiel macht.
+ Stellen Sie sich vor, Sie könnten umfangreiche Dokumente mit nur wenigen Klicks zusammenfassen. Klingt verlockend, oder? Beginnen Sie Ihre Reise mit unserem Tutorial zu[Dokumentzusammenfassung mit KI-Modellen meistern](./mastering-document-summarization-ai-model/)Dieser Leitfaden führt Sie durch den Prozess der Integration von KI, um eine effektive Dokumentzusammenfassung mit Aspose.Words zu erreichen. Stellen Sie es sich so vor, als hätten Sie einen persönlichen Assistenten, der riesige Textmengen durchforsten, die wichtigsten Punkte hervorheben und die Informationen für Sie verdichten kann. Dieses Tutorial bietet einen klaren und prägnanten Plan für die Implementierung von KI-Modellen, der Ihre Dokumentenverwaltungsaufgaben zum Kinderspiel macht.
 
 ## Verbessern Sie Ihr Spiel mit Google AI
 

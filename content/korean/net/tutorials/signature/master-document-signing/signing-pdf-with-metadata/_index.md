@@ -106,4 +106,4 @@ Console.WriteLine($"\nSource document signed successfully with {result.Succeeded
 
 ### GroupDocs.Signature 사용자에게 기술 지원을 제공할 수 있나요?
 
-네, GroupDocs는 포럼을 통해 전담 기술 지원을 제공합니다. 지원 포럼에 액세스할 수 있습니다.[여기](https://forum.groupdocs.com/c/signature/13).
+ 네, GroupDocs는 포럼을 통해 전담 기술 지원을 제공합니다. 지원 포럼에 액세스할 수 있습니다.[여기](https://forum.groupdocs.com/c/signature/13).

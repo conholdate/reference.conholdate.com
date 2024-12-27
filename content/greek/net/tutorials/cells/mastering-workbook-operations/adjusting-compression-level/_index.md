@@ -126,7 +126,7 @@ Console.WriteLine("Compression adjustment completed successfully.");
 Το Aspose.Cells είναι μια ισχυρή βιβλιοθήκη για .NET που επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται και να μετατρέπουν αρχεία Excel χωρίς να χρειάζονται Microsoft Excel.
 
 ### Πώς μπορώ να εγκαταστήσω το Aspose.Cells;  
- Μπορείτε να κατεβάσετε και να εγκαταστήσετε το Aspose.Cells από το[Aspose ιστότοπο](https://releases.aspose.com/cells/net/).
+ Μπορείτε να κατεβάσετε και να εγκαταστήσετε το Aspose.Cells από το[Aspose website](https://releases.aspose.com/cells/net/).
 
 ### Ποια επίπεδα συμπίεσης είναι διαθέσιμα;  
 Το Aspose.Cells υποστηρίζει πολλαπλά επίπεδα συμπίεσης που κυμαίνονται από το Επίπεδο 1 (χαμηλότερη συμπίεση) έως το Επίπεδο 9 (υψηλότερη συμπίεση).

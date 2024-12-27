@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// Buat gambarnya
+//Buat gambarnya
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // Lanjutkan menggambar pada gambar
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## Langkah 4: Simpan Gambar
 
- Menyimpan gambar akhir sangatlah mudah, seperti yang ditunjukkan di atas dalam`using` pernyataan dimana`image.Save()`dipanggil secara otomatis ketika`using` blok berakhir.
+ Menyimpan gambar akhir sangatlah mudah, seperti yang ditunjukkan di atas dalam`using` pernyataan dimana`image.Save()` dipanggil secara otomatis ketika`using` blok berakhir.
 
 ## Kesimpulan
 

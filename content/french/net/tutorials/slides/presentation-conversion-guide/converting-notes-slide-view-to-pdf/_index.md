@@ -73,7 +73,7 @@ Une fois vos options configurées, enregistrez la présentation au format PDF. V
 presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
 ```
 
-Cela générera un fichier PDF nommé`Pdf_Notes_out.pdf` dans votre répertoire spécifié, contenant des diapositives accompagnées de leurs notes.
+ Cela générera un fichier PDF nommé`Pdf_Notes_out.pdf`dans votre répertoire spécifié, contenant des diapositives accompagnées de leurs notes.
 
 ## Conclusion
 
@@ -88,10 +88,10 @@ Oui, Aspose.Slides pour .NET est conçu pour gérer efficacement les présentati
  Vous pouvez télécharger une version d'essai gratuite à partir de[ici](https://releases.aspose.com/).
 
 ### Q3 : Existe-t-il d’autres options d’exportation PDF disponibles ?
- Oui, vous pouvez personnaliser les polices, la mise en page, la compression et bien plus encore à l'aide de l'`PdfOptions`classe.
+ Oui, vous pouvez personnaliser les polices, la mise en page, la compression et bien plus encore à l'aide de l'`PdfOptions` classe.
 
 ### Q4 : Puis-je exporter uniquement des diapositives spécifiques ?
- Absolument ! Vous pouvez sélectionner des diapositives spécifiques à l'aide du`Slides` collecte dans le`Presentation`classe.
+ Absolument ! Vous pouvez sélectionner des diapositives spécifiques à l'aide du`Slides` collecte dans le`Presentation` classe.
 
 ### Q5 : Où puis-je trouver des exemples supplémentaires ?
- Visitez le[Documentation Aspose.Slides pour .NET](https://reference.aspose.com/slides/net/) pour plus d'exemples et de cas d'utilisation.
+ Visitez le[Documentation Aspose.Slides pour .NET](https://reference.aspose.com/slides/net/)pour plus d'exemples et de cas d'utilisation.

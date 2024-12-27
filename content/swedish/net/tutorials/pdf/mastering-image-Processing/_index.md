@@ -20,7 +20,7 @@ Att förvandla PDF-sidor till TIFF-bilder av hög kvalitet är enkelt med Aspose
 
 ## Ta bort bilder från PDF-filer  
 
- Har du oönskade bilder som rör ihop din PDF? Inga bekymmer! Aspose.PDF låter dig ta bort bilder utan ansträngning samtidigt som dokumentets struktur bevaras. Den här funktionen är en livräddare när du rensar filer för professionellt bruk. Lär dig hur du rengör PDF-filer med detta[omfattande guide](./delete-images-from-pdf-files/).  
+ Har du oönskade bilder som stör din PDF? Inga bekymmer! Aspose.PDF låter dig ta bort bilder utan ansträngning samtidigt som dokumentets struktur bevaras. Den här funktionen är en livräddare när du rensar filer för professionellt bruk. Lär dig hur du rengör PDF-filer med detta[omfattande guide](./delete-images-from-pdf-files/).  
 
 ## Skapa miniatyrbilder i PDF-filer  
 

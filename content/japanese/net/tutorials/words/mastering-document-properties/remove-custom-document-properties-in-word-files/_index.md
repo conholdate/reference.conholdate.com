@@ -46,7 +46,7 @@ Word 文書を変更する最初の手順は、それをアプリケーション
 
 ### ステップ1: ファイルパスを定義する
 
-Word文書のファイルパスを定義する必要があります。この例では、次の文書を使用します。`Properties.docx`.
+ Word文書のファイルパスを定義する必要があります。この例では、次の文書を使用します。`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
@@ -75,7 +75,7 @@ var customProperties = doc.CustomDocumentProperties;
 customProperties.Remove("Authorized Date");
 ```
 
-電話をかけることで`Remove`メソッドを使用してプロパティの名前を渡すと、不要なプロパティや古くなったプロパティを簡単に削除できます。
+電話をかけることで`Remove`メソッドを使用してプロパティ名を渡すと、不要なプロパティや古くなったプロパティを簡単に削除できます。
 
 ## 変更したドキュメントを保存する
 

@@ -17,7 +17,7 @@ url: /zh-hant/net/tutorials/email/guide-to-email-processing-and-analysis/bayesia
 
 1. Visual Studio：用於編寫和管理 C# 專案的整合開發環境 (IDE)。
 2. .NET Framework 或 .NET Core：確保安裝其中任何一個，因為它們對於執行 C# 應用程式至關重要。
-3. Aspose.Email for .NET：這個強大的函式庫將幫助您處理電子郵件操作。您可以從以下位置下載該程式庫[這裡](https://releases.aspose.com/email/net/)或從免費試用開始[這個連結](https://releases.aspose.com/).
+3.  Aspose.Email for .NET：這個強大的函式庫將幫助您處理電子郵件操作。您可以從以下位置下載該程式庫[這裡](https://releases.aspose.com/email/net/)或從免費試用開始[這個連結](https://releases.aspose.com/).
 4. C# 基礎知識：熟悉 C# 程式語言將使您更容易學習本教學。
 
 一旦滿足了這些先決條件，您就可以開始深入研究程式碼了！
@@ -101,7 +101,7 @@ bool isSpam = spamProbability > 0.5;
 
 ## 第7步：顯示結果
 
-最後，我們將結果列印到控制台。
+最後，讓我們將結果列印到控制台。
 
 ```csharp
 Console.WriteLine($"Is Spam: {isSpam}");

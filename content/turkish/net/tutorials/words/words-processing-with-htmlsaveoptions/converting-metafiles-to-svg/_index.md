@@ -83,7 +83,7 @@ Bu yapılandırma, Aspose.Words'e HTML'e aktarırken belgedeki tüm meta dosyala
 
 ## Adım 5: Belgeyi Kaydedin
 
- Son olarak, belgemizi kullanarak kaydedelim`Save` yöntemi`Document`sınıf.
+ Son olarak, belgemizi kullanarak kaydedelim`Save` yöntemi`Document` sınıf.
 
 ```csharp
 doc.Save(dataDir + "ConvertMetafilesToSvg.html", saveOptions);

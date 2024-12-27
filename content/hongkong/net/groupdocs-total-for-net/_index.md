@@ -193,7 +193,7 @@ GroupDocs.Signature for .NET 允許開發人員編寫能夠對各種文件格式
 
 **Welcome to the GroupDocs.Watermark for .NET**
 
-GroupDocs.Watermark是為不同格式的文件加上浮水印的API。它提供了一種有效的浮水印方法，可讓您新增第三方工具難以自動刪除的浮水印。它還允許您搜尋並刪除文件中先前新增的流行類型的浮水印（包括第三方工具添加的浮水印）。該 API 提供了一組簡單易用的方法來新增、搜尋和刪除支援的檔案格式的浮水印。
+GroupDocs.Watermark是為不同格式的文件加上浮水印的API。它提供了一種有效的浮水印方法，可讓您新增第三方工具難以自動刪除的浮水印。它還允許您搜尋和刪除文件中先前新增的流行類型的浮水印（包括第三方工具添加的浮水印）。該 API 提供了一組簡單易用的方法來新增、搜尋和刪除支援的檔案格式的浮水印。
 
 {{% /alert %}} 
 ## **GroupDocs.Watermark for .NET**

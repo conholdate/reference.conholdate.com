@@ -2,7 +2,7 @@
 title: 掌握 Aspose.GIS for .NET 中的圖層管理
 linktitle: 掌握高階管理
 second_title: Aspose.GIS .NET API
-description: 透過 TopoJSON 和文件地理資料庫教學釋放 Aspose.GIS for .NET 的潛力。簡化圖層管理。
+description: 透過有關 TopoJSON 和文件地理資料庫的教程釋放 Aspose.GIS for .NET 的潛力。簡化圖層管理。
 type: docs
 weight: 24
 url: /zh-hant/net/tutorials/gis/mastering-layer-management/

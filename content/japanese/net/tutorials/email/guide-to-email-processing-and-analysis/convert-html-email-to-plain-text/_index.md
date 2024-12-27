@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
 アクセスすることで`HtmlBody`の財産`MailMessage`オブジェクトでは、HTMLコンテンツは、`htmlBody`.
 
-### ステップ3: HTMLをプレーンテキストに変換する準備
+## ステップ3: HTMLをプレーンテキストに変換する準備
 
 HTML コンテンツができたので、次は変換の準備です。Aspose.Words を使用してリッチ HTML をプレーン テキストに変換します。ただし、まず新しいドキュメントを作成する必要があります。
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
 これにより、新しい空の`Document`HTML コンテンツの挿入を開始する前に、クリーンな状態になるように既存の子ノードをすべて削除します。
 
-### ステップ4: HTMLコンテンツを挿入する
+## ステップ4: HTMLコンテンツを挿入する
 
 ここで変換の魔法が起こります！`DocumentBuilder` Aspose.Words のクラスを使用して、HTML コンテンツをドキュメントに挿入します。 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
 ここ、`DocumentBuilder().InsertHtml(htmlBody)` HTML文字列を受け取り、それを新しいドキュメント構造に読み込みます。`Document`オブジェクト。使用`ImportFormatMode.KeepSourceFormatting`この操作中に書式がそのまま維持されることを保証します。
 
-### ステップ5: プレーンテキストファイルを保存する
+## ステップ5: プレーンテキストファイルを保存する
 
 最後に、新しく作成したプレーンテキスト ファイルを保存します。手順は次のとおりです。
 

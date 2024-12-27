@@ -79,7 +79,7 @@ A1：当然！Aspose.PSD 支持各种图像格式，为您的项目提供灵活�
 
 ### 有试用版吗？
 
- A2：是的，您可以下载免费试用版[这里](https://releases.aspose.com/).
+A2：是的，您可以下载免费试用版[这里](https://releases.aspose.com/).
 
 ### 在哪里可以找到对 Aspose.PSD for .NET 的支持？
 

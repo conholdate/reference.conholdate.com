@@ -31,7 +31,7 @@ using System.Linq;
 using System.Text;
 ```
 
-Importując te pakiety, uzyskujesz dostęp do różnych klas i metod, które wykorzystasz w tym samouczku.
+Importując te pakiety, uzyskujesz dostęp do różnych klas i metod, z których będziesz korzystać w tym samouczku.
 
 ## Krok 1: Skonfiguruj swoje środowisko
 Skonfigurujmy środowisko programistyczne:

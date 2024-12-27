@@ -1,5 +1,5 @@
 ---
-title: Ολοκληρωμένα σεμινάρια και παραδείγματα Aspose.CAD για .NET
+title: Περιεκτικά σεμινάρια και παραδείγματα Aspose.CAD για .NET
 linktitle: Aspose.CAD για .NET Tutorials
 type: docs
 weight: 10

@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 एक नया PDF दस्तावेज़ आरंभ करें:
 
 ```csharp
-//दस्तावेज़ उदाहरण बनाएँ
+// दस्तावेज़ उदाहरण बनाएँ
 Document doc = new Document();
 ```
 

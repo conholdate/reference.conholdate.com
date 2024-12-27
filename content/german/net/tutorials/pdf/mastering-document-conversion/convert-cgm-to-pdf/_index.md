@@ -84,7 +84,7 @@ doc.Save(dataDir + "TECHDRAW_out.pdf");
 
 ## Abschluss
 
-Herzlichen Glückwunsch! Sie haben eine CGM-Datei mit Aspose.PDF für .NET erfolgreich in PDF konvertiert. Mit diesem unkomplizierten Prozess können Sie verschiedene Dokumentformate effizient verarbeiten und Ihren Workflow verbessern, egal ob Sie an kleinen Projekten oder umfangreichen Anwendungen arbeiten. Aspose.PDF ist eine zuverlässige Lösung für alle Ihre PDF-Konvertierungsanforderungen.
+Herzlichen Glückwunsch! Sie haben eine CGM-Datei mit Aspose.PDF für .NET erfolgreich in PDF konvertiert. Mit diesem unkomplizierten Prozess können Sie verschiedene Dokumentformate effizient verarbeiten und Ihren Arbeitsablauf verbessern, egal ob Sie an kleinen Projekten oder umfangreichen Anwendungen arbeiten. Aspose.PDF ist eine zuverlässige Lösung für alle Ihre PDF-Konvertierungsanforderungen.
 
 ## Häufig gestellte Fragen
 

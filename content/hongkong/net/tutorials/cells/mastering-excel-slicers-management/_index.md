@@ -2,7 +2,7 @@
 title: 掌握 Excel 切片器管理
 linktitle: 掌握 Excel 切片器管理
 second_title: Aspose.Cells .NET Excel 處理 API
-description: 發現 Aspose.Cells for .NET 教程的詳細列表，重點是管理 Excel 切片器，包括在 Excel 檔案中新增、自訂和更新切片器。
+description: 了解 Aspose.Cells for .NET 教程的詳細列表，並專注於管理 Excel 切片器，包括在 Excel 檔案中新增、自訂和更新切片器。
 type: docs
 weight: 25
 url: /zh-hant/net/tutorials/cells/mastering-excel-slicers-management/

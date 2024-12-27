@@ -104,7 +104,7 @@ To Excelu přikáže, aby sečetl hodnoty zadaného sloupce, což usnadňuje sle
 
 ## Krok 7: Uložte sešit
 
-Nakonec uložte sešit, abyste viděli změny:
+Nakonec si uložte sešit, abyste viděli změny:
 
 ```csharp
 workbook.Save(dataDir + "output.xls");

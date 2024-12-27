@@ -55,7 +55,7 @@ Tiếp theo, chúng ta sẽ thêm một trang trống vào tài liệu PDF, nơi
 ```csharp
 // Thêm một trang mới vào tài liệu PDF
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Sử dụng các thiết lập giống như tài liệu
+pdfPage.PageInfo = pdfDoc.PageInfo; // Sử dụng các thiết lập giống như tài liệu
 ```
 
 ## Bước 3: Tạo hộp nổi
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Sử dụng các thiết lập giống nh�
 FloatingBox cho phép bạn định vị nội dung độc lập với luồng trang, giúp bạn kiểm soát bố cục tốt hơn.
 
 ```csharp
-// Tạo FloatingBox cho nội dung có cấu trúc
+//Tạo FloatingBox cho nội dung có cấu trúc
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

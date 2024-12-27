@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// إنشاء الصورة
+//إنشاء الصورة
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // انتقل إلى الرسم على الصورة
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## الخطوة 4: احفظ الصورة
 
- إن حفظ الصورة النهائية أمر بسيط، كما هو موضح أعلاه في`using` بيان حيث`image.Save()`يتم استدعاؤه تلقائيًا عندما`using` نهايات الكتل.
+ إن حفظ الصورة النهائية أمر بسيط، كما هو موضح أعلاه في`using` بيان حيث`image.Save()` يتم استدعاؤه تلقائيًا عندما`using` نهايات الكتل.
 
 ## خاتمة
 

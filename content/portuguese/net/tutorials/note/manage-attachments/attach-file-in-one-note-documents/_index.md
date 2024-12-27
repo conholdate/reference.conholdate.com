@@ -72,7 +72,7 @@ OutlineElement outlineElem = new OutlineElement(doc);
 
 ## Etapa 5: Inicializar o arquivo anexado
 
- Especifique o caminho para o arquivo que você deseja anexar usando o`AttachedFile`aula.
+ Especifique o caminho para o arquivo que você deseja anexar usando o`AttachedFile` aula.
 
 ```csharp
 AttachedFile attachedFile = new AttachedFile(doc,  dataDir + "attachment.txt");

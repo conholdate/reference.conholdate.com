@@ -102,7 +102,7 @@ fstream.Close();
  Absolutně! Použijte`Insert` metoda k určení pozice nového listu.
 
 ### Mohu přejmenovat list po jeho přidání?
-Ano, stačí aktualizovat`Name` vlastnictví`Worksheet` objekt.
+Ano, stačí aktualizovat`Name` vlastnictvím`Worksheet` objekt.
 
 ### Vyžaduje Aspose.Cells instalaci aplikace Microsoft Excel?
 Ne, Aspose.Cells je samostatná knihovna, takže na vašem počítači není potřeba Microsoft Excel.

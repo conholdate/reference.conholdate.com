@@ -16,7 +16,7 @@ No ritmo acelerado do desenvolvimento .NET, o Aspose.PSD surge como uma bibliote
 Antes de começarmos, certifique-se de ter o seguinte configurado:
 
 1. Visual Studio: certifique-se de ter o Visual Studio instalado em sua máquina.
-2.  Aspose.PSD para .NET: Baixe e instale a biblioteca Aspose.PSD. Você pode encontrar a versão mais recente[aqui](https://releases.aspose.com/psd/net/).
+2. Aspose.PSD para .NET: Baixe e instale a biblioteca Aspose.PSD. Você pode encontrar a versão mais recente[aqui](https://releases.aspose.com/psd/net/).
 3. Arquivo PSD de amostra: Obtenha um arquivo PSD de amostra para teste. Se você não tiver um, qualquer arquivo PSD servirá para fins de demonstração.
 4. Diretório de documentos: crie um diretório no seu projeto para salvar suas imagens e anote o caminho para uso posterior.
 
@@ -89,10 +89,10 @@ Parabéns! Você aprendeu com sucesso como salvar imagens em um fluxo usando Asp
 ## Perguntas frequentes
 
 ### Posso usar o Aspose.PSD com qualquer tipo de arquivo de imagem?
-Sim! O Aspose.PSD suporta vários formatos de imagem, incluindo PSD, PNG, JPEG e mais. Para uma lista detalhada, verifique a documentação[aqui](https://reference.aspose.com/psd/net/).
+ Sim! O Aspose.PSD suporta vários formatos de imagem, incluindo PSD, PNG, JPEG e mais. Para uma lista detalhada, verifique a documentação[aqui](https://reference.aspose.com/psd/net/).
 
 ### Como obtenho suporte para o Aspose.PSD?
- Para obter assistência e suporte da comunidade, visite o fórum de suporte Aspose.PSD[aqui](https://forum.aspose.com/c/psd/34).
+Para obter assistência e suporte da comunidade, visite o fórum de suporte Aspose.PSD[aqui](https://forum.aspose.com/c/psd/34).
 
 ### Existe um teste gratuito disponível?
  Absolutamente! Você pode baixar uma versão de teste gratuita[aqui](https://releases.aspose.com/) para explorar os recursos do Aspose.PSD antes de decidir comprar.

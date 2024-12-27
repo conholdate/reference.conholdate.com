@@ -18,7 +18,7 @@ url: /zh-hant/net/tutorials/cells/mastering-rendering-and-exporting/control-exte
 1. Visual Studio 或任何與 .NET 相容的 IDE：這將是您的開發環境。
 2.  Aspose.Cells for .NET：如果您尚未安裝，請造訪[Aspose下載](https://releases.aspose.com/cells/net/)頁面取得最新版本。
 3. C# 基礎知識：熟悉 C# 將很有幫助。如果您需要澄清任何概念，請隨時查找。
-4. 範例 Excel 檔案：準備一個 Excel 文件，例如“samplePdfSaveOptions_StreamProvider.xlsx”，其中包含要轉換的外部資源。
+4. 範例 Excel 檔案：準備一個 Excel 文件，例如“samplePdfSaveOptions_StreamProvider.xlsx”，其中包含您要轉換的外部資源。
 5. 用於測試的映像檔：在轉換過程中使用「newPdfSaveOptions_StreamProvider.png」等映像檔作為外部資源。
 
 ## 導入必要的套件

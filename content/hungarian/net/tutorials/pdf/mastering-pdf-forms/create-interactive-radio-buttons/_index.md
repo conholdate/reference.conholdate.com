@@ -1,6 +1,6 @@
 ---
-title: Hozzon létre interaktív rádiógombokat
-linktitle: Hozzon létre interaktív rádiógombokat
+title: Interaktív rádiógombok létrehozása
+linktitle: Interaktív rádiógombok létrehozása
 second_title: Aspose.PDF for .NET API Reference
 description: Ez az átfogó oktatóanyag végigvezeti Önt az Aspose.PDF for .NET használatával interaktív rádiógombok létrehozásának folyamatán PDF-dokumentumokban. Világos, lépésenkénti utasításokkal és kódpéldával.
 type: docs
@@ -109,7 +109,7 @@ catch (Exception ex)
 
 ## Következtetés
 
-A választógombok létrehozása PDF-ben az Aspose.PDF for .NET használatával egyszerű folyamat, amely javítja a dokumentumok interaktivitását. Ha követi ezt az oktatóanyagot, egyszerűen beillesztheti a rádiógombokat PDF-űrlapjaiba, így felhasználóbarátabbá teheti azokat. Ne habozzon kísérletezni különböző lehetőségekkel és konfigurációkkal, hogy finomítsa készségeit!
+A választógombok létrehozása PDF-ben az Aspose.PDF for .NET használatával egyszerű folyamat, amely javítja a dokumentumok interaktivitását. Az oktatóanyag követésével könnyedén beillesztheti a rádiógombokat PDF-űrlapjaiba, így felhasználóbarátabbá teheti azokat. Ne habozzon kísérletezni különböző lehetőségekkel és konfigurációkkal, hogy finomítsa készségeit!
 
 ## GYIK
 

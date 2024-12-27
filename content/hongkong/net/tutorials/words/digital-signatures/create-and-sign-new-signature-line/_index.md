@@ -2,7 +2,7 @@
 title: 建立並簽署新的簽名行
 linktitle: 建立並簽署新的簽名行
 second_title: Aspose.Words 文件處理 API
-description: 了解如何使用 Aspose.Words for .NET 將數位簽章無縫新增至您的 Word 文件。這個全面的教程涵蓋了從設定環境和插入簽名行到保存和驗證簽名文件的所有內容。
+description: 了解如何使用 Aspose.Words for .NET 將數位簽章無縫新增至 Word 文件。這個全面的教程涵蓋了從設定環境和插入簽名行到保存和驗證簽名文件的所有內容。
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/words/digital-signatures/create-and-sign-new-signature-line/

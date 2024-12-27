@@ -25,7 +25,7 @@ Gondolkozott már azon, hogy egy VBA-projekt zárolva van-e megtekintéshez? Az 
 
 ## Ellenőrizze és biztosítsa a VBA-projekteket
 
- A VBA-projekt biztonsága nem csak jelszó megadását jelenti, hanem annak biztosítását, hogy érzékeny kódja védve maradjon az illetéktelen hozzáféréstől. Az Aspose.Cells for .NET hatékony eszközöket kínál annak ellenőrzésére, hogy egy projekt már védett-e, és további biztonsági intézkedéseket alkalmazhat. Ez az oktatóanyag végigvezeti ezen feladatok programozott kezelésén, így biztosítva, hogy Excel-projektjei biztonságban legyenek a kíváncsiskodó szemektől. Szeretné megtanulni, hogyan zárhatja le VBA-projektjét?[További információ itt](./check-and-secure-vba-projects-is-protected/).
+ A VBA-projekt biztonsága nem csak jelszó megadását jelenti, hanem annak biztosítását, hogy érzékeny kódja védve maradjon az illetéktelen hozzáféréstől. Az Aspose.Cells for .NET hatékony eszközöket kínál annak ellenőrzésére, hogy egy projekt már védett-e, és további biztonsági intézkedéseket alkalmazhat. Ez az oktatóanyag végigvezeti ezen feladatok programozott kezelésén, így biztosítva, hogy Excel-projektjei biztonságban legyenek a kíváncsiskodó szemektől. Szeretné megtanulni, hogyan zárhatja le VBA-projektjét?[Tudjon meg többet itt](./check-and-secure-vba-projects-is-protected/).
 
 ## Mastering Workbook VBA Project Tutorials
 ### [Ellenőrizze a VBA Project Lock állapotát az Excelben az Aspose.Cells segítségével](./check-vba-project-lock-status/)

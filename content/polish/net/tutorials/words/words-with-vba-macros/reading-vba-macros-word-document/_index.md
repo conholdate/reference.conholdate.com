@@ -17,7 +17,7 @@ Aby rozpocząć, upewnij się, że spełnione są następujące warunki:
 
 1.  Biblioteka Aspose.Words dla .NET: Pobierz najnowszą wersję z[Tutaj](https://releases.aspose.com/words/net/).  
 2. Środowisko programistyczne: Użyj zintegrowanego środowiska programistycznego (IDE), takiego jak Visual Studio.  
-3. Podstawowa znajomość języka C#: Znajomość programowania w języku C# będzie zaletą.  
+3. Podstawowa znajomość języka C#: Znajomość programowania w języku C# będzie dodatkowym atutem.  
 4.  Dokument Word z włączoną obsługą makr: przykład`.docm` wymagany jest plik z makrami VBA. Użyj[ten przykładowy dokument](https://github.com/aspose-words/Aspose.Words-for-.NET/raw/99ba2a2d8b5d650deb40106225f383376b8b4bc6/Examples/Data/VBA%20project.docm) śledzić.
 
 ## Importuj wymagane przestrzenie nazw

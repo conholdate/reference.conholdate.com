@@ -142,4 +142,4 @@ TopoJSON は、トポロジをエンコードしてファイル サイズと構�
 サポートは[フォーラム](https://forum.aspose.com/c/gis/33/).
 
 ### Aspose.GIS の一時ライセンスを取得するにはどうすればよいですか?
-一時免許を申請することができます[ここ](https://purchase.conholdate.com/temporary-license/).
+一時ライセンスを申請することができます[ここ](https://purchase.conholdate.com/temporary-license/).

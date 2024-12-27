@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Inicializar un nuevo documento PDF:
 
 ```csharp
-//Crear instancia de documento
+// Crear instancia de documento
 Document doc = new Document();
 ```
 

@@ -18,7 +18,7 @@ description: 探索 Aspose.PDF for .NET 教學。透過易於遵循、SEO 優化
 
 使用 Aspose.PDF 將 PDF 頁面轉換為高品質 TIFF 影像變得輕而易舉。無論您需要影像進行存檔還是分享，此工具都能確保無縫轉換。此外，它還具有多種功能——支援單色和彩色選項。好奇它是如何運作的？[看看這個教程](./convert-pages-to-tiff-images/)並開始像專業人士一樣進行轉換。
 
-## 從 PDF 檔案中刪除圖像  
+## 從 PDF 檔案中刪除影像  
 
 您的 PDF 中是否有不需要的影像？不用擔心！ Aspose.PDF 可讓您輕鬆刪除影像，同時保留文件的結構。當清理專業用途的文件時，此功能是一個救星。了解如何使用此工具清理 PDF[綜合指南](./delete-images-from-pdf-files/).  
 

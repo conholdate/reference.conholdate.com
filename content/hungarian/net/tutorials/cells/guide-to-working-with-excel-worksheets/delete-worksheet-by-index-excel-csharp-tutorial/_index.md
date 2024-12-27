@@ -73,7 +73,7 @@ Ebben a lépésben metaforikusan elfordítjuk az Excel-fájl zárolásának felo
 Workbook workbook = new Workbook(fstream);
 ```
 
-Ön egy átjárót hoz létre az Excel-adatokhoz! A munkafüzet objektum strukturált módon hozzáférést biztosít az összes munkalapjához.
+Átjárót hoz létre az Excel adataihoz! A munkafüzet objektum strukturált módon hozzáférést biztosít az összes munkalapjához.
 
 ## 4. lépés: Távolítsa el a munkalapot index szerint
 

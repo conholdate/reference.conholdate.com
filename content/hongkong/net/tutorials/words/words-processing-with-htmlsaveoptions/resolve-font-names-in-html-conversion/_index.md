@@ -78,7 +78,7 @@ doc.Save(dataDir + "ResolvedFontNames.html", saveOptions);
 
 ## 結論
 
-現在你就擁有了！透過執行這些步驟，您在使用 Aspose.Words for .NET 將 Word 文件轉換為 HTML 時成功解析了字體名稱。這不僅可以確保您的字體正確顯示，還可以使您的 HTML 輸出看起來美觀且專業。快樂編碼！
+現在你就得到它了！透過執行這些步驟，您在使用 Aspose.Words for .NET 將 Word 文件轉換為 HTML 時成功解析了字體名稱。這不僅可以確保您的字體正確顯示，還可以使您的 HTML 輸出看起來美觀且專業。快樂編碼！
 
 ## 常見問題解答
 

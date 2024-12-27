@@ -67,7 +67,7 @@ foreach (string filePath in fileEntries)
 }
 ```
 
- I den här slingan öppnar vi varje PDF-fil med hjälp av`Document` klass, förbereder sig för att bearbeta sina sidor.
+ I denna loop öppnar vi varje PDF-fil med hjälp av`Document` klass, förbereder sig för att bearbeta sina sidor.
 
 ## Steg 4: Skapa miniatyrer för varje sida
 

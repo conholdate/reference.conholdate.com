@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Ezután húzzon egy második vonalat a bal felső saroktól a jobb alsó sarokig:
 
 ```csharp
-//Hozzon létre egy vonalat a bal felső saroktól a jobb alsó sarokig
+// Hozzon létre egy vonalat a bal felső saroktól a jobb alsó sarokig
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Adja hozzá a második sort a Graph objektumhoz
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## 6. lépés: Adja hozzá a grafikont az oldalhoz
 
- Mindkét vonal meghúzásával adja hozzá a`Graph` objektum az oldalra:
+ Mindkét vonal meghúzásával adja hozzá a`Graph`objektum az oldalra:
 
 ```csharp
 // Adja hozzá a Graph objektumot az oldal bekezdésgyűjteményéhez
@@ -122,9 +122,9 @@ Ezekkel az egyszerű lépésekkel könnyedén rajzolhat vonalakat egy PDF-dokume
  Beállíthatja a`StrokeColor` és`LineWidth` tulajdonságai a`Line` objektumot a megjelenés testreszabásához.
 
 ### Elhelyezhetem a sorokat az oldal meghatározott területein?
-Teljesen! Módosítsa a koordinátáit`Line` tiltakozik, hogy oda helyezze, ahol szüksége van rá.
+ Teljesen! Módosítsa a koordinátáit`Line` tiltakozik, hogy oda helyezze, ahol szüksége van rá.
 
-### Lehetséges szöveget hozzáadni a sorokhoz?
+### Lehet-e szöveget hozzáadni a sorokhoz?
  Igen, létrehozhat`TextFragment` objektumokat, és adja hozzá őket az oldal bekezdésgyűjteményéhez.
 
 ### Hogyan tudok sorokat hozzáadni egy meglévő PDF-hez?

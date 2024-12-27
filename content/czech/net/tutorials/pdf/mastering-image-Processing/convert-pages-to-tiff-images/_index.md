@@ -64,7 +64,7 @@ Definujte cestu, kde se nachází váš soubor PDF a kam chcete uložit soubor T
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 ```
 
- Nahradit`YOUR DOCUMENT DIRECTORY` se skutečnou cestou vašeho souboru PDF.
+ Nahradit`YOUR DOCUMENT DIRECTORY` se skutečnou cestou k vašemu souboru PDF.
 
 ## Krok 2: Otevřete dokument PDF
 

@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  Accedendo al`HtmlBody` proprietà del`MailMessage` oggetto, il contenuto HTML è ora memorizzato in una variabile stringa denominata`htmlBody`.
 
-### Passaggio 3: Prepararsi a convertire l'HTML in testo normale
+## Passaggio 3: Prepararsi a convertire l'HTML in testo normale
 
 Ora che abbiamo il nostro contenuto HTML, è il momento di preparare il terreno per la conversione. Utilizzeremo Aspose.Words per trasformare il nostro HTML avanzato in testo normale. Ma prima, dobbiamo creare un nuovo documento:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Questo crea un nuovo vuoto`Document`. Rimuoviamo tutti i nodi figlio esistenti per garantire che ci sia una tabula rasa prima di iniziare a inserire il nostro contenuto HTML.
 
-### Passaggio 4: Inserisci contenuto HTML
+## Passaggio 4: Inserisci contenuto HTML
 
  È qui che avviene la magia della conversione! Useremo il`DocumentBuilder` classe da Aspose.Words per inserire il nostro contenuto HTML nel documento. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Qui,`DocumentBuilder().InsertHtml(htmlBody)` prende la nostra stringa HTML e la carica in una nuova struttura di documento all'interno di`Document` oggetto. Utilizzando`ImportFormatMode.KeepSourceFormatting` assicura che la formattazione rimanga intatta durante questa operazione.
 
-### Passaggio 5: salvare il file di testo normale
+## Passaggio 5: salvare il file di testo normale
 
 Infine, è il momento di salvare il nostro file di testo semplice appena creato. Ecco come fare:
 

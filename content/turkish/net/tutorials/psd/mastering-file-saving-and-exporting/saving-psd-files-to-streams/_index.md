@@ -16,7 +16,7 @@ url: /tr/net/tutorials/psd/mastering-file-saving-and-exporting/saving-psd-files-
 Başlamadan önce, aşağıdaki ayarların yapıldığından emin olun:
 
 1. Visual Studio: Bilgisayarınızda Visual Studio'nun yüklü olduğundan emin olun.
-2.  .NET için Aspose.PSD: Aspose.PSD kütüphanesini indirin ve kurun. En son sürümü bulabilirsiniz[Burada](https://releases.aspose.com/psd/net/).
+2. .NET için Aspose.PSD: Aspose.PSD kütüphanesini indirin ve kurun. En son sürümü bulabilirsiniz[Burada](https://releases.aspose.com/psd/net/).
 3. Örnek PSD Dosyası: Test için bir örnek PSD dosyası edinin. Eğer yoksa, herhangi bir PSD dosyası gösteri amaçlı işe yarayacaktır.
 4. Belge Dizini: Görüntülerinizi kaydetmek için projenizde bir dizin oluşturun ve daha sonra kullanmak üzere yolunu not edin.
 
@@ -89,10 +89,10 @@ Tebrikler! Aspose.PSD for .NET kullanarak görüntüleri bir akışa nasıl kayd
 ## SSS
 
 ### Aspose.PSD'yi her türlü resim dosyasıyla kullanabilir miyim?
-Evet! Aspose.PSD, PSD, PNG, JPEG ve daha fazlası dahil olmak üzere çeşitli görüntü formatlarını destekler. Ayrıntılı bir liste için belgelere bakın[Burada](https://reference.aspose.com/psd/net/).
+ Evet! Aspose.PSD, PSD, PNG, JPEG ve daha fazlası dahil olmak üzere çeşitli görüntü formatlarını destekler. Ayrıntılı bir liste için belgelere bakın[Burada](https://reference.aspose.com/psd/net/).
 
 ### Aspose.PSD için nasıl destek alabilirim?
- Yardım ve topluluk desteği için Aspose.PSD destek forumunu ziyaret edin[Burada](https://forum.aspose.com/c/psd/34).
+Yardım ve topluluk desteği için Aspose.PSD destek forumunu ziyaret edin[Burada](https://forum.aspose.com/c/psd/34).
 
 ### Ücretsiz deneme imkanı var mı?
  Kesinlikle! Ücretsiz denemeyi indirebilirsiniz[Burada](https://releases.aspose.com/) Satın almaya karar vermeden önce Aspose.PSD'nin özelliklerini keşfetmek için.

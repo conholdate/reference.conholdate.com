@@ -52,7 +52,7 @@ Definisci le directory per i file di input e output:
 ```csharp
 // Elenco di origine
 string sourceDir = "Your Document Directory/";
-// Directory di uscita
+// Directory di output
 string outputDir = "Your Document Directory/";
 ```
 

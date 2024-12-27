@@ -2,7 +2,7 @@
 title: 在工作表中實施頁面順序設定
 linktitle: 在工作表中實施頁面順序設定
 second_title: Aspose.Cells .NET Excel 處理 API
-description: 了解如何使用 Aspose.Cells for .NET 在 Excel 中設定頁面順序設定。本逐步指南示範如何先跨行列印，然後向下列印列，確保大型電子表格整齊地顯示在紙上。
+description: 了解如何使用 Aspose.Cells for .NET 在 Excel 中設定頁面順序設定。本逐步指南示範如何先跨行列印，然後再向下列列印，確保大型電子表格整齊地顯示在紙上。
 type: docs
 weight: 24
 url: /zh-hant/net/tutorials/cells/mastering-worksheet-page-setup-features/implement-page-order-settings/

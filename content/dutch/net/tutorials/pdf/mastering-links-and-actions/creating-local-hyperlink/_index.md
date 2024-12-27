@@ -54,7 +54,7 @@ Laten we het proces voor het maken van lokale hyperlinks opsplitsen in eenvoudig
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Stel uw documentmap in
-Document doc = new Document(); //Documentinstantie maken
+Document doc = new Document(); // Documentinstantie maken
 ```
 
  Vervangen`"YOUR_DOCUMENT_DIRECTORY"` met het daadwerkelijke pad op uw systeem waar de PDF wordt opgeslagen.

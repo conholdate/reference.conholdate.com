@@ -99,4 +99,4 @@ Ano! Aspose poskytuje bezplatnou zkušební verzi, která vám umožní otestova
  Můžete zkontrolovat komplexní dokumentaci[zde](https://reference.aspose.com/pdf/net/).
 
 ### Co mám dělat, když narazím na problémy?
- Pokud narazíte na nějaké problémy, navštivte stránku[Aspose fórum podpory](https://forum.aspose.com/c/pdf/10) o pomoc.
+ Pokud narazíte na nějaké problémy, navštivte[Aspose fórum podpory](https://forum.aspose.com/c/pdf/10) o pomoc.

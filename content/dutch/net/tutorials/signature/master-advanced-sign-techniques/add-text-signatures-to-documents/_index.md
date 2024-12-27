@@ -15,7 +15,7 @@ In het digitale landschap van vandaag de dag is elektronische documentonderteken
 
 Voordat we beginnen, zorg ervoor dat u het volgende heeft:
 
-1.  GroupDocs.Signature voor .NET: Download en installeer de bibliotheek van[hier](https://releases.groupdocs.com/signature/net/).
+1. GroupDocs.Signature voor .NET: Download en installeer de bibliotheek van[hier](https://releases.groupdocs.com/signature/net/).
 2. Ontwikkelomgeving: Stel uw .NET-ontwikkelomgeving in.
 3. Document: Bereid het document voor dat u wilt ondertekenen (bijv. PDF, Word).
 
@@ -56,7 +56,7 @@ Configureer de opties voor uw teksthandtekening, waaronder de inhoud, positie, g
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, //X-positie
+    Left = 50, // X-positie
     Top = 200, // Y-positie
     Width = 100, // Breedte van de handtekening
     Height = 30, // Hoogte van de handtekening

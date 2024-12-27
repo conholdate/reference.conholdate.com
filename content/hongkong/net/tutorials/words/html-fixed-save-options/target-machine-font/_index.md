@@ -83,7 +83,7 @@ doc.Save(dataDir + "UsingTargetMachineFonts.html", saveOptions);
 System.Diagnostics.Process.Start(dataDir + "UsingTargetMachineFonts.html");
 ```
 
-現在你就擁有了！您已使用 Aspose.Words for .NET 在 Word 文件中成功使用了目標電腦中的字型。
+現在你就得到它了！您已使用 Aspose.Words for .NET 在 Word 文件中成功使用了目標電腦中的字型。
 
 ## 結論
 

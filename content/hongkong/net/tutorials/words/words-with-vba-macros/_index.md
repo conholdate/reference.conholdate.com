@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/words/words-with-vba-macros/
 ---
 ## 介紹
 
-探索掌握 Aspose.Words for .NET 的基本教學課程，專門研究 Word VBA 巨集。在本文中，我們將引導您完成三個關鍵方面：建立 VBA 專案、讀取現有巨集以及在 Word 文件中複製 VBA 專案。無論您是初學者還是想要提高技能，這些教程都提供了實用的逐步說明，您一定不想錯過。 
+探索掌握 Aspose.Words for .NET 的基本教學課程，專門研究 Word VBA 巨集。在本文中，我們將引導您完成三個關鍵方面：建立 VBA 專案、讀取現有巨集以及在 Word 文件中複製 VBA 專案。無論您是初學者還是想提高技能，這些教程都提供實用的逐步說明，您一定不想錯過。 
 
 ## 在 Word 中建立 VBA 項目
 

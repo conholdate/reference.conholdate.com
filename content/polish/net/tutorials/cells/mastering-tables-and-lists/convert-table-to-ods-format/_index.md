@@ -68,7 +68,7 @@ Musisz otworzyć plik Excel zawierający tabelę, którą chcesz przekonwertowa�
 Workbook wb = new Workbook(sourceDir + "SampleTable.xlsx");
 ```
 
- Inicjuje to nowy`Workbook` obiekt ze ścieżką do pliku Excel. Upewnij się, że „SampleTable.xlsx” pasuje do nazwy pliku.
+ To inicjuje nowy`Workbook` obiekt ze ścieżką do pliku Excel. Upewnij się, że „SampleTable.xlsx” pasuje do nazwy pliku.
 
 ## Krok 3: Zapisz jako plik ODS
 

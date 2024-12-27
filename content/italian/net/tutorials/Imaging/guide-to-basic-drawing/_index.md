@@ -23,4 +23,4 @@ Aspose.Imaging per .NET è una potente libreria di elaborazione delle immagini c
 ### [Creazione di archi personalizzati nelle immagini utilizzando Aspose.Imaging per .NET](./create-custom-arc-in-images/)
 Scopri come disegnare archi personalizzati nelle immagini usando Aspose.Imaging per .NET. Segui le istruzioni passo passo per impostare la tua immagine, inizializzare il contesto grafico, definire i parametri dell'arco e salvare l'output finale.
 ### [Guida al disegno di rettangoli utilizzando Aspose.Imaging](./guide-to-drawing-rectangle/)
-Sblocca la potenza dell'elaborazione delle immagini con Aspose.Imaging per .NET in questa guida completa. Scopri come creare e manipolare le immagini, concentrandoti in particolare sul disegno di rettangoli con colori e dimensioni personalizzati.
+Sblocca la potenza dell'elaborazione delle immagini con Aspose.Imaging per .NET in questa guida completa. Impara come creare e manipolare le immagini, concentrandoti in particolare sul disegno di rettangoli con colori e dimensioni personalizzati.

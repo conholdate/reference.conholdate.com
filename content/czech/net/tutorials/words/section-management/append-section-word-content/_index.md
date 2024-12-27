@@ -2,7 +2,7 @@
 title: Připojit obsah slov sekce k Aspose.Words v .NET
 linktitle: Připojit obsah slov sekce k Aspose.Words v .NET
 second_title: Aspose.Words API pro zpracování dokumentů
-description: Naučte se základy vytváření, úprav a připojování sekcí v dokumentech aplikace Word pomocí snadno srozumitelných příkladů, které jsou ideální pro začátečníky i zkušené vývojáře.
+description: Naučte se základy vytváření, úprav a přidávání sekcí v dokumentech Wordu pomocí snadno pochopitelných příkladů, které jsou ideální pro začátečníky i zkušené vývojáře.
 type: docs
 weight: 10
 url: /cs/net/tutorials/words/section-management/append-section-word-content/
@@ -114,7 +114,7 @@ Aspose.Words for .NET je výkonná knihovna, která umožňuje vývojářům vyt
 
 ### Jaké jsou hlavní rysy Aspose.Words pro .NET?
 
- Aspose.Words for .NET poskytuje různé funkce, včetně vytváření, formátování, převodu a manipulace s dokumenty. Pro úplný seznam zkontrolujte[API dokumentace](https://reference.aspose.com/words/net/).
+Aspose.Words for .NET poskytuje různé funkce, včetně vytváření, formátování, převodu a manipulace s dokumenty. Pro úplný seznam zkontrolujte[API dokumentace](https://reference.aspose.com/words/net/).
 
 ### Jak získám podporu pro Aspose.Words for .NET?
 

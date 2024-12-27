@@ -79,7 +79,7 @@ A1: 물론입니다! Aspose.PSD는 다양한 이미지 형식을 지원하여 �
 
 ### 체험판이 있나요?
 
- A2: 네, 무료 체험판을 다운로드할 수 있습니다.[여기](https://releases.aspose.com/).
+A2: 네, 무료 체험판을 다운로드할 수 있습니다.[여기](https://releases.aspose.com/).
 
 ### .NET용 Aspose.PSD에 대한 지원은 어디에서 찾을 수 있나요?
 

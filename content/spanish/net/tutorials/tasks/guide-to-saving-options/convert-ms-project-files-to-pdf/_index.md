@@ -22,7 +22,7 @@ Antes de continuar, asegúrese de que se cumplan los siguientes requisitos previ
    Un conocimiento práctico del lenguaje de programación C# y un entorno de desarrollo .NET configurado.
 
 3. Archivo de entrada de Microsoft Project  
-    Tener una válida`.mpp` archivo disponible para conversión.
+   Tener una válida`.mpp` archivo disponible para conversión.
 
 ## Importar espacios de nombres esenciales
 
@@ -65,7 +65,7 @@ Console.WriteLine("Total Pages: " + options.PageCount);
 
 ## Paso 4: Seleccionar páginas específicas para exportar (opcional)
 
-Especifique las páginas exactas que se incluirán en el PDF completando el campo`Pages` propiedad. Por ejemplo, para exportar las páginas 1 y 4:
+ Especifique las páginas exactas que se incluirán en el PDF completando el campo`Pages` propiedad. Por ejemplo, para exportar las páginas 1 y 4:
 
 ```csharp
 options.Pages.Add(1);
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Paso 5: Guarde el archivo del proyecto como PDF
 
- Por último, guarde el`.mpp` archivo como PDF llamando al`Save` método. Especifique la ruta del archivo de salida y pase las opciones configuradas.
+Por último, guarde el`.mpp` archivo como PDF llamando al`Save` método. Especifique la ruta del archivo de salida y pase las opciones configuradas.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

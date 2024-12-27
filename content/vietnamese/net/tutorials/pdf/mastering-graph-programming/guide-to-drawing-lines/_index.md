@@ -82,7 +82,7 @@ graph.Shapes.Add(line1);
 Tiếp theo, vẽ một đường thứ hai từ góc trên bên trái xuống góc dưới bên phải:
 
 ```csharp
-//Tạo một đường thẳng từ góc trên bên trái đến góc dưới bên phải
+// Tạo một đường thẳng từ góc trên bên trái đến góc dưới bên phải
 Line line2 = new Line(new float[] { 0, (float)pg.Rect.URY, (float)pg.PageInfo.Width, (float)pg.Rect.LLX });
 
 // Thêm dòng thứ hai vào đối tượng Graph
@@ -91,7 +91,7 @@ graph.Shapes.Add(line2);
 
 ## Bước 6: Thêm biểu đồ vào trang
 
- Với cả hai đường được vẽ, hãy thêm`Graph` phản đối trang:
+ Với cả hai đường được vẽ, hãy thêm`Graph`phản đối trang:
 
 ```csharp
 // Thêm đối tượng Graph vào bộ sưu tập đoạn văn của trang
@@ -122,7 +122,7 @@ Với các bước đơn giản này, bạn có thể dễ dàng vẽ các đư�
  Bạn có thể điều chỉnh`StrokeColor` Và`LineWidth` tính chất của`Line` đối tượng để tùy chỉnh giao diện của nó.
 
 ### Tôi có thể định vị các dòng ở những khu vực cụ thể trên trang không?
-Chắc chắn rồi! Sửa đổi tọa độ của`Line` đối tượng để đặt nó ở bất cứ nơi nào bạn cần.
+ Chắc chắn rồi! Sửa đổi tọa độ của`Line` đối tượng để đặt nó ở bất cứ nơi nào bạn cần.
 
 ### Có thể thêm văn bản vào các dòng không?
  Có, bạn có thể tạo`TextFragment` các đối tượng và thêm chúng vào bộ sưu tập đoạn văn của trang.

@@ -101,7 +101,7 @@ Komponenta podporuje nejběžnější formáty rastrových souborů a nabízí �
 
 ## **Aspose.Imaging for .NET**
 
-Níže jsou uvedeny odkazy na některé užitečné zdroje, které možná budete potřebovat, abyste mohli využívat Aspose.Imaging.
+Níže jsou uvedeny odkazy na některé užitečné zdroje, které můžete potřebovat, abyste mohli využívat Aspose.Imaging.
 
 - [Referenční příručka Aspose.Imaging for .NET API](https://reference.aspose.com/net/imaging)
 
@@ -381,7 +381,7 @@ Níže jsou uvedeny odkazy na některé užitečné zdroje, které můžete pot�
 
 **Welcome to the Aspose.Drawing for .NET**
 
-Aspose.Drawing je grafické rozhraní .NET API, které poskytuje možnost 2D výkresů identických s GDI+ ve vašich aplikacích .NET. Kreslicí stroj podporuje vykreslování vektorové grafiky (jako jsou čáry, křivky a obrázky) a textu (v různých fontech, velikostech a stylech) na rastrové obrázky ve všech běžně používaných formátech grafických souborů. Projekt je založen na spravovaném jádru .NET a nezávisí na nativním kódu a knihovnách, přičemž vykreslovací algoritmy fungují stejně na všech podporovaných platformách.
+Aspose.Drawing je grafické rozhraní .NET API, které poskytuje možnost 2D výkresů identických s GDI+ ve vašich aplikacích .NET. Kreslicí stroj podporuje vykreslování vektorové grafiky (jako jsou čáry, křivky a obrázky) a textu (v různých fontech, velikostech a stylech) na rastrové obrázky ve všech běžně používaných formátech grafických souborů. Projekt je založen na spravovaném jádru .NET a není závislý na nativním kódu a knihovnách, přičemž vykreslovací algoritmy fungují stejně na všech podporovaných platformách.
 
 {{% /alert %}} 
 

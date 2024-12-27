@@ -2,7 +2,7 @@
 title: Japán hozzáadása szerkesztési nyelvként
 linktitle: Japán hozzáadása szerkesztési nyelvként
 second_title: Aspose.Words Document Processing API
-description: Tanulja meg, hogyan integrálhatja zökkenőmentesen a japánt szerkesztési nyelvként a dokumentumokba az Aspose.Words for .NET segítségével. Ez a lépésről-lépésre útmutató.
+description: Tanulja meg, hogyan integrálhatja zökkenőmentesen a japánt szerkesztési nyelvként a dokumentumokba az Aspose.Words for .NET segítségével. Ez a lépésenkénti útmutató.
 type: docs
 weight: 10
 url: /hu/net/tutorials/words/mastering-document-options-and-settings/adding-japanese-as-editing-languages/
@@ -13,11 +13,11 @@ Előfordult már, hogy egy dokumentumot csak azért nyitott meg, hogy a helytele
 
 ## Előfeltételek
 
-A merülés előtt győződjön meg arról, hogy rendelkezik a következőkkel:
+Búvárkodás előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
 1. Visual Studio: Telepítse a Visual Studio-t, az általunk használt IDE-t.
 2.  Aspose.Words for .NET: Töltse le és telepítse az Aspose.Words for .NET programot innen:[itt](https://releases.aspose.com/words/net/).
-3.  Dokumentumminta: Készítsen mintadokumentumot`.docx` formátumot, amelyet szerkeszteni szeretne.
+3.  Dokumentumminta: Készítsen mintadokumentumot`.docx` szerkeszteni kívánt formátum.
 4. Alapvető C# ismeretek: A C# ismerete segít a követésében.
 
 ## Névterek importálása

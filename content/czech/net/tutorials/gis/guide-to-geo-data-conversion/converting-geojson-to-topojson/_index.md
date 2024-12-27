@@ -18,7 +18,7 @@ Než zahájíte proces převodu, ujistěte se, že jsou splněny následující 
 ### Nainstalujte Aspose.GIS pro .NET
 
 -  Stáhněte si knihovnu: Získejte nejnovější verzi Aspose.GIS pro .NET z webu[stránka vydání](https://releases.aspose.com/gis/net/).
--  Instalace: Postupujte podle podrobných pokynů k instalaci uvedených v[dokumentace](https://reference.aspose.com/gis/net/).
+- Instalace: Postupujte podle podrobných pokynů k instalaci uvedených v[dokumentace](https://reference.aspose.com/gis/net/).
 
 ### Přidejte požadované jmenné prostory
 

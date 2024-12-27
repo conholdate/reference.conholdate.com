@@ -58,7 +58,7 @@ scene.RootNode.CreateChildNode(cam).Transform.Translation = new Vector3(170, 16,
 cam.LookAt = new Vector3(28, 0, -30);  // Ställ in kamerans fokuspunkt
 ```
 
-## Steg 3: Lägg till belysning till scenen
+## Steg 3: Lägg till ljus till scenen
 
 Belysning spelar en nyckelroll för att förbättra 3D-modellens utseende. Aspose.3D låter dig lägga till olika typer av ljus som punktljus, riktade ljus och spotlights för att belysa scenen. I det här steget kommer vi att lägga till en kombination av dessa lampor för att få modellen att se mer realistisk ut.
 

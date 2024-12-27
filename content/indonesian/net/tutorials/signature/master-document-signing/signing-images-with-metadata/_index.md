@@ -49,7 +49,7 @@ using (Signature signature = new Signature(filePath))
     ushort imgsMetadataId = 41996; // ID Awal untuk metadata
     MetadataSignOptions options = new MetadataSignOptions();
 
-    //Tambahkan berbagai jenis tanda tangan metadata
+    // Tambahkan berbagai jenis tanda tangan metadata
     options
         .Add(new ImageMetadataSignature(imgsMetadataId++, "Mr. Sherlock Holmes")) // Nilai string
         .Add(new ImageMetadataSignature(imgsMetadataId++, DateTime.Now))          // Nilai TanggalWaktu

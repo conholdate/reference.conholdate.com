@@ -89,7 +89,7 @@ page.CropBox = new Aspose.Pdf.Rectangle(newLLX, newLLY, newLLX + newWidth, newLL
 
 ## Steg 6: Rotera sidan
 
-För att slutföra orienteringsändringen roterar vi sidan. Detta är enkelt med Aspose.PDF:
+För att slutföra orienteringsändringen roterar vi sidan. Det här är enkelt med Aspose.PDF:
 
 ```csharp
 page.Rotate = Rotation.on90; // Vrid 90 grader

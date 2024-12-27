@@ -106,4 +106,4 @@ Absoluut! U kunt meerdere documenten in bulk ondertekenen door een lijst met bes
 
 ### Is er technische ondersteuning beschikbaar voor GroupDocs.Signature-gebruikers?
 
-Ja, GroupDocs biedt toegewijde technische ondersteuning via haar forums. U kunt het supportforum bereiken[hier](https://forum.groupdocs.com/c/signature/13).
+ Ja, GroupDocs biedt toegewijde technische ondersteuning via haar forums. U kunt het supportforum bereiken[hier](https://forum.groupdocs.com/c/signature/13).

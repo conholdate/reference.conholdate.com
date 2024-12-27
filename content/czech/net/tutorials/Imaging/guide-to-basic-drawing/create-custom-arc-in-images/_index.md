@@ -70,7 +70,7 @@ Dále inicializujeme grafický kontext, abychom mohli manipulovat s obrázkem:
             graphic.Clear(Color.Yellow); // Vymažte obrázek se žlutým pozadím
 ```
 
-V této části vyčistíme povrch obrázku žlutou barvou, abychom zlepšili viditelnost.
+této části vyčistíme povrch obrázku žlutou barvou, abychom zlepšili viditelnost.
 
 ## Krok 3: Nakreslete oblouk
 

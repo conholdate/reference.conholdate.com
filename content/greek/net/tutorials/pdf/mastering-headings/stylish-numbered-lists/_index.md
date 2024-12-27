@@ -55,7 +55,7 @@ pdfDoc.PageInfo.Margin = new Aspose.Pdf.MarginInfo(72, 72, 72, 72); // 1 ίντ�
 ```csharp
 // Προσθέστε μια νέα σελίδα στο έγγραφο PDF
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Χρησιμοποιήστε τις ίδιες ρυθμίσεις με το έγγραφο
+pdfPage.PageInfo = pdfDoc.PageInfo; // Χρησιμοποιήστε τις ίδιες ρυθμίσεις με το έγγραφο
 ```
 
 ## Βήμα 3: Δημιουργία πλωτού κουτιού
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Χρησιμοποιήστε τις ίδι
 Το FloatingBox σάς επιτρέπει να τοποθετείτε το περιεχόμενο ανεξάρτητα από τη ροή της σελίδας, δίνοντάς σας μεγαλύτερο έλεγχο στη διάταξή σας.
 
 ```csharp
-// Δημιουργήστε ένα FloatingBox για δομημένο περιεχόμενο
+//Δημιουργήστε ένα FloatingBox για δομημένο περιεχόμενο
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

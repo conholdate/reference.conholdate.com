@@ -15,7 +15,7 @@ url: /ja/net/tutorials/signature/master-advanced-sign-techniques/add-text-signat
 
 始める前に、以下のものを用意してください。
 
-1.  GroupDocs.Signature for .NET: ライブラリをダウンロードしてインストールします。[ここ](https://releases.groupdocs.com/signature/net/).
+1. GroupDocs.Signature for .NET: ライブラリをダウンロードしてインストールします。[ここ](https://releases.groupdocs.com/signature/net/).
 2. 開発環境: .NET 開発環境をセットアップします。
 3. ドキュメント: 署名するドキュメント (PDF、Word など) を準備します。
 
@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithText", 
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, //X位置
+    Left = 50, // X位置
     Top = 200, //Y位置
     Width = 100, //署名の幅
     Height = 30, //署名の高さ

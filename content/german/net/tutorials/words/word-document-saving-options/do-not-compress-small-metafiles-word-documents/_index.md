@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Schritt 3: Speicheroptionen konfigurieren
 
- Konfigurieren Sie nun die Speicheroptionen so, dass die Funktion "Kleine Metadateien nicht komprimieren" mit dem`DocSaveOptions`Klasse.
+ Konfigurieren Sie nun die Speicheroptionen so, dass die Funktion "Kleine Metadateien nicht komprimieren" mit dem`DocSaveOptions` Klasse.
 
 ```csharp
 // Konfigurieren Sie die Speicheroptionen mit der Funktion „Kleine Metadateien nicht komprimieren“

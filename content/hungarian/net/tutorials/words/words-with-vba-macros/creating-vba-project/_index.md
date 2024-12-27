@@ -83,13 +83,13 @@ Ebben a részletben:
 
 ## 5. lépés: Mentse el a dokumentumot
 
-VBA-projektünk és modulunk beállításával ideje elmenteni a dokumentumot az összes módosítás megőrzése érdekében.
+VBA-projektünk és modulunk beállításával ideje elmenteni a dokumentumot, hogy megőrizze az összes változtatást.
 
 ```csharp
 doc.Save(dataDir + "WorkingWithVba.CreateVbaProject.docm");
 ```
 
-Ez a sor a dokumentumot "WorkingWithVba.CreateVbaProject.docm" néven menti a megadott könyvtárba. Gratulálok! Létrehozott egy Word-dokumentumot egy VBA-projekttel.
+Ez a sor "WorkingWithVba.CreateVbaProject.docm" néven menti a dokumentumot a megadott könyvtárba. Gratulálok! Létrehozott egy Word-dokumentumot egy VBA-projekttel.
 
 ## Következtetés
 

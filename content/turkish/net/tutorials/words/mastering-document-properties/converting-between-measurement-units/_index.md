@@ -91,7 +91,7 @@ Aspose.Words'ü lisans olmadan kullanabilirsiniz ancak bazı gelişmiş özellik
  Buradan indirin[web sitesi](https://releases.aspose.com/words/net/) ve verilen kurulum talimatlarını izleyin.
 
 ### Bir belgenin farklı bölümleri için farklı birimler belirleyebilir miyim?
- Kesinlikle! Farklı bölümler için kenar boşluklarını ve ayarları özelleştirebilirsiniz.`Section`sınıf.
+ Kesinlikle! Farklı bölümler için kenar boşluklarını ve ayarları özelleştirebilirsiniz.`Section` sınıf.
 
 ### Aspose.Words başka hangi özellikleri sunuyor?
  Aspose.Words, belge dönüştürme, posta birleştirme ve kapsamlı biçimlendirme seçenekleri de dahil olmak üzere çok çeşitli özellikleri destekler.[belgeleme](https://reference.aspose.com/words/net/) Daha detaylı bilgi için.

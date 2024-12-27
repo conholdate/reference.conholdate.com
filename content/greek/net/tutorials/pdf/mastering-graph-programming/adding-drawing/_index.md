@@ -15,7 +15,7 @@ url: /el/net/tutorials/pdf/mastering-Graph-programming/adding-drawing/
 
 Πριν ξεκινήσετε, βεβαιωθείτε ότι έχετε τα εξής:
 
-1.  Aspose.PDF για .NET: Κάντε λήψη του από το[Aspose ιστότοπο](https://releases.aspose.com/pdf/net/).
+1.  Aspose.PDF για .NET: Κάντε λήψη του από το[Aspose website](https://releases.aspose.com/pdf/net/).
 2. .NET Framework: Αυτό το σεμινάριο προϋποθέτει ότι έχετε ρυθμίσει ένα περιβάλλον ανάπτυξης .NET.
 3. Visual Studio: Αν και δεν είναι απαραίτητο, το Visual Studio απλοποιεί την κωδικοποίηση και τον εντοπισμό σφαλμάτων.
 4. Βασικές γνώσεις C#: Η εξοικείωση με τον προγραμματισμό C# θα είναι επωφελής.
@@ -139,7 +139,7 @@ document.Save(dataDir);
 
 ### Πού μπορώ να βρω τεκμηρίωση για το Aspose.PDF για .NET;
 
- Τα έγγραφα είναι διαθέσιμα στο[Ιστότοπος τεκμηρίωσης Aspose](https://reference.aspose.com/pdf/net/).
+ Τα έγγραφα είναι διαθέσιμα στο[Aspose site τεκμηρίωσης](https://reference.aspose.com/pdf/net/).
 
 ### Πώς μπορώ να λάβω υποστήριξη για το Aspose.PDF για .NET;
 

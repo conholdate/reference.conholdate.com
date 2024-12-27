@@ -1,6 +1,6 @@
 ---
-title: 在 Excel 工作簿中新增自訂 XML 部分
-linktitle: 在 Excel 工作簿中新增自訂 XML 部分
+title: 在 Excel 工作簿中新增自訂 XML 元件
+linktitle: 在 Excel 工作簿中新增自訂 XML 元件
 second_title: Aspose.Cells .NET Excel 處理 API
 description: 探索使用 Aspose.Cells for .NET 將自訂 XML 元件整合到 Excel 工作簿中的綜合指南。了解如何建立工作簿、新增自訂 XML、指派唯一 ID 以及有效擷取這些部分。
 type: docs
@@ -120,7 +120,7 @@ Aspose.Cells 是一個功能強大的.NET 程式庫，可讓開發人員建立�
 
 這個簡單的行初始化了一個新的工作簿，我們可以在其中新增自訂 XML 部分。
 ## 第 2 步：準備 XML 資料和架構
-接下來，您需要準備一些位元組數組形式的資料。儘管我們的範例使用佔位符數據，但在實際場景中，您可以將這些位元組數組替換為要整合到工作簿中的實際 XML 資料和架構。
+接下來，您需要準備一些位元組數組形式的資料。儘管我們的範例使用佔位符數據，但在現實場景中，您可以將這些位元組數組替換為要整合到工作簿中的實際 XML 資料和架構。
 ```csharp
 //一些資料以位元組數組的形式存在。
 //請改用正確的 XML 和架構。
@@ -137,7 +137,7 @@ wb.CustomXmlParts.Add(btsData, btsSchema);
 wb.CustomXmlParts.Add(btsData, btsSchema);
 wb.CustomXmlParts.Add(btsData, btsSchema);
 ```
-此程式碼片段將四個相同的自訂 XML 部分新增至工作簿。您可以根據您的要求對此進行自訂。
+此程式碼片段會為工作簿新增四個相同的自訂 XML 部分。您可以根據您的要求對此進行自訂。
 ## 步驟 4：為自訂 XML 部件指派 ID
 現在我們已經新增了 XML 部分，讓我們為每個部分指定一個唯一的識別碼。該 ID 將幫助我們稍後檢索 XML 部分。
 ```csharp

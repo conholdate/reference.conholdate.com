@@ -49,7 +49,7 @@ Scene scene = new Scene("path_to_your_scene/VirtualCity.glb");
 
 ## ステップ2: カメラとライトをセットアップする
 
-3D シーンを正しくキャプチャするには、カメラと適切な照明を設定する必要があります。カメラを使用するとシーンの視点を制御でき、照明を使用するとオブジェクトを照らすことができます。
+3D シーンを正しくキャプチャするには、カメラと適切な照明を設定する必要があります。カメラを使用するとシーンの視点を制御でき、照明はオブジェクトを照らすのに役立ちます。
 
 ```csharp
 Camera cam = new Camera(ProjectionType.Perspective)

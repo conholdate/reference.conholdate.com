@@ -44,4 +44,4 @@ url: /zh-hant/net/tutorials/cells/mastering-worksheet-page-setup-features/
 ### [使用 Aspose.Cells 在工作表中實現邊距](./implement-margins-in-worksheet/)
 了解如何使用 .NET 的 Aspose.Cells 函式庫設定邊距來增強 Excel 電子表格。本逐步教程簡化了流程，使您的資料演示看起來專業且精美。
 ### [在工作表中實施頁面順序設定](./implement-page-order-settings/)
-了解如何使用 Aspose.Cells for .NET 在 Excel 中設定頁面順序設定。本逐步指南示範如何先跨行列印，然後向下列印列，確保大型電子表格整齊地顯示在紙上。
+了解如何使用 Aspose.Cells for .NET 在 Excel 中設定頁面順序設定。本逐步指南示範如何先跨行列印，然後再向下列列印，確保大型電子表格整齊地顯示在紙上。

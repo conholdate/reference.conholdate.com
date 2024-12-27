@@ -15,7 +15,7 @@ In der heutigen digitalen Landschaft ist die elektronische Signatur von Dokument
 
 Bevor wir beginnen, stellen Sie sicher, dass Sie über Folgendes verfügen:
 
-1.  GroupDocs.Signature für .NET: Laden Sie die Bibliothek herunter und installieren Sie sie von[Hier](https://releases.groupdocs.com/signature/net/).
+1. GroupDocs.Signature für .NET: Laden Sie die Bibliothek herunter und installieren Sie sie von[Hier](https://releases.groupdocs.com/signature/net/).
 2. Entwicklungsumgebung: Richten Sie Ihre .NET-Entwicklungsumgebung ein.
 3. Dokument: Bereiten Sie das Dokument vor, das Sie unterzeichnen möchten (z. B. PDF, Word).
 
@@ -56,7 +56,7 @@ Konfigurieren Sie die Optionen für Ihre Textsignatur, einschließlich Inhalt, P
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, //X-Position
+    Left = 50, // X-Position
     Top = 200, // Y-Position
     Width = 100, // Breite der Signatur
     Height = 30, // Höhe der Signatur

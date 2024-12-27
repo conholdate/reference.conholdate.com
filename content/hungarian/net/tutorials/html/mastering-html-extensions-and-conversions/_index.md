@@ -24,7 +24,7 @@ Szeretett volna egy HTML-dokumentumot gyorsan GIF formátumba konvertálni? Kön
 ## HTML konvertálása PDF-be
 Most beszéljünk a HTML konvertálásáról PDF-be. Egy olyan korban, amikor a dokumentációnak bemutathatónak és könnyen megoszthatónak kell lennie, a PDF-ek elengedhetetlenek. Az Aspose.HTML for .NET ezt az átalakítást zökkenőmentessé és hatékonysá teszi. 
 
-1. Töltse be HTML-dokumentumát: Csakúgy, mint a GIF-ek esetében, először töltse be HTML-fájlját az Aspose.HTML környezetbe.
+1. Töltse be HTML-dokumentumát: Csakúgy, mint a GIF-ek esetében, először töltse be a HTML-fájlt az Aspose.HTML környezetbe.
 2. PDF-beállítások megadása: Módosíthatja a beállításokat, például az oldalméretet, a margókat és a tájolást, hogy biztosítsa a PDF-fájl megfelelő megjelenését.
 3. Közvetlen exportálás: Egy egyszerű paranccsal exportálhatja HTML-jét PDF formátumban. 
 

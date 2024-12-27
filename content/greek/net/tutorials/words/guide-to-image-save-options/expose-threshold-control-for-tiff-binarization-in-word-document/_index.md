@@ -97,4 +97,4 @@ doc.Save(dataDir + "OutputImage.tiff", saveOptions);
 Το Aspose.Words για .NET είναι μια εμπορική βιβλιοθήκη, αλλά μπορείτε να δοκιμάσετε μια δωρεάν δοκιμή ή να αποκτήσετε μια προσωρινή άδεια για αξιολόγηση.
 
 ### Πού μπορώ να βρω περισσότερα έγγραφα;  
- Μπορείτε να βρείτε εκτενή τεκμηρίωση για το Aspose.Words για .NET στο[Aspose ιστότοπο](https://reference.aspose.com/words/net/).
+ Μπορείτε να βρείτε εκτενή τεκμηρίωση για το Aspose.Words για .NET στο[Aspose website](https://reference.aspose.com/words/net/).

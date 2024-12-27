@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/pdf/master-licensing/configureing-metered-license-ke
 
 在我們開始之前，請確保您具備以下條件：
 
-1.  Aspose.PDF for .NET：從下列位置下載並安裝最新版本[下載頁面](https://releases.aspose.com/pdf/net/).
+1.  Aspose.PDF for .NET：從以下位置下載並安裝最新版本[下載頁面](https://releases.aspose.com/pdf/net/).
 2. 有效的計量許可證金鑰：取得您的計量公鑰和私鑰。如果您還沒有，請申請臨時許可證[這裡](https://purchase.aspose.com/temporary-license/).
 3. 開發環境：設定 Visual Studio 或其他相容的 .NET 開發環境。
 4. 範例 PDF 文件：準備一個可用於測試配置的 PDF 文件。

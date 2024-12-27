@@ -56,7 +56,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
-## 步驟 2：從文件中刪除個人訊息
+## 步驟 2：從文件中刪除個人資訊
 
 ### 2.1 啟用刪除個人資訊功能
 

@@ -59,7 +59,7 @@ Console.WriteLine("Files have been successfully compressed into archive.cpio!");
   
 -  Metoda zapisu: Zapisuje archiwum w określonej ścieżce, w tym przypadku jako`archive.cpio` w katalogu dokumentów.
   
-- Komunikat o powodzeniu: Po zakończeniu procesu kompresji zostanie wyświetlony komunikat potwierdzający pomyślne utworzenie archiwum.
+- Komunikat o powodzeniu: Po zakończeniu procesu kompresji wyświetlany jest komunikat potwierdzający pomyślne utworzenie archiwum.
 
 ## Wniosek
 

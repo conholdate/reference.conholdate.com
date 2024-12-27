@@ -39,7 +39,7 @@ using Aspose.Words.Vba;
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 ```
 
-將佔位符替換為您的實際路徑`.docm`文件被儲存。
+將佔位符替換為您所在的實際路徑`.docm`文件被儲存。
 
 ## 步驟2：載入Word文檔
 

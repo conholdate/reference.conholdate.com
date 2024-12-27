@@ -25,7 +25,7 @@ url: /ja/net/tutorials/words/advanced-ai-document-processing/mastering-document-
 
 ## プロジェクト環境の設定
 
-Visual Studio でコンソール アプリケーションを作成して構成し、ドキュメントの要約を実行する手順について説明します。
+ドキュメントの要約を実行するために Visual Studio でコンソール アプリケーションを作成および構成する手順について説明します。
 
 ### 新しいコンソールアプリケーションを作成する
 

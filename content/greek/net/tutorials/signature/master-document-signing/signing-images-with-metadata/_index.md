@@ -49,7 +49,7 @@ using (Signature signature = new Signature(filePath))
     ushort imgsMetadataId = 41996; // Αναγνωριστικό εκκίνησης για μεταδεδομένα
     MetadataSignOptions options = new MetadataSignOptions();
 
-    //Προσθέστε διάφορους τύπους υπογραφών μεταδεδομένων
+    // Προσθέστε διάφορους τύπους υπογραφών μεταδεδομένων
     options
         .Add(new ImageMetadataSignature(imgsMetadataId++, "Mr. Sherlock Holmes")) // Τιμή συμβολοσειράς
         .Add(new ImageMetadataSignature(imgsMetadataId++, DateTime.Now))          // Τιμή DateTime

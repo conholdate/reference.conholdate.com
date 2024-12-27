@@ -21,7 +21,7 @@ url: /el/net/tutorials/pdf/master-pdf-page-management/concatenating-pdf-files/
 
 ### Aspose.PDF Library
 
- Στη συνέχεια, πραγματοποιήστε λήψη της βιβλιοθήκης Aspose.PDF, η οποία σας επιτρέπει να δημιουργείτε, να χειρίζεστε και να μετατρέπετε αρχεία PDF απρόσκοπτα. Μπορείτε να το βρείτε στο[Aspose ιστότοπο](https://releases.aspose.com/pdf/net/).
+ Στη συνέχεια, πραγματοποιήστε λήψη της βιβλιοθήκης Aspose.PDF, η οποία σας επιτρέπει να δημιουργείτε, να χειρίζεστε και να μετατρέπετε αρχεία PDF απρόσκοπτα. Μπορείτε να το βρείτε στο[Aspose website](https://releases.aspose.com/pdf/net/).
 
 ### Αναπτυξιακό Περιβάλλον
 

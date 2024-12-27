@@ -61,7 +61,7 @@ using (FileStream stream = new FileStream(Path.Combine(dataDir, "DrawingArc_out.
 
 ## Paso 2: Inicializar el contexto gráfico
 
-continuación, inicializamos el contexto gráfico para manipular la imagen:
+A continuación, inicializamos el contexto gráfico para manipular la imagen:
 
 ```csharp
         // Inicializar el objeto Gráficos y establecer un color de fondo

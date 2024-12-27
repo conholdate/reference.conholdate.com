@@ -21,7 +21,7 @@ url: /zh/net/tutorials/cells/mastering-error-handling-and-customization/
 
 想象一下：您正在转换包含数千行的 Excel 文件，但一个令人讨厌的错误毁了您的一天。令人沮丧，对吧？使用 Aspose.Cells for .NET，您可以绕过这些烦人的错误并专注于获得完美的 PDF。  
 
-本教程将介绍如何自定义错误处理，确保转换过程顺畅无比。您还可以找到代码片段，轻松将这些功能集成到您的项目中。想了解其中的窍门吗？[点击这里](./guide-ignore-errors-in-excel/).  
+本教程将介绍如何自定义错误处理，确保转换过程顺利进行。您还可以找到代码片段，轻松将这些功能集成到您的项目中。想了解其中的窍门吗？[点击这里](./guide-ignore-errors-in-excel/).  
 
 ## 掌握 Aspose.Cells 教程中的错误处理和自定义
 ### [使用 Aspose.Cells 将 Excel 中的 Office 插件渲染为 PDF 格式](./render-office-add-ins-in-excel-to-pdf-format/)

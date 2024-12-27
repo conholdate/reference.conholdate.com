@@ -16,7 +16,7 @@ W szybko rozwijającym się świecie rozwoju .NET Aspose.PSD wyłania się jako 
 Zanim przejdziemy do konkretów, upewnij się, że masz następujące ustawienia:
 
 1. Visual Studio: Upewnij się, że na Twoim komputerze jest zainstalowany program Visual Studio.
-2.  Aspose.PSD dla .NET: Pobierz i zainstaluj bibliotekę Aspose.PSD. Możesz znaleźć najnowszą wersję[Tutaj](https://releases.aspose.com/psd/net/).
+2. Aspose.PSD dla .NET: Pobierz i zainstaluj bibliotekę Aspose.PSD. Możesz znaleźć najnowszą wersję[Tutaj](https://releases.aspose.com/psd/net/).
 3. Przykładowy plik PSD: Pobierz przykładowy plik PSD do testowania. Jeśli go nie masz, dowolny plik PSD wystarczy do celów demonstracyjnych.
 4. Katalog dokumentów: Utwórz katalog w swoim projekcie, w którym będziesz zapisywać obrazy, i zanotuj ścieżkę do niego, aby móc z niego skorzystać później.
 
@@ -89,10 +89,10 @@ Gratulacje! Udało Ci się nauczyć, jak zapisywać obrazy do strumienia za pomo
 ## Najczęściej zadawane pytania
 
 ### Czy mogę używać Aspose.PSD z dowolnym typem pliku graficznego?
-Tak! Aspose.PSD obsługuje różne formaty obrazów, w tym PSD, PNG, JPEG i inne. Aby uzyskać szczegółową listę, sprawdź dokumentację[Tutaj](https://reference.aspose.com/psd/net/).
+ Tak! Aspose.PSD obsługuje różne formaty obrazów, w tym PSD, PNG, JPEG i inne. Aby uzyskać szczegółową listę, sprawdź dokumentację[Tutaj](https://reference.aspose.com/psd/net/).
 
 ### Jak uzyskać pomoc dotyczącą Aspose.PSD?
- Aby uzyskać pomoc i wsparcie społeczności, odwiedź forum pomocy Aspose.PSD[Tutaj](https://forum.aspose.com/c/psd/34).
+Aby uzyskać pomoc i wsparcie społeczności, odwiedź forum pomocy Aspose.PSD[Tutaj](https://forum.aspose.com/c/psd/34).
 
 ### Czy jest dostępna bezpłatna wersja próbna?
  Oczywiście! Możesz pobrać bezpłatną wersję próbną[Tutaj](https://releases.aspose.com/) aby zapoznać się z funkcjami Aspose.PSD przed podjęciem decyzji o zakupie.

@@ -1,6 +1,6 @@
 ---
-title: 在 .NET 中使用 Aspose.Words 附加部分文字內容
-linktitle: 在 .NET 中使用 Aspose.Words 附加部分文字內容
+title: 在 .NET 中使用 Aspose.Words 附加部分 Word 內容
+linktitle: 在 .NET 中使用 Aspose.Words 附加部分 Word 內容
 second_title: Aspose.Words 文件處理 API
 description: 透過易於理解的範例了解在 Word 文件中建立、修改和附加部分的基礎知識，非常適合初學者和經驗豐富的開發人員。
 type: docs
@@ -114,7 +114,7 @@ Aspose.Words for .NET 是一個功能強大的程式庫，使開發人員能夠�
 
 ### Aspose.Words for .NET 的主要功能是什麼？
 
- Aspose.Words for .NET 提供各種功能，包括文件建立、格式化、轉換和操作。如需完整列表，請查看[API文件](https://reference.aspose.com/words/net/).
+Aspose.Words for .NET 提供各種功能，包括文件建立、格式化、轉換和操作。如需完整列表，請查看[API文件](https://reference.aspose.com/words/net/).
 
 ### 如何獲得 Aspose.Words for .NET 支援？
 

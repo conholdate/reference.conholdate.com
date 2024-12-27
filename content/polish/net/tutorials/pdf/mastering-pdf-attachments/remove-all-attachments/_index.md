@@ -95,7 +95,7 @@ To oświadczenie potwierdza, że załączniki zostały usunięte i wskazuje miej
 
 ## Wniosek
 
-Gratulacje! Właśnie nauczyłeś się, jak usuwać wszystkie załączniki z pliku PDF za pomocą Aspose.PDF dla .NET. Dzięki tej wiedzy możesz teraz skuteczniej zarządzać dokumentami PDF, zarówno do użytku osobistego, jak i zawodowego.
+Gratulacje! Właśnie nauczyłeś się, jak usuwać wszystkie załączniki z pliku PDF za pomocą Aspose.PDF dla .NET. Dzięki tej wiedzy możesz teraz skuteczniej zarządzać swoimi dokumentami PDF, zarówno do użytku osobistego, jak i zawodowego.
 
 ## Najczęściej zadawane pytania
 

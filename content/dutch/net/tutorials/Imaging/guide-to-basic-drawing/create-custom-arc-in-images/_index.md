@@ -105,7 +105,7 @@ De afbeelding is nu opgeslagen met de getekende boog.
 
 ## Conclusie
 
-hebt met succes een eenvoudige toepassing gemaakt die een boog in een afbeelding tekent met Aspose.Imaging voor .NET. Met slechts een paar stappen kunt u nu bogen en andere vormen implementeren, waarmee u een creatieve flair toevoegt aan uw beeldverwerkingstaken.
+U hebt met succes een eenvoudige toepassing gemaakt die een boog in een afbeelding tekent met Aspose.Imaging voor .NET. Met slechts een paar stappen kunt u nu bogen en andere vormen implementeren, waarmee u een creatieve flair toevoegt aan uw beeldverwerkingstaken.
 
 ## Veelgestelde vragen
 

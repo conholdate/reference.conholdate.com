@@ -9,13 +9,13 @@ url: /pl/net/tutorials/signature/master-advanced-sign-techniques/add-text-signat
 ---
 ## Wstęp
 
-dzisiejszym cyfrowym krajobrazie elektroniczne podpisywanie dokumentów stało się niezbędne do usprawnienia przepływów pracy i oszczędzania zasobów. GroupDocs.Signature for .NET zapewnia potężne rozwiązanie do programowego dodawania podpisów tekstowych do różnych formatów dokumentów. Ten samouczek przeprowadzi Cię przez kroki podpisywania dokumentu tekstem za pomocą GroupDocs.Signature for .NET.
+W dzisiejszym cyfrowym krajobrazie elektroniczne podpisywanie dokumentów stało się niezbędne do usprawnienia przepływów pracy i oszczędzania zasobów. GroupDocs.Signature for .NET zapewnia potężne rozwiązanie do programowego dodawania podpisów tekstowych do różnych formatów dokumentów. Ten samouczek przeprowadzi Cię przez kroki podpisywania dokumentu tekstem za pomocą GroupDocs.Signature for .NET.
 
 ## Wymagania wstępne
 
 Zanim zaczniemy, upewnij się, że masz następujące rzeczy:
 
-1.  GroupDocs.Signature dla .NET: Pobierz i zainstaluj bibliotekę z[Tutaj](https://releases.groupdocs.com/signature/net/).
+1. GroupDocs.Signature dla .NET: Pobierz i zainstaluj bibliotekę z[Tutaj](https://releases.groupdocs.com/signature/net/).
 2. Środowisko programistyczne: Skonfiguruj środowisko programistyczne .NET.
 3. Dokument: Przygotuj dokument, który chcesz podpisać (np. PDF, Word).
 
@@ -56,7 +56,7 @@ Skonfiguruj opcje podpisu tekstowego, w tym jego zawartość, położenie, rozmi
 ```csharp
 TextSignOptions options = new TextSignOptions("John Smith")
 {
-    Left = 50, //Pozycja X
+    Left = 50, // Pozycja X
     Top = 200, // Pozycja Y
     Width = 100, // Szerokość podpisu
     Height = 30, // Wysokość podpisu
@@ -79,7 +79,7 @@ using (Signature signature = new Signature(filePath))
 
 ## Wniosek
 
-W tym samouczku pokazaliśmy, jak programowo dodać podpis tekstowy do dokumentu przy użyciu GroupDocs.Signature dla .NET. Postępując zgodnie z tymi krokami, możesz skutecznie zwiększyć bezpieczeństwo i autentyczność swoich dokumentów.
+tym samouczku pokazaliśmy, jak programowo dodać podpis tekstowy do dokumentu przy użyciu GroupDocs.Signature dla .NET. Postępując zgodnie z tymi krokami, możesz skutecznie zwiększyć bezpieczeństwo i autentyczność swoich dokumentów.
 
 ## Najczęściej zadawane pytania
 

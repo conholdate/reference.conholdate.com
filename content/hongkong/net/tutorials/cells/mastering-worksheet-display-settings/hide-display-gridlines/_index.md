@@ -31,7 +31,7 @@ url: /zh-hant/net/tutorials/cells/mastering-worksheet-display-settings/hide-disp
 
 ## 導入必要的庫
 
-若要使用 Aspose.Cells 與 Excel 檔案交互，必須先匯入相關的命名空間。具體做法如下：
+若要使用 Aspose.Cells 與 Excel 檔案交互，必須先匯入相關的命名空間。操作方法如下：
 
 ```csharp
 using System.IO;

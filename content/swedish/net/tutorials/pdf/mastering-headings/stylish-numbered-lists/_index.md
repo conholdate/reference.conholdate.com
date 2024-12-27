@@ -55,7 +55,7 @@ Därefter lägger vi till en tom sida i PDF-dokumentet, där vi senare kommer at
 ```csharp
 // Lägg till en ny sida i PDF-dokumentet
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //Använd samma inställningar som dokumentet
+pdfPage.PageInfo = pdfDoc.PageInfo; // Använd samma inställningar som dokumentet
 ```
 
 ## Steg 3: Skapa en flytande låda
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //Använd samma inställningar som dokumente
 En FloatingBox låter dig placera innehåll oberoende av sidans flöde, vilket ger dig större kontroll över din layout.
 
 ```csharp
-// Skapa en FloatingBox för strukturerat innehåll
+//Skapa en FloatingBox för strukturerat innehåll
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin
@@ -71,7 +71,7 @@ Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 pdfPage.Paragraphs.Add(floatBox);
 ```
 
-## Steg 4: Lägga till rubriker med romerska siffror
+## Steg 4: Lägg till rubriker med romerska siffror
 
 Låt oss nu lägga till vår första rubrik med gemener romerska siffror.
 

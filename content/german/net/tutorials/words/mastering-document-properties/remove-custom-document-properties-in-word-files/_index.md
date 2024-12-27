@@ -46,14 +46,14 @@ Der erste Schritt beim Ändern eines Word-Dokuments besteht darin, es in Ihre An
 
 ### Schritt 1: Definieren Sie den Dateipfad
 
-Sie müssen den Dateipfad Ihres Word-Dokuments angeben. Für dieses Beispiel verwenden wir das Dokument`Properties.docx`.
+ Sie müssen den Dateipfad Ihres Word-Dokuments angeben. Für dieses Beispiel verwenden wir das Dokument`Properties.docx`.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 Document doc = new Document(dataDir + "Properties.docx");
 ```
 
- Stellen Sie sicher, dass Sie ersetzen`"YOUR DOCUMENT DIRECTORY"` durch das tatsächliche Verzeichnis, in dem Ihr Dokument gespeichert ist.
+ Stellen Sie sicher, dass Sie ersetzen`"YOUR DOCUMENT DIRECTORY"`durch das tatsächliche Verzeichnis, in dem Ihr Dokument gespeichert ist.
 
 ## Zugreifen auf und Entfernen von benutzerdefinierten Dokumenteigenschaften
 

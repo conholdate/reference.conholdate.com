@@ -9,7 +9,7 @@ url: /sv/net/tutorials/signature/master-advanced-sign-techniques/sign-documents-
 ---
 ## Introduktion
 
-den här handledningen kommer du att lära dig hur du använder GroupDocs.Signature för .NET för att signera dokument med bilder. Dokumentsignering förbättrar äktheten och säkerheten för dina filer och säkerställer att de är manipuleringssäkra och juridiskt bindande. Genom att integrera dokumentsigneringsfunktioner i dina .NET-applikationer kan du effektivisera dina arbetsflöden avsevärt.
+I den här handledningen kommer du att lära dig hur du använder GroupDocs.Signature för .NET för att signera dokument med bilder. Dokumentsignering förbättrar äktheten och säkerheten för dina filer och säkerställer att de är manipuleringssäkra och juridiskt bindande. Genom att integrera dokumentsigneringsfunktioner i dina .NET-applikationer kan du effektivisera dina arbetsflöden avsevärt.
 
 ## Förutsättningar
 
@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Steg 4: Initiera signaturobjektet
 
- Skapa en instans av`Signature`klass, passerar i dokumentets sökväg:
+ Skapa en instans av`Signature` klass, passerar i dokumentets sökväg:
 
 ```csharp
 using (Signature signature = new Signature(filePath))

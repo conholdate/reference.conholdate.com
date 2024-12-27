@@ -17,7 +17,7 @@ url: /zh-hant/net/tutorials/page/master-page-manipulation/
 
 ### 以程式設計方式將頁面新增至 XPS 文檔
 
-接下來，我們討論如何在 XPS 文件中新增頁面。 XPS（即 XML 紙張規格）可能有點棘手，但 Aspose.Page 讓它變得輕而易舉。我們的教程涵蓋了從先決條件到詳細程式碼片段的所有內容。將其視為掌握 XPS 操作的一體化指南。到最後，您不僅可以輕鬆添加頁面，而且還將了解 XPS 文件的內部工作原理。您是否曾因格式問題或頁面佈局而苦惱？本指南可以滿足您的需求！想深入了解嗎？[在這裡閱讀更多內容](./adding-page-to-xps-document/).
+接下來，我們討論如何在 XPS 文件中新增頁面。 XPS（即 XML 紙張規格）可能有點棘手，但 Aspose.Page 讓它變得輕而易舉。我們的教程涵蓋了從先決條件到詳細程式碼片段的所有內容。將其視為掌握 XPS 操作的一體化指南。到最後，您不僅可以輕鬆添加頁面，而且還將了解 XPS 文件的內部工作原理。您是否曾因格式問題或頁面佈局而苦惱？本指南可以滿足您的需求！想要深入了解嗎？[在這裡閱讀更多內容](./adding-page-to-xps-document/).
 
 ## 母版頁操作教程
 ### [使用 Aspose.Page for .NET 將頁面新增至 PostScript 文檔](./add-page-to-postscript-document/)

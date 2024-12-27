@@ -35,7 +35,7 @@ Te przestrzenie nazw zapewniają dostęp do klas i metod, których będziemy uż
 
 Najpierw najważniejsze — utwórzmy nowy dokument Word. Będzie to nasze puste płótno do dodawania pól tekstowych i wykonywania różnych operacji.
 
-Aby zainicjować nowy dokument programu Word, użyj następującego wiersza kodu:
+Aby zainicjować nowy dokument Word, użyj następującego wiersza kodu:
 
 ```csharp
 Document doc = new Document();

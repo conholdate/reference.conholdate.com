@@ -17,7 +17,7 @@ url: /ko/net/tutorials/email/guide-to-email-processing-and-analysis/bayesian-spa
 
 1. Visual Studio: C# 프로젝트를 작성하고 관리할 수 있는 통합 개발 환경(IDE)입니다.
 2. .NET Framework 또는 .NET Core: C# 애플리케이션을 실행하는 데 필수적이므로 이 중 하나가 설치되어 있는지 확인하세요.
-3. .NET용 Aspose.Email: 이 강력한 라이브러리는 이메일 작업을 처리하는 데 도움이 됩니다. 라이브러리는 다음에서 다운로드할 수 있습니다.[여기](https://releases.aspose.com/email/net/) 또는 무료 체험판으로 시작하세요[이 링크](https://releases.aspose.com/).
+3.  .NET용 Aspose.Email: 이 강력한 라이브러리는 이메일 작업을 처리하는 데 도움이 됩니다. 라이브러리는 다음에서 다운로드할 수 있습니다.[여기](https://releases.aspose.com/email/net/) 또는 무료 체험판으로 시작하세요[이 링크](https://releases.aspose.com/).
 4. C#에 대한 기본 지식: C# 프로그래밍 언어에 익숙하다면 이 튜토리얼을 더 쉽게 따라갈 수 있습니다.
 
 이러한 전제 조건을 갖추면 이제 코드를 살펴볼 준비가 된 것입니다!
@@ -44,7 +44,7 @@ using Aspose.Email.Spam;
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- 그만큼`Load`방법은 분석하려는 이메일의 파일 경로를 사용합니다. 이 파일은 EML 형식이어야 합니다. EML 형식이 없으면 간단한 이메일을 만들어서 저장하세요.`email.eml`.
+ 그만큼`Load` 방법은 분석하려는 이메일의 파일 경로를 사용합니다. 이 파일은 EML 형식이어야 합니다. EML 형식이 없으면 간단한 이메일을 만들어서 저장하세요.`email.eml`.
 
 ## 2단계: 스팸 분석기 만들기
 
@@ -97,7 +97,7 @@ double spamProbability = spamAnalyzer.Test(message);
 bool isSpam = spamProbability > 0.5;
 ```
 
- 그만큼`Test` 이 방법은 이메일이 스팸일 가능성이 얼마나 되는지 보여주는 확률 값을 반환합니다. 이 값이 0.5보다 크면 스팸으로 간주합니다.
+ 그만큼`Test`이 방법은 이메일이 스팸일 가능성이 얼마나 되는지 보여주는 확률 값을 반환합니다. 이 값이 0.5보다 크면 스팸으로 간주합니다.
 
 ## 7단계: 결과 표시
 

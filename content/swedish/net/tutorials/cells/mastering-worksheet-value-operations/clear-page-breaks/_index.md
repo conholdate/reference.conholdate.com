@@ -62,7 +62,7 @@ workbook.Worksheets[0].HorizontalPageBreaks.Clear();
 workbook.Worksheets[0].VerticalPageBreaks.Clear();
 ```
 
-- `workbook.Worksheets[0]` riktar sig mot det första kalkylbladet.
+- `workbook.Worksheets[0]` riktar sig till det första kalkylbladet.
 - `HorizontalPageBreaks.Clear()` tar bort alla horisontella sidbrytningar.
 - `VerticalPageBreaks.Clear()` tar bort alla vertikala sidbrytningar.
 

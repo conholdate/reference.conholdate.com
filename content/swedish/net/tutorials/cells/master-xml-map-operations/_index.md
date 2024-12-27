@@ -24,6 +24,6 @@ Om du någonsin har kämpat med att hantera XML-data i Excel, är du på rätt p
 ### [Hitta rotelementnamn från XML-karta med Aspose.Cells](./find-root-element-name-from-xml-map/)
 Upptäck hur du effektivt hämtar rotelementnamnet för en XML-karta inbäddad i en Excel-fil med Aspose.Cells för .NET. Denna steg-för-steg guide leder dig genom att ladda ditt Excel-dokument.
 ### [Hämta XML-sökväg från List Object Table med Aspose.Cells](./retrieve-xml-path-from-list-object-table/)
-Lär dig hur du hämtar XML-sökvägen från en listobjekttabell i ett Excel-kalkylblad med Aspose.Cells för .NET. Den här omfattande guiden täcker varje steg.
+Lär dig hur du hämtar XML-sökvägen från en listobjekttabell i ett Excel-kalkylblad med Aspose.Cells för .NET. Denna omfattande guide täcker varje steg.
 ### [Fråga cellområden mappade till XML Data Map Path med Aspose.Cells](./query-cell-areas-mapped-to-xml-data-map-path/)
 Upptäck hur du sömlöst arbetar med XML-data i Excel med Aspose.Cells för .NET. Denna omfattande handledning guidar dig genom processen att fråga efter cellområden som är mappade till XML-sökvägar, så att du enkelt kan automatisera datautvinning och skapa dynamiska rapporter.

@@ -60,7 +60,7 @@ string htmlBody = message.HtmlBody;
 
  Bằng cách truy cập vào`HtmlBody` tài sản của`MailMessage` đối tượng, nội dung HTML hiện được lưu trữ trong một biến chuỗi có tên`htmlBody`.
 
-### Bước 3: Chuẩn bị chuyển đổi HTML sang văn bản thuần túy
+## Bước 3: Chuẩn bị chuyển đổi HTML sang văn bản thuần túy
 
 Bây giờ chúng ta đã có nội dung HTML, đã đến lúc thiết lập giai đoạn chuyển đổi. Chúng ta sẽ sử dụng Aspose.Words để chuyển đổi HTML phong phú của mình thành văn bản thuần túy. Nhưng trước tiên, chúng ta cần tạo một tài liệu mới:
 
@@ -71,7 +71,7 @@ doc.RemoveAllChildren();
 
  Điều này tạo ra một khoảng trống mới`Document`. Chúng tôi xóa mọi nút con hiện có để đảm bảo có một bảng sạch trước khi bắt đầu chèn nội dung HTML.
 
-### Bước 4: Chèn nội dung HTML
+## Bước 4: Chèn nội dung HTML
 
  Đây là nơi phép thuật chuyển đổi xảy ra! Chúng ta sẽ sử dụng`DocumentBuilder` lớp từ Aspose.Words để chèn nội dung HTML của chúng ta vào tài liệu. 
 
@@ -81,7 +81,7 @@ doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFo
 
  Đây,`DocumentBuilder().InsertHtml(htmlBody)` lấy chuỗi HTML của chúng tôi và tải nó vào một cấu trúc tài liệu mới bên trong`Document` đối tượng. Sử dụng`ImportFormatMode.KeepSourceFormatting` đảm bảo định dạng vẫn được giữ nguyên trong quá trình thực hiện.
 
-### Bước 5: Lưu tệp văn bản thuần túy
+## Bước 5: Lưu tệp văn bản thuần túy
 
 Cuối cùng, đã đến lúc lưu tệp văn bản thuần túy mới tạo của chúng ta. Sau đây là cách thực hiện:
 

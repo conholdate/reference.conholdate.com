@@ -173,7 +173,7 @@ Konvertera enkelt filer till PDF med GroupDocs.Conversion för .NET. Effektivise
 {{% /alert %}}
 
 ### GroupDocs.Conversion Tutorials
-- [Instruktioner för GroupDocs.Conversion för .NET](./conversion/)
+- [GroupDocs.Conversion för .NET självstudier](./conversion/)
 
 ## GroupDocs.Comparison
 {{% alert color="primary" %}}
@@ -188,7 +188,7 @@ Upptäck omfattande självstudier för GroupDocs.Comparison för .NET, vilket un
 Lås upp den fulla potentialen hos GroupDocs.Annotation för .NET med våra tutorials. Integrera sömlöst, förbättra samarbetet och effektivisera arbetsflöden.
 {{% /alert %}}
 
-### GroupDocs.Annotation Tutorials
+### Handledningar för GroupDocs.Annotation
 - [GroupDocs.Annotation för .NET Tutorials](./annotation/)
 
 ## GroupDocs.Signature

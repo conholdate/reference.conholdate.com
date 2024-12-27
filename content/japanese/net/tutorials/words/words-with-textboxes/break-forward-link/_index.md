@@ -113,6 +113,6 @@ textBox.Previous?.BreakForwardLink();
 
 はい、特にテキスト ボックスが特定のシーケンスまたはフローに従うように設計されている場合、リンクが壊れるとレイアウトに影響する可能性があります。
 
-### Aspose.Words の操作に関する詳細なリソースはどこで見つかりますか?
+### Aspose.Words の使用に関する詳細なリソースはどこで見つかりますか?
 
 詳しい情報とリソースについては、[Aspose.Words ドキュメント](https://reference.aspose.com/words/net/)そして[サポートフォーラム](https://forum.aspose.com/c/words/8).

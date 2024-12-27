@@ -54,7 +54,7 @@ Lassen Sie uns den Prozess der Erstellung lokaler Hyperlinks in einfache Schritt
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Legen Sie Ihr Dokumentverzeichnis fest
-Document doc = new Document(); //Dokumentinstanz erstellen
+Document doc = new Document(); // Dokumentinstanz erstellen
 ```
 
  Ersetzen`"YOUR_DOCUMENT_DIRECTORY"` durch den tatsächlichen Pfad auf Ihrem System, wo die PDF-Datei gespeichert wird.

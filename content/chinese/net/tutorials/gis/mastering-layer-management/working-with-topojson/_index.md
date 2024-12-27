@@ -142,4 +142,4 @@ TopoJSON 是 GeoJSON 的扩展，它对拓扑进行编码，从而改善文件�
 可在其上获得支持[论坛](https://forum.aspose.com/c/gis/33/).
 
 ### 如何获得 Aspose.GIS 的临时许可证？
-您可以申请临时执照[这里](https://purchase.conholdate.com/temporary-license/).
+您可以申请临时驾照[这里](https://purchase.conholdate.com/temporary-license/).

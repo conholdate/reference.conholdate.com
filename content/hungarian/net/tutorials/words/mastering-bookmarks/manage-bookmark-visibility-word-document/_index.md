@@ -2,7 +2,7 @@
 title: A könyvjelzők láthatóságának kezelése a Word-dokumentumokban
 linktitle: A könyvjelzők láthatóságának kezelése a Word-dokumentumokban
 second_title: Aspose.Words Document Processing API
-description: Fedezze fel, hogyan szabályozhatja szakszerűen a Word-dokumentumok tartalmának láthatóságát az Aspose.Words for .NET segítségével. Ez a lépésről-lépésre útmutató.
+description: Fedezze fel, hogyan szabályozhatja szakszerűen a Word-dokumentumok tartalmának láthatóságát az Aspose.Words for .NET segítségével. Ez a lépésenkénti útmutató.
 type: docs
 weight: 10
 url: /hu/net/tutorials/words/mastering-bookmarks/manage-bookmark-visibility-word-document/

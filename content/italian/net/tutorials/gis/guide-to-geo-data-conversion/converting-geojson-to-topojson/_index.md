@@ -18,7 +18,7 @@ Prima di iniziare il processo di conversione, assicurarsi che siano soddisfatti 
 ### Installa Aspose.GIS per .NET
 
 -  Scarica la libreria: accedi all'ultima versione di Aspose.GIS per .NET da[pagina di rilascio](https://releases.aspose.com/gis/net/).
--  Installazione: seguire le istruzioni di installazione dettagliate fornite nel[documentazione](https://reference.aspose.com/gis/net/).
+- Installazione: seguire le istruzioni di installazione dettagliate fornite nel[documentazione](https://reference.aspose.com/gis/net/).
 
 ### Aggiungi spazi dei nomi richiesti
 

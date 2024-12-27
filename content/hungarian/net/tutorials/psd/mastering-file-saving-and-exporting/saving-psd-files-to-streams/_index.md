@@ -16,7 +16,7 @@ A .NET-fejlesztés gyors ütemű területén az Aspose.PSD felbecsülhetetlen é
 Mielőtt belemerülnénk, győződjön meg arról, hogy az alábbiakat beállította:
 
 1. Visual Studio: Győződjön meg arról, hogy a Visual Studio telepítve van a gépen.
-2.  Aspose.PSD for .NET: Töltse le és telepítse az Aspose.PSD könyvtárat. Megtalálhatja a legújabb verziót[itt](https://releases.aspose.com/psd/net/).
+2. Aspose.PSD for .NET: Töltse le és telepítse az Aspose.PSD könyvtárat. Megtalálhatja a legújabb verziót[itt](https://releases.aspose.com/psd/net/).
 3. Minta PSD-fájl: Szerezzen be egy minta PSD-fájlt teszteléshez. Ha nem rendelkezik ilyennel, bármelyik PSD-fájl megfelel a bemutatónak.
 4. Dokumentumkönyvtár: Hozzon létre egy könyvtárat a projektben a képek mentéséhez, és jegyezze fel az elérési utat későbbi használatra.
 
@@ -89,10 +89,10 @@ Gratulálok! Sikeresen megtanulta, hogyan menthet képeket adatfolyamba az Aspos
 ## GYIK
 
 ### Használhatom az Aspose.PSD-t bármilyen típusú képfájlhoz?
-Igen! Az Aspose.PSD különféle képformátumokat támogat, beleértve a PSD-t, PNG-t, JPEG-et stb. A részletes listát a dokumentációban találja[itt](https://reference.aspose.com/psd/net/).
+ Igen! Az Aspose.PSD különféle képformátumokat támogat, beleértve a PSD-t, PNG-t, JPEG-et stb. A részletes listát a dokumentációban találja[itt](https://reference.aspose.com/psd/net/).
 
 ### Hogyan kaphatok támogatást az Aspose.PSD-hez?
- Segítségért és közösségi támogatásért keresse fel az Aspose.PSD támogatási fórumot[itt](https://forum.aspose.com/c/psd/34).
+Segítségért és közösségi támogatásért keresse fel az Aspose.PSD támogatási fórumot[itt](https://forum.aspose.com/c/psd/34).
 
 ### Van ingyenes próbaverzió?
  Teljesen! Letölthet egy ingyenes próbaverziót[itt](https://releases.aspose.com/) hogy a vásárlás előtt fedezze fel az Aspose.PSD funkcióit.

@@ -17,7 +17,7 @@ Innan du dyker in i koden, se till att du har följande:
 
 1.  Visual Studio: Ladda ner den från[Visual Studio hemsida](https://visualstudio.microsoft.com/).
 2.  Aspose.PDF för .NET: Ladda ner biblioteket via[Aspose hemsida](https://releases.aspose.com/pdf/net/). Det här biblioteket tillhandahåller en rik uppsättning funktioner för PDF-manipulering.
-3. Grundläggande kunskaper om C#: Bekantskap med C#-programmering hjälper, men oroa dig inte; vi förklarar koden rad för rad.
+3. Grundläggande kunskaper om C#: Bekantskap med C#-programmering hjälper, men oroa dig inte; vi kommer att förklara koden rad för rad.
 4. .NET Framework: Se till att du har .NET Framework installerat på din dator. Kontrollera kraven på Aspose.PDF[dokumentation](https://reference.aspose.com/pdf/net/).
 
 Med dessa förutsättningar på plats är du redo att lära dig hur du skapar lokala hyperlänkar i dina PDF-dokument!
@@ -32,7 +32,7 @@ Nu när du är klar är det dags att importera de nödvändiga paketen till ditt
 
 ### Lägg till referens till Aspose.PDF
 
- Högerklicka på "Beroenden" i din projektmapp i Solution Explorer. Välj "Hantera NuGet-paket", sök efter`Aspose.PDF`, och installera den senaste tillgängliga versionen. Detta ger dig alla verktyg du behöver för att skapa och manipulera PDF-filer.
+ Högerklicka på "Beroenden" i din projektmapp i Solution Explorer. Välj "Hantera NuGet-paket", sök efter`Aspose.PDF`, och installera den senaste versionen. Detta ger dig alla verktyg du behöver för att skapa och manipulera PDF-filer.
 
 ### Importera namnområden
 
@@ -54,7 +54,7 @@ Låt oss dela upp processen att skapa lokala hyperlänkar i enkla steg.
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Ställ in din dokumentkatalog
-Document doc = new Document(); //Skapa dokumentinstans
+Document doc = new Document(); // Skapa dokumentinstans
 ```
 
  Ersätta`"YOUR_DOCUMENT_DIRECTORY"` med den faktiska sökvägen på ditt system där PDF:en kommer att sparas.

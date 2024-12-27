@@ -55,7 +55,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## 3. lépés: Alkalmazza a licencet  
 
- Használja a`SetLicense` módszere a`License` osztályt a licencfájl betöltéséhez.  
+ Használja a`SetLicense` módszere a`License`osztályt a licencfájl betöltéséhez.  
 
 ```csharp
 license.SetLicense(dataDir + "Aspose.Pdf.lic");

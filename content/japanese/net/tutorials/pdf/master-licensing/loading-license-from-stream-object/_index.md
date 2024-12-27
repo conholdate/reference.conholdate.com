@@ -24,7 +24,7 @@ Aspose.PDF for .NET のパワーをフルに活用する準備はできていま
 
 ## 新しい C# プロジェクトを作成する
 
-Visual Studio を開き、新しい C# コンソール アプリケーション プロジェクトを作成します。「AsposePDFLicenseLoader」など、わかりやすい名前を付けます。これが Aspose.PDF ライセンスを読み込むためのプレイグラウンドになります。
+Visual Studio を開き、新しい C# コンソール アプリケーション プロジェクトを作成します。「AsposePDFLicenseLoader」など、意味のある名前を付けます。これが Aspose.PDF ライセンスを読み込むためのプレイグラウンドになります。
 
 ## Aspose.PDF for .NET をインストールする
 

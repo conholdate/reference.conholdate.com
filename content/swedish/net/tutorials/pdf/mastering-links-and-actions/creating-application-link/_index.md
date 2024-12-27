@@ -99,7 +99,7 @@ document.Save(dataDir);
 
 ## Steg 8: Bekräfta operationen
 
-Ge feedback om den lyckade operationen:
+Ge feedback om den framgångsrika operationen:
 
 ```csharp
 Console.WriteLine("\nApplication link created successfully.\nFile saved at " + dataDir);

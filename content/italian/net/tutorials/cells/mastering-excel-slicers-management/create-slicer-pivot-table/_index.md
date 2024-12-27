@@ -9,7 +9,7 @@ url: /it/net/tutorials/cells/mastering-excel-slicers-management/creating-slicer-
 ---
 ## Introduzione
 
-Nel panorama basato sui dati odierno, le tabelle pivot sono essenziali per riassumere e analizzare grandi set di dati. Ma perché limitarsi a riepiloghi di base? Con gli slicer, puoi aggiungere interattività alle tue tabelle pivot, consentendo agli utenti di filtrare i dati senza sforzo, come avere un telecomando per i tuoi report Excel! In questa guida, ti guideremo attraverso i passaggi per creare uno slicer per una tabella pivot usando Aspose.Cells per .NET. Quindi, prendi il tuo caffè e iniziamo!
+Nell'attuale panorama basato sui dati, le tabelle pivot sono essenziali per riassumere e analizzare grandi set di dati. Ma perché limitarsi a riepiloghi di base? Con gli slicer, puoi aggiungere interattività alle tue tabelle pivot, consentendo agli utenti di filtrare i dati senza sforzo, come avere un telecomando per i tuoi report Excel! In questa guida, ti guideremo attraverso i passaggi per creare uno slicer per una tabella pivot usando Aspose.Cells per .NET. Quindi, prendi il tuo caffè e iniziamo!
 
 ## Prerequisiti
 
@@ -40,7 +40,7 @@ Per prima cosa, specifica i percorsi per i file di input e output:
 ```csharp
 // Elenco di origine
 string sourceDir = "Your Document Directory"; // Sostituisci con il percorso della directory di origine
-// Directory di uscita
+// Directory di output
 string outputDir = "Your Document Directory"; // Sostituisci con il percorso della directory di output
 ```
 

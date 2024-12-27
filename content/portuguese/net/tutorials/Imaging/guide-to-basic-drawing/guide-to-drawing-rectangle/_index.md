@@ -44,7 +44,7 @@ BmpOptions saveOptions = new BmpOptions()
     Source = new FileStream(dataDir, FileMode.Create)
 };
 
-// Crie a imagem
+//Crie a imagem
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
     // Prossiga desenhando na imagem
@@ -78,7 +78,7 @@ using (Graphics graphic = new Graphics(image))
 
 ## Etapa 4: Salve a imagem
 
- Salvar a imagem final é simples, como mostrado acima no`using` declaração onde`image.Save()`é chamado automaticamente quando o`using` blocos terminam.
+ Salvar a imagem final é simples, como mostrado acima no`using` declaração onde`image.Save()` é chamado automaticamente quando o`using` blocos terminam.
 
 ## Conclusão
 

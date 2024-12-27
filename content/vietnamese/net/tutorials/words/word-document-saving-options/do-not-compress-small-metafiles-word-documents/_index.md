@@ -57,7 +57,7 @@ builder.Writeln("Text added to a document.");
 
 ## Bước 3: Cấu hình tùy chọn lưu
 
- Bây giờ, hãy cấu hình các tùy chọn lưu để sử dụng tính năng "Không nén các tệp siêu dữ liệu nhỏ" với`DocSaveOptions`lớp học.
+ Bây giờ, hãy cấu hình các tùy chọn lưu để sử dụng tính năng "Không nén các tệp siêu dữ liệu nhỏ" với`DocSaveOptions` lớp học.
 
 ```csharp
 // Cấu hình tùy chọn lưu với tính năng "Không nén các tệp siêu dữ liệu nhỏ"

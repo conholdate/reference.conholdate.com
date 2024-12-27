@@ -82,4 +82,4 @@ Jakmile je sekce odebrána a dokument je uložen, nelze akci vrátit zpět. Vžd
 Absolutně! Aspose.Words podporuje různé formáty, včetně DOCX, PDF, HTML a dalších, což z něj činí všestranný nástroj pro správu dokumentů.
 
 ### Kde mohu vyhledat pomoc, pokud narazím na problémy?
- Pokud narazíte na problémy, komunita Aspose je skvělým zdrojem. Podporu můžete najít v[Aspose fórum](https://forum.aspose.com/c/words/8).
+ Pokud narazíte na problémy, komunita Aspose je skvělým zdrojem. Podporu najdete v[Aspose fórum](https://forum.aspose.com/c/words/8).

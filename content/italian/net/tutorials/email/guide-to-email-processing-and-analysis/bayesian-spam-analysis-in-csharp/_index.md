@@ -17,7 +17,7 @@ Prima di iniziare a implementare l'analisi bayesiana dello spam, assicurati di d
 
 1. Visual Studio: l'ambiente di sviluppo integrato (IDE) per scrivere e gestire i tuoi progetti C#.
 2. .NET Framework o .NET Core: assicurati di aver installato uno di questi due, poiché sono essenziali per l'esecuzione delle applicazioni C#.
-3. Aspose.Email per .NET: questa potente libreria ti aiuterà a gestire le operazioni di posta elettronica. Puoi scaricare la libreria da[Qui](https://releases.aspose.com/email/net/) o inizia con una prova gratuita da[questo collegamento](https://releases.aspose.com/).
+3.  Aspose.Email per .NET: questa potente libreria ti aiuterà a gestire le operazioni di posta elettronica. Puoi scaricare la libreria da[Qui](https://releases.aspose.com/email/net/) o inizia con una prova gratuita da[questo collegamento](https://releases.aspose.com/).
 4. Conoscenza di base di C#: la familiarità con il linguaggio di programmazione C# renderà più semplice seguire questo tutorial.
 
 Una volta soddisfatti questi prerequisiti, sei pronto per immergerti nel codice!
@@ -44,7 +44,7 @@ Ora, suddividiamo l'implementazione in passaggi chiari per assicurarci che tu po
 MailMessage message = MailMessage.Load("email.eml");
 ```
 
- IL`Load`method prende il percorso del file dell'email che vuoi analizzare. Questo file dovrebbe essere in formato EML. Se non ne hai uno, sentiti libero di creare una semplice email e salvarla come`email.eml`.
+ IL`Load` method prende il percorso del file dell'email che vuoi analizzare. Questo file dovrebbe essere in formato EML. Se non ne hai uno, sentiti libero di creare una semplice email e salvarla come`email.eml`.
 
 ## Passaggio 2: creare un analizzatore di spam
 
@@ -97,7 +97,7 @@ double spamProbability = spamAnalyzer.Test(message);
 bool isSpam = spamProbability > 0.5;
 ```
 
- IL`Test` restituirà un valore di probabilità che mostra quanto è probabile che l'email sia spam. Se questo valore è maggiore di 0,5, la consideriamo spam.
+ IL`Test`restituirà un valore di probabilità che mostra quanto è probabile che l'email sia spam. Se questo valore è maggiore di 0,5, la consideriamo spam.
 
 ## Passaggio 7: visualizzare il risultato
 

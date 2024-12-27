@@ -56,7 +56,7 @@ string outputFilePath = Path.Combine("Your Document Directory", "SignWithImage",
 
 ## Etapa 4: Inicializar o objeto de assinatura
 
- Crie uma instância do`Signature`classe, passando o caminho do arquivo do documento:
+ Crie uma instância do`Signature` classe, passando o caminho do arquivo do documento:
 
 ```csharp
 using (Signature signature = new Signature(filePath))
@@ -104,7 +104,7 @@ Neste tutorial, abordamos como assinar documentos usando imagens em aplicativos 
 
 Sim, você pode assinar um documento usando múltiplas imagens. Basta repetir o processo de assinatura para cada imagem conforme necessário.
 
-### GroupDocs.Signature for .NET é compatível com todos os tipos de documentos?
+### O GroupDocs.Signature for .NET é compatível com todos os tipos de documentos?
 
 O GroupDocs.Signature para .NET oferece suporte a uma variedade de formatos de documentos, incluindo PDF, Word, Excel e muito mais.
 

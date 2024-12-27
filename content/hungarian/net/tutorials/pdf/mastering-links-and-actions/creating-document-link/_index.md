@@ -236,7 +236,7 @@ LinkAnnotation link = new LinkAnnotation(page, new Aspose.Pdf.Rectangle(100, 100
 
 ## 5. lépés: A hivatkozás megjelenésének testreszabása
 
-Most tegyük egy kicsit szembetűnővé ezt a linket! Testreszabhatja a színét és azt, hogy hogyan viselkedik kattintáskor.
+Most pedig tegyük egy kicsit szembetűnővé a linket! Testreszabhatja a színét és azt, hogy hogyan viselkedik kattintáskor.
 
 ```csharp
 link.Color = Aspose.Pdf.Color.FromRgb(System.Drawing.Color.Green);

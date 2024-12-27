@@ -54,7 +54,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 Yeni bir PDF belgesi başlatın:
 
 ```csharp
-//Belge örneği oluştur
+// Belge örneği oluştur
 Document doc = new Document();
 ```
 

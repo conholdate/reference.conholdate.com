@@ -41,7 +41,7 @@ Ezek a névterek biztosítják a munkafüzetek kezeléséhez, a képek megjelen�
 Ezután határozza meg a forrás- és kimeneti könyvtár elérési útját, ahol az Excel-fájl található, és hová szeretné menteni az eredményül kapott képet.
 
 ```csharp
-// Határozza meg a forrás- és kimeneti könyvtárat
+// Határozza meg a forrás- és kimeneti könyvtárakat
 string sourceDir = "Your Document Directory";
 string outputDir = "Your Document Directory";
 ```

@@ -17,7 +17,7 @@ url: /zh/net/tutorials/email/guide-to-email-processing-and-analysis/bayesian-spa
 
 1. Visual Studio：用于编写和管理 C# 项目的集成开发环境 (IDE)。
 2. .NET Framework 或 .NET Core：确保您已安装其中任何一个，因为它们对于运行 C# 应用程序至关重要。
-3. Aspose.Email for .NET：这个功能强大的库将帮助您处理电子邮件操作。您可以从以下位置下载该库[这里](https://releases.aspose.com/email/net/)或从免费试用开始[此链接](https://releases.aspose.com/).
+3.  Aspose.Email for .NET：这个功能强大的库将帮助您处理电子邮件操作。您可以从以下位置下载该库[这里](https://releases.aspose.com/email/net/)或从免费试用开始[此链接](https://releases.aspose.com/).
 4. C# 基础知识：熟悉 C# 编程语言将使您更容易理解本教程。
 
 一旦满足了这些先决条件，您就可以开始深入研究代码了！

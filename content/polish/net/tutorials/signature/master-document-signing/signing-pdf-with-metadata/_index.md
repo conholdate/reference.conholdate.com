@@ -9,7 +9,7 @@ url: /pl/net/tutorials/signature/master-document-signing/signing-pdf-with-metada
 ---
 ## Wstęp
 
-W tym samouczku nauczymy się, jak podpisać dokument PDF i dodać metadane za pomocą GroupDocs.Signature dla .NET. Dodanie metadanych wzbogaca dokument, dostarczając podstawowych informacji, takich jak autorstwo, data utworzenia, identyfikator dokumentu i inne.
+tym samouczku nauczymy się, jak podpisać dokument PDF i dodać metadane za pomocą GroupDocs.Signature dla .NET. Dodanie metadanych wzbogaca dokument, dostarczając podstawowych informacji, takich jak autorstwo, data utworzenia, identyfikator dokumentu i inne.
 
 ## Wymagania wstępne
 
@@ -106,4 +106,4 @@ Oczywiście! Możesz podpisać wiele dokumentów hurtowo, iterując listę plik�
 
 ### Czy użytkownicy GroupDocs.Signature mają dostęp do pomocy technicznej?
 
-Tak, GroupDocs zapewnia dedykowane wsparcie techniczne za pośrednictwem swoich forów. Możesz uzyskać dostęp do forum wsparcia[Tutaj](https://forum.groupdocs.com/c/signature/13).
+ Tak, GroupDocs zapewnia dedykowane wsparcie techniczne za pośrednictwem swoich forów. Możesz uzyskać dostęp do forum wsparcia[Tutaj](https://forum.groupdocs.com/c/signature/13).

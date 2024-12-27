@@ -18,7 +18,7 @@ Jste připraveni posunout své dovednosti v manipulaci s Excelem na další úro
 Excelové tabulky jsou výkonné, ale někdy potřebujete flexibilitu. Zde se hodí převod tabulek do formátu OpenDocument Spreadsheet (ODS). Aspose.Cells for .NET umožňuje tuto konverzi zvládnout pomocí několika řádků kódu. Chcete podrobný návod? Podívejte se na celý tutoriál[zde](./convert-table-to-ods-format/).  
 
 ## Převeďte tabulky Excelu na rozsahy  
- Potřebujete snížit tabulku na běžný rozsah a zároveň zachovat data? Aspose.Cells pro .NET to usnadňuje. Ať už připravujete sestavu nebo zjednodušujete data, převod tabulek na rozsahy může ušetřit čas a zlepšit přehlednost. Postup naleznete v našem podrobném průvodci[zde](./convert-excel-tables-to-range/).  
+ Potřebujete snížit tabulku na běžný rozsah a zároveň zachovat data? Aspose.Cells pro .NET to usnadňuje. Ať už připravujete sestavu nebo zjednodušujete data, převod tabulek na rozsahy může ušetřit čas a zlepšit přehlednost. Jak na to, se dozvíte v našem podrobném průvodci[zde](./convert-excel-tables-to-range/).  
 
 ## Převeďte tabulky na rozsahy pomocí možností  
 

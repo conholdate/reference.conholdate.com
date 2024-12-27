@@ -18,7 +18,7 @@ url: /ko/net/tutorials/gis/guide-to-geo-data-conversion/converting-geojson-to-to
 ### .NET용 Aspose.GIS 설치
 
 -  라이브러리 다운로드: .NET용 Aspose.GIS의 최신 버전에 액세스하세요.[릴리스 페이지](https://releases.aspose.com/gis/net/).
--  설치: 제공된 자세한 설치 지침을 따르십시오.[선적 서류 비치](https://reference.aspose.com/gis/net/).
+- 설치: 제공된 자세한 설치 지침을 따르십시오.[선적 서류 비치](https://reference.aspose.com/gis/net/).
 
 ### 필요한 네임스페이스 추가
 

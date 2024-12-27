@@ -21,7 +21,7 @@ Szeletelő hozzáadása egy Excel-táblázathoz olyan, mintha az adatoknak szupe
 
 ## [Frissítse a szeletelőket az Excelben az Aspose.Cells .NET használatával](./update-slicers-in-excel/)
 
- Valljuk be: az adatok változnak, és a szeletelőknek lépést kell tartaniuk. Ez az oktatóanyag az Excel-fájlban lévő szeletelők frissítésének művészetét mutatja be. Legyen szó a szeletelő adatok frissítéséről vagy szinkronizálásáról pivot táblákkal, ez az útmutató biztosítja, hogy soha ne maradjon le. Tekintse ezt úgy, mintha új életet adna a szeletelőjének. Kezdje ezzel[átfogó útmutató](./update-slicers-in-excel/).
+ Valljuk be: az adatok változnak, és a szeletelőknek lépést kell tartaniuk. Ez az oktatóanyag az Excel-fájlban lévő szeletelők frissítésének művészetét mutatja be. Legyen szó a szeletelő adatok frissítéséről vagy szinkronizálásáról pivot táblákkal, ez az útmutató biztosítja, hogy soha ne maradjon le. Gondoljon erre úgy, mintha új életet adna a szeletelőjének. Kezdje ezzel[átfogó útmutató](./update-slicers-in-excel/).
 
 ## [Szeletelő létrehozása a kimutatástáblázathoz az Aspose.Cells .NET-ben](./creating-slicer-for-pivot-table/)
 

@@ -55,7 +55,7 @@ pdfDoc.PageInfo.Margin = new Aspose.Pdf.MarginInfo(72, 72, 72, 72); // 1인치 �
 ```csharp
 // PDF 문서에 새 페이지 추가
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; //문서와 동일한 설정을 사용합니다.
+pdfPage.PageInfo = pdfDoc.PageInfo; // 문서와 동일한 설정을 사용합니다.
 ```
 
 ## 3단계: 떠다니는 상자 만들기
@@ -63,7 +63,7 @@ pdfPage.PageInfo = pdfDoc.PageInfo; //문서와 동일한 설정을 사용합니
 FloatingBox를 사용하면 페이지의 흐름에 상관없이 콘텐츠를 배치할 수 있어 레이아웃을 더욱 효과적으로 제어할 수 있습니다.
 
 ```csharp
-// 구조화된 콘텐츠를 위한 FloatingBox 만들기
+//구조화된 콘텐츠를 위한 FloatingBox 만들기
 Aspose.Pdf.FloatingBox floatBox = new Aspose.Pdf.FloatingBox
 {
     Margin = pdfPage.PageInfo.Margin

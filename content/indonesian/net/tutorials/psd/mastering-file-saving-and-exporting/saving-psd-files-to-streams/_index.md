@@ -16,7 +16,7 @@ Dalam ranah pengembangan .NET yang serba cepat, Aspose.PSD muncul sebagai pustak
 Sebelum kita mulai, pastikan Anda telah menyiapkan hal-hal berikut:
 
 1. Visual Studio: Pastikan Anda telah menginstal Visual Studio di komputer Anda.
-2.  Aspose.PSD untuk .NET: Unduh dan instal pustaka Aspose.PSD. Anda dapat menemukan versi terbaru[Di Sini](https://releases.aspose.com/psd/net/).
+2. Aspose.PSD untuk .NET: Unduh dan instal pustaka Aspose.PSD. Anda dapat menemukan versi terbaru[Di Sini](https://releases.aspose.com/psd/net/).
 3. Contoh Berkas PSD: Dapatkan contoh berkas PSD untuk pengujian. Jika Anda tidak memilikinya, berkas PSD apa pun dapat digunakan untuk keperluan demonstrasi.
 4. Direktori Dokumen: Buat direktori dalam proyek Anda untuk menyimpan gambar dan catat jalurnya untuk penggunaan nanti.
 
@@ -89,10 +89,10 @@ Selamat! Anda telah berhasil mempelajari cara menyimpan gambar ke aliran menggun
 ## Pertanyaan yang Sering Diajukan
 
 ### Bisakah saya menggunakan Aspose.PSD dengan jenis berkas gambar apa pun?
-Ya! Aspose.PSD mendukung berbagai format gambar, termasuk PSD, PNG, JPEG, dan lainnya. Untuk daftar terperinci, periksa dokumentasinya[Di Sini](https://reference.aspose.com/psd/net/).
+ Ya! Aspose.PSD mendukung berbagai format gambar, termasuk PSD, PNG, JPEG, dan lainnya. Untuk daftar terperinci, periksa dokumentasinya[Di Sini](https://reference.aspose.com/psd/net/).
 
 ### Bagaimana cara mendapatkan dukungan untuk Aspose.PSD?
- Untuk bantuan dan dukungan komunitas, kunjungi forum dukungan Aspose.PSD[Di Sini](https://forum.aspose.com/c/psd/34).
+Untuk bantuan dan dukungan komunitas, kunjungi forum dukungan Aspose.PSD[Di Sini](https://forum.aspose.com/c/psd/34).
 
 ### Apakah ada uji coba gratis yang tersedia?
  Tentu saja! Anda dapat mengunduh uji coba gratis[Di Sini](https://releases.aspose.com/) untuk menjelajahi fitur Aspose.PSD sebelum memutuskan untuk membeli.

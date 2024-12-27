@@ -35,7 +35,7 @@ Aşağıda adım adım detaylı uygulama yer almaktadır.
 
 ## Adım 1: Yeni Bir OneNote Belgesi Oluşturun
 
- Yeni bir OneNote belgesini şu şekilde başlatın:`Document`sınıf.
+ Yeni bir OneNote belgesini şu şekilde başlatın:`Document` sınıf.
 
 ```csharp
 Document doc = new Document();

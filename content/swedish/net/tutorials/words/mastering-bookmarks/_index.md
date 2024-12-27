@@ -36,6 +36,6 @@ Om du någonsin har varit i en position där du behöver ta bort specifika rader
 | Titel | Beskrivning |
 | --- | --- |
 | [Lägg till text från bokmärkta avsnitt i Word-dokument](./append-text-from-bookmarked-sections/) | Lär dig hur du sömlöst lägger till text från bokmärkta delar av ett Word-dokument med Aspose.Words för .NET. Denna steg-för-steg handledning. |
-| [Skapa bokmärke i Word-dokument med Aspose.Words för .NET](./create-bookmark-in-word-document/) | Lär dig hur du skapar bokmärken i Word-dokument med hjälp av Lär dig hur du förbättrar dina Word-dokument genom att skapa och hantera bokmärken med Aspose.Words för .NET. Denna steg-för-steg guide. |
+| [Skapa bokmärke i Word-dokument med Aspose.Words för .NET](./create-bookmark-in-word-document/) | Lär dig hur du skapar bokmärken i Word-dokument med hjälp av Lär dig hur du förbättrar dina Word-dokument genom att skapa och hantera bokmärken med Aspose.Words för .NET. Denna steg-för-steg handledning. |
 | [Hantera bokmärkessynlighet i Word-dokument](./manage-bookmark-visibility-word-document/) | Upptäck hur du sakkunnigt kontrollerar synligheten av innehåll i Word-dokument med Aspose.Words för .NET. Denna steg-för-steg guide. |
 | [Ta bort rader efter bokmärke i Word-dokument med Aspose.Words för .NET](./delete-row-by-bookmark-word-documents/) | Lär dig hur du effektivt tar bort specifika rader i Word-dokument genom att använda bokmärken med Aspose.Words för .NET. Den här steg-för-steg-guiden täcker inläsning av dokument. |
