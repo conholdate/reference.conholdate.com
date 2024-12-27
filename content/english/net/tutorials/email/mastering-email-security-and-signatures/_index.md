@@ -20,7 +20,6 @@ Here’s what makes DKIM signing a breeze with Aspose.Email:
 1. User-Friendly API: The intuitive design allows developers to integrate email authentication quickly.  
 2. Comprehensive Features: From email composition to signing and verification, Aspose.Email has you covered.  
 3. Versatility: Works seamlessly with .NET applications, making it a great choice for C# developers.
-## [Guide to Signing Emails with DKIM in C# using Aspose.Email](./guide-to-signing-emails-with-dkim/)  
 
 ## Mastering Email Security and Digital Signatures Tutorials
 ### [Guide to Signing Emails with DKIM in C# using Aspose.Email](./guide-to-signing-emails-with-dkim/)
