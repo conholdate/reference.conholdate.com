@@ -9,7 +9,7 @@ url: /de/net/tutorials/words/guide-to-image-save-options/expose-threshold-contro
 ---
 ## Einführung
 
-Haben Sie sich schon einmal gefragt, wie Sie den Schwellenwert für die TIFF-Binarisierung in Ihren Word-Dokumenten feinabstimmen können? Dann sind Sie hier richtig! Diese Anleitung führt Sie durch den Prozess mit Aspose.Words für .NET. Egal, ob Sie ein erfahrener Entwickler sind oder gerade erst anfangen, Sie werden feststellen, dass dieses Tutorial leicht zu befolgen ist und alle Details enthält, die Sie benötigen. Tauchen Sie ein!
+Haben Sie sich schon einmal gefragt, wie Sie den Schwellenwert für die TIFF-Binarisierung in Ihren Word-Dokumenten feinabstimmen können? Dann sind Sie hier richtig! Diese Anleitung führt Sie durch den Prozess mit Aspose.Words für .NET. Egal, ob Sie ein erfahrener Entwickler sind oder gerade erst anfangen, Sie werden feststellen, dass dieses Tutorial leicht zu befolgen ist und alle Details enthält, die Sie benötigen. Lassen Sie uns eintauchen!
 
 ## Voraussetzungen
 

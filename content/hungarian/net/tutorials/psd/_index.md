@@ -4,7 +4,7 @@ linktitle: Aspose.PSD .NET oktatóanyagokhoz
 type: docs
 weight: 10
 url: /hu/net/tutorials/psd/
-description: Könnyedén javíthatja a képminőséget az Aspose.PSD for .NET oktatóanyaggal. Mester képfeldolgozás, PSD-fájlok kezelése, szöveg- és betűtípuskezelés és még sok más.
+description: Könnyedén javíthatja a képminőséget az Aspose.PSD for .NET oktatóanyaggal. Mester képfeldolgozás, PSD-fájlkezelés, szöveg- és betűtípuskezelés és még sok más.
 is_root: true
 ---
 

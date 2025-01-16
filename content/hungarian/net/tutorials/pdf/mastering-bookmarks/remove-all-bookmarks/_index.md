@@ -112,7 +112,7 @@ Igen, ismételheti az Outlines gyűjteményt, és törölheti a meghatározott f
 
 ### Mi a teendő, ha hibát észlelek a könyvjelzők eltávolítása közben?
 
- Győződjön meg arról, hogy a PDF-fájl nem sérült, és ellenőrizze, hogy rendelkezik-e megfelelő fájlhozzáférési jogosultságokkal. Hivatkozhat a[Aspose fórumok](https://forum.aspose.com/c/pdf/9)hibaelhárításhoz.
+ Győződjön meg arról, hogy a PDF-fájl nem sérült, és ellenőrizze, hogy rendelkezik-e megfelelő fájlhozzáférési jogosultságokkal. Arra is hivatkozhat[Aspose fórumok](https://forum.aspose.com/c/pdf/9)hibaelhárításhoz.
 
 ### Hozzáadhatok könyvjelzőket a törlésük után?
 

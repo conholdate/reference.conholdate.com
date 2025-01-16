@@ -87,7 +87,7 @@ TNEF formátum lehetővé teszi rich text és multimédiás elemek beágyazásá
 
 ### Testreszabhatom az átalakítási folyamatot az igényeim szerint?
 
-Igen! Az Aspose.Email for .NET különféle testreszabási lehetőségeket kínál, amelyek lehetővé teszik az átalakítási folyamat testreszabását az Ön egyedi igényei szerint.
+Igen! Az Aspose.Email for .NET különféle testreszabási lehetőségeket kínál, amelyek lehetővé teszik az átalakítási folyamat személyre szabását az Ön egyedi igényei szerint.
 
 ### Mi a teendő, ha hiba történik az átalakítás során?
 

@@ -46,7 +46,7 @@ We verdelen het proces van het extraheren van bladwijzers in beheersbare stappen
 
 ## Stap 1: Geef uw documentendirectory op
 
-Stel eerst het pad in naar de map met uw documenten waar uw PDF-bestand zich bevindt:
+Stel eerst het pad in naar de documentenmap waar uw PDF-bestand zich bevindt:
 
 ```csharp
 // Het pad naar de documentenmap.

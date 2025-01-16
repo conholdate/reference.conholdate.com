@@ -22,7 +22,7 @@ Avant de continuer, assurez-vous que les conditions préalables suivantes sont r
    Une connaissance pratique du langage de programmation C# et d'un environnement de développement .NET configuré.
 
 3. Fichier de projet Microsoft d'entrée  
-   Avoir un valide`.mpp` fichier disponible pour la conversion.
+    Avoir un valide`.mpp`fichier disponible pour la conversion.
 
 ## Importer les espaces de noms essentiels
 
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Étape 5 : Enregistrer le fichier de projet au format PDF
 
-Enfin, enregistrez le`.mpp` fichier au format PDF en appelant le`Save` méthode. Spécifiez le chemin du fichier de sortie et transmettez les options configurées.
+ Enfin, enregistrez le`.mpp`fichier au format PDF en appelant le`Save` méthode. Spécifiez le chemin du fichier de sortie et transmettez les options configurées.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

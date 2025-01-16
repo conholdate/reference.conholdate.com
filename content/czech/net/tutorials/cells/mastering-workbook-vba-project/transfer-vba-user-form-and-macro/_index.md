@@ -15,7 +15,7 @@ Vítejte ve vašem dokonalém průvodci pro vylepšení vaší zkušenosti s Exc
 Než se pustíme do kódování, ujistěte se, že máte vše, co potřebujete:
 
 1. Vývojové prostředí C#: Pracovní prostředí pro vývoj v C#, vysoce doporučeno Visual Studio.
-2.  Aspose.Cells for .NET Library: Ujistěte se, že jste do svého projektu integrovali knihovnu Aspose.Cells. Můžete snadno[stáhněte si jej zde](https://releases.aspose.com/cells/net/).
+2.  Aspose.Cells for .NET Library: Ujistěte se, že jste do svého projektu integrovali knihovnu Aspose.Cells. Můžete snadno[stáhněte si to zde](https://releases.aspose.com/cells/net/).
 3. Základní znalost VBA a Excel maker: Znalost jazyka VBA a fungování maker Excelu zlepší vaše porozumění tomuto kurzu.
 4. Excelový soubor s uživatelským formulářem: Vytvořte nebo získejte excelový sešit obsahující uživatelský formulář (nejlépe s povolenými makry, např.`.xlsm` soubory).
 

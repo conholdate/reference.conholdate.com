@@ -94,4 +94,4 @@ Ano, podporuje různé formáty, včetně PDF, DOCX, XLSX, PPTX a dalších.
 Absolutně! GroupDocs.Viewer umožňuje různé úpravy, včetně rotace stránky a vodoznaku.
 
 ### Kde najdu podporu pro GroupDocs.Viewer pro .NET?
- Pro další pomoc navštivte stránku[Fórum GroupDocs.Viewer](https://forum.groupdocs.com/c/viewer/9).
+ Pro další pomoc navštivte[Fórum GroupDocs.Viewer](https://forum.groupdocs.com/c/viewer/9).

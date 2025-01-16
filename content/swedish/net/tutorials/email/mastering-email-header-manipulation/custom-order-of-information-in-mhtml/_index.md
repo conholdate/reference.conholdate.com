@@ -9,7 +9,7 @@ url: /sv/net/tutorials/email/mastering-email-header-manipulation/custom-order-of
 ---
 ## Introduktion
 
-Att skapa rika e-postformat kan förbättra kommunikationen avsevärt, särskilt när du exporterar e-post till olika filformat som MHTML. Aspose.Email för .NET ger utvecklare en kraftfull verktygslåda för att manipulera e-postmeddelanden, vilket inkluderar att definiera en anpassad ordning för hur information visas vid export till MHTML. I den här guiden kommer vi att bryta ner stegen som behövs för att uppnå detta, vilket gör det enkelt att följa med oavsett om du är en erfaren utvecklare eller precis har börjat. Så, låt oss gå direkt in i det!
+Att skapa rika e-postformat kan förbättra kommunikationen avsevärt, särskilt när du exporterar e-post till olika filformat som MHTML. Aspose.Email för .NET ger utvecklare en kraftfull verktygslåda för att manipulera e-postmeddelanden, vilket inkluderar att definiera en anpassad ordning för hur information visas vid export till MHTML. I den här guiden kommer vi att bryta ner de steg som behövs för att uppnå detta, vilket gör det enkelt att följa med oavsett om du är en erfaren utvecklare eller precis har börjat. Så, låt oss gå direkt in i det!
 
 ## Förutsättningar
 

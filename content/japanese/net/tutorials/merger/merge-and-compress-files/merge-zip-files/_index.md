@@ -2,7 +2,7 @@
 title: GroupDocs.Merger for .NET を使用して Zip ファイルを結合する
 linktitle: GroupDocs.Merger for .NET を使用して Zip ファイルを結合する
 second_title: GroupDocs.Merger .NET API
-description: GroupDocs.Merger for .NET を使用して複数の ZIP ファイルをプログラムで結合する方法を説明します。このステップバイステップのチュートリアルでは、前提条件について説明します。
+description: GroupDocs.Merger for .NET を使用して複数の ZIP ファイルをプログラムで結合する方法を説明します。このステップ バイ ステップのチュートリアルでは、前提条件について説明します。
 type: docs
 weight: 12
 url: /ja/net/tutorials/merger/merge-and-compress-files/merge-zip-files/

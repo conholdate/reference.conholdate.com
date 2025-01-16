@@ -2,7 +2,7 @@
 title: Att skilja inline och vanliga bilagor i C#
 linktitle: Att skilja inline och vanliga bilagor i C#
 second_title: Aspose.Email .NET Email Processing API
-description: Utforska krångligheterna med e-postbearbetning genom att lära dig att skilja mellan inline och vanliga bilagor med hjälp av Aspose.Email for .NET-biblioteket. Den här omfattande guiden ger steg-för-steg-instruktioner.
+description: Utforska krångligheterna med e-postbearbetning genom att lära dig att skilja mellan inline och vanliga bilagor med hjälp av Aspose.Email for .NET-biblioteket. Denna omfattande guide ger steg-för-steg-instruktioner.
 type: docs
 weight: 17
 url: /sv/net/tutorials/email/handling-email-attachments/distinguishing-inline-and-regular-attachments-in-csharp/
@@ -11,7 +11,7 @@ url: /sv/net/tutorials/email/handling-email-attachments/distinguishing-inline-an
 
 E-postbilagor är viktiga för att förmedla information utöver texten i ett e-postmeddelande. Bland de olika typerna av bilagor är inline-bilagor (inbäddade i e-posttexten) och vanliga bilagor (separata filer) de vanligaste. Den här guiden kommer att utforska hur man kan skilja mellan dessa två typer av bilagor med hjälp av Aspose.Email för .NET-biblioteket, med steg-för-steg-instruktioner och praktiska kodavsnitt.
 
-## 1. Konfigurera din utvecklingsmiljö
+## 1. Ställa in din utvecklingsmiljö
 
 Innan du börjar koda, se till att din utvecklingsmiljö är redo. Du behöver Visual Studio installerat på ditt system. 
 
@@ -79,7 +79,7 @@ foreach (Attachment attachment in attachments)
 {
     if (!attachment.ContentDisposition.DispositionType.Equals("inline"))
     {
-        // Hantera regelbunden infästning
+        // Hantera vanligt fäste
         string filePath = Path.Combine("path/to/save/directory", attachment.Name);
         attachment.Save(filePath);
         Console.WriteLine($"Regular Attachment saved: {filePath}");

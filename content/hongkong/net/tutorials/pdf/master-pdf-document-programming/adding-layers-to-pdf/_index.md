@@ -116,7 +116,7 @@ Console.WriteLine("\nLayers added successfully to PDF file.\nFile saved at " + d
 ## 常見問題解答
 
 ### 使用 Aspose.PDF for .NET 有哪些好處？
-Aspose.PDF for .NET 提供了一組強大的功能來有效地管理和操作 PDF 文件。
+Aspose.PDF for .NET 提供了一組強大的功能來有效管理和操作 PDF 文件。
 
 ### 我可以將 Aspose.PDF for .NET 與任何其他 PDF 程式庫一起使用嗎？
 不可以，您只能專門使用 Aspose.PDF for .NET。其他庫可能提供類似的功能，但可能沒有那麼強大或功能豐富。

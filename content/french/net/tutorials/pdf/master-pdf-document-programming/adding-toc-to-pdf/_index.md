@@ -13,7 +13,7 @@ La création d'une table des matières (TOC) dans un document PDF peut grandemen
 
 ## Prérequis
 
-Avant de commencer, assurez-vous d'avoir les éléments suivants :
+Avant de commencer, assurez-vous d'avoir les éléments suivants :
 
 1.   Aspose.PDF pour .NET : Téléchargez et installez la dernière version à partir de[ici](https://releases.aspose.com/pdf/net/).
 2.  Environnement de développement : configurez un environnement de développement .NET comme Visual Studio.

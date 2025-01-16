@@ -121,7 +121,7 @@ Absolutně! Jak je ukázáno v tomto kurzu, můžete zadat další složky píse
 
 ### Kde mohu hledat další podporu a spojit se s komunitou?
 
- Pro podporu a komunitní diskuse navštivte[Fórum Aspose.Page](https://forum.aspose.com/c/page/39).
+ Pro podporu a komunitní diskuze navštivte[Fórum Aspose.Page](https://forum.aspose.com/c/page/39).
 
 ### Jak mohu získat dočasnou licenci pro Aspose.Page for .NET?
 

@@ -157,7 +157,7 @@ bool ValidateEmail(string email)
         }
     }
 
-    // Zkontrolujte jednorázové e-mailové adresy
+    // Zkontrolujte e-mailové adresy na jedno použití
     if (DisposableEmailChecker.IsDisposable(email))
         return false;
 

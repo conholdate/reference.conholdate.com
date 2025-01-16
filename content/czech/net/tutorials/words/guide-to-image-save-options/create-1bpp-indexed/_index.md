@@ -78,7 +78,7 @@ Gratuluji! Úspěšně jste převedli dokument aplikace Word na indexovaný obr�
 
 ## FAQ
 
-### Co je to indexovaný obrázek 1Bpp?
+### Co je 1Bpp indexovaný obrázek?
 Indexovaný obrázek 1Bpp (1 bit na pixel) je formát černobílého obrázku, kde je každý pixel reprezentován jedním bitem, buď 0, nebo 1. Tento formát je vysoce prostorově nenáročný, takže je ideální pro archivaci.
 
 ### Mohu převést více stránek dokumentu aplikace Word najednou?

@@ -21,7 +21,7 @@ Heb je ooit je Excel-gegevens willen delen zonder grote bestanden te versturen? 
 
 Wat is er nu cooler dan hele spreadsheets omzetten? Wat dacht je van het omzetten van Excel-grafieken naar PDF's? Grafieken en diagrammen zijn geweldig voor het visualiseren van gegevens, maar een standalone PDF kan uw resultaten laten schitteren in presentaties of rapporten. Aspose.Cells maakt dit proces eenvoudig! 
 
- Duik in onze tutorial over[Converteer Excel-grafieken naar PDF met Aspose.Cells voor .NET](./convert-excel-charts-to-pdf/), waar u alle informatie vindt om aan de slag te gaan. Met eenvoudig te volgen instructies en handige codevoorbeelden leert u hoe u specifieke grafieken of hele sheets kunt converteren zonder visuele integriteit te verliezen. Deze gids is perfect als u uw datapresentaties wilt opfleuren en ze tegelijkertijd professioneel en netjes wilt houden.
+ Duik in onze tutorial over[Converteer Excel-grafieken naar PDF met Aspose.Cells voor .NET](./convert-excel-charts-to-pdf/), waar u alle informatie vindt om aan de slag te gaan. Met eenvoudig te volgen instructies en handige codevoorbeelden leert u hoe u specifieke grafieken of hele bladen kunt converteren zonder visuele integriteit te verliezen. Deze gids is perfect als u uw datapresentaties wilt opfleuren en ze tegelijkertijd professioneel en netjes wilt houden.
 
 ## Conversie naar PDF-zelfstudies
 ### [Converteer Excel naar PDF met Aspose.Cells in .NET](./convert-excel-to-pdf/)

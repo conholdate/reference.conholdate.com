@@ -9,7 +9,7 @@ url: /it/net/tutorials/pdf/mastering-bookmarks/get-bookmarks-from-pdf-files/
 ---
 ## Introduzione
 
-Ti è mai capitato di scorrere all'infinito un lungo documento PDF, cercando di individuare una sezione specifica? Non sei il solo! Navigare nei PDF può essere frustrante, soprattutto quando non hanno segnalibri. Fortunatamente, con Aspose.PDF per .NET, puoi estrarre facilmente i segnalibri, migliorando la facilità d'uso e l'accessibilità dei tuoi documenti. In questo tutorial, ti guideremo passo dopo passo nel processo di estrazione dei segnalibri da un file PDF. Quindi, prendi la tua bevanda preferita e tuffiamoci!
+Ti è mai capitato di scorrere all'infinito un lungo documento PDF, cercando di individuare una sezione specifica? Non sei il solo! Navigare nei PDF può essere frustrante, soprattutto quando mancano i segnalibri. Fortunatamente, con Aspose.PDF per .NET, puoi estrarre facilmente i segnalibri, migliorando la facilità d'uso e l'accessibilità dei tuoi documenti. In questo tutorial, ti guideremo passo dopo passo attraverso il processo di estrazione dei segnalibri da un file PDF. Quindi, prendi la tua bevanda preferita e tuffiamoci!
 
 ## Prerequisiti
 

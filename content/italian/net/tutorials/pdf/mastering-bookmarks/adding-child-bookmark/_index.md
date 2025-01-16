@@ -9,7 +9,7 @@ url: /it/net/tutorials/pdf/mastering-bookmarks/adding-child-bookmark/
 ---
 ## Introduzione
 
-Nel panorama digitale odierno, una gestione efficiente dei documenti è essenziale, soprattutto quando si ha a che fare con i PDF. Ti è mai capitato di scorrere all'infinito un PDF lungo, cercando disperatamente una sezione specifica? Frustrante, vero? Ecco dove entrano in gioco i segnalibri! Funzionano come un indice, consentendo ai lettori di navigare nei documenti senza sforzo. In questo tutorial, esploreremo come aggiungere segnalibri figlio a un file PDF utilizzando Aspose.PDF per .NET. Entro la fine di questa guida, migliorerai i tuoi documenti PDF, rendendoli più intuitivi e organizzati.
+Nel panorama digitale odierno, una gestione efficiente dei documenti è essenziale, soprattutto quando si ha a che fare con i PDF. Ti è mai capitato di scorrere all'infinito un PDF lungo, cercando disperatamente una sezione specifica? Frustrante, vero? Ecco dove entrano in gioco i segnalibri! Funzionano come un indice, consentendo ai lettori di navigare nei documenti senza sforzo. In questo tutorial, esploreremo come aggiungere segnalibri figlio a un file PDF utilizzando Aspose.PDF per .NET. Alla fine di questa guida, migliorerai i tuoi documenti PDF, rendendoli più intuitivi e organizzati.
 
 ## Prerequisiti
 
@@ -112,7 +112,7 @@ Console.WriteLine("\nChild bookmark added successfully.\nFile saved at " + dataD
 
 ## Conclusione
 
-Congratulazioni! Hai aggiunto con successo segnalibri figlio a un file PDF usando Aspose.PDF per .NET. Questa funzionalità migliora notevolmente l'usabilità dei tuoi documenti, rendendoli più facili da navigare per i lettori. Che tu stia creando report, eBook o qualsiasi altro documento PDF, i segnalibri sono un punto di svolta.
+Congratulazioni! Hai aggiunto con successo segnalibri figlio a un file PDF utilizzando Aspose.PDF per .NET. Questa funzionalità migliora notevolmente l'usabilità dei tuoi documenti, rendendoli più facili da navigare per i lettori. Che tu stia creando report, eBook o qualsiasi altro documento PDF, i segnalibri sono un punto di svolta.
 
 ## Domande frequenti
 

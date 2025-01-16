@@ -9,7 +9,7 @@ url: /hu/net/tutorials/cells/mastering-workbook-vba-project/check-and-secure-vba
 ---
 ## Bevezetés
 
-Amikor Excel fájlokkal dolgozik, a VBA-projektek biztonságossá tétele a táblázatokban kritikus lehet, különösen olyan környezetekben, amelyek szigorú hozzáférés-ellenőrzést igényelnek. Az Aspose.Cells for .NET segítségével a fejlesztők egyszerűen ellenőrizhetik a VBA-projektek védelmi állapotát, és akár programozottan jelszóvédelmet is alkalmazhatnak. Ebben az útmutatóban részletezzük a VBA-projektek ellenőrzésének és biztonságossá tételének lépéseit, biztosítva ezzel, hogy fájljai biztonságban és felügyelet alatt maradjanak.
+Amikor Excel fájlokkal dolgozik, a VBA-projektek biztonságossá tétele a táblázatokban kritikus lehet, különösen olyan környezetekben, amelyek szigorú hozzáférés-ellenőrzést igényelnek. Az Aspose.Cells for .NET segítségével a fejlesztők egyszerűen ellenőrizhetik a VBA-projektek védelmi állapotát, és akár programozottan is alkalmazhatják a jelszavas védelmet. Ebben az útmutatóban részletezzük a VBA-projektek ellenőrzésének és biztonságossá tételének lépéseit, biztosítva ezzel, hogy fájljai biztonságban és felügyelet alatt maradjanak.
 
 ## A VBA-projektek védelmének előfeltételei
 

@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/cells/mastering-worksheet-security/advanced-protecti
 
 在深入研究程式碼之前，請確保您具備以下條件：
 
-1. .NET Framework：請確保您的電腦上安裝了適當版本的 .NET Framework（與 .NET Core 或 .NET Framework 4.x 相容）。
+1. .NET Framework：確保您的電腦上安裝了適當版本的 .NET Framework（與 .NET Core 或 .NET Framework 4.x 相容）。
 2.  Aspose.Cells for .NET：從下列位置下載並安裝 Aspose.Cells[地點](https://releases.aspose.com/cells/net/).
 3. IDE/文字編輯器：使用 Visual Studio 或 Visual Studio Code 等 IDE 編寫和執行程式碼。
 4. 基本 C# 知識：熟悉 C# 將幫助您瀏覽程式碼範例。
@@ -156,7 +156,7 @@ fstream.Close();
 
 ## 結論
 
-使用 Aspose.Cells for .NET，實施進階保護設定非常簡單，但對於維護 Excel 檔案的完整性至關重要。透過仔細設定限制和權限，您可以確保資料保持安全，同時仍允許有意義的使用者互動。無論是處理報表、資料分析或協作項目，這些步驟都將協助您為 Excel 檔案建立受控環境。
+透過 Aspose.Cells for .NET，實施進階保護設定非常簡單，但對於維護 Excel 檔案的完整性至關重要。透過仔細設定限制和權限，您可以確保資料保持安全，同時仍允許有意義的使用者互動。無論是處理報表、資料分析或協作項目，這些步驟都將協助您為 Excel 檔案建立受控環境。
 
 ## 常見問題解答
 

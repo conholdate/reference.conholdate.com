@@ -57,7 +57,7 @@ bool suppressErrors = true;
 // Inicializálja a PDF-mentési beállításokat
 PdfSaveOptions options = new PdfSaveOptions(suppressErrors);
 // Adjon meg további font mappákat, ha szükséges
-options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Frissítse a betűtípusmappa elérési útját
+options.AdditionalFontsFolders = new string[] { @"{FONT_FOLDER}" }; // Frissítse a betűtípus mappa elérési útját
 ```
 
 ## 3. lépés: Hozza létre a PDF-eszközt

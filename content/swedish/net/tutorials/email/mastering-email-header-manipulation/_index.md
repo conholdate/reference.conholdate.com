@@ -13,7 +13,7 @@ När det gäller att hantera e-postmeddelanden i dina .NET-applikationer är Asp
 
 ## Ändra MHT-teckensnittsanpassning med C#  
 Har du någonsin velat kontrollera hur teckensnitt ser ut när du konverterar e-post till MHT? Med Aspose.Email för .NET är det enkelt. Denna handledning tar dig steg för steg genom att anpassa teckensnittsstilar för att säkerställa att dina e-postutdata är professionella och anpassade till varumärket. Se det som att skräddarsy en kostym – perfekt för dina behov!  
-[Läs mer om att ändra MHT-fontanpassning](./changing-mht-font-customization/)  
+[Läs mer om Ändra MHT Font Customization](./changing-mht-font-customization/)  
 
 ## Anpassad hyperlänksrendering  
 Hyperlänkar i e-postmeddelanden får ofta inte den uppmärksamhet de förtjänar. Varför inte få dem att poppa? Den här guiden visar hur du anpassar utseenden på hyperlänkar, ökar synligheten och gör dina e-postmeddelanden mer engagerande. Oavsett om det handlar om att ändra färger eller lägga till effekter, är detta din första handledning för hyperlänksmagi.  
@@ -24,7 +24,7 @@ Föreställ dig att presentera e-postinnehåll i exakt den ordning du behöver. 
 [Läs mer om Custom Order of Information i MHTML](./custom-order-of-information-in-mhtml/)  
 
 ## Extrahering av e-posthuvud i C#  
-Rubriker innehåller avgörande metadata om e-postmeddelanden. Denna handledning leder dig genom att extrahera rubriker i C#, så att du kan analysera och manipulera nyckelinformation. Se det som att låsa upp en skattkammare av insikter gömd i osynlig sikt!  
+Rubriker innehåller viktiga metadata om e-postmeddelanden. Denna handledning leder dig genom att extrahera rubriker i C#, så att du kan analysera och manipulera nyckelinformation. Se det som att låsa upp en skattkammare av insikter gömd i osynlig sikt!  
 [Läs mer om Extrahering av e-posthuvud](./email-header-extraction/)  
 
 ## Handledning för hantering av e-posthuvud

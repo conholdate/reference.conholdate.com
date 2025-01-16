@@ -145,7 +145,7 @@ Ano, v jednom dokumentu můžete kombinovat různé styly číslování, jako js
 ### Jak mohu upravit počáteční číslo pro nadpisy?  
  Počáteční číslo pro jakýkoli nadpis můžete nastavit pomocí`StartNumber` vlastnictví.
 
-### Existuje způsob, jak resetovat pořadí číslování?  
+### Existuje způsob, jak resetovat posloupnost číslování?  
  Ano, číslování můžete resetovat úpravou`StartNumber` vlastnost pro každý nadpis.
 
 ### Mohu na nadpisy kromě číslování použít i tučný styl nebo kurzívu?  

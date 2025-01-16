@@ -69,7 +69,7 @@ IEnumerable<string> fileList = Directory.GetFiles(dataDir)
     .Where(fileName => !fileName.EndsWith("Corrupted document.docx"));
 ```
 
-Lista filtrów zapewnia pracę wyłącznie z prawidłowymi plikami.
+Dzięki filtrowanej liście masz pewność, że pracujesz tylko z prawidłowymi plikami.
 
 ## Krok 3: Wykryj i sklasyfikuj formaty plików
 

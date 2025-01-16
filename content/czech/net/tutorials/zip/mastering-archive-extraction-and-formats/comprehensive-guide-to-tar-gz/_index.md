@@ -71,7 +71,7 @@ archive.SaveGzipped(dataDir + "archive.tar.gz");
 
 ## Závěr
 
-Gratuluji! Úspěšně jste komprimovali soubory do formátu TarGz pomocí Aspose.Zip pro .NET. Tento zjednodušený proces rozšíří vaše možnosti správy dat v aplikacích .NET.
+Gratuluji! Úspěšně jste zkomprimovali soubory do formátu TarGz pomocí Aspose.Zip pro .NET. Tento zjednodušený proces rozšíří vaše možnosti správy dat v aplikacích .NET.
 
 ## FAQ
 

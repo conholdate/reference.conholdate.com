@@ -88,7 +88,7 @@ Denna metod tar in XML-sökvägen och hämtar relaterade data till en ArrayList.
 Nu när du har de efterfrågade uppgifterna, låt oss skriva ut resultaten till konsolen:
 
 ```csharp
-// Mata ut resultatet av frågan
+// Mata ut resultaten av frågan
 foreach (var result in results)
 {
     Console.WriteLine(result);

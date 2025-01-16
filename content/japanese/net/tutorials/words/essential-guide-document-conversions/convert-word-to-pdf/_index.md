@@ -65,7 +65,7 @@ Document doc = new Document(dataDir + "YourDocument.docx");
 
 ## ステップ3: PDFに変換して保存する
 
-次は、ドキュメントを PDF として保存する、という楽しい作業です。次のコード行を使用するだけです。
+次は、ドキュメントを PDF として保存する、という面白い部分です。次のコード行を使用するだけです。
 
 ```csharp
 doc.Save(dataDir + "ConvertedDocument.pdf");

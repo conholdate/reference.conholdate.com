@@ -160,7 +160,7 @@ Vytváření odkazů v dokumentech PDF může výrazně zlepšit uživatelskou z
 Než se ponoříte do světa manipulace s PDF pomocí Aspose.PDF pro .NET, ujistěte se, že máte připraveno několik základních věcí:
 
 - Visual Studio: Ujistěte se, že máte nainstalované Visual Studio, abyste mohli vytvářet a spouštět aplikace .NET.
--  Aspose.PDF pro .NET: Musíte mít k dispozici knihovnu Aspose.PDF. Můžete[stáhněte si jej zde](https://releases.aspose.com/pdf/net/).
+-  Aspose.PDF pro .NET: Musíte mít k dispozici knihovnu Aspose.PDF. Můžete[stáhněte si to zde](https://releases.aspose.com/pdf/net/).
 - Základní porozumění C#: Základní znalost programování C# vám pomůže bez námahy procházet úryvky kódu.
 
 ### Instalace Aspose.PDF pro .NET

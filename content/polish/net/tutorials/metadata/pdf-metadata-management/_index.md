@@ -9,7 +9,7 @@ url: /pl/net/tutorials/metadata/pdf-metadata-management/
 ---
 ## Wstęp
 
-Kiedy masz do czynienia z plikami PDF, zrozumienie metadanych może być przełomem. Ale czym właściwie są metadane PDF? Mówiąc prościej, są to dane, które dostarczają informacji o innych danych w Twoich dokumentach PDF. Pomyśl o tym jak o okładce książki — chociaż nie zawiera treści, mówi Ci wiele o tym, co jest w środku! Dzięki GroupDocs.Metadata dla .NET możesz łatwo czytać i zarządzać tymi metadanymi, co znacznie usprawnia zadania zarządzania plikami PDF.
+Kiedy masz do czynienia z plikami PDF, zrozumienie metadanych może być przełomem. Ale czym właściwie są metadane PDF? Mówiąc prościej, są to dane, które dostarczają informacji o innych danych w Twoich dokumentach PDF. Pomyśl o tym jak o okładce książki — chociaż nie zawiera treści, mówi Ci wiele o tym, co jest w środku! Dzięki GroupDocs.Metadata dla .NET możesz łatwo czytać i zarządzać tymi metadanymi, dzięki czemu Twoje zadania zarządzania plikami PDF staną się znacznie bardziej wydajne.
 
 ## Odczytywanie wbudowanych właściwości z plików PDF
 

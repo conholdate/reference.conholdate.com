@@ -82,7 +82,7 @@ Teljesen! A könyvtár különféle fájlformátumokat támogat, beleértve a PD
 ### A GroupDocs.Merger kompatibilis a .NET Core programmal?
 Igen, a GroupDocs.Merger a .NET-keretrendszerrel és a .NET Core-al is kompatibilis.
 
-### Testreszabhatom az összevonási folyamatot?
+### Testreszabhatom az egyesítési folyamatot?
 Határozottan! A GroupDocs.Merger számos API-t biztosít, amelyek lehetővé teszik az egyesítési műveletek testreszabását, beleértve az oldaltartományokat és a fájlsorrendet.
 
 ### Hol találok támogatást a GroupDocs.Merger számára?

@@ -15,7 +15,7 @@ Meningkatkan presentasi Anda dengan animasi slide yang menarik dapat meningkatka
 Sebelum kita masuk ke tutorial, pastikan Anda memiliki hal berikut:
 
 1.  Aspose.Slides untuk Pustaka .NET: Unduh dan instal pustaka dari[Halaman unduhan Aspose](https://releases.aspose.com/slides/net/).
-2. Direktori Dokumen: Buat direktori untuk menyimpan file presentasi Anda. Perbarui`dataDir` variabel dalam potongan kode dengan jalur ke direktori dokumen Anda.
+2.  Direktori Dokumen: Buat direktori untuk menyimpan file presentasi Anda. Perbarui`dataDir` variabel dalam potongan kode dengan jalur ke direktori dokumen Anda.
 
 ## Mengimpor Ruang Nama
 
@@ -85,7 +85,7 @@ Menganimasikan slide dalam presentasi Anda akan memberikan sentuhan dinamis, mem
 
 ### Bisakah saya menyesuaikan efek transisi lebih lanjut?
 
- Tentu saja! Aspose.Slides menawarkan berbagai jenis transisi dan properti tambahan untuk penyesuaian. Untuk detail lebih lanjut, lihat[dokumentasi](https://reference.aspose.com/slides/net/).
+Tentu saja! Aspose.Slides menawarkan berbagai jenis transisi dan properti tambahan untuk penyesuaian. Untuk detail lebih lanjut, lihat[dokumentasi](https://reference.aspose.com/slides/net/).
 
 ### Apakah ada uji coba gratis yang tersedia?
 

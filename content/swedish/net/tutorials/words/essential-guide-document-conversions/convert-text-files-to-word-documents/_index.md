@@ -66,4 +66,4 @@ Ja, Aspose.Words stöder olika .NET-ramverk, vilket säkerställer bred kompatib
 Ja, du kan enkelt batchbearbeta flera textfiler med Aspose.Words API, vilket effektiviserar dina konverteringsuppgifter.
 
 ### Var kan jag hitta fler resurser och support för Aspose.Words?
- Besök[Aspose.Words dokumentation](https://reference.aspose.com/words/net/) för djupgående information och[supportforum](https://forum.aspose.com/c/words/8) för hjälp.
+ Besök[Aspose.Words dokumentation](https://reference.aspose.com/words/net/) för fördjupad information och[supportforum](https://forum.aspose.com/c/words/8) för hjälp.

@@ -58,7 +58,7 @@ Identifiez et définissez le chemin du répertoire où le document sera enregist
 string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 ```
 
- Remplacer`"YOUR_DOCUMENT_DIRECTORY"` avec le chemin d'accès réel au dossier sur votre système.
+ Remplacer`"YOUR_DOCUMENT_DIRECTORY"` avec le chemin d'accès réel du dossier sur votre système.
 
 ## Étape 3 : Configurer les options de chargement HTML
 

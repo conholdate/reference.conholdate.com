@@ -15,7 +15,7 @@ In deze gedetailleerde handleiding leiden we u door het proces van het ophalen v
 
 Voordat we in de code duiken, moet u ervoor zorgen dat u aan de volgende vereisten voldoet:
 
-1. Aspose.Cells voor .NET: Download en installeer eerst Aspose.Cells van de[Aspose releases pagina](https://releases.aspose.com/cells/net/)U kunt het ook installeren via NuGet Package Manager in Visual Studio met behulp van de volgende opdracht:
+1. Aspose.Cells voor .NET: Download en installeer eerst Aspose.Cells van de[Aspose releases pagina](https://releases.aspose.com/cells/net/). U kunt het ook installeren via NuGet Package Manager in Visual Studio met behulp van de volgende opdracht:
 ```bash
 Install-Package Aspose.Cells
 ```

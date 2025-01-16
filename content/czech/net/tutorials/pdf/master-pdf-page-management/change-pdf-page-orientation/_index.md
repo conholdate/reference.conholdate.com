@@ -15,7 +15,7 @@ Setkali jste se někdy se souborem PDF, kde je orientace stránky úplně špatn
 
 Než se ponoříme do podrobností, ujistěte se, že máte na místě následující:
 
--  Aspose.PDF for .NET: Ujistěte se, že máte nainstalovanou knihovnu Aspose.PDF. Pokud jste to ještě neudělali, můžete[stáhněte si jej zde](https://releases.aspose.com/pdf/net/).
+-  Aspose.PDF for .NET: Ujistěte se, že máte nainstalovanou knihovnu Aspose.PDF. Pokud jste to ještě neudělali, můžete[stáhněte si to zde](https://releases.aspose.com/pdf/net/).
 - Vývojové prostředí .NET: Pro vývoj .NET můžete použít Visual Studio, JetBrains Rider nebo jakékoli jiné IDE, které preferujete.
 - Základní znalost C#: Znalost C# vám pomůže snadněji sledovat.
 - Soubor PDF: Připravte si vzorový soubor PDF k testování. Můžete si jej vytvořit nebo si stáhnout ukázku online.

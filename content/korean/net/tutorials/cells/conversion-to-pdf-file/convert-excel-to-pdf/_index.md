@@ -98,7 +98,7 @@ Aspose.Cells는 .NET Core 및 .NET 5/6을 포함하여 .NET Framework 4.0 이상
 네, 파일 경로 목록을 반복하면 여러 개의 Excel 파일을 PDF로 일괄 변환할 수 있습니다.
 
 ### Aspose.Cells의 무료 버전이 있나요?
- 예, 평가를 위해 무료 평가판이 제공됩니다.[여기서 다운로드하세요](https://releases.aspose.com/cells/net/).
+ 예, 평가를 위해 무료 평가판이 제공됩니다.[여기에서 다운로드하세요](https://releases.aspose.com/cells/net/).
 
 ### 변환할 특정 워크시트를 지정할 수 있나요?
  네, 설정해서`OnePagePerSheet` ~에`PdfSaveOptions`PDF에서 특정 페이지의 특정 시트를 변환할 수 있습니다.

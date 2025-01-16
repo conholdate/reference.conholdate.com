@@ -53,7 +53,7 @@ DocumentBuilder builder = new DocumentBuilder(doc);
 builder.Writeln("Text added to a document.");
 ```
 
- Här, a`Document` objektet initieras, och`DocumentBuilder` används för att infoga text. De`Writeln` metoden lägger till en textrad till dokumentet.
+ Här, a`Document` objekt initieras, och`DocumentBuilder` används för att infoga text. De`Writeln` metod lägger till en textrad till dokumentet.
 
 ## Steg 3: Konfigurera sparalternativ
 
@@ -87,7 +87,7 @@ Genom att följa dessa steg kan du säkerställa att små metafiler i dina Word-
 
 ### Varför ska jag använda funktionen "Komprimera inte små metafiler"?
 
-Denna funktion är fördelaktig för att bevara den visuella kvaliteten hos små metafiler, vilket är avgörande för att uppnå professionella och högkvalitativa dokumentutdata.
+Den här funktionen är fördelaktig för att bevara den visuella kvaliteten hos små metafiler, vilket är avgörande för att uppnå professionella och högkvalitativa dokumentutdata.
 
 ### Kan jag använda den här funktionen med andra filformat?
 

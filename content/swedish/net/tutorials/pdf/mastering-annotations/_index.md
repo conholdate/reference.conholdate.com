@@ -33,7 +33,7 @@ Om du någonsin har arbetat med PDF-filer vet du att annoteringar är en spelomv
 
  Anteckningar är mer än bara visuella hjälpmedel – de innehåller värdefull data. Att extrahera dem kan effektivisera granskningar, revisioner eller samarbetsflöden. Dyk ner i[Extrahera kommentarer från PDF-dokument](./extract-annotations-from-pdf/) guide för en omfattande genomgång. Du kommer att upptäcka hur du drar ut kommentarer programmatiskt, vilket gör dina PDF-filer till ett ännu kraftfullare verktyg.  
 
-## Bemästra annoteringar i PDF-handledningar
+## Bemästra kommentarer i PDF-handledningar
 | Titel | Beskrivning |
 | --- | --- | 
 | [Lägg till PDF-anteckning](./adding-pdf-annotation/) | Lär dig hur du lägger till kommentarer med Aspose.PDF för .NET. Denna steg-för-steg handledning täcker allt från att installera biblioteket till att anpassa dina kommentarer. |  

@@ -64,7 +64,7 @@ När arbetsboken har laddats måste du komma åt kalkylbladet som innehåller de
 Worksheet worksheet = workbook.Worksheets[0];
 ```
 
- Om dina kommentarer finns i ett annat kalkylblad, ändra helt enkelt indexet därefter. Använd till exempel`Worksheets[1]` för det andra kalkylbladet och så vidare.
+ Om dina kommentarer finns i ett annat kalkylblad, ändra helt enkelt indexet därefter. Använd till exempel`Worksheets[1]` för det andra arbetsbladet och så vidare.
 
 ## Steg 4: Hämta trådade kommentarer
 

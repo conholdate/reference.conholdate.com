@@ -108,7 +108,7 @@ Po zakończeniu modyfikacji czas zapisać skoroszyt.
 workbook.Save(dataDir + "output.out.xls");
 ```
 
- Tutaj zapisujemy skoroszyt jako`output.out.xls`. Możesz wybrać dowolną nazwę.
+ Tutaj zapisujemy skoroszyt jako`output.out.xls`Możesz wybrać dowolną nazwę.
 
 ## Krok 8: Zamknij strumień plików
 

@@ -118,4 +118,4 @@ Igen, letölthet egy ingyenes próbaverziót a webhelyről, hogy felfedezze anna
 
 ### Hogyan szerezhetek technikai támogatást a GroupDocs.Signature for .NET-hez?
 
- Technikai segítségért látogassa meg a[GroupDocs.Signature fórum](https://forum.groupdocs.com/c/signature/13).
+ Technikai segítségért keresse fel a[GroupDocs.Signature fórum](https://forum.groupdocs.com/c/signature/13).

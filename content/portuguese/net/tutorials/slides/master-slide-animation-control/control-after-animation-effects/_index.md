@@ -121,7 +121,7 @@ Absolutamente! O Aspose.Slides é atualizado regularmente para garantir compatib
 
 ### Quais formatos de arquivo o Aspose.Slides suporta para salvar apresentações?
 
-Aspose.Slides suporta vários formatos, incluindo PPTX, PPT, PDF e mais. Verifique a documentação para uma lista completa.
+O Aspose.Slides suporta vários formatos, incluindo PPTX, PPT, PDF e mais. Verifique a documentação para uma lista completa.
 
 ### Onde posso obter suporte ou tirar dúvidas relacionadas ao Aspose.Slides?
 

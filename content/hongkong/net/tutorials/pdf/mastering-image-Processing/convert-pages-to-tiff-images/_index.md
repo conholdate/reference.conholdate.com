@@ -68,7 +68,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## 第 2 步：開啟 PDF 文檔
 
-將 PDF 檔案載入到`Document`目的：
+將 PDF 文件載入到`Document`目的：
 
 ```csharp
 //開啟文件
@@ -145,7 +145,7 @@ Aspose.PDF 是一個 .NET 程式庫，旨在輕鬆建立、操作和轉換 PDF �
 Aspose.PDF支援各種格式，包括TIFF、PNG、JPEG等。
 
 ### 我需要許可證才能使用 Aspose.PDF 嗎？
-是的，試用期過後，您將需要購買商業用途授權。查看[這裡](https://purchase.aspose.com/)了解定價詳情。
+是的，試用期結束後，您將需要購買商業用途許可證。查看[這裡](https://purchase.aspose.com/)了解定價詳情。
 
 ### 我可以在哪裡獲得 Aspose.PDF 支援？
 您可以透過造訪 Aspose 論壇尋求支持[這裡](https://forum.aspose.com/c/pdf/10).

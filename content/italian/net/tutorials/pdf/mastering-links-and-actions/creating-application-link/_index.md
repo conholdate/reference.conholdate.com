@@ -107,7 +107,7 @@ Console.WriteLine("\nApplication link created successfully.\nFile saved at " + d
 
 ## Conclusione
 
-In pochi semplici passaggi, hai imparato a creare un collegamento all'applicazione in un file PDF utilizzando Aspose.PDF per .NET. Questa potente libreria ti consente di rendere i documenti PDF più interattivi e coinvolgenti, guidando gli utenti verso informazioni o applicazioni preziose.
+In pochi semplici passaggi, hai imparato come creare un collegamento all'applicazione in un file PDF utilizzando Aspose.PDF per .NET. Questa potente libreria ti consente di rendere i documenti PDF più interattivi e coinvolgenti, guidando gli utenti verso informazioni o applicazioni preziose.
 
 ## Domande frequenti
 

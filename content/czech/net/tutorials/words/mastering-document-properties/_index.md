@@ -9,7 +9,7 @@ url: /cs/net/tutorials/words/mastering-document-properties/
 ---
 ## Zavedení  
 
-Aspose.Words for .NET nabízí širokou škálu výkonných funkcí pro manipulaci s dokumenty Wordu, což usnadňuje správu metadat a formátování. Jednou z takových funkcí je ovládání vlastností dokumentu. V tomto článku se ponoříme do výukových programů, které pokrývají přidávání vlastních vlastností dokumentu, odstraňování zbytečných metadat a dokonce převod měrných jednotek pro vylepšenou správu dokumentů. Pojďme prozkoumat, jak mohou tyto výukové programy pomoci zlepšit váš pracovní postup.
+Aspose.Words for .NET nabízí širokou škálu výkonných funkcí pro manipulaci s dokumenty aplikace Word, což usnadňuje správu metadat a formátování. Jednou z takových funkcí je ovládání vlastností dokumentu. V tomto článku se ponoříme do výukových programů, které pokrývají přidávání vlastních vlastností dokumentu, odstraňování zbytečných metadat a dokonce převod měrných jednotek pro vylepšenou správu dokumentů. Pojďme prozkoumat, jak mohou tyto výukové programy pomoci zlepšit váš pracovní postup.
 
 ## Přidání vlastních vlastností dokumentu v aplikaci Word  
 

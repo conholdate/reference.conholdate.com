@@ -9,7 +9,7 @@ url: /hu/net/tutorials/words/word-document-saving-options/encrypt-document-with-
 ---
 ## Bevezetés
 
-mai digitális világban az érzékeny információk védelme kulcsfontosságú. Legyen szó személyes feljegyzésekről vagy bizalmas üzleti dokumentumokról, a fájlok jelszóval történő védelme okos lépés. Az Aspose.Words for .NET egyszerű és hatékony módszert kínál a dokumentumok titkosítására. Tekintsd úgy, mintha zárnád a naplódat – csak a kulccsal (vagy jelszóval) rendelkezők férhetnek hozzá a benne lévő tartalomhoz. Nézzük meg lépésről lépésre a dokumentum Aspose.Words használatával történő jelszóvédelmét.
+mai digitális világban az érzékeny információk védelme kulcsfontosságú. Legyen szó személyes feljegyzésekről vagy bizalmas üzleti dokumentumokról, a fájlok jelszóval történő védelme okos lépés. Az Aspose.Words for .NET egyszerű és hatékony módszert kínál a dokumentumok titkosítására. Tekintsd úgy, mintha zárnád a naplódat – csak a kulccsal (vagy jelszóval) rendelkezők férhetnek hozzá a benne lévő tartalomhoz. Nézzük meg lépésről lépésre a dokumentum jelszavas védelmének folyamatát az Aspose.Words használatával.
 
 ## Előfeltételek
 

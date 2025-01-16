@@ -42,7 +42,7 @@ Definisci dove si trova il tuo file Excel di origine e dove vuoi salvare il PDF 
 ```csharp
 // Elenco di origine
 string sourceDir = "Your Document Directory";
-// Directory di output
+// Directory di uscita
 string outputDir = "Your Document Directory";
 ```
 

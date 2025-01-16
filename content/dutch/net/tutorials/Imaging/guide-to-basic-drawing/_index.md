@@ -19,7 +19,7 @@ Aspose.Imaging voor .NET is een krachtige bibliotheek voor beeldverwerking die o
 
  Een ander fundamenteel aspect van het creëren van afbeeldingen is het tekenen van rechthoeken. Onze[Handleiding voor het tekenen van rechthoeken met Aspose.Imaging](./guide-to-drawing-rectangle/) duikt in de basis van het construeren van rechthoeken in uw afbeeldingen. U ontdekt hoe u kleuren, formaten en posities kunt aanpassen en eenvoudige vormen kunt omzetten in integrale onderdelen van uw ontwerp. Beschouw rechthoeken als de bouwstenen van uw digitale canvas: ze kunnen andere afbeeldingselementen omlijsten of dienen als achtergrond. Met de juiste technieken kunt u verbluffende beelden creëren die de aandacht trekken.
 
-## Basis teken tutorials
+## Basis tekenlessen
 ### [Aangepaste bogen maken in afbeeldingen met Aspose.Imaging voor .NET](./create-custom-arc-in-images/)
 Leer hoe u aangepaste bogen in afbeeldingen tekent met Aspose.Imaging voor .NET. Volg de stapsgewijze instructies om uw afbeelding in te stellen, de grafische context te initialiseren, boogparameters te definiëren en de uiteindelijke uitvoer op te slaan.
 ### [Handleiding voor het tekenen van rechthoeken met Aspose.Imaging](./guide-to-drawing-rectangle/)

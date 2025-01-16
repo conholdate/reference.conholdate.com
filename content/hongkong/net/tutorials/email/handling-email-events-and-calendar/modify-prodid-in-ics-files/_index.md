@@ -39,7 +39,7 @@ using Aspose.Email;
 using Aspose.Email.Calendar;
 ```
 
-現在到了有趣的部分——將流程分解為可管理的步驟。每個步驟都包含詳細的說明，以便於遵循。
+現在到了有趣的部分——將流程分解為可管理的步驟。每個步驟都包含詳細的說明，使其易於遵循。
 
 ## 第1步：設定檔案路徑
 
@@ -111,7 +111,7 @@ app.Save(dataDir + "ModifiedICSFile.ics", saveOptions);
 是的，您可以使用有限的功能。若要解鎖所有功能，請獲取[免費試用](https://releases.aspose.com/)或者[臨時執照](https://purchase.aspose.com/temporary-license/).
 
 ### Aspose.Email 與 .NET Core 相容嗎？  
-絕對地！ Aspose.Email 支援.NET Core、.NET Framework 和 Xamarin 平台。
+絕對地！ Aspose.Email 支援 .NET Core、.NET Framework 和 Xamarin 平台。
 
 ### 如何調試 ICS 檔案問題？  
 使用 Aspose.Email 強大的日誌記錄功能或在文字編輯器中開啟 ICS 檔案來檢查語法錯誤。

@@ -68,7 +68,7 @@ Aspose.Pdf.License license = new Aspose.Pdf.License();
 license.SetLicense("MergedAPI.Aspose.Total.lic");
 ```
 
-確保您更新`"MergedAPI.Aspose.Total.lic"`以符合您的實際許可證文件名。設定許可證對於解鎖 Aspose.PDF 庫的所有功能至關重要。
+確保您更新`"MergedAPI.Aspose.Total.lic"`以符合您的實際許可證文件名稱。設定許可證對於解鎖 Aspose.PDF 庫的所有功能至關重要。
 
 ## 步驟4：確認許可證設置
 

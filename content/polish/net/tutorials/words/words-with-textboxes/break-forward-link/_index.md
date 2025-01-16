@@ -35,7 +35,7 @@ Te przestrzenie nazw zapewniają dostęp do klas i metod, których będziemy uż
 
 Najpierw najważniejsze — utwórzmy nowy dokument Word. Będzie to nasze puste płótno do dodawania pól tekstowych i wykonywania różnych operacji.
 
-Aby zainicjować nowy dokument Word, użyj następującego wiersza kodu:
+Aby zainicjować nowy dokument programu Word, użyj następującego wiersza kodu:
 
 ```csharp
 Document doc = new Document();
@@ -71,7 +71,7 @@ Metoda ta skutecznie izoluje bieżące pole tekstowe od wszystkich połączonych
 
 ## Krok 4: Ustawienie łącza do przodu na wartość null
 
- Innym sposobem na zerwanie łącza jest ustawienie`Next` właściwość pola tekstowego do`null`. Jest to szczególnie przydatne, gdy dynamicznie dostosowujesz strukturę dokumentu.
+ Innym sposobem na zerwanie łącza jest ustawienie`Next` właściwość pola tekstowego do`null`Jest to szczególnie przydatne, gdy dynamicznie dostosowujesz strukturę dokumentu.
 
 ```csharp
 textBox.Next = null;

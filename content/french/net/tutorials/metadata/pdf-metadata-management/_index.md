@@ -2,7 +2,7 @@
 title: Gestion des métadonnées PDF avec GroupDocs.Metadata dans .NET
 linktitle: Gestion des métadonnées PDF
 second_title: API .NET GroupDocs.Metadata
-description: Découvrez comment gérer efficacement les métadonnées PDF dans .NET à l'aide de GroupDocs.Metadata. Ce guide complet couvre tous les aspects, de l'ajout, de la modification et de l'extraction des métadonnées aux meilleures pratiques pour une implémentation transparente dans vos applications .NET.
+description: Découvrez comment gérer efficacement les métadonnées PDF dans .NET à l'aide de GroupDocs.Metadata. Ce guide complet couvre tous les aspects, de l'ajout, la modification et l'extraction de métadonnées aux meilleures pratiques pour une implémentation transparente dans vos applications .NET.
 type: docs
 weight: 24
 url: /fr/net/tutorials/metadata/pdf-metadata-management/

@@ -18,7 +18,7 @@ url: /ja/net/tutorials/pdf/mastering-image-Processing/bradley-binarization-algor
 -  Aspose.PDF for .NET: ライブラリをダウンロード[ここ](https://releases.aspose.com/pdf/net/).
 - Visual Studio (または任意の C# IDE)。
 - C# の基礎知識。
-- 有効な免許証または[一時ライセンス](https://purchase.aspose.com/temporary-license/)Aspose より。
+- 有効な免許証または[一時ライセンス](https://purchase.aspose.com/temporary-license/)Aspose から。
 
 ## ステップ1: プロジェクトを設定する
 

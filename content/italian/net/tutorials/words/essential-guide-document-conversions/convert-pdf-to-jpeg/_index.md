@@ -17,7 +17,7 @@ Prima di immergerci nel codice, assicuriamoci di aver impostato tutto:
 
 1.  Aspose.Words per .NET: assicurati di avere installata questa potente libreria. Puoi scaricarla[Qui](https://releases.aspose.com/words/net/).
 2. .NET Framework: assicurati di aver configurato l'ambiente .NET sul tuo computer.
-3. Visual Studio: funzionerà qualsiasi versione, purché tu abbia dimestichezza con il suo utilizzo.
+3. Visual Studio: qualsiasi versione funzionerà, purché tu abbia dimestichezza con il suo utilizzo.
 4.  Un file PDF: per questo tutorial, utilizzeremo un file di esempio denominato`Pdf Document.pdf`.
 
 ## Passaggio 1: imposta il tuo progetto

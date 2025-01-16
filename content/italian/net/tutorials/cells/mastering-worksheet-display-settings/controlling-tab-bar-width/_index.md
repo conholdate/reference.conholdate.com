@@ -9,7 +9,7 @@ url: /it/net/tutorials/cells/mastering-worksheet-display-settings/controlling-ta
 ---
 ## Introduzione
 
-La gestione programmatica dei file Excel offre possibilità illimitate per migliorare la produttività e automatizzare le attività ripetitive. Tra le modifiche meno discusse ma di impatto c'è la personalizzazione della larghezza della barra delle schede nei fogli Excel. Utilizzando Aspose.Cells per .NET, possiamo manipolare i file Excel, tra cui l'impostazione della larghezza della barra delle schede, l'occultamento delle schede e altro ancora. In questa guida completa, mostreremo come regolare la larghezza della barra delle schede in modo efficiente per migliorare l'usabilità e l'estetica.
+La gestione programmatica dei file Excel offre possibilità illimitate per migliorare la produttività e automatizzare le attività ripetitive. Tra le modifiche meno discusse ma di impatto c'è la personalizzazione della larghezza della barra delle schede nei fogli Excel. Utilizzando Aspose.Cells per .NET, possiamo manipolare i file Excel, tra cui l'impostazione della larghezza della barra delle schede, l'occultamento delle schede e altro ancora. In questa guida completa, mostreremo come regolare in modo efficiente la larghezza della barra delle schede per migliorare l'usabilità e l'estetica.
 
 ## Prerequisiti per l'utilizzo di Aspose.Cells per .NET
 

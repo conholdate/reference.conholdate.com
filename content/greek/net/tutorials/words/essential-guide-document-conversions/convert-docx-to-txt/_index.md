@@ -15,7 +15,7 @@ url: /el/net/tutorials/words/essential-guide-document-conversions/convert-docx-t
 
 Πριν καταδυθείτε, βεβαιωθείτε ότι έχετε τις ακόλουθες προϋποθέσεις:
 
-1.  Aspose.Words for .NET Library: Κάντε λήψη της πιο πρόσφατης έκδοσης από το[Aspose Releases Page](https://releases.aspose.com/words/net/).
+1.  Aspose.Words for .NET Library: Κάντε λήψη της πιο πρόσφατης έκδοσης από το[Σελίδα εκδόσεων Aspose](https://releases.aspose.com/words/net/).
 2. Περιβάλλον ανάπτυξης: Εγκαταστήστε το Visual Studio ή άλλο περιβάλλον ανάπτυξης C#.
 3. Βασικές γνώσεις C#: Συνιστάται η εξοικείωση με τη γλώσσα προγραμματισμού C# και το πλαίσιο .NET.
 

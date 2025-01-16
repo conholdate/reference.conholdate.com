@@ -73,7 +73,7 @@ Ebben az esetben az első munkalapot jelöljük ki, de szükség szerint könnye
 
 ## 4. lépés: Az XML-térkép lekérdezése
 
-Most kérdezzük le az XML-leképezést egy XML-útvonal használatával. Például, ha adatokat szeretne lekérni a`/MiscData` utat, a következőket tenné:
+Most kérdezzük le az XML-leképezést egy XML-útvonal használatával. Például, ha adatokat szeretne lekérni a`/MiscData` utat, ezt tennéd:
 
 ```csharp
 // Az XML-leképezés lekérdezése az elérési út használatával

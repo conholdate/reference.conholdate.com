@@ -2,7 +2,7 @@
 title: Guida al disegno di rettangoli utilizzando Aspose.Imaging
 linktitle: Guida al disegno di rettangoli utilizzando Aspose.Imaging
 second_title: API di elaborazione delle immagini Aspose.Imaging .NET
-description: Sblocca la potenza dell'elaborazione delle immagini con Aspose.Imaging per .NET in questa guida completa. Impara come creare e manipolare le immagini, concentrandoti in particolare sul disegno di rettangoli con colori e dimensioni personalizzati.
+description: Sblocca la potenza dell'elaborazione delle immagini con Aspose.Imaging per .NET in questa guida completa. Scopri come creare e manipolare le immagini, concentrandoti in particolare sul disegno di rettangoli con colori e dimensioni personalizzati.
 type: docs
 weight: 14
 url: /it/net/tutorials/imaging/guide-to-basic-drawing/guide-to-drawing-rectangle/

@@ -19,7 +19,7 @@ Než začneme, ujistěte se, že máte následující:
    Znalost jazyka C# vám pomůže porozumět poskytnutým fragmentům kódu.
 
 2. Aspose.Cells pro knihovnu .NET  
-    Ujistěte se, že máte v projektu nainstalovanou knihovnu Aspose.Cells. Pokud jste to ještě neudělali, můžete[stáhněte si jej zde](https://releases.aspose.com/cells/net/).
+    Ujistěte se, že máte v projektu nainstalovanou knihovnu Aspose.Cells. Pokud jste to ještě neudělali, můžete[stáhněte si to zde](https://releases.aspose.com/cells/net/).
 
 3. Grafický obrázek  
    Připravte si grafický obrázek (JPG nebo PNG), který chcete použít jako pozadí. Poznamenejte si jeho cestu k adresáři pro pozdější použití.
@@ -74,7 +74,7 @@ Worksheet worksheet = workbook.Worksheets[0];
 
 Nyní můžete s tímto listem manipulovat podle potřeby.
 
-## Krok 4: Vyplňte list daty
+## Krok 4: Naplňte list daty
 
 Přidejme nějaká data, abychom poskytli kontext vašemu pozadí. Hodnoty zadáváte takto:
 

@@ -33,7 +33,7 @@ Tyto obory názvů vám umožní přístup ke třídám potřebným k efektivní
 
 ## Krok 1: Nastavte cestu k adresáři
 
-Nejprve definujte adresář pro ukládání sešitů aplikace Excel. Později to zjednoduší přístup k souborům.
+Nejprve definujte adresář pro ukládání sešitů aplikace Excel. To později zjednoduší přístup k souborům.
 
 ```csharp
 // Nastavte cestu k adresáři dokumentů.

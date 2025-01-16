@@ -16,8 +16,8 @@ url: /el/net/tutorials/tasks/guide-to-saving-options/save-ms-project-files-to-ht
 Πριν ξεκινήσουμε, βεβαιωθείτε ότι έχετε τις ακόλουθες προϋποθέσεις:
 
 1. Βασικές γνώσεις C#: Εξοικείωση με τη γλώσσα προγραμματισμού C# θεωρείται δεδομένο.
-2. Εγκατάσταση Aspose.Tasks: Βεβαιωθείτε ότι έχετε εγκατεστημένο το Aspose.Tasks για .NET στο περιβάλλον ανάπτυξης σας. Μπορείτε να το αποκτήσετε εύκολα από το[Aspose website](https://www.aspose.com).
-3.  Αρχείο Microsoft Project: Έχετε ένα αρχείο Microsoft Project έτοιμο για μετατροπή (με α`.mpp` επέκταση).
+2.  Εγκατάσταση Aspose.Tasks: Βεβαιωθείτε ότι έχετε εγκατεστημένο το Aspose.Tasks για .NET στο περιβάλλον ανάπτυξης σας. Μπορείτε να το αποκτήσετε εύκολα από το[Aspose website](https://www.aspose.com).
+3. Αρχείο Microsoft Project: Έχετε ένα αρχείο Microsoft Project έτοιμο για μετατροπή (με α`.mpp` επέκταση).
 
 ## Εισαγωγή απαραίτητων χώρων ονομάτων
 

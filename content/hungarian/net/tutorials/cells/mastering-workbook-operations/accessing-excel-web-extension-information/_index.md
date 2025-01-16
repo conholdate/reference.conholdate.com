@@ -67,7 +67,7 @@ Workbook workbook = new Workbook(sourceDir + "WebExtensionsSample.xlsx");
 
  Ez a sor létrehozza a`Workbook` osztályba, amely lehetővé teszi a fájl tartalmának felfedezését.
 
-## 5. lépés: Nyissa meg a webbővítmény munkaablakait
+## 5. lépés: Nyissa meg a webbővítmény munkaablakokat
 
 Ideje elérni a munkafüzethez társított webbővítmény munkaablakokat:
 
@@ -121,7 +121,7 @@ Gratulálunk, hogy sikeresen megtanulta, hogyan érheti el az Excel-fájlokban t
 
 ### Mi az Aspose.Cells?
 
-Az Aspose.Cells egy .NET-könyvtár, amely megkönnyíti az Excel-fájlok kezelését és kezelését anélkül, hogy a Microsoft Excel telepítése szükségessé válna.
+Az Aspose.Cells egy .NET-könyvtár, amelyet úgy terveztek, hogy megkönnyítse az Excel-fájlok kezelését és kezelését anélkül, hogy a Microsoft Excel telepítése szükséges lenne.
 
 ### Az Aspose.Cells használatához telepíteni kell a Microsoft Excelt?
 

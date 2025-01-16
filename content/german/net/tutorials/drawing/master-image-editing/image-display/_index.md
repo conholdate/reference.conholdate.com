@@ -92,7 +92,7 @@ Ja, Aspose.Drawing wird regelmäßig aktualisiert, um die Kompatibilität mit de
 
 ### Gibt es Lizenzüberlegungen für die Verwendung von Aspose.Drawing in kommerziellen Projekten?
 
- Weitere Informationen zu Lizenzierungsdetails und -optionen finden Sie auf der[Kaufseite](https://purchase.conholdate.com/buy).
+ Weitere Informationen zu Lizenzierungsdetails und -optionen finden Sie im[Kaufseite](https://purchase.conholdate.com/buy).
 
 ### Wo kann ich Hilfe suchen, wenn ich auf Probleme stoße oder Fragen zu Aspose.Drawing habe?
 

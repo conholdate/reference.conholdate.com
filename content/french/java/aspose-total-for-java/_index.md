@@ -107,7 +107,7 @@ Vous trouverez ci-dessous des liens vers certaines ressources utiles dont vous p
 
 **Welcome to the Aspose.Imaging for Java**
 
-Aspose.Imaging pour Java est une bibliothèque d'imagerie facile à utiliser, performante et bien documentée. Elle fournit le groupe de routines le plus flexible pour créer, manipuler et enregistrer des images dans des applications Java. Aspose.Imaging pour Java prend en charge un maximum de formats de fichiers issus de l'imagerie graphique basée sur Raster et fournit une large gamme d'algorithmes de compression ainsi que de nombreuses opérations de traitement d'image.
+Aspose.Imaging pour Java est une bibliothèque d'imagerie facile à utiliser, performante et bien documentée. Elle fournit le groupe de routines le plus flexible pour créer, manipuler et enregistrer des images dans les applications Java. Aspose.Imaging pour Java prend en charge un maximum de formats de fichiers issus de l'imagerie graphique basée sur Raster et fournit une large gamme d'algorithmes de compression ainsi que de nombreuses opérations de traitement d'image.
 
 Aspose.Imaging pour Java offre un large éventail d'opérations de traitement d'image traditionnelles telles que la conversion d'une image d'un format à un autre, le dessin d'objets natifs ainsi que de GraphicsPaths et de transformations géométriques telles que la mise à l'échelle, la rotation et le retournement. Une fonctionnalité exigeante fournie par Aspose.Imaging pour Java est la manipulation de plusieurs cadres d'image ou la lecture et l'écriture de formats de fichiers qui prennent en charge plusieurs cadres d'image.
 

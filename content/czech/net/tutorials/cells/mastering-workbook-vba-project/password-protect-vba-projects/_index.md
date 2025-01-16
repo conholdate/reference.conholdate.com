@@ -17,7 +17,7 @@ Chcete-li začít, ujistěte se, že jsou na místě následující:
 
 1. Instalováno Aspose.Cells for .NET: Nainstalujte Aspose.Cells do svého projektu .NET. Použijte[Dokumentace Aspose.Cells](https://reference.aspose.com/cells/net/) pro vedení.
 2. Vývojové prostředí: Nastavte IDE kompatibilní s .NET, jako je Visual Studio.
-3.  Soubor Excel s projektem VBA: Připravte soubor`.xlsm` soubor obsahující projekt VBA pro testování ochrany.
+3.  Soubor Excel s projektem VBA: Připravte si`.xlsm` soubor obsahující projekt VBA pro testování ochrany.
 4. Základní znalost C#: Základní znalost C# vám pomůže orientovat se ve fragmentech kódu.
 
 ## Import nezbytných balíčků

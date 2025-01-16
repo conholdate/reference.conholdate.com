@@ -83,7 +83,7 @@ Följande är länkarna till några användbara resurser som du kan behöva för
 
 **Welcome to the GroupDocs.Merger for Java**
 
-GroupDocs.Merger för Java tillåter trimning och byte av sidor. Den hanterar också dokumentskydd. Dessutom tillåter API att slå samman två dokument av samma format till en enda.
+GroupDocs.Merger för Java tillåter trimning och byte av sidor. Den hanterar även dokumentskydd. Dessutom tillåter API att slå samman två dokument av samma format till en enda.
 
 {{% /alert %}} 
 ## **GroupDocs.Merger for Java**

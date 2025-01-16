@@ -108,4 +108,4 @@ Oui, l'API permet des modifications de base dynamiques et automatisées par prog
 Oui, des données de base détaillées et échelonnées dans le temps peuvent être récupérées et analysées.
 
 ### Où puis-je accéder au support et à la documentation ?  
- Visite[Documentation sur Aspose.Tasks](https://reference.aspose.com/words/net/) ou rejoignez le[Forum d'assistance Aspose](https://forum.aspose.com/c/words/8) pour obtenir de l'aide. 
+ Visite[Documentation sur Aspose.Tasks](https://reference.aspose.com/words/net/)ou rejoignez le[Forum d'assistance Aspose](https://forum.aspose.com/c/words/8) pour obtenir de l'aide. 

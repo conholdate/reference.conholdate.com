@@ -47,7 +47,7 @@ BmpOptions saveOptions = new BmpOptions()
 //Δημιουργήστε την εικόνα
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
-    // Συνεχίστε να σχεδιάζετε πάνω στην εικόνα
+    // Συνεχίστε να σχεδιάζετε την εικόνα
 }
 ```
 

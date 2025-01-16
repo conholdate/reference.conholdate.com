@@ -30,7 +30,7 @@ munkalapok megjelenítési beállításainak kezelése Excel-fájlokban jelentő
 ### [A tabulátorsáv szélességének szabályozása a munkalapon az Aspose.Cells használatával](./controlling-tab-bar-width/)
 Ismerje meg, hogyan állíthatja be és szabályozhatja egyszerűen a tabulátorsáv szélességét Excel-lapokon az Aspose.Cells for .NET segítségével. Kövesse lépésenkénti útmutatónkat, hogy személyre szabott beállításokkal javítsa a táblázatos navigációt és az esztétikát.
 ### [Rácsvonalak elrejtése vagy megjelenítése az Excel munkalapokon](./hide-display-gridlines/)
-Ismerje meg, hogyan rejtheti el vagy jelenítheti meg könnyedén a rácsvonalakat az Excel-munkalapokon az Aspose.Cells for .NET segítségével. Ez az átfogó oktatóanyag lépésről lépésre tartalmazza az utasításokat.
+Ismerje meg, hogyan rejthet el vagy jeleníthet meg könnyedén rácsvonalakat az Excel-munkalapokon az Aspose.Cells for .NET segítségével. Ez az átfogó oktatóanyag lépésről lépésre tartalmazza az utasításokat.
 ### [Sorok és oszlopok fejléceinek elrejtése vagy megjelenítése a munkalapon](./hide-display-row-column-headers/)
 Fedezze fel, hogyan javíthatja az adatok tisztaságát az Excel-munkalapokon a sorok és oszlopok fejléceinek hatékony megjelenítésével vagy elrejtésével a .NET Aspose.Cells könyvtárával.
 ### [A görgetősáv láthatóságának vezérlése Excel-munkalapokon](./controlling-scroll-bar-visibility/)

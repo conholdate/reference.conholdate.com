@@ -108,4 +108,4 @@ Console.WriteLine("Modified Baseline Work: " + baseline.Work);
 हां, विस्तृत समय-चरणबद्ध आधारभूत डेटा प्राप्त किया जा सकता है और उसका विश्लेषण किया जा सकता है।
 
 ### मैं सहायता और दस्तावेज़ कहां से प्राप्त कर सकता हूं?  
- मिलने जाना[Aspose.Tasks दस्तावेज़ीकरण](https://reference.aspose.com/words/net/) या शामिल हों[Aspose समर्थन मंच](https://forum.aspose.com/c/words/8) सहायता के लिए. 
+ मिलने जाना[Aspose.Tasks दस्तावेज़ीकरण](https://reference.aspose.com/words/net/)या शामिल हों[Aspose समर्थन मंच](https://forum.aspose.com/c/words/8) सहायता के लिए. 

@@ -86,7 +86,7 @@ Ja! Du kan konvertera från olika format, inklusive DOC, DOCX och HTML till RTF.
 ### Vad händer om mitt konverteringsresultat inte är som förväntat?
  Granska indatadokumentet för problem eller hänvisa till[Aspose.Words dokumentation](https://reference.aspose.com/words/net/) för vägledning.
 
-### Kan jag automatisera den här konverteringsprocessen?
+### Kan jag automatisera denna konverteringsprocess?
 Definitivt! Integrera den medföljande koden i dina applikationer eller skript för att automatisera dokumentkonverteringar sömlöst.
 
 ### Var kan jag hitta mer support?

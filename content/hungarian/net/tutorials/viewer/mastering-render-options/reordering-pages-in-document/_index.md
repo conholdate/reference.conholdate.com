@@ -47,7 +47,7 @@ string outputFilePath = Path.Combine(outputDirectory, "output.pdf");
 ```csharp
 using (Viewer viewer = new Viewer("Path_to_Your_Document"))
 {
-    // Az oldalak átrendezési kódja ide kerül
+    // Az oldalak átrendezésének kódja ide kerül
 }
 ```
 

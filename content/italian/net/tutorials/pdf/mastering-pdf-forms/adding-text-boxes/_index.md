@@ -9,7 +9,7 @@ url: /it/net/tutorials/pdf/mastering-pdf-forms/adding-text-boxes/
 ---
 ## Introduzione
 
-Nel panorama digitale odierno, migliorare l'esperienza utente tramite documenti interattivi è essenziale. I moduli PDF interattivi non solo semplificano la raccolta dati, ma coinvolgono anche gli utenti in un modo che i documenti statici non possono. Aspose.PDF per .NET è una potente libreria progettata per aiutare gli sviluppatori a integrare senza sforzo vari campi modulo nei documenti PDF. Tra questi, le caselle di testo sono particolarmente utili per raccogliere l'input dell'utente in modo strutturato. In questo tutorial, illustreremo il processo di aggiunta di una casella di testo a un PDF utilizzando Aspose.PDF per .NET, assicurandoti di avere una comprensione completa di ogni passaggio.
+Nel panorama digitale odierno, migliorare l'esperienza utente tramite documenti interattivi è essenziale. I moduli PDF interattivi non solo semplificano la raccolta dati, ma coinvolgono anche gli utenti in un modo che i documenti statici non possono. Aspose.PDF per .NET è una potente libreria progettata per aiutare gli sviluppatori a integrare senza sforzo vari campi modulo nei documenti PDF. Tra questi, le caselle di testo sono particolarmente utili per raccogliere l'input dell'utente in modo strutturato. In questo tutorial, esamineremo il processo di aggiunta di una casella di testo a un PDF utilizzando Aspose.PDF per .NET, assicurandoti di avere una comprensione completa di ogni passaggio.
 
 ## Prerequisiti
 

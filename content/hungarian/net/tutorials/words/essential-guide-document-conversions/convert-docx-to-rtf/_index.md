@@ -13,7 +13,7 @@ Készen áll a dokumentumfeldolgozási feladatok egyszerűsítésére? Ebben az 
 
 ## Előfeltételek
 
-Búvárkodás előtt győződjön meg arról, hogy rendelkezik a következőkkel:
+A merülés előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
 1.  Aspose.Words for .NET: Töltse le a könyvtárat a[Aspose.Words letöltési oldal](https://releases.aspose.com/words/net/).
 2. Fejlesztési környezet: Használja a Visual Studiót vagy egy másik .NET IDE-t a C# kód írásához és végrehajtásához.

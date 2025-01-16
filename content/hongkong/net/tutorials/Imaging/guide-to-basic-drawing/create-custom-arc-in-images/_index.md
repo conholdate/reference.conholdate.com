@@ -96,7 +96,7 @@ using (FileStream stream = new FileStream(Path.Combine(dataDir, "DrawingArc_out.
 ```csharp
             //儲存帶有繪製圓弧的圖像
             image.Save();
-        } //圖形物件被自動處理
+        } //圖形物件自動處理
     } //FileStream 自動處理
 }
 ```

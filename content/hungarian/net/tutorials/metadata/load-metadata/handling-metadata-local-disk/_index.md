@@ -96,4 +96,4 @@ Ebben az oktatóanyagban megvizsgáltuk, hogyan használhatjuk hatékonyan a Gro
  Támogatásért keresse fel a[GroupDocs.Metadata fórum](https://forum.groupdocs.com/c/metadata/14) közösségi segítségért és megbeszélésekért.
 
 ### Milyen fájlformátumokat támogat a GroupDocs.Metadata?
-A GroupDocs.Metadata számos formátumot támogat, beleértve a DOCX, XLSX, PDF, JPG, PNG és más formátumokat.
+A GroupDocs.Metadata számos formátumot támogat, beleértve a DOCX, XLSX, PDF, JPG, PNG és sok más formátumot.

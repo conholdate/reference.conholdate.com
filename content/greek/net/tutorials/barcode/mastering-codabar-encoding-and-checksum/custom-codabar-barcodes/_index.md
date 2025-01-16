@@ -72,7 +72,7 @@ gen.Parameters.Barcode.Codabar.CodabarStartSymbol = CodabarSymbol.B;
 gen.Parameters.Barcode.Codabar.CodabarStopSymbol = CodabarSymbol.B;
 ```
 
-### Έναρξη C και Διακοπή C:
+### Έναρξη C και στάση C:
 
 ```csharp
 gen.Parameters.Barcode.Codabar.CodabarStartSymbol = CodabarSymbol.C;

@@ -13,7 +13,7 @@ Aspose.Words per .NET è una potente libreria che semplifica la gestione dei doc
 
 ## Perché utilizzare le opzioni di salvataggio fisse HTML?
 
- Immagina di creare un bellissimo documento Word, completo di font elaborati e formattazione intricata. Ora, immagina che questo documento venga visualizzato su un computer diverso che non ha quei font installati. Accidenti! Ecco dove le opzioni di salvataggio fisse HTML tornano utili. Utilizzando queste opzioni, puoi assicurarti che i tuoi documenti abbiano lo stesso aspetto su qualsiasi dispositivo. Aspose.Words ti consente di includere i font del computer di destinazione nel tuo output, assicurandoti che tutto abbia esattamente l'aspetto che intendevi. Per maggiori dettagli, consulta questa guida su[Font della macchina di destinazione con Aspose.Words per .NET](./target-machine-font/).
+ Immagina di creare un bellissimo documento Word, completo di font elaborati e formattazione intricata. Ora, immagina che questo documento venga visualizzato su un computer diverso che non ha quei font installati. Accidenti! Ecco dove le opzioni di salvataggio fisse HTML tornano utili. Utilizzando queste opzioni, puoi assicurarti che i tuoi documenti abbiano lo stesso aspetto su qualsiasi dispositivo. Aspose.Words ti consente di includere i font del computer di destinazione nel tuo output, assicurandoti che tutto abbia esattamente l'aspetto che volevi. Per maggiori dettagli, consulta questa guida su[Font della macchina di destinazione con Aspose.Words per .NET](./target-machine-font/).
 
 ## Semplificare il tuo CSS con Aspose.Words
 

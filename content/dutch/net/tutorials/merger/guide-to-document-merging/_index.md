@@ -9,7 +9,7 @@ url: /nl/net/tutorials/merger/guide-to-document-merging/
 ---
 ## Invoering
 
-In een wereld waarin efficiëntie en productiviteit de boventoon voeren, is het beheren van documenten nog nooit zo cruciaal geweest. Daar komt GroupDocs.Merger voor .NET om de hoek kijken, met krachtige tools voor het samenvoegen van verschillende documenttypen. Als u ooit met meerdere bestanden hebt gewerkt, weet u hoe vervelend dat kan zijn. Gelukkig stroomlijnt deze handige bibliotheek het proces, waardoor het eenvoudiger dan ooit is om documenten in .NET-toepassingen te combineren.
+In een wereld waarin efficiëntie en productiviteit de boventoon voeren, is het beheren van documenten nog nooit zo cruciaal geweest. Daar komt GroupDocs.Merger voor .NET om de hoek kijken, met krachtige tools voor het samenvoegen van verschillende documenttypen. Als u ooit met meerdere bestanden hebt moeten jongleren, weet u hoe vervelend dat kan zijn. Gelukkig stroomlijnt deze handige bibliotheek het proces, waardoor het eenvoudiger dan ooit is om documenten in .NET-toepassingen te combineren.
 
 ## Documentbestanden samenvoegen met GroupDocs.Merger voor .NET
 
@@ -19,7 +19,7 @@ Laten we beginnen met het samenvoegen van DOC-bestanden. Met GroupDocs.Merger vo
 
 ## PDF-bestanden samenvoegen met GroupDocs.Merger voor .NET
 
-En hoe zit het met die PDF-bestanden? Het samenvoegen van PDF's kan lastig zijn als u met verschillende softwareoplossingen werkt, maar GroupDocs.Merger vereenvoudigt de taak. Stel dat u een verzameling facturen of rapporten naar uw stakeholders wilt sturen, dan kunt u ze samenvoegen tot één professioneel ogende PDF in plaats van meerdere bestanden te sturen.
+En hoe zit het met die PDF-bestanden? Het samenvoegen van PDF's kan lastig zijn als u met verschillende softwareoplossingen werkt, maar GroupDocs.Merger vereenvoudigt de taak. Stel dat u een verzameling facturen of rapporten naar uw stakeholders wilt sturen, dan kunt u ze in plaats van meerdere bestanden te sturen, samenvoegen tot één professioneel ogende PDF.
 
  Het proces is opmerkelijk vergelijkbaar met het samenvoegen van DOC-bestanden. Met slechts een paar regels code kunt u uw PDF-documenten laden, ze samenvoegen en voila! U hebt een opgeruimd bestand klaar voor distributie. Onze tutorial over[PDF-bestanden samenvoegen](./merge-pdf-files/) gaat dieper in op deze functie, biedt stapsgewijze begeleiding en beantwoordt veelgestelde vragen.
 

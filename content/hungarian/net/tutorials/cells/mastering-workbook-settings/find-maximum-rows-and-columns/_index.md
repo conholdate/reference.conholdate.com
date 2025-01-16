@@ -76,7 +76,7 @@ Console.WriteLine("Maximum Columns: " + maxCols);
 ```
 
 1. Nyomtasson ki egy üzenetet, amely jelzi, hogy az XLSX formátummal dolgozunk.
-2.  Hozzon létre a`Workbook` példa az XLSX formátumhoz`FileFormatType.Xlsx`.
+2.  Hozzon létre a`Workbook` példány az XLSX formátumhoz`FileFormatType.Xlsx`.
 3. Töltse le és adja ki a maximális sorokat és oszlopokat, mint korábban.
 
 ## 3. lépés: Sikerüzenet megjelenítése

@@ -67,7 +67,7 @@ CheckBoxComponent checkBox = new CheckBoxComponent
 };
 ```
 
-## Schritt 5: Fügen Sie das Kontrollkästchen zum Dokument hinzu
+## Schritt 5: Kontrollkästchen zum Dokument hinzufügen
 
 Fügen Sie die erstellte Kontrollkästchenkomponente zum PDF hinzu:
 

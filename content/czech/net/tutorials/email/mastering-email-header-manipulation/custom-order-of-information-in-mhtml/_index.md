@@ -9,7 +9,7 @@ url: /cs/net/tutorials/email/mastering-email-header-manipulation/custom-order-of
 ---
 ## Zavedení
 
-Vytváření bohatých e-mailových formátů může výrazně zlepšit komunikaci, zejména při exportu e-mailů do různých formátů souborů, jako je MHTML. Aspose.Email for .NET poskytuje vývojářům výkonnou sadu nástrojů pro manipulaci s e-maily, která zahrnuje definování vlastního pořadí pro zobrazení informací při exportu do MHTML. V této příručce rozebereme kroky potřebné k tomu, abyste toho dosáhli, abyste je mohli snadno sledovat, ať už jste zkušený vývojář nebo teprve začínáte. Tak jdeme rovnou do toho!
+Vytváření bohatých e-mailových formátů může výrazně zlepšit komunikaci, zejména při exportu e-mailů do různých formátů souborů, jako je MHTML. Aspose.Email for .NET poskytuje vývojářům výkonnou sadu nástrojů pro manipulaci s e-maily, která zahrnuje definování vlastního pořadí pro zobrazení informací při exportu do MHTML. V této příručce rozebereme kroky potřebné k tomu, abyste toho dosáhli, abyste je mohli snadno sledovat, ať už jste zkušený vývojář nebo teprve začínáte. Tak, pojďme se do toho pořádně pustit!
 
 ## Předpoklady
 

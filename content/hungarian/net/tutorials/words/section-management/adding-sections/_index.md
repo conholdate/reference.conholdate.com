@@ -43,7 +43,7 @@ DocumentBuilder builder = new DocumentBuilder(doc);
 ```
 
 - `Document doc = new Document();` inicializál egy üres Word dokumentumot.
-- `DocumentBuilder builder = new DocumentBuilder(doc);` lehetővé teszi számunkra, hogy könnyen hozzáadhassunk tartalmat a dokumentumhoz.
+- `DocumentBuilder builder = new DocumentBuilder(doc);` lehetővé teszi számunkra, hogy könnyen hozzáadjunk tartalmat a dokumentumhoz.
 
 ## 2. lépés: Kezdeti tartalom hozzáadása
 
@@ -100,9 +100,9 @@ Gratulálok! Most tanulta meg, hogyan adhat szakaszokat egy Word-dokumentumhoz a
 
 ## GYIK
 
-### Mi az a szakasz egy Word dokumentumban?
+### Mi az a szakasz a Word-dokumentumban?
 
-A szakasz egy szegmens a Word-dokumentumban, amelynek saját elrendezése és formázása lehet, például fejlécek, láblécek és oszlopok, amelyek segítenek a tartalom kezelhető részekre strukturálásában.
+A szakasz egy szegmens a Word-dokumentumban, amelynek saját elrendezése és formázása lehet, például fejlécek, láblécek és oszlopok, amelyek segítik a tartalom kezelhető részekre strukturálását.
 
 ### Hozzáadhatok több szakaszt egy Word dokumentumhoz?
 

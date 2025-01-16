@@ -57,7 +57,7 @@ Questo frammento di codice aggiunge quattro parti XML personalizzate identiche. 
 ## Passaggio 4: assegnare ID univoci alle parti XML personalizzate
 Assegnare identificatori univoci a ciascuna parte XML per facilitarne il recupero in seguito:
 ```csharp
-// Assegna ID alle parti XML personalizzate.
+// Assegnare ID alle parti XML personalizzate.
 wb.CustomXmlParts[0].ID = "Fruit";
 wb.CustomXmlParts[1].ID = "Color";
 wb.CustomXmlParts[2].ID = "Sport";

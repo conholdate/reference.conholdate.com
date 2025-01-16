@@ -51,7 +51,7 @@ Document pdfDocument = new Document(dataDir + "AddAnnotation.pdf");
  Ezután létrehozunk egy`TextAnnotation`, ideális megjegyzések vagy megjegyzések hozzáadásához.
 
 ```csharp
-// Szövegjegyzet létrehozása
+// Hozzon létre egy szövegannotációt
 TextAnnotation textAnnotation = new TextAnnotation(pdfDocument.Pages[1], new Aspose.Pdf.Rectangle(200, 400, 400, 600))
 {
     Title = "Sample Annotation Title",

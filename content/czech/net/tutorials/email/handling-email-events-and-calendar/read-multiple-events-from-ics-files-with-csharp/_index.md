@@ -65,7 +65,7 @@ Při práci s externími soubory, jako je ICS, je zásadní robustní zpracován
 ```csharp
 try
 {
-    // Načtěte a zpracujte soubor ICS
+    // Načíst a zpracovat soubor ICS
 }
 catch (FileNotFoundException ex)
 {

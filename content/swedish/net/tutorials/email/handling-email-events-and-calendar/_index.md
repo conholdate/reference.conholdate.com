@@ -1,6 +1,6 @@
 ---
 title: Hantera e-posthändelser och kalender med Aspose.Email för .NET
-linktitle: Hantera e-postevenemang och kalender
+linktitle: Hantera e-posthändelser och kalender
 second_title: Aspose.Email .NET Email Processing API
 description: Utforska Aspose.Email för .NET-handledningar om hantering av e-posthändelser och kalenderhantering. Lär dig tekniker för att förbättra dina C#-applikationer effektivt.
 type: docs

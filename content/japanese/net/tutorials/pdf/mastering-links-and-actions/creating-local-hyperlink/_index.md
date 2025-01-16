@@ -103,7 +103,7 @@ page.Paragraphs.Add(text); //ページにテキストフラグメントを追加
 
 ## ステップ 6: 別のテキスト フラグメントを作成する (オプション)
 
-ページ 1 に戻るための別のハイパーリンクを追加しましょう。
+ページ 1 に戻るためのハイパーリンクをもう 1 つ追加しましょう。
 
 ```csharp
 TextFragment textBack = new TextFragment("Link to page 1"); //新しいテキストフラグメントを作成する

@@ -83,7 +83,7 @@ rasterImage.Filter(image.Bounds, options);
 
 ## Schritt 6: Speichern Sie das resultierende Bild
 
-Speichern Sie das bearbeitete Bild abschließend im gewünschten Format. In diesem Beispiel speichern wir es als GIF:
+Speichern Sie abschließend das bearbeitete Bild im gewünschten Format. In diesem Beispiel speichern wir es als GIF:
 
 ```csharp
 string destName = dataDir + @"gauss_wiener_out.gif";

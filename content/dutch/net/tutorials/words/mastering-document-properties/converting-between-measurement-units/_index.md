@@ -9,7 +9,7 @@ url: /nl/net/tutorials/words/mastering-document-properties/converting-between-me
 ---
 ## Invoering
 
-Hallo, ontwikkelaars! Als u met Word-documenten werkt met Aspose.Words voor .NET, moet u mogelijk vaak marges, kopteksten of voetteksten instellen in verschillende meeteenheden. Converteren tussen eenheden zoals inches en punten kan een uitdaging zijn als u niet bekend bent met de functionaliteiten van de bibliotheek. In deze tutorial leiden we u door het proces van het converteren van meeteenheden en het eenvoudig aanpassen van de lay-out van uw document. Laten we beginnen!
+Hallo, ontwikkelaars! Als u met Word-documenten werkt met Aspose.Words voor .NET, moet u mogelijk vaak marges, kopteksten of voetteksten instellen in verschillende maateenheden. Converteren tussen eenheden zoals inches en punten kan een uitdaging zijn als u niet bekend bent met de functionaliteiten van de bibliotheek. In deze tutorial leiden we u door het proces van het converteren van maateenheden en het eenvoudig aanpassen van de lay-out van uw document. Laten we beginnen!
 
 ## Vereisten
 

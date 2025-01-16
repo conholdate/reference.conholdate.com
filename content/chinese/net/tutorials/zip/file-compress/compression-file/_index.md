@@ -59,7 +59,7 @@ Console.WriteLine("Files have been successfully compressed into archive.cpio!");
   
 - 保存方法：将档案保存到指定路径，在本例中为`archive.cpio`在文档目录中。
   
-- 成功消息：压缩过程完成后，将出现一条消息确认档案创建成功。
+- 成功消息：压缩过程完成后，将显示一条消息确认档案创建成功。
 
 ## 结论
 

@@ -24,7 +24,7 @@ Install-Package Aspose.PDF
 3. Grundläggande C#-kunskap: En grundläggande förståelse för C# hjälper dig att enkelt följa med. Oroa dig inte om du är ny; vi håller saker klart!
 4. Exempel på PDF-dokument: Du behöver en PDF-fil som innehåller länkar. Du kan skapa en eller ladda ner exempel på PDF-filer från internet.
 
-När allt är klart, låt oss komma igång!
+Med allt klart, låt oss komma igång!
 
 ## Importera nödvändiga namnområden
 

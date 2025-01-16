@@ -21,7 +21,7 @@ Filtrování úkolů v projektovém řízení je klíčové pro přehlednost a e
 
 Nyní k výukovému programu Mastering Assignment Baselines! Tato příručka je o doladění vašich dovedností projektového řízení. Představte si základní linie zadání jako původní plány vašeho projektu. Jak se projekty vyvíjejí, je nezbytné porovnat váš současný stav s těmito základními hodnotami, abyste mohli změřit pokrok.
 
- Tento podrobný návod vás provede načítáním projektu, nastavením počátečních směrů a získáváním důležitých dat. Dokonce se naučíte, jak tyto základní linie porovnávat, a zajistit tak, že budete vždy na správné cestě. Je to podobné jako při kontrole GPS na výletě; chcete vědět, jestli se stále ubíráte správným směrem! Na konci tohoto výukového programu budete mít jistotu, že zvládnete základní linie zadání jako profesionál a optimalizujete celkový pracovní postup projektu.[Přečtěte si více](./mastering-assignment-baseline/)
+ Tento podrobný návod vás provede načítáním projektu, nastavením počátečních směrů a získáváním důležitých dat. Dokonce se naučíte, jak tyto základní linie porovnávat, abyste měli jistotu, že budete vždy na správné cestě. Je to podobné jako při kontrole GPS na výletě; chcete vědět, jestli se stále ubíráte správným směrem! Na konci tohoto tutoriálu budete mít jistotu, že zvládnete základní linie zadání jako profesionál a optimalizujete celkový pracovní postup projektu.[Přečtěte si více](./mastering-assignment-baseline/)
 
 ## Zvládněte výukové programy pro pokročilé funkce
 ### [Filtrování úloh A operace v Aspose.Tasks](./task-filtering-and-operation/)

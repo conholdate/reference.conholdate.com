@@ -60,7 +60,7 @@ Ez a lépés meghatározza azt a dokumentumot, amelyet összehasonlítani szeret
 
 ## 4. lépés: Hasonlítsa össze a dokumentumokat és mentse a metaadatforrást
 
-Most itt az ideje, hogy elvégezzük az összehasonlítást és mentsük a dokumentum metaadatforrását:
+Itt az ideje az összehasonlításnak és a dokumentum metaadat-forrásának mentésének:
 
 ```csharp
 comparer.Compare(outputFileName, new SaveOptions() { CloneMetadataType = MetadataType.Source });

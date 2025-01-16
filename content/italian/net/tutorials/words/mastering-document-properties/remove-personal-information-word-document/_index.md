@@ -9,7 +9,7 @@ url: /it/net/tutorials/words/mastering-document-properties/remove-personal-infor
 ---
 ## Introduzione
 
-La gestione dei documenti nel mondo digitale odierno comporta la gestione di dati sensibili, spesso inclusi dati personali incorporati nelle proprietà e nei metadati dei documenti. Fortunatamente, Aspose.Words per .NET offre un modo semplice ma efficace per rimuovere tali dati personali dai documenti Word, assicurando che i documenti siano puliti e sicuri. In questa guida, ti guideremo attraverso i passaggi per rimuovere senza sforzo i dati personali dai file Word utilizzando Aspose.Words.
+La gestione dei documenti nel mondo digitale odierno comporta la gestione di dati sensibili, spesso inclusi dati personali incorporati nelle proprietà e nei metadati del documento. Fortunatamente, Aspose.Words per .NET offre un modo semplice ma efficace per rimuovere tali dati personali dai documenti Word, assicurando che i documenti siano puliti e sicuri. In questa guida, ti guideremo attraverso i passaggi per rimuovere senza sforzo i dati personali dai file Word utilizzando Aspose.Words.
 
 ## Prerequisiti
 

@@ -42,7 +42,7 @@ string dataDir = "YOUR DOCUMENTS DIRECTORY";
 
 ## Schritt 2: Laden Sie das Word-Dokument
 
- Laden Sie nun das Word-Dokument mit dem`Document` Klasse aus der Aspose.Words-Bibliothek.
+ Laden Sie anschließend das Word-Dokument mit dem`Document` Klasse aus der Aspose.Words-Bibliothek.
 
 ```csharp
 // Laden Sie das Word-Dokument

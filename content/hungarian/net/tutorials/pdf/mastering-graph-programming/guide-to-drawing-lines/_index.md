@@ -122,7 +122,7 @@ Ezekkel az egyszerű lépésekkel könnyedén rajzolhat vonalakat egy PDF-dokume
  Beállíthatja a`StrokeColor` és`LineWidth` tulajdonságai a`Line` objektumot a megjelenés testreszabásához.
 
 ### Elhelyezhetem a sorokat az oldal meghatározott területein?
- Teljesen! Módosítsa a koordinátáit`Line` tiltakozik, hogy oda helyezze, ahol szüksége van rá.
+ Teljesen! Módosítsa a koordinátáit`Line` tiltakozik, hogy bárhová elhelyezze, ahol szüksége van rá.
 
 ### Lehet-e szöveget hozzáadni a sorokhoz?
  Igen, létrehozhat`TextFragment` objektumokat, és adja hozzá őket az oldal bekezdésgyűjteményéhez.

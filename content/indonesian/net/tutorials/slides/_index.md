@@ -15,3 +15,11 @@ Aspose.Slides untuk .NET adalah alat terbaik bagi para pengembang yang ingin mem
 Buka potensi penuh presentasi Anda dengan tutorial Aspose.Slides for .NET yang komprehensif yang mencakup animasi slide dan efek after-animasi.
 ### [Konversi Presentasi dan Pemrosesan PowerPoint yang Mudah](./presentation-conversion-guide/)
 Temukan cara mengonversi presentasi PowerPoint dengan mudah menggunakan Aspose.Slides for .NET dengan tutorial langkah demi langkah yang jelas.
+### [Menguasai Manipulasi Gambar dan Video di Aspose.Slides](./mastering-image-and-video-manipulation/)
+Pelajari cara menyempurnakan presentasi Anda dengan memanipulasi gambar dan video menggunakan Aspose.Slides for .NET. Panduan lengkap ini mencakup tutorial langkah demi langkah.
+### [Kuasai Kustomisasi Bagan Lanjutan di Aspose.Slides untuk .NET](./master-advanced-chart-customization/)
+Kuasai tutorial Aspose.Slides for .NET untuk membuat dan menyesuaikan diagram. Pelajari teknik lanjutan untuk garis tren, penanda, dan visualisasi data yang menakjubkan.
+### [Kuasai Fitur Bagan Tambahan](./master-additional-chart-features/)
+Temukan tutorial Aspose.Slides untuk .NET untuk menguasai fitur bagan tingkat lanjut, mengekstrak data bagan, dan memanipulasi data seri dalam presentasi PowerPoint.
+### [Ekstrak Audio dan Video dari Slide](./extract-audio-and-video/)
+Ekstrak audio dan video dengan mudah dari presentasi PowerPoint menggunakan Aspose.Slides for .NET dengan tutorial langkah demi langkah kami yang komprehensif.

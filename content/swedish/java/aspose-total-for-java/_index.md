@@ -43,7 +43,7 @@ Följande är länkarna till några användbara resurser som du kan behöva för
 
 **Welcome to Aspose.Cells for Java**
 
-Aspose.Cells för Java är ett klassbibliotek som gör det möjligt för dina applikationer att utföra ett stort antal kalkylbladsbearbetningsuppgifter. Aspose.Cells för Java stöder de populära kalkylbladsformaten (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS) som ditt företag använder varje dag. Den tillåter också export av Excel®-filer till PDF, XPS, HTML, MHTML, vanlig text och populära bildformat inklusive TIFF, JPG, PNG, BMP och SVG.
+Aspose.Cells för Java är ett klassbibliotek som gör det möjligt för dina applikationer att utföra ett stort antal kalkylbladsbearbetningsuppgifter. Aspose.Cells för Java stöder de populära kalkylbladsformaten (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS) som ditt företag använder varje dag. Det tillåter också export av Excel®-filer till PDF, XPS, HTML, MHTML, vanlig text och populära bildformat inklusive TIFF, JPG, PNG, BMP och SVG.
 
 {{% /alert %}}
 
@@ -294,7 +294,7 @@ Aspose.OMR för Java är ett API för att känna igen optiska märken från OMR 
 
 Följande är länkarna till några användbara resurser som du kan behöva för att utföra dina uppgifter.
 
-- [Referensguide för Aspose.OMR för Java API](https://reference.aspose.com/omr/java)
+- [Aspose.OMR för Java API Referensguide](https://reference.aspose.com/omr/java)
 {{% alert color="primary" %}}
 
 **<img src="AsposePUBJava" alt="Aspose.PUB for Java" />**

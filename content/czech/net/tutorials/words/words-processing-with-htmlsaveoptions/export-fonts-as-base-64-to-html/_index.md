@@ -117,4 +117,4 @@ Aspose.Words for .NET zpracovává všechna písma použitá ve vašem dokumentu
 
 ### Je Aspose.Words for .NET zdarma k použití?
 
- Aspose.Words for .NET je komerční knihovna, ale na ní je k dispozici bezplatná zkušební verze[Aspose Releases](https://releases.aspose.com/) stránku, která vám umožní otestovat její funkce před zakoupením.
+ Aspose.Words for .NET je komerční knihovna, ale na ní je k dispozici bezplatná zkušební verze[Aspose Releases](https://releases.aspose.com/) stránku, která vám umožní otestovat jeho funkce před nákupem.

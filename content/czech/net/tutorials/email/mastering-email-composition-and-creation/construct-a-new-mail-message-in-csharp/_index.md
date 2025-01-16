@@ -36,7 +36,7 @@ MailMessage message = new MailMessage();
 
 ## Určení příjemců e-mailu
 
- Dále zadejte příjemce e-mailu pomocí`To`, `Cc` a`Bcc` vlastnosti`MailMessage` třída.
+ Dále určete příjemce e-mailu pomocí`To`, `Cc` a`Bcc` vlastnosti`MailMessage` třída.
 
 ```csharp
 message.To.Add("recipient@example.com");

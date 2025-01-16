@@ -97,7 +97,7 @@ FileStream imageStream = new FileStream(dataDir + "PDFOperators.jpg", FileMode.O
 現在，將圖像新增至頁面的資源集合中，使其可供使用。
 
 ```csharp
-//將圖像新增至頁面資源的圖像集合
+//將圖像新增至頁面資源的圖像集合中
 page.Resources.Images.Add(imageStream);
 ```
 
@@ -176,7 +176,7 @@ pdfDocument.Save(dataDir);
 ## 常見問題解答
 
 ### 什麼是 Aspose.PDF for .NET？
-Aspose.PDF for .NET 是一個綜合程式庫，可讓開發人員在.NET 應用程式中以程式設計方式建立和操作 PDF 文件。
+Aspose.PDF for .NET 是一個綜合程式庫，可讓開發人員在 .NET 應用程式中以程式設計方式建立和操作 PDF 文件。
 
 ### 我可以免費使用 Aspose.PDF 嗎？
 是的！ Aspose 提供其 PDF 庫的免費試用版。你可以探索一下[這裡](https://releases.aspose.com/).

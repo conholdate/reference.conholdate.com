@@ -1,6 +1,6 @@
 ---
-title: Szövegdoboz-sorozatok ellenőrzése a Word dokumentumokban
-linktitle: Szövegdoboz-sorozatok ellenőrzése a Word dokumentumokban
+title: TextBox Sequences Check in Word dokumentumok
+linktitle: TextBox Sequences Check in Word dokumentumok
 second_title: Aspose.Words Document Processing API
 description: Ismerje meg, hogyan hozhat létre egyszerűen, linkelheti el és ellenőrizheti a szövegmezőket, hogy biztosítsa a tartalom logikus áramlását. Tökéletes azoknak a fejlesztőknek, akik szeretnék javítani a dokumentum szerkezetét és kialakítását.
 type: docs
@@ -131,5 +131,5 @@ Igen, a szövegdobozok többféleképpen is összekapcsolhatók, mindaddig, amí
 ### Lehetséges-e másképpen stílusozni a hivatkozott szövegmezőkben lévő szöveget?
 Teljesen! Különálló stílusokat alkalmazhat minden szövegdoboz tartalmára, ami rugalmasságot biztosít a tervezéshez.
 
-### Hol találhatok további forrásokat az Aspose.Words szövegdobozaival való munkáról?
+### Hol találhatok további forrásokat az Aspose.Words szövegdobozokkal való munkáról?
  Fedezze fel a[Aspose.Words dokumentáció](https://reference.aspose.com/words/net/) és látogassa meg a[támogatási fórum](https://forum.aspose.com/c/words/8) további forrásokért.

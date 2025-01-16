@@ -29,7 +29,7 @@ url: /ja/net/tutorials/email/handling-email-attachments/
 
 ## TNEF 添付ファイルの操作  
 
-TNEF (Transport Neutral Encapsulation Format) 添付ファイルは、しばしば秘密のコードを解読しているような感じがします。しかし、Aspose.Email for .NET を使用すると、TNEF の処理は、きちんと包装されたギフトを開梱するのと同じくらい簡単です。会議出席依頼やリッチな電子メール形式を扱う場合でも、ライブラリは TNEF データをシームレスに処理するためのツールを提供します。ここから始めましょう:[Aspose.Email for .NET を使用して C# で TNEF 添付ファイルを追加する](./add-tnef-attachments-in-csharp/).  
+TNEF (Transport Neutral Encapsulation Format) 添付ファイルは、しばしば秘密のコードを解読しているような感じがします。しかし、Aspose.Email for .NET を使用すると、TNEF の処理は、きちんと包装されたギフトを開封するのと同じくらい簡単です。会議出席依頼やリッチな電子メール形式を扱う場合でも、ライブラリは TNEF データをシームレスに処理するためのツールを提供します。ここから始めましょう:[Aspose.Email for .NET を使用して C# で TNEF 添付ファイルを追加する](./add-tnef-attachments-in-csharp/).  
 
 ## メール添付ファイルの取り扱いチュートリアル
 ### [Aspose.Email for .NET を使用して C# で電子メール添付ファイルを追加する](./add-email-attachments-in-csharp/)

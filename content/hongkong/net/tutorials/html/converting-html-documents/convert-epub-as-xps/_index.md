@@ -27,7 +27,7 @@ url: /zh-hant/net/tutorials/html/converting-html-documents/convert-epub-as-xps/
 ### 範例 EPUB 文件
 您需要一個 EPUB 檔案進行測試。如果您手邊沒有該文件，請隨意建立一個簡單的 EPUB 文件或從公共網域下載一個。
 
-現在我們已經介紹了先決條件，讓我們繼續討論開始編程所需導入的必要套件。
+現在我們已經介紹了先決條件，讓我們繼續討論開始編程所需導入的必要包。
 
 ## 導入包
 

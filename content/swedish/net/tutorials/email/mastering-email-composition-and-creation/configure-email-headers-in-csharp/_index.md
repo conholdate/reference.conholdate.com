@@ -110,7 +110,7 @@ Install-Package Aspose.Email
 
 DKIM-Signatur-huvudet används för digital signering av e-post, vilket gör det möjligt för mottagarna att verifiera e-postens äkthet och integritet.
 
-### Hur hanterar jag validering av e-posthuvud?
+### Hur hanterar jag validering av e-posthuvudet?
 
 Aspose.Email innehåller valideringsfunktioner för att kontrollera att e-postrubriker är korrekt formaterade och följer standarder.
 

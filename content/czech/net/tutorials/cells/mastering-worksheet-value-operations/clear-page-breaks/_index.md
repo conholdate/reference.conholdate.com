@@ -94,7 +94,7 @@ Ano, můžete procházet každý list v sešitu a vymazat konce stránek jednotl
 ### Potřebuji licenci k používání Aspose.Cells pro .NET?  
  Pro plnou funkčnost bez omezení je nutná licence. Můžete[získat bezplatnou zkušební verzi](https://releases.aspose.com/) nebo[zakoupit plnou licenci](https://purchase.aspose.com/buy).
 
-### Mohu přidat nové konce stránek po jejich vymazání?  
+### Mohu po vymazání přidat nové konce stránek?  
  Absolutně! Konce stránek můžete znovu zavést pomocí metod jako`AddHorizontalPageBreak` a`AddVerticalPageBreak`.
 
 ### Podporuje Aspose.Cells další změny formátování?  

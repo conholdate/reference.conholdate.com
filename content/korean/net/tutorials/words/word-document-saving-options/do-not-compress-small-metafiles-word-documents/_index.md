@@ -95,7 +95,7 @@ doc.Save(dataDir + "DocumentWithDoNotCompressMetafiles.pdf", saveOptions);
 
 ### Aspose.Words for .NET을 사용하려면 라이선스가 필요합니까?
 
-평가 목적으로 Aspose.Words for .NET을 라이선스 없이 사용할 수 있지만, 전체 기능을 사용하려면 라이선스가 필요합니다. 라이선스를 구매할 수 있습니다.[여기](https://purchase.aspose.com/buy) 또는 시도해보세요[임시 면허](https://purchase.aspose.com/temporary-license/) 평가를 위해.
+평가 목적으로 Aspose.Words for .NET을 라이선스 없이 사용할 수 있지만, 전체 기능을 사용하려면 라이선스가 필요합니다. 라이선스를 구매할 수 있습니다.[여기](https://purchase.aspose.com/buy) 또는 시도해보세요[임시 면허](https://purchase.aspose.com/temporary-license/) 평가를 위해서.
 
 ### 내 문서가 PDF/A 표준을 준수하는지 어떻게 확인할 수 있나요?
 

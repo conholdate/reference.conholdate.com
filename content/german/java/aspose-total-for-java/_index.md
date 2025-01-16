@@ -235,7 +235,7 @@ Nachfolgend finden Sie Links zu einigen nützlichen Ressourcen, die Sie möglich
 
 **Welcome to Aspose.3D for Java API**
 
-Aspose.3D für Java API wurde entwickelt, um 3D-Formate zu erstellen, zu bearbeiten, zu manipulieren und zu speichern. Es ermöglicht Java-Anwendungen, eine Verbindung mit 3D-Dokumenten herzustellen, ohne ein Softwarepaket auf dem Computer installieren zu müssen. Aspose.3D für Java API unterstützt Entwickler beim Modellieren und Erstellen riesiger Welten in Spielen, hervorragender Szenen für die Designvisualisierung und beim Einbinden von Virtual-Reality-Erlebnissen.
+Aspose.3D für Java API wurde entwickelt, um 3D-Formate zu erstellen, zu bearbeiten, zu manipulieren und zu speichern. Es ermöglicht Java-Anwendungen, eine Verbindung mit 3D-Dokumenten herzustellen, ohne ein Softwarepaket auf dem Computer installieren zu müssen. Aspose.3D für Java API unterstützt Entwickler beim Modellieren und Erstellen riesiger Welten in Spielen, großartiger Szenen für die Designvisualisierung und beim Einbinden von Virtual-Reality-Erlebnissen.
 
 Die API ist benutzerfreundlich und spart Zeit und Geld im Vergleich zur Entwicklung einer ähnlichen Lösung von Grund auf.
 

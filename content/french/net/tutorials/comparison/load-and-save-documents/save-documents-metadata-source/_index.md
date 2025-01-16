@@ -47,7 +47,7 @@ string outputFileName = Path.Combine(outputDirectory, "RESULT.docx");
 ```csharp
 using (Comparer comparer = new Comparer("SOURCE.docx"))
 ```
- Ceci initialise le`Comparer` objet, fournissant une base pour votre comparaison de documents.
+ Ceci initialise le`Comparer` objet, fournissant une base pour la comparaison de vos documents.
 
 ## Étape 3 : ajouter le document cible
 

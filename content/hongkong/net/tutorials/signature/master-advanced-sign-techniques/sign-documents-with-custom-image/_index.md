@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/signature/master-advanced-sign-techniques/sign-docum
 ---
 ## 介紹
 
-在本教學中，您將學習如何使用 GroupDocs.Signature for .NET 使用圖像簽署文件。文件簽名增強了文件的真實性和安全性，確保它們防篡改並具有法律約束力。透過將文件簽名功能整合到您的 .NET 應用程式中，您可以顯著簡化您的工作流程。
+在本教學中，您將學習如何使用 GroupDocs.Signature for .NET 使用圖像簽署文件。文件簽名增強了文件的真實性和安全性，確保它們防篡改並具有法律約束力。透過將文件簽章功能整合到 .NET 應用程式中，您可以大幅簡化工作流程。
 
 ## 先決條件
 

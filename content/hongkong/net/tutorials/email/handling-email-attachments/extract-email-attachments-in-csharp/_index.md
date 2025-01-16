@@ -134,7 +134,7 @@ else if (attachment.ContentType.MediaType == "image/jpeg")
 
 ## 結論
 
-現在你就得到它了！從電子郵件中提取附件不再是一項繁瑣的任務。使用 Aspose.Email for .NET，您只需幾行程式碼即可自動執行此程序。從設定 IMAP 用戶端到在本機儲存附件，本指南涵蓋了入門所需的所有內容。 
+現在你就擁有了！從電子郵件中提取附件不再是一項繁瑣的任務。使用 Aspose.Email for .NET，您只需幾行程式碼即可自動執行此程序。從設定 IMAP 用戶端到在本機儲存附件，本指南涵蓋了入門所需的所有內容。 
 
 那麼，為什麼還要等呢？[下載 Aspose.Email](https://releases.aspose.com/email/net/)今天就開始簡化您的電子郵件工作流程！
 

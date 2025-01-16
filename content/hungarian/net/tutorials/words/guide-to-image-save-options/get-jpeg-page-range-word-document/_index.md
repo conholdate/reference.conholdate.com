@@ -9,7 +9,7 @@ url: /hu/net/tutorials/words/guide-to-image-save-options/get-jpeg-page-range-wor
 ---
 ## Bevezetés
 
-Word-dokumentumok képpé átalakítása különösen hasznos lehet különféle alkalmazásokhoz, például bélyegképek létrehozásához az online előnézetekhez vagy a tartalom könnyebben hozzáférhető formátumban való megosztásához. Az Aspose.Words for .NET használatával egyszerűen konvertálhatja Word-dokumentumai adott oldalait JPEG formátumba, miközben személyre szabhatja az olyan beállításokat, mint a fényerő, a kontraszt és a felbontás. Vizsgáljuk meg lépésről lépésre, hogyan kell ezt megtenni.
+Word-dokumentumok képpé átalakítása különösen hasznos lehet különféle alkalmazásokhoz, például bélyegképek létrehozásához az online előnézetekhez vagy a tartalom könnyebben hozzáférhető formátumban való megosztásához. Az Aspose.Words for .NET használatával egyszerűen konvertálhatja Word-dokumentumai adott oldalait JPEG formátumba, miközben személyre szabhatja a fényerőt, a kontrasztot és a felbontást. Vizsgáljuk meg lépésről lépésre, hogyan kell ezt megtenni.
 
 ## Előfeltételek
 

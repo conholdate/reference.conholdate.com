@@ -106,7 +106,7 @@ Esto cambiará el nombre de la hoja de trabajo a "Nueva hoja de datos", lo que h
 
 ## Paso 7: Guarde el archivo Excel modificado
 
-Una vez que haya agregado la hoja de cálculo y realizado las modificaciones necesarias, guarde el libro de cálculo para conservar los cambios. Puede sobrescribir el archivo existente o guardarlo como un archivo nuevo.
+Una vez que haya agregado la hoja de cálculo y realizado las modificaciones necesarias, guarde el libro de trabajo para conservar los cambios. Puede sobrescribir el archivo existente o guardarlo como un archivo nuevo.
 
 ```csharp
 // Guardar el libro de trabajo modificado

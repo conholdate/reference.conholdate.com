@@ -15,7 +15,7 @@ Vylepšení vašich prezentací pomocí podmanivých animací snímků může v�
 Než se pustíme do výukového programu, ujistěte se, že máte následující:
 
 1.  Aspose.Slides for .NET Library: Stáhněte a nainstalujte knihovnu z[Aspose stránku ke stažení](https://releases.aspose.com/slides/net/).
-2. Adresář dokumentů: Vytvořte adresář pro ukládání souborů prezentace. Aktualizujte`dataDir` proměnná ve fragmentech kódu s cestou k adresáři vašeho dokumentu.
+2.  Adresář dokumentů: Vytvořte adresář pro ukládání souborů prezentace. Aktualizujte`dataDir` proměnná ve fragmentech kódu s cestou k adresáři vašeho dokumentu.
 
 ## Importovat jmenné prostory
 
@@ -85,7 +85,7 @@ Animace snímků ve vašich prezentacích dodává dynamický nádech, díky če
 
 ### Mohu si přechodové efekty dále přizpůsobit?
 
- Absolutně! Aspose.Slides nabízí širokou škálu typů přechodů a dalších vlastností pro přizpůsobení. Další podrobnosti naleznete v části[dokumentace](https://reference.aspose.com/slides/net/).
+Absolutně! Aspose.Slides nabízí širokou škálu typů přechodů a dalších vlastností pro přizpůsobení. Další podrobnosti naleznete v části[dokumentace](https://reference.aspose.com/slides/net/).
 
 ### Je k dispozici bezplatná zkušební verze?
 

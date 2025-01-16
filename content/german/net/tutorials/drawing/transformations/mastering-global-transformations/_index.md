@@ -46,7 +46,7 @@ graphics.Clear(Color.FromKnownColor(KnownColor.Gray));
 
 ## Schritt 2: Globale Transformation festlegen
 
-Als nächstes wenden wir eine globale Transformation auf den Grafikkontext an. In diesem Beispiel drehen wir den gesamten Grafikkontext um 15 Grad.
+Als Nächstes wenden wir eine globale Transformation auf den Grafikkontext an. In diesem Beispiel drehen wir den gesamten Grafikkontext um 15 Grad.
 
 ```csharp
 // Wenden Sie eine Rotationstransformation (15 Grad) an.

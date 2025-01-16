@@ -9,7 +9,7 @@ url: /nl/net/tutorials/pdf/mastering-pdf-forms/adding-text-boxes/
 ---
 ## Invoering
 
-In het digitale landschap van vandaag de dag is het verbeteren van de gebruikerservaring door middel van interactieve documenten essentieel. Interactieve PDF-formulieren stroomlijnen niet alleen het verzamelen van gegevens, maar betrekken gebruikers ook op een manier die statische documenten niet kunnen. Aspose.PDF voor .NET is een krachtige bibliotheek die is ontworpen om ontwikkelaars te helpen verschillende formuliervelden moeiteloos te integreren in PDF-documenten. Hiervan zijn tekstvakken met name handig om gebruikersinvoer op een gestructureerde manier te verzamelen. In deze tutorial doorlopen we het proces van het toevoegen van een tekstvak aan een PDF met behulp van Aspose.PDF voor .NET, zodat u een uitgebreid begrip hebt van elke stap.
+In het digitale landschap van vandaag de dag is het verbeteren van de gebruikerservaring door middel van interactieve documenten essentieel. Interactieve PDF-formulieren stroomlijnen niet alleen het verzamelen van gegevens, maar betrekken gebruikers ook op een manier die statische documenten niet kunnen. Aspose.PDF voor .NET is een krachtige bibliotheek die is ontworpen om ontwikkelaars te helpen moeiteloos verschillende formuliervelden in PDF-documenten te integreren. Hiervan zijn tekstvakken met name handig om gebruikersinvoer op een gestructureerde manier te verzamelen. In deze tutorial doorlopen we het proces van het toevoegen van een tekstvak aan een PDF met behulp van Aspose.PDF voor .NET, zodat u een uitgebreid begrip hebt van elke stap.
 
 ## Vereisten
 

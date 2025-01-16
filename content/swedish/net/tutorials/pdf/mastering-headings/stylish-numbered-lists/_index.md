@@ -148,7 +148,7 @@ Ja, du kan blanda olika numreringsstilar, som romerska siffror, arabiska siffror
 ### Finns det något sätt att återställa numreringssekvensen?  
  Ja, du kan återställa numreringen genom att justera`StartNumber` egendom för varje rubrik.
 
-### Kan jag använda fet eller kursiv stil på rubriker utöver numrering?  
+### Kan jag använda fetstil eller kursiv stil på rubriker utöver numrering?  
  Absolut! Du kan anpassa rubrikstilar genom att ändra egenskaper som teckensnitt, storlek, fetstil och kursiv med`TextState` objekt.
 
 ### Hur får jag en tillfällig licens för Aspose.PDF?  

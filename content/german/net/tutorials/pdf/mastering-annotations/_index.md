@@ -31,7 +31,7 @@ Wenn Sie schon einmal mit PDFs gearbeitet haben, wissen Sie, dass Anmerkungen ei
 
 ## Anmerkungen extrahieren: Verborgene Erkenntnisse enthüllen  
 
- Anmerkungen sind mehr als nur visuelle Hilfsmittel – sie enthalten wertvolle Daten. Durch das Extrahieren dieser können Überprüfungen, Audits oder kollaborative Arbeitsabläufe optimiert werden. Tauchen Sie ein in die[Anmerkungen aus PDF-Dokumenten extrahieren](./extract-annotations-from-pdf/) Leitfaden für eine umfassende Anleitung. Sie erfahren, wie Sie programmgesteuert Anmerkungen extrahieren und so Ihre PDFs zu einem noch leistungsfähigeren Werkzeug machen.  
+ Anmerkungen sind mehr als nur visuelle Hilfsmittel – sie enthalten wertvolle Daten. Durch das Extrahieren dieser können Überprüfungen, Audits oder kollaborative Arbeitsabläufe optimiert werden. Tauchen Sie ein in die[Anmerkungen aus PDF-Dokumenten extrahieren](./extract-annotations-from-pdf/) Leitfaden für eine umfassende Anleitung. Sie erfahren, wie Sie Anmerkungen programmgesteuert extrahieren und so Ihre PDFs zu einem noch leistungsfähigeren Werkzeug machen.  
 
 ## Tutorials zum Beherrschen von Anmerkungen in PDFs
 | Titel | Beschreibung |

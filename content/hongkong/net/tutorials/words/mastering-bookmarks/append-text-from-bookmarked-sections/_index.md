@@ -1,6 +1,6 @@
 ---
-title: 從 Word 文件中新增書籤的部分新增文本
-linktitle: 從 Word 文件中新增書籤的部分新增文本
+title: 附加 Word 文件中已加書籤的部分的文本
+linktitle: 附加 Word 文件中已加書籤的部分的文本
 second_title: Aspose.Words 文件處理 API
 description: 了解如何使用 Aspose.Words for .NET 從 Word 文件的書籤部分無縫附加文字。這個逐步教程。
 type: docs

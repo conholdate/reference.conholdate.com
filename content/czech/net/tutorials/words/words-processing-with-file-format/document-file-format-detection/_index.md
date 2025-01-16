@@ -16,7 +16,7 @@ Efektivní správa a organizace různých formátů dokumentů je v dnešním di
 Než začneme, ujistěte se, že jsou splněny následující požadavky:
 
 1. Aspose.Words pro knihovnu .NET  
-    Stáhněte si knihovnu z[Aspose Words Releases](https://releases.aspose.com/words/net/) aktivujte jej pomocí platné licence. Pro dočasné licence navštivte[Přijměte dočasnou licenci](https://purchase.aspose.com/temporary-license/).
+    Stáhněte si knihovnu z[Aspose Words Releases](https://releases.aspose.com/words/net/) aktivujte jej pomocí platné licence. Pro dočasné licence navštivte[Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/).
 
 2. Vývojové prostředí  
    Použijte Visual Studio (libovolnou nejnovější verzi) s nainstalovaným rozhraním .NET Framework.

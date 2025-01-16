@@ -25,4 +25,4 @@ TARファイルと同様に、ZIPファイルの管理は多くのアプリケ�
 ### [GroupDocs.Merger for .NET で Tar ファイルをマージする](./merge-tar-files/)
 GroupDocs.Merger を使用して、.NET アプリケーション内で TAR ファイルをシームレスにマージする方法を学びます。このチュートリアルでは、コード例を含む包括的なステップバイステップのアプローチを提供します。
 ### [GroupDocs.Merger for .NET を使用して Zip ファイルを結合する](./merge-zip-files/)
-GroupDocs.Merger for .NET を使用して複数の ZIP ファイルをプログラムで結合する方法を説明します。このステップバイステップのチュートリアルでは、前提条件について説明します。
+GroupDocs.Merger for .NET を使用して複数の ZIP ファイルをプログラムで結合する方法を説明します。このステップ バイ ステップのチュートリアルでは、前提条件について説明します。

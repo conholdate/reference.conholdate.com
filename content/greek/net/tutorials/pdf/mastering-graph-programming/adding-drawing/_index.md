@@ -139,7 +139,7 @@ document.Save(dataDir);
 
 ### Πού μπορώ να βρω τεκμηρίωση για το Aspose.PDF για .NET;
 
- Τα έγγραφα είναι διαθέσιμα στο[Aspose site τεκμηρίωσης](https://reference.aspose.com/pdf/net/).
+ Τα έγγραφα είναι διαθέσιμα στο[Ιστότοπος τεκμηρίωσης Aspose](https://reference.aspose.com/pdf/net/).
 
 ### Πώς μπορώ να λάβω υποστήριξη για το Aspose.PDF για .NET;
 

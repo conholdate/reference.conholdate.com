@@ -52,7 +52,7 @@ Console.WriteLine();
 
 1. Vytiskněte zprávu, že pracujeme s formátem XLS.
 2.  Vytvořte a`Workbook` například pro použití formátu XLS`FileFormatType.Excel97To2003`.
-3.  Získejte maximální počet řádků a sloupců`wb.Settings.MaxRow` a`wb.Settings.MaxColumn`s přidáním 1, protože jsou založeny na nule.
+3.  Získejte maximální počet řádků a sloupců`wb.Settings.MaxRow` a`wb.Settings.MaxColumn`, přidáním 1, protože jsou založeny na nule.
 4. Výstup maximálního počtu řádků a sloupců do konzoly.
 
 ## Krok 2: Maximální počet řádků a sloupců pro formát XLSX

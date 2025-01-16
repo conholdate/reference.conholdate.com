@@ -75,7 +75,7 @@ pdfOutline.Italic = true;
 pdfOutline.Bold = true;
 ```
 
-Puoi modificare il titolo e l'aspetto del segnalibro. In questo caso, il titolo "Capitolo 1" è reso in grassetto e corsivo per enfatizzare.
+È possibile modificare il titolo e l'aspetto del segnalibro. In questo caso, il titolo "Capitolo 1" è reso in grassetto e corsivo per enfatizzare.
 
 ## Passaggio 4: definire la destinazione del segnalibro
 

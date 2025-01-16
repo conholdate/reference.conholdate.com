@@ -9,7 +9,7 @@ url: /fr/net/tutorials/cells/mastering-error-handling-and-customization/render-o
 ---
 ## Introduction
 
-Dans notre monde axé sur les données, la possibilité de convertir des fichiers Excel en PDF avec des compléments Office peut considérablement rationaliser les flux de travail, améliorer la collaboration et augmenter la productivité. Si vous cherchez à convertir des compléments Office dans Excel en PDF, vous êtes au bon endroit ! Ce guide vous guidera tout au long du processus à l'aide d'Aspose.Cells pour .NET, une bibliothèque puissante conçue pour une manipulation transparente des documents.
+Dans notre monde axé sur les données, la possibilité de convertir des fichiers Excel en PDF avec des modules complémentaires Office peut considérablement rationaliser les flux de travail, améliorer la collaboration et augmenter la productivité. Si vous cherchez à convertir des modules complémentaires Office dans Excel en PDF, vous êtes au bon endroit ! Ce guide vous guidera tout au long du processus à l'aide d'Aspose.Cells pour .NET, une bibliothèque puissante conçue pour une manipulation transparente des documents.
 
 ## Prérequis
 
@@ -61,7 +61,7 @@ string outputDir = "Your Document Directory";
 Workbook wb = new Workbook(sourceDir + "sampleRenderOfficeAdd-Ins.xlsx");
 ```
 
- Assurez-vous que votre fichier Excel est nommé`sampleRenderOfficeAdd-Ins.xlsx` et se trouve dans votre répertoire source spécifié. Le chargement du classeur s'apparente à l'ouverture d'un livre ; vous pouvez désormais accéder à tout son contenu !
+ Assurez-vous que votre fichier Excel est nommé`sampleRenderOfficeAdd-Ins.xlsx` et se trouve dans votre répertoire source spécifié. Le chargement du classeur est similaire à l'ouverture d'un livre ; vous pouvez désormais accéder à tout son contenu !
 
 ## Étape 3 : Enregistrer le classeur au format PDF
 

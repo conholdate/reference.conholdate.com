@@ -15,7 +15,7 @@ Att förbättra dina presentationer med fängslande bildanimationer kan avsevär
 Innan vi dyker in i handledningen, se till att du har följande:
 
 1.  Aspose.Slides för .NET Library: Ladda ner och installera biblioteket från[Aspose nedladdningssida](https://releases.aspose.com/slides/net/).
-2. Dokumentkatalog: Skapa en katalog för att lagra dina presentationsfiler. Uppdatera`dataDir` variabel i kodavsnitten med sökvägen till din dokumentkatalog.
+2.  Dokumentkatalog: Skapa en katalog för att lagra dina presentationsfiler. Uppdatera`dataDir` variabel i kodavsnitten med sökvägen till din dokumentkatalog.
 
 ## Importera namnområden
 
@@ -85,7 +85,7 @@ Att animera bilder i dina presentationer ger en dynamisk touch, vilket gör ditt
 
 ### Kan jag anpassa övergångseffekterna ytterligare?
 
- Absolut! Aspose.Slides erbjuder ett brett utbud av övergångstyper och ytterligare egenskaper för anpassning. För mer information, se[dokumentation](https://reference.aspose.com/slides/net/).
+Absolut! Aspose.Slides erbjuder ett brett utbud av övergångstyper och ytterligare egenskaper för anpassning. För mer information, se[dokumentation](https://reference.aspose.com/slides/net/).
 
 ### Finns det en gratis provperiod?
 

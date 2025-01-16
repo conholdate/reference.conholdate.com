@@ -9,7 +9,7 @@ url: /it/net/tutorials/words/words-with-vba-macros/reading-vba-macros-word-docum
 ---
 ## Introduzione
 
-L'incorporazione di macro VBA (Visual Basic for Applications) nei documenti Word apre le porte a immense possibilità di automazione e personalizzazione. Che tu stia verificando macro esistenti o sviluppando nuove soluzioni di automazione, è fondamentale comprendere come leggere le macro VBA in modo efficiente. In questa guida, esploreremo come leggere le macro VBA dai documenti Word utilizzando Aspose.Words per .NET, una libreria robusta per la manipolazione dei documenti Word. Seguendo questo tutorial, otterrai gli strumenti per accedere e ispezionare i progetti VBA, consentendoti di sbloccare il pieno potenziale dei tuoi documenti.
+Incorporare macro VBA (Visual Basic for Applications) nei documenti Word apre le porte a immense possibilità di automazione e personalizzazione. Che tu stia verificando macro esistenti o sviluppando nuove soluzioni di automazione, è fondamentale capire come leggere le macro VBA in modo efficiente. In questa guida, esploreremo come leggere le macro VBA dai documenti Word utilizzando Aspose.Words per .NET, una libreria robusta per la manipolazione dei documenti Word. Seguendo questo tutorial, otterrai gli strumenti per accedere e ispezionare i progetti VBA, consentendoti di sbloccare il pieno potenziale dei tuoi documenti.
 
 ## Prerequisiti
 

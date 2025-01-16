@@ -83,7 +83,7 @@ Console.WriteLine("Total files : {0}", embeddedFiles.Count);
 
 ## Krok 5: Projděte přílohy
 
-Extrahujte podrobnosti každé přílohy pomocí smyčky:
+Extrahujte podrobnosti o každé příloze pomocí smyčky:
 
 ```csharp
 int count = 1;

@@ -13,7 +13,7 @@ dnešním digitálním prostředí je efektivní správa a vyhledávání dat z�
 
 ## Co je Aspose.Email pro .NET?
 
-Aspose.Email for .NET je komplexní API určené pro správu e-mailových formátů jako MSG, PST, EML a Zimbra TGZ. Díky svým robustním funkcím mohou vývojáři provádět různé operace s e-mailovými zprávami, což z něj činí neocenitelný nástroj pro úkoly související s e-mailem. Ať už potřebujete číst, manipulovat nebo vytvářet e-maily, Aspose.Email tento proces zjednodušuje.
+Aspose.Email for .NET je komplexní API určené pro správu e-mailových formátů jako MSG, PST, EML a Zimbra TGZ. Díky svým robustním funkcím mohou vývojáři provádět různé operace s e-mailovými zprávami, což z ní činí neocenitelný nástroj pro úkoly související s e-mailem. Ať už potřebujete číst, manipulovat nebo vytvářet e-maily, Aspose.Email tento proces zjednodušuje.
 
 ## Nastavení vývojového prostředí
 

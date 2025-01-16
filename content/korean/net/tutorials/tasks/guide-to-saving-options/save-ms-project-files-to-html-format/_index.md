@@ -16,8 +16,8 @@ Aspose.Tasks for .NET을 사용하여 Microsoft Project 파일을 HTML 형식으
 시작하기에 앞서 다음의 전제 조건이 충족되었는지 확인하세요.
 
 1. C#에 대한 기본 지식: C# 프로그래밍 언어에 익숙하다고 가정합니다.
-2. Aspose.Tasks 설치: 개발 환경에 Aspose.Tasks for .NET이 설치되어 있는지 확인하세요. 다음에서 쉽게 얻을 수 있습니다.[Aspose 웹사이트](https://www.aspose.com).
-3.  Microsoft Project 파일: 변환을 위해 Microsoft Project 파일을 준비하십시오(`.mpp` 확대).
+2.  Aspose.Tasks 설치: 개발 환경에 Aspose.Tasks for .NET이 설치되어 있는지 확인하세요. 다음에서 쉽게 얻을 수 있습니다.[Aspose 웹사이트](https://www.aspose.com).
+3. Microsoft Project 파일: 변환을 위해 Microsoft Project 파일을 준비하십시오(`.mpp` 확대).
 
 ## 필요한 네임스페이스 가져오기
 

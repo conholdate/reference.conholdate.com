@@ -1,6 +1,6 @@
 ---
-title: 在 Excel 工作簿中新增自訂 XML 元件
-linktitle: 在 Excel 工作簿中新增自訂 XML 元件
+title: 在 Excel 工作簿中新增自訂 XML 部分
+linktitle: 在 Excel 工作簿中新增自訂 XML 部分
 second_title: Aspose.Cells .NET Excel 處理 API
 description: 探索使用 Aspose.Cells for .NET 將自訂 XML 元件整合到 Excel 工作簿中的綜合指南。了解如何建立工作簿、新增自訂 XML、指派唯一 ID 以及有效擷取這些部分。
 type: docs

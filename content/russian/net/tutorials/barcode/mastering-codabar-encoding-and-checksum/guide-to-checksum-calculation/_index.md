@@ -87,7 +87,7 @@ Codabar — это простая линейная символика штрих
 
 ### Как получить временную лицензию на Aspose.BarCode для .NET?
 
- Вы можете получить временную лицензию напрямую у[здесь](https://purchase.conholdate.com/temporary-license/).
+ Вы можете приобрести временную лицензию непосредственно у[здесь](https://purchase.conholdate.com/temporary-license/).
 
 ### Совместим ли Aspose.BarCode для .NET с различными фреймворками .NET?
 

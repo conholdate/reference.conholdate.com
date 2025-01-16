@@ -16,8 +16,8 @@ Microsoft Project dosyalarını Aspose.Tasks for .NET kullanarak HTML formatına
 Başlamadan önce lütfen aşağıdaki ön koşulların mevcut olduğundan emin olun:
 
 1. Temel C# Bilgisi: C# programlama diline aşinalık varsayılmaktadır.
-2. Aspose.Tasks Kurulumu: Geliştirme ortamınızda .NET için Aspose.Tasks'ın kurulu olduğundan emin olun. Bunu şuradan kolayca edinebilirsiniz:[Aspose web sitesi](https://www.aspose.com).
-3.  Microsoft Project Dosyası: Dönüştürmeye hazır bir Microsoft Project dosyanız olsun (bir`.mpp` eklenti).
+2.  Aspose.Tasks Kurulumu: Geliştirme ortamınızda .NET için Aspose.Tasks'ın kurulu olduğundan emin olun. Bunu şuradan kolayca edinebilirsiniz:[Aspose web sitesi](https://www.aspose.com).
+3. Microsoft Project Dosyası: Dönüştürmeye hazır bir Microsoft Project dosyanız olsun (bir`.mpp` eklenti).
 
 ## Gerekli Ad Alanlarını İçe Aktarma
 

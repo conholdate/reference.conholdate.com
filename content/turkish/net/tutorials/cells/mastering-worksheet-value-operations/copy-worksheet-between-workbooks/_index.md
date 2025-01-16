@@ -9,7 +9,7 @@ url: /tr/net/tutorials/cells/mastering-worksheet-value-operations/copy-worksheet
 ---
 ## giriiş
 
-Excel çalışma kitapları arasında veri aktarımı, özellikle raporlar oluşturmak veya şablonları yönetmek için .NET uygulamalarında yaygın bir görevdir. Neyse ki, .NET için Aspose.Cells kullanmak bu süreci basit ve verimli hale getirir. Bu eğitimde, bir çalışma sayfasını bir çalışma kitabından diğerine kopyalama adımlarında size rehberlik ederek, veri yönetiminiz üzerinde güçlü bir kontrol sağlayacağız.
+Excel çalışma kitapları arasında veri aktarımı, özellikle raporlar oluşturmak veya şablonları yönetmek için .NET uygulamalarında yaygın bir görevdir. Neyse ki, .NET için Aspose.Cells kullanmak bu süreci basit ve verimli hale getirir. Bu eğitimde, bir çalışma sayfasını bir çalışma kitabından diğerine kopyalama adımlarında size rehberlik edeceğiz ve veri yönetiminiz üzerinde güçlü bir kontrol sağlayacağız.
 
 ## Ön koşullar
 

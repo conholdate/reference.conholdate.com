@@ -15,7 +15,7 @@ Sunumlarınızı ilgi çekici slayt animasyonlarıyla zenginleştirmek, izleyici
 Eğitime başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
 1.  Aspose.Slides for .NET Kütüphanesi: Kütüphaneyi şu adresten indirin ve yükleyin:[Aspose indirme sayfası](https://releases.aspose.com/slides/net/).
-2. Belge Dizini: Sunum dosyalarınızı depolamak için bir dizin oluşturun.`dataDir` Kod parçacıklarındaki değişkeni belge dizininize giden yol ile birlikte ekleyin.
+2.  Belge Dizini: Sunum dosyalarınızı depolamak için bir dizin oluşturun.`dataDir` Kod parçacıklarındaki değişkeni belge dizininize giden yol ile birlikte ekleyin.
 
 ## Ad Alanlarını İçe Aktar
 
@@ -85,7 +85,7 @@ Sunumlarınızdaki slaytları canlandırmak dinamik bir dokunuş katar, içeriğ
 
 ### Geçiş efektlerini daha fazla özelleştirebilir miyim?
 
- Kesinlikle! Aspose.Slides, özelleştirme için geniş bir geçiş türü ve ek özellikler yelpazesi sunar. Daha fazla ayrıntı için şuraya bakın:[belgeleme](https://reference.aspose.com/slides/net/).
+Kesinlikle! Aspose.Slides, özelleştirme için geniş bir geçiş türü ve ek özellikler yelpazesi sunar. Daha fazla ayrıntı için şuraya bakın:[belgeleme](https://reference.aspose.com/slides/net/).
 
 ### Ücretsiz deneme imkanı var mı?
 

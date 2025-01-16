@@ -15,7 +15,7 @@ Pokud chcete přidat prázdnou stránku do dokumentu PDF programově, jste na sp
 
 Než začnete, ujistěte se, že máte následující:
 
--  Aspose.PDF for .NET nainstalovaný ve vašem vývojovém prostředí. Můžete[stáhněte si jej zde](https://releases.aspose.com/pdf/net/).
+-  Aspose.PDF for .NET nainstalovaný ve vašem vývojovém prostředí. Můžete[stáhněte si to zde](https://releases.aspose.com/pdf/net/).
 - Vývojové prostředí .NET, jako je Visual Studio.
 - Základní znalost C# a principů objektově orientovaného programování.
 

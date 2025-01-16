@@ -108,4 +108,4 @@ Evet, API dinamik ve otomatik temel değişikliklere programlı olarak izin veri
 Evet, detaylı zaman aşamalı temel veriler alınabilir ve analiz edilebilir.
 
 ### Destek ve dokümanlara nereden ulaşabilirim?  
- Ziyaret etmek[Aspose.Tasks Belgeleri](https://reference.aspose.com/words/net/) veya katılın[Aspose Destek Forumu](https://forum.aspose.com/c/words/8) yardım için. 
+ Ziyaret etmek[Aspose.Tasks Belgeleri](https://reference.aspose.com/words/net/)veya katılın[Aspose Destek Forumu](https://forum.aspose.com/c/words/8) yardım için. 

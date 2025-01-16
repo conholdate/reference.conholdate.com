@@ -108,4 +108,4 @@ Tak, API pozwala na dynamiczne i zautomatyzowane modyfikacje linii bazowej progr
 Tak, możliwe jest pobieranie i analizowanie szczegółowych danych bazowych w poszczególnych fazach czasowych.
 
 ### Gdzie mogę uzyskać dostęp do pomocy technicznej i dokumentacji?  
- Odwiedzać[Dokumentacja Aspose.Tasks](https://reference.aspose.com/words/net/) lub dołącz do[Forum wsparcia Aspose](https://forum.aspose.com/c/words/8) po pomoc. 
+ Odwiedzać[Dokumentacja Aspose.Tasks](https://reference.aspose.com/words/net/)lub dołącz do[Forum wsparcia Aspose](https://forum.aspose.com/c/words/8) po pomoc. 

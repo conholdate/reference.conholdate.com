@@ -33,7 +33,7 @@ Czy kiedykolwiek próbowałeś przekonwertować arkusz kalkulacyjny Excela na HT
 
 ## Przewodnik po samouczkach dotyczących operacji arkusza kalkulacyjnego
 ### [Ustawianie preferencji obrazu dla HTML z Aspose.Cells w .NET](./setting-image-preferences/)
-Dowiedz się, jak skutecznie konwertować arkusze kalkulacyjne programu Excel na atrakcyjne wizualnie strony internetowe HTML przy użyciu Aspose.Cells dla .NET. Ten przewodnik krok po kroku obejmuje wszystko, od ustawiania preferencji obrazu po optymalizację renderowania tekstu.
+Dowiedz się, jak skutecznie konwertować arkusze kalkulacyjne programu Excel na wizualnie atrakcyjne strony internetowe HTML przy użyciu Aspose.Cells dla .NET. Ten przewodnik krok po kroku obejmuje wszystko, od ustawiania preferencji obrazu po optymalizację renderowania tekstu.
 ### [Edytowanie komentarzy wątkowych w arkuszu kalkulacyjnym programu Excel](./editing-threaded-comments/)
 Odkryj pełny potencjał współpracy w programie Excel dzięki naszemu kompleksowemu przewodnikowi na temat edycji komentarzy wątkowych przy użyciu Aspose.Cells dla .NET. Ten artykuł zawiera jasne, krok po kroku podejście do usprawnienia komunikacji w arkuszach kalkulacyjnych programu Excel.
 ### [Odczyt czasu utworzenia komentarzy wątkowych za pomocą Aspose.Cells](./read-created-time-of-threaded-comment/)

@@ -108,4 +108,4 @@ Console.WriteLine("Modified Baseline Work: " + baseline.Work);
 ใช่ สามารถเรียกค้นและวิเคราะห์ข้อมูลพื้นฐานแบบแบ่งช่วงเวลาโดยละเอียดได้
 
 ### ฉันสามารถเข้าถึงการสนับสนุนและเอกสารได้ที่ไหน  
- เยี่ยม[เอกสารประกอบ Aspose.Tasks](https://reference.aspose.com/words/net/) หรือเข้าร่วม[ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/words/8) เพื่อขอความช่วยเหลือ 
+ เยี่ยม[เอกสารประกอบ Aspose.Tasks](https://reference.aspose.com/words/net/)หรือเข้าร่วม[ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/words/8) เพื่อขอความช่วยเหลือ 

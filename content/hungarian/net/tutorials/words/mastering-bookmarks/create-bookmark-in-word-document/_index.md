@@ -9,11 +9,11 @@ url: /hu/net/tutorials/words/mastering-bookmarks/create-bookmark-in-word-documen
 ---
 ## Bevezetés
 
-A nagyméretű dokumentumokban való navigálás kihívást jelenthet, de a könyvjelzők segítségével gyerekjáték! Ez az oktatóanyag végigvezeti Önt a könyvjelzők létrehozásán egy Word-dokumentumban az Aspose.Words for .NET használatával. Lépésről lépésre megtanulja, hogyan állíthatja be a dokumentumot, hogyan adhat hozzá könyvjelzőket, és hogyan mentheti el PDF formátumban. Kezdjük is!
+A nagyméretű dokumentumokban való navigálás kihívást jelenthet, de a könyvjelzők segítségével ez gyerekjáték! Ez az oktatóanyag végigvezeti Önt a könyvjelzők létrehozásán egy Word-dokumentumban az Aspose.Words for .NET használatával. Lépésről lépésre megtanulja, hogyan állíthatja be a dokumentumot, hogyan adhat hozzá könyvjelzőket, és hogyan mentheti el PDF formátumban. Kezdjük is!
 
 ## Előfeltételek
 
-Búvárkodás előtt győződjön meg arról, hogy rendelkezik a következőkkel:
+A merülés előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
 1.  Aspose.Words for .NET Library: Töltse le és telepítse a webhelyről[itt](https://releases.aspose.com/words/net/).
 2. Fejlesztési környezet: Használja a Visual Studio-t vagy bármely .NET-kompatibilis IDE-t.

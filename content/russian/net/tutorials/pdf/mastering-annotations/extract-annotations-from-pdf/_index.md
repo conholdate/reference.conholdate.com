@@ -28,7 +28,7 @@ url: /ru/net/tutorials/pdf/mastering-annotations/extract-annotations-from-pdf/
 Install-Package Aspose.PDF
 ```
 
-Далее включите необходимые пространства имен в свой проект:
+Затем включите необходимые пространства имен в свой проект:
 
 ```csharp
 using Aspose.Pdf;

@@ -108,4 +108,4 @@ Console.WriteLine("Modified Baseline Work: " + baseline.Work);
 Ναι, μπορούν να ανακτηθούν και να αναλυθούν λεπτομερή δεδομένα αναφοράς σε χρονική φάση.
 
 ### Πού μπορώ να έχω πρόσβαση στην υποστήριξη και την τεκμηρίωση;  
- Επίσκεψη[Aspose.Tasks Documentation](https://reference.aspose.com/words/net/) ή εγγραφείτε στο[Aspose Support Forum](https://forum.aspose.com/c/words/8) για βοήθεια. 
+ Επίσκεψη[Aspose.Tasks Documentation](https://reference.aspose.com/words/net/)ή εγγραφείτε στο[Aspose Support Forum](https://forum.aspose.com/c/words/8) για βοήθεια. 

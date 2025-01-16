@@ -13,7 +13,7 @@ url: /nl/net/tutorials/3d/guide-to-3d-modeling/
 
 ## Primitieve 3D-modellen maken
 
- Elke kunstenaar heeft een solide basis nodig, en wat is een betere manier om te beginnen dan door primitieve vormen te creëren? In onze tutorial over[primitieve 3D-modellen maken](./create-primitive-3d-modeling/), leert u hoe u basisobjecten zoals dozen, bollen en cilinders kunt construeren. Deze vormen zijn de bouwstenen van complexere modellen en zijn perfect voor iedereen die net begint.
+ Elke kunstenaar heeft een solide basis nodig, en wat is een betere manier om te beginnen dan door primitieve vormen te creëren? In onze tutorial over[primitieve 3D-modellen maken](./create-primitive-3d-modeling/)leert u hoe u basisobjecten zoals dozen, bollen en cilinders kunt construeren. Deze vormen zijn de bouwstenen van complexere modellen en zijn perfect voor iedereen die net begint.
 
 We leiden je stap voor stap door het proces en delen elke actie op, zodat je het gemakkelijk kunt volgen. Stel je voor dat je een huis bouwt. Eerst leg je de fundering neer met eenvoudige blokken. Op dezelfde manier leg je in onze tutorial de grond vast met primitieve vormen, zodat je creativiteit de vrije loop krijgt terwijl je ze later aanpast met texturen en kleuren. 
 

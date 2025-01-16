@@ -72,7 +72,7 @@ Successivamente, definisci le directory per il file Excel e il PDF di output.
 ```csharp
 // Elenco di origine
 string sourceDir = "Your Document Directory";
-// Directory di output
+// Directory di uscita
 string outputDir = "Your Document Directory";
 ```
 

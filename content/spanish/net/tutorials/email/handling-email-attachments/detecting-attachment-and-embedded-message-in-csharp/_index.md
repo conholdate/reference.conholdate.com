@@ -9,7 +9,7 @@ url: /es/net/tutorials/email/handling-email-attachments/detecting-attachment-and
 ---
 ## Introducción
 
-En la era digital, la comunicación por correo electrónico es fundamental tanto para las interacciones personales como para las profesionales. Los correos electrónicos suelen contener diversos componentes, como archivos adjuntos y mensajes integrados, que pueden ser esenciales para una comunicación eficaz. Esta guía le enseñará a detectar y gestionar estos elementos mediante programación utilizando la biblioteca Aspose.Email para .NET.
+En la era digital, la comunicación por correo electrónico es fundamental tanto para las interacciones personales como para las profesionales. Los correos electrónicos suelen contener diversos componentes, como archivos adjuntos y mensajes integrados, que pueden resultar esenciales para una comunicación eficaz. Esta guía le enseñará a detectar y gestionar estos elementos mediante programación utilizando la biblioteca Aspose.Email para .NET.
 
 ## Prerrequisitos
 

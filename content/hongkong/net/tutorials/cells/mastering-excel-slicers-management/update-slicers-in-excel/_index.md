@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/cells/mastering-excel-slicers-management/update-slic
 ---
 ## 介紹
 
-切片器是用於過濾和視覺化 Excel 電子表格中的資料的強大工具。透過 Aspose.Cells for .NET，開發人員可以輕鬆更新、操作和自動化 Excel 檔案中的切片器功能。本文深入探討了更新切片器的逐步流程，確保基於 Excel 的應用程式是動態的且使用者友好的。
+切片器是用於過濾和視覺化 Excel 電子表格中的資料的強大工具。透過 Aspose.Cells for .NET，開發人員可以輕鬆更新、操作和自動化 Excel 檔案中的切片器功能。本文深入探討了更新切片器的逐步流程，確保基於 Excel 的應用程式是動態且使用者友好的。
 
 ## 在 Aspose.Cells 中使用切片器的先決條件
 

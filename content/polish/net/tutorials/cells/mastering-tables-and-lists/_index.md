@@ -22,7 +22,7 @@ Tabele Excela są potężne, ale czasami potrzebujesz elastyczności. W tym miej
 
 ## Konwertuj tabele na zakresy z opcjami  
 
-Dostosowanie sposobu konwersji tabel na zakresy jest często niezbędne do osiągnięcia pożądanych rezultatów. Aspose.Cells dla .NET oferuje elastyczność w dostrajaniu tych konwersji za pomocą opcji, takich jak zachowywanie formatowania lub dostosowywanie struktur danych. Niezależnie od tego, czy tworzysz dynamiczne raporty, czy udoskonalasz arkusze kalkulacyjne do prezentacji, ten samouczek gwarantuje, że za każdym razem zrobisz to dobrze. Chcesz dowiedzieć się więcej? Znajdź pełny przewodnik[Tutaj](./convert-tables-to-range-with-options/).  
+Dostosowywanie sposobu konwersji tabel na zakresy jest często niezbędne do osiągnięcia pożądanych rezultatów. Aspose.Cells dla .NET oferuje elastyczność w dostrajaniu tych konwersji za pomocą opcji, takich jak zachowywanie formatowania lub dostosowywanie struktur danych. Niezależnie od tego, czy tworzysz dynamiczne raporty, czy udoskonalasz arkusze kalkulacyjne do prezentacji, ten samouczek gwarantuje, że za każdym razem zrobisz to dobrze. Chcesz dowiedzieć się więcej? Znajdź pełny przewodnik[Tutaj](./convert-tables-to-range-with-options/).  
 
 ## Samouczki dotyczące opanowywania tabel i list
 ### [Tworzenie i zarządzanie obiektami listy w programie Excel za pomocą Aspose.Cells](./create-and-manage-list-object/)

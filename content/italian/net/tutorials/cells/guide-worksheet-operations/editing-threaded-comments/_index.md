@@ -58,7 +58,7 @@ Ora la parte emozionante: caricare la tua cartella di lavoro! Aggiungi il seguen
 Workbook workbook = new Workbook(sourceDir + "ThreadedCommentsSample.xlsx");
 ```
 
-Questa riga crea un'istanza della classe Workbook caricando il file specificato. Sei ufficialmente pronto per apportare modifiche!
+Questa riga crea un'istanza della classe Workbook caricando il file specificato. Ora sei ufficialmente pronto per apportare modifiche!
 
 ## Passaggio 4: accedi al primo foglio di lavoro
 Poiché le cartelle di lavoro possono avere più fogli di lavoro, dobbiamo selezionare quello che vogliamo modificare. Utilizza il seguente codice per accedere al primo foglio di lavoro:

@@ -1,6 +1,6 @@
 ---
 title: Guide de traitement d'images avec Aspose.PSD pour .NET
-linktitle: Guide de traitement d'images
+linktitle: Guide de traitement d'image
 second_title: API .NET Aspose.PSD
 description: Découvrez comment appliquer les filtres gaussiens et de Wiener, ainsi que le seuil Bradley dans Aspose.PSD pour .NET pour un meilleur traitement et une meilleure segmentation des images.
 type: docs

@@ -81,7 +81,7 @@ Az Aspose.Words for .NET egy robusztus könyvtár, amely lehetővé teszi a fejl
  Ingyenesen letöltheti és kipróbálhatja a[ideiglenes engedély](https://purchase.aspose.com/temporary-license/), de a folyamatos használathoz vásárlás szükséges.
 
 ### Hol találok további dokumentációt?
- Megnézheti a részletes dokumentációt[itt](https://reference.aspose.com/words/net/).
+ Megtekintheti a részletes dokumentációt[itt](https://reference.aspose.com/words/net/).
 
 ### Mi van, ha segítségre van szükségem?
  Ha bármilyen problémába ütközik, ne habozzon kérni segítséget a[Aspose.Words támogatási fórum](https://forum.aspose.com/c/words/8).

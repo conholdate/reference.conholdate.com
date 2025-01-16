@@ -41,7 +41,7 @@ Začněte otevřením hlavního souboru zip (vnější zip):
 string dataDir = "Your Data Directory";
 using (Archive outer = new Archive(dataDir + "outer.zip"))
 {
-    // Pokračujte v identifikaci vnitřních vstupů zipu
+    // Pokračujte v identifikaci vnitřních zipových vstupů
 }
 ```
 
@@ -116,7 +116,7 @@ Aspose.Zip for .NET poskytuje výkonný a přímočarý způsob, jak programově
 
 ## FAQ
 
-### Mohu používat Aspose.Zip pro .NET s jinými programovacími jazyky?
+### Mohu použít Aspose.Zip pro .NET s jinými programovacími jazyky?
 Aspose.Zip je primárně určen pro .NET aplikace, ale Aspose nabízí podobné knihovny pro různé programovací jazyky.
 
 ### Je k dispozici bezplatná zkušební verze pro Aspose.Zip pro .NET?

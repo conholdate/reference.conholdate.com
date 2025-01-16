@@ -21,7 +21,7 @@ Avant de passer au code, assurons-nous que tout est configuré :
 4. Connaissances de base en C# : la familiarité avec C# vous aidera à parcourir les exemples de codage en douceur.
 5. Configuration de l'environnement de développement : assurez-vous que votre IDE est configuré pour les projets .NET et que vous avez correctement référencé la bibliothèque Aspose.PDF.
 
-Une fois ces conditions préalables remplies, vous êtes prêt à commencer à ajouter des annotations à l’encre à vos PDF !
+Une fois ces conditions préalables remplies, vous êtes prêt à commencer à ajouter des annotations manuscrites à vos PDF !
 
 ## Importer les packages nécessaires
 
@@ -41,7 +41,7 @@ Décomposons le processus d’ajout d’une annotation manuscrite à votre docum
 
 ## Étape 1 : Configurer le document et le répertoire
 
-Tout d’abord, définissez le document et le chemin d’accès pour enregistrer le fichier de sortie :
+Tout d’abord, établissez le document et le chemin d’accès pour enregistrer le fichier de sortie :
 
 ```csharp
 string dataDir = "YOUR DATA DIRECTORY";

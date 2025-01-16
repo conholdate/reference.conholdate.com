@@ -15,7 +15,7 @@ Ulepszanie prezentacji za pomocą wciągających animacji slajdów może znaczni
 Zanim przejdziemy do samouczka, upewnij się, że masz następujące rzeczy:
 
 1.  Biblioteka Aspose.Slides dla platformy .NET: Pobierz i zainstaluj bibliotekę z[Strona pobierania Aspose](https://releases.aspose.com/slides/net/).
-2. Katalog dokumentów: Utwórz katalog do przechowywania plików prezentacji. Zaktualizuj`dataDir` zmienną we fragmentach kodu zawierającą ścieżkę do katalogu dokumentu.
+2.  Katalog dokumentów: Utwórz katalog do przechowywania plików prezentacji. Zaktualizuj`dataDir` zmienną we fragmentach kodu zawierającą ścieżkę do katalogu dokumentu.
 
 ## Importuj przestrzenie nazw
 
@@ -85,7 +85,7 @@ Animowanie slajdów w prezentacjach dodaje dynamiki, czyniąc treść bardziej a
 
 ### Czy mogę dodatkowo dostosować efekty przejścia?
 
- Oczywiście! Aspose.Slides oferuje szeroki zakres typów przejść i dodatkowych właściwości do personalizacji. Aby uzyskać więcej szczegółów, zapoznaj się z[dokumentacja](https://reference.aspose.com/slides/net/).
+Oczywiście! Aspose.Slides oferuje szeroki zakres typów przejść i dodatkowych właściwości do personalizacji. Aby uzyskać więcej szczegółów, zapoznaj się z[dokumentacja](https://reference.aspose.com/slides/net/).
 
 ### Czy jest dostępna bezpłatna wersja próbna?
 

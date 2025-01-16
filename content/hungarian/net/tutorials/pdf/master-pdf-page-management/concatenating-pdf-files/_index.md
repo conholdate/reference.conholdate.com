@@ -114,7 +114,7 @@ Az Aspose.PDF for .NET egy olyan könyvtár, amely lehetővé teszi a fejlesztő
  Igen! Az Aspose ingyenes próbaverziót kínál, amellyel felfedezheti a könyvtárat. Nézd meg[itt](https://releases.aspose.com/).
 
 ### Hogyan vásárolhatom meg az Aspose.PDF-et .NET-hez?  
- Megvásárolhatja az Aspose.PDF-et a weboldalon[vásárlási oldal](https://purchase.aspose.com/buy).
+ Az Aspose.PDF-et a következő oldalon vásárolhatja meg[vásárlási oldal](https://purchase.aspose.com/buy).
 
 ### Van-e támogatás az Aspose.PDF számára?  
 Teljesen! Támogatást kaphat a[Aspose fórum](https://forum.aspose.com/c/pdf/10).

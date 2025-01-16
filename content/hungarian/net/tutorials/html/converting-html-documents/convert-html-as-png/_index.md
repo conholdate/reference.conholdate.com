@@ -45,7 +45,7 @@ using Aspose.Html.Rendering.Image;
 
 Most, hogy elkészítettük a helyszínt, bontsuk le a HTML PNG-képként való megjelenítésének folyamatát részletes, könnyen követhető lépésekre.
 
-## 1. lépés: Állítsa be az adattárat
+## 1. lépés: Állítsa be az adatkönyvtárat
 
 Az első dolog, amit tennie kell, az, hogy beállít egy könyvtárat, ahová a képeket menteni fogja. Ez a könyvtár a létrehozott PNG-fájlok otthonaként működik.
 

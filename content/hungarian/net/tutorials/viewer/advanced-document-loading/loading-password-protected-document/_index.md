@@ -78,7 +78,7 @@ using (Viewer viewer = new Viewer("Path_to_your_document", loadOptions))
 HtmlViewOptions options = HtmlViewOptions.ForEmbeddedResources(pageFilePathFormat);
 ```
 
-## 6. lépés: Renderje le a dokumentumot
+## 6. lépés: Rendelje le a dokumentumot
 
 Most jelenítse meg a dokumentumot a konfigurált megjelenítővel és nézeti beállításokkal:
 

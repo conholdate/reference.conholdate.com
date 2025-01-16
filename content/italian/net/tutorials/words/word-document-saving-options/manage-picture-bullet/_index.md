@@ -18,7 +18,7 @@ Prima di immergerti nel codice, assicurati di avere quanto segue:
 1.  Aspose.Words per .NET: Scarica e installa questa libreria robusta da[Sito web di Aspose](https://releases.aspose.com/words/net/).
 2. Ambiente di sviluppo: un ambiente .NET funzionante, come Visual Studio.
 3. Conoscenza di base di C#: la familiarità con la programmazione C# sarà utile.
-4. Documento di esempio: un documento Word contenente punti elenco immagine a scopo di test.
+4. Documento di esempio: un documento Word contenente punti elenco con immagini a scopo di test.
 
 Per semplificare la procedura, suddividiamola in passaggi chiari.
 
@@ -33,7 +33,7 @@ using Aspose.Words.Saving;
 
 ## Passaggio 2: imposta la directory dei documenti
 
-Poi, specifica il percorso alla directory dei tuoi documenti. Qui è dove caricherai il tuo documento Word e salverai la versione modificata.
+Poi, specifica il percorso della directory dei tuoi documenti. Qui è dove caricherai il tuo documento Word e salverai la versione modificata.
 
 ```csharp
 // Percorso alla directory dei tuoi documenti

@@ -54,7 +54,7 @@ Met deze regel configureert u Aspose.Words om Japans te behandelen als de bewerk
 
 ## Stap 3: Geef de documentdirectory op
 
-Geef nu het pad op naar uw documentmap, waar uw voorbeelddocument zich bevindt.
+Geef nu het pad op naar uw documentenmap, waar uw voorbeelddocument zich bevindt.
 
 ```csharp
 string dataDir = "YOUR DOCUMENT DIRECTORY";

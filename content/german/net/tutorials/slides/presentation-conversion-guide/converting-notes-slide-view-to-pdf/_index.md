@@ -94,4 +94,4 @@ Ja, Aspose.Slides für .NET ist für die effiziente Verarbeitung von Präsentati
  Auf jeden Fall! Sie können bestimmte Folien auswählen, indem Sie`Slides` Sammlung im`Presentation` Klasse.
 
 ### F5: Wo finde ich weitere Beispiele?
- Besuchen Sie die[Aspose.Slides für .NET-Dokumentation](https://reference.aspose.com/slides/net/)für weitere Beispiele und Anwendungsfälle.
+ Besuchen Sie die[Aspose.Slides für .NET-Dokumentation](https://reference.aspose.com/slides/net/) für weitere Beispiele und Anwendungsfälle.

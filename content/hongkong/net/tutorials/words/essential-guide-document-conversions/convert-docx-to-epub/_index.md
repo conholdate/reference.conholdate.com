@@ -16,7 +16,7 @@ url: /zh-hant/net/tutorials/words/essential-guide-document-conversions/convert-d
 在開始轉換過程之前，請確保您具備以下條件：
 
 - 開發環境：安裝了 Visual Studio 或其他 .NET IDE。
--  Aspose.Words for .NET：從以下位置下載並安裝：[阿斯普斯網站](https://releases.aspose.com/words/net/).
+-  Aspose.Words for .NET：從以下位置下載並安裝它：[阿斯普斯網站](https://releases.aspose.com/words/net/).
 - 文件檔案：準備要轉換的 DOCX 檔案。
 
 ## 步驟1：導入必要的命名空間

@@ -13,7 +13,7 @@ url: /ru/net/tutorials/email/email-files-storage-and-retrieval/save-messages-fro
 
 ## Предпосылки  
 
-Прежде чем погрузиться в код, давайте убедимся, что у вас есть все необходимое для дальнейшего изучения.  
+Прежде чем погрузиться в код, давайте убедимся, что у вас есть все необходимое для его изучения.  
 
 ## Импортные пакеты  
 
@@ -48,7 +48,7 @@ string outputDir = "Your Output Directory";
 ```csharp  
 using (TgzReader reader = new TgzReader(dataDir + "ZimbraSample.tgz"))  
 {  
-    // Готовы к извлечению данных
+    // Готовы извлечь данные
 }  
 ```  
  

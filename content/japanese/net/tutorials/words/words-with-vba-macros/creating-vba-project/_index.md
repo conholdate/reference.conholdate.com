@@ -9,7 +9,7 @@ url: /ja/net/tutorials/words/words-with-vba-macros/creating-vba-project/
 ---
 ## 導入
 
-こんにちは、技術愛好家の皆さん! Word 文書内で Visual Basic for Applications (VBA) のエキサイティングな世界に飛び込む準備はできていますか? 熟練した開発者でも、初心者でも、このガイドでは、Aspose.Words for .NET を使用して Word 文書で VBA プロジェクトを作成する手順を説明します。この強力なライブラリを使用すると、タスクを自動化し、マクロを作成し、Word 文書の機能を強化できます。さあ、始めましょう!
+技術愛好家の皆さん、こんにちは。Word 文書内で Visual Basic for Applications (VBA) のエキサイティングな世界に飛び込む準備はできていますか? 熟練した開発者でも、初心者でも、このガイドでは、Aspose.Words for .NET を使用して Word 文書で VBA プロジェクトを作成する手順を説明します。この強力なライブラリを使用すると、タスクを自動化し、マクロを作成し、Word 文書の機能を強化できます。さあ、始めましょう!
 
 ## 前提条件
 

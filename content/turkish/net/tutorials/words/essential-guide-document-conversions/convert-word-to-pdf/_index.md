@@ -18,7 +18,7 @@ Başlamak için aşağıdakilerin yüklü olduğundan emin olun:
 1.  Aspose.Words for .NET Kütüphanesi: Şuradan indirin:[alan](https://releases.aspose.com/words/net/).
 2. .NET Framework: .NET Framework'ün yüklü olduğundan emin olun.
 3. Visual Studio: Visual Studio kullanmanızı öneririz ancak uyumlu herhangi bir IDE de işinizi görecektir.
-4. Word Belgesi: PDF'ye dönüştürmek istediğiniz belge.
+4. Word Belgesi: PDF'e dönüştürmek istediğiniz belge.
 
 Bunları yaptıktan sonra artık hazırsınız!
 

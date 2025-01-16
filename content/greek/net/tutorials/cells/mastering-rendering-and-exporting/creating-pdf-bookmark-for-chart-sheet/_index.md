@@ -59,7 +59,7 @@ Workbook wb = new Workbook(sourceDir + "sampleCreatePdfBookmarkEntryForChartShee
 Βεβαιωθείτε ότι το όνομα αρχείου ταιριάζει με το πραγματικό σας αρχείο.
 
 ## Βήμα 6: Πρόσβαση στα φύλλα εργασίας
-Πρόσβαση στα φύλλα εργασίας του βιβλίου εργασίας:
+Πρόσβαση στα φύλλα εργασίας μέσα στο βιβλίο εργασίας:
 ```csharp
 Worksheet sheet1 = wb.Worksheets[0];
 Worksheet sheet2 = wb.Worksheets[1];

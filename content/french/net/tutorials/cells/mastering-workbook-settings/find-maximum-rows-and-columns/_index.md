@@ -13,7 +13,7 @@ La gestion de grands ensembles de données dans Excel peut être difficile, nota
 
 ## Prérequis
 
-Avant de commencer, assurez-vous d'avoir les éléments suivants :
+Avant de commencer, assurez-vous d'avoir les éléments suivants :
 
 1. [Cadre .NET](https://dotnet.microsoft.com/en-us/download) ou[.NET Core](https://dotnet.microsoft.com/en-us/download) installé sur votre système.
 2. [Aspose.Cells pour .NET](https://releases.aspose.com/cells/net/) bibliothèque téléchargée et référencée dans votre projet (vous pouvez également l'installer via[NuGet](https://www.nuget.org/packages/Aspose.Cells/)).

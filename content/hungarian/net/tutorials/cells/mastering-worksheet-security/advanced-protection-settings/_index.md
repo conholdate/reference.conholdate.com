@@ -79,7 +79,7 @@ Worksheet worksheet = excel.Worksheets[0];
 
 ## 6. lépés: Végezze el a védelmi beállításokat
 
-Most jön az izgalmas rész – a munkalap védelmének beállítása! Az alábbiakban felsoroljuk az általános korlátozásokat, amelyeket alkalmazhat:
+Most jön az izgalmas rész – a munkalap védelmének beállítása! Az alábbiakban felsoroljuk az általánosan alkalmazható korlátozásokat:
 
 ### Korlátozza a sorok és oszlopok törlését
 

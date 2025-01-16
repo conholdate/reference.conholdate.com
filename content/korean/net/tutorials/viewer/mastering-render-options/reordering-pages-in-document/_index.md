@@ -9,7 +9,7 @@ url: /ko/net/tutorials/viewer/mastering-render-options/reordering-pages-in-docum
 ---
 ## 소개
 
-.NET 개발에서 문서를 효율적으로 관리하고 조작하는 것은 핵심입니다. GroupDocs.Viewer for .NET은 다양한 문서 형식을 애플리케이션 내에서 직접 볼 수 있는 뛰어난 솔루션을 제공합니다. 개발자가 직면하는 일반적인 작업 중 하나는 문서의 페이지를 재정렬하는 것으로, 이를 통해 워크플로와 사용자 경험을 크게 향상시킬 수 있습니다. 이 튜토리얼에서는 GroupDocs.Viewer for .NET을 사용하여 페이지를 재정렬하는 방법을 살펴봅니다.
+.NET 개발에서 문서를 효율적으로 관리하고 조작하는 것은 핵심입니다. GroupDocs.Viewer for .NET은 다양한 문서 형식을 애플리케이션 내에서 직접 볼 수 있는 뛰어난 솔루션을 제공합니다. 개발자가 직면하는 일반적인 작업 중 하나는 문서의 페이지를 재정렬하는 것으로, 워크플로와 사용자 경험을 크게 향상시킬 수 있습니다. 이 튜토리얼에서는 GroupDocs.Viewer for .NET을 사용하여 페이지를 재정렬하는 방법을 살펴봅니다.
 
 ## 필수 조건
 

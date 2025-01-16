@@ -2,7 +2,7 @@
 title: 使用 Aspose.PDF for .NET 新增漸層填色繪圖
 linktitle: 使用 Aspose.PDF for .NET 新增漸層填色繪圖
 second_title: Aspose.PDF for .NET API 參考
-description: 透過本逐步指南，了解使用 Aspose.PDF for .NET 新增令人驚嘆的漸層填色繪圖，釋放 PDF 文件的全部潛力。非常適合增強報告、簡報和任何需要視覺升級的文件。
+description: 透過本逐步指南，了解如何使用 Aspose.PDF for .NET 新增令人驚嘆的漸層填滿繪圖，釋放 PDF 文件的全部潛力。非常適合增強報告、簡報和任何需要視覺升級的文件。
 type: docs
 weight: 20
 url: /zh-hant/net/tutorials/pdf/mastering-Graph-programming/add-gradient-filled-drawings/

@@ -44,7 +44,7 @@ Document doc = new Document(dataDir + "Document.docx");
 
 ## Étape 2 : enregistrer le document au format MHTML
 
- Ensuite, convertissez le document chargé au format MHTML. Cela se fait à l'aide de l'`Save` méthode de la`Document` classe.
+ Ensuite, convertissez le document chargé au format MHTML. Cela se fait à l'aide de`Save` méthode de la`Document` classe.
 
 ```csharp
 using (Stream stream = new MemoryStream())

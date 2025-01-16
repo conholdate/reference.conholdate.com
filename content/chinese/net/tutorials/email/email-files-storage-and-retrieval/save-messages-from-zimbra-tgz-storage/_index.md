@@ -43,7 +43,7 @@ string outputDir = "Your Output Directory";
 
 ## 步骤 2：创建 TgzReader 实例  
 
-这`TgzReader`类是读取 Zimbra TGZ 文件的门户。让我们实例化它并将其指向您的 TGZ 文件。  
+这`TgzReader`类是读取 Zimbra TGZ 文件的入口。让我们实例化它并将其指向您的 TGZ 文件。  
 
 ```csharp  
 using (TgzReader reader = new TgzReader(dataDir + "ZimbraSample.tgz"))  
@@ -52,7 +52,7 @@ using (TgzReader reader = new TgzReader(dataDir + "ZimbraSample.tgz"))
 }  
 ```  
  
-想想`TgzReader`作为一个神奇的图书馆，它可以打开你的 TGZ 文件并让其所有内容都可以访问。  
+想想`TgzReader`作为一个神奇的图书馆，它可以打开你的 TGZ 文件并使其所有内容都可以访问。  
 
 
 ## 步骤 3：将消息导出到输出目录  

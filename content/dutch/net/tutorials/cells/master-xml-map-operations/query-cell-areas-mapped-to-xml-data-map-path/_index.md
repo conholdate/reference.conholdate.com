@@ -112,14 +112,14 @@ results = worksheet.XmlMapQuery("/MiscData/row/Color", xmlMap);
 Laten we ten slotte de gegevens van dit specifieke pad weergeven:
 
 ```csharp
-// Geef de resultaten van de geneste padquery weer
+// De resultaten van de geneste padquery weergeven
 foreach (var result in results)
 {
     Console.WriteLine(result);
 }
 ```
 
-Met deze lus worden alle items uit de geneste query afgedrukt en worden de beoogde gegevens weergegeven.
+Met deze lus worden alle items uit de geneste query afgedrukt, zodat u de beoogde gegevens kunt zien.
 
 ## Conclusie
 

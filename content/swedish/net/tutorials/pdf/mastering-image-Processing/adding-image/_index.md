@@ -84,7 +84,7 @@ using (FileStream imageStream = new FileStream(dataDir + "aspose-logo.jpg", File
 
 Se till att sökvägen till bildfilen är korrekt.
 
-## Steg 6: Spara det aktuella grafikläget
+## Steg 6: Spara aktuell grafikstatus
 
 Innan du placerar bilden, spara den aktuella grafikstatusen:
 

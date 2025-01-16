@@ -22,7 +22,7 @@ url: /ko/net/tutorials/tasks/guide-to-saving-options/convert-ms-project-files-to
    C# 프로그래밍 언어와 구성된 .NET 개발 환경에 대한 실무 지식이 있습니다.
 
 3. Microsoft Project 파일 입력  
-   유효한`.mpp` 변환 가능한 파일이 있습니다.
+    유효한`.mpp`변환 가능한 파일이 있습니다.
 
 ## 필수 네임스페이스 가져오기
 
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## 5단계: 프로젝트 파일을 PDF로 저장
 
-마지막으로 저장하세요`.mpp` 호출하여 PDF로 파일화`Save` 방법. 출력 파일 경로를 지정하고 구성된 옵션을 전달합니다.
+ 마지막으로 저장하세요`.mpp`호출하여 PDF로 파일화`Save` 방법. 출력 파일 경로를 지정하고 구성된 옵션을 전달합니다.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

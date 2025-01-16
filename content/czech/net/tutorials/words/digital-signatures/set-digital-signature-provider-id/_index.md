@@ -101,7 +101,7 @@ Gratuluji! Úspěšně jste nastavili ID poskytovatele podpisu v dokumentu aplik
 
 ID poskytovatele podpisu jednoznačně identifikuje poskytovatele digitálního podpisu a zajišťuje autentičnost a bezpečnost.
 
-### Mohu k podpisu použít jakýkoli soubor .pfx?
+### Mohu pro podepisování použít jakýkoli soubor .pfx?
 
 Ano, můžete použít jakýkoli platný digitální certifikát. Jen se ujistěte, že máte správné heslo, pokud je chráněno.
 

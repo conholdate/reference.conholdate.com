@@ -13,7 +13,7 @@ A térinformatikai adatok folyamatosan fejlődő világában, ha a megfelelő es
 
 ## A GeoJSON konvertálása TopoJSON-ba
 
- GeoJSON és a TopoJSON népszerű formátumok a GIS közösségben, de mindegyiknek megvannak a maga egyedi előnyei. A GeoJSON egyszerű és könnyen olvasható, így kiválóan használható webes alkalmazásokhoz, míg a TopoJSON a topológia kódolásával csökkenti a fájlméretet, ami játékmódosító lehet a teljesítmény szempontjából. Oktatóanyagunk a[A GeoJSON konvertálása TopoJSON-ba](./converting-geojson-to-topojson/) végigvezeti Önt a beállítási folyamaton, és lépésről lépésre kódpéldákat mutat be, hogy biztosítsa, hogy gyorsan üzembe helyezze magát. Segítségre van szüksége a telepítéshez? Biztosítottunk benneteket!
+ GeoJSON és a TopoJSON népszerű formátumok a GIS közösségben, de mindegyiknek megvannak a maga egyedi előnyei. A GeoJSON egyszerű és könnyen olvasható, így kiválóan használható webes alkalmazásokhoz, míg a TopoJSON a topológia kódolásával csökkenti a fájlméretet, ami játékmódosító lehet a teljesítmény szempontjából. Oktatóanyagunk a[A GeoJSON konvertálása TopoJSON-ba](./converting-geojson-to-topojson/) végigvezeti Önt a beállítási folyamaton, és lépésről lépésre kódpéldákat mutat be, hogy biztosítsa, hogy gyorsan üzembe helyezze magát. Segítségre van szüksége a telepítéshez? Biztosítjuk Önt!
 
 ## Shapefiles átalakítása GeoJSON-ba
 

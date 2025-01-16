@@ -20,7 +20,7 @@ url: /zh-hant/net/tutorials/words/advanced-ai-document-processing/efficient-docu
 從以下位置下載 Aspose.Words for .NET 套件[阿斯普斯網站](https://releases.aspose.com/words/net/)，然後使用 Visual Studio 中的 NuGet 套件管理器將其安裝到您的專案中。
 
 ### 取得 OpenAI API 金鑰
-要存取 OpenAI 的語言模型，您需要 API 金鑰。註冊[OpenAI 網站](https://openai.com/)，檢索您的密鑰，並妥善保管以進行整合。
+要存取 OpenAI 的語言模型，您需要 API 金鑰。註冊[開放人工智慧網站](https://openai.com/)，檢索您的密鑰，並妥善保管以進行整合。
 
 ### 整合開發環境
 使用 Visual Studio 作為 IDE 將簡化編碼和偵錯過程。

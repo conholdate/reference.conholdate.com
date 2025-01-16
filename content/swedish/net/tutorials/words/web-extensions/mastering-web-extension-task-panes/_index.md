@@ -122,7 +122,7 @@ Efter konfiguration, spara dokumentet i den angivna katalogen:
 doc.Save(dataDir + "DocumentWithTaskPane.docx");
 ```
 
-## Steg 9: Validera information om uppgiftsfönstret  
+## Steg 9: Validera information om uppgiftsrutan  
 
 Ladda dokumentet och verifiera inställningarna för aktivitetsfönstret:  
 

@@ -94,4 +94,4 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
  बिल्कुल! आप इसका उपयोग करके विशिष्ट स्लाइड्स का चयन कर सकते हैं`Slides` संग्रह में`Presentation` कक्षा।
 
 ### प्रश्न 5: मैं अतिरिक्त उदाहरण कहां पा सकता हूं?
- दौरा करना[.NET दस्तावेज़ीकरण के लिए Aspose.Slides](https://reference.aspose.com/slides/net/)अधिक उदाहरणों और उपयोग मामलों के लिए.
+ दौरा करना[.NET दस्तावेज़ीकरण के लिए Aspose.Slides](https://reference.aspose.com/slides/net/) अधिक उदाहरणों और उपयोग मामलों के लिए.

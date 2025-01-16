@@ -108,4 +108,4 @@ Sí, la API permite realizar modificaciones de línea base dinámicas y automati
 Sí, se pueden recuperar y analizar datos de referencia detallados en fases de tiempo.
 
 ### ¿Dónde puedo acceder al soporte y la documentación?  
- Visita[Documentación de Aspose.Tasks](https://reference.aspose.com/words/net/) o únete a la[Foro de soporte de Aspose](https://forum.aspose.com/c/words/8) para solicitar ayuda. 
+ Visita[Documentación de Aspose.Tasks](https://reference.aspose.com/words/net/) únete a la[Foro de soporte de Aspose](https://forum.aspose.com/c/words/8) para solicitar ayuda. 

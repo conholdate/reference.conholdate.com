@@ -2,7 +2,7 @@
 title: Aspose.Words for .NET'te Web Uzantıları
 linktitle: Webextension ile Kelime İşleme
 second_title: Aspose.Words Belge İşleme API'si
-description: Güçlü web tabanlı eklentiler aracılığıyla Word belgelerinizi nasıl geliştireceğinizi öğrenin ve dinamik işlevselliği etkinleştirin. İster yeni başlayan ister deneyimli bir geliştirici olun.
+description: Güçlü web tabanlı eklentiler aracılığıyla Word belgelerinizi nasıl geliştireceğinizi öğrenin, dinamik işlevselliği etkinleştirin. İster yeni başlayan ister deneyimli bir geliştirici olun.
 type: docs
 weight: 1530
 url: /tr/net/tutorials/words/web-extensions/

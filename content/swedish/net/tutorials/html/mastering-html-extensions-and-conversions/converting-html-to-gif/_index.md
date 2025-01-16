@@ -62,7 +62,7 @@ ImageSaveOptions options = new ImageSaveOptions(ImageFormat.Gif);
 
 Denna konfiguration tillåter Aspose att spara utdata i önskat format.
 
-## Steg 4: Ange sökväg för utdatafil
+## Steg 4: Ange utdatafilens sökväg
 
 Definiera var du vill spara den konverterade GIF-filen:
 

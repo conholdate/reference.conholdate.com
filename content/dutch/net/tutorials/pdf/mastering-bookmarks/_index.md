@@ -4,7 +4,7 @@ linktitle: Bladwijzers onder de knie krijgen in Aspose.PDF voor .NET
 type: docs
 weight: 19
 url: /nl/net/tutorials/pdf/mastering-bookmarks/
-description: Beheers de kunst van het beheren van bladwijzers in PDF-bestanden met Aspose.PDF voor .NET. Onze tutorials behandelen alles van het naadloos toevoegen tot verwijderen van bladwijzers.
+description: Word een meester in het beheren van bladwijzers in PDF-bestanden met Aspose.PDF voor .NET. Onze tutorials behandelen alles van het naadloos toevoegen tot verwijderen van bladwijzers.
 ---
 ## Invoering
 

@@ -26,7 +26,7 @@ using Formats.Document;
 ```
 
 ## 1단계: PDF 메타데이터 로드
-PDF 파일에서 메타데이터를 읽으려면 다음 코드를 사용하여 문서를 로드하고 속성을 추출합니다.
+PDF 파일에서 메타데이터를 읽으려면 다음 코드를 사용하여 문서를 로드하고 해당 속성을 추출합니다.
 
 ```csharp
 using (Metadata metadata = new Metadata("YourInputFile.pdf"))

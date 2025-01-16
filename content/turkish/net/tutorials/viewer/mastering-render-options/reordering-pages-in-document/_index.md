@@ -9,7 +9,7 @@ url: /tr/net/tutorials/viewer/mastering-render-options/reordering-pages-in-docum
 ---
 ## giriiş
 
-.NET geliştirmede, belgeleri etkin bir şekilde yönetmek ve düzenlemek çok önemlidir. .NET için GroupDocs.Viewer, çeşitli belge biçimlerini doğrudan uygulamalarınızda görüntülemek için olağanüstü bir çözüm sunar. Geliştiricilerin karşılaştığı yaygın görevlerden biri, iş akışlarını ve kullanıcı deneyimini önemli ölçüde iyileştirebilen belgelerdeki sayfaları yeniden düzenlemektir. Bu eğitim, .NET için GroupDocs.Viewer kullanılarak sayfaların nasıl yeniden düzenleneceğini araştırır.
+.NET geliştirmede, belgeleri etkin bir şekilde yönetmek ve düzenlemek çok önemlidir. .NET için GroupDocs.Viewer, çeşitli belge biçimlerini doğrudan uygulamalarınızda görüntülemek için olağanüstü bir çözüm sunar. Geliştiricilerin karşılaştığı yaygın görevlerden biri, iş akışlarını ve kullanıcı deneyimini önemli ölçüde iyileştirebilen belgelerdeki sayfaları yeniden düzenlemektir. Bu eğitim, .NET için GroupDocs.Viewer kullanarak sayfaların nasıl yeniden düzenleneceğini araştırır.
 
 ## Ön koşullar
 

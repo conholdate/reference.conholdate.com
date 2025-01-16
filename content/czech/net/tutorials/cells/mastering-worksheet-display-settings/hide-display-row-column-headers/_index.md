@@ -120,7 +120,7 @@ Schopnost zobrazit nebo skrýt záhlaví řádků a sloupců v Excelu je cenná 
 Aspose.Cells je knihovna .NET, která umožňuje programovou manipulaci se soubory aplikace Excel a umožňuje vám efektivně vytvářet, upravovat a převádět tabulky.
 
 ### Mohu po skrytí záhlaví znovu zobrazit?
- Absolutně! Jednoduše nastavit`worksheet.IsRowColumnHeadersVisible` na`true` pro opětovné zobrazení záhlaví.
+ Absolutně! Jednoduše nastavit`worksheet.IsRowColumnHeadersVisible` na`true` znovu zobrazit záhlaví.
 
 ### Je Aspose.Cells zdarma?
  Aspose.Cells je placená knihovna, ale po omezenou dobu si ji můžete vyzkoušet zdarma. Zkontrolujte jejich[Bezplatná zkušební stránka](https://releases.aspose.com/).

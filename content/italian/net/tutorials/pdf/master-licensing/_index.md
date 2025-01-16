@@ -4,7 +4,7 @@ linktitle: Licenza principale Aspose.PDF per .NET
 type: docs
 weight: 21
 url: /it/net/tutorials/pdf/master-licensing/
-description: Sfrutta appieno il potenziale di Aspose.PDF per .NET con tutorial dettagliati su licenze, conformità e ottimizzazione dei flussi di lavoro PDF.
+description: Sfrutta appieno il potenziale di Aspose.PDF per .NET con tutorial dettagliati sulle licenze, sulla garanzia della conformità e sull'ottimizzazione dei flussi di lavoro PDF.
 ---
 ## Introduzione
 

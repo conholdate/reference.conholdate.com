@@ -8,7 +8,7 @@ description: Konvertera enkelt filer till PDF med GroupDocs.Conversion för .NET
 is_root: true
 ---
 
-## GroupDocs.Conversion för .NET självstudier
+## Instruktioner för GroupDocs.Conversion för .NET
 ### [Guide till filkonvertering till PDF](./guide-to-file-conversion-to-pdf/)
 Lär dig hur du enkelt konverterar olika filformat till PDF med GroupDocs.Conversion for .NET. Denna steg-för-steg handledning täcker allt från att ställa in biblioteket till att utföra sömlösa filtransformationer.
 ### [Guide till dokumentkonvertering med GroupDocs.Conversion för .NET](./guide-to-document-conversion/)

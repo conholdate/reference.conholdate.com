@@ -12,7 +12,7 @@ Quando si tratta di navigare nei file PDF, i segnalibri sono i tuoi migliori ami
 
 ## Aggiungere segnalibri ai file PDF
 
-Per prima cosa, esploriamo come aggiungere segnalibri ai tuoi PDF. L'aggiunta di segnalibri non riguarda solo la decorazione; riguarda il miglioramento dell'esperienza utente. Con Aspose.PDF per .NET, puoi inserire segnalibri in modo programmatico, rendendo il tuo contenuto facilmente navigabile. Immagina di avere un lungo report: aggiungendo segnalibri, puoi consentire ai lettori di passare direttamente ai capitoli pertinenti senza dover scorrere infinite pagine.[Per saperne di più clicca qui.](./adding-bookmark/)
+Per prima cosa, esploriamo come aggiungere segnalibri ai tuoi PDF. L'aggiunta di segnalibri non riguarda solo la decorazione; riguarda il miglioramento dell'esperienza utente. Con Aspose.PDF per .NET, puoi inserire segnalibri in modo programmatico, rendendo il tuo contenuto facilmente navigabile. Immagina di avere un lungo report: aggiungendo segnalibri, puoi consentire ai lettori di passare direttamente ai capitoli pertinenti senza dover scorrere pagine infinite.[Per saperne di più clicca qui.](./adding-bookmark/)
 
 ## Navigazione tra i segnalibri dei figli
 

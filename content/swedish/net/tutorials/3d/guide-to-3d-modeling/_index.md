@@ -13,7 +13,7 @@ url: /sv/net/tutorials/3d/guide-to-3d-modeling/
 
 ## Skapa primitiva 3D-modeller
 
- Varje konstnär behöver en solid grund, och vad är bättre sätt att börja än att skapa primitiva former? I vår handledning om[skapa primitiva 3D-modeller](./create-primitive-3d-modeling/), kommer du att lära dig hur du konstruerar grundläggande objekt som lådor, sfärer och cylindrar. Dessa former är byggstenarna i mer komplexa modeller och är perfekta för alla som precis har börjat.
+ Varje konstnär behöver en solid grund, och vad är bättre sätt att börja än att skapa primitiva former? I vår handledning om[skapa primitiva 3D-modeller](./create-primitive-3d-modeling/)kommer du att lära dig hur du konstruerar grundläggande objekt som lådor, sfärer och cylindrar. Dessa former är byggstenarna i mer komplexa modeller och är perfekta för alla som precis har börjat.
 
 Vi guidar dig genom processen steg för steg och delar upp varje åtgärd så att du enkelt kan följa med. Föreställ dig att du bygger ett hus. Först lägger du grunden med enkla block. På samma sätt, i vår handledning, kommer du att sätta grunden med primitiva former, vilket låter din kreativitet blomstra när du senare anpassar dem med texturer och färger. 
 

@@ -55,7 +55,7 @@ doc.Sections[1].Remove();
 
 ## Çözüm
 
-Aspose.Words for .NET ile Word belgelerini düzenlemek etkili ve basittir. Bölümleri silmek, kullanımınıza sunulan birçok güçlü özellikten sadece biridir. Kapsamlı[belgeleme](https://reference.aspose.com/words/net/) Belge işleme görevlerinizi geliştirebilecek daha fazla yeteneği keşfetmek için.
+Aspose.Words for .NET ile Word belgelerini düzenlemek verimli ve basittir. Bölümleri silmek, kullanımınıza sunulan birçok güçlü özellikten sadece biridir. Kapsamlı[belgeleme](https://reference.aspose.com/words/net/) Belge işleme görevlerinizi geliştirebilecek daha fazla yeteneği keşfetmek için.
 
 ## SSS
 

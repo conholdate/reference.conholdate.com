@@ -79,7 +79,7 @@ doc.Save(dataDir + "EncryptedDocument.docx", saveOptions);
 
 ## Conclusione
 
-Congratulazioni! Hai imparato con successo come crittografare un documento con una password usando Aspose.Words per .NET. Questo processo assicura che i tuoi documenti rimangano sicuri e accessibili solo a chi ti fidi. Che tu stia gestendo importanti file aziendali o scritti personali, implementare la protezione tramite password è una scelta saggia.
+Congratulazioni! Hai imparato con successo come crittografare un documento con una password usando Aspose.Words per .NET. Questo processo assicura che i tuoi documenti rimangano protetti e accessibili solo a chi ti fidi. Che tu stia gestendo importanti file aziendali o scritti personali, implementare la protezione tramite password è una scelta saggia.
 
 ## Domande frequenti
 

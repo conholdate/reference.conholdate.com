@@ -19,7 +19,7 @@ Bokmärken fungerar som genvägar i ditt Word-dokument. De låter dig enkelt mar
 
 ## Hantera dina bokmärken
 
- När du väl har skapat bokmärken är det viktigt att veta hur man hanterar dem. Vad händer om du vill ta bort eller dölja vissa bokmärken? Lyckligtvis gör Aspose.Words för .NET detta enkelt. Till exempel, om du behöver kontrollera synligheten för visst innehåll baserat på bokmärken, vår handledning om[Hantera bokmärkessynlighet i Word-dokument](./manage-bookmark-visibility-word-document/) kommer att ge dig en tydlig förståelse för hur du gör detta effektivt. Du kommer att upptäcka hur du håller dina dokument rena och krångliga samtidigt som du behåller värdefulla referenser.
+ När du väl har skapat bokmärken är det viktigt att veta hur du hanterar dem. Vad händer om du vill ta bort eller dölja vissa bokmärken? Lyckligtvis gör Aspose.Words för .NET detta enkelt. Till exempel, om du behöver kontrollera synligheten för visst innehåll baserat på bokmärken, vår handledning om[Hantera bokmärkessynlighet i Word-dokument](./manage-bookmark-visibility-word-document/) kommer att ge dig en tydlig förståelse för hur du gör detta effektivt. Du kommer att upptäcka hur du håller dina dokument rena och krångliga samtidigt som du behåller värdefulla referenser.
 
 ## Avancerade bokmärkesfunktioner
 

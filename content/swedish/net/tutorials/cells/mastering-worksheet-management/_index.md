@@ -13,7 +13,7 @@ url: /sv/net/tutorials/cells/mastering-worksheet-management/
 
 ## Lägga till kalkylblad till Designer-kalkylblad  
 
- Börjar du med designerkalkylblad? Den här guiden har din rygg! Lär dig hur du sömlöst lägger till nya kalkylblad till en fördesignad Excel-mall. Med Aspose.Cells kan du programmässigt förbättra dina kalkylblad genom att skapa ytterligare kalkylblad för att passa dynamiska krav. För detaljerade steg, kontrollera[Lägga till kalkylblad till Designer-kalkylblad](./adding-worksheets-to-designer-spreadsheet/) guide.  
+ Börja med designerkalkylblad? Denna guide har din rygg! Lär dig hur du sömlöst lägger till nya kalkylblad till en fördesignad Excel-mall. Med Aspose.Cells kan du programmässigt förbättra dina kalkylblad genom att skapa ytterligare kalkylblad för att passa dynamiska krav. För detaljerade steg, kontrollera[Lägga till kalkylblad till Designer-kalkylblad](./adding-worksheets-to-designer-spreadsheet/) guide.  
 
 ## Bygga en ny Excel-fil  
 
@@ -27,7 +27,7 @@ url: /sv/net/tutorials/cells/mastering-worksheet-management/
 
  Ibland är mindre mer. När du behöver reda ut din Excel-fil blir det avgörande att ta bort onödiga kalkylblad efter deras namn. Den här guiden lär dig hur du identifierar och programmässigt tar bort specifika ark för att hålla dina kalkylblad snygga och hanterbara. Checka ut[Ta bort specifika arbetsblad efter namn](./remove-specific-worksheets-by-name/) för steg-för-steg-instruktioner.  
 
-## Bemästra handledning av arbetsblad
+## Bemästra handledningar för arbetsblad
 ### [Lägga till kalkylblad till Designer-kalkylblad med Aspose.Cells](./adding-worksheets-to-designer-spreadsheet/)
 Lär dig hur du programmässigt lägger till nya kalkylblad till Excel-filer med Aspose.Cells för .NET. Denna omfattande guide leder dig genom de nödvändiga stegen.
 ### [Lägga till kalkylblad till ny Excel-fil med Aspose.Cells](./adding-worksheets-to-new-excel-file/)

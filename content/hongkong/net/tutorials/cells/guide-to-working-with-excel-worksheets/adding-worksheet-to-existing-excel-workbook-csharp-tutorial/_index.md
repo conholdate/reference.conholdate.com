@@ -110,7 +110,7 @@ workbook.Save(dataDir + "output.out.xls");
 
 在這裡，我們將工作簿另存為`output.out.xls`。您可以選擇任何您喜歡的名稱。
 
-## 步驟8：關閉文件流
+## 第8步：關閉文件流
 
 最後，我們應該關閉文件流以釋放資源。
 

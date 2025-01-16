@@ -107,7 +107,7 @@ catch (Exception ex)
 
 ## Slutsats
 
-Och det är det! Du har framgångsrikt implementerat ett system för att begära läskvitton via e-post med Aspose.Email för .NET. Den här funktionen är en spelväxlare för att säkerställa att viktiga e-postmeddelanden får den uppmärksamhet de förtjänar. Oavsett om du skickar transaktions-e-postmeddelanden eller viktiga affärsuppdateringar, ger spårning av läskvitton ett extra lager av ansvar.
+Och det är det! Du har framgångsrikt implementerat ett system för att begära läskvitton via e-post med Aspose.Email för .NET. Den här funktionen är en spelväxlare för att säkerställa att viktiga e-postmeddelanden får den uppmärksamhet de förtjänar. Oavsett om du skickar transaktionsmeddelanden eller viktiga affärsuppdateringar, ger spårning av läskvitton ett extra lager av ansvar.
 
 ## FAQ's
 

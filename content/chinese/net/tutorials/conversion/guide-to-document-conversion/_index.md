@@ -13,7 +13,7 @@ url: /zh/net/tutorials/conversion/guide-to-document-conversion/
 
 ## 将 JPEG 转换为 PDF
 
-想象一下，您有一张漂亮的 JPEG 图像，想将其作为精美的 PDF 共享。那么，GroupDocs.Conversion 就可以派上用场了。使用这款功能强大的工具，将 JPEG 图像转换为 PDF 文档轻而易举。无论您是编码专家还是新手，我们的教程都提供了所有先决条件和必要的代码片段，让您走上正确的道路。我们将指导您安装库、编写第一行代码并顺利执行转换。为什么要被复杂的流程所困扰，而您可以单击[阅读更多](./converting-jpeg-to-pdf/)并立即开始？
+想象一下，您有一张漂亮的 JPEG 图像，想将其作为精美的 PDF 进行分享。那么，GroupDocs.Conversion 就可以派上用场了。使用这款功能强大的工具，将 JPEG 图像转换为 PDF 文档轻而易举。无论您是编码专家还是新手，我们的教程都提供了所有先决条件和必要的代码片段，让您走上正确的道路。我们将指导您安装库、编写第一行代码并顺利执行转换。为什么要被复杂的流程所困扰，而您可以单击[阅读更多](./converting-jpeg-to-pdf/)并立即开始？
 
 ## 使用 GroupDocs.Conversion for .NET 将 Markdown 转换为 PDF
 

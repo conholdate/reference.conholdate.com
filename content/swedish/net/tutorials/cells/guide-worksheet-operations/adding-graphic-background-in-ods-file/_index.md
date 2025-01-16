@@ -110,7 +110,7 @@ Förklaring:
 - Öppna PageSetup: Manipulera sidinställningarna för ditt kalkylblad.
 -  Ställ in bakgrundstyp: Ändra`Type` till`Graphic` att använda en bild.
 -  Ladda bilden: The`GraphicData` egenskapen tar byte-arrayen för din bild.
--  Ange grafiktyp: Ställer in den på`Area` betyder att bilden kommer att täcka hela kalkylbladet.
+-  Ange grafiktyp: Ställer in den på`Area` betyder att bilden kommer att täcka hela arbetsbladet.
 
 ## Steg 6: Spara arbetsboken
 

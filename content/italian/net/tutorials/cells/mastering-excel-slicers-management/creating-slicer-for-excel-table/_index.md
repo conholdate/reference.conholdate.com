@@ -43,7 +43,7 @@ using System.Text;
 
 Questa configurazione ti dà accesso a tutte le classi e ai metodi necessari per il tutorial.
 
-Ora che abbiamo sistemato i prerequisiti e importato i pacchetti, scomponiamo il codice in passaggi gestibili.
+Ora che abbiamo ordinato i prerequisiti e importato i pacchetti, scomponiamo il codice in passaggi gestibili.
 
 ## Passaggio 1: imposta le tue directory
 
@@ -52,7 +52,7 @@ Definisci le directory per i file di input e output:
 ```csharp
 // Elenco di origine
 string sourceDir = "Your Document Directory/";
-// Directory di output
+// Directory di uscita
 string outputDir = "Your Document Directory/";
 ```
 

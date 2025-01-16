@@ -42,7 +42,7 @@ using Aspose.Pdf;
 using System;
 ```
 
-Ces espaces de noms fournissent les classes et les fonctionnalités nécessaires à la gestion des documents et des annotations PDF.
+Ces espaces de noms fournissent les classes et les fonctionnalités nécessaires à la gestion des documents PDF et des annotations.
 
 ## Guide étape par étape pour créer des liens vers des documents
 

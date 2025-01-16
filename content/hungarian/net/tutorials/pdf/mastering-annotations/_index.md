@@ -21,7 +21,7 @@ Ha valaha is dolgozott PDF-ekkel, tudja, hogy a kommentárok megváltoztatják a
 
 ## Láthatatlan megjegyzések – Egy rejtett drágakő  
 
- Szeretett volna valaha is maga mögött hagyni egy titkos jegyzetet? A láthatatlan megjegyzések segítségével információkat adhat hozzá a PDF-ekhez az elrendezés megzavarása nélkül. Irány oda[Láthatatlan megjegyzés PDF-fájlban Aspose.PDF for .NET használatával](./invisible-annotation-in-pdf-file/) hogy felfedezze, hogyan készíthet finom, hatékony jegyzeteket. Tekints rá úgy, mint a digitális „láthatatlan tintára”.  
+ Szeretett volna valaha is maga mögött hagyni egy titkos jegyzetet? A láthatatlan megjegyzések segítségével információkat adhat hozzá a PDF-ekhez az elrendezés megzavarása nélkül. Irány a[Láthatatlan megjegyzés PDF-fájlban Aspose.PDF for .NET használatával](./invisible-annotation-in-pdf-file/) hogy felfedezze, hogyan készíthet finom, hatékony jegyzeteket. Tekints rá úgy, mint a digitális „láthatatlan tintára”.  
 
 ---
 

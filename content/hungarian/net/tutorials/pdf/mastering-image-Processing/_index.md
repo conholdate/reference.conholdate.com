@@ -12,7 +12,7 @@ Készen áll arra, hogy kiaknázza a képfeldolgozásban rejlő lehetőségeket 
 
 ## Képek hozzáadása PDF-fájlokhoz  
 
- Lenyűgöző képet szeretne beágyazni PDF-fájljába? Könnyebb, mint gondolnád! Az Aspose.PDF for .NET segítségével könnyedén hozzáadhat képeket adott oldalakhoz vagy pozíciókhoz. Ez a funkció tökéletes a vízjelezéshez vagy a dokumentumok vizuális vonzerejének fokozásához. Készen állsz, hogy kipróbáld?[Olvass tovább](./adding-image/) hogy felfedezze ezt a lépésről lépésre szóló útmutatót.
+ Lenyűgöző képet szeretne beágyazni PDF-fájljába? Könnyebb, mint gondolnád! Az Aspose.PDF for .NET segítségével könnyedén hozzáadhat képeket adott oldalakhoz vagy pozíciókhoz. Ez a funkció tökéletes a vízjelezéshez vagy a dokumentumok vizuális vonzerejének fokozásához. Készen állsz egy próbára?[Olvass tovább](./adding-image/) hogy felfedezze ezt a lépésről lépésre szóló útmutatót.
 
 ## PDF-oldalak konvertálása TIFF-képekké  
 
@@ -24,7 +24,7 @@ Készen áll arra, hogy kiaknázza a képfeldolgozásban rejlő lehetőségeket 
 
 ## Miniatűrök létrehozása PDF-fájlokban  
 
- bélyegképek olyanok, mint egy könyv fejezeteinek gyors előnézete – hasznosak és tetszetősek! Az Aspose.PDF for .NET segítségével könnyedén generálhat miniatűröket PDF-je minden oldalához. Ez a funkció kiválóan alkalmas dokumentum-előnézetek létrehozására vagy a felhasználói navigáció javítására az alkalmazásban. Készen áll arra, hogy hozzáadja ezt a képességet az eszköztárához?[Merüljön el ebben az útmutatóban](./creating-thumbnail-images/) az összes részletért és kódpéldáért.
+ bélyegképek olyanok, mint egy könyv fejezeteinek gyors előnézete – hasznosak és tetszetősek! Az Aspose.PDF for .NET segítségével könnyedén generálhat miniatűröket PDF-je minden oldalához. Ez a funkció kiválóan alkalmas dokumentum-előnézetek létrehozására vagy a felhasználói navigáció javítására az alkalmazásban. Készen áll arra, hogy hozzáadja ezt a képességet az eszköztárához?[Merüljön el ebben az útmutatóban](./creating-thumbnail-images/) minden részletért és kódpéldáért.
 
 ## Bradley binarizációs algoritmus PDF-ből bináris képekké  
 

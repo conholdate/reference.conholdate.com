@@ -85,7 +85,7 @@ Oui, Aspose.Cells propose un essai gratuit que vous pouvez télécharger[ici](ht
 ### Est-il possible de créer une nouvelle table après la conversion ?
 Absolument ! Vous pouvez créer de nouveaux tableaux dans le fichier Excel même après avoir converti des tableaux existants en plages.
 
-### Où puis-je trouver plus d'exemples et de documentation ?
+### Où puis-je trouver plus d’exemples et de documentation ?
  Une documentation complète et des exemples sont disponibles sur le site[Page de documentation d'Aspose.Cells](https://reference.aspose.com/cells/net/).
 
 ### Que faire si je rencontre un problème lors de l’utilisation d’Aspose.Cells ?

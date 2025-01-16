@@ -89,7 +89,7 @@ iCalendar to standardowy format danych kalendarza, podczas gdy ICS to rozszerzen
 ### Czy mogę zapisywać zdarzenia w plikach ICS przy użyciu Aspose.Email dla .NET?
 Tak, za pomocą tej biblioteki możesz tworzyć, modyfikować i zapisywać zdarzenia w formacie ICS.
 
-### Czy Aspose.Email dla .NET jest kompatybilny z .NET Core i .NET 5+?
+### Czy Aspose.Email dla platformy .NET jest zgodny z platformami .NET Core i .NET 5+?
 Oczywiście! Aspose.Email dla .NET obsługuje .NET Core i .NET 5+.
 
 ### Czy istnieją jakieś wymagania licencyjne dotyczące korzystania z Aspose.Email dla .NET?

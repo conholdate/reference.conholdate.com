@@ -108,4 +108,4 @@ Sì, l'API consente modifiche dinamiche e automatizzate della baseline a livello
 Sì, è possibile recuperare e analizzare dati di base dettagliati e suddivisi in fasi temporali.
 
 ### Dove posso accedere al supporto e alla documentazione?  
- Visita[Documentazione di Aspose.Tasks](https://reference.aspose.com/words/net/) o unisciti al[Forum di supporto Aspose](https://forum.aspose.com/c/words/8) per assistenza. 
+ Visita[Documentazione di Aspose.Tasks](https://reference.aspose.com/words/net/) unisciti al[Forum di supporto Aspose](https://forum.aspose.com/c/words/8) per assistenza. 

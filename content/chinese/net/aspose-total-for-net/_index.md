@@ -1,5 +1,5 @@
 ---
-title: “Aspose.Total for .NET” 是一个免费且易于使用的.NET 开发工具包，可帮助您轻松安装和使用 .
+title: “Aspose.Total for .NET” 是一个免费且易于使用的.NET 开发工具包，可帮助您轻松安装和使用 .NET 平台。
 type: docs
 url: /zh/aspose-total-for-net/
 weight: 10

@@ -8,7 +8,7 @@ description: 探索 Aspose.Tasks for .NET 教程，涵蓋儲存選項、日曆�
 is_root: true
 ---
 
-## .NET 教學的 Aspose.Tasks
+## Aspose.Tasks for .NET 教學課程
 ### [在 Aspose.Tasks for .NET 中儲存選項指南](./guide-to-saving-options/)
 使用 Aspose.Tasks for .NET 輕鬆儲存和轉換 Microsoft Project 檔案。探索有關匯出為 HTML 和 PDF 格式的教學。
 ### [掌握 Aspose.Tasks for .NET 的進階功能](./master-advanced-features/)

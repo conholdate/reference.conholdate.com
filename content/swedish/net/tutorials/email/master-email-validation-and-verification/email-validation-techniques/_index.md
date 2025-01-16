@@ -98,7 +98,7 @@ using (var client = new SmtpClient())
     }
     catch (SmtpException)
     {
-        // Anslutningen misslyckades
+        // Anslutning misslyckades
     }
 }
 ```

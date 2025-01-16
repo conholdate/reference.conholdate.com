@@ -78,7 +78,7 @@ license.SetLicense("MergedAPI.Aspose.Total.lic");
 Console.WriteLine("License set successfully.");
 ```
 
-この確認は、すべてが正しく機能していることを保証するのに役立ちます。
+この確認により、すべてが正しく機能していることを確認できます。
 
 ## 結論
 

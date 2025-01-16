@@ -15,7 +15,7 @@ Enrichissez vos présentations avec des animations de diapositives captivantes p
 Avant de plonger dans le didacticiel, assurez-vous de disposer des éléments suivants :
 
 1.  Bibliothèque Aspose.Slides pour .NET : téléchargez et installez la bibliothèque à partir du[Page de téléchargement d'Aspose](https://releases.aspose.com/slides/net/).
-2. Répertoire de documents : créez un répertoire pour stocker vos fichiers de présentation. Mettez à jour le`dataDir` variable dans les extraits de code avec le chemin d'accès à votre répertoire de documents.
+2.  Répertoire de documents : créez un répertoire pour stocker vos fichiers de présentation. Mettez à jour le`dataDir` variable dans les extraits de code avec le chemin d'accès à votre répertoire de documents.
 
 ## Importer des espaces de noms
 
@@ -85,7 +85,7 @@ L'animation des diapositives dans vos présentations ajoute une touche dynamique
 
 ### Puis-je personnaliser davantage les effets de transition ?
 
- Absolument ! Aspose.Slides propose une large gamme de types de transition et de propriétés supplémentaires pour la personnalisation. Pour plus de détails, reportez-vous à la[documentation](https://reference.aspose.com/slides/net/).
+Absolument ! Aspose.Slides propose une large gamme de types de transition et de propriétés supplémentaires pour la personnalisation. Pour plus de détails, reportez-vous à la[documentation](https://reference.aspose.com/slides/net/).
 
 ### Existe-t-il un essai gratuit disponible ?
 

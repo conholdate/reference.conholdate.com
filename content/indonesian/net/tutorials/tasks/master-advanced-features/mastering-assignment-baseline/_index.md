@@ -108,4 +108,4 @@ Ya, API memperbolehkan modifikasi dasar yang dinamis dan otomatis secara terprog
 Ya, data dasar bertahap waktu yang terperinci dapat diambil dan dianalisis.
 
 ### Di mana saya dapat mengakses dukungan dan dokumentasi?  
- Mengunjungi[Dokumentasi Aspose.Tasks](https://reference.aspose.com/words/net/) atau bergabung dengan[Forum Dukungan Aspose](https://forum.aspose.com/c/words/8) untuk bantuan. 
+ Mengunjungi[Dokumentasi Aspose.Tasks](https://reference.aspose.com/words/net/)atau bergabung dengan[Forum Dukungan Aspose](https://forum.aspose.com/c/words/8) untuk bantuan. 

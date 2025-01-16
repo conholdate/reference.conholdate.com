@@ -79,7 +79,7 @@ pdf.Save(dataDir + "EPUBToPDF_out.pdf");
 
 Tento řádek uloží převedené PDF do stejného adresáře jako váš soubor EPUB.
 
-## Krok 5: Řešení výjimek
+## Krok 5: Ošetřete výjimky
 
 Vždy je dobrým zvykem zpracovávat výjimky ve vašem kódu. Tímto způsobem, pokud se něco pokazí, budete vědět, co se stalo.
 

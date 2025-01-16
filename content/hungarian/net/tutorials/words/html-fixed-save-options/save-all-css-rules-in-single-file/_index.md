@@ -79,8 +79,8 @@ Gratulálok! Mindössze néhány sornyi kóddal sikeresen konvertálta Word-doku
 ### Miért használjak egyetlen CSS-fájlt a HTML-kimenetemhez?
 Egyetlen CSS-fájl leegyszerűsíti a stíluskezelést, tisztábbá és hatékonyabban karbantartható HTML-kódot.
 
-### Elválaszthatom a betűtípus-arcú CSS-szabályokat, ha szükséges?
- Teljesen! Beállítással`SaveFontFaceCssSeparately` hogy`true`, a font arc CSS-szabályait egy másik fájlba különítheti el.
+### Elválaszthatom a betűtípus-arcok CSS-szabályait, ha szükséges?
+ Teljesen! Beállítás által`SaveFontFaceCssSeparately` hogy`true`, a font arc CSS-szabályait egy másik fájlba különítheti el.
 
 ### Ingyenesen használható az Aspose.Words for .NET?
  Az Aspose.Words ingyenes próbaverziót kínál, amely letölthető[itt](https://releases.aspose.com/) . A folyamatos használat érdekében fontolja meg a licenc megvásárlását[itt](https://purchase.aspose.com/buy).

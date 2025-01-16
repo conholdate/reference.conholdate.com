@@ -53,7 +53,7 @@ Ezzel a beállítással a dokumentum szabványos betűméretet biztosít, minden
 Ezután adunk hozzá egy üres oldalt a PDF dokumentumhoz, ahol később alkalmazzuk a számozási stílusokat.
 
 ```csharp
-// Új oldal hozzáadása a PDF-dokumentumhoz
+// Új oldal hozzáadása a PDF dokumentumhoz
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
 pdfPage.PageInfo = pdfDoc.PageInfo; // Használja ugyanazokat a beállításokat, mint a dokumentum
 ```

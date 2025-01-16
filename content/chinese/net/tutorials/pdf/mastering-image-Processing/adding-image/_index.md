@@ -143,7 +143,7 @@ pdfDocument.Save(dataDir);
 
 ## 结论
 
-使用 Aspose.PDF for .NET 将图像插入 PDF 的过程非常简单，只需分解为几个清晰的步骤即可。此方法允许您无缝地使用徽标、水印或其他图像自定义 PDF。
+使用 Aspose.PDF for .NET 将图像插入 PDF 的过程非常简单，只需分解为几个清晰的步骤即可。此方法允许您使用徽标、水印或其他图像无缝自定义 PDF。
 
 ## 常见问题解答
 

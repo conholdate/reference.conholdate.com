@@ -108,4 +108,4 @@ Console.WriteLine("Modified Baseline Work: " + baseline.Work);
 نعم، من الممكن استرجاع البيانات الأساسية التفصيلية المقسمة حسب المرحلة الزمنية وتحليلها.
 
 ### أين يمكنني الوصول إلى الدعم والوثائق؟  
- يزور[توثيق Aspose.Tasks](https://reference.aspose.com/words/net/) أو انضم إلى[منتدى دعم Aspose](https://forum.aspose.com/c/words/8) للحصول على المساعدة. 
+ يزور[توثيق Aspose.Tasks](https://reference.aspose.com/words/net/)أو انضم إلى[منتدى دعم Aspose](https://forum.aspose.com/c/words/8) للحصول على المساعدة. 

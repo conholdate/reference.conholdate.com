@@ -24,5 +24,5 @@ Jeśli chodzi o obsługę dokumentów PDF w przestrzeni .NET, Aspose.PDF jest ja
 | --- | --- | 
 | [Dodawanie załączników do PDF/A za pomocą Aspose.PDF dla .NET](./adding-attachment-to-pdfa/) | Dowiedz się, jak dołączać pliki do dokumentu PDF za pomocą Aspose.PDF dla platformy .NET i zapewnić zgodność ze standardami PDF/A. | 
 | [Konwersja CGM do PDF przy użyciu Aspose.PDF dla .NET](./convert-cgm-to-pdf/) | Odkryj, jak łatwo konwertować pliki CGM (Computer Graphics Metafile) do formatu PDF za pomocą Aspose.PDF dla .NET. Idealne zarówno dla programistów, jak i projektantów. |  
-| [Konwertuj EPUB do PDF za pomocą Aspose.PDF dla .NET](./convert-epub-to-pdf/) | Przewodnik krok po kroku, jak przekonwertować plik EPUB na PDF przy użyciu Aspose.PDF dla .NET. Łatwy, wydajny i idealny dla wszystkich użytkowników. |   
+| [Konwertuj EPUB do PDF za pomocą Aspose.PDF dla .NET](./convert-epub-to-pdf/) | Przewodnik krok po kroku, jak przekonwertować plik EPUB na PDF za pomocą Aspose.PDF dla .NET. Łatwy, wydajny i idealny dla wszystkich użytkowników. |   
 | [Opanowanie konwersji HTML do PDF za pomocą Aspose.PDF dla .NET](./mastering-html-to-pdf/) | Dowiedz się, jak skutecznie konwertować HTML do PDF za pomocą Aspose.PDF dla .NET. Ten kompleksowy przewodnik obejmuje proces konfiguracji i podstawowe wskazówki dotyczące obsługi wyjątków. |  

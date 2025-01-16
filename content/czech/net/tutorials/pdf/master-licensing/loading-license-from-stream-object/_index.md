@@ -15,7 +15,7 @@ Jste připraveni využít plný výkon Aspose.PDF pro .NET? Ať už vytváříte
 
 Než se pustíme do kódu, ujistěte se, že máte vše, co potřebujete:
 
-1.  Aspose.PDF pro .NET: Ujistěte se, že máte nainstalovanou nejnovější verzi. Pokud jste tak ještě neučinili, můžete[stáhněte si jej zde](https://releases.aspose.com/pdf/net/).
+1.  Aspose.PDF pro .NET: Ujistěte se, že máte nainstalovanou nejnovější verzi. Pokud jste tak ještě neučinili, můžete[stáhněte si to zde](https://releases.aspose.com/pdf/net/).
 2.  Platný licenční soubor: Budete potřebovat platný licenční soubor Aspose.PDF. Pokud žádný nemáte, můžete požádat o a[dočasná licence zde](https://purchase.aspose.com/temporary-license/) nebo[koupit jeden zde](https://purchase.aspose.com/buy).
 3. Visual Studio: Jako naše IDE budeme používat Visual Studio, takže se ujistěte, že je nastaveno a připraveno k použití.
 4. Základní znalost C#: Znalost C# a .NET vám pomůže hladce pokračovat.

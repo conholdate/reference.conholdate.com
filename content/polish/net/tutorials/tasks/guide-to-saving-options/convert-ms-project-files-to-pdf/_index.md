@@ -22,7 +22,7 @@ Przed kontynuowaniem upewnij się, że spełnione są następujące wymagania ws
    Znajomość języka programowania C# i skonfigurowanego środowiska programistycznego .NET.
 
 3. Wprowadź plik Microsoft Project  
-   Posiadać ważny`.mpp` plik dostępny do konwersji.
+    Posiadać ważny`.mpp`plik dostępny do konwersji.
 
 ## Importuj podstawowe przestrzenie nazw
 
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Krok 5: Zapisz plik projektu jako PDF
 
-Na koniec zapisz`.mpp` plik w formacie PDF, dzwoniąc pod numer`Save` metoda. Określ ścieżkę pliku wyjściowego i przekaż skonfigurowane opcje.
+ Na koniec zapisz`.mpp`plik w formacie PDF, dzwoniąc pod numer`Save` metoda. Określ ścieżkę pliku wyjściowego i przekaż skonfigurowane opcje.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

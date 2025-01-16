@@ -108,4 +108,4 @@ Có, API cho phép sửa đổi đường cơ sở tự động và động theo
 Có, dữ liệu cơ sở theo từng giai đoạn thời gian chi tiết có thể được truy xuất và phân tích.
 
 ### Tôi có thể truy cập hỗ trợ và tài liệu ở đâu?  
- Thăm nom[Tài liệu Aspose.Tasks](https://reference.aspose.com/words/net/) hoặc tham gia[Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/words/8) để được hỗ trợ. 
+ Thăm nom[Tài liệu Aspose.Tasks](https://reference.aspose.com/words/net/)hoặc tham gia[Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/words/8) để được hỗ trợ. 

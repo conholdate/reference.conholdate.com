@@ -26,7 +26,7 @@ Aspose.Email for .NET est une bibliothèque puissante qui simplifie les tâches 
 2. Accédez à Outils > Gestionnaire de packages NuGet > Gérer les packages NuGet pour la solution.
 3. Recherchez Aspose.Email et installez le package.
 ```csharp
-// Ajoutez les instructions nécessaires à l'aide
+// Ajoutez les instructions nécessaires à l'aide d'instructions
 using Aspose.Email;
 ```
 ## Chargement et analyse des messages électroniques

@@ -94,4 +94,4 @@ Evet, Aspose.Slides for .NET her boyuttaki sunumu verimli bir şekilde işleyece
  Kesinlikle! Belirli slaytları kullanarak seçebilirsiniz.`Slides` koleksiyonda`Presentation` sınıf.
 
 ### S5: Ek örnekleri nerede bulabilirim?
- Ziyaret edin[Aspose.Slides .NET Belgeleri için](https://reference.aspose.com/slides/net/)Daha fazla örnek ve kullanım durumu için.
+ Ziyaret edin[Aspose.Slides .NET Belgeleri için](https://reference.aspose.com/slides/net/) Daha fazla örnek ve kullanım durumu için.

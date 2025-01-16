@@ -9,7 +9,7 @@ url: /tr/net/tutorials/pdf/mastering-links-and-actions/creating-document-link/
 ---
 ## giriiş
 
-Uzun PDF belgelerinde gezinmek genellikle bir labirentte dolaşmak gibi hissettirebilir. PDF'ler içinde bağlantılar oluşturmak, sorunsuz gezinmeyi kolaylaştırarak kullanıcı deneyimini önemli ölçüde iyileştirebilir. Bu kılavuzda, verimli PDF işleme için tasarlanmış sağlam bir kütüphane olan .NET için Aspose.PDF kullanarak belge bağlantılarının nasıl oluşturulacağını inceleyeceğiz. İster bir rapor, ister bir e-kitap veya herhangi bir etkileşimli içerik geliştiriyor olun, bağlantılar eklemek kullanılabilirliği büyük ölçüde artırabilir.
+Uzun PDF belgelerinde gezinmek genellikle bir labirentte dolaşmak gibi hissettirebilir. PDF'ler içinde bağlantılar oluşturmak, sorunsuz gezinmeyi kolaylaştırarak kullanıcı deneyimini önemli ölçüde iyileştirebilir. Bu kılavuzda, verimli PDF işleme için tasarlanmış sağlam bir kütüphane olan .NET için Aspose.PDF kullanarak belge bağlantıları oluşturmayı inceleyeceğiz. İster bir rapor, ister bir e-kitap veya herhangi bir etkileşimli içerik geliştiriyor olun, bağlantılar eklemek kullanılabilirliği büyük ölçüde artırabilir.
 
 ## Ön koşullar
 

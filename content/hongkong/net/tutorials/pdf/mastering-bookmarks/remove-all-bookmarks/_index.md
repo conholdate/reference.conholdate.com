@@ -90,7 +90,7 @@ pdfDocument.Save(dataDir + "YourPDFwithoutBookmarks.pdf");
 
 ## 第五步：確認操作
 
-確認操作是否成功始終是一個很好的做法。您可以透過列印成功訊息來完成此操作：
+確認操作是否成功始終是一個很好的做法。您可以透過列印成功訊息來做到這一點：
 
 ```csharp
 Console.WriteLine("All bookmarks have been deleted successfully.");

@@ -9,7 +9,7 @@ url: /vi/net/tutorials/viewer/mastering-render-options/
 ---
 ## Giới thiệu
 
-Khi nói đến việc làm việc với các tài liệu trong các ứng dụng .NET, thư viện GroupDocs.Viewer nổi bật như một công cụ mạnh mẽ. Với các tính năng mở rộng của nó, bạn có thể dễ dàng quản lý và thao tác các bản trình bày tài liệu. Nhưng bạn bắt đầu từ đâu? Bài viết này đề cập đến hai hướng dẫn quan trọng sẽ giúp bạn bắt kịp: kết xuất tài liệu với các bình luận và sắp xếp lại các trang trong tài liệu của bạn.
+Khi nói đến việc làm việc với các tài liệu trong các ứng dụng .NET, thư viện GroupDocs.Viewer nổi bật như một công cụ mạnh mẽ. Với các tính năng mở rộng của nó, bạn có thể dễ dàng quản lý và thao tác các bản trình bày tài liệu. Nhưng bạn bắt đầu từ đâu? Bài viết này đề cập đến hai hướng dẫn quan trọng sẽ giúp bạn bắt kịp tốc độ: kết xuất tài liệu với các bình luận và sắp xếp lại các trang trong tài liệu của bạn.
 
 ## Hiển thị tài liệu với bình luận
 

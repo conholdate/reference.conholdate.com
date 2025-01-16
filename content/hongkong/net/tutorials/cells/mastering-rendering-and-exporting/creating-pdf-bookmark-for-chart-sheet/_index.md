@@ -90,7 +90,7 @@ PdfBookmarkEntry ent4 = new PdfBookmarkEntry {
 ```
 每個`PdfBookmarkEntry`物件指定書籤的目標儲存格和文字標籤。
 
-## 第 8 步：排列書籤條目
+## 步驟 8：排列書籤條目
 若要建立書籤的層次結構，請按如下方式組織它們：
 ```csharp
 ArrayList lst = new ArrayList();

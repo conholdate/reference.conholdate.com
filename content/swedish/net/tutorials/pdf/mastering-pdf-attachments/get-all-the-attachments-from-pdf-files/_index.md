@@ -63,7 +63,7 @@ Använd Aspose.PDF-biblioteket för att öppna ditt PDF-dokument:
 Document pdfDocument = new Document(dataDir + "GetAlltheAttachments.pdf");
 ```
 
-Se till att sökvägen och filnamnet är korrekta.
+Se till att sökvägen och namnet är korrekta.
 
 ## Steg 3: Gå till samlingen av inbäddade filer
 
@@ -83,7 +83,7 @@ Console.WriteLine("Total files : {0}", embeddedFiles.Count);
 
 ## Steg 5: Gå igenom bilagorna
 
-Extrahera detaljer för varje bilaga med hjälp av en slinga:
+Extrahera detaljer om varje bilaga med hjälp av en slinga:
 
 ```csharp
 int count = 1;

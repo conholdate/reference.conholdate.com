@@ -49,7 +49,7 @@ Considérez cette étape comme si vous retiriez un fichier d’une armoire pour 
 
 ## Étape 2 : Accéder au champ de formulaire
 
- Ensuite, localisez le champ de formulaire spécifique dans lequel vous souhaitez ajouter l'info-bulle. Dans cet exemple, nous nous concentrerons sur un champ de texte nommé`"textbox1"`.
+ Ensuite, recherchez le champ de formulaire spécifique dans lequel vous souhaitez ajouter l'info-bulle. Dans cet exemple, nous allons nous concentrer sur un champ de texte nommé`"textbox1"`.
 
 ```csharp
 // Accéder au champ de texte par son nom

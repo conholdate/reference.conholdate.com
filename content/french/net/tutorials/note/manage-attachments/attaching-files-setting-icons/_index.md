@@ -51,7 +51,7 @@ Aspose.Note.Page page = new Aspose.Note.Page(doc);
 
 ## Étape 3 : Établir un plan
 
- Créer un`Outline` objet qui sert de conteneur pour les éléments de votre page OneNote.
+ Créer un`Outline` objet, qui sert de conteneur pour les éléments de votre page OneNote.
 
 ```csharp
 Outline outline = new Outline(doc);

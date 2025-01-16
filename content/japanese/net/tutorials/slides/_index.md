@@ -15,3 +15,11 @@ Aspose.Slides for .NET は、PowerPoint プレゼンテーションをプログ�
 スライド アニメーションとアニメーション後の効果を網羅した包括的な Aspose.Slides for .NET チュートリアルを使用して、プレゼンテーションの可能性を最大限に引き出します。
 ### [プレゼンテーションの変換と PowerPoint 処理が簡単](./presentation-conversion-guide/)
 わかりやすいステップバイステップのチュートリアルで、Aspose.Slides for .NET を使用して PowerPoint プレゼンテーションを簡単に変換する方法を学びます。
+### [Aspose.Slides での画像とビデオの操作をマスターする](./mastering-image-and-video-manipulation/)
+Aspose.Slides for .NET を使用して画像やビデオを操作し、プレゼンテーションを強化する方法を学びます。この包括的なガイドでは、ステップバイステップのチュートリアルを取り上げます。
+### [Aspose.Slides for .NET で高度なグラフのカスタマイズをマスターする](./master-advanced-chart-customization/)
+Aspose.Slides for .NET チュートリアルをマスターして、グラフを作成およびカスタマイズします。トレンド ライン、マーカー、魅力的なデータ視覚化の高度なテクニックを学習します。
+### [追加のチャート機能をマスターする](./master-additional-chart-features/)
+Aspose.Slides for .NET チュートリアルを読んで、高度なグラフ機能を習得し、グラフ データを抽出し、PowerPoint プレゼンテーションでシリーズ データを操作します。
+### [スライドからオーディオとビデオを抽出する](./extract-audio-and-video/)
+包括的なステップバイステップのチュートリアルに従い、Aspose.Slides for .NET を使用して、PowerPoint プレゼンテーションからオーディオとビデオを簡単に抽出します。

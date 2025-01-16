@@ -18,7 +18,7 @@ url: /ja/net/tutorials/words/words-processing-with-htmlsaveoptions/converting-me
 1.  Aspose.Words for .NET: ダウンロードはこちらから[Aspose リリース ページ](https://releases.aspose.com/words/net/).
 2. .NET Framework: .NET Framework がインストールされていることを確認してください。
 3. 開発環境: Visual Studio などの任意の IDE を使用できます。
-4. C# の基本知識: C# に精通していると有利ですが、初心者でも心配はいりません。各ステップをガイドします。
+4. C# の基礎知識: C# に精通していると有利ですが、初心者でも心配はいりません。各ステップをガイドします。
 
 ## 名前空間のインポート
 

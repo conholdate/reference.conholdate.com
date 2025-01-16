@@ -55,7 +55,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to the GroupDocs.Conversion for Java**
 
-A GroupDocs.Conversion for Java egy fejlett dokumentumkonverziós API, amelyet dokumentumformátumok konvertálására fejlesztettek ki bármely Java-alkalmazáson belül. Ez a funkciókban gazdag API lehetővé teszi, hogy több mint 50 dokumentum- és képfájlformátumban oda-vissza dolgozzon dokumentumkonverziós műveletekkel. A dokumentumkonvertáló API használata nagyon egyszerű, mivel csak egy módszert használt a különböző formátumok közötti konvertáláshoz.
+A GroupDocs.Conversion for Java egy fejlett dokumentumkonverziós API, amelyet dokumentumformátumok konvertálására fejlesztettek ki bármely Java-alkalmazáson belül. Ez a funkciókban gazdag API lehetővé teszi, hogy több mint 50 dokumentum- és képfájlformátumban végezzen oda-vissza dokumentumkonverziós műveleteket. A dokumentumkonvertáló API használata nagyon egyszerű, mivel csak egy módszert használt a különböző formátumok közötti átalakításhoz, és lehetőségekkel.
 
 {{% /alert %}} 
 ## **GroupDocs.Conversion for Java**

@@ -146,4 +146,4 @@ Igen, támogatja a Microsoft Word dokumentumok összes verzióját, beleértve a
 
 ### Hol találok további dokumentációt az Aspose.Words for .NET-ről?
 
- Részletes dokumentációért látogasson el a címre[itt](https://reference.aspose.com/words/net/).
+ Részletes dokumentációért látogasson el ide[itt](https://reference.aspose.com/words/net/).

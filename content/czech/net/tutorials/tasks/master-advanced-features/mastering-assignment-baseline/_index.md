@@ -108,4 +108,4 @@ Ano, API umožňuje programově dynamické a automatizované základní úpravy.
 Ano, lze získat a analyzovat podrobná časová základní data.
 
 ### Kde získám přístup k podpoře a dokumentaci?  
- Návštěva[Dokumentace Aspose.Tasks](https://reference.aspose.com/words/net/) nebo se připojte k[Aspose Support Forum](https://forum.aspose.com/c/words/8) o pomoc. 
+ Návštěva[Dokumentace Aspose.Tasks](https://reference.aspose.com/words/net/)nebo se připojte k[Aspose Support Forum](https://forum.aspose.com/c/words/8) o pomoc. 

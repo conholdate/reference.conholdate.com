@@ -18,7 +18,7 @@ Wyobraź sobie, że jesteś odpowiedzialny za wysyłanie setek wiadomości e-mai
 
 ## Tworzenie nowej wiadomości e-mail w języku C#  
 
- Tworzenie wiadomości e-mail programowo może wydawać się trudne, ale Aspose.Email sprawia, że jest to dziecinnie proste. Ten samouczek zagłębia się w tworzenie wiadomości e-mail w C#, obejmując formatowanie, załączniki, a nawet wysyłanie wiadomości e-mail bezpośrednio. Niezależnie od tego, czy pracujesz nad newsletterami, czy wiadomościami transakcyjnymi, ten przewodnik upraszcza ten proces:[Utwórz nową wiadomość e-mail w języku C#](./construct-a-new-mail-message-in-csharp/).
+ Tworzenie wiadomości e-mail programowo może wydawać się skomplikowane, ale Aspose.Email sprawia, że jest to dziecinnie proste. Ten samouczek zagłębia się w tworzenie wiadomości e-mail w C#, obejmując formatowanie, załączniki, a nawet wysyłanie wiadomości e-mail bezpośrednio. Niezależnie od tego, czy pracujesz nad newsletterami, czy wiadomościami transakcyjnymi, ten przewodnik upraszcza ten proces:[Utwórz nową wiadomość e-mail w języku C#](./construct-a-new-mail-message-in-csharp/).
 
 ## Dodawanie treści HTML do wiadomości e-mail  
 

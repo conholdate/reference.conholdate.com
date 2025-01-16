@@ -2,7 +2,7 @@
 title: Ustawianie preferencji obrazu dla HTML z Aspose.Cells w .NET
 linktitle: Ustawianie preferencji obrazu dla HTML z Aspose.Cells w .NET
 second_title: Aspose.Cells .NET API przetwarzania programu Excel
-description: Dowiedz się, jak skutecznie konwertować arkusze kalkulacyjne programu Excel na atrakcyjne wizualnie strony internetowe HTML przy użyciu Aspose.Cells dla .NET. Ten przewodnik krok po kroku obejmuje wszystko, od ustawiania preferencji obrazu po optymalizację renderowania tekstu.
+description: Dowiedz się, jak skutecznie konwertować arkusze kalkulacyjne programu Excel na wizualnie atrakcyjne strony internetowe HTML przy użyciu Aspose.Cells dla .NET. Ten przewodnik krok po kroku obejmuje wszystko, od ustawiania preferencji obrazu po optymalizację renderowania tekstu.
 type: docs
 weight: 11
 url: /pl/net/tutorials/cells/guide-worksheet-operations/setting-image-preferences/
@@ -65,7 +65,7 @@ string filePath = Path.Combine(dataDir, "Book1.xlsx");
 
 ## Krok 3: Załaduj skoroszyt
 
- Załaduj plik Excel do`Workbook` obiekt umożliwiający interakcję z danymi arkusza kalkulacyjnego:
+ Załaduj plik Excel do`Workbook` obiekt umożliwiający interakcję z danymi w arkuszu kalkulacyjnym:
 
 ```csharp
 Workbook book = new Workbook(filePath);

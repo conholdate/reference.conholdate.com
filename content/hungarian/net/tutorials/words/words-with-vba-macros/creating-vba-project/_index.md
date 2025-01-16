@@ -83,13 +83,13 @@ Ebben a részletben:
 
 ## 5. lépés: Mentse el a dokumentumot
 
-VBA-projektünk és modulunk beállításával ideje elmenteni a dokumentumot, hogy megőrizze az összes változtatást.
+VBA-projektünk és modulunk beállításával ideje elmenteni a dokumentumot az összes módosítás megőrzése érdekében.
 
 ```csharp
 doc.Save(dataDir + "WorkingWithVba.CreateVbaProject.docm");
 ```
 
-Ez a sor "WorkingWithVba.CreateVbaProject.docm" néven menti a dokumentumot a megadott könyvtárba. Gratulálok! Létrehozott egy Word-dokumentumot egy VBA-projekttel.
+Ez a sor a dokumentumot "WorkingWithVba.CreateVbaProject.docm" néven menti a megadott könyvtárba. Gratulálok! Létrehozott egy Word-dokumentumot egy VBA-projekttel.
 
 ## Következtetés
 
@@ -106,7 +106,7 @@ Az Aspose.Words for .NET egy hatékony könyvtár, amely lehetővé teszi a fejl
 ### Hogyan adhatok VBA kódot egy Word dokumentumhoz?
  VBA-kód hozzáadásához hozzon létre a`VbaModule` , állítsa be`SourceCode` tulajdonságot a makrókóddal, és adja hozzá a modult a makrókódjához`VbaProject`.
 
-### Milyen típusú VBA modulokat hozhatok létre?
+### Milyen típusú VBA-modulokat hozhatok létre?
 Különféle típusú VBA-modulokat hozhat létre, beleértve az eljárási modulokat (függvényekhez és alprogramokhoz), osztálymodulokat és felhasználói űrlapokat. Ebben az oktatóanyagban egy eljárási modulra összpontosítottunk.
 
 ### Hol vásárolhatok Aspose.Words for .NET fájlt?

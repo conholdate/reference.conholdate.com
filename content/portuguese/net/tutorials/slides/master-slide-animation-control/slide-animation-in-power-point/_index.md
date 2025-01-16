@@ -15,7 +15,7 @@ Aprimorar suas apresentações com animações de slides cativantes pode elevar 
 Antes de começarmos o tutorial, certifique-se de ter o seguinte:
 
 1.  Biblioteca Aspose.Slides para .NET: Baixe e instale a biblioteca do[Página de download do Aspose](https://releases.aspose.com/slides/net/).
-2. Diretório de documentos: crie um diretório para armazenar seus arquivos de apresentação. Atualize o`dataDir` variável nos trechos de código com o caminho para o diretório do seu documento.
+2.  Diretório de documentos: crie um diretório para armazenar seus arquivos de apresentação. Atualize o`dataDir` variável nos trechos de código com o caminho para o diretório do seu documento.
 
 ## Importar namespaces
 
@@ -85,7 +85,7 @@ Animar slides em suas apresentações adiciona um toque dinâmico, tornando seu 
 
 ### Posso personalizar ainda mais os efeitos de transição?
 
- Absolutamente! O Aspose.Slides oferece uma ampla gama de tipos de transição e propriedades adicionais para personalização. Para mais detalhes, consulte o[documentação](https://reference.aspose.com/slides/net/).
+Absolutamente! O Aspose.Slides oferece uma ampla gama de tipos de transição e propriedades adicionais para personalização. Para mais detalhes, consulte o[documentação](https://reference.aspose.com/slides/net/).
 
 ### Existe um teste gratuito disponível?
 

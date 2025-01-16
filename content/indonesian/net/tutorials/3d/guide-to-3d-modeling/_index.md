@@ -13,7 +13,7 @@ Pemodelan 3D mungkin tampak menakutkan pada pandangan pertama, bukan? Tapi coba 
 
 ## Membuat Model 3D Primitif
 
- Setiap seniman membutuhkan dasar yang kuat, dan cara apa yang lebih baik untuk memulai daripada dengan menciptakan bentuk primitif? Dalam tutorial kami tentang[membuat model 3D primitif](./create-primitive-3d-modeling/), Anda akan mempelajari cara membuat objek dasar seperti kotak, bola, dan silinder. Bentuk-bentuk ini merupakan blok penyusun model yang lebih kompleks dan sangat cocok bagi siapa saja yang baru memulai.
+ Setiap seniman membutuhkan dasar yang kuat, dan cara apa yang lebih baik untuk memulai daripada dengan menciptakan bentuk primitif? Dalam tutorial kami tentang[membuat model 3D primitif](./create-primitive-3d-modeling/)Anda akan mempelajari cara membuat objek dasar seperti kotak, bola, dan silinder. Bentuk-bentuk ini merupakan blok penyusun model yang lebih kompleks dan sangat cocok bagi siapa saja yang baru memulai.
 
 Kami akan memandu Anda melalui proses ini langkah demi langkah, menguraikan setiap tindakan sehingga Anda dapat mengikutinya dengan mudah. Bayangkan Anda sedang membangun sebuah rumah. Pertama, Anda meletakkan fondasi dengan balok-balok sederhana. Demikian pula, dalam tutorial kami, Anda akan mengatur tanah dengan bentuk-bentuk primitif, yang memungkinkan kreativitas Anda berkembang saat Anda kemudian menyesuaikannya dengan tekstur dan warna. 
 

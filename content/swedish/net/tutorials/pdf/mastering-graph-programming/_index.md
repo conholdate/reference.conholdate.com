@@ -27,7 +27,7 @@ Varför nöja sig med vanligt när du kan ha fantastiska gradienter? Den här ha
 
 Transparens ger en professionell atmosfär, eller hur? Oavsett om det är vattenstämpling eller att skapa lagerdesigner, hjälper den här guiden dig att bemästra transparenta rektanglar med hjälp av alfafärger. Se det som att du skapar en glaseffekt över dina PDF-filer – enkelt men ändå elegant!  
 
- Lär dig hur du uppnår denna effekt här:[Skapa transparent rektangel med alfafärg](./create-transparent-rectangle-with-alpha-color/).
+ Lär dig hur du uppnår denna effekt här:[Skapa genomskinlig rektangel med alfafärg](./create-transparent-rectangle-with-alpha-color/).
 
 ## Rita linjer i PDF-dokument  
 
@@ -39,7 +39,7 @@ Har du någonsin behövt skapa professionella diagram eller understryka nyckelpu
 
 Ibland är de enklaste elementen de mest kraftfulla. Fyllda rektanglar kan fungera som bakgrunder, markera områden eller till och med utgöra grunden för komplex grafik. Med den här handledningen lär du dig hur du skapar dessa former med precision, kontrollerar deras dimensioner och väljer anpassade färger. Föreställ dig att skapa visuellt tilltalande rapporter eller formulär med lätthet – det här är precis vad Aspose.PDF för .NET erbjuder.  
 
- Kom igång med den här lättanvända guiden:[Skapar fylld rektangel](./creating-filled-rectangle/).
+ Kom igång med denna lättanvända guide:[Skapar fylld rektangel](./creating-filled-rectangle/).
 
 
 ## Självstudier för att behärska grafprogrammering
@@ -48,5 +48,5 @@ Ibland är de enklaste elementen de mest kraftfulla. Fyllda rektanglar kan funge
 | [Lägger till ritning i PDF-fil](./adding-drawing/) | Lär dig hur du förbättrar dina PDF-filer genom att lägga till anpassade ritningar med Aspose.PDF för .NET. Denna steg-för-steg handledning täcker allt från att ställa in ditt projekt till att skapa grafik. |  
 | [Lägg till övertoningsfyllda ritningar med Aspose.PDF för .NET](./add-gradient-filled-drawings/) | Lås upp den fulla potentialen hos dina PDF-dokument med denna steg-för-steg-guide för att lägga till fantastiska toningsfyllda ritningar med Aspose.PDF för .NET. Perfekt för att förbättra rapporter, presentationer och alla dokument som kräver en visuell uppgradering. |  
 | [Skapar fylld rektangel](./creating-filled-rectangle/) | Lås upp kraften i PDF-manipulation med Aspose.PDF för .NET i denna steg-för-steg-handledning. Lär dig hur du programmatiskt skapar visuellt tilltalande PDF-dokument genom att rita fyllda rektanglar. |  
-| [Skapa transparent rektangel med alfafärg](./create-transparent-rectangle-with-alpha-color/) | Lär dig hur du lägger till en professionell touch till dina PDF-filer genom att skapa genomskinliga rektanglar med Aspose.PDF för .NET. Denna omfattande handledning guidar dig genom att initiera ett PDF-dokument. |   
+| [Skapa genomskinlig rektangel med alfafärg](./create-transparent-rectangle-with-alpha-color/) | Lär dig hur du lägger till en professionell touch till dina PDF-filer genom att skapa genomskinliga rektanglar med Aspose.PDF för .NET. Denna omfattande handledning guidar dig genom att initiera ett PDF-dokument. |   
 | [Guide till att rita linjer i PDF-dokument](./guide-to-drawing-lines/) | Lär dig hur du effektivt ritar linjer i PDF-dokument med Aspose.PDF för .NET. Denna omfattande handledning leder dig genom installationsprocessen, ger tydliga steg-för-steg-instruktioner. |  

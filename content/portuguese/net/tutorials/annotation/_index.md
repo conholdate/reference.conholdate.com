@@ -1,6 +1,6 @@
 ---
 title: Tutoriais e exemplos de GroupDocs.Annotation para .NET
-linktitle: Tutoriais GroupDocs.Annotation para .NET
+linktitle: Tutoriais do GroupDocs.Annotation para .NET
 type: docs
 weight: 10
 url: /pt/net/tutorials/annotation/

@@ -173,7 +173,7 @@ Konvertera enkelt filer till PDF med GroupDocs.Conversion för .NET. Effektivise
 {{% /alert %}}
 
 ### GroupDocs.Conversion Tutorials
-- [GroupDocs.Conversion för .NET självstudier](./conversion/)
+- [Instruktioner för GroupDocs.Conversion för .NET](./conversion/)
 
 ## GroupDocs.Comparison
 {{% alert color="primary" %}}

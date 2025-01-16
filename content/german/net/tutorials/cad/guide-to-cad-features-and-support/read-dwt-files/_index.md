@@ -70,7 +70,7 @@ foreach (CadBaseEntity entity in image.Entities)
 }
 ```
 
-Innerhalb der Schleife können Sie alle spezifischen Funktionalitäten implementieren, die Sie benötigen, wie zum Beispiel die Analyse oder Modifikation der CAD-Daten.
+Innerhalb der Schleife können Sie alle gewünschten spezifischen Funktionalitäten implementieren, beispielsweise die Analyse oder Änderung der CAD-Daten.
 
 ## Abschluss
 

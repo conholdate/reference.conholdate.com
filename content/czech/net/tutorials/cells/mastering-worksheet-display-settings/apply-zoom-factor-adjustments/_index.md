@@ -59,7 +59,7 @@ Tento krok načte sešit do paměti a umožní další operace.
 
 ## Krok 4: Otevřete požadovaný pracovní list  
 
-Sešity mohou mít více listů. Zde je návod, jak vybrat první pracovní list:  
+Sešity mohou mít více listů. Zde je návod, jak vybrat první list:  
 
 ```csharp
 Worksheet worksheet = workbook.Worksheets[0];

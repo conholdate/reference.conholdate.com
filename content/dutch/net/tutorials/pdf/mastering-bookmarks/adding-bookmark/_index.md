@@ -13,7 +13,7 @@ Navigeren door grote PDF-documenten kan een ontmoedigende taak zijn. Wanneer u o
 
 ## Vereisten
 
-Voordat u zich in de code verdiept, controleren we of u over de benodigde hulpmiddelen en kennis beschikt om de code te volgen:
+Voordat u zich in de code verdiept, controleren we eerst of u over de benodigde hulpmiddelen en kennis beschikt om de code te kunnen volgen:
 
 - Visual Studio: Deze geïntegreerde ontwikkelomgeving (IDE) is essentieel voor .NET-ontwikkeling.
 -  Aspose.PDF voor .NET: Download en installeer de Aspose.PDF-bibliotheek om PDF-bestanden in uw project te manipuleren. Bezoek de[downloadpagina](https://releases.aspose.com/pdf/net/) om te beginnen.

@@ -22,7 +22,7 @@ Sebelum melanjutkan, pastikan prasyarat berikut terpenuhi:
    Pengetahuan tentang bahasa pemrograman C# dan lingkungan pengembangan .NET yang dikonfigurasi.
 
 3. Masukkan File Proyek Microsoft  
-   Memiliki validitas`.mpp` berkas tersedia untuk konversi.
+    Memiliki validitas`.mpp`berkas tersedia untuk konversi.
 
 ## Impor Ruang Nama Penting
 
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Langkah 5: Simpan File Proyek sebagai PDF
 
-Terakhir, simpan`.mpp` file sebagai PDF dengan memanggil`Save` metode. Tentukan jalur file keluaran dan berikan opsi yang dikonfigurasi.
+ Terakhir, simpan`.mpp`file sebagai PDF dengan memanggil`Save` metode. Tentukan jalur file keluaran dan berikan opsi yang dikonfigurasi.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

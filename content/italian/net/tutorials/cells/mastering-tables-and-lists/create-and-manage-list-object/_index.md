@@ -60,7 +60,7 @@ Immagina di dover allestire il tuo spazio di lavoro, proprio come un pittore ha 
 Workbook workbook = new Workbook(dataDir + "book1.xls");
 ```
 
-Questa azione apre la cartella di lavoro, rendendo tutti i suoi dati accessibili per la manipolazione.
+Questa azione apre la cartella di lavoro, rendendo tutti i dati accessibili per la manipolazione.
 
 ## Passaggio 3: accedere alla raccolta di oggetti elenco
 

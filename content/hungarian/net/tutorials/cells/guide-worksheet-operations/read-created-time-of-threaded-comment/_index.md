@@ -124,7 +124,7 @@ Az Aspose.Cells for .NET egy átfogó könyvtár, amely lehetővé teszi a fejle
 
 ### Hozzáférhetek a megjegyzésekhez más cellákból?
 
- Igen, a munkalap bármely cellájából hozzáférhet a szálas megjegyzésekhez, ha módosítja a cella hivatkozását a`GetThreadedComments` módszer. Egyszerűen változtass`"A1"` a kívánt cella hivatkozására.
+ Igen, a munkalap bármely cellájából hozzáférhet a szálas megjegyzésekhez a cella hivatkozásának módosításával`GetThreadedComments` módszer. Egyszerűen változtass`"A1"` a kívánt cella hivatkozására.
 
 ### Hol kaphatok támogatást az Aspose.Cells-hez?
 

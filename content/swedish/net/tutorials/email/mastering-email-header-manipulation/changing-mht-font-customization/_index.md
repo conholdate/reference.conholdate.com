@@ -79,7 +79,7 @@ foreach (var linkedResource in linkedResources)
 
 ## Steg 4: Spara den uppdaterade MHT-filen
 
-Efter att ha anpassat typsnitten är det dags att spara din modifierade MHT-fil. Du vill vara säker på att du använder rätt sparalternativ för att bibehålla integriteten för din fil.
+Efter att ha anpassat typsnitten är det dags att spara din modifierade MHT-fil. Du vill se till att du använder rätt sparalternativ för att bibehålla integriteten för din fil.
 
 ```csharp
 message.Save("output.mht", SaveOptions.DefaultMhtml);
@@ -89,7 +89,7 @@ message.Save("output.mht", SaveOptions.DefaultMhtml);
 
 ## Slutsats
 
-Att ändra teckensnitt i MHT-filer kan förbättra utseendet och känslan av dina dokument avsevärt. Genom att utnyttja Aspose.Email för .NET kan du enkelt ladda MHT-filer, ändra deras innehåll och spara ändringarna med bara några rader kod. Oavsett om du arbetar med ett personligt projekt eller en större applikation, kan du förbättra hur du presenterar information om du behärskar dessa färdigheter.
+Att ändra teckensnitt i MHT-filer kan avsevärt förbättra utseendet och känslan av dina dokument. Genom att utnyttja Aspose.Email för .NET kan du enkelt ladda MHT-filer, ändra deras innehåll och spara ändringarna med bara några rader kod. Oavsett om du arbetar med ett personligt projekt eller en större applikation, kan du förbättra hur du presenterar information om du behärskar dessa färdigheter.
 
 ## FAQ's
 

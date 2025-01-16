@@ -97,7 +97,7 @@ Ennyi! Sikeresen konvertált egy adott oldaltartományt Word-dokumentumból TIFF
 
 ### Vannak különböző tömörítési módszerek a TIFF-fájlokhoz?
 
- Igen, az Aspose.Words for .NET számos TIFF-tömörítési módszert támogat. Állítsa be a`TiffCompression` tulajdonságot olyan lehetőségekre, mint`Lzw` vagy`Rle`igényeinek kielégítésére.
+ Igen, az Aspose.Words for .NET számos TIFF-tömörítési módszert támogat. Állítsa be a`TiffCompression` ingatlant olyan lehetőségekre, mint`Lzw` vagy`Rle`igényeinek kielégítésére.
 
 ### Felvehetek megjegyzéseket vagy vízjeleket a TIFF-be?
 

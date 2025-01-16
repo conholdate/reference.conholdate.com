@@ -87,4 +87,4 @@ doc.Save(dataDir + "ConvertedImage.jpeg", SaveFormat.Jpeg);
  Вы можете начать с бесплатной пробной версии[здесь](https://releases.aspose.com/) или приобрести лицензию[здесь](https://purchase.conholdate.com/buy).
 
 ### Где я могу найти больше руководств по Aspose.Words?
- Проверьте[документация](https://reference.aspose.com/words/net/) для получения множества учебных пособий и руководств.
+ Проверьте[документация](https://reference.aspose.com/words/net/) для множества учебных пособий и руководств.

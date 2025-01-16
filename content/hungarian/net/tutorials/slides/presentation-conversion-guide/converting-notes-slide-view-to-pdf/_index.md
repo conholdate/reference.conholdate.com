@@ -94,4 +94,4 @@ Igen, az Aspose.Slides for .NET bármilyen méretű prezentáció hatékony keze
  Teljesen! Kiválaszthat adott diákat a segítségével`Slides` gyűjtemény a`Presentation` osztály.
 
 ### 5. kérdés: Hol találhatok további példákat?
- Látogassa meg a[Aspose.Slides a .NET-dokumentációhoz](https://reference.aspose.com/slides/net/)további példákért és használati esetekért.
+ Látogassa meg a[Aspose.Slides a .NET-dokumentációhoz](https://reference.aspose.com/slides/net/) további példákért és használati esetekért.

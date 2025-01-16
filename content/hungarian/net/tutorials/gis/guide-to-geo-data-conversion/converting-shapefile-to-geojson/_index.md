@@ -51,7 +51,7 @@ A Shapefiles konvertálása GeoJSON formátumba a GIS adatfeldolgozás alapvető
 
 ## GYIK
 
-### Konvertálhatok több alakzatfájlt egyszerre?
+### Konvertálhatok több alakfájlt egyszerre?
 Igen! A Shapefiles-könyvtárat végighurkolhatja, és a példakód kisebb módosításaival együttesen konvertálhatja őket.
 
 ### Az Aspose.GIS for .NET kompatibilis az összes .NET-keretrendszer-verzióval?

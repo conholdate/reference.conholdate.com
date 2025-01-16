@@ -44,7 +44,7 @@ namespace CustomHyperlinkRendering
             Console.WriteLine(RenderHyperlinkWithoutHref(msg.GetHtmlBodyText()));
         }
 
-        // Zde jsou vlastní metody vykreslování hypertextových odkazů
+        // Vlastní metody vykreslování hypertextových odkazů jsou zde
     }
 }
 ```
@@ -115,7 +115,7 @@ Absolutně! Aspose.Email vám umožňuje upravit vykreslování hypertextových 
 Ano, i když můžete vylepšit vzhled hypertextových odkazů, ne všichni e-mailoví klienti podporují rozsáhlé přizpůsobení. Pro zajištění kompatibility se doporučuje testování napříč různými klienty.
 
 ### Kde najdu další zdroje pro Aspose.Email pro .NET?
- K dalším zdrojům a příkladům můžete přistupovat v[Aspose.Email API dokumentace](https://reference.aspose.com/email/net/).
+ K dalším zdrojům a příkladům máte přístup v[Aspose.Email API dokumentace](https://reference.aspose.com/email/net/).
 
 ### Jak mohu získat ukázkový zdrojový kód z tohoto článku?
  Ukázkový zdrojový kód a další příklady naleznete na uvedeném odkazu na dokumentaci:[Aspose.Email API dokumentace](https://reference.aspose.com/email/net/).

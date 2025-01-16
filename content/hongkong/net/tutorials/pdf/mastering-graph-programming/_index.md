@@ -46,7 +46,7 @@ description: 透過我們的教學清單掌握 Aspose.PDF for .NET。了解 PDF 
 | 標題 | 描述 |
 | --- | --- | 
 | [在 PDF 文件中新增繪圖](./adding-drawing/) | 了解如何使用 Aspose.PDF for .NET 新增自訂繪圖來增強 PDF 檔案。本逐步教程涵蓋了從設定項目到創建圖形的所有內容。 |  
-| [使用 Aspose.PDF for .NET 新增漸層填色繪圖](./add-gradient-filled-drawings/) | 透過本逐步指南，了解使用 Aspose.PDF for .NET 新增令人驚嘆的漸層填色繪圖，釋放 PDF 文件的全部潛力。非常適合增強報告、簡報和任何需要視覺升級的文件。 |  
+| [使用 Aspose.PDF for .NET 新增漸層填色繪圖](./add-gradient-filled-drawings/) | 透過本逐步指南，了解如何使用 Aspose.PDF for .NET 新增令人驚嘆的漸層填滿繪圖，釋放 PDF 文件的全部潛力。非常適合增強報告、簡報和任何需要視覺升級的文件。 |  
 | [建立填滿矩形](./creating-filled-rectangle/) | 在本逐步教學中，使用 Aspose.PDF for .NET 釋放 PDF 操作的強大功能。了解如何透過繪製填充矩形以程式設計方式建立具有視覺吸引力的 PDF 文件。 |  
 | [建立具有 Alpha 顏色的透明矩形](./create-transparent-rectangle-with-alpha-color/) | 了解如何使用 Aspose.PDF for .NET 建立透明矩形，為 PDF 新增專業風格。這個綜合教學將引導您完成 PDF 文件的初始化。 |   
 | [在 PDF 文件中繪製線條的指南](./guide-to-drawing-lines/) | 了解如何使用 Aspose.PDF for .NET 在 PDF 文件中有效地繪製線條。這個全面的教學將引導您完成設定過程，並提供清晰的逐步說明。 |  

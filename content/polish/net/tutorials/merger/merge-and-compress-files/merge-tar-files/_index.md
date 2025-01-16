@@ -30,7 +30,7 @@ using System.IO;
 
 ## Krok 1: Zdefiniuj katalog wyjściowy i nazwę pliku
 
-Istotne jest ustawienie katalogu wyjściowego i nazwy scalonego pliku:
+Istotne jest skonfigurowanie katalogu wyjściowego i nazwy scalonego pliku:
 
 ```csharp
 string outputFolder = "Your Output Directory";

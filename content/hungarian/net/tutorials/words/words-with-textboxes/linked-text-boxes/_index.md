@@ -85,7 +85,7 @@ if (textBox1.IsValidLinkTarget(textBox2))
 ```
 
 Ebben a részletben:
-- `IsValidLinkTarget` ellenőrzi, ha`textBox2` -hoz lehet kapcsolni`textBox1`.
+- `IsValidLinkTarget` ellenőrzi, ha`textBox2` linkelhető`textBox1`.
 -  Ha igaz, hozzárendelés`textBox1.Next = textBox2` létrehozza a kapcsolatot.
 
 ## 5. lépés: Mentse el a dokumentumot

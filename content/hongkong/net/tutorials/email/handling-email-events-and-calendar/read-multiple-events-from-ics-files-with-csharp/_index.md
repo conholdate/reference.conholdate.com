@@ -2,7 +2,7 @@
 title: 使用 C# 從 ICS 檔案讀取多個事件
 linktitle: 使用 C# 從 ICS 檔案讀取多個事件
 second_title: Aspose.Email .NET 電子郵件處理 API
-description: 了解如何使用 Aspose.Email for .NET 從 C# 應用程式中的 ICS 檔案有效讀取和管理行事曆事件。本綜合指南將引導您完成設定。
+description: 了解如何使用 Aspose.Email for .NET 在 C# 應用程式中有效率地讀取和管理 ICS 檔案中的行事曆事件。本綜合指南將引導您完成設定。
 type: docs
 weight: 14
 url: /zh-hant/net/tutorials/email/handling-email-events-and-calendar/read-multiple-events-from-ics-files-with-csharp/

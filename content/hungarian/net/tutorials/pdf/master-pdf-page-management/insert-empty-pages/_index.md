@@ -108,7 +108,7 @@ A szkript futtatásakor ezt a megerősítést kell látnia a konzolon.
 
 ## Következtetés
 
-Gratulálok! Sikeresen hozzáadott egy üres oldalt egy PDF-dokumentumhoz az Aspose.PDF for .NET használatával. Ez a funkció különösen hasznos lehet a dokumentumok generálásának automatizálásában, szakaszok hozzáadásakor vagy PDF-ek menet közbeni módosításában.
+Gratulálok! Sikeresen hozzáadott egy üres oldalt egy PDF-dokumentumhoz az Aspose.PDF for .NET használatával. Ez a funkció különösen hasznos lehet a dokumentumok generálásának automatizálásában, szakaszok hozzáadásakor vagy PDF-fájlok menet közbeni módosításában.
 
 ## GYIK
 

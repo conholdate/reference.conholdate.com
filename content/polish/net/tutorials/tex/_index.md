@@ -4,7 +4,7 @@ linktitle: Aspose.TeX dla .NET Tutoriale
 type: docs
 weight: 10
 url: /pl/net/tutorials/tex/
-description: łatwością opanuj projektowanie LaTeX, korzystając z Aspose.TeX dla .NET. Pobierz, aby zapewnić bezproblemową integrację i poznaj zaawansowane formatowanie, obsługę plików, licencjonowanie i wiele więcej.
+description: Z łatwością opanuj projektowanie LaTeX, korzystając z Aspose.TeX dla .NET. Pobierz, aby zapewnić bezproblemową integrację i poznaj zaawansowane formatowanie, obsługę plików, licencjonowanie i wiele więcej.
 is_root: true
 ---
 

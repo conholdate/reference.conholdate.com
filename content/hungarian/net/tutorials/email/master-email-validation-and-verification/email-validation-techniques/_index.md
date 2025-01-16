@@ -105,7 +105,7 @@ using (var client = new SmtpClient())
 
 ### Eldobható e-mail cím észlelése
 
-Annak megakadályozása érdekében, hogy a felhasználók ideiglenes vagy eldobható e-mail címekkel regisztráljanak, integrálhat egy eldobható e-mail-észlelési szolgáltatást:
+Annak megakadályozására, hogy a felhasználók ideiglenes vagy eldobható e-mail címekkel regisztráljanak, integrálhat egy eldobható e-mail-észlelő szolgáltatást:
 ```csharp
 bool isDisposable = DisposableEmailChecker.IsDisposable(email); // Feltételezve, hogy a DisposableEmailChecker egy előre meghatározott szolgáltatás.
 ```

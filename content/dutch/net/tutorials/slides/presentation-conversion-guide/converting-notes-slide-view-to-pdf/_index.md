@@ -94,4 +94,4 @@ Ja, Aspose.Slides voor .NET is ontworpen om presentaties van elke omvang effici√
  Absoluut! U kunt specifieke dia's selecteren met behulp van de`Slides` collectie in de`Presentation` klas.
 
 ### V5: Waar kan ik nog meer voorbeelden vinden?
- Bezoek de[Aspose.Slides voor .NET-documentatie](https://reference.aspose.com/slides/net/)voor meer voorbeelden en use cases.
+ Bezoek de[Aspose.Slides voor .NET-documentatie](https://reference.aspose.com/slides/net/) voor meer voorbeelden en use cases.

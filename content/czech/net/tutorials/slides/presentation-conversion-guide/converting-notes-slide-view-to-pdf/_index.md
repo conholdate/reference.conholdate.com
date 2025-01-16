@@ -2,7 +2,7 @@
 title: Převod poznámek Slide View do PDF pomocí Aspose.Slides pro .NET
 linktitle: Převod poznámek Slide View do PDF pomocí Aspose.Slides pro .NET
 second_title: Aspose.Slides .NET PowerPoint Processing API
-description: Naučte se, jak bez námahy převést PowerPointové prezentace pomocí Notes Slide View do formátu PDF pomocí Aspose.Slides for .NET. Tato příručka obsahuje podrobné pokyny.
+description: Naučte se, jak bez námahy převádět PowerPointové prezentace pomocí Notes Slide View do formátu PDF pomocí Aspose.Slides for .NET. Tato příručka obsahuje podrobné pokyny.
 type: docs
 weight: 15
 url: /cs/net/tutorials/slides/presentation-conversion-guide/converting-notes-slide-view-to-pdf/
@@ -94,4 +94,4 @@ Ano, Aspose.Slides for .NET je navržen tak, aby efektivně zpracovával prezent
  Absolutně! Konkrétní snímky můžete vybrat pomocí`Slides` sbírka v`Presentation` třída.
 
 ### Q5: Kde najdu další příklady?
- Navštivte[Aspose.Slides pro .NET dokumentaci](https://reference.aspose.com/slides/net/)pro další příklady a případy použití.
+ Navštivte[Aspose.Slides pro .NET dokumentaci](https://reference.aspose.com/slides/net/) pro více příkladů a případů použití.

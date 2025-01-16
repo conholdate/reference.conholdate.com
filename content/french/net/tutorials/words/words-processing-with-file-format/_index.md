@@ -21,7 +21,7 @@ Les signatures numériques sont comme la poignée de main secrète du monde des 
 
 ## Vérifier le cryptage du document Word
 
- Le chiffrement est une autre couche de sécurité que vous ne pouvez tout simplement pas négliger. Vous voulez savoir si vos documents Word sont chiffrés ? Notre tutoriel étape par étape sur[Vérifier le chiffrement des documents Word à l'aide d'Aspose.Words pour .NET](./verify-word-document-encryption/) vous montrera comment vérifier efficacement l'état de cryptage d'un document. Il ne s'agit pas seulement d'une fonctionnalité pratique, mais d'une fonctionnalité essentielle pour de nombreuses applications. Comprendre le cryptage vous apporte une tranquillité d'esprit et vous assure de contrôler la sécurité de vos documents.
+ Le chiffrement est une autre couche de sécurité que vous ne pouvez tout simplement pas négliger. Vous voulez savoir si vos documents Word sont chiffrés ? Notre tutoriel étape par étape sur[Vérifier le chiffrement des documents Word à l'aide d'Aspose.Words pour .NET](./verify-word-document-encryption/) vous montrera comment vérifier efficacement l'état de chiffrement d'un document. Il ne s'agit pas seulement d'une fonctionnalité pratique, mais d'une fonctionnalité essentielle pour de nombreuses applications. Comprendre le chiffrement vous apporte la tranquillité d'esprit et vous assure de contrôler la sécurité de vos documents.
 
  ## Tutoriels sur le traitement de texte avec les formats de fichiers
 | Titre | Description |

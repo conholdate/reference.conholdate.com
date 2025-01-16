@@ -22,5 +22,5 @@ url: /zh-hant/net/tutorials/email/mastering-email-security-and-signatures/
 3. 多功能性：與 .NET 應用程式無縫協作，使其成為 C# 開發人員的絕佳選擇。
 
 ## 掌握電子郵件安全和數位簽名教程
-### [使用 Aspose.Email 在 C# 中使用 DKIM 簽署電子郵件的指南](./guide-to-signing-emails-with-dkim/)
+### [使用 Aspose.Email 在 C# 中透過 DKIM 簽署電子郵件的指南](./guide-to-signing-emails-with-dkim/)
 在此逐步指南中了解使用網域金鑰識別郵件 (DKIM) 進行電子郵件驗證的重要性。了解如何使用 C# 和 Aspose.Email for .NET 程式庫有效地簽署電子郵件。

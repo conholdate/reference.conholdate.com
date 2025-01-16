@@ -1,5 +1,5 @@
 ---
-title: 使用 GroupDocs.Signature 签署带元数据的 PDF 指南
+title: 使用 GroupDocs.Signature 签署带元数据的 PDF 的指南
 linktitle: 使用元数据签署 PDF 的指南
 second_title: GroupDocs.Signature .NET API
 description: 了解如何使用 GroupDocs.Signature for .NET 对 PDF 文档进行元数据签名，从而增强 PDF 文档的安全性和可追溯性。本综合教程提供了清晰的说明。

@@ -36,7 +36,7 @@ using Aspose.Cells;
 
 Detta ger dig tillgång till alla funktioner som tillhandahålls av Aspose.Cells-biblioteket sömlöst.
 
-## Steg 1: Konfigurera din dokumentsökväg
+## Steg 1: Ställ in din dokumentsökväg
 Ange först sökvägen där dina Excel-filer finns:
 
 ```csharp

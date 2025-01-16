@@ -21,7 +21,7 @@ Ti sei mai chiesto se un progetto VBA è bloccato per la visualizzazione? Con As
 
 ## Progetti VBA sicuri e protetti da password
 
- Proteggere i tuoi progetti VBA è fondamentale, soprattutto quando gestisci dati sensibili o automazioni proprietarie. Aspose.Cells ti consente di aggiungere la protezione tramite password con solo poche righe di codice. Dai controlli di sicurezza di base all'applicazione di una protezione robusta, questi tutorial ti coprono.[Immergiti nei dettagli](./password-protect-vba-projects/).
+ Proteggere i tuoi progetti VBA è fondamentale, specialmente quando gestisci dati sensibili o automazioni proprietarie. Aspose.Cells ti consente di aggiungere la protezione tramite password con solo poche righe di codice. Dai controlli di sicurezza di base all'applicazione di una protezione robusta, questi tutorial ti coprono.[Immergiti nei dettagli](./password-protect-vba-projects/).
 
 ## Controllare e proteggere i progetti VBA
 

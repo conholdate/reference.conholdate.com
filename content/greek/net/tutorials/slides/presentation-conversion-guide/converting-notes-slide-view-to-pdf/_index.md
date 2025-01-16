@@ -94,4 +94,4 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
  Απολύτως! Μπορείτε να επιλέξετε συγκεκριμένες διαφάνειες χρησιμοποιώντας το`Slides` συλλογή στο`Presentation` τάξη.
 
 ### Ε5: Πού μπορώ να βρω επιπλέον παραδείγματα;
- Επισκεφθείτε το[Aspose.Slides for .NET Documentation](https://reference.aspose.com/slides/net/)για περισσότερα παραδείγματα και περιπτώσεις χρήσης.
+ Επισκεφθείτε το[Aspose.Slides for .NET Documentation](https://reference.aspose.com/slides/net/) για περισσότερα παραδείγματα και περιπτώσεις χρήσης.

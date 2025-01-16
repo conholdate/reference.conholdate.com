@@ -86,7 +86,7 @@ taskPane.WebExtension.Reference.Store = "en-US";
 ```
 
 - Id: A webbővítmény egyedi azonosítója.  
-- Verzió: Megadja a bővítmény verzióját.  
+- Version: Megadja a bővítmény verzióját.  
 - StoreType: A forrás típusát jelzi (pl. OMEX az Office Marketplace számára).  
 - Store: Meghatározza a nyelv- vagy régiókódot.
 

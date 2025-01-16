@@ -64,7 +64,7 @@ Po načtení sešitu musíte získat přístup k listu, který obsahuje komentá
 Worksheet worksheet = workbook.Worksheets[0];
 ```
 
- Pokud jsou vaše komentáře umístěny v jiném listu, jednoduše podle toho upravte rejstřík. Například použijte`Worksheets[1]` pro druhý list a tak dále.
+ Pokud jsou vaše komentáře umístěny v jiném listu, jednoduše podle toho upravte rejstřík. Například použijte`Worksheets[1]` pro druhý pracovní list a tak dále.
 
 ## Krok 4: Načtení komentářů s vlákny
 
@@ -128,4 +128,4 @@ Aspose.Cells for .NET je komplexní knihovna, která umožňuje vývojářům vy
 
 ### Kde mohu získat podporu pro Aspose.Cells?
 
- Pokud potřebujete podporu nebo máte dotazy, navštivte[Aspose fórum](https://forum.aspose.com/c/cells/9), kde můžete najít odpovědi nebo požádat o pomoc komunitu.
+ Pokud potřebujete podporu nebo máte dotazy, navštivte stránku[Aspose fórum](https://forum.aspose.com/c/cells/9), kde můžete najít odpovědi nebo požádat o pomoc komunitu.

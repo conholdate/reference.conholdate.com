@@ -96,7 +96,7 @@ Ano, je kompatibilní s desktopovými aplikacemi Windows i webovými aplikacemi 
 Aspose.Imaging je komerční produkt, ale můžete začít s bezplatnou zkušební verzí a vyhodnotit jeho funkce.
 
 ### Jsou k dispozici nějaké pokročilé funkce pro zpracování obrazu?
-Absolutně! Knihovna podporuje pokročilé funkce, jako je filtrování obrázků, transformace a efekty, čímž se zvyšuje všestrannost vašich úloh zpracování obrázků.
+Absolutně! Knihovna podporuje pokročilé funkce, jako je filtrování obrazu, transformace a efekty, což zvyšuje všestrannost vašich úloh zpracování obrazu.
 
 ### Kde najdu další zdroje a podporu?
  Další zdroje naleznete na adrese[Aspose.Zobrazovací dokumentace](https://reference.aspose.com/imaging/net/) a[Fórum Aspose](https://forum.aspose.com/) za podporu komunity.

@@ -46,7 +46,7 @@ DocumentBuilder builder = new DocumentBuilder(doc);
 
  Ici, nous initialisons un nouveau`Document` et un`DocumentBuilder`, ce qui nous permet d'ajouter des éléments facilement.
 
-## Étape 2 : Définir les options de ligne de signature
+## Étape 2 : Définir les options de la ligne de signature
 
 Ensuite, nous définirons les options de notre ligne de signature, y compris le nom du signataire, son titre, son adresse e-mail et d'autres détails pertinents :
 

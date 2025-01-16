@@ -14,7 +14,7 @@ Aspose.Drawing for .NET umožňuje vývojářům vytvářet sofistikovanou grafi
 ## Předpoklady
 
 1.  Aspose.Drawing for .NET: Stáhněte a nainstalujte jej z[zde](https://releases.aspose.com/drawing/net/).
-2. Adresář dokumentů: Vyberte adresář pro uložení obrázků.
+2. Adresář dokumentů: Vyberte adresář, do kterého chcete obrázky uložit.
 3. Základní znalosti .NET: Znalost C# a konceptů grafického programování.
 
 ## Importovat jmenné prostory

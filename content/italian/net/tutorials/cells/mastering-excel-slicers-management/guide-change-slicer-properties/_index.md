@@ -53,7 +53,7 @@ Per prima cosa, specifica dove si trova il tuo file Excel di esempio e dove vuoi
 // Elenco di origine
 string sourceDir = "Your Document Directory";
 
-// Directory di output
+// Directory di uscita
 string outputDir = "Your Document Directory";
 ```
 

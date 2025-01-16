@@ -124,7 +124,7 @@ doc.Save(dataDir);
 
 ## Krok 12: Wiadomość potwierdzająca
 
-Wydrukuj komunikat potwierdzający pomyślne wykonanie operacji:
+Wydrukuj komunikat potwierdzający sukces:
 
 ```csharp
 Console.WriteLine("\nFilled rectangle object created successfully.\nFile saved at " + dataDir);

@@ -15,7 +15,7 @@ url: /zh/net/tutorials/merger/merge-and-compress-files/
 
 ## 使用 GroupDocs.Merger 合并 TAR 文件
 
-开发人员经常面临的一个挑战是合并 TAR 文件，通常用于将多个文件归档为一个。使用 GroupDocs.Merger，这个过程变得简单。[使用 GroupDocs.Merger for .NET 合并 Tar 文件](./merge-tar-files/)提供分步指南，指导您从设置库到执行第一次合并。您将找到说明该过程每个部分的代码片段，确保您可以在自己的项目中顺利复制它。在本教程结束时，您将能够有效地管理和合并 TAR 文件。
+开发人员经常面临的一个挑战是合并 TAR 文件，通常用于将多个文件归档为一个。使用 GroupDocs.Merger，这个过程变得简单。[使用 GroupDocs.Merger for .NET 合并 Tar 文件](./merge-tar-files/)提供分步指南，指导您从设置库到执行第一次合并。您将找到说明该过程每个部分的代码片段，确保您可以在自己的项目中顺利复制它。在教程结束时，您将能够有效地管理和合并 TAR 文件。
 
 ## 使用 GroupDocs.Merger 合并 ZIP 文件
 

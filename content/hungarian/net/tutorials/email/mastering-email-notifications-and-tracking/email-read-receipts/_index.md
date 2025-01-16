@@ -35,7 +35,7 @@ using Aspose.Email.Mime;
 
 ## 1. lépés: Hozzon létre egy e-mail üzenetet
 
- Az első lépés egy példány létrehozása a`MailMessage` osztály, amely az elküldeni kívánt e-mailt jelöli.
+ Az első lépés a példány létrehozása a`MailMessage` osztály, amely az elküldeni kívánt e-mailt jelöli.
 
 ```csharp
 MailMessage message = new MailMessage();

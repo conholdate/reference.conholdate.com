@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/email/mastering-email-header-manipulation/custom-hyp
 ---
 ## 介紹
 
-電子郵件超連結可作為網站和其他資源的入口。預設情況下，這些超連結採用純文本，可以融入訊息的背景中。然而，透過利用 Aspose.Email for .NET 的強大功能，您可以自訂超連結的外觀，使它們脫穎而出並提供更好的使用者體驗。
+電子郵件超連結可作為網站和其他資源的入口。預設情況下，這些超連結採用純文本，可以融入訊息的背景中。但是，透過利用 Aspose.Email for .NET 的強大功能，您可以自訂超連結的外觀，使它們脫穎而出並提供更好的使用者體驗。
 
 ## 設定您的開發環境
 
@@ -109,7 +109,7 @@ private static string RenderHyperlinkWithoutHref(string source)
 Aspose.Email for .NET 是一個強大的程式庫，為開發人員提供了強大的工具來管理 .NET 應用程式中的電子郵件訊息，包括建立、解析和操作功能。
 
 ### 我可以使用 Aspose.Email for .NET 自訂電子郵件中的超連結外觀嗎？
-絕對地！ Aspose.Email 可讓您修改超連結渲染，讓您的電子郵件在視覺上更具吸引力。
+絕對地！ Aspose.Email 可讓您修改超連結呈現，讓您的電子郵件在視覺上更具吸引力。
 
 ### Aspose.Email 中的自訂超連結渲染有任何限制嗎？
 是的，雖然您可以增強超連結的外觀，但並非所有電子郵件用戶端都支援廣泛的自訂。建議跨不同客戶端進行測試以確保相容性。

@@ -23,14 +23,14 @@ url: /zh-hant/net/tutorials/words/digital-signatures/
 
 ## 建立並簽署簽名行  
 
-新增簽名行就像為您的文件提供專門的批准位置。使用 Aspose.Words for .NET，您可以輕鬆建立和簽署新的簽名行。從初始化設定到插入行並驗證它們，本教程涵蓋了所有內容。您很快就會感覺自己像個數位文件藝術家。  
+新增簽名行就像為您的文件提供專門的審批位置。使用 Aspose.Words for .NET，您可以輕鬆建立和簽署新的簽名行。從初始化設定到插入行並驗證它們，本教程涵蓋了所有內容。您很快就會感覺自己像個數位文件藝術家。  
 [閱讀更多](./create-and-sign-new-signature-line/)  
 
  ## 數位簽名教學
 | 標題 | 描述 |
 | --- | --- |
-| [對 Word 文件進行數位簽名](./digitally-signing-word-document/) | 在此綜合逐步指南中了解如何使用 Aspose.Words for .NET 以程式設計方式簽署 Word 文件。 |
+| [對 Word 文件進行數位簽名](./digitally-signing-word-document/) | 在這份全面的逐步指南中了解如何使用 Aspose.Words for .NET 以程式設計方式簽署 Word 文件。 |
 | [在 Word 文件中設定數位簽章提供者 ID](./set-digital-signature-provider-id/) | 了解如何使用 Aspose.Words for .NET 透過特定的簽章提供者 ID 安全地將數位簽章新增至您的 Word 文件。 |
 | [建立新的數位簽章行並設定提供者 ID](./create-new-digital-signature-line-and-set-provider-id/) | 了解如何使用 Aspose.Words for .NET 以程式設計方式為 Word 文件新增簽名行。此綜合指南涵蓋了從設定開發環境到插入簽名行和安全簽署文件的所有內容。 |
 | [Word 文件中的存取和數位簽章驗證](./access-and-digital-signature-verification/) | 透過學習如何有效驗證 Word 文件中的數位簽名，釋放 Aspose.Words for .NET 的全部潛力。本逐步指南將引導您完成設定流程。 |
-| [建立並簽署新的簽名行](./create-and-sign-new-signature-line/) | 了解如何使用 Aspose.Words for .NET 將數位簽章無縫新增至 Word 文件。這個全面的教程涵蓋了從設定環境和插入簽名行到保存和驗證簽名文件的所有內容。 |
+| [建立並簽署新的簽名行](./create-and-sign-new-signature-line/) | 了解如何使用 Aspose.Words for .NET 將數位簽章無縫新增至您的 Word 文件。這個全面的教程涵蓋了從設定環境和插入簽名行到保存和驗證簽名文件的所有內容。 |

@@ -70,7 +70,7 @@ DocSaveOptions saveOptions = new DocSaveOptions {
 
 ## Schritt 4: Speichern Sie das Dokument
 
-Speichern Sie das Dokument abschließend mit den konfigurierten Optionen. Achten Sie dabei darauf, dass kleine Metadateien nicht komprimiert werden.
+Speichern Sie das Dokument abschließend mit den konfigurierten Optionen und achten Sie dabei darauf, dass kleine Metadateien nicht komprimiert werden.
 
 ```csharp
 //Speichern Sie das Dokument mit den angegebenen Optionen

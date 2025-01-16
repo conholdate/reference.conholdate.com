@@ -136,7 +136,7 @@ foreach (TaskPane pane in doc.WebExtensionTaskPanes)
 }
 ```
 
-Cela génère les détails de chaque volet des tâches dans la console.
+Cela affiche les détails de chaque volet des tâches dans la console.
 
 ## Conclusion  
 

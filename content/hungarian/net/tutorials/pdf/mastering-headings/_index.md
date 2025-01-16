@@ -13,7 +13,7 @@ Az Aspose.PDF for .NET nem csak egy eszköz; ez egy varázspálca a PDF dokument
 
 ## Fedezze fel a speciális funkciókat
 
-Ha már megszokta az alapokat, itt az ideje, hogy felfedezze azokat a fejlettebb szolgáltatásokat, amelyek az Aspose.PDF-et a fejlesztők kedvencévé teszik. Stílusos számozott listákat szeretne készíteni? Tekintse meg oktatóanyagunkat[Stílusos számozott listák Aspose.PDF használatával .NET-hez](./stylish-numbered-lists/). Bemutatja, hogyan alkalmazhat különböző számozási stílusokat, például római számokat és különleges formátumokat, amelyek egyedi megjelenést kölcsönöznek a dokumentumoknak.
+Ha már megszokta az alapokat, itt az ideje, hogy felfedezze azokat a fejlettebb szolgáltatásokat, amelyek az Aspose.PDF-et a fejlesztők kedvencévé teszik. Stílusos számozott listákat szeretne létrehozni? Tekintse meg oktatóanyagunkat[Stílusos számozott listák Aspose.PDF használatával .NET-hez](./stylish-numbered-lists/). Bemutatja, hogyan alkalmazhat különböző számozási stílusokat, például római számokat és különleges formátumokat, amelyek egyedi megjelenést kölcsönöznek a dokumentumoknak.
 
 Egy másik lényeges szempont a meglévő PDF-ek manipulálása. A szöveg, képek és metaadatok kinyerésének lehetősége új lehetőségeket nyit meg az adatkezelésben. Oktatóanyagaink végigvezetik Önt a tartalom hatékony kinyerésében a PDF-fájlokból, így biztosítva, hogy az információkat újrahasznosíthassa anélkül, hogy a nulláról kezdené.
 

@@ -110,7 +110,7 @@ Console.WriteLine("OCR process executed successfully.");
 
 ### Какие варианты лицензирования доступны для Aspose.OCR?
 
- Узнать о различных вариантах лицензирования и совершить покупку можно на сайте[Магазин Aspose](https://purchase.conholdate.com/buy).
+ Вы можете узнать о различных вариантах лицензирования и совершить покупки на сайте[Магазин Aspose](https://purchase.conholdate.com/buy).
 
 ### Существует ли пробная версия Aspose.OCR?
 

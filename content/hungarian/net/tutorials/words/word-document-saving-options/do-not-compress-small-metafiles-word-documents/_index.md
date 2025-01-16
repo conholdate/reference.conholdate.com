@@ -53,7 +53,7 @@ DocumentBuilder builder = new DocumentBuilder(doc);
 builder.Writeln("Text added to a document.");
 ```
 
- Itt, a`Document` Az objektum inicializálva van, és a`DocumentBuilder` szöveg beszúrására szolgál. A`Writeln` metódus egy sor szöveget fűz a dokumentumhoz.
+ Itt, a`Document` Az objektum inicializálva van, és a`DocumentBuilder` szöveg beszúrására szolgál. A`Writeln` metódus szövegsort fűz a dokumentumhoz.
 
 ## 3. lépés: Konfigurálja a mentési beállításokat
 
@@ -87,7 +87,7 @@ Ha követi ezeket a lépéseket, biztosíthatja, hogy a Word-dokumentumokban lé
 
 ### Miért használjam a "Ne tömörítsen kis metafájlokat" funkciót?
 
-Ez a funkció előnyös a kisméretű metafájlok vizuális minőségének megőrzéséhez, ami döntő fontosságú a professzionális és jó minőségű dokumentumkimenetek eléréséhez.
+Ez a funkció előnyös a kis metafájlok vizuális minőségének megőrzéséhez, ami döntő fontosságú a professzionális és jó minőségű dokumentumkimenetek eléréséhez.
 
 ### Használhatom ezt a funkciót más fájlformátumokkal?
 

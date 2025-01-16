@@ -22,7 +22,7 @@ Trước khi tiếp tục, hãy đảm bảo đáp ứng các điều kiện ti�
    Có kiến thức cơ bản về ngôn ngữ lập trình C# và môi trường phát triển .NET được cấu hình.
 
 3. Đầu vào tệp Microsoft Project  
-   Có giá trị`.mpp` tập tin có sẵn để chuyển đổi.
+    Có giá trị`.mpp`tập tin có sẵn để chuyển đổi.
 
 ## Nhập không gian tên thiết yếu
 
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Bước 5: Lưu tệp dự án dưới dạng PDF
 
-Cuối cùng, lưu lại`.mpp` tập tin dưới dạng PDF bằng cách gọi`Save` phương pháp. Chỉ định đường dẫn tệp đầu ra và truyền các tùy chọn đã cấu hình.
+ Cuối cùng, lưu lại`.mpp`tập tin dưới dạng PDF bằng cách gọi`Save` phương pháp. Chỉ định đường dẫn tệp đầu ra và truyền các tùy chọn đã cấu hình.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

@@ -26,7 +26,7 @@ url: /el/net/tutorials/email/handling-email-events-and-calendar/modify-prodid-in
 3. .NET Framework  
    Βεβαιωθείτε ότι έχετε εγκαταστήσει το .NET Framework 4.0 ή νεότερη έκδοση.
 
-4. Άδεια χρήσης (Προαιρετικό)  
+4. Άδεια (προαιρετικό)  
     Εάν δεν έχετε άδεια, μπορείτε να πάρετε μια[δωρεάν δοκιμή](https://releases.aspose.com/) ή ζητήστε α[προσωρινή άδεια](https://purchase.aspose.com/temporary-license/) για πλήρη λειτουργικότητα.
 
 ## Εισαγωγή πακέτων

@@ -39,7 +39,7 @@ using System.Text;
 
 ```csharp
 // Κατάλογος πηγής
-string sourceDir = "Your Document Directory"; // Αντικαταστήστε με τη διαδρομή καταλόγου προέλευσης
+string sourceDir = "Your Document Directory"; // Αντικαταστήστε τη διαδρομή καταλόγου προέλευσης
 // Κατάλογος εξόδου
 string outputDir = "Your Document Directory"; // Αντικαταστήστε με τη διαδρομή καταλόγου εξόδου
 ```
@@ -53,7 +53,7 @@ string outputDir = "Your Document Directory"; // Αντικαταστήστε μ
 Workbook wb = new Workbook(sourceDir + "sampleCreateSlicerToPivotTable.xlsx");
 ```
 
-## Βήμα 3: Πρόσβαση στο πρώτο φύλλο εργασίας
+## Βήμα 3: Πρόσβαση στο Πρώτο φύλλο εργασίας
 
 Τώρα, ας αποκτήσουμε πρόσβαση στο φύλλο εργασίας όπου βρίσκεται ο συγκεντρωτικός πίνακας:
 
