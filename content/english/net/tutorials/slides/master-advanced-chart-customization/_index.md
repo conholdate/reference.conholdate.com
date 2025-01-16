@@ -1,6 +1,6 @@
 ---
 title: Master Advanced Chart Customization in Aspose.Slides for .NET
-linktitle: Master Advanced Chart Customization in Aspose.Slides for .NET
+linktitle: Master Advanced Chart Customization
 second_title: Aspose.Slides .NET PowerPoint Processing API
 description: Master Aspose.Slides for .NET tutorials to create and customize charts. Learn advanced techniques for trend lines, markers, and stunning data visualizations.
 type: docs
