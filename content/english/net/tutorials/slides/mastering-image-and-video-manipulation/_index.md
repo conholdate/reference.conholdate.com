@@ -1,6 +1,6 @@
 ---
 title: Mastering Image and Video Manipulation in Aspose.Slides
-linktitle: Image and Video Manipulation in Slides
+linktitle: Mastering Image and Video Manipulation
 second_title: Aspose.Slides .NET PowerPoint Processing API
 description: Learn how to enhance your presentations by manipulating images and videos using Aspose.Slides for .NET. This comprehensive guide covers step-by-step tutorials.
 type: docs
