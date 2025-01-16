@@ -96,7 +96,7 @@ So können Sie das mit einer einfachen Konsolennachricht tun:
 Console.WriteLine("Conversion completed successfully!");
 ```
  
-- Diese Zeile druckt eine Erfolgsmeldung auf die Konsole und informiert Sie darüber, dass der Vorgang ohne Probleme abgeschlossen wurde.
+- Diese Zeile druckt eine Erfolgsmeldung auf der Konsole aus und informiert Sie darüber, dass der Vorgang ohne Probleme abgeschlossen wurde.
 
 ## Abschluss
 

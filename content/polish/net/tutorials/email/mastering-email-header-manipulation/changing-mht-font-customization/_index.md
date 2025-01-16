@@ -23,7 +23,7 @@ Masz je ustawione? Super! Zaczynajmy.
 
 ## Importowanie pakietów
 
-Najpierw upewnij się, że Twój projekt jest skonfigurowany do używania niezbędnych przestrzeni nazw. Będziesz chciał uwzględnić poniższe na górze swojego pliku C#:
+Po pierwsze, upewnij się, że Twój projekt jest skonfigurowany do używania niezbędnych przestrzeni nazw. Będziesz chciał uwzględnić poniższe na górze swojego pliku C#:
 
 ```csharp
 using Aspose.Email;
@@ -45,7 +45,7 @@ MailMessage message = MailMessage.Load("input.mht", new MhtmlLoadOptions());
 
  Wyjaśnienie: Tutaj,`"input.mht"` jest ścieżką do pliku MHT.`MhtmlLoadOptions()`umożliwia skonfigurowanie sposobu ładowania pliku, np. w inny sposób obsługując załączniki lub powiązane zasoby.
 
-## Krok 2: Iteruj przez alternatywne widoki
+## Krok 2: Przejrzyj widoki alternatywne
 
 Pliki MHT często mają wiele alternatywnych widoków, zwłaszcza jeśli zawierają zawartość HTML. Musisz przejść przez te widoki, aby znaleźć ten, który chcesz zmodyfikować.
 

@@ -22,7 +22,7 @@ Zorg ervoor dat u het volgende bij de hand hebt voordat u begint:
 Nu u aan deze voorwaarden voldoet, kunt u aan de slag!
 
 ## Pakketten importeren
-Om toegang te krijgen tot de krachtige functies van Aspose.Cells, importeert u de benodigde namespaces in uw C#-project. Voeg het volgende using directives toe aan uw code:
+Om toegang te krijgen tot de krachtige functies van Aspose.Cells, importeert u de benodigde naamruimten in uw C#-project. Voeg het volgende using directives toe aan uw code:
 
 ```csharp
 using System;
@@ -76,7 +76,7 @@ Hiermee krijgt u toegang tot het eerste werkblad in de werkmap (vergeet niet dat
 ThreadedComment comment = worksheet.Comments.GetThreadedComments("A1")[0];
 ```
 
-Hiermee wordt de eerste threaded comment opgehaald die is gekoppeld aan cel A1. Nu bent u klaar om deze te bewerken!
+Hiermee wordt de eerste gegroepeerde opmerking opgehaald die is gekoppeld aan cel A1. Nu bent u klaar om deze te bewerken!
 
 ## Stap 6: Bewerk de opmerking
 Dit is waar de actie plaatsvindt! Werk de notities van de opmerking als volgt bij:
@@ -94,7 +94,7 @@ De wijzigingen die u hebt aangebracht, moeten worden opgeslagen om van kracht te
 workbook.Save(outDir + "EditThreadedComments.xlsx");
 ```
 
-Controleer de aangewezen uitvoermap voor het nieuw bewerkte bestand!
+Controleer de aangewezen uitvoermap voor het zojuist bewerkte bestand!
 
 ## Stap 8: Voltooiingsbericht
 Het is altijd fijn om te weten wanneer een proces succesvol is afgerond! Voeg deze regel toe:
@@ -111,7 +111,7 @@ Gefeliciteerd! U hebt met succes threaded comments in een Excel-werkblad bewerkt
 ## Veelgestelde vragen
 
 ### Wat zijn geneste opmerkingen in Excel?
-Met discussielijnen kunt u discussies en reacties in één enkele commentaarballon plaatsen, waardoor samenwerking eenvoudiger wordt.
+Met discussielijnen kunt u discussies en reacties in één enkele commentaarballon plaatsen, wat de samenwerking vergemakkelijkt.
 
 ### Kan ik meerdere opmerkingen bewerken met Aspose.Cells?
 Absoluut! U kunt alle opmerkingen in het werkblad doorlopen en ze indien nodig bewerken.

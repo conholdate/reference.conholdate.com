@@ -12,7 +12,7 @@ url: /sv/net/tutorials/cells/mastering-tables-and-lists/
 Är du redo att ta dina Excel-manipulationsfärdigheter till nästa nivå? Aspose.Cells för .NET är här för att göra det enkelt att arbeta med tabeller och listor i Excel. Oavsett om du är en nybörjare eller en erfaren utvecklare, har dessa handledningar dig täckt.
 
 ## Skapa och hantera listobjekt i Excel  
- Listor i Excel handlar inte bara om organisation – de handlar om funktionalitet. Med Aspose.Cells för .NET kan du skapa och hantera listobjekt programmatiskt, vilket gör dina kalkylblad dynamiska och interaktiva. Från enkla att göra-listor till komplexa datauppsättningar, den här handledningen leder dig genom varje steg. Redo att automatisera? Dyk ner i hela guiden[här](./create-and-manage-list-object/).  
+ Listor i Excel handlar inte bara om organisation – de handlar om funktionalitet. Med Aspose.Cells för .NET kan du skapa och hantera listobjekt programmatiskt, vilket gör dina kalkylblad dynamiska och interaktiva. Från enkla att göra-listor till komplexa datauppsättningar, den här handledningen leder dig genom varje steg. Redo att automatisera? Dyk in i hela guiden[här](./create-and-manage-list-object/).  
 
 ## Konvertera tabeller till ODS-format  
 Excel-tabeller är kraftfulla, men ibland behöver du flexibilitet. Det är där att konvertera tabeller till OpenDocument Spreadsheet-formatet (ODS) är praktiskt. Aspose.Cells för .NET låter dig hantera denna konvertering med bara några rader kod. Vill du ha en detaljerad genomgång? Kolla in hela handledningen[här](./convert-table-to-ods-format/).  

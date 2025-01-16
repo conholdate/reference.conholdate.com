@@ -1,6 +1,6 @@
 ---
-title: Conceptafspraakverzoek maken met Aspose.Email voor .NET
-linktitle: Conceptafspraakverzoek maken met Aspose.Email voor .NET
+title: Een conceptafspraakverzoek maken met Aspose.Email voor .NET
+linktitle: Een conceptafspraakverzoek maken met Aspose.Email voor .NET
 second_title: Aspose.Email .NET E-mailverwerkings-API
 description: Ontdek hoe u de afspraakplanning in uw bedrijf kunt stroomlijnen door programmatisch concept-e-mails met afspraakverzoeken te genereren met behulp van de Aspose.Email voor .NET-bibliotheek.
 type: docs

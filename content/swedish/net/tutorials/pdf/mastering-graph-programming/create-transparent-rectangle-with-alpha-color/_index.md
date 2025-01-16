@@ -1,6 +1,6 @@
 ---
-title: Skapa transparent rektangel med alfafärg
-linktitle: Skapa transparent rektangel med alfafärg
+title: Skapa genomskinlig rektangel med alfafärg
+linktitle: Skapa genomskinlig rektangel med alfafärg
 second_title: Aspose.PDF för .NET API Referens
 description: Lär dig hur du lägger till en professionell touch till dina PDF-filer genom att skapa genomskinliga rektanglar med Aspose.PDF för .NET. Denna omfattande handledning guidar dig genom att initiera ett PDF-dokument.
 type: docs

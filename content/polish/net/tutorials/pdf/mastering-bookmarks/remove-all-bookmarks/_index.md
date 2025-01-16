@@ -15,7 +15,7 @@ Dokumenty PDF są podstawą dzisiejszego cyfrowego krajobrazu, niezależnie od t
 
 Zanim zagłębisz się w kod, upewnij się, że masz wszystko, czego potrzebujesz, aby rozpocząć pracę z Aspose.PDF dla .NET.
 
-1. Aspose.PDF dla .NET: Ta zaawansowana biblioteka umożliwia manipulowanie dokumentami PDF, w tym usuwanie zakładek.
+1. Aspose.PDF dla .NET: Ta potężna biblioteka umożliwia manipulowanie dokumentami PDF, w tym usuwanie zakładek.
 2. Visual Studio: środowisko programistyczne do pisania i uruchamiania kodu.
 3. Podstawowa wiedza o języku C#: Znajomość programowania w języku C# ułatwi implementację.
 

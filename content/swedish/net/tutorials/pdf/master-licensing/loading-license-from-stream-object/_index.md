@@ -2,7 +2,7 @@
 title: Laddar licens från Stream Object
 linktitle: Laddar licens från Stream Object
 second_title: Aspose.PDF för .NET API Referens
-description: Lås upp den fulla potentialen av Aspose.PDF för .NET genom att lära dig hur man laddar en licens från en stream. Den här omfattande guiden ger steg-för-steg-instruktioner.
+description: Lås upp den fulla potentialen av Aspose.PDF för .NET genom att lära dig hur man laddar en licens från en stream. Denna omfattande guide ger steg-för-steg-instruktioner.
 type: docs
 weight: 30
 url: /sv/net/tutorials/pdf/master-licensing/loading-license-from-stream-object/

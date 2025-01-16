@@ -15,7 +15,7 @@ Ahoj, tech nadšenci a mágové s dokumenty! Už jste někdy bojovali s propojov
 
 Než se pustíme do kódu, ujistěte se, že máte připraveny následující náležitosti:
 
-1.  Aspose.Words for .NET Library: Ujistěte se, že máte nainstalovanou nejnovější verzi. Můžete[stáhněte si jej zde](https://releases.aspose.com/words/net/).
+1.  Aspose.Words for .NET Library: Ujistěte se, že máte nainstalovanou nejnovější verzi. Můžete[stáhněte si to zde](https://releases.aspose.com/words/net/).
 2. Vývojové prostředí: Vývojové prostředí .NET jako Visual Studio pro psaní a testování kódu.
 3. Základní znalost C#: Znalost C# vám pomůže hladce pokračovat.
 4. Ukázkový dokument Word (volitelné): I když to není nezbytně nutné, mít ukázkový dokument může pomoci při testování propojených textových polí.

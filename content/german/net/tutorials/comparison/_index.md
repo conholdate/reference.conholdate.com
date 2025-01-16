@@ -12,4 +12,4 @@ is_root: true
 ### [Laden und Speichern von Dokumenten in GroupDocs.Comparison für .NET](./load-and-save-documents/)
 Entdecken Sie Schritt-für-Schritt-Tutorials zur Verwendung von GroupDocs.Comparison für .NET zum effizienten Laden und Speichern von Dokumenten. Perfekt für Entwickler, die Dokumentvergleiche optimieren möchten.
 ### [Leitfaden zur grundlegenden Verwendung](./guide-to-basic-usage/)
-Entdecken Sie wichtige Tutorials zu GroupDocs.Comparison für .NET für effizienten Dokumentenvergleich und Einblicke in die Entwicklung. Erfahren Sie, wie Sie Excel-Zellen einfach vergleichen.
+Entdecken Sie wichtige Tutorials zu GroupDocs.Comparison für .NET für effizienten Dokumentenvergleich und Entwicklungseinblicke. Erfahren Sie, wie Sie Excel-Zellen einfach vergleichen.

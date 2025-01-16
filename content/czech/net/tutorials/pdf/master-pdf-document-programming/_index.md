@@ -25,7 +25,7 @@ Tento článek slouží jako podrobný průvodce vyčerpávající sbírkou výu
 ## Master PDF Document Programming Tutorials
 | Titul | Popis |
 | --- | --- | 
-| [Přidání Java Scriptu do souboru PDF](./adding-java-script-to-pdf/) | Tento dokument poskytuje komplexní průvodce přidáváním interaktivních prvků, jako jsou vyskakovací upozornění nebo funkce automatického tisku, do dokumentů PDF pomocí Aspose.PDF for .NET. |  
+| [Přidání Java Scriptu do souboru PDF](./adding-java-script-to-pdf/) | Tento dokument poskytuje komplexního průvodce přidáváním interaktivních prvků, jako jsou vyskakovací upozornění nebo funkce automatického tisku, do dokumentů PDF pomocí Aspose.PDF for .NET. |  
 | [Přidávání vrstev do dokumentů PDF pomocí Aspose.PDF pro .NET](./adding-layers-to-pdf/) | Naučte se vytvářet složité dokumenty PDF s více vrstvami v Aspose.PDF pro .NET. Objevte výkonné funkce této knihovny a optimalizujte. |  
 | [Přidání Remove Javascript to PDF Document](./adding-remove-java-script-to-doc/) | Tento komplexní průvodce vám ukáže, jak přidávat vlastní chování, dynamicky provádět výpočty nebo ověřování a jak se integrovat s jinými softwarovými aplikacemi. |  
 | [Přidání obsahu do dokumentu PDF](./adding-toc-to-pdf/) | Naučte se, jak přidat obsah do PDF pomocí Aspose.PDF for .NET. Tento průvodce krok za krokem zjednodušuje proces a zajišťuje snadnou navigaci ve vašich dokumentech. |  

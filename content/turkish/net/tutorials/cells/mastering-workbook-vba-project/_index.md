@@ -25,7 +25,7 @@ Bir VBA projesinin görüntülenmeye karşı kilitli olup olmadığını hiç me
 
 ## VBA Projelerini Kontrol Edin ve Güvenliğini Sağlayın
 
- VBA projenizi güvence altına almak yalnızca bir parola eklemekle ilgili değildir; hassas kodunuzun yetkisiz erişime karşı korunmasını sağlamakla ilgilidir. Aspose.Cells for .NET, bir projenin zaten güvence altına alınıp alınmadığını kontrol etmek ve ek güvenlik önlemleri uygulamak için size güçlü araçlar sunar. Bu eğitim, Excel projelerinizin meraklı gözlerden güvende olduğundan emin olmak için bu görevleri programatik olarak nasıl halledebileceğinizi gösterir. VBA projenizi nasıl kilitleyeceğinizi öğrenmek ister misiniz?[Daha fazla bilgi için buraya tıklayın](./check-and-secure-vba-projects-is-protected/).
+ VBA projenizi güvence altına almak yalnızca bir parola eklemekle ilgili değildir; hassas kodunuzun yetkisiz erişime karşı korunmasını sağlamakla ilgilidir. Aspose.Cells for .NET, bir projenin zaten güvence altına alınıp alınmadığını kontrol etmek ve ek güvenlik önlemleri uygulamak için size güçlü araçlar sunar. Bu eğitim, Excel projelerinizin meraklı gözlerden güvende olmasını sağlayarak bu görevleri programatik olarak nasıl halledebileceğinizi gösterir. VBA projenizi nasıl kilitleyeceğinizi öğrenmek ister misiniz?[Daha fazla bilgi için buraya tıklayın](./check-and-secure-vba-projects-is-protected/).
 
 ## Mastering Workbook VBA Proje Eğitimleri
 ### [Aspose.Cells ile Excel'de VBA Proje Kilit Durumunu Kontrol Edin](./check-vba-project-lock-status/)

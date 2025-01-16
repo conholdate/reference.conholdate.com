@@ -89,7 +89,7 @@ Codabar 是一種簡單的線性條碼符號系統，經常用於各個行業，
 
 您可以直接從以下位置取得臨時許可證[這裡](https://purchase.conholdate.com/temporary-license/).
 
-### Aspose.BarCode for .NET 是否與各種 .NET 框架相容？
+### Aspose.BarCode for .NET 與各種 .NET 框架相容嗎？
 
 絕對地！ Aspose.BarCode for .NET 的設計具有多功能性，並且與多個.NET 框架相容，使其適用於廣泛的應用程式。
 

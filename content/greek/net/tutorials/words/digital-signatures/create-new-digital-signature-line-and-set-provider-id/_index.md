@@ -110,7 +110,7 @@ SignOptions signOptions = new SignOptions
 CertificateHolder certHolder = CertificateHolder.Create(dataDir + "morzal.pfx", "aw");
 ```
 
- Αντικαθιστώ`"morzal.pfx"` με το πραγματικό όνομα του αρχείου πιστοποιητικού σας και`"aw"` με τον κωδικό πρόσβασης του πιστοποιητικού σας.
+ Αντικαθιστώ`"morzal.pfx"` με το πραγματικό όνομα του αρχείου πιστοποιητικού και`"aw"` με τον κωδικό πρόσβασης του πιστοποιητικού σας.
 
 ## Βήμα 7: Υπογράψτε το Έγγραφο
 

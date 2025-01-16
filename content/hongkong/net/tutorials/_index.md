@@ -149,7 +149,7 @@ Aspose.Cells 教學和程式碼片段引導您完成不同的步驟，以充分�
 {{% /alert %}}
 
 ### Aspose.Tasks 教學課程
-- [.NET 教學的 Aspose.Tasks](./tasks/)
+- [Aspose.Tasks for .NET 教學課程](./tasks/)
 
 ## 地理資訊系統
 {{% alert color="primary" %}}

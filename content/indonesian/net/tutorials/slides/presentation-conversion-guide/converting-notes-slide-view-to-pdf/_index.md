@@ -94,4 +94,4 @@ Ya, Aspose.Slides untuk .NET dirancang untuk menangani presentasi dalam ukuran a
  Tentu saja! Anda dapat memilih slide tertentu menggunakan`Slides` koleksi di`Presentation` kelas.
 
 ### Q5: Di mana saya dapat menemukan contoh tambahan?
- Kunjungi[Dokumentasi Aspose.Slides untuk .NET](https://reference.aspose.com/slides/net/)untuk lebih banyak contoh dan kasus penggunaan.
+ Kunjungi[Dokumentasi Aspose.Slides untuk .NET](https://reference.aspose.com/slides/net/) untuk lebih banyak contoh dan kasus penggunaan.

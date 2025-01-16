@@ -54,7 +54,7 @@ Shape shape = new Shape(doc, ShapeType.TextBox);
 TextBox textBox = shape.TextBox;
 ```
 
-ในข้อความสั้นๆ นี้:
+ในสคริปท์นี้:
 - `ShapeType.TextBox` ระบุว่าเรากำลังสร้างรูปร่างกล่องข้อความ
 - `textBox` คืออินสแตนซ์กล่องข้อความจริงที่เราจะจัดการ
 

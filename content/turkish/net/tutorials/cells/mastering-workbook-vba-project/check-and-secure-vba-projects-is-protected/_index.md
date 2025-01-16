@@ -30,7 +30,7 @@ using System.Linq;
 using System.Text;
 ```
 
-## Adım 1: Mevcut Bir Çalışma Kitabını Yükleyin
+## Adım 1: Mevcut bir Çalışma Kitabını Yükleyin
 
  İlk olarak, bir örnek oluşturun`Workbook` Mevcut Excel dosyanızı yükleyerek sınıfa ekleyin. Bu dosya incelemek istediğiniz VBA projesini içermelidir.
 

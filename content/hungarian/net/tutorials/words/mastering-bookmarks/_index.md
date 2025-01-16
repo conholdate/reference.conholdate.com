@@ -15,7 +15,7 @@ Ha professzionális megjelenésű Word-dokumentumokról van szó, a könyvjelző
 
 könyvjelzők parancsikonként működnek a Word-dokumentumban. Lehetővé teszik bizonyos szakaszok egyszerű kiemelését és ugrását. Ez különösen akkor hasznos, ha hosszadalmas jelentéseken vagy könyveken dolgozik, ahol a konkrét tartalom keresése fárasztó lehet. Az Aspose.Words for .NET segítségével könnyedén hozhat létre, törölhet és kezelhet könyvjelzőket. De valójában hogyan valósítja meg ezt a projektjeiben?
 
- Vessen egy pillantást nálunk[Hozzon létre könyvjelzőt a Word dokumentumban az Aspose.Words for .NET segítségével](./create-bookmark-in-word-document/) oktatóanyag a könyvjelzők létrehozásának gyakorlati útmutatójához. Ezzel a lépésről lépésre történő megközelítéssel javíthatja Word-dokumentumait, így könnyebben navigálhat és kezelhet.
+ Vessen egy pillantást nálunk[Hozzon létre könyvjelzőt a Word dokumentumban az Aspose.Words for .NET segítségével](./create-bookmark-in-word-document/) oktatóanyag a könyvjelzők létrehozásának gyakorlati útmutatójához. Ez a lépésenkénti megközelítés lehetővé teszi a Word-dokumentumok javítását, megkönnyítve a navigációt és a kezelést.
 
 ## Könyvjelzőinek kezelése
 

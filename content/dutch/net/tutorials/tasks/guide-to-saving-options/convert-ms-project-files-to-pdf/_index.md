@@ -22,7 +22,7 @@ Voordat u verdergaat, moet u ervoor zorgen dat aan de volgende vereisten is vold
    Kennis van de programmeertaal C# en een geconfigureerde .NET-ontwikkelomgeving.
 
 3. Invoer Microsoft Projectbestand  
-   Heb een geldige`.mpp` bestand beschikbaar voor conversie.
+    Heb een geldige`.mpp`bestand beschikbaar voor conversie.
 
 ## Essentiële naamruimten importeren
 
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Stap 5: Sla het projectbestand op als PDF
 
-Bewaar ten slotte de`.mpp` bestand als PDF door de`Save` methode. Geef het pad naar het uitvoerbestand op en geef de geconfigureerde opties door.
+ Bewaar ten slotte de`.mpp`bestand als PDF door de`Save` methode. Geef het pad naar het uitvoerbestand op en geef de geconfigureerde opties door.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

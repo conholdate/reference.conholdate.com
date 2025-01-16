@@ -28,7 +28,7 @@ using Aspose.Zip.Tar;
 ```
 ## Krok 1: Ustaw katalog dokumentów
 
- Określ lokalizację swoich dokumentów, przypisując do nich ścieżkę`dataDir` zmienny:
+ Określ lokalizację swoich dokumentów, przypisując do nich ścieżkę.`dataDir` zmienny:
 
 ```csharp
 string dataDir = "YourDocumentDirectoryPath"; // Zastąp swoją rzeczywistą ścieżką

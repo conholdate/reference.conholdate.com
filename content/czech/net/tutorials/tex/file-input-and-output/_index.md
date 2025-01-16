@@ -11,7 +11,7 @@ url: /cs/net/tutorials/tex/file-input-and-output/
 
 Aspose.TeX for .NET je výkonná knihovna, která zjednodušuje práci s dokumenty LaTeXu. Pokud se ponoříte do světa zpracování dokumentů, pravděpodobně se budete chtít naučit lana operací vstupu a výstupu souborů (I/O). Pojďme to dále prozkoumat pomocí několika praktických tutoriálů, které vás provedou základy práce s Aspose.TeX.
 
-## Práce se souborovými systémy a výstupem XPS
+## Manipulace se souborovými systémy a výstupem XPS
 
 Nejprve si promluvme o práci se souborovými systémy. Toto je vaše hřiště pro správu dokumentů a konfiguraci vstupních a výstupních procesů. The[Zvládněte souborové systémy a výstup XPS v Aspose.TeX pro .NET](./handle-filesystem-and-xps-output/) tutoriál pokrývá vše od nastavení vašeho kódovacího prostředí až po provedení vaší první TeXové úlohy. Představte si, že byste mohli bez námahy převést dokument LaTeX do formátu XPS – jak skvělé by to bylo? 
 

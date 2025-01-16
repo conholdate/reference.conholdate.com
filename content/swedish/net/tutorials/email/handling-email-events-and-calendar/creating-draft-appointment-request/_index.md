@@ -45,7 +45,7 @@ string subject = "Meeting Appointment Request";
 Ställ in datum, tid och varaktighet för det föreslagna mötet:
 
 ```csharp
-DateTime appointmentDate = DateTime.Now.AddDays(7); // Bokad tid för en vecka från nu
+DateTime appointmentDate = DateTime.Now.AddDays(7); // Tid inplanerad för en vecka från nu
 TimeSpan appointmentDuration = TimeSpan.FromHours(1.5); // 1,5 timmar
 ```
 

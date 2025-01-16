@@ -85,7 +85,7 @@ string contentType = message.Headers["Content-Type"];
 
 ### 记录和分析
 
-日志记录有助于分析或调试电子邮件处理：
+日志有助于分析或调试电子邮件处理：
 
 ```csharp
 foreach (var header in message.Headers)

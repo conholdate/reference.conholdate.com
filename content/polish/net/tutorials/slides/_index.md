@@ -15,3 +15,11 @@ Aspose.Slides dla .NET to najlepsze narzędzie dla programistów, którzy chcą 
 Odkryj pełen potencjał swoich prezentacji dzięki tym kompleksowym samouczkom Aspose.Slides for .NET, które omawiają animacje slajdów i efekty animacji po slajdach.
 ### [Bezproblemowa konwersja prezentacji i przetwarzanie w programie PowerPoint](./presentation-conversion-guide/)
 Dowiedz się, jak bez wysiłku konwertować prezentacje programu PowerPoint za pomocą Aspose.Slides dla .NET, korzystając z naszych przejrzystych samouczków krok po kroku.
+### [Opanowanie manipulacji obrazami i wideo w Aspose.Slides](./mastering-image-and-video-manipulation/)
+Dowiedz się, jak ulepszyć swoje prezentacje, manipulując obrazami i filmami za pomocą Aspose.Slides dla .NET. Ten kompleksowy przewodnik obejmuje samouczki krok po kroku.
+### [Poznaj zaawansowaną personalizację wykresów w Aspose.Slides dla .NET](./master-advanced-chart-customization/)
+Poznaj samouczki Aspose.Slides for .NET, aby tworzyć i dostosowywać wykresy. Poznaj zaawansowane techniki linii trendu, znaczników i oszałamiających wizualizacji danych.
+### [Poznaj dodatkowe funkcje wykresu](./master-additional-chart-features/)
+Odkryj samouczki Aspose.Slides for .NET, aby poznać zaawansowane funkcje wykresów, wyodrębnić dane z wykresów i manipulować danymi serii w prezentacjach PowerPoint.
+### [Wyodrębnij dźwięk i wideo ze slajdów](./extract-audio-and-video/)
+Bez trudu wyodrębniaj dźwięk i obraz z prezentacji PowerPoint za pomocą Aspose.Slides dla .NET dzięki naszym kompleksowym samouczkom krok po kroku.

@@ -75,7 +75,7 @@ Workbook workbook = new Workbook(dataDir + "sample.xlsx");
 workbook.Save(dataDir + "Output.pdf", pdfOptions);
 ```
 
-上面的程式碼轉換了`sample.xlsx`文件到`Output.pdf`在指定的目錄中，套用您先前設定的選項。
+上面的程式碼轉換了`sample.xlsx`文件至`Output.pdf`在指定的目錄中，套用您先前設定的選項。
 
 ## 第四步：確認完成
 轉換完成後，列印一條訊息，表示 PDF 已成功建立。

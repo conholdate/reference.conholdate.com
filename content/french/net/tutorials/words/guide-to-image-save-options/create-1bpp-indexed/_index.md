@@ -82,7 +82,7 @@ Félicitations ! Vous avez converti avec succès un document Word en une image 
 Une image indexée 1Bpp (1 bit par pixel) est un format d'image en noir et blanc où chaque pixel est représenté par un seul bit, soit 0, soit 1. Ce format est très efficace en termes d'espace, ce qui le rend idéal pour l'archivage.
 
 ### Puis-je convertir plusieurs pages d’un document Word à la fois ?
- Oui ! Modifiez simplement le`PageSet` propriété dans le`ImageSaveOptions` pour inclure plusieurs pages ou le configurer pour convertir l'intégralité du document.
+ Oui ! Il suffit de modifier le`PageSet` propriété dans le`ImageSaveOptions` pour inclure plusieurs pages ou le configurer pour convertir l'intégralité du document.
 
 ### Ai-je besoin d'une licence pour utiliser Aspose.Words pour .NET ?
  Oui, une licence est requise pour bénéficier de toutes les fonctionnalités. Vous pouvez obtenir une[licence temporaire ici](https://purchase.aspose.com/temporary-license/).

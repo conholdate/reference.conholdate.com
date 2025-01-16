@@ -96,7 +96,7 @@ foreach (var task in filteredTasks)
 
  네!`Util.And` 클래스를 사용하면 여러 조건을 결합할 수 있으므로 사용자의 요구 사항에 맞춰 복잡한 필터링 논리를 구현할 수 있습니다.
 
-### Aspose.Tasks에 대한 무료 평가판이 있나요?
+### Aspose.Tasks의 무료 평가판이 있나요?
 
  네, 무료 평가판을 다운로드할 수 있습니다.[이 링크](https://releases.aspose.com/).
 
@@ -106,4 +106,4 @@ foreach (var task in filteredTasks)
 
 ### Aspose.Tasks에 대한 지원을 받으려면 어떻게 해야 하나요?
 
- 지원은 Aspose.Tasks 커뮤니티 포럼을 통해 제공되며,[여기](https://forum.aspose.com/c/tasks/15).
+ 지원은 Aspose.Tasks 커뮤니티 포럼을 통해 제공되며, 이에 액세스할 수 있습니다.[여기](https://forum.aspose.com/c/tasks/15).

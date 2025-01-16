@@ -65,7 +65,7 @@ using (TarArchive archive = new TarArchive())
     archive.CreateEntry("lcet10.txt", dataDir + "lcet10.txt");
     archive.SaveLzipped(dataDir + "archive.tar.lz");
 }
-//ExEnd: Сжатие нескольких файлов
+//ExEnd: СжатиеНесколькихФайлов
 ```
 
  Это следует той же структуре, что и предыдущий шаг.`CreateEntry`Метод можно вызывать несколько раз для включения дополнительных файлов в архив.

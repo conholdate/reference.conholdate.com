@@ -102,7 +102,7 @@ multiDocumentSummary.Save(ArtifactsDir + "AI.AiSummarize.Multi.docx");
 
 ## Abschluss
 
-Mit diesem Tutorial sind Sie in der Lage, Dokumente mithilfe von Aspose.Words für .NET- und Google AI-Modelle effektiv zusammenzufassen. Von der Definition von Dokumentverzeichnissen und dem Laden von Dateien bis hin zum Abrufen von API-Schlüsseln und dem Einrichten von Modellinstanzen stellt jeder Schritt sicher, dass Sie große Textmengen effizient verarbeiten und in nur wenigen Codezeilen prägnante Zusammenfassungen erstellen können.
+Mit diesem Tutorial sind Sie in der Lage, Dokumente mithilfe von Aspose.Words für .NET und Google AI-Modellen effektiv zusammenzufassen. Von der Definition von Dokumentverzeichnissen und dem Laden von Dateien bis hin zum Abrufen von API-Schlüsseln und dem Einrichten von Modellinstanzen stellt jeder Schritt sicher, dass Sie große Textmengen effizient verarbeiten und in nur wenigen Codezeilen prägnante Zusammenfassungen erstellen können.
 
 ## Häufig gestellte Fragen
 

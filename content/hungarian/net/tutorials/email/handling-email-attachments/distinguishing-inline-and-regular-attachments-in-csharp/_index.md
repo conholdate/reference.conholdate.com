@@ -100,7 +100,7 @@ Ez az útmutató betekintést nyújtott a beágyazott és a normál mellékletek
  Igen, ellenőrizve a`ContentDisposition` tulajdonsággal könnyedén azonosíthatja a soron belüli mellékleteket, amelyek elhelyezési típusa "inline".
 
 ### Az Aspose.Email alkalmas más programozási nyelvek e-mail mellékleteinek kezelésére?
-Igen, az Aspose.Email több programozási nyelven elérhető, megkönnyítve az e-mail mellékletek kezelését különböző platformokon.
+Igen, az Aspose.Email több programozási nyelven is elérhető, megkönnyítve az e-mail mellékletek kezelését különböző platformokon.
 
 ### Hogyan férhetek hozzá egy soron belüli melléklet tartalmához?
  A tartalmat olyan tulajdonságok használatával érheti el, mint pl`ContentId` és`ContentType`, ahogy a példákban is látható.

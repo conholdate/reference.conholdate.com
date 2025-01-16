@@ -108,4 +108,4 @@ Console.WriteLine("Modified Baseline Work: " + baseline.Work);
 Да, можно получить и проанализировать подробные базовые данные, распределенные по времени.
 
 ### Где я могу получить доступ к поддержке и документации?  
- Посещать[Документация Aspose.Tasks](https://reference.aspose.com/words/net/) или присоединяйтесь к[Форум поддержки Aspose](https://forum.aspose.com/c/words/8) за помощь. 
+ Посещать[Документация Aspose.Tasks](https://reference.aspose.com/words/net/)или присоединяйтесь к[Форум поддержки Aspose](https://forum.aspose.com/c/words/8) за помощь. 

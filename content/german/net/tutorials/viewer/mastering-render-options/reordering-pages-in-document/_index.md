@@ -59,7 +59,7 @@ Geben Sie die Rendering-Optionen für das Dokument an und geben Sie an, wo die A
 PdfViewOptions options = new PdfViewOptions(outputFilePath);
 ```
 
-## Schritt 5: Reihenfolge der Seiten festlegen
+## Schritt 5: Definieren Sie die Reihenfolge der Seiten
 
 Übergeben Sie die Seitenzahlen in der gewünschten Reihenfolge für die Darstellung. So vertauschen Sie beispielsweise die erste und die zweite Seite:
 

@@ -108,4 +108,4 @@ Ja, die API ermöglicht dynamische und automatisierte Basislinienänderungen pro
 Ja, es können detaillierte zeitphasenbasierte Basisdaten abgerufen und analysiert werden.
 
 ### Wo kann ich auf Support und Dokumentation zugreifen?  
- Besuchen[Aspose.Tasks-Dokumentation](https://reference.aspose.com/words/net/) oder treten Sie dem[Aspose Support Forum](https://forum.aspose.com/c/words/8) um Hilfe. 
+ Besuchen[Aspose.Tasks-Dokumentation](https://reference.aspose.com/words/net/)oder treten Sie dem[Aspose Support Forum](https://forum.aspose.com/c/words/8) um Hilfe. 

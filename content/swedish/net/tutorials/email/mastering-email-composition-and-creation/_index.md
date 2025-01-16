@@ -20,13 +20,13 @@ Föreställ dig att du är ansvarig för att skicka hundratals e-postmeddelanden
 
  Att bygga e-postmeddelanden programmatiskt kan låta knepigt, men Aspose.Email gör det lätt som en plätt. Den här handledningen dyker djupt ner i att konstruera e-postmeddelanden i C#, som täcker formatering, bilagor och till och med att skicka e-postmeddelanden direkt. Oavsett om du arbetar med nyhetsbrev eller transaktionsmeddelanden, förenklar denna guide processen:[Konstruera ett nytt e-postmeddelande i C#](./construct-a-new-mail-message-in-csharp/).
 
-## Lägga till HTML-brödtext i e-postmeddelanden  
+## Lägger till HTML-brödtext i e-postmeddelanden  
 
 Varför nöja sig med vanlig text när du kan imponera dina mottagare med visuellt tilltalande HTML-e-postmeddelanden? Med Aspose.Email kan du skapa professionella, anpassade meddelanden. Lägg till interaktiva element som knappar och bädda in bilder för att få dina e-postmeddelanden att dyka upp. Är du redo att lära dig hur? Kolla in den här guiden:[Lägg till HTML-brödtext i e-postmeddelanden - C# Exempel](./add-html-body-to-emails-csharp-example/).
 
 ## Konvertera MSG-filer till TNEF-format med Aspose.Email  
 
- Om du någonsin har hanterat e-postformat är du förmodligen medveten om att vissa e-postklienter fungerar bättre med vissa filtyper. Ett sådant format är TNEF (Transport Neutral Encapsulation Format), som ofta används av Microsoft Outlook. Denna handledning tar upp hur man konverterar MSG-filer till TNEF-format med Aspose.Email för .NET. Du lär dig hur du laddar MSG-filer, bearbetar dem och konverterar dem till ett TNEF-format. Denna funktion är viktig om du arbetar med äldre system eller behöver säkerställa kompatibilitet mellan olika e-postplattformar. Lär dig hur du gör det steg för steg här:[Konvertera MSG-filer till TNEF-format med Aspose.Email](./converting-msg-files-to-tnef-format/).
+ Om du någonsin har hanterat e-postformat är du förmodligen medveten om att vissa e-postklienter fungerar bättre med vissa filtyper. Ett sådant format är TNEF (Transport Neutral Encapsulation Format), som ofta används av Microsoft Outlook. Denna handledning tar upp hur man konverterar MSG-filer till TNEF-format med Aspose.Email för .NET. Du kommer att lära dig hur du laddar MSG-filer, bearbetar dem och konverterar dem till ett TNEF-format. Denna funktion är viktig om du arbetar med äldre system eller behöver säkerställa kompatibilitet mellan olika e-postplattformar. Lär dig hur du gör det steg för steg här:[Konvertera MSG-filer till TNEF-format med Aspose.Email](./converting-msg-files-to-tnef-format/).
 
 ## Konfigurera e-posthuvuden i C# med Aspose.Email  
 

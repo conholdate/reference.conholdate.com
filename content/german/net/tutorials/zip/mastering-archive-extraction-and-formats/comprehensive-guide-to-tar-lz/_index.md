@@ -41,7 +41,7 @@ string dataDir = "YourDocumentDirectoryPath"; // Ersetzen Sie es durch Ihren tat
 Lassen Sie uns eine einzelne Datei in ein TarLz-Format komprimieren. Unten finden Sie einen Codeausschnitt, um dies zu erreichen:
 
 ```csharp
-//ExStart: EinzelneDatei komprimieren
+//ExStart: Einzelne Datei komprimieren
 using (TarArchive archive = new TarArchive())
 {
     archive.CreateEntry("alice29.txt", dataDir + "alice29.txt");

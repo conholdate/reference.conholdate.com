@@ -397,7 +397,7 @@ Az alábbiakban néhány hasznos forrásra mutató hivatkozások találhatók, a
 
 **Welcome to the Aspose.Font for .NET**
 
-Az Aspose.Font egy .NET betűkészlet-betöltő és rajzoló könyvtár. Több elülső formátumot támogat, mint például a TrueType (TrueType gyűjteményekkel), a CFF, az OpenType és a Type1. Az API gazdag funkcionalitást biztosít a betűtípusok betöltéséhez/mentéséhez, és információkat biztosít az adatstruktúráiról, valamint az összes betűtípus által támogatott karakterjelről. Kódolási információkat is biztosít az összes betűtípushoz, amely a karakterkódok és a karakterjel-azonosítók közötti leképezést jelenti. Renderelő alrendszere segít a végfelhasználóknak a kívánt jelkép vagy szöveg megjelenítésében. Speciális karakterjelek előállíthatók az interfész egyszerű grafikus funkcionalitással (pont mozgatása, vonal rajzolása, görbe) megvalósításával.
+Az Aspose.Font egy .NET betűkészlet-betöltő és rajzoló könyvtár. Több elülső formátumot támogat, mint például a TrueType (TrueType gyűjtőkkel), CFF, OpenType és Type1. Az API gazdag funkcionalitást biztosít a betűtípusok betöltéséhez/mentéséhez, és információkat biztosít az adatstruktúráiról, valamint az összes betűtípus által támogatott karakterjelről. Kódolási információkat is biztosít az összes betűtípushoz, amely a karakterkódok és a karakterjel-azonosítók közötti leképezést jelenti. Renderelő alrendszere segít a végfelhasználóknak a kívánt jelkép vagy szöveg megjelenítésében. Speciális karakterjelek előállíthatók az interfész megvalósításával egyszerű grafikus funkciókkal (pont mozgatása, vonal rajzolása, görbe).
 
 {{% /alert %}} 
 

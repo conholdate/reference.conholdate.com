@@ -90,7 +90,7 @@ Digitální podpis je elektronický podpis, který ověřuje identitu podepisuj�
 ### Proč potřebuji digitální certifikát?
 Digitální certifikát je nezbytný pro vytvoření digitálního podpisu. Obsahuje veřejný klíč a identitu podepisujícího, což umožňuje ostatním ověřit podpis.
 
-### Mohu k podpisu použít jakýkoli soubor .pfx?
+### Mohu pro podepisování použít jakýkoli soubor .pfx?
 Ano, pokud soubor .pfx obsahuje platný digitální certifikát a máte heslo pro přístup k němu.
 
 ### Je Aspose.Words for .NET zdarma k použití?

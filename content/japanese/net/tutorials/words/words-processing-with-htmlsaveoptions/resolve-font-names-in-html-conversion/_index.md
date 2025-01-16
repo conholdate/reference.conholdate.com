@@ -17,7 +17,7 @@ url: /ja/net/tutorials/words/words-processing-with-htmlsaveoptions/resolve-font-
 
 1. Aspose.Words for .NET: ダウンロード[ここ](https://releases.aspose.com/words/net/).
 2. 有効なライセンス: ライセンスを購入する[ここ](https://purchase.aspose.com/buy)または一時免許を取得する[ここ](https://purchase.aspose.com/temporary-license/).
-3. C# および .NET の基礎知識: C# の基本的なプログラミング概念を理解していることが前提となります。
+3. C# と .NET の基礎知識: C# の基本的なプログラミング概念を理解していることが前提となります。
 4. Visual Studio: .NET フレームワークをサポートするどのバージョンでも動作します。
 
 前提条件が整ったので、早速行動に移しましょう。

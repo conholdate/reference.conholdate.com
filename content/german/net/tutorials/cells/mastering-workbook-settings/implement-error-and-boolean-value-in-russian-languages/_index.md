@@ -2,7 +2,7 @@
 title: Implementieren Sie Fehler und Boolesche Werte in Russisch oder anderen Sprachen
 linktitle: Implementieren Sie Fehler und Boolesche Werte in Russisch oder anderen Sprachen
 second_title: Aspose.Cells .NET Excel-Verarbeitungs-API
-description: Entdecken Sie, wie Sie mit Aspose.Cells für .NET eine benutzerdefinierte Lokalisierung für Fehler- und Boolesche Werte in Russisch implementieren. Dieses umfassende Tutorial führt Sie durch die Erstellung einer benutzerdefinierten Klasse für Globalisierungseinstellungen.
+description: Entdecken Sie, wie Sie mit Aspose.Cells für .NET eine benutzerdefinierte Lokalisierung für Fehler- und Boolesche Werte in Russisch implementieren. Dieses umfassende Tutorial führt Sie durch die Erstellung einer benutzerdefinierten Globalisierungseinstellungsklasse.
 type: docs
 weight: 12
 url: /de/net/tutorials/cells/mastering-workbook-settings/implement-error-and-boolean-value-in-russian-languages/

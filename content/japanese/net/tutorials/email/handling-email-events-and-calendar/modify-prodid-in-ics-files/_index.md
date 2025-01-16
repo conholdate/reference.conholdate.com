@@ -100,7 +100,7 @@ app.Save(dataDir + "ModifiedICSFile.ics", saveOptions);
 
 ### 結論
 
-これで、`ProdID`Aspose.Email for .NET を使用して ICS ファイルでカレンダー イベントを作成できます。これらの手順に従うと、カスタマイズされたカレンダー イベントを簡単に作成できます。Aspose.Email の柔軟性と強力な機能により、ICS ファイルなどの管理に最適です。
+これで、`ProdID`Aspose.Email for .NET を使用して ICS ファイルでカレンダー イベントを作成できます。これらの手順に従うことで、カスタマイズされたカレンダー イベントを簡単に作成できます。Aspose.Email の柔軟性と強力な機能により、ICS ファイルなどの管理に最適です。
 
 ## よくある質問
 

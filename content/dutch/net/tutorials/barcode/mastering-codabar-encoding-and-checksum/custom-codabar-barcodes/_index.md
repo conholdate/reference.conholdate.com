@@ -72,7 +72,7 @@ gen.Parameters.Barcode.Codabar.CodabarStartSymbol = CodabarSymbol.B;
 gen.Parameters.Barcode.Codabar.CodabarStopSymbol = CodabarSymbol.B;
 ```
 
-### Start C en Stop C:
+### Start C en stop C:
 
 ```csharp
 gen.Parameters.Barcode.Codabar.CodabarStartSymbol = CodabarSymbol.C;
@@ -103,7 +103,7 @@ Hiermee worden vier verschillende barcode-afbeeldingen gemaakt met de aangegeven
 
 ## Conclusie
 
-Gefeliciteerd! U hebt nu onder de knie hoe u Codabar-barcodes met start- en stoptekens kunt genereren met Aspose.BarCode voor .NET. Deze vaardigheid is van onschatbare waarde voor een reeks toepassingen, van voorraadbeheer tot oplossingen voor de gezondheidszorg. Met deze kennis kunt u efficiënt aangepaste barcodes maken die voldoen aan uw specifieke behoeften.
+Gefeliciteerd! U hebt nu onder de knie hoe u Codabar-barcodes genereert met start- en stoptekens met behulp van Aspose.BarCode voor .NET. Deze vaardigheid is van onschatbare waarde voor een reeks toepassingen, van voorraadbeheer tot oplossingen voor de gezondheidszorg. Met deze kennis kunt u efficiënt aangepaste barcodes maken die voldoen aan uw specifieke behoeften.
 
 ## Veelgestelde vragen
 

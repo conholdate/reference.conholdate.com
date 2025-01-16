@@ -13,7 +13,7 @@ Als u HTML-documenten naadloos wilt manipuleren, is Aspose.HTML voor .NET een kr
 
 ## Aan de slag met tutorials
 
- Onze tutorials behandelen een verscheidenheid aan onderwerpen, van de basis van HTML-conversies tot meer geavanceerde functies van Aspose.HTML. Voor beginners raden we aan om te beginnen met onze[HTML-extensies en conversies onder de knie krijgen](./mastering-html-extensions-and-conversions/) tutorial. Deze gids helpt u begrijpen hoe u HTML-bestanden naar GIF's en PDF's kunt converteren, en toont de eenvoud en efficiëntie van de bibliotheek. 
+ Onze tutorials behandelen een verscheidenheid aan onderwerpen, van de basisprincipes van HTML-conversies tot meer geavanceerde functies van Aspose.HTML. Voor beginners raden we aan om te beginnen met onze[HTML-extensies en conversies onder de knie krijgen](./mastering-html-extensions-and-conversions/) tutorial. Deze gids helpt u begrijpen hoe u HTML-bestanden naar GIF's en PDF's kunt converteren, en toont de eenvoud en efficiëntie van de bibliotheek. 
 
 Hoe vaak heb je geworsteld met bestandsformaten, alleen maar om gefrustreerd te raken? Met deze tutorials leer je eenvoudige technieken die je uren werk kunnen besparen. Stel je voor dat je een lange webpagina in een paar klikken omzet in een nette PDF. Klinkt geweldig, toch? Het draait allemaal om het benutten van de mogelijkheden van Aspose om je workflow te stroomlijnen.
 

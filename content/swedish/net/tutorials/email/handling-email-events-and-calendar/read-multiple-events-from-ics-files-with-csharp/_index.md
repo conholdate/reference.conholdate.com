@@ -20,7 +20,7 @@ ICS-filer är allmänt erkända för sin förmåga att representera kalenderhän
 Innan du går in i implementeringen, se till att du har följande inställning:
 
 - Visual Studio eller någon C#-utvecklingsmiljö.
--  Aspose.Email för .NET-biblioteket. Du kan ladda ner den från[Aspose hemsida](https://releases.aspose.com/email/net/).
+-  Aspose.Email för .NET-bibliotek. Du kan ladda ner den från[Aspose hemsida](https://releases.aspose.com/email/net/).
 
 ## Laddar ICS-filer med Aspose.Email
 

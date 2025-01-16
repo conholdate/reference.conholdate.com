@@ -108,4 +108,4 @@ Ja, API:et tillåter dynamiska och automatiserade baslinjeändringar programmati
 Ja, detaljerad tidsfasbaslinjedata kan hämtas och analyseras.
 
 ### Var kan jag få tillgång till support och dokumentation?  
- Besök[Aspose.Tasks Dokumentation](https://reference.aspose.com/words/net/) eller gå med i[Aspose Support Forum](https://forum.aspose.com/c/words/8) för hjälp. 
+ Besök[Aspose.Tasks Dokumentation](https://reference.aspose.com/words/net/)eller gå med i[Aspose Support Forum](https://forum.aspose.com/c/words/8) för hjälp. 

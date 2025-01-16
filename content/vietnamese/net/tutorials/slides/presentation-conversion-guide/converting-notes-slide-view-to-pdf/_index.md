@@ -94,4 +94,4 @@ Có, Aspose.Slides for .NET được thiết kế để xử lý hiệu quả c�
  Chắc chắn rồi! Bạn có thể chọn các slide cụ thể bằng cách sử dụng`Slides` bộ sưu tập trong`Presentation` lớp học.
 
 ### Câu hỏi 5: Tôi có thể tìm thêm ví dụ ở đâu?
- Ghé thăm[Aspose.Slides cho Tài liệu .NET](https://reference.aspose.com/slides/net/)để biết thêm ví dụ và trường hợp sử dụng.
+ Ghé thăm[Aspose.Slides cho Tài liệu .NET](https://reference.aspose.com/slides/net/) để biết thêm ví dụ và trường hợp sử dụng.

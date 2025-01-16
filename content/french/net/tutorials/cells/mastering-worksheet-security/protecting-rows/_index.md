@@ -9,7 +9,7 @@ url: /fr/net/tutorials/cells/mastering-worksheet-security/protecting-rows/
 ---
 ## Introduction
 
-Travailler avec des fichiers Excel par programmation nécessite souvent non seulement la manipulation des données, mais également leur protection. La protection de lignes spécifiques dans une feuille de calcul peut être cruciale pour protéger les informations sensibles ou empêcher les modifications accidentelles. Dans ce didacticiel, nous verrons comment protéger les lignes d'une feuille de calcul Excel à l'aide d'Aspose.Cells pour .NET. Nous vous guiderons à travers les étapes nécessaires, de la configuration de votre environnement à la mise en œuvre simple des fonctionnalités de protection des lignes.
+Travailler avec des fichiers Excel par programmation nécessite souvent non seulement la manipulation des données, mais également leur protection. La protection de lignes spécifiques dans une feuille de calcul peut être cruciale pour protéger les informations sensibles ou empêcher les modifications accidentelles. Dans ce didacticiel, nous découvrirons comment protéger les lignes d'une feuille de calcul Excel à l'aide d'Aspose.Cells pour .NET. Nous vous guiderons à travers les étapes nécessaires, de la configuration de votre environnement à la mise en œuvre simple des fonctionnalités de protection des lignes.
 
 ## Prérequis
 Avant de commencer, assurez-vous de disposer des éléments suivants :

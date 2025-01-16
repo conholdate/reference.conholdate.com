@@ -32,7 +32,7 @@ Nu när du är klar är det dags att importera de nödvändiga paketen till ditt
 
 ### Lägg till referens till Aspose.PDF
 
- Högerklicka på "Beroenden" i din projektmapp i Solution Explorer. Välj "Hantera NuGet-paket", sök efter`Aspose.PDF`, och installera den senaste versionen. Detta ger dig alla verktyg du behöver för att skapa och manipulera PDF-filer.
+ Högerklicka på "Beroenden" i din projektmapp i Solution Explorer. Välj "Hantera NuGet-paket", sök efter`Aspose.PDF`, och installera den senaste tillgängliga versionen. Detta ger dig alla verktyg du behöver för att skapa och manipulera PDF-filer.
 
 ### Importera namnområden
 

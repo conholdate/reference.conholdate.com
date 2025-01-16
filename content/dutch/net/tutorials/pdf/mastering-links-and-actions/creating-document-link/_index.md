@@ -9,7 +9,7 @@ url: /nl/net/tutorials/pdf/mastering-links-and-actions/creating-document-link/
 ---
 ## Invoering
 
-Navigeren door lange PDF-documenten kan vaak aanvoelen als ronddwalen in een doolhof. Het maken van links in PDF's kan de gebruikerservaring aanzienlijk verbeteren door soepele navigatie mogelijk te maken. In deze gids onderzoeken we hoe u documentlinks kunt maken met Aspose.PDF voor .NET, een robuuste bibliotheek die is ontworpen voor efficiënte PDF-manipulatie. Of u nu een rapport, een e-book of interactieve content ontwikkelt, het toevoegen van links kan de bruikbaarheid aanzienlijk verbeteren.
+Navigeren door lange PDF-documenten kan vaak aanvoelen als ronddwalen in een doolhof. Het maken van links in PDF's kan de gebruikerservaring aanzienlijk verbeteren door soepele navigatie mogelijk te maken. In deze handleiding onderzoeken we hoe u documentlinks kunt maken met Aspose.PDF voor .NET, een robuuste bibliotheek die is ontworpen voor efficiënte PDF-manipulatie. Of u nu een rapport, een e-book of interactieve content ontwikkelt, het toevoegen van links kan de bruikbaarheid aanzienlijk verbeteren.
 
 ## Vereisten
 

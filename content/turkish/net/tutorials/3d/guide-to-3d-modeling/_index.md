@@ -13,7 +13,7 @@ url: /tr/net/tutorials/3d/guide-to-3d-modeling/
 
 ## İlkel 3B Modeller Oluşturun
 
- Her sanatçının sağlam bir temele ihtiyacı vardır ve ilkel şekiller yaratmaktan daha iyi bir başlangıç yolu ne olabilir? Eğitimimizde[ilkel 3D modeller oluşturma](./create-primitive-3d-modeling/), kutular, küreler ve silindirler gibi temel nesneleri nasıl inşa edeceğinizi öğreneceksiniz. Bu şekiller daha karmaşık modellerin yapı taşlarıdır ve yeni başlayan herkes için mükemmeldir.
+ Her sanatçının sağlam bir temele ihtiyacı vardır ve ilkel şekiller yaratmaktan daha iyi bir başlangıç yolu ne olabilir? Eğitimimizde[ilkel 3D modeller oluşturma](./create-primitive-3d-modeling/)kutular, küreler ve silindirler gibi temel nesneleri nasıl inşa edeceğinizi öğreneceksiniz. Bu şekiller daha karmaşık modellerin yapı taşlarıdır ve yeni başlayan herkes için mükemmeldir.
 
 Sizi adım adım süreçte yönlendireceğiz, her bir eylemi kolayca takip edebilmeniz için parçalara ayıracağız. Bir ev inşa ettiğinizi düşünün. İlk olarak, basit bloklarla temeli atacaksınız. Benzer şekilde, eğitimimizde, ilkel şekillerle zemini hazırlayacaksınız ve daha sonra bunları dokular ve renklerle özelleştirirken yaratıcılığınızın gelişmesine izin vereceksiniz. 
 

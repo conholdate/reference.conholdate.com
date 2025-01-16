@@ -14,7 +14,7 @@ Pokud jde o programovou správu souborů aplikace Excel, Aspose.Cells for .NET j
 ## Předpoklady
 Než se ponoříte do kódu, ujistěte se, že máte následující nastavení:
 1. Visual Studio: Ujistěte se, že máte na počítači nainstalované Visual Studio pro kódování.
-2. Aspose.Cells for .NET: Tuto knihovnu musíte mít nainstalovanou. Pokud jste tak neučinili, můžete[stáhněte si jej zde](https://releases.aspose.com/cells/net/).
+2. Aspose.Cells for .NET: Tuto knihovnu musíte mít nainstalovanou. Pokud jste tak neučinili, můžete[stáhněte si to zde](https://releases.aspose.com/cells/net/).
 3. .NET Framework: Užitečná bude znalost .NET frameworku a C#.
 
 Jakmile budete mít vše připraveno, vrhneme se na kódování!
@@ -52,7 +52,7 @@ wb.CustomXmlParts.Add(btsData, btsSchema);
 wb.CustomXmlParts.Add(btsData, btsSchema);
 wb.CustomXmlParts.Add(btsData, btsSchema);
 ```
-Tento fragment kódu přidává čtyři identické vlastní části XML. To si můžete přizpůsobit podle svých požadavků.
+Tento fragment kódu přidává čtyři identické vlastní části XML. Můžete si to přizpůsobit podle svých požadavků.
 
 ## Krok 4: Přiřaďte jedinečná ID vlastním částem XML
 Ke každé části XML přiřaďte jedinečné identifikátory, které usnadní pozdější vyhledávání:
@@ -105,7 +105,7 @@ V tomto článku jsme prozkoumali, jak přidat vlastní části XML do sešitu a
 Aspose.Cells je výkonná knihovna .NET, která umožňuje vývojářům vytvářet, manipulovat a převádět soubory aplikace Excel bez nutnosti instalace aplikace Microsoft Excel.
 
 ### Mohu používat Aspose.Cells zdarma?
- Ano! Můžete začít s bezplatnou zkušební verzí. Jen[stáhněte si jej zde](https://releases.aspose.com/).
+ Ano! Můžete začít s bezplatnou zkušební verzí. Jen[stáhněte si to zde](https://releases.aspose.com/).
 
 ### Je možné do sešitu přidat více vlastních částí XML?
 Absolutně! Můžete přidat tolik vlastních částí XML, kolik potřebujete, každou s jedinečným ID pro snadný přístup.
@@ -137,7 +137,7 @@ wb.CustomXmlParts.Add(btsData, btsSchema);
 wb.CustomXmlParts.Add(btsData, btsSchema);
 wb.CustomXmlParts.Add(btsData, btsSchema);
 ```
-Tento fragment kódu přidá do sešitu čtyři identické vlastní části XML. Můžete si to přizpůsobit podle svých požadavků.
+Tento fragment kódu přidá do sešitu čtyři identické vlastní části XML. To si můžete přizpůsobit podle svých požadavků.
 ## Krok 4: Přiřaďte ID vlastním částem XML
 Nyní, když jsme přidali naše části XML, dejte každé z nich jedinečný identifikátor. Toto ID nám pomůže později načíst části XML.
 ```csharp
@@ -185,7 +185,7 @@ tomto článku jsme prozkoumali, jak přidat vlastní části XML do sešitu apl
 ### Co je Aspose.Cells?  
 Aspose.Cells je robustní knihovna .NET, která umožňuje vývojářům vytvářet, manipulovat a převádět soubory aplikace Excel bez nutnosti instalace aplikace Microsoft Excel.
 ### Mohu používat Aspose.Cells zdarma?  
- Ano! Můžete začít s bezplatnou zkušební verzí. Jen[stáhněte si jej zde](https://releases.aspose.com/).
+ Ano! Můžete začít s bezplatnou zkušební verzí. Jen[stáhněte si to zde](https://releases.aspose.com/).
 ### Je možné do sešitu přidat více vlastních částí XML?  
 Absolutně! Můžete přidat tolik vlastních částí XML, kolik potřebujete, a každé může být přiřazeno jedinečné ID pro snadný přístup.
 ### Jak mohu získat části XML, když neznám ID?  

@@ -166,7 +166,7 @@ En XForm är en återanvändbar form som kapslar in grafiskt innehåll, vilket g
  För att justera storleken på bilden, ändra parametrarna inom`ConcatenateMatrix`operator, som styr skalningstransformationen av innehållet som ritas. Till exempel att ändra skalfaktorerna från`200` till`150` kommer att ändra storlek på bilden till 75 % av dess ursprungliga mått.
 
 ### Kan jag lägga till text tillsammans med bilder i en XForm?
- Ja! Du kan lägga till text till din XForm genom att använda textritningsoperatorer som finns tillgängliga i Aspose.PDF-biblioteket, som t.ex.`TextFragment`. Detta innebär att lägga till text och definiera dess position och stil, precis som du gör för bilder.
+ Ja! Du kan lägga till text i ditt XForm genom att använda textritningsoperatorer som finns tillgängliga i Aspose.PDF-biblioteket, som t.ex.`TextFragment`. Detta innebär att lägga till text och definiera dess position och stil, precis som du gör för bilder.
 
 ### Är Aspose.PDF gratis att använda?
  Aspose.PDF erbjuder en gratis provperiod, så att du kan utforska dess funktioner; Fortsatt användning efter denna provperiod kräver dock en köpt licens. För detaljerade priser och licensalternativ, besök[här](https://purchase.aspose.com/buy).

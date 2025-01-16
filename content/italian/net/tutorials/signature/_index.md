@@ -4,7 +4,7 @@ linktitle: GroupDocs.Signature per esercitazioni .NET
 type: docs
 weight: 10
 url: /it/net/tutorials/signature/
-description: Esplora tutorial completi sull'utilizzo di GroupDocs.Signature per .NET. Impara a implementare firme digitali, personalizzare flussi di lavoro e migliorare la sicurezza dei documenti con guide chiare e dettagliate.
+description: Esplora tutorial completi sull'uso di GroupDocs.Signature per .NET. Impara a implementare firme digitali, personalizzare flussi di lavoro e migliorare la sicurezza dei documenti con guide chiare e dettagliate.
 is_root: true
 ---
 

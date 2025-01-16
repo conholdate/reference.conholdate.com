@@ -21,7 +21,7 @@ Aspose.PDF for .NET Tutorials는 Aspose.PDF for .NET 라이브러리를 마스�
 | [.NET용 Aspose.PDF에서 북마크 마스터링](./mastering-bookmarks/) | Aspose.PDF for .NET으로 PDF 파일에서 북마크를 관리하는 기술을 마스터하세요. 저희 튜토리얼은 북마크 추가부터 제거까지 매끄럽게 모든 것을 다룹니다. |
 | [Aspose.PDF for .NET을 사용하여 PDF 양식 마스터링](./mastering-pdf-forms/) | .NET용 Aspose.PDF 튜토리얼을 통해 PDF 양식을 마스터하세요. 도구 설명을 추가하고, 필드를 채우고, 대화형 구성 요소를 만드는 방법을 알아보세요. |
 | [.NET용 Aspose.PDF에서 그래프 프로그래밍 마스터링](./mastering-graph-programming/) | 튜토리얼 목록을 통해 .NET용 Aspose.PDF를 마스터하세요. PDF에서 그라데이션, 채워진 사각형, 선과 같은 그리기 향상을 배우세요. 단계별 가이드가 제공됩니다. |
-| [PDF 문서의 제목 마스터링](./mastering-headings/) | 기본 사용부터 고급 기능까지 포괄적인 튜토리얼을 통해 Aspose.PDF for .NET의 잠재력을 활용하세요. PDF 조작 기술을 향상하세요. |
+| [PDF 문서의 제목 마스터링](./mastering-headings/) | 기본 사용에서 고급 기능까지 포괄적인 튜토리얼을 통해 Aspose.PDF for .NET의 잠재력을 활용하세요. PDF 조작 기술을 향상하세요. |
 | [PDF 파일에서 이미지 처리 마스터링](./mastering-image-Processing/) | .NET 튜토리얼을 위한 Aspose.PDF를 탐색하세요. 쉽게 따라할 수 있는 SEO 최적화된 가이드와 코드 예제를 통해 PDF 파일에 이미지를 추가, 변환, 관리하는 방법을 마스터하세요. |
 | [PDF 문서의 링크 및 작업 마스터링](./mastering-links-and-actions/) | Aspose.PDF for .NET으로 PDF의 상호 작용을 극대화하세요. 단계별 튜토리얼로 하이퍼링크를 추가하고 탐색을 강화하는 방법을 알아보세요. |
 | [.NET용 Aspose.PDF에서 연산자 마스터링](./mastering-operators/) | .NET용 Aspose.PDF 튜토리얼을 살펴보고 XForms, PDF 연산자 및 그래픽 개체 제거에 대한 실용적인 가이드를 통해 PDF 조작을 마스터하세요. |

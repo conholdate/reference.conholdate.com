@@ -129,4 +129,4 @@ Aspose.Cells は、Excel ファイルのプログラムによる操作を可能�
 Aspose.Cellsに関する詳細と方法については、[ドキュメントページ](https://reference.aspose.com/cells/net/).
 
 ### 問題やバグが発生した場合はどうなりますか?
- Aspose.Cellsの使用中に問題が発生した場合は、専用のサポートセンターでサポートを受けることができます。[サポートフォーラム](https://forum.aspose.com/c/cells/9).
+ Aspose.Cellsの使用中に問題が発生した場合は、専用のヘルプセンターでサポートを受けることができます。[サポートフォーラム](https://forum.aspose.com/c/cells/9).

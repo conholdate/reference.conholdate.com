@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/pdf/master-pdf-document-programming/adding-remove-ja
 ---
 ## 介紹
 
-在本綜合指南中，我們將深入研究 Aspose.PDF for .NET 的世界，並充分發揮其為 PDF 文件添加自訂 JavaScript 功能的潛力。這項強大的功能可讓您合併動態元素、增強使用者體驗並簡化工作流程。
+在這份綜合指南中，我們將深入研究 Aspose.PDF for .NET 的世界，並充分發揮其為 PDF 文件添加自訂 JavaScript 功能的潛力。這項強大的功能可讓您合併動態元素、增強使用者體驗並簡化工作流程。
 
 ## 先決條件
 

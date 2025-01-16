@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/words/word-document-saving-options/
 ---
 ## 介紹
 
-使用 Word 文件時，調整儲存選項可以帶來截然不同的結果。無論是保護您的檔案、保持圖像質量，還是利用圖片項目符號發揮創意，Aspose.Words for .NET 都提供了一套教學來幫助您輕鬆自訂儲存選項。讓我們深入了解將徹底改變您儲存 Word 文件方式的前三個教學課程！  
+使用 Word 文件時，調整儲存選項可以帶來截然不同的效果。無論是保護您的檔案、保持圖像質量，還是利用圖片項目符號發揮創意，Aspose.Words for .NET 都提供了一套教學來幫助您輕鬆自訂儲存選項。讓我們深入了解將徹底改變您儲存 Word 文件方式的前三個教學課程！  
 
 ## 使用密碼保護加密文檔  
 是否擔心有人偷看您的文件？透過密碼保護告別未經授權的存取！本教學向您展示如何使用 Aspose.Words for .NET 加密 Word 檔案。最後，您將能夠像專業人士一樣鎖定您的文件。準備好讓您的文件堅不可摧了嗎？[閱讀更多](./encrypt-document-with-password-protect/)  

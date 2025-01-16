@@ -13,7 +13,7 @@ fejlécek és láblécek az Excel-táblázatok alapvető elemei, amelyek kritiku
 
 ## Előfeltételek
 
-Búvárkodás előtt győződjön meg arról, hogy rendelkezik a következőkkel:
+A merülés előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
 1.  Aspose.Cells for .NET: Töltse le és telepítse a webhelyről[itt](https://releases.aspose.com/cells/net/).
 2. IDE beállítása: Használja a Visual Studio-t vagy a kívánt IDE-t a .NET keretrendszerrel.

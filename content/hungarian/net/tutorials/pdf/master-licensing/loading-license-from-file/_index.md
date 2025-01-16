@@ -39,7 +39,7 @@ using System.Text;
 
 ## 1. lépés: Inicializálja a licencobjektumot  
 
- Az első lépés egy példány létrehozása a`License` osztály. Ez az objektum megkönnyíti a licenc alkalmazását az Aspose.PDF könyvtárra.  
+ Az első lépés a példány létrehozása a`License` osztály. Ez az objektum megkönnyíti a licenc alkalmazását az Aspose.PDF könyvtárra.  
 
 ```csharp
 Aspose.Pdf.License license = new Aspose.Pdf.License();

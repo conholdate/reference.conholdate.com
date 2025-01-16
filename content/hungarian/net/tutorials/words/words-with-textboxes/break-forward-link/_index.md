@@ -18,7 +18,7 @@ Mielőtt belemerülnénk, győződjünk meg arról, hogy mindennel rendelkezik, 
 1.  Aspose.Words for .NET Library: Győződjön meg arról, hogy a legújabb verzióval rendelkezik.[Töltse le itt](https://releases.aspose.com/words/net/).
 2. Fejlesztői környezet: A .NET-kompatibilis környezet, például a Visual Studio tökéletesen működik.
 3. Alapvető C# ismeretek: A C# szintaxis ismerete segít a kódban való egyszerű navigálásban.
-4. Word-dokumentum minta: Noha a semmiből készítünk egyet, egy mintadokumentum hasznos lehet a teszteléshez.
+4. Word-dokumentum minta: Bár a semmiből készítünk egyet, egy mintadokumentum hasznos lehet a teszteléshez.
 
 ## A szükséges névterek importálása
 

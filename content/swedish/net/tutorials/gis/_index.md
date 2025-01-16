@@ -1,5 +1,5 @@
 ---
-title: Omfattande handledning och exempel på Aspose.GIS för .NET
+title: Omfattande handledningar och exempel på Aspose.GIS för .NET
 linktitle: Aspose.GIS för .NET Tutorials
 type: docs
 weight: 10

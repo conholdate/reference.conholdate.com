@@ -13,7 +13,7 @@ Stai cercando di migliorare il tuo gioco di automazione Excel con .NET? Aspose.C
 
 ## Aggiungere e cancellare interruzioni di pagina  
 
-Immagina di provare a stampare un foglio Excel formattato alla perfezione e di vedere le interruzioni di pagina ovunque! Con Aspose.Cells, puoi facilmente aggiungere interruzioni di pagina orizzontali e verticali per garantire un layout di stampa pulito. Devi ricominciare da capo? Puoi cancellare tutte le interruzioni di pagina in una volta sola! Queste guide ti guidano attraverso ogni passaggio con frammenti di codice dettagliati.  
+Immagina di provare a stampare un foglio Excel formattato alla perfezione e di vedere le interruzioni di pagina ovunque! Con Aspose.Cells, puoi aggiungere facilmente interruzioni di pagina orizzontali e verticali per garantire un layout di stampa pulito. Devi ricominciare da capo? Puoi cancellare tutte le interruzioni di pagina in una volta sola! Queste guide ti guidano attraverso ogni passaggio con frammenti di codice dettagliati.  
 
 [Aggiunta di interruzioni di pagina nel foglio di lavoro utilizzando Aspose.Cells](./adding-page-breaks/)  
 [Cancella le interruzioni di pagina dal foglio di lavoro utilizzando Aspose.Cells](./clear-page-breaks/)  

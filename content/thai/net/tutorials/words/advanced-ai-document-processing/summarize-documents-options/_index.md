@@ -85,7 +85,7 @@ Document combinedSummary = model.Summarize(new Document[] { firstDoc, secondDoc 
 combinedSummary.Save(ArtifactsDir + "MultiDocumentSummary.docx");
 ```
 
- โค้ดนี้จะรวมและสรุป`firstDoc` และ`secondDoc`เพื่อให้มีภาพรวมที่กว้างขึ้นเกี่ยวกับเนื้อหาในเอกสารทั้งสองฉบับ
+ โค้ดนี้จะรวมและสรุป`firstDoc` และ`secondDoc`ซึ่งทำให้มีภาพรวมที่กว้างขึ้นเกี่ยวกับเนื้อหาในเอกสารทั้งสองฉบับ
 
 ## บทสรุป
 

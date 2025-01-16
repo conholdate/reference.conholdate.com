@@ -51,7 +51,7 @@ foreach (var attachment in message.Attachments)
         // Extrahera TNEF-tillbehör
         var tnefAttachment = attachment;
 
-        // Få åtkomst till TNEF-egenskaper och ändra vid behov
+        // Få tillgång till TNEF-egenskaper och ändra vid behov
         // Exempel: Skriv ut filnamnet
         Console.WriteLine($"Extracted TNEF attachment: {tnefAttachment.Name}");
     }

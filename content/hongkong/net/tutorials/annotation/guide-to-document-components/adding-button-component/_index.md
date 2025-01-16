@@ -72,7 +72,7 @@ using (Annotator annotator = new Annotator("input.pdf"))
 
 ## 第四步：顯示輸出路徑
 
-最後，通知使用者輸出檔案的保存位置：
+最後，通知使用者輸出檔案的儲存位置：
 
 ```csharp
 Console.WriteLine($"\nDocument saved successfully.\nCheck output in {outputPath}.");

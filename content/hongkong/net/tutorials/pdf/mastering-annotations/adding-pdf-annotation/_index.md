@@ -120,7 +120,7 @@ Console.WriteLine("\nAnnotation added successfully.\nFile saved at " + dataDir);
 絕對地！您可以修改註解的大小、顏色、邊框和圖示。
 
 ### 是否可以在一個頁面上新增多個註解？
-是的，您可以為 PDF 中的任何頁面新增多個註解。
+是的，您可以在 PDF 中的任何頁面中新增多個註解。
 
 ### 新增註釋後可以刪除嗎？
 是的，可以使用以下命令刪除註釋`Annotations.Delete`Aspose.PDF提供的方法。

@@ -2,7 +2,7 @@
 title: Alle Anhänge aus PDF-Dateien abrufen
 linktitle: Alle Anhänge aus PDF-Dateien abrufen
 second_title: Aspose.PDF für .NET API-Referenz
-description: Entdecken Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET ganz einfach eingebettete Anhänge aus PDF-Dateien extrahieren.
+description: Entdecken Sie in dieser Schritt-für-Schritt-Anleitung, wie Sie mit Aspose.PDF für .NET einfach eingebettete Anhänge aus PDF-Dateien extrahieren.
 type: docs
 weight: 40
 url: /de/net/tutorials/pdf/mastering-pdf-attachments/get-all-the-attachments-from-pdf-files/

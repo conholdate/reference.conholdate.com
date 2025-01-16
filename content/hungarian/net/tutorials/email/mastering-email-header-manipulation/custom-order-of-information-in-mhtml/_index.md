@@ -145,7 +145,7 @@ Az MHTML a „MIME HTML” rövidítése, amely egy weboldal archív formátuma,
  Igen, az Aspose ingyenes próbaverziót biztosít a fejlesztők számára. Megtalálhatod[itt](https://releases.aspose.com/).
 
 ### Mi a teendő, ha problémákat tapasztalok az Aspose.Email használatával?
- A közösségtől támogatást kaphat a következőn keresztül[Aspose fórum](https://forum.aspose.com/c/email/12/).
+ Támogatást kaphat a közösségtől a[Aspose fórum](https://forum.aspose.com/c/email/12/).
 
 ### Elérhető ideiglenes licenc az Aspose.Email számára?
  Igen, kérhet ideiglenes engedélyt[itt](https://purchase.aspose.com/temporary-license/).

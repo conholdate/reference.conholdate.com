@@ -94,4 +94,4 @@ Sim, o Aspose.Slides para .NET foi projetado para lidar com apresentações de q
  Absolutamente! Você pode selecionar slides específicos usando o`Slides` coleção no`Presentation` aula.
 
 ### Q5: Onde posso encontrar exemplos adicionais?
- Visite o[Aspose.Slides para documentação .NET](https://reference.aspose.com/slides/net/)para mais exemplos e casos de uso.
+ Visite o[Aspose.Slides para documentação .NET](https://reference.aspose.com/slides/net/) para mais exemplos e casos de uso.

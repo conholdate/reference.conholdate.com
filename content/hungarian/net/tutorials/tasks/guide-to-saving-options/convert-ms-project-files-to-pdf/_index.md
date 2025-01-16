@@ -22,7 +22,7 @@ A folytatás előtt győződjön meg arról, hogy a következő előfeltételek 
    A C# programozási nyelv gyakorlati ismerete és egy konfigurált .NET fejlesztői környezet.
 
 3. Írja be a Microsoft Project fájlt  
-   Legyen érvényes`.mpp` konvertálható fájl.
+    Legyen érvényes`.mpp`konvertálható fájl.
 
 ## Importáljon alapvető névtereket
 
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## 5. lépés: Mentse el a projektfájlt PDF formátumban
 
-Végül mentse el a`.mpp` fájlt PDF formátumban a`Save` módszer. Adja meg a kimeneti fájl elérési útját, és adja át a konfigurált beállításokat.
+ Végül mentse el a`.mpp`fájlt PDF formátumban a`Save` módszer. Adja meg a kimeneti fájl elérési útját, és adja át a konfigurált beállításokat.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

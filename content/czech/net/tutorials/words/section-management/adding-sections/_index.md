@@ -82,7 +82,7 @@ builder.Writeln("Welcome to the new section!");
 ```
 
 - `builder.MoveToSection(doc.Sections.IndexOf(sectionToAdd));` nastaví pozici kurzoru na nově přidanou sekci.
-- `builder.Writeln("Welcome to the new section!");` přidá odstavec do této části.
+- `builder.Writeln("Welcome to the new section!");` přidá do této sekce odstavec.
 
 ## Krok 5: Uložení dokumentu
 
@@ -112,7 +112,7 @@ Absolutně! Můžete přidat tolik sekcí, kolik potřebujete, každou s jedine�
 
 Rozvržení sekce můžete upravit úpravou vlastností, jako je velikost stránky, orientace, okraje a přidání záhlaví/zápatí pomocí Aspose.Words.
 
-### Mohou být sekce vnořeny do dokumentů aplikace Word?
+### Lze sekce vnořit do dokumentů aplikace Word?
 
 Ne, oddíly nelze vnořovat do jiných oddílů, ale v dokumentu můžete mít postupně více oddílů, z nichž každý má odlišné rozvržení.
 

@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/words/mastering-bookmarks/delete-row-by-bookmark-wor
 
 在深入研究程式碼之前，請確保您具備以下條件：
 
--  Aspose.Words for .NET：從以下位置下載並安裝：[Aspose 發佈頁面](https://releases.aspose.com/words/net/).
+-  Aspose.Words for .NET：從以下位置下載並安裝它：[Aspose 發佈頁面](https://releases.aspose.com/words/net/).
 - 開發環境：利用Visual Studio或任何支援.NET的IDE來實作。
 - C# 基礎：熟悉 C# 將協助您順利掌握。
 

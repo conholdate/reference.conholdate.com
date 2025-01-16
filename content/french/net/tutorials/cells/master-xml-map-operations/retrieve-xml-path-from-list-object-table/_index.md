@@ -15,7 +15,7 @@ Dans ce guide détaillé, nous vous expliquerons le processus de récupération 
 
 Avant de plonger dans le code, assurez-vous de disposer des prérequis suivants :
 
-1. Aspose.Cells pour .NET : Tout d'abord, téléchargez et installez Aspose.Cells à partir du[Page de sortie d'Aspose](https://releases.aspose.com/cells/net/). Vous pouvez également l'installer via le gestionnaire de packages NuGet dans Visual Studio à l'aide de la commande suivante :
+1. Aspose.Cells pour .NET : Tout d'abord, téléchargez et installez Aspose.Cells à partir du[Page de sortie d'Aspose](https://releases.aspose.com/cells/net/)Vous pouvez également l'installer via le gestionnaire de packages NuGet dans Visual Studio à l'aide de la commande suivante :
 ```bash
 Install-Package Aspose.Cells
 ```

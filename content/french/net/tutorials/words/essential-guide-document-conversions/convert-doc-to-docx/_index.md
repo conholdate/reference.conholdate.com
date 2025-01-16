@@ -13,7 +13,7 @@ Dans ce didacticiel, nous vous guiderons tout au long du processus de conversion
 
 ## Prérequis
 
-Avant de commencer, assurez-vous d'avoir les éléments suivants :
+Avant de commencer, assurez-vous d'avoir les éléments suivants :
 - Visual Studio : assurez-vous qu’il est installé sur votre système.
 -  Aspose.Words pour .NET : Téléchargez-le et installez-le depuis[ici](https://releases.aspose.com/words/net/).
 - Connaissances de base en C# : une connaissance de C# sera utile pour suivre les étapes.

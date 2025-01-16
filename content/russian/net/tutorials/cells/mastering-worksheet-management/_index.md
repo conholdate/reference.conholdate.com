@@ -2,7 +2,7 @@
 title: Освоение управления рабочими листами
 linktitle: Освоение управления рабочими листами
 second_title: API обработки Excel Aspose.Cells .NET
-description: Изучите руководства Aspose.Cells for .NET, чтобы освоить автоматизацию Excel. Изучите добавление/удаление рабочих листов в новых или существующих файлах Excel программным способом.
+description: Изучите руководства Aspose.Cells для .NET, чтобы освоить автоматизацию Excel. Изучите добавление/удаление рабочих листов в новых или существующих файлах Excel программным способом.
 type: docs
 weight: 25
 url: /ru/net/tutorials/cells/mastering-worksheet-management/

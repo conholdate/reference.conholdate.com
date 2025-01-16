@@ -9,7 +9,7 @@ url: /sv/net/tutorials/words/words-with-textboxes/linked-text-boxes/
 ---
 ## Introduktion
 
-Hej, teknikentusiaster och dokumentguider! Har du någonsin kämpat med att länka innehåll mellan textrutor i Word-dokument? Med Aspose.Words för .NET blir den processen inte bara genomförbar utan också användarvänlig och effektiv. I den här handledningen kommer vi att utforska att skapa och hantera länkar mellan textrutor, vilket gör att dina dokument blir mer dynamiska och interaktiva. Oavsett om du är en erfaren utvecklare eller precis har börjat din resa, kommer den här guiden att ge dig steg-för-steg-instruktioner. Så, låt oss börja!
+Hej, teknikentusiaster och dokumentguider! Har du någonsin kämpat med att länka innehåll mellan textrutor i Word-dokument? Med Aspose.Words för .NET blir den processen inte bara genomförbar utan också användarvänlig och effektiv. I den här handledningen kommer vi att utforska att skapa och hantera länkar mellan textrutor, vilket gör att dina dokument blir mer dynamiska och interaktiva. Oavsett om du är en erfaren utvecklare eller precis har börjat din resa, kommer den här guiden att ge dig steg-för-steg-instruktioner. Så, låt oss komma igång!
 
 ## Förutsättningar
 

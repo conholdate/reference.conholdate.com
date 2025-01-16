@@ -17,7 +17,7 @@ Zanim zagłębimy się w kod, upewnij się, że masz następujące ustawienia:
 
 1. Visual Studio: Upewnij się, że na Twoim komputerze jest zainstalowany program Visual Studio.
 2.  Aspose.Cells dla .NET: Pobierz najnowszą wersję biblioteki Aspose.Cells ze strony[Strona internetowa Aspose.Cells](https://releases.aspose.com/cells/net/).
-3. Podstawowa wiedza o języku C#: Podstawowa znajomość języka C# ułatwi Ci poruszanie się po kodzie.
+3. Podstawowa wiedza o języku C#: Podstawowa znajomość języka C# pomoże Ci poruszać się po kodzie.
 4.  Przykładowy plik programu Excel: Utwórz prosty plik programu Excel z włączonymi makrami (z`.xlsm`rozszerzenie) i zablokuj projekt VBA, aby przetestować jego funkcjonalność.
 
 Gdy spełnisz te wymagania wstępne, będziesz gotowy, aby kontynuować!

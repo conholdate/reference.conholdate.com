@@ -22,7 +22,7 @@ För att säkerställa en smidig utvecklingsupplevelse, bekräfta att följande 
 
 ## Importera nödvändiga namnområden
 
-Importera de nödvändiga namnområdena i ditt projekt för att komma åt Aspose.Words-funktioner:
+Importera de nödvändiga namnrymden i ditt projekt för att komma åt Aspose.Words-funktioner:
 
 ```csharp
 using Aspose.Words;

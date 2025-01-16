@@ -19,7 +19,7 @@ Nu när du har koll på kontrollsummor, låt oss prata anpassning. Ibland klippe
 
 ## Avslutning
 
-Sammanfattningsvis, att behärska Codabar-kodning och kontrollsummor med Aspose.BarCode för .NET öppnar upp en värld av möjligheter för streckkodsgenerering. Oavsett om du skapar streckkoder för produkter, tillgångar eller något däremellan, kommer du att skilja dig åt genom att veta hur man korrekt implementerar dessa funktioner. För en djupare förståelse av checksummaberäkningar, glöm inte att kolla in vår[omfattande guide för beräkningar av checksummor](./guide-to-checksum-calculation/). Glad kodning!
+Sammanfattningsvis, att behärska Codabar-kodning och kontrollsummor med Aspose.BarCode för .NET öppnar upp en värld av möjligheter för streckkodsgenerering. Oavsett om du skapar streckkoder för produkter, tillgångar eller något däremellan, kommer du att skilja dig åt genom att veta hur man korrekt implementerar dessa funktioner. För en djupare förståelse av checksummeberäkningar, glöm inte att kolla in vår[omfattande guide för beräkningar av checksummor](./guide-to-checksum-calculation/). Glad kodning!
 
 
 ## Bemästra Codabar-kodning och kontrollsumma självstudier

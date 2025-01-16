@@ -49,7 +49,7 @@ using (Presentation presentation = new Presentation(dataDir + "NotesFile.pptx"))
 
 ```
 
- แทนที่`"Your Document Directory"` พร้อมเส้นทางไปยังโฟลเดอร์ที่เก็บไฟล์งานนำเสนอของคุณ
+ แทนที่`"Your Document Directory"` พร้อมเส้นทางไปยังโฟลเดอร์ที่เก็บไฟล์นำเสนอของคุณ
 
 ## การกำหนดค่าตัวเลือก PDF
 
@@ -94,4 +94,4 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
  แน่นอน! คุณสามารถเลือกสไลด์ที่ต้องการได้โดยใช้`Slides` คอลเลกชันใน`Presentation` ระดับ.
 
 ### คำถามที่ 5: ฉันสามารถหาตัวอย่างเพิ่มเติมได้ที่ไหน
- เยี่ยมชม[เอกสาร Aspose.Slides สำหรับ .NET](https://reference.aspose.com/slides/net/)สำหรับตัวอย่างและกรณีการใช้งานเพิ่มเติม
+ เยี่ยมชม[เอกสาร Aspose.Slides สำหรับ .NET](https://reference.aspose.com/slides/net/) สำหรับตัวอย่างและกรณีการใช้งานเพิ่มเติม

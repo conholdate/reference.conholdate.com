@@ -2,7 +2,7 @@
 title: Przewodnik po opcjach zapisywania obrazów w Aspose.Words dla .NET
 linktitle: Przetwarzanie słów z obrazamizapiszopcje
 second_title: Aspose.Words API przetwarzania dokumentów
-description: Odkryj praktyczne samouczki dotyczące korzystania z Aspose.Words for .NET do zapisywania obrazów. Znajdziesz w nich proste kroki i przykłady kodu umożliwiające wydajne przetwarzanie dokumentów.
+description: Odkryj praktyczne samouczki dotyczące korzystania z Aspose.Words for .NET do zapisywania obrazów, z prostymi do wykonania krokami i przykładami kodu umożliwiającymi wydajne przetwarzanie dokumentów.
 type: docs
 weight: 1630
 url: /pl/net/tutorials/words/guide-to-image-save-options/

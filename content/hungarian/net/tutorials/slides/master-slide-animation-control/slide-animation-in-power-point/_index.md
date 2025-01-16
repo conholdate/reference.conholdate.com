@@ -15,7 +15,7 @@ Ha prezentációit lenyűgöző diaanimációkkal javítja, jelentősen megnöve
 Mielőtt belevágnánk az oktatóanyagba, győződjön meg arról, hogy rendelkezik a következőkkel:
 
 1.  Aspose.Slides for .NET Library: Töltse le és telepítse a könyvtárat a[Aspose letöltési oldal](https://releases.aspose.com/slides/net/).
-2. Dokumentumkönyvtár: Hozzon létre egy könyvtárat a prezentációs fájlok tárolására. Frissítse a`dataDir` változót a kódrészletekben a dokumentumkönyvtár elérési útjával.
+2.  Dokumentumkönyvtár: Hozzon létre egy könyvtárat a prezentációs fájlok tárolására. Frissítse a`dataDir` változót a kódrészletekben a dokumentumkönyvtár elérési útjával.
 
 ## Névterek importálása
 
@@ -85,7 +85,7 @@ Diák animálása prezentációiban dinamikus hatást ad, így tartalmai még vo
 
 ### Tovább szabhatom az átmeneti effektusokat?
 
- Teljesen! Az Aspose.Slides átmenettípusok és további tulajdonságok széles skáláját kínálja a testreszabáshoz. További részletekért lásd a[dokumentáció](https://reference.aspose.com/slides/net/).
+Teljesen! Az Aspose.Slides átmenettípusok és további tulajdonságok széles skáláját kínálja a testreszabáshoz. További részletekért lásd a[dokumentáció](https://reference.aspose.com/slides/net/).
 
 ### Van ingyenes próbaverzió?
 

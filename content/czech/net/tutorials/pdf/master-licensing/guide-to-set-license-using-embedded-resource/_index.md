@@ -50,7 +50,7 @@ string dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 ## Krok 2: Inicializujte objekt licence
 
- Budete muset vytvořit instanci souboru`License` třídy z Aspose.PDF. Tento objekt bude použit k načtení vašeho licenčního souboru.
+ Budete muset vytvořit instanci`License` třídy z Aspose.PDF. Tento objekt bude použit k načtení vašeho licenčního souboru.
 
 ```csharp
 // Inicializujte objekt License

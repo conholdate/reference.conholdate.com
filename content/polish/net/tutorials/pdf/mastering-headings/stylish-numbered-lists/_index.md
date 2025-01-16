@@ -55,7 +55,7 @@ Następnie dodamy pustą stronę do dokumentu PDF, na której później zastosuj
 ```csharp
 // Dodaj nową stronę do dokumentu PDF
 Aspose.Pdf.Page pdfPage = pdfDoc.Pages.Add();
-pdfPage.PageInfo = pdfDoc.PageInfo; // Użyj tych samych ustawień co w dokumencie
+pdfPage.PageInfo = pdfDoc.PageInfo; // Użyj tych samych ustawień, co w dokumencie
 ```
 
 ## Krok 3: Tworzenie pływającego pola

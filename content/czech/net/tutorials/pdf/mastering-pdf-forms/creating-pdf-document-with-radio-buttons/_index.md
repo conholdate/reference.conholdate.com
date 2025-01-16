@@ -15,7 +15,7 @@ Vylepšení uživatelské zkušenosti prostřednictvím interaktivních formulá
 
 Než se ponoříte do kódu, ujistěte se, že máte následující:
 
-1. Vývojové prostředí .NET: Pro psaní a spouštění kódu je nezbytná znalost .NET IDE, jako je Visual Studio.
+1. Vývojové prostředí .NET: Pro psaní a spouštění kódu je nezbytná znalost IDE .NET, jako je Visual Studio.
 2.  Aspose.PDF for .NET: Ujistěte se, že máte nainstalovanou knihovnu Aspose.PDF. Můžete si jej stáhnout z[Aspose stránku vydání](https://releases.aspose.com/pdf/net/).
 3. Základní znalost C#: Základní znalost C# je nezbytná, protože jej budeme používat v našich příkladech.
 4. Adresář dokumentů: Nastavte adresář, kde budou uloženy vaše dokumenty, abyste se vyhnuli problémům souvisejícím s cestou.

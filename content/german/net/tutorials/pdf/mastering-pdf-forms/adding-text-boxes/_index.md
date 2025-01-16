@@ -9,7 +9,7 @@ url: /de/net/tutorials/pdf/mastering-pdf-forms/adding-text-boxes/
 ---
 ## Einführung
 
-In der heutigen digitalen Landschaft ist die Verbesserung des Benutzererlebnisses durch interaktive Dokumente unerlässlich. Interaktive PDF-Formulare rationalisieren nicht nur die Datenerfassung, sondern binden Benutzer auch auf eine Weise ein, die statische Dokumente nicht bieten können. Aspose.PDF für .NET ist eine leistungsstarke Bibliothek, die Entwicklern dabei hilft, verschiedene Formularfelder mühelos in PDF-Dokumente zu integrieren. Textfelder sind dabei besonders nützlich, um Benutzereingaben strukturiert zu erfassen. In diesem Tutorial führen wir Sie durch den Prozess des Hinzufügens eines Textfelds zu einer PDF-Datei mit Aspose.PDF für .NET und stellen sicher, dass Sie jeden Schritt umfassend verstehen.
+In der heutigen digitalen Landschaft ist die Verbesserung des Benutzererlebnisses durch interaktive Dokumente unerlässlich. Interaktive PDF-Formulare rationalisieren nicht nur die Datenerfassung, sondern binden Benutzer auch auf eine Weise ein, die statische Dokumente nicht bieten können. Aspose.PDF für .NET ist eine leistungsstarke Bibliothek, mit der Entwickler mühelos verschiedene Formularfelder in PDF-Dokumente integrieren können. Textfelder sind dabei besonders nützlich, um Benutzereingaben strukturiert zu erfassen. In diesem Tutorial führen wir Sie durch den Vorgang des Hinzufügens eines Textfelds zu einer PDF-Datei mit Aspose.PDF für .NET und stellen sicher, dass Sie jeden Schritt umfassend verstehen.
 
 ## Voraussetzungen
 

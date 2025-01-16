@@ -16,7 +16,7 @@ url: /zh-hant/net/tutorials/tasks/guide-to-saving-options/save-ms-project-files-
 在我們開始之前，請確保您具備以下先決條件：
 
 1. C# 基礎知識：假設熟悉 C# 程式語言。
-2. Aspose.Tasks 安裝：確保您的開發環境中安裝了 Aspose.Tasks for .NET。您可以輕鬆地從[阿斯普斯網站](https://www.aspose.com).
+2.  Aspose.Tasks 安裝：確保您的開發環境中安裝了 Aspose.Tasks for .NET。您可以輕鬆地從[阿斯普斯網站](https://www.aspose.com).
 3. Microsoft Project 檔案：準備好轉換的 Microsoft Project 檔案（附有`.mpp`擴大）。
 
 ## 導入必要的命名空間
@@ -81,4 +81,4 @@ project.Save("OutputFilePath.html", options);
 確實！您可以根據 HTML 輸出的要求選擇並包含專案的特定頁面或部分。
 
 ### Aspose.Tasks 有試用版嗎？
-是的，Aspose 提供 Aspose.Tasks 的免費試用版，以便您可以在決定購買之前探索其功能。
+是的，Aspose 提供了 Aspose.Tasks 的免費試用版，因此您可以在決定購買之前探索其功能。

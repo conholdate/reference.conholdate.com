@@ -22,7 +22,7 @@ Antes de prosseguir, certifique-se de que os seguintes pré-requisitos sejam ate
    Conhecimento prático da linguagem de programação C# e um ambiente de desenvolvimento .NET configurado.
 
 3. Arquivo de entrada do Microsoft Project  
-   Tenha um válido`.mpp` arquivo disponível para conversão.
+    Tenha um válido`.mpp`arquivo disponível para conversão.
 
 ## Importar namespaces essenciais
 
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Etapa 5: Salve o arquivo do projeto como PDF
 
-Por fim, salve o`.mpp` arquivar como PDF chamando o`Save` método. Especifique o caminho do arquivo de saída e passe as opções configuradas.
+ Por fim, salve o`.mpp`arquivar como PDF chamando o`Save` método. Especifique o caminho do arquivo de saída e passe as opções configuradas.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

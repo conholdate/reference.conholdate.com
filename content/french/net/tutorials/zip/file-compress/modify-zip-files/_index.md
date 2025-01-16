@@ -80,7 +80,7 @@ foreach (ArchiveEntry entry in outer.Entries)
 }
 ```
 
-## Étape 3 : Supprimer les entrées des archives internes
+## Étape 3 : Supprimer les entrées de l’archive interne
 
 Une fois que vous avez rassemblé les entrées dont vous avez besoin, supprimez les entrées zip internes :
 

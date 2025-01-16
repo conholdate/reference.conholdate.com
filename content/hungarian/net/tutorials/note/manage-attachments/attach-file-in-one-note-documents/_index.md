@@ -15,7 +15,7 @@ Az Aspose.Note for .NET egy robusztus könyvtár, amelyet arra terveztek, hogy a
 
 Az Aspose.Note for .NET használatának megkezdése előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
-1. Fejlesztői környezet: .NET keretrendszerrel és integrált fejlesztői környezettel (IDE), például a Visual Studioval felszerelt számítógép.
+1. Fejlesztői környezet: .NET keretrendszerrel és integrált fejlesztői környezettel (IDE) felszerelt számítógép, mint például a Visual Studio.
   
 2.  Aspose.Note for .NET: Töltse le a könyvtárat a[kiadási oldal](https://releases.aspose.com/note/net/).
 

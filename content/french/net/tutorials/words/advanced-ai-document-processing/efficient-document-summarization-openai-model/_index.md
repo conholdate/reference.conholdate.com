@@ -60,7 +60,7 @@ Document doc2 = new Document(MyDir + "AnotherDocument.docx");
 
 ## Étape 3 : Configurer la clé API OpenAI
 
-Pour des raisons de sécurité, récupérez votre clé API OpenAI à partir de variables d'environnement, plutôt que de la coder en dur.
+Pour des raisons de sécurité, récupérez votre clé API OpenAI à partir des variables d'environnement, plutôt que de la coder en dur.
 
 ```csharp
 string apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");

@@ -79,7 +79,7 @@ Ten wiersz pobiera pierwszy arkusz kalkulacyjny ze skoroszytu (należy pamięta�
 
 ## Krok 4: Ustaw orientację na pionową
 
-Mając już gotowy arkusz kalkulacyjny, ustaw orientację strony za pomocą następującego wiersza kodu:
+Mając już gotowy arkusz kalkulacyjny, ustaw orientację strony za pomocą poniższego wiersza kodu:
 
 ```csharp
 worksheet.PageSetup.Orientation = PageOrientationType.Portrait;

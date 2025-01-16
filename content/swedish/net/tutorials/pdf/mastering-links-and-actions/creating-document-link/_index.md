@@ -29,7 +29,7 @@ För att installera Aspose.PDF för .NET, följ dessa steg:
 4. Sök efter Aspose.PDF: På fliken Bläddra skriver du "Aspose.PDF" och installerar den senaste versionen.
 5. Verifiera installationen: Se till att Aspose.PDF visas i dina projektreferenser.
 
-När allt är klart, låt oss komma igång!
+Med allt klart, låt oss komma igång!
 
 ## Importera nödvändiga namnområden
 

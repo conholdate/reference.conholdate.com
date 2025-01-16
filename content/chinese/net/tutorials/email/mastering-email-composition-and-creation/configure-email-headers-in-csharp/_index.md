@@ -18,7 +18,7 @@ url: /zh/net/tutorials/email/mastering-email-composition-and-creation/configure-
 - 路由：标头控制传递路径，引导电子邮件从发件人到收件人。
 - 身份验证：DKIM（域名密钥识别邮件）和 SPF（发件人策略框架）等标头有助于验证电子邮件的合法性，提供垃圾邮件防护。
 - 主题行：`Subject`标头为收件人在打开电子邮件之前提供有关电子邮件内容的宝贵背景信息。
-- 回复处理：标题如下`Reply-To`确保回复发往正确的地址。
+- 回复处理：标头如`Reply-To`确保回复发往正确的地址。
 
 ## 开始使用 Aspose.Email for .NET
 
@@ -58,7 +58,7 @@ client.Send(message);
 除了自定义标头之外，电子邮件通信中还常用几个标准标头：
 
 - 主题：使用以下方式定义电子邮件主题`message.Subject`.
-- 发件人：使用以下地址指定发件人的地址：`message.From`.
+- 发件人：使用以下地址指定发件人的地址`message.From`.
 - 收件人：使用以下地址设置收件人地址：`message.To`.
 
 ### 自定义抄送、密送和回复标头

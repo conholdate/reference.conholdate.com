@@ -15,7 +15,7 @@ url: /zh-hant/net/tutorials/words/web-extensions/mastering-web-extension-task-pa
 
 要學習本教程，請確保您具備以下條件：  
 
--  Aspose.Words for .NET：[在此下載](https://releases.aspose.com/words/net/).  
+-  Aspose.Words for .NET：[在這裡下載](https://releases.aspose.com/words/net/).  
 - 開發環境：Visual Studio 或其他 .NET IDE。  
 - C# 基礎知識：熟悉 C# 將有助於理解程式碼片段。  
 - 有效的 Aspose.Words 授權：[在這裡購買](https://purchase.aspose.com/buy)或獲得[臨時執照](https://purchase.aspose.com/temporary-license/).  

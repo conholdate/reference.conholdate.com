@@ -124,4 +124,4 @@ Aspose.PDF สำหรับ .NET เป็นไลบรารีที่แ
  หากต้องการความช่วยเหลือ โปรดไปที่[ฟอรั่มสนับสนุน Aspose PDF](https://forum.aspose.com/c/pdf/10).
 
 ### ฉันจะได้รับใบอนุญาตชั่วคราวสำหรับ Aspose ได้อย่างไร
- คุณสามารถขอใบอนุญาตชั่วคราวได้จาก[หน้านี้](https://purchase.aspose.com/temporary-license/).
+ คุณสามารถขอใบอนุญาตชั่วคราวได้จาก[หน้าเพจนี้](https://purchase.aspose.com/temporary-license/).

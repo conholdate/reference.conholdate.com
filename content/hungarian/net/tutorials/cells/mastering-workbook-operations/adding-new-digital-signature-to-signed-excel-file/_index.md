@@ -34,7 +34,7 @@ using System.Linq;
 using System.Text;
 ```
 
-## 1. lépés: Határozza meg könyvtárait
+## 1. lépés: Határozza meg a könyvtárait
 
 Adja meg a forrásfájlok könyvtárait és a kimeneti fájl mentési helyét:
 

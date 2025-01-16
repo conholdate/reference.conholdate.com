@@ -115,7 +115,7 @@ Codabar est une symbologie de code-barres numérique largement utilisée dans di
 
 Oui, vous pouvez personnaliser l'apparence en ajustant des paramètres tels que la dimension X ou en modifiant les symboles de démarrage et d'arrêt.
 
-### Existe-t-il des limitations concernant le codage des données des codes-barres Codabar ?
+### Existe-t-il des limitations concernant l’encodage des données des codes-barres Codabar ?
 
 Codabar encode principalement des données numériques et dispose d'une capacité limitée pour les caractères alphanumériques.
 

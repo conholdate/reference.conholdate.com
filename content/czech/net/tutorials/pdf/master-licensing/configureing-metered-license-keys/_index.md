@@ -38,7 +38,7 @@ Pojďme si proces konfigurace rozdělit do jasných kroků, aby vám nic neunikl
 1. Otevřete Visual Studio: Spusťte Visual Studio a vytvořte nový projekt C#. Pokud máte existující projekt, otevřete jej.
 2. Přidat odkaz do Aspose.PDF: Klikněte pravým tlačítkem na svůj projekt v Průzkumníku řešení, vyberte „Spravovat balíčky NuGet“, vyhledejte „Aspose.PDF for .NET“ a nainstalujte jej.
 
-## Krok 2: Inicializujte měřenou třídu
+## Krok 2: Inicializujte třídu Metered
 
  Nyní, když je vaše prostředí připraveno, inicializujte soubor`Metered` třídy poskytuje Aspose.PDF.
 
@@ -89,7 +89,7 @@ Gratuluji! Úspěšně jste nakonfigurovali měřené licenční klíče pro va�
 Měřená licence vám umožňuje platit na základě vašeho využití API, takže je ideální pro zpracování velkého objemu dokumentů.
 
 ### Jak získám měřené licenční klíče?  
- Koupit měřené licenční klíče od[zde](https://purchase.aspose.com/buy) nebo požádat o dočasnou licenci.
+ Kupte si měřené licenční klíče od[zde](https://purchase.aspose.com/buy) nebo požádat o dočasnou licenci.
 
 ### Mohu používat Aspose.PDF bez licence?  
 Ano, ale bezplatná verze má omezení. Pro neomezený přístup ke všem funkcím je vyžadována platná licence.

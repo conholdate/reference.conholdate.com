@@ -30,7 +30,7 @@ Chcete-li začít s Aspose.Words pro .NET, musíte integrovat knihovnu do svého
 Install-Package Aspose.Words
 ```
 
-2. Importovat potřebné jmenné prostory:
+2. Import nezbytných jmenných prostorů:
    Ve svém projektu C# budete muset importovat základní jmenné prostory pro interakci s Aspose.Words API.
    
 ```csharp

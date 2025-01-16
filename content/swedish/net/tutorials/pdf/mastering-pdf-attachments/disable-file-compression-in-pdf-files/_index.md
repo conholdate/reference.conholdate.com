@@ -95,7 +95,7 @@ Console.WriteLine("File compression disabled and PDF saved at: " + outputFile);
 ## FAQ's
 
 ### Vad är syftet med att inaktivera filkomprimering?
-Genom att inaktivera filkomprimering säkerställs att inbäddade filer behåller sin ursprungliga kvalitet, vilket är avgörande för att bevara känslig data eller upprätthålla efterlevnad.
+Genom att inaktivera filkomprimering säkerställs att inbäddade filer behåller sin ursprungliga kvalitet, vilket är avgörande för att bevara känsliga data eller upprätthålla efterlevnad.
 
 ### Kan jag inaktivera komprimering för flera filer i en PDF?
  Ja, du kan upprepa processen för varje fil och lägga till dem i`EmbeddedFiles` samling.

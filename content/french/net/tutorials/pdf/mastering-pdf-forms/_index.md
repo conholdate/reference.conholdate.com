@@ -20,7 +20,7 @@ Dans notre monde de plus en plus globalisé, la prise en charge de plusieurs lan
 
 ## Créer des éléments interactifs
 
- Pourquoi vous contenter d'info-bulles et de texte lorsque vous pouvez créer des éléments interactifs tels que des zones de liste déroulante et des boutons radio ? Ces fonctionnalités améliorent l'engagement des utilisateurs, rendant les formulaires non seulement plus agréables à remplir, mais aussi plus efficaces. Notre didacticiel « Ajouter des zones de liste déroulante interactives » vous guidera dans l'ajout d'options déroulantes à vos PDF, permettant aux utilisateurs de sélectionner des choix prédéfinis. Et si les boutons radio sont plus votre style, ne manquez pas notre guide sur leur création. L'ajout de ces éléments élève vos formulaires de fades à brillants ![En savoir plus](./add-interactive-combo-boxes/) et[En savoir plus](./create-interactive-radio-buttons/).
+ Pourquoi se limiter aux info-bulles et au texte lorsque vous pouvez créer des éléments interactifs tels que des zones de liste déroulante et des boutons radio ? Ces fonctionnalités améliorent l'engagement des utilisateurs, rendant les formulaires non seulement plus agréables à remplir, mais aussi plus efficaces. Notre didacticiel « Ajouter des zones de liste déroulante interactives » vous guidera dans l'ajout d'options déroulantes à vos PDF, permettant aux utilisateurs de sélectionner des choix prédéfinis. Et si les boutons radio sont plus votre style, ne manquez pas notre guide sur leur création. L'ajout de ces éléments élève vos formulaires de fades à brillants ![En savoir plus](./add-interactive-combo-boxes/) et[En savoir plus](./create-interactive-radio-buttons/).
 
 
 ## Ajout de zones de texte dans les PDF

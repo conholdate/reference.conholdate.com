@@ -20,7 +20,7 @@ Prima di iniziare a programmare, assicurati che il tuo ambiente di sviluppo sia 
 
 ## Aggiunta della libreria Aspose.Email per .NET
 
-Per iniziare con gli allegati TNEF, devi prima aggiungere la libreria Aspose.Email per .NET al tuo progetto. Puoi farlo facilmente tramite NuGet Package Manager:
+Per iniziare con gli allegati TNEF, devi prima aggiungere la libreria Aspose.Email for .NET al tuo progetto. Puoi farlo facilmente tramite NuGet Package Manager:
 
 1. In Visual Studio, aprire il gestore pacchetti (Strumenti > Gestore pacchetti NuGet > Gestisci pacchetti NuGet per la soluzione).
 2. Cerca Aspose.Email e installa la versione più recente.

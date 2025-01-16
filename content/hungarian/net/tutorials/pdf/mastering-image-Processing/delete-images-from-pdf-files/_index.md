@@ -75,7 +75,7 @@ dataDir = dataDir + "DeleteImages_out.pdf";
 pdfDocument.Save(dataDir);
 ```
 
- Ezzel a frissített PDF fájlt másként menti`DeleteImages_out.pdf` ugyanabban a könyvtárban, megőrizve az eredeti fájlt.
+ Ezzel a frissített PDF fájlt más néven menti`DeleteImages_out.pdf` ugyanabban a könyvtárban, megőrizve az eredeti fájlt.
 
 ## 5. lépés: Erősítse meg a folyamatot
 

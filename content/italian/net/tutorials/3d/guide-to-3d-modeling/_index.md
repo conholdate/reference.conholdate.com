@@ -13,7 +13,7 @@ La modellazione 3D può sembrare scoraggiante a prima vista, giusto? Ma indovina
 
 ## Crea modelli 3D primitivi
 
- Ogni artista ha bisogno di una solida base, e quale modo migliore per iniziare se non creando forme primitive? Nel nostro tutorial su[creazione di modelli 3D primitivi](./create-primitive-3d-modeling/), imparerai a costruire oggetti di base come scatole, sfere e cilindri. Queste forme sono i mattoni di modelli più complessi e sono perfette per chiunque stia iniziando.
+ Ogni artista ha bisogno di una solida base, e quale modo migliore per iniziare se non creando forme primitive? Nel nostro tutorial su[creazione di modelli 3D primitivi](./create-primitive-3d-modeling/)imparerai a costruire oggetti di base come scatole, sfere e cilindri. Queste forme sono i mattoni di modelli più complessi e sono perfette per chiunque stia iniziando.
 
 Ti guideremo passo dopo passo nel processo, suddividendo ogni azione in modo che tu possa seguire facilmente. Immagina di costruire una casa. Per prima cosa, poni le fondamenta con semplici blocchi. Allo stesso modo, nel nostro tutorial, preparerai il terreno con forme primitive, consentendo alla tua creatività di prosperare mentre le personalizzi in seguito con texture e colori. 
 

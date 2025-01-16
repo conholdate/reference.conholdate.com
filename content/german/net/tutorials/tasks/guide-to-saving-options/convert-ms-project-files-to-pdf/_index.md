@@ -22,7 +22,7 @@ Stellen Sie vor dem Fortfahren sicher, dass die folgenden Voraussetzungen erfül
    Praktische Kenntnisse der Programmiersprache C# und einer konfigurierten .NET-Entwicklungsumgebung.
 
 3. Microsoft Project-Eingabedatei  
-   Besitzen Sie eine gültige`.mpp` Datei zur Konvertierung verfügbar.
+    Besitzen Sie eine gültige`.mpp`Datei zur Konvertierung verfügbar.
 
 ## Wichtige Namespaces importieren
 
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Schritt 5: Speichern Sie die Projektdatei als PDF
 
-Speichern Sie abschließend die`.mpp` Datei als PDF durch Aufrufen des`Save` Methode. Geben Sie den Ausgabedateipfad an und übergeben Sie die konfigurierten Optionen.
+ Speichern Sie abschließend die`.mpp`Datei als PDF durch Aufrufen des`Save` Methode. Geben Sie den Ausgabedateipfad an und übergeben Sie die konfigurierten Optionen.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

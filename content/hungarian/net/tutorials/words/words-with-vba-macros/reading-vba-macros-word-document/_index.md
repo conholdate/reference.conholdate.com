@@ -9,7 +9,7 @@ url: /hu/net/tutorials/words/words-with-vba-macros/reading-vba-macros-word-docum
 ---
 ## Bevezetés
 
-A VBA (Visual Basic for Applications) makrók Word dokumentumokba való beépítése hatalmas lehetőségeket nyit meg az automatizálás és testreszabás előtt. Akár meglévő makrókat auditál, akár új automatizálási megoldásokat fejleszt, kulcsfontosságú a VBA-makrók hatékony olvasásának megértése. Ebben az útmutatóban megvizsgáljuk, hogyan lehet VBA-makrókat olvasni Word-dokumentumokból az Aspose.Words for .NET használatával – ez egy robusztus könyvtár a Word-dokumentumkezeléshez. Ennek az oktatóanyagnak a követésével megszerezheti a VBA-projektek eléréséhez és ellenőrzéséhez szükséges eszközöket, amelyek lehetővé teszik, hogy kiaknázza dokumentumaiban rejlő lehetőségeket.
+A VBA (Visual Basic for Applications) makrók Word dokumentumokba való beépítése hatalmas lehetőségeket nyit meg az automatizálás és testreszabás előtt. Akár meglévő makrókat auditál, akár új automatizálási megoldásokat fejleszt, kulcsfontosságú a VBA-makrók hatékony olvasásának megértése. Ebben az útmutatóban megvizsgáljuk, hogyan lehet VBA-makrókat olvasni Word-dokumentumokból az Aspose.Words for .NET használatával – ez egy robusztus könyvtár a Word-dokumentumkezeléshez. Ennek az oktatóanyagnak a követésével megszerezheti a VBA-projektek eléréséhez és ellenőrzéséhez szükséges eszközöket, amelyek lehetővé teszik a dokumentumokban rejlő teljes potenciál kiaknázását.
 
 ## Előfeltételek
 

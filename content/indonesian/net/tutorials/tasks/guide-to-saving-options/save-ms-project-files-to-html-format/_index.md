@@ -16,8 +16,8 @@ Selamat datang di tutorial lengkap kami tentang mengonversi file Microsoft Proje
 Sebelum kita memulai, pastikan Anda telah memenuhi prasyarat berikut:
 
 1. Pengetahuan Dasar C#: Diasumsikan memiliki pengetahuan tentang bahasa pemrograman C#.
-2. Instalasi Aspose.Tasks: Pastikan Anda telah menginstal Aspose.Tasks for .NET di lingkungan pengembangan Anda. Anda dapat dengan mudah mendapatkannya dari[Situs web Aspose](https://www.aspose.com).
-3.  File Microsoft Project: Siapkan file Microsoft Project untuk konversi (dengan`.mpp` perpanjangan).
+2.  Instalasi Aspose.Tasks: Pastikan Anda telah menginstal Aspose.Tasks for .NET di lingkungan pengembangan Anda. Anda dapat dengan mudah mendapatkannya dari[Situs web Aspose](https://www.aspose.com).
+3. File Microsoft Project: Siapkan file Microsoft Project untuk konversi (dengan`.mpp` perpanjangan).
 
 ## Mengimpor Ruang Nama yang Diperlukan
 

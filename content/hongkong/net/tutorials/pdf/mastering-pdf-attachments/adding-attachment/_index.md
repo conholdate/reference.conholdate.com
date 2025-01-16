@@ -60,7 +60,7 @@ FileSpecification fileSpecification = new FileSpecification(dataDir + "Attachmen
 
 該物件引用文件`Attachment.txt`並提供附件的說明。  
 
-## 步驟 3：將文件作為附件嵌入  
+## 步驟 3：將文件嵌入為附件  
 
 使用以下命令將文件新增至文件的附件集合中`EmbeddedFiles.Add`方法：  
 

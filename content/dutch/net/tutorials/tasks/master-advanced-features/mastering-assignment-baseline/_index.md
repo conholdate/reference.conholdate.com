@@ -108,4 +108,4 @@ Ja, de API maakt dynamische en geautomatiseerde basislijnwijzigingen programmati
 Ja, gedetailleerde, tijdgefaseerde basislijngegevens kunnen worden opgehaald en geanalyseerd.
 
 ### Waar kan ik ondersteuning en documentatie krijgen?  
- Bezoek[Aspose.Tasks-documentatie](https://reference.aspose.com/words/net/) of sluit je aan bij de[Aspose Ondersteuningsforum](https://forum.aspose.com/c/words/8) voor hulp. 
+ Bezoek[Aspose.Tasks-documentatie](https://reference.aspose.com/words/net/)of sluit je aan bij de[Aspose Ondersteuningsforum](https://forum.aspose.com/c/words/8) voor hulp. 

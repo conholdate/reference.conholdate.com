@@ -15,7 +15,7 @@ GroupDocs.Signature per .NET è una potente libreria che consente agli sviluppat
 
 Prima di iniziare, assicurati di avere quanto segue:
 
-1.  GroupDocs.Signature per .NET: Installa il pacchetto GroupDocs.Signature nel tuo progetto .NET. Puoi scaricarlo da[Qui](https://releases.groupdocs.com/signature/net/).
+1.  GroupDocs.Signature per .NET: installa il pacchetto GroupDocs.Signature nel tuo progetto .NET. Puoi scaricarlo da[Qui](https://releases.groupdocs.com/signature/net/).
 2. File immagine: preparare il file immagine che si desidera firmare con metadati.
 
 ## Importa gli spazi dei nomi necessari

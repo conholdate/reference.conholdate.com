@@ -108,4 +108,4 @@ Igen, az API lehetővé teszi a dinamikus és automatizált alapvonal-módosít�
 Igen, a részletes időfázisú alapadatok lekérhetők és elemezhetők.
 
 ### Hol érhetem el a támogatást és a dokumentációt?  
- Látogatás[Aspose.Tasks Dokumentáció](https://reference.aspose.com/words/net/) vagy csatlakozzon a[Aspose támogatási fórum](https://forum.aspose.com/c/words/8) segítségért. 
+ Látogatás[Aspose.Tasks Dokumentáció](https://reference.aspose.com/words/net/)vagy csatlakozzon a[Aspose támogatási fórum](https://forum.aspose.com/c/words/8) segítségért. 

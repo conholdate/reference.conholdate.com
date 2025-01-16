@@ -43,7 +43,7 @@ using Aspose.Words.Drawing;
 Document doc = new Document();
 ```
 
-이 줄은 여러분의 창의적인 입력을 위한 빈 Word 문서를 초기화합니다.
+이 줄은 창의적인 입력을 위한 빈 Word 문서를 초기화합니다.
 
 ## 2단계: 텍스트 상자 추가
 

@@ -21,7 +21,7 @@ url: /ja/net/tutorials/tasks/master-advanced-features/task-filtering-and-operati
 
 ## 名前空間のインポート
 
-まず、必要な名前空間を C# プロジェクトにインポートする必要があります。これにより、Aspose.Tasks が提供する機能にアクセスできるようになります。
+まず、必要な名前空間を C# プロジェクトにインポートする必要があります。これにより、Aspose.Tasks によって提供される機能にアクセスできるようになります。
 
 ```csharp
 using Aspose.Tasks;

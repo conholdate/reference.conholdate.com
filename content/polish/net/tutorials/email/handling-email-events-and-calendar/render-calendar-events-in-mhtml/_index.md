@@ -16,7 +16,7 @@ Aspose.Email for .NET to potężna biblioteka do obsługi zadań związanych z p
 Zanim przejdziemy do konkretów, upewnijmy się, że mamy wszystko gotowe do wykonania tego samouczka:
 
 1.  Biblioteka Aspose.Email dla platformy .NET: Pobierz najnowszą wersję biblioteki ze strony[Strona pobierania Aspose.Email dla .NET](https://releases.aspose.com/email/net/).
-2. Środowisko programistyczne: środowisko Visual Studio (lub preferowane środowisko IDE C#) zainstalowane w systemie.
+2. Środowisko programistyczne: środowisko Visual Studio (lub preferowane środowisko IDE języka C#) zainstalowane w systemie.
 3. Licencja: Uzyskaj ważną licencję dla Aspose.Email. Do celów ewaluacyjnych możesz użyć[licencja tymczasowa](https://purchase.aspose.com/temporary-license/).
 4.  Przykładowy plik MSG: Plik MSG wydarzenia kalendarzowego. Możesz użyć dowolnego`.msg` plik z wydarzeniami kalendarzowymi, takimi jak „Spotkanie z powtarzającymi się zdarzeniami.msg”.
 

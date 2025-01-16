@@ -15,7 +15,7 @@ Chcesz podnieść poziom swojej gry w Excelu? Aspose.Cells dla .NET jest tutaj, 
 
 Czy zastanawiałeś się kiedyś, jak zachować te przydatne dodatki Office podczas konwersji plików Excel do PDF? Ten samouczek przeprowadzi Cię przez każdy krok renderowania dodatków Office w plikach Excel bezpośrednio do ostatecznego pliku PDF. Dzięki Aspose.Cells dla .NET jest to nie tylko możliwe — jest to bezwysiłkowe!  
 
- Przewodnik zawiera również fragmenty kodu i wskazówki, aby zapewnić profesjonalny wygląd przekonwertowanych plików PDF i zachować ich oryginalną funkcjonalność. Chcesz opanować tę umiejętność?[Przeczytaj więcej tutaj](./render-office-add-ins-in-excel-to-pdf-format/).  
+ Przewodnik zawiera również fragmenty kodu i wskazówki, aby zapewnić, że przekonwertowane pliki PDF będą wyglądać profesjonalnie i zachowają swoją oryginalną funkcjonalność. Chcesz opanować tę umiejętność?[Przeczytaj więcej tutaj](./render-office-add-ins-in-excel-to-pdf-format/).  
 
 ## Ignoruj błędy podczas renderowania Excela do PDF  
 

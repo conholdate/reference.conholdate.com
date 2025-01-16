@@ -9,7 +9,7 @@ url: /de/net/tutorials/pdf/mastering-pdf-forms/create-interactive-radio-buttons/
 ---
 ## Einführung
 
-Interaktive PDFs können die Benutzerinteraktion erheblich verbessern, insbesondere bei Formularen. Eines der effektivsten interaktiven Elemente ist das Optionsfeld, mit dem Benutzer eine Option aus einer Reihe auswählen können. In diesem Tutorial führen wir Sie durch die Schritte zum Erstellen von Optionsfeldern in einem PDF-Dokument mit Aspose.PDF für .NET. Egal, ob Sie ein erfahrener Entwickler oder ein Anfänger sind, diese Anleitung hilft Ihnen, jeden Teil des Codes zu verstehen.
+Interaktive PDFs können die Benutzerinteraktion deutlich verbessern, insbesondere bei Formularen. Eines der effektivsten interaktiven Elemente ist das Optionsfeld, mit dem Benutzer eine Option aus einer Reihe auswählen können. In diesem Tutorial führen wir Sie durch die Schritte zum Erstellen von Optionsfeldern in einem PDF-Dokument mit Aspose.PDF für .NET. Egal, ob Sie ein erfahrener Entwickler oder ein Anfänger sind, diese Anleitung hilft Ihnen, jeden Teil des Codes zu verstehen.
 
 ## Voraussetzungen
 

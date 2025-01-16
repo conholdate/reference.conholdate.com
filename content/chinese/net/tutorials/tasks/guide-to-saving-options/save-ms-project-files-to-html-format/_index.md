@@ -16,7 +16,7 @@ url: /zh/net/tutorials/tasks/guide-to-saving-options/save-ms-project-files-to-ht
 在开始之前，请确保您已满足以下先决条件：
 
 1. C# 基础知识：假设熟悉 C# 编程语言。
-2. Aspose.Tasks 安装：确保您的开发环境中安装了 Aspose.Tasks for .NET。您可以从[Aspose 网站](https://www.aspose.com).
+2.  Aspose.Tasks 安装：确保您的开发环境中安装了 Aspose.Tasks for .NET。您可以从[Aspose 网站](https://www.aspose.com).
 3. Microsoft Project 文件：准备好要转换的 Microsoft Project 文件（使用`.mpp`扩大）。
 
 ## 导入必要的命名空间

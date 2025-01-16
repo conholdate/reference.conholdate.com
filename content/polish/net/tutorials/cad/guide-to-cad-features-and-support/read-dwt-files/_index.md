@@ -9,7 +9,7 @@ url: /pl/net/tutorials/cad/guide-to-cad-features-and-support/read-dwt-files/
 ---
 ## Wstęp
 
-Aspose.CAD dla .NET zapewnia solidne rozwiązanie do pracy z danymi CAD w aplikacjach. Ten samouczek przeprowadzi Cię przez proces efektywnego odczytywania plików DWT, umożliwiając bezproblemowe wykorzystanie mocy CAD w Twoich projektach .NET. 
+Aspose.CAD dla .NET zapewnia solidne rozwiązanie do pracy z danymi CAD w aplikacjach. Ten samouczek przeprowadzi Cię przez proces efektywnego odczytywania plików DWT, umożliwiając bezproblemowe wykorzystanie mocy CAD w projektach .NET. 
 
 ## Wymagania wstępne
 

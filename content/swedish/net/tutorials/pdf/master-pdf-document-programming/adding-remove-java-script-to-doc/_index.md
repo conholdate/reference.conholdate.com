@@ -54,7 +54,7 @@ doc.JavaScript["func2"] = "function func2() { alert('This is a test'); }";
 
 ## Steg 3: Spara PDF-filen med JavaScript
 
-Spara ditt uppdaterade dokument på disken:
+Spara ditt uppdaterade dokument på disk:
 
 ```csharp
 doc.Save(dataDir + "AddJavascript.pdf");

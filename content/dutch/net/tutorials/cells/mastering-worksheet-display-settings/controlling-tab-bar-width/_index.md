@@ -96,7 +96,7 @@ Er is een gratis proefversie beschikbaar, maar voor volledige functionaliteit is
 [Meer informatie over licenties](https://purchase.aspose.com/buy).
 
 ### Kan ik specifieke tabbladen verbergen in plaats van alle tabbladen?
- Nee, de`ShowTabs` eigenschap bepaalt de zichtbaarheid van alle tabbladen in de werkmap.
+ Nee, de`ShowTabs` Met deze eigenschap bepaalt u de zichtbaarheid van alle tabbladen in de werkmap.
 
 ### Wordt deze functie ondersteund in alle Excel-indelingen?
  Ja, Aspose.Cells ondersteunt het aanpassen van de breedte van de tabbalk voor alle Excel-bestandsindelingen, inclusief`.xls` En`.xlsx`.

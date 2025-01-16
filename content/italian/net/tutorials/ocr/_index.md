@@ -4,7 +4,7 @@ linktitle: Tutorial su Aspose.OCR per .NET
 type: docs
 weight: 10
 url: /it/net/tutorials/ocr/
-description: Sblocca la precisione nel riconoscimento delle immagini OCR con Aspose.OCR per .NET. Esplora i tutorial sul calcolo dell'angolo di inclinazione, il riconoscimento del testo, la configurazione OCR e l'ottimizzazione.
+description: Sblocca la precisione nel riconoscimento delle immagini OCR con Aspose.OCR per .NET. Esplora i tutorial sul calcolo dell'angolo di inclinazione, sul riconoscimento del testo, sulla configurazione OCR e sull'ottimizzazione.
 is_root: true
 ---
 

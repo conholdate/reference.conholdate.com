@@ -9,7 +9,7 @@ url: /pl/net/tutorials/email/handling-email-attachments/add-tnef-attachments-in-
 ---
 ## Wstęp
 
-Transport Neutral Encapsulation Format (TNEF) to zastrzeżony format, którego Microsoft Outlook używa do enkapsulacji tekstu sformatowanego i załączników w wiadomościach e-mail. Jeśli musisz programowo pracować z tymi załącznikami TNEF, Aspose.Email dla .NET to doskonała biblioteka obsługująca różne formaty wiadomości e-mail, w tym te z załącznikami TNEF. W tym przewodniku przeprowadzimy Cię przez proces konfiguracji środowiska, ładowania wiadomości e-mail, wyodrębniania i modyfikowania załączników TNEF oraz zapisywania zmian.
+Transport Neutral Encapsulation Format (TNEF) to zastrzeżony format, którego Microsoft Outlook używa do enkapsulacji tekstu sformatowanego i załączników w wiadomościach e-mail. Jeśli musisz programowo pracować z tymi załącznikami TNEF, Aspose.Email dla .NET to doskonała biblioteka obsługująca różne formaty wiadomości e-mail, w tym te z załącznikami TNEF. W tym przewodniku przeprowadzimy Cię przez proces konfigurowania środowiska, ładowania wiadomości e-mail, wyodrębniania i modyfikowania załączników TNEF oraz zapisywania zmian.
 
 ## Konfigurowanie środowiska programistycznego
 

@@ -73,7 +73,7 @@ Console.WriteLine("Is VBA Project Locked for Viewing: " + vbaProject.IsLockedFor
 
 ## Phần kết luận
 
-Trong hướng dẫn này, chúng tôi đã khám phá cách kiểm tra xem dự án VBA có được bảo vệ và khóa để xem hay không bằng Aspose.Cells cho .NET. Chúng tôi đã đề cập đến các điều kiện tiên quyết, nhập các gói cần thiết và chia nhỏ quy trình thành các bước dễ thực hiện. Aspose.Cells đơn giản hóa các tác vụ phức tạp, biến nó thành một công cụ vô giá đối với các nhà phát triển .NET làm việc với các tệp Excel.
+Trong hướng dẫn này, chúng tôi đã khám phá cách kiểm tra xem một dự án VBA có được bảo vệ và khóa để xem hay không bằng Aspose.Cells cho .NET. Chúng tôi đã đề cập đến các điều kiện tiên quyết, nhập các gói cần thiết và chia nhỏ quy trình thành các bước dễ thực hiện. Aspose.Cells đơn giản hóa các tác vụ phức tạp, biến nó thành một công cụ vô giá đối với các nhà phát triển .NET làm việc với các tệp Excel.
 
 Nếu bạn từng cảm thấy bực bội vì các dự án VBA bị khóa, hướng dẫn này sẽ trang bị cho bạn kiến thức để đánh giá và giải quyết những rào cản này một cách hiệu quả.
 

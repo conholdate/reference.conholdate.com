@@ -9,7 +9,7 @@ url: /nl/net/tutorials/annotation/master-advanced-annotation-features/
 ---
 ## Invoering
 
-Als het gaat om het beheren van documenten, zijn annotaties een game changer. Ze verbeteren niet alleen de samenwerking, maar maken het ook gemakkelijker om wijzigingen en feedback bij te houden. Met GroupDocs.Annotation voor .NET hebben ontwikkelaars een krachtige tool binnen handbereik om dit proces te stroomlijnen. Laten we eens kijken naar de twee belangrijkste tutorials die u helpen het volledige potentieel van deze software te benutten.
+Als het aankomt op het beheren van documenten, zijn annotaties een game changer. Ze verbeteren niet alleen de samenwerking, maar maken het ook makkelijker om wijzigingen en feedback bij te houden. Met GroupDocs.Annotation voor .NET hebben ontwikkelaars een krachtige tool binnen handbereik om dit proces te stroomlijnen. Laten we eens kijken naar de twee belangrijkste tutorials die u helpen het volledige potentieel van deze software te benutten.
 
 ## Annotaties exporteren uit XML-bestanden
 

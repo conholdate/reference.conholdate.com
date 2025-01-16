@@ -88,7 +88,7 @@ comment.Notes = "Updated Comment";
 Helyettesítse a „Frissített megjegyzés” szöveget a kívánt szöveggel a munkafüzeten belüli kommunikáció javítása érdekében.
 
 ## 7. lépés: Mentse el a munkafüzetet
-Az elvégzett módosításokat el kell menteni, hogy életbe lépjenek. Adja hozzá ezt a sort a módosítások mentéséhez:
+A módosításokat el kell menteni, hogy életbe lépjenek. Adja hozzá ezt a sort a módosítások mentéséhez:
 
 ```csharp
 workbook.Save(outDir + "EditThreadedComments.xlsx");

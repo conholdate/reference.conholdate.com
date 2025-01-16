@@ -2,7 +2,7 @@
 title: Převod do PDF pomocí Aspose.Cells v .NET
 linktitle: Převod do PDF pomocí Aspose.Cells v .NET
 second_title: Aspose.Cells .NET Excel Processing API
-description: Převádějte soubory Excelu do PDF bez námahy pomocí Aspose.Cells pro .NET. Objevte podrobné průvodce, úryvky kódu a tipy v našich obsáhlých výukových programech.
+description: Převádějte soubory Excelu do PDF bez námahy pomocí Aspose.Cells pro .NET. Objevte podrobné průvodce, úryvky kódu a tipy v našich komplexních výukových programech.
 type: docs
 weight: 34
 url: /cs/net/tutorials/cells/conversion-to-pdf-file/

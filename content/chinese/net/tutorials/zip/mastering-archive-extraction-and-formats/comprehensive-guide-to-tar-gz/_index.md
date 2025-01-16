@@ -37,7 +37,7 @@ using Aspose.Zip.Tar;
 string dataDir = "Your Document Directory";
 ```
 
-## 第 2 步：创建 TarGz 存档
+## 步骤 2：创建 TarGz 存档
 
 现在，让我们按照以下子步骤使用 Aspose.Zip for .NET 创建 TarGz 档案：
 

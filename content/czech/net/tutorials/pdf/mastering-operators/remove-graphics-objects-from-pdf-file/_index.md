@@ -64,7 +64,7 @@ Document doc = new Document(dataDir + "RemoveGraphicsObjects.pdf");
 
  Tím se vytvoří instance souboru`Document` třída, která načte zadaný soubor PDF.
 
-## Krok 2: Přístup ke sbírce stránek a operátorů
+## Krok 2: Přístup ke kolekci stránek a operátorů
 
 Soubory PDF se skládají ze stránek, z nichž každá obsahuje kolekci operátorů, která definuje, co se na dané stránce vykresluje, včetně grafiky a textu.
 

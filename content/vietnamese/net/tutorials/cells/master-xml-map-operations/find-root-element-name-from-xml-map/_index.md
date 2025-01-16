@@ -31,7 +31,7 @@ using Aspose.Cells;
 Các không gian tên này cung cấp chức năng cần thiết để làm việc với các tệp Excel và bản đồ XML.
 
 ## Bước 1: Xác định đường dẫn tệp
-Bắt đầu bằng cách chỉ định thư mục nơi tài liệu Excel của bạn được lưu trữ. Đường dẫn này sẽ cho phép chương trình dễ dàng định vị và tải tệp của bạn.
+Bắt đầu bằng cách chỉ định thư mục chứa tài liệu Excel của bạn. Đường dẫn này sẽ cho phép chương trình dễ dàng định vị và tải tệp của bạn.
 
 ```csharp
 // Chỉ định thư mục của tệp Excel

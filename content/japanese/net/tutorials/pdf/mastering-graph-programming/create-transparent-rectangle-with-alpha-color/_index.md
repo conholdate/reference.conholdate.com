@@ -73,7 +73,7 @@ rect.GraphInfo.FillColor = Aspose.Pdf.Color.FromRgb(System.Drawing.Color.FromArg
 canvas.Shapes.Add(rect);
 ```
 
-## ステップ5: 2つ目の四角形を追加する
+## ステップ5: 2つ目の長方形を追加する
 
 異なるサイズと色の設定で追加の長方形を作成し、独特な外観を実現できます。
 

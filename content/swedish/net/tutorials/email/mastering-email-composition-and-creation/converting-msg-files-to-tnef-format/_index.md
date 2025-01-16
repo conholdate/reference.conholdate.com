@@ -35,7 +35,7 @@ var msg = MapiMessage.FromFile("sample.msg");
 
 ## Konvertera MSG till TNEF-format
 
-Konverteringen av MSG-filer till TNEF-format är en sömlös process med Aspose.Email. Så här kan du göra detta:
+Konverteringen av MSG-filer till TNEF-format är en sömlös process med Aspose.Email. Så här kan du åstadkomma detta:
 
 ```csharp
 // Konvertera MSG till TNEF

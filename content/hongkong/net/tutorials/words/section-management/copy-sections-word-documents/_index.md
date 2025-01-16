@@ -34,7 +34,7 @@ using Aspose.Words;
 
 1. 安裝 Aspose.Words：從下列位置下載並安裝 Aspose.Words for .NET[這裡](https://releases.aspose.com/words/net/).
 2. 建立 .NET 專案：開啟 Visual Studio 並建立一個新的 C# 專案。
-3. 新增 Aspose.Words 參考：在您的專案中包含庫參考。
+3. 新增 Aspose.Words 參考：在專案中包含庫參考。
 
 ## 第 2 步：載入來源文檔和目標文檔
 

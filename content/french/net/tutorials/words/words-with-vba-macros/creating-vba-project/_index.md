@@ -22,7 +22,7 @@ Avant de passer au codage, assurez-vous de disposer des éléments suivants :
 
 ## Importation d'espaces de noms
 
-Pour utiliser les fonctionnalités d'Aspose.Words, vous devez importer les espaces de noms nécessaires. Ceux-ci donneront accès à toutes les classes et méthodes nécessaires à la gestion des documents Word et des projets VBA.
+Pour utiliser les fonctionnalités d'Aspose.Words, vous devez importer les espaces de noms nécessaires. Ceux-ci donneront accès à toutes les classes et méthodes requises pour la gestion des documents Word et des projets VBA.
 
 ```csharp
 using Aspose.Words;

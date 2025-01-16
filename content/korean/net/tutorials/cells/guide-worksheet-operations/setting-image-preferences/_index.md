@@ -99,7 +99,7 @@ PNG를 사용하면 출력물의 이미지 품질이 향상됩니다.
 saveOptions.ImageOptions.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
 ```
 
-이렇게 하면 가장자리의 들쭉날쭉한 부분이 줄어들어 이미지가 더 세련되게 보입니다.
+이렇게 하면 가장자리의 울퉁불퉁함이 줄어들어 이미지가 더 세련되게 보입니다.
 
 ## 7단계: 텍스트 렌더링 최적화
 

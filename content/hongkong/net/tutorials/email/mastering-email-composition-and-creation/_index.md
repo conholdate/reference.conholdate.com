@@ -30,7 +30,7 @@ url: /zh-hant/net/tutorials/email/mastering-email-composition-and-creation/
 
 ## 使用 Aspose.Email 在 C# 中設定電子郵件標頭  
 
-電子郵件標頭是電子郵件通訊的基本組成部分。它們包括從寄件者地址到路由資訊和身份驗證的所有內容。透過 Aspose.Email for .NET，您可以管理電子郵件標頭，以改善電子郵件傳送、增強安全性並確保您的郵件正確路由。在本指南中，我們將探討如何在 C# 中設定電子郵件標頭，讓您可以完全控制電子郵件的傳送和接收方式。在這裡開始配置標頭：[使用 Aspose.Email 在 C# 中設定電子郵件標頭](./configure-email-headers-in-csharp/).
+電子郵件標頭是電子郵件通訊的基本組成部分。它們包括從寄件者地址到路由資訊和身份驗證的所有內容。使用 Aspose.Email for .NET，您可以管理電子郵件標頭，以改善電子郵件傳送、增強安全性並確保您的郵件正確路由。在本指南中，我們將探討如何在 C# 中設定電子郵件標頭，讓您可以完全控制電子郵件的傳送和接收方式。在這裡開始配置標頭：[使用 Aspose.Email 在 C# 中設定電子郵件標頭](./configure-email-headers-in-csharp/).
 
 ## 掌握電子郵件撰寫與創建教程
 ### [製作一封新電子郵件 - C# 實現](./craft-a-fresh-email-csharp-implementation/)

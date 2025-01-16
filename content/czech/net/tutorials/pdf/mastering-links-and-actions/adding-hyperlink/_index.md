@@ -9,7 +9,7 @@ url: /cs/net/tutorials/pdf/mastering-links-and-actions/adding-hyperlink/
 ---
 ## Zavedení
 
-Zlepšení interaktivity a navigace v dokumentech PDF může výrazně zlepšit uživatelskou zkušenost. Ať už vytváříte faktury s odkazy na platební portály nebo sestavy, které čtenáře nasměrují na online zdroje, přidání hypertextových odkazů je účinný způsob, jak učinit vaše PDF uživatelsky přívětivější. V této příručce projdeme procesem přidávání hypertextových odkazů do souborů PDF pomocí knihovny Aspose.PDF pro .NET.
+Zlepšení interaktivity a navigace v dokumentech PDF může výrazně zlepšit uživatelskou zkušenost. Ať už vytváříte faktury s odkazy na platební portály nebo sestavy, které čtenáře nasměrují na online zdroje, přidávání hypertextových odkazů je účinný způsob, jak učinit vaše soubory PDF uživatelsky přívětivější. V této příručce projdeme procesem přidávání hypertextových odkazů do souborů PDF pomocí knihovny Aspose.PDF pro .NET.
 
 ## Předpoklady
 
@@ -114,7 +114,7 @@ document.Save(dataDir);
 
 ## Závěr
 
-Přidání hypertextových odkazů do dokumentů PDF pomocí Aspose.PDF for .NET nejen zvyšuje jejich profesionalitu, ale také zlepšuje zapojení uživatelů. Pomocí kroků uvedených v této příručce můžete snadno přidat hypertextové odkazy do libovolného souboru PDF, který vytvoříte nebo upravíte.
+Přidání hypertextových odkazů do dokumentů PDF pomocí Aspose.PDF for .NET nejen zvyšuje jejich profesionalitu, ale také zlepšuje zapojení uživatelů. Pomocí kroků uvedených v této příručce můžete snadno přidat hypertextové odkazy do jakéhokoli PDF, které vytvoříte nebo upravíte.
 
 ## FAQ
 

@@ -92,7 +92,7 @@ bitmap.Save(@"Your Document Directory\Images\Display_out.png");
 
 ### 상업 프로젝트에서 Aspose.Drawing을 사용하는 데 라이선스 고려 사항이 있습니까?
 
- 라이센스 세부 사항 및 옵션은 다음을 방문하십시오.[구매 페이지](https://purchase.conholdate.com/buy).
+ 라이센스 세부 사항 및 옵션은 다음을 방문하세요.[구매 페이지](https://purchase.conholdate.com/buy).
 
 ### Aspose.Drawing에 문제가 발생하거나 궁금한 점이 있으면 어디에서 도움을 받을 수 있나요?
 

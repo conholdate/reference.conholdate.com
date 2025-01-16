@@ -2,7 +2,7 @@
 title: Feladatszűrés ÉS Működés az Aspose.Tasks-ban
 linktitle: Feladatszűrés ÉS Működés az Aspose.Tasks-ban
 second_title: Aspose.Tasks .NET API
-description: Ismerje meg, hogyan használhatja ki az Aspose.Tasks for .NET osztályát a projektfeladatok több feltétel alapján történő szűrésére. Olyan feltételek kombinálásával, mint az összefoglaló feladatok és a nem null attribútumok.
+description: Ismerje meg, hogyan használhatja ki az Aspose.Tasks for .NET osztályát a projektfeladatok több feltétel alapján történő szűrésére. Olyan kritériumok kombinálásával, mint az összefoglaló feladatok és a nem null attribútumok.
 type: docs
 weight: 10
 url: /hu/net/tutorials/tasks/master-advanced-features/task-filtering-and-operation/

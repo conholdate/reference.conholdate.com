@@ -43,7 +43,7 @@ Di seguito sono riportati i link ad alcune risorse utili di cui potresti aver bi
 
 **Welcome to Aspose.Cells for .NET** 
 
-Aspose.Cells per .NET è una libreria di programmazione per fogli di calcolo che consente agli sviluppatori software di manipolare e convertire file di fogli di calcolo all'interno delle proprie applicazioni. Una combinazione di API e controlli GUI, Aspose.Cells per .NET velocizza la programmazione e la conversione di Microsoft Excel®. Aspose.Cells per .NET supporta i formati di file di fogli di calcolo più diffusi (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS) che la tua azienda usa ogni giorno. Consente inoltre di esportare file Excel in PDF, XPS, HTML, MHTML, Plain Text e formati di immagine più diffusi, tra cui TIFF, JPG, PNG, BMP e SVG. 
+Aspose.Cells per .NET è una libreria di programmazione per fogli di calcolo che consente agli sviluppatori di software di manipolare e convertire file di fogli di calcolo all'interno delle proprie applicazioni. Una combinazione di API e controlli GUI, Aspose.Cells per .NET velocizza la programmazione e la conversione di Microsoft Excel®. Aspose.Cells per .NET supporta i formati di file di fogli di calcolo più diffusi (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS) che la tua azienda usa ogni giorno. Consente inoltre di esportare file Excel in PDF, XPS, HTML, MHTML, Plain Text e formati di immagine più diffusi, tra cui TIFF, JPG, PNG, BMP e SVG. 
 
 {{% /alert %}} 
 
@@ -163,7 +163,7 @@ Di seguito sono riportati i link ad alcune risorse utili di cui potresti aver bi
 
 Aspose.OCR per .NET è un componente per il riconoscimento ottico di caratteri e segni che consente agli sviluppatori di aggiungere funzionalità OCR alle proprie applicazioni .NET utilizzando un semplice set di classi.
 
-Il componente è implementato usando Managed C# e può essere utilizzato con qualsiasi linguaggio .NET. Aspose.OCR per .NET è dotato di demo dettagliate ed esempi funzionanti scritti in C#. Le demo aiutano gli sviluppatori a conoscere le funzionalità del componente e a iniziare a usarlo rapidamente.
+Il componente è implementato usando Managed C# e può essere usato con qualsiasi linguaggio .NET. Aspose.OCR per .NET è fornito con demo dettagliate ed esempi funzionanti scritti in C#. Le demo aiutano gli sviluppatori a conoscere le funzionalità del componente e a iniziare a usarlo rapidamente.
 
 {{% /alert %}} 
 
@@ -258,7 +258,7 @@ Aspose.GIS per .NET è progettato specificamente per semplificare agli sviluppat
 
 Di seguito sono riportati i link ad alcune risorse utili di cui potresti aver bisogno per portare a termine i tuoi compiti.
 
-- [Guida di riferimento per l'API Aspose.GIS per .NET](https://reference.aspose.com/net/gis)
+- [Guida di riferimento per Aspose.GIS per .NET API](https://reference.aspose.com/net/gis)
 
 {{% alert color="primary" %}} 
 

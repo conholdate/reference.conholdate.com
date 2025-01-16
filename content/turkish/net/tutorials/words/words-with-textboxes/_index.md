@@ -2,7 +2,7 @@
 title: Aspose.Words for .NET'te Metin Kutulu Kelimeler
 linktitle: Metin Kutularıyla Kelime İşleme
 second_title: Aspose.Words Belge İşleme API'si
-description: Metin kutularıyla çalışma, belge tasarımını ve işlevselliğini geliştirme hakkındaki bu ayrıntılı eğitimlerle Aspose.Words for .NET'in gücünü ortaya çıkarın.
+description: Metin kutularıyla çalışma, belge tasarımını ve işlevselliğini geliştirme hakkındaki bu ayrıntılı eğitimlerle Aspose.Words for .NET'in gücünü açığa çıkarın.
 type: docs
 weight: 1320
 url: /tr/net/tutorials/words/words-with-textboxes/

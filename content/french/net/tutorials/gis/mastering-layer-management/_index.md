@@ -21,7 +21,7 @@ Tout d’abord, il y a TopoJSON, un format compact pour l’encodage des donnée
 
 Parlons maintenant des géodatabases de fichiers (GDB) : elles sont comme des classeurs numériques pour vos données spatiales. Ajouter des couches à une GDB peut sembler intimidant, mais avec Aspose.GIS, c'est simple ! 
 
- Dans le[Ajouter une couche à une géodatabase fichier à l'aide d'Aspose.GIS pour .NET](./add-layer-to-file-geo-database/) Ce didacticiel vous apprendra les tenants et aboutissants de la création de couches. Il couvre tout, des prérequis que vous devez mettre en place aux importations d'espaces de noms et aux étapes essentielles de la création et de la validation de couches dans vos jeux de données SIG. Considérez cela comme l'élaboration d'une recette : vous avez besoin des bons ingrédients et d'une bonne méthode pour cuisiner quelque chose de délicieux !
+ Dans le[Ajouter une couche à une géodatabase fichier à l'aide d'Aspose.GIS pour .NET](./add-layer-to-file-geo-database/) Dans ce didacticiel, vous apprendrez les tenants et aboutissants de la création de couches. Il couvre tout, des prérequis que vous devez mettre en place aux importations d'espaces de noms et aux étapes essentielles de la création et de la validation de couches dans vos jeux de données SIG. Considérez cela comme l'élaboration d'une recette : vous avez besoin des bons ingrédients et d'une bonne méthode pour cuisiner quelque chose de délicieux !
 
 ## Tutoriels sur la maîtrise de la gestion des calques
 ### [Travailler avec TopoJSON dans Aspose.GIS pour .NET](./working-with-topojson/)

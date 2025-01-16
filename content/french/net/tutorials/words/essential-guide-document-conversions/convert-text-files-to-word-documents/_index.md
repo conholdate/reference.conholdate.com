@@ -43,7 +43,7 @@ Document doc = new Document(dataDir + "EnglishText.txt");
 Une fois le fichier texte chargé, vous pouvez l'enregistrer sous forme de document Word (.docx) avec le code suivant :
 
 ```csharp
-// Enregistrer le document chargé en tant que document Word (.docx)
+// Enregistrez le document chargé en tant que document Word (.docx)
 doc.Save(dataDir + "ConvertedDocument.docx", SaveFormat.Docx);
 ```
 

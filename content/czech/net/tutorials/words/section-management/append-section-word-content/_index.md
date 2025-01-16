@@ -77,7 +77,7 @@ section.PrependContent(sectionToPrepend);
 
 Tento kód převezme obsah z první sekce a přidá jej na začátek třetí sekce.
 
-## Krok 6: Přidejte obsah do sekce
+## Krok 6: Připojte obsah k sekci
 
 Nyní připojíme obsah druhé části na konec třetí části.
 

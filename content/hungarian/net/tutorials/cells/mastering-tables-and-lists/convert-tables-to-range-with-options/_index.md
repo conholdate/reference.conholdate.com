@@ -66,7 +66,7 @@ TableToRangeOptions options = new TableToRangeOptions();
 options.LastRow = 5;  // Korlátozza az átalakítást a táblázat első öt sorára
 ```
 
-## 4. lépés: Alakítsa át a táblázatot tartományba
+## 4. lépés: A táblázat konvertálása tartományba
 
 Végezze el a tényleges konverziót a következő kódsor használatával:
 

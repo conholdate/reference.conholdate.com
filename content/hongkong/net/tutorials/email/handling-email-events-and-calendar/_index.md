@@ -33,7 +33,7 @@ Aspose.Email 最有用的功能之一是能夠從 ICS 檔案讀取日曆事件�
 
 ## 處理電子郵件事件和日曆教程
 ### [使用 C# 從 ICS 檔案讀取多個事件](./read-multiple-events-from-ics-files-with-csharp/)
-了解如何使用 Aspose.Email for .NET 從 C# 應用程式中的 ICS 檔案有效讀取和管理行事曆事件。本綜合指南將引導您完成設定。
+了解如何使用 Aspose.Email for .NET 在 C# 應用程式中有效率地讀取和管理 ICS 檔案中的行事曆事件。本綜合指南將引導您完成設定。
 ### [使用 Aspose.Email 在 MHTML 中渲染日曆事件](./render-calendar-events-in-mhtml/)
 使用 Aspose.Email for .NET 將行事曆事件渲染為 MHTML 格式。逐步了解如何使用 C# 自訂和儲存 MSG 檔案。
 ### [使用 C# 設定約會與會者的參與者狀態](./setting-participant-status-for-appointment-attendees/)

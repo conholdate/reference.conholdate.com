@@ -91,7 +91,7 @@ HtmlSaveOptions saveOptions = new HtmlSaveOptions
 doc.Save(dataDir + "ExportedFontsAsBase64.html", saveOptions);
 ```
 
-此命令将您的文档保存为 HTML 文件，其中嵌入 Base64 字体，确保它们在任何浏览器中都能正确呈现。
+此命令将您的文档保存为 HTML 文件，并以 Base64 形式嵌入字体，确保它们在任何浏览器中都能正确呈现。
 
 ## 结论
 

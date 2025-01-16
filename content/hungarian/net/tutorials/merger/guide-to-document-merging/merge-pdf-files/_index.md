@@ -2,7 +2,7 @@
 title: PDF-fájlok egyesítése a GroupDocs.Merger for .NET programmal
 linktitle: PDF-fájlok egyesítése a GroupDocs.Merger for .NET programmal
 second_title: GroupDocs.Merger .NET API
-description: Fedezze fel, hogyan egyesíthet zökkenőmentesen több PDF-fájlt .NET-alkalmazásaiban a GroupDocs.Merger segítségével. Ez az átfogó oktatóanyag világos, lépésről lépésre bemutatja a PDF-fájlok kombinálását.
+description: Fedezze fel, hogyan lehet több PDF-fájlt zökkenőmentesen egyesíteni .NET-alkalmazásaiban a GroupDocs.Merger segítségével. Ez az átfogó oktatóanyag világos, lépésről lépésre bemutatja a PDF-fájlok kombinálását.
 type: docs
 weight: 19
 url: /hu/net/tutorials/merger/guide-to-document-merging/merge-pdf-files/

@@ -52,7 +52,7 @@ string dataDir = "YOUR DOCUMENT DIRECTORY";
 
 ## Stap 2: Open het PDF-document
 
-Laten we nu het PDF-document openen waarmee u wilt werken:
+Open nu het PDF-document waarmee u wilt werken:
 
 ```csharp
 Document pdfDocument = new Document(dataDir + "AddChildBookmark.pdf");

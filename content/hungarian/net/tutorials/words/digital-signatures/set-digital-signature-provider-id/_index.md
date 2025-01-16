@@ -13,7 +13,7 @@ Helló! Ha digitális aláírást szeretne hozzáadni Word-dokumentumához egy a
 
 ## Előfeltételek
 
-Búvárkodás előtt győződjön meg arról, hogy rendelkezik a következőkkel:
+A merülés előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
 1. Aspose.Words for .NET Library:[Töltse le itt](https://releases.aspose.com/words/net/).
 2. Fejlesztői környezet: Visual Studio vagy bármely C#-kompatibilis IDE.

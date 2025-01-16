@@ -51,7 +51,7 @@ namespace CustomHyperlinkRendering
 
 ## Hiperhivatkozások megjelenítése a Href segítségével
 
- Az első módszer, amelyet alkalmazni fogunk`RenderHyperlinkWithHref` , amely kivonja a hiperhivatkozásokat azokkal együtt`href` attribútumok.
+ Az első módszer, amelyet alkalmazni fogunk`RenderHyperlinkWithHref` , amely kivonja a hiperhivatkozásokat azokkal együtt`href` attribútumokat.
 
 ```csharp
 private static string RenderHyperlinkWithHref(string source)

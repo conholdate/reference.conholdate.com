@@ -57,7 +57,7 @@ generator.Save($"{path}ITF6Correct.png", BarCodeImageFormat.Png);
 
 ## 步骤3：处理错误的代码文本
 
-处理不正确的代码文本时，可以通过设置来选择不抛出异常`ThrowExceptionWhenCodeTextIncorrect`到`false`这可让您从容地处理这种情况。
+处理不正确的代码文本时，您可以选择不抛出异常，方法是设置`ThrowExceptionWhenCodeTextIncorrect`到`false`这可让您从容地处理这种情况。
 
 ```csharp
 generator.CodeText = "12"; //代码文本无效

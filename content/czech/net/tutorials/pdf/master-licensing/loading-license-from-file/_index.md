@@ -16,7 +16,7 @@ Při práci s Aspose.PDF pro .NET zkušební verze ukládá určitá omezení, j
 Chcete-li postupovat podle tohoto průvodce, ujistěte se, že máte následující:  
 
 - Aspose.PDF for .NET: Nainstalujte knihovnu do svého vývojového prostředí. Stáhněte si jej z[Aspose PDF Releases](https://releases.aspose.com/pdf/net/).  
--  Licenční soubor: Získejte platný`.lic` soubor. Pro dočasné licence navštivte stránku[Přijměte dočasnou licenci](https://purchase.aspose.com/temporary-license/).  
+-  Licenční soubor: Získejte platný`.lic` soubor. Pro dočasné licence navštivte[Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/).  
 - Vývojové prostředí: Pro bezproblémové kódování a testování použijte IDE, jako je Visual Studio.  
 - Základní znalost C#: Díky znalosti syntaxe C# bude implementace bezproblémová.  
 

@@ -83,7 +83,7 @@ In dit artikel hebben we onderzocht hoe u MSG-bestanden naar TNEF-formaat kunt c
 
 ### Hoe verbetert het TNEF-formaat e-mailcommunicatie?
 
-Met het TNEF-formaat kunt u tekst met opmaak en multimedia-elementen in e-mailberichten integreren, waardoor de visuele en interactieve aspecten van e-mailcommunicatie aanzienlijk worden verbeterd.
+Met het TNEF-formaat kunt u tekst met opmaak en multimedia-elementen in e-mailberichten opnemen, waardoor de visuele en interactieve aspecten van e-mailcommunicatie aanzienlijk worden verbeterd.
 
 ### Kan ik het conversieproces aanpassen aan mijn behoeften?
 

@@ -108,4 +108,4 @@ Console.WriteLine("Modified Baseline Work: " + baseline.Work);
 네, 세부적인 시간대별 기준선 데이터를 검색하여 분석할 수 있습니다.
 
 ### 지원과 문서는 어디에서 볼 수 있나요?  
- 방문하다[Aspose.Tasks 문서](https://reference.aspose.com/words/net/) 또는 가입하세요[Aspose 지원 포럼](https://forum.aspose.com/c/words/8) 도움이 필요하면. 
+ 방문하다[Aspose.Tasks 문서](https://reference.aspose.com/words/net/)또는 가입하세요[Aspose 지원 포럼](https://forum.aspose.com/c/words/8) 도움이 필요하면. 

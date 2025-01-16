@@ -99,4 +99,4 @@ Tak! Aspose udostępnia bezpłatną wersję próbną, która umożliwia przetest
  Możesz sprawdzić pełną dokumentację[Tutaj](https://reference.aspose.com/pdf/net/).
 
 ### Co powinienem zrobić, jeśli napotkam problemy?
- Jeśli napotkasz jakiekolwiek problemy, odwiedź[Forum wsparcia Aspose](https://forum.aspose.com/c/pdf/10) po pomoc.
+ Jeśli napotkasz jakiekolwiek problemy, odwiedź stronę[Forum wsparcia Aspose](https://forum.aspose.com/c/pdf/10) po pomoc.

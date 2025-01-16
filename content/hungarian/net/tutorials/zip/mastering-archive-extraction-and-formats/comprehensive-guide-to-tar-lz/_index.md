@@ -55,7 +55,7 @@ using (TarArchive archive = new TarArchive())
 
 ## 3. lépés: Több fájl tömörítése
 
-Ha több fájlt egyetlen TarLz archívumba szeretne tömöríteni, az alábbiak szerint bővítheti a funkciókat:
+Ha több fájlt egyetlen TarLz-archívumba szeretne tömöríteni, az alábbiak szerint bővítheti a funkciókat:
 
 ```csharp
 //ExStart: CompressMultipleFiles

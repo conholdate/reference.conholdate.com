@@ -61,7 +61,7 @@ FileSpecification fileSpecification = new FileSpecification("SampleFile.txt", "S
 
 ## Étape 4 : Désactiver la compression du fichier
 
- Réglez le`Encoding` propriété à`FileEncoding.None`Cela garantit que le fichier est ajouté sans compression.
+ Réglez le`Encoding` propriété à`FileEncoding.None`. Cela garantit que le fichier est ajouté sans compression.
 
 ```csharp
 fileSpecification.Encoding = FileEncoding.None;
@@ -104,7 +104,7 @@ La désactivation de la compression de fichiers garantit que les fichiers intég
  Aspose.PDF propose un essai gratuit pour l'évaluation. Vous pouvez le télécharger[ici](https://releases.aspose.com/).
 
 ### Où puis-je trouver une documentation détaillée sur Aspose.PDF ?
- Une documentation complète est disponible sur le[Documentation Aspose.PDF](https://reference.aspose.com/pdf/net/).
+ Une documentation complète est disponible sur le site[Documentation Aspose.PDF](https://reference.aspose.com/pdf/net/).
 
 ### Quelles options de support sont disponibles pour Aspose.PDF ?
  Aspose fournit une communauté et un support payant via le[Forum Aspose](https://forum.aspose.com/c/pdf/10).

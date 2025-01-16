@@ -41,7 +41,7 @@ using System.IO;
 ```csharp
 using (Annotator annotator = new Annotator("input.pdf"))
 {
-    // Προχωρήστε στον καθορισμό των επιλογών προεπισκόπησης
+    // Προχωρήστε στον ορισμό των επιλογών προεπισκόπησης
 }
 ```
 

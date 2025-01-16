@@ -60,7 +60,7 @@ workbook.Worksheets[0].VerticalPageBreaks.Add("Y30");
 ```
 在這個例子中，`VerticalPageBreaks.Add("Y30")`在 X 列之後建立分隔符，確保左側的內容顯示在一頁上，右側的內容顯示在下一頁。
 
-## 步驟 4：儲存工作簿
+## 第 4 步：儲存工作簿
 最後，儲存工作簿以保留變更：
 
 ```csharp

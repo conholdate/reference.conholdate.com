@@ -89,7 +89,7 @@ VBA projemiz ve modülümüz hazır olduğuna göre, tüm değişikliklerinizi k
 doc.Save(dataDir + "WorkingWithVba.CreateVbaProject.docm");
 ```
 
-Bu satır belgeyi belirtilen dizine "WorkingWithVba.CreateVbaProject.docm" olarak kaydeder. Tebrikler! VBA projesi içeren bir Word belgesi oluşturdunuz.
+Bu satır belgeyi "WorkingWithVba.CreateVbaProject.docm" olarak belirtilen dizine kaydeder. Tebrikler! VBA projesi içeren bir Word belgesi oluşturdunuz.
 
 ## Çözüm
 

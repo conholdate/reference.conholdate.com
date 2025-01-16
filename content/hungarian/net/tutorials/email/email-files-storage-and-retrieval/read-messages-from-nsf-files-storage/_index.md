@@ -125,7 +125,7 @@ Gratulálok! Most tanulta meg, hogyan olvassa el az üzeneteket az NSF-tárolóf
 ## GYIK
 
 ### Mi az NSF fájl?  
-Az NSF (Notes Storage Facility) fájl egy adatbázisfájl formátum, amelyet az IBM Notes (korábban Lotus Notes) használ e-mailek, naptárak és egyéb adatok tárolására.
+Az NSF (Notes Storage Facility) fájl egy adatbázis-fájlformátum, amelyet az IBM Notes (korábban Lotus Notes) használ e-mailek, naptárak és egyéb adatok tárolására.
 
 ### Kivonhatok mellékleteket az NSF-fájlokból az Aspose.Email használatával?  
 Igen, az Aspose.Email lehetővé teszi az NSF-fájlokban tárolt e-mailek mellékleteinek kinyerését.

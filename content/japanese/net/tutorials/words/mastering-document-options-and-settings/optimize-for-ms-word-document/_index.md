@@ -49,7 +49,7 @@ Document doc = new Document(dataDir + "Document.docx");
 
 ## ステップ3: MS Wordの特定のバージョンに最適化する
 
-次は、特定の Microsoft Word バージョンに合わせてドキュメントを最適化するという、楽しい部分です。この例では、Word 2016 用に準備します。
+次は、特定の Microsoft Word バージョンに合わせてドキュメントを最適化するという、楽しい作業です。この例では、Word 2016 用に準備します。
 
 ```csharp
 doc.CompatibilityOptions.OptimizeFor(MsWordVersion.Word2016);

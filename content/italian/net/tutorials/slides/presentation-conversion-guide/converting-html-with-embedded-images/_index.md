@@ -18,7 +18,7 @@ Prima di intraprendere il processo di conversione, assicurarsi che siano soddisf
 1. Aspose.Slides per .NET  
     Scarica la libreria dal[Pagina delle release di Aspose](https://releases.aspose.com/slides/net/).
 
-2. Una presentazione PowerPoint  
+2. Una presentazione in PowerPoint  
    Prepara il file .PPTX con le immagini incorporate e gli altri contenuti richiesti.
 
 3. Ambiente di sviluppo  

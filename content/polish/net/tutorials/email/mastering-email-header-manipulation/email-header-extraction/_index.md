@@ -72,7 +72,7 @@ foreach (var received in receivedHeaders)
 
 ### Uzyskiwanie dostępu do nagłówków MIME i Content-Type
 
-Nagłówki te są kluczowe dla zrozumienia formatowania treści wiadomości e-mail:
+Poniższe nagłówki są niezwykle istotne dla zrozumienia formatowania treści wiadomości e-mail:
 
 ```csharp
 string mimeVersion = message.Headers["MIME-Version"];

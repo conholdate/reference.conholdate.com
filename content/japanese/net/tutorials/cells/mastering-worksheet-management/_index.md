@@ -2,7 +2,7 @@
 title: ワークシート管理をマスターする
 linktitle: ワークシート管理をマスターする
 second_title: Aspose.Cells .NET Excel 処理 API
-description: Aspose.Cells for .NET チュートリアルを調べて、Excel の自動化を習得します。プログラムを使用して、新規または既存の Excel ファイルにワークシートを追加/削除する方法を学びます。
+description: Aspose.Cells for .NET チュートリアルを調べて、Excel の自動化を習得します。プログラムによって、新規または既存の Excel ファイルにワークシートを追加/削除する方法を学びます。
 type: docs
 weight: 25
 url: /ja/net/tutorials/cells/mastering-worksheet-management/

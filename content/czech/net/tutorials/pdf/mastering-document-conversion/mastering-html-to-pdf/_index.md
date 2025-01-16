@@ -76,7 +76,7 @@ pdfDocument.Save("HTMLToPDF_out.pdf");
 
 Tím se výstupní PDF uloží do stejného adresáře jako váš soubor HTML.
 
-## Krok 5: Řešení výjimek
+## Krok 5: Ošetřete výjimky
 
 Zabalte svůj kód do bloku try-catch, abyste zvládli případné chyby během procesu převodu:
 

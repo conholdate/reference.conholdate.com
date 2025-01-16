@@ -83,7 +83,7 @@ Ano! Můžete převádět z různých formátů, včetně DOC, DOCX a HTML do RT
 ### Potřebuji licenci pro Aspose.Words?
  Aspose.Words nabízí zkušební režim, ale pro rozšířené použití nebo komerční projekty je vyžadována licence. Zvažte pořízení a[dočasná licence](https://purchase.conholdate.com/temporary-license/) pro hodnocení.
 
-### Co když můj konverzní výstup není podle očekávání?
+### Co když můj výstup konverze není podle očekávání?
  Zkontrolujte vstupní dokument, zda neobsahuje problémy, nebo nahlédněte do[Dokumentace Aspose.Words](https://reference.aspose.com/words/net/) pro vedení.
 
 ### Mohu tento proces převodu automatizovat?

@@ -75,7 +75,7 @@ module.SourceCode = "Sub HelloWorld() \n MsgBox \"Hello, World!\" \n End Sub";
 doc.VbaProject.Modules.Add(module);
 ```
 
-ในข้อความสั้นๆ นี้:
+ในสคริปท์นี้:
 -  เราสร้างสิ่งใหม่`VbaModule` วัตถุ.
 - ตั้งชื่อเป็น "AsposeModule"
 -  กำหนดประเภทโมดูลเป็น`VbaModuleType.ProceduralModule`.

@@ -1,5 +1,5 @@
 ---
-title: Adjon hozzá egy réteget egy fájl geoadatbázishoz az Aspose.GIS for .NET használatával
+title: Adjon hozzá egy réteget egy fájl geoadatbázisához az Aspose.GIS for .NET használatával
 linktitle: Adjon hozzá egy réteget egy fájl geoadatbázishoz
 second_title: Aspose.GIS .NET API
 description: Ismerje meg, hogyan adhat hozzá új fóliát egy fájl geoadatbázishoz (GDB) az Aspose.GIS for .NET használatával. Ez az átfogó útmutató leírja az előfeltételeket, a névterek importálását, valamint a rétegek létrehozásának és érvényesítésének részletes lépéseit a GIS-adatkészletekben.

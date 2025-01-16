@@ -13,7 +13,7 @@ mai adatvezérelt környezetben a pivot táblák elengedhetetlenek a nagy adatk�
 
 ## Előfeltételek
 
-Búvárkodás előtt győződjön meg arról, hogy rendelkezik a következőkkel:
+A merülés előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
 1. Aspose.Cells for .NET: Töltse le a[Az Aspose kiadási oldala](https://releases.aspose.com/cells/net/).
 2. Visual Studio vagy IDE: Használjon bármilyen IDE-t, amely támogatja a .NET fejlesztést, és a Visual Studio népszerű választás.

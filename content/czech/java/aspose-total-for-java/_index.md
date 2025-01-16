@@ -125,7 +125,7 @@ Níže jsou uvedeny odkazy na některé užitečné zdroje, které můžete pot�
 
 **Welcome to Aspose.Tasks for Java!**
 
-Aspose.Tasks for Java je knihovna tříd, která umožňuje vývojářům aplikací Java začlenit funkce zpracování dokumentů Microsoft Project ® (MPP/MPT/XLS), aniž by museli používat Microsoft Project®. Rozhraní API tedy v takových aplikacích eliminuje požadavek Microsoft Office Automation. Aspose.Tasks for Java, přenesený z ekvivalentního produktu .NET, je vyspělý produkt, který nabízí stabilitu a flexibilitu. Komponenta poskytuje snadno použitelné API pro manipulaci se soubory projektu, což šetří čas a peníze ve srovnání s vývojem podobných funkcí od začátku.
+Aspose.Tasks for Java je knihovna tříd, která umožňuje vývojářům Java aplikací začlenit funkce zpracování dokumentů Microsoft Project ® (MPP/MPT/XLS), aniž by museli používat Microsoft Project®. Rozhraní API tedy v takových aplikacích eliminuje požadavek Microsoft Office Automation. Aspose.Tasks for Java, přenesený z ekvivalentního produktu .NET, je vyspělý produkt, který nabízí stabilitu a flexibilitu. Komponenta poskytuje snadno použitelné API pro manipulaci se soubory projektu, což šetří čas a peníze ve srovnání s vývojem podobných funkcí od začátku.
 
 {{% /alert %}}
 

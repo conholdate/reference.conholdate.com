@@ -21,7 +21,7 @@ Imaginez que vous développez une application qui doit gérer des milliers de do
 
 Tout comme pour les fichiers TAR, la gestion des fichiers ZIP est essentielle dans de nombreuses applications. Le tutoriel sur[Fusionner des fichiers ZIP à l'aide de GroupDocs.Merger pour .NET](./merge-zip-files/) vous guide à travers les prérequis et le processus de fusion. Les fichiers ZIP sont omniprésents sur Internet, utilisés pour tout, du téléchargement de logiciels au partage de documents. Comprendre comment fusionner ces fichiers par programmation est une compétence que tout développeur devrait avoir. Ce guide couvre non seulement la procédure à suivre, mais aborde également les meilleures pratiques et les pièges courants, vous permettant d'aborder la fusion de fichiers en toute connaissance de cause et en toute confiance.
 
-## Fusionner et compresser des fichiers avec GroupDocs Merger Tutoriels .NET
+## Fusionner et compresser des fichiers avec GroupDocs Merger .NET Tutoriels
 ### [Fusionner les fichiers Tar avec GroupDocs.Merger pour .NET](./merge-tar-files/)
 Découvrez comment fusionner de manière transparente des fichiers TAR dans vos applications .NET à l'aide de GroupDocs.Merger. Ce didacticiel fournit une approche complète, étape par étape, avec un exemple de code.
 ### [Fusionner des fichiers ZIP à l'aide de GroupDocs.Merger pour .NET](./merge-zip-files/)

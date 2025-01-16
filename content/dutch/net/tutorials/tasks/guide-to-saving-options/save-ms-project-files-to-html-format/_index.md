@@ -16,8 +16,8 @@ Welkom bij onze uitgebreide tutorial over het converteren van Microsoft Project-
 Voordat we beginnen, zorg ervoor dat u aan de volgende voorwaarden voldoet:
 
 1. Basiskennis van C#: Kennis van de programmeertaal C# wordt verondersteld.
-2. Aspose.Tasks-installatie: Zorg ervoor dat u Aspose.Tasks voor .NET in uw ontwikkelomgeving hebt geïnstalleerd. U kunt het eenvoudig verkrijgen via de[Aspose-website](https://www.aspose.com).
-3.  Microsoft Project-bestand: Zorg dat u een Microsoft Project-bestand gereed hebt voor conversie (met een`.mpp` verlenging).
+2.  Aspose.Tasks-installatie: Zorg ervoor dat u Aspose.Tasks voor .NET in uw ontwikkelomgeving hebt geïnstalleerd. U kunt het eenvoudig verkrijgen via de[Aspose-website](https://www.aspose.com).
+3. Microsoft Project-bestand: Zorg dat u een Microsoft Project-bestand gereed hebt voor conversie (met een`.mpp` verlenging).
 
 ## Noodzakelijke naamruimten importeren
 

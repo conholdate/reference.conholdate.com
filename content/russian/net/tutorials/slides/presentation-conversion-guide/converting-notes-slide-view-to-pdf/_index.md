@@ -94,4 +94,4 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
  Конечно! Вы можете выбрать определенные слайды с помощью`Slides` коллекция в`Presentation` сорт.
 
 ### В5: Где я могу найти дополнительные примеры?
- Посетите[Документация Aspose.Slides для .NET](https://reference.aspose.com/slides/net/)для получения дополнительных примеров и вариантов использования.
+ Посетите[Документация Aspose.Slides для .NET](https://reference.aspose.com/slides/net/) для получения дополнительных примеров и вариантов использования.

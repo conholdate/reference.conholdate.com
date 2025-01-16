@@ -13,7 +13,7 @@ Aspose.Email für .NET ist eine leistungsstarke Bibliothek, die Entwicklern dabe
 
 ## Einrichten Ihrer Entwicklungsumgebung
 
-Stellen Sie vor dem Beginn sicher, dass Sie über eine C#-Entwicklungsumgebung verfügen. Sie können Visual Studio oder eine andere IDE Ihrer Wahl verwenden. 
+Stellen Sie vor dem Beginn sicher, dass Sie eine C#-Entwicklungsumgebung bereit haben. Sie können Visual Studio oder eine andere IDE Ihrer Wahl verwenden. 
 
 ### Installieren Sie Aspose.Email über NuGet
 

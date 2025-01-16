@@ -46,7 +46,7 @@ ImapClient client = new ImapClient("imap.example.com", "username", "password");
 client.SelectFolder(ImapFolderInfo.InBox);
 ```
 
--  Заменять`imap.example.com` с адресом IMAP-сервера вашего провайдера электронной почты (например,`imap.gmail.com` для Gmail).
+-  Заменять`imap.example.com` с адресом сервера IMAP вашего провайдера электронной почты (например,`imap.gmail.com` для Gmail).
 -  Используйте свой реальный адрес электронной почты`username` и`password`.
 - `SelectFolder(ImapFolderInfo.InBox)`указывает, что мы хотим работать с почтовым ящиком.
 

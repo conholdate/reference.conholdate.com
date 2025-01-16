@@ -2,7 +2,7 @@
 title: Hämta XML-sökväg från List Object Table med Aspose.Cells
 linktitle: Hämta XML-sökväg från List Object Table med Aspose.Cells
 second_title: Aspose.Cells .NET Excel Processing API
-description: Lär dig hur du hämtar XML-sökvägen från en listobjekttabell i ett Excel-kalkylblad med Aspose.Cells för .NET. Denna omfattande guide täcker varje steg.
+description: Lär dig hur du hämtar XML-sökvägen från en listobjekttabell i ett Excel-kalkylblad med Aspose.Cells för .NET. Den här omfattande guiden täcker varje steg.
 type: docs
 weight: 11
 url: /sv/net/tutorials/cells/master-xml-map-operations/retrieve-xml-path-from-list-object-table/

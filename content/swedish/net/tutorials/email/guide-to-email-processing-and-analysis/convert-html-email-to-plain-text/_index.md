@@ -93,11 +93,11 @@ doc.Save("plain_text.txt", SaveFormat.Text);
 
 ## Slutsats
 
-Grattis! Du har precis lärt dig hur man konverterar en HTML-text från ett e-postmeddelande till vanlig text med Aspose.Email för .NET. Denna process är enkel och kan vara otroligt användbar i olika scenarier, som att öka kompatibiliteten och säkerställa tillgänglighet. 
+Grattis! Du har precis lärt dig hur man konverterar en HTML-text från ett e-postmeddelande till vanlig text med Aspose.Email för .NET. Denna process är enkel och kan vara otroligt användbar i olika scenarier, som att öka kompatibiliteten och säkerställa tillgängligheten. 
 
 ## FAQ's
 
-### Vad används C# till i den här handledningen?  
+### Vad används C# till i denna handledning?  
 C# är det programmeringsspråk vi använder för att exekvera logiken som krävs för att konvertera HTML till vanlig text.
 
 ### Behöver jag en licens för att använda Aspose-produkter?  

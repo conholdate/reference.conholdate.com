@@ -15,7 +15,7 @@ Už se vám někdy zdálo, že je obtížné připojit text ze sekce se záložk
 
 Než se ponoříme, ujistěte se, že máte následující:
 
--  Aspose.Words for .NET: Pokud jste jej ještě nenainstalovali, můžete[stáhněte si jej zde](https://releases.aspose.com/words/net/).
+-  Aspose.Words for .NET: Pokud jste jej ještě nenainstalovali, můžete[stáhněte si to zde](https://releases.aspose.com/words/net/).
 - Vývojové prostředí: Vývojové prostředí .NET jako Visual Studio.
 - Základní znalost C#: Výhodou bude znalost základních konceptů programování v C#.
 - Dokument aplikace Word se záložkami: Dokument aplikace Word obsahující záložky, ze kterých budeme přidávat text.

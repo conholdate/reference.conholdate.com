@@ -18,7 +18,7 @@ této příručce vás provedeme kompletním tutoriálem, počínaje nezbytnými
 Než začnete kódovat, ujistěte se, že máte následující:
 
 - Visual Studio nainstalované na vašem počítači.
--  Aspose.Email pro knihovnu .NET. Můžete[stáhněte si jej zde](https://releases.aspose.com/email/net/) nebo jej nainstalujte přes NuGet.
+-  Aspose.Email pro knihovnu .NET. Můžete[stáhněte si to zde](https://releases.aspose.com/email/net/) nebo jej nainstalujte přes NuGet.
 - Platný e-mailový účet (podpora IMAP/POP3).
 - Základní znalost programování v C#.
 
@@ -79,7 +79,7 @@ foreach (ImapMessageInfo messageInfo in messages)
 - `FetchMessage()` načte skutečný obsah e-mailu pro dané ID zprávy.
 
 
-## Krok 4: Protáhněte přílohy
+## Krok 4: Projděte si přílohy
 
  Nyní, když máte obsah e-mailu, je čas extrahovat přílohy. Každý`MailMessage` objekt obsahuje kolekci příloh.
 

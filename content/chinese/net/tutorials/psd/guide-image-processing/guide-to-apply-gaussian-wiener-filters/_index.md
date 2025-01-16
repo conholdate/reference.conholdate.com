@@ -97,7 +97,7 @@ Console.WriteLine($"Filtered image saved to: {destName}");
 
 ## 常见问题解答
 
-### 我可以将这些过滤器应用于 PSD 以外的其他格式的图像吗？
+### 我可以将这些滤镜应用于 PSD 以外的其他格式的图像吗？
 
 是的，Aspose.PSD 支持多种格式，包括 BMP、JPEG、PNG 等，允许进行多种图像处理。
 

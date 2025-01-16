@@ -80,7 +80,7 @@ spamAnalyzer.SaveDatabase(spamFilterDatabase);
 
 ## Stap 5: Laad de database
 
-Voordat u een e-mailbericht analyseert, moet u de database van het getrainde spamfilter laden.
+Voordat u een e-mailbericht analyseert, moet u de getrainde spamfilterdatabase laden.
 
 ```csharp
 spamAnalyzer.LoadDatabase(spamFilterDatabase);

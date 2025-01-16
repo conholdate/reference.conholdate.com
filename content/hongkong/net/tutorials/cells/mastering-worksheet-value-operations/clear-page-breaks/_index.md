@@ -68,7 +68,7 @@ workbook.Worksheets[0].VerticalPageBreaks.Clear();
 
 這有效地為您提供了一個乾淨的工作表，不會受到干擾。
 
-## 步驟 4：儲存工作簿
+## 第 4 步：儲存工作簿
 
 清除分頁符號後，儲存變更以完成工作簿：
 

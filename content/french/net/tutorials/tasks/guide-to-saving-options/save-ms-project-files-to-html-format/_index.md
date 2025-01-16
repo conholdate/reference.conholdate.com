@@ -16,8 +16,8 @@ Bienvenue dans notre didacticiel complet sur la conversion de fichiers Microsoft
 Avant de commencer, assurez-vous que vous disposez des conditions préalables suivantes :
 
 1. Connaissances de base de C# : Une familiarité avec le langage de programmation C# est supposée.
-2. Installation d'Aspose.Tasks : Assurez-vous que Aspose.Tasks pour .NET est installé dans votre environnement de développement. Vous pouvez facilement l'obtenir à partir du[Site Web d'Aspose](https://www.aspose.com).
-3.  Fichier Microsoft Project : Ayez un fichier Microsoft Project prêt pour la conversion (avec un`.mpp` extension).
+2.  Installation d'Aspose.Tasks : Assurez-vous que Aspose.Tasks pour .NET est installé dans votre environnement de développement. Vous pouvez facilement l'obtenir à partir du[Site Web d'Aspose](https://www.aspose.com).
+3. Fichier Microsoft Project : Ayez un fichier Microsoft Project prêt pour la conversion (avec un`.mpp` extension).
 
 ## Importer les espaces de noms nécessaires
 

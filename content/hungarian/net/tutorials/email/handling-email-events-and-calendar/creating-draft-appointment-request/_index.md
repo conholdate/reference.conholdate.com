@@ -65,7 +65,7 @@ Ha releváns fájlokat kell csatolnia, adja meg azok elérési útját:
 string[] attachments = { "path/to/file1.pdf", "path/to/file2.docx" };
 ```
 
-## Az e-mail piszkozat létrehozása
+## Az e-mail piszkozat generálása
 
 Használja az Aspose.Email könyvtárat a találkozó részleteit tartalmazó e-mail piszkozat létrehozásához:
 

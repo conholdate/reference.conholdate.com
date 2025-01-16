@@ -250,7 +250,7 @@ Nachfolgend finden Sie Links zu einigen nützlichen Ressourcen, die Sie möglich
 
 **Welcome to Aspose.GIS for .NET**
 
-Aspose.GIS für .NET wurde speziell dafür entwickelt, .NET-Entwicklern die Arbeit mit Geodaten zu erleichtern, die in verschiedenen Dateiformaten gespeichert sind. Sie können damit geografische Daten erstellen, lesen, konvertieren und Karten rendern, ohne eine andere GIS-Software installieren zu müssen. Aspose.GIS unterstützt Shapefile, GeoJSON, KML, ESRI File Geodatabase und andere Formate.
+Aspose.GIS für .NET wurde speziell entwickelt, um .NET-Entwicklern die Arbeit mit Geodaten zu erleichtern, die in verschiedenen Dateiformaten gespeichert sind. Sie können geografische Daten erstellen, lesen, konvertieren und Karten rendern, ohne andere GIS-Software installieren zu müssen. Aspose.GIS unterstützt Shapefile, GeoJSON, KML, ESRI File Geodatabase und andere Formate.
 
 {{% /alert %}} 
 
@@ -413,7 +413,7 @@ Nachfolgend finden Sie Links zu einigen nützlichen Ressourcen, die Sie möglich
 
 **Welcome to the Aspose.TeX for .NET**
 
-Aspose.TeX ist eine .NET-Bibliothek für den Satz von TeX-Dateien. Sie kann TeX-Eingaben in verschiedenen Grafikformaten wie XPS, PDF, PNG, JPEG, TIFF und BMP darstellen. Wie jede andere TeX-Engine gibt sie auch Tracing-Informationen aus. Die API bietet verschiedene Möglichkeiten, TeX-Eingaben weiterzugeben und Ausgaben zu erhalten. Und als erweiterte Funktion können Sie Ihr eigenes TeX-Format erstellen, wenn Sie mehrere einheitlich gestaltete Dokumente setzen möchten.
+Aspose.TeX ist eine .NET-Bibliothek für den Satz von TeX-Dateien. Sie kann TeX-Eingaben in verschiedenen Grafikformaten wie XPS, PDF, PNG, JPEG, TIFF und BMP darstellen. Außerdem gibt sie wie jede andere TeX-Engine Tracing-Informationen aus. Die API bietet verschiedene Möglichkeiten, TeX-Eingaben weiterzugeben und Ausgaben zu erhalten. Und als erweiterte Funktion können Sie Ihr eigenes TeX-Format erstellen, wenn Sie mehrere einheitlich gestaltete Dokumente setzen möchten.
 
 {{% /alert %}} 
 

@@ -94,4 +94,4 @@ presentation.Save(dataDir + "Pdf_Notes_out.pdf", SaveFormat.Pdf, pdfOptions);
  بالتأكيد! يمكنك تحديد شرائح معينة باستخدام`Slides` مجموعة في`Presentation` فصل.
 
 ### س5: أين يمكنني العثور على أمثلة إضافية؟
- قم بزيارة[توثيق Aspose.Slides لـ .NET](https://reference.aspose.com/slides/net/)لمزيد من الأمثلة وحالات الاستخدام.
+ قم بزيارة[توثيق Aspose.Slides لـ .NET](https://reference.aspose.com/slides/net/) لمزيد من الأمثلة وحالات الاستخدام.

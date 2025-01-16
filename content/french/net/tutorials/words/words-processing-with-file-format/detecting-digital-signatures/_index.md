@@ -42,7 +42,7 @@ Ajoutez la bibliothèque Aspose.Words à votre projet à l’aide de NuGet :
 - Choisissez « Gérer les packages NuGet ».
 - Recherchez « Aspose.Words » et installez la dernière version.
 
-## Étape 3 : Définir le chemin du répertoire de documents
+## Étape 3 : Définir le chemin du répertoire du document
 
 Spécifiez le chemin d'accès au répertoire contenant votre document Word :
 
@@ -99,7 +99,7 @@ Non, Aspose.Words pour .NET ne conserve pas les signatures numériques lors de l
 
 ### Où puis-je trouver plus de documentation sur Aspose.Words pour .NET ?
 
- Une documentation complète est disponible sur le[Page de documentation d'Aspose](https://reference.aspose.com/words/net/).
+ Une documentation complète est disponible sur le site[Page de documentation d'Aspose](https://reference.aspose.com/words/net/).
 
 ### Comment puis-je obtenir de l'aide pour Aspose.Words pour .NET ?
 

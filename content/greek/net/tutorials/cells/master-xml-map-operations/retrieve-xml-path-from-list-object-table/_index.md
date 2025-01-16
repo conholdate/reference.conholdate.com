@@ -90,7 +90,7 @@ Aspose.Cells.Tables.ListObject listObject = worksheet.ListObjects[0];
 Τώρα έρχεται το κρίσιμο μέρος: εξαγωγή της διαδρομής XML που σχετίζεται με τον πίνακα αντικειμένων λίστας. Χρησιμοποιώντας το Aspose.Cells, μπορείτε εύκολα να ανακτήσετε τη διεύθυνση URL σύνδεσης χαρτών XML, η οποία οδηγεί στην πηγή δεδομένων XML. Δείτε πώς να το κάνετε:
 
 ```csharp
-// Ανακτήστε τη διεύθυνση URL σύνδεσης χάρτη XML
+// Ανακτήστε τη διεύθυνση URL σύνδεσης χαρτών XML
 string xmlPath = listObject.XmlMap.DataBinding.Url;
 ```
 

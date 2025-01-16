@@ -47,7 +47,7 @@ using Aspose.Email.Mhtml;
 string dataDir = "Your Data Directory";
 ```
 
-代替`"Your Data Directory"`與您的實際路徑`.eml`文件位於。例如，如果您的檔案位於`C:\Emails`，你會寫：
+代替`"Your Data Directory"`與你的實際路徑`.eml`文件位於。例如，如果您的檔案位於`C:\Emails`，你會寫：
 
 ```csharp
 string dataDir = @"C:\Emails\";

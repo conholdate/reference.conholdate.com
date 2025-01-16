@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/words/words-with-vba-macros/
 ---
 ## 介紹
 
-探索掌握 Aspose.Words for .NET 的基本教學課程，專門研究 Word VBA 巨集。在本文中，我們將引導您完成三個關鍵方面：建立 VBA 專案、讀取現有巨集以及在 Word 文件中複製 VBA 專案。無論您是初學者還是想提高技能，這些教程都提供實用的逐步說明，您一定不想錯過。 
+探索掌握 Aspose.Words for .NET 的基本教學課程，專門研究 Word VBA 巨集。在本文中，我們將引導您完成三個關鍵方面：建立 VBA 專案、讀取現有巨集以及在 Word 文件中複製 VBA 專案。無論您是初學者還是想要提高技能，這些教程都提供了實用的逐步說明，您一定不想錯過。 
 
 ## 在 Word 中建立 VBA 項目
 
@@ -34,4 +34,4 @@ url: /zh-hant/net/tutorials/words/words-with-vba-macros/
 | --- | --- |
 | [在Word文件中建立Vba項目](./creating-vba-project/) | 透過我們關於使用 Aspose.Words for .NET 建立 VBA 專案的綜合指南，釋放 Word 文件中自動化的力量。本逐步教程指南。 |
 | [使用 Aspose.Words 從 Word 文件讀取 VBA 宏](./reading-vba-macros-word-document/) | 了解如何使用 Aspose.Words for .NET 從 Word 文件中有效讀取和提取 VBA 巨集。本詳細指南提供了逐步說明，包括程式碼範例。 |
-| [使用 Aspose.Words 在 Word 文件中複製 VBA 項目](./clone-vba-project-word-document/) | 了解如何使用 Aspose.Words for .NET 將 VBA 專案從一個 Word 文件無縫複製到另一個 Word 文件。本逐步教學將引導您完成設定。 |
+| [使用 Aspose.Words 在 Word 文件中複製 VBA 項目](./clone-vba-project-word-document/) | 了解如何使用 Aspose.Words for .NET 將 VBA 專案從一個 Word 文件無縫複製到另一個文件。本逐步教學將引導您完成設定。 |

@@ -26,7 +26,7 @@ Duik in de wereld van PDF-bijlagen met onze vakkundig gemaakte tutorials over As
  Nu u het toevoegen en verwijderen van bestanden onder de knie hebt, wat als u alle bijlagen uit een PDF wilt halen? Onze uitgebreide gids over[Haal alle bijlagen uit PDF-bestanden](./get-all-the-attachments-from-pdf-files/) biedt een gedetailleerd proces voor het in één keer ophalen van elk bijgevoegd bestand. Het is alsof u een betrouwbare schatkaart hebt die u naar elke verborgen parel in uw PDF leidt. Deze tool is van onschatbare waarde voor iedereen die inhoud moet beheren of het delen van documenten moet stroomlijnen.
 
 
-## PDF-bijlagen onder de knie krijgen Tutorials
+## PDF-bijlagen onder de knie krijgen - tutorials
 | Titel | Beschrijving |
 | --- | --- | 
 | [Bijlage toevoegen aan PDF-bestand](./adding-attachment/) | Leer hoe u eenvoudig bestanden aan PDF-documenten kunt toevoegen met Aspose.PDF voor .NET. Volg onze stapsgewijze handleiding om uw PDF-functionaliteit te verbeteren met ingesloten bestanden. |  

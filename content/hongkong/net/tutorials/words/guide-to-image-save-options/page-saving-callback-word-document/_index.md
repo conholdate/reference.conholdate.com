@@ -61,7 +61,7 @@ ImageSaveOptions imageSaveOptions = new ImageSaveOptions(SaveFormat.Png)
 
 ## 步驟5：實現頁面保存回調
 
-現在，我們需要實作處理每個頁面如何保存的回呼類別。
+現在，我們需要實作處理每個頁面保存方式的回呼類別。
 
 ```csharp
 private class HandlePageSavingCallback : IPageSavingCallback

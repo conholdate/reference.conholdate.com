@@ -103,7 +103,7 @@ MHTML은 HTML과 이미지와 같은 관련 리소스를 포함하는 웹 아카
 네! Aspose.Email은 반복되는 이벤트 렌더링을 지원하여 모든 세부 정보가 정확하게 캡처되도록 합니다.
 
 ### 면허가 필요한가요?
- 네, 유효한 면허가 필요합니다. 다음을 요청할 수 있습니다.[임시 면허](https://purchase.aspose.com/temporary-license/) 평가를 위해.
+ 네, 유효한 면허가 필요합니다. 다음을 요청할 수 있습니다.[임시 면허](https://purchase.aspose.com/temporary-license/) 평가를 위해서.
 
 ### 출력에 사용자 정의 속성을 추가할 수 있나요?
  물론입니다! 다음을 사용하여 추가 속성에 대한 템플릿을 사용자 정의할 수 있습니다.`FormatTemplates` 수집.

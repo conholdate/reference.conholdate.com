@@ -96,7 +96,7 @@ destinationDoc.Save(dataDir + "WorkingWithSection.CopySection.docx");
 
 ## Abschluss
 
-Das Kopieren von Abschnitten zwischen Word-Dokumenten ist mit Aspose.Words für .NET keine schwierige Aufgabe mehr. Ob Sie einzelne Abschnitte bearbeiten oder Massenvorgänge automatisieren, diese robuste Bibliothek sorgt für Präzision und Effizienz. Entdecken Sie die umfangreichen Funktionen, um Ihre Dokumentenverwaltungs-Workflows zu revolutionieren.
+Das Kopieren von Abschnitten zwischen Word-Dokumenten ist mit Aspose.Words für .NET keine schwierige Aufgabe mehr. Ob Sie einzelne Abschnitte verarbeiten oder Massenvorgänge automatisieren, diese robuste Bibliothek sorgt für Präzision und Effizienz. Entdecken Sie die umfangreichen Funktionen, um Ihre Dokumentenverwaltungs-Workflows zu revolutionieren.
 
 ## FAQs
 

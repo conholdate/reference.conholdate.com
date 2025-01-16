@@ -30,7 +30,7 @@ using System.Text;
 ```
 
 ## Krok 1: Nastavte zdrojový adresář
-Nejprve zadejte adresář, kde je umístěn váš soubor Excel. Ujistěte se, že cesta odpovídá umístění vašeho souboru ve vašem systému.
+Nejprve zadejte adresář, kde se nachází váš soubor Excel. Ujistěte se, že cesta odpovídá umístění vašeho souboru ve vašem systému.
 
 ```csharp
 // Zdrojový adresář

@@ -31,7 +31,7 @@ using System;
 
 ## Adım 2: Parola Korumalı Bir Belge için Yükleme Seçeneklerini Ayarlayın
 
- Parola korumalı bir belgeden meta verileri yüklemek için yükleme seçeneklerini yapılandırmanız gerekir. Belge parolasını şurada belirtin:`LoadOptions` nesne:
+ Parola korumalı bir belgeden meta veri yüklemek için yükleme seçeneklerini yapılandırmanız gerekir. Belge parolasını şurada belirtin:`LoadOptions` nesne:
 
 ```csharp
 var loadOptions = new LoadOptions

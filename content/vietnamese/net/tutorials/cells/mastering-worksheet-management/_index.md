@@ -25,7 +25,7 @@ Bạn có thấy mệt mỏi khi phải quản lý các tệp Excel theo cách t
 
 ## Quản lý bảng tính như một chuyên gia  
 
- Đôi khi, ít hơn là nhiều hơn. Khi bạn cần dọn dẹp tệp Excel của mình, việc xóa các bảng tính không cần thiết theo tên của chúng trở nên rất quan trọng. Hướng dẫn này hướng dẫn bạn cách xác định và xóa các bảng tính cụ thể theo chương trình để giữ cho bảng tính của bạn gọn gàng và dễ quản lý. Kiểm tra[Xóa các trang tính cụ thể theo tên](./remove-specific-worksheets-by-name/) để biết hướng dẫn từng bước.  
+ Đôi khi, ít hơn lại là nhiều hơn. Khi bạn cần dọn dẹp tệp Excel của mình, việc xóa các bảng tính không cần thiết theo tên của chúng trở nên rất quan trọng. Hướng dẫn này hướng dẫn bạn cách xác định và xóa các bảng tính cụ thể theo chương trình để giữ cho bảng tính của bạn gọn gàng và dễ quản lý. Kiểm tra[Xóa các trang tính cụ thể theo tên](./remove-specific-worksheets-by-name/) để biết hướng dẫn từng bước.  
 
 ## Làm chủ hướng dẫn quản lý bảng tính
 ### [Thêm trang tính vào bảng tính Designer bằng Aspose.Cells](./adding-worksheets-to-designer-spreadsheet/)

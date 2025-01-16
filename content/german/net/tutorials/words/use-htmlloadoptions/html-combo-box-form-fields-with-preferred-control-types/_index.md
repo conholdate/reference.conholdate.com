@@ -96,7 +96,7 @@ Dadurch wird eine Word-Datei generiert, die das korrekt gerenderte Kombinationsf
 
 ## Abschluss
 
- Das Einbinden von HTML-Inhalten, insbesondere Formularfeldern wie Kombinationsfeldern, in Word-Dokumente mit Aspose.Words für .NET ist unkompliziert, wenn Sie`HtmlLoadOptions`. Dieses Handbuch vermittelt Ihnen das Wissen, wie Sie die Darstellung dieser Elemente steuern und sicherstellen, dass Ihre Dokumente die Benutzer- und Projektanforderungen erfüllen.
+ Das Einbinden von HTML-Inhalten, insbesondere Formularfeldern wie Kombinationsfeldern, in Word-Dokumente mit Aspose.Words für .NET ist unkompliziert, wenn Sie`HtmlLoadOptions`. Dieses Handbuch vermittelt Ihnen das Wissen, um die Darstellung dieser Elemente zu steuern und sicherzustellen, dass Ihre Dokumente die Benutzer- und Projektanforderungen erfüllen.
 
 ## Häufig gestellte Fragen
 

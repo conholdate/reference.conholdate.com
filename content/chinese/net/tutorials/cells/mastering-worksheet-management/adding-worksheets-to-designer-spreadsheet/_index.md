@@ -14,7 +14,7 @@ url: /zh/net/tutorials/cells/mastering-worksheet-management/adding-worksheets-to
 ## 先决条件
 在开始之前，请确保您已准备好以下物品：
 
-1.  Aspose.Cells for .NET 库：下载[Aspose.Cells for .NET 库](https://releases.aspose.com/cells/net/)并将其添加到您的项目中。您可以先免费试用，也可以获取[临时执照](https://purchase.aspose.com/temporary-license/)以获得全功能访问。
+1.  Aspose.Cells for .NET 库：下载[Aspose.Cells for .NET 库](https://releases.aspose.com/cells/net/)并将其添加到您的项目中。您可以先免费试用，也可以获取[临时执照](https://purchase.aspose.com/temporary-license/)以获得完整功能访问。
 2. C# 基础知识：熟悉 C# 语法将帮助您更好地理解代码。
 3. Visual Studio 或兼容 IDE：使用与 .NET 兼容的集成开发环境 (IDE)（如 Visual Studio）来编写和测试您的代码。
 

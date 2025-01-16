@@ -128,7 +128,7 @@ private static void ShowEmlConversionProgress(ProgressEventHandlerInfo info)
 - `ProgressEventHandlerInfo`: Részleteket ad az átalakítási folyamatról.  
 -  Kapcsolóesetek: Kezelje az átalakítás különböző szakaszait:`MimeStructureCreated`, `MimePartSaved` , és`SavedToStream`.  
 
-### Mire számíthatunk?  
+### Mire számíthat?  
 Az átalakítás előrehaladtával részletes frissítések jelennek meg a konzolra nyomtatva, például:  
 ```plaintext
 MimeStructureCreated - TotalMimePartCount: 10  

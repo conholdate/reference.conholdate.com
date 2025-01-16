@@ -90,7 +90,7 @@ gen.Parameters.Barcode.Codabar.CodabarStopSymbol = CodabarSymbol.D;
 
 ## 步骤 4：保存生成的条形码图像
 
-最后将生成的Codabar条码图像保存到您指定的目录中：
+最后，将生成的Codabar条码图像保存到您指定的目录中：
 
 ```csharp
 gen.Save($"{path}CodabarStartAStopA.png", BarCodeImageFormat.Png);

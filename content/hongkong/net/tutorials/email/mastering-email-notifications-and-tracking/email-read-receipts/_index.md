@@ -17,7 +17,7 @@ url: /zh-hant/net/tutorials/email/mastering-email-notifications-and-tracking/ema
 
 在深入研究程式碼之前，請確保您已準備好以下內容：
 
-1. 已安裝 Aspose.Email for .NET 程式庫。[在此下載](https://releases.aspose.com/email/net/).
+1. 已安裝 Aspose.Email for .NET 程式庫。[在這裡下載](https://releases.aspose.com/email/net/).
 2. 具有憑證（主機、使用者名稱、密碼）的有效 SMTP 伺服器。
 3. Visual Studio 或任何相容的 IDE。
 4. 已安裝 .NET 框架。

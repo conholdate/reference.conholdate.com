@@ -27,7 +27,7 @@ Egyre globalizálódó világunkban elengedhetetlen a több nyelv támogatása. 
 
 Interaktív szövegdobozok létrehozása a PDF-fájlokban jelentősen javíthatja a felhasználók interakcióját az űrlappal. Képzeljen el egy felmérést vagy egy visszajelzési űrlapot, ahol a felhasználók közvetlenül beírhatják válaszaikat a dokumentumba. Az Aspose.PDF for .NET könyvtárral a testreszabható szövegmezők hozzáadása egyszerű. Ez az oktatóanyag végigvezeti Önt a teljes folyamaton, a PDF-dokumentum beállításától a szövegdobozok hatékony integrálásáig. Tekintsd ezt úgy, mint a PDF-fájl személyes megjelenését – lehetővé téve a felhasználók számára, hogy szabadon kifejezzék magukat az űrlapon![Olvass tovább](./adding-text-boxes/).
 
-## A PDF-űrlapok oktatóanyagának elsajátítása
+## PDF-űrlapok oktatóanyagok elsajátítása
 | Cím | Leírás |
 | --- | --- | 
 | [Eszköztippek hozzáadása PDF űrlapmezőihez az Aspose.PDF for .NET segítségével](./adding-tooltips-to-pdf-form-fields/) | Fedezze fel, hogyan javíthatja PDF-űrlapjai használhatóságát az űrlapmezőkhöz tájékoztató eszköztippek hozzáadásával az Aspose.PDF for .NET segítségével. Ez a lépésenkénti útmutató végigvezeti a folyamaton. |  

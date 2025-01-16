@@ -94,4 +94,4 @@ Tak, Aspose.Slides dla platformy .NET jest przeznaczony do wydajnej obsługi pre
  Oczywiście! Możesz wybrać konkretne slajdy za pomocą`Slides` kolekcja w`Presentation` klasa.
 
 ### P5: Gdzie mogę znaleźć dodatkowe przykłady?
- Odwiedź[Dokumentacja Aspose.Slides dla .NET](https://reference.aspose.com/slides/net/)aby zobaczyć więcej przykładów i przypadków użycia.
+ Odwiedź[Dokumentacja Aspose.Slides dla .NET](https://reference.aspose.com/slides/net/) aby zobaczyć więcej przykładów i przypadków użycia.

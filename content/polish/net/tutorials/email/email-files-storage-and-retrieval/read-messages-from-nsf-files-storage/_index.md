@@ -128,7 +128,7 @@ Gratulacje! Właśnie nauczyłeś się, jak odczytywać wiadomości z plików pa
 Plik NSF (Notes Storage Facility) to format pliku bazy danych używany przez program IBM Notes (dawniej Lotus Notes) do przechowywania wiadomości e-mail, kalendarzy i innych danych.
 
 ### Czy mogę wyodrębnić załączniki z plików NSF za pomocą Aspose.Email?  
-Tak, Aspose.Email pozwala na wyodrębnianie załączników z wiadomości e-mail przechowywanych w plikach NSF.
+Tak, Aspose.Email pozwala wyodrębniać załączniki z wiadomości e-mail przechowywanych w plikach NSF.
 
 ### Czy Aspose.Email jest kompatybilny z .NET Core?  
 Oczywiście! Aspose.Email obsługuje zarówno .NET Framework, jak i .NET Core.

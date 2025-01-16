@@ -97,7 +97,7 @@ Votre scène 3D composée de modèles primitifs est maintenant terminée et sauv
 
 ## FAQ
 
-### Puis-je utiliser Aspose.3D pour .NET avec d’autres langages de programmation que .NET ?
+### Puis-je utiliser Aspose.3D pour .NET avec des langages de programmation autres que .NET ?
 
 Aspose.3D prend principalement en charge .NET, mais il existe des versions disponibles pour Java et d'autres plates-formes.
 

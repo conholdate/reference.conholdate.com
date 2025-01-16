@@ -80,7 +80,7 @@ Worksheet worksheet = workbook.Worksheets[0];
 
 ## 4. lépés: Nyissa meg az Excel táblázatot
 
-Határozza meg a táblázatot a munkalapon:
+Azonosítsa a táblázatot a munkalapon:
 
 ```csharp
 // Nyissa meg a munkalap első táblázatát.

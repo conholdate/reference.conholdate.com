@@ -111,7 +111,7 @@ System.Console.WriteLine("\nPage orientation changed successfully.\nFile saved a
 
 ## 結論
 
-現在你就得到它了！使用 Aspose.PDF for .NET 變更 PDF 檔案的頁面方向是一個簡單的過程。透過載入文件、循環瀏覽頁面、更新 MediaBox 和儲存文件，您可以輕鬆調整佈局以滿足您的需求。無論您是要修正掃描品質不佳的文件還是要格式化簡報的頁面，本指南都可以幫助您有效率地完成工作。
+現在你就擁有了！使用 Aspose.PDF for .NET 變更 PDF 檔案的頁面方向是一個簡單的過程。透過載入文件、循環瀏覽頁面、更新 MediaBox 和儲存文件，您可以輕鬆調整佈局以滿足您的需求。無論您是要修正掃描品質不佳的文件還是要格式化簡報的頁面，本指南都可以幫助您有效率地完成工作。
 
 ## 常見問題解答
 

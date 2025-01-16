@@ -22,7 +22,7 @@ Než skočíme do kroků, ujistěte se, že máte následující:
 
 ## Importujte požadované jmenné prostory
 
-Začněte importováním potřebných jmenných prostorů. Ty vám umožní přístup k požadovaným třídám a metodám pro práci s PDF v Aspose.PDF pro .NET.
+Začněte importem potřebných jmenných prostorů. Ty vám umožní přístup k požadovaným třídám a metodám pro práci s PDF v Aspose.PDF pro .NET.
 
 ```csharp
 using System.IO;

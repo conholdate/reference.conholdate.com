@@ -67,7 +67,7 @@ workbook.Save(dataDir + "output.out.xls");
 
 ## Wniosek
 
-Gratulacje! Udało Ci się usunąć arkusz kalkulacyjny z pliku Excel przy użyciu Aspose.Cells dla .NET. Za pomocą zaledwie kilku wierszy kodu możesz sprawnie zarządzać arkuszami kalkulacyjnymi, usprawniając swój przepływ pracy. Aspose.Cells to doskonałe narzędzie do rozwiązywania złożonych zadań w programie Excel, a ten przewodnik zapewnia solidne podstawy do dalszej eksploracji.
+Gratulacje! Udało Ci się usunąć arkusz kalkulacyjny z pliku Excel przy użyciu Aspose.Cells dla .NET. Za pomocą zaledwie kilku linijek kodu możesz sprawnie zarządzać arkuszami kalkulacyjnymi, usprawniając swój przepływ pracy. Aspose.Cells to doskonałe narzędzie do rozwiązywania złożonych zadań w programie Excel, a ten przewodnik zapewnia solidne podstawy do dalszej eksploracji.
 
 ## Najczęściej zadawane pytania
 

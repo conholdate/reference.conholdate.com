@@ -25,6 +25,6 @@ Most pedig folytassa a Mastering Assignment Baselines oktatóanyaggal! Ez az út
 
 ## Master Advanced Features oktatóanyagok
 ### [Feladatszűrés ÉS Működés az Aspose.Tasks-ban](./task-filtering-and-operation/)
-Ismerje meg, hogyan használhatja ki az Aspose.Tasks for .NET osztályát a projektfeladatok több feltétel alapján történő szűrésére. Olyan feltételek kombinálásával, mint az összefoglaló feladatok és a nem null attribútumok.
+Ismerje meg, hogyan használhatja ki az Aspose.Tasks for .NET osztályát a projektfeladatok több feltétel alapján történő szűrésére. Olyan kritériumok kombinálásával, mint az összefoglaló feladatok és a nem null attribútumok.
 ### [Hozzárendelési alapvonalak elsajátítása az Aspose.Tasks segítségével .NET-hez](./mastering-assignment-baseline/)
 Ismerje meg, hogyan kezelheti hatékonyan a hozzárendelési alapvonalakat az Aspose.Tasks for .NET használatával. Ez a lépésenkénti útmutató a projektek betöltését, az alapvonalak beállítását, az adatok lekérését, az alapvonalak összehasonlítását és egyebeket ismerteti a projektmenedzsment munkafolyamatainak optimalizálása érdekében.

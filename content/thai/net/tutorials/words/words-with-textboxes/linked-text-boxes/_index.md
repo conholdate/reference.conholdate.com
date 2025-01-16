@@ -84,7 +84,7 @@ if (textBox1.IsValidLinkTarget(textBox2))
 }
 ```
 
-ในข้อความสั้นๆ นี้:
+ในสคริปท์นี้:
 - `IsValidLinkTarget` ตรวจสอบว่า`textBox2` สามารถเชื่อมโยงได้`textBox1`.
 -  หากเป็นจริงการมอบหมาย`textBox1.Next = textBox2` สร้างการเชื่อมโยง
 

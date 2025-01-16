@@ -9,7 +9,7 @@ url: /nl/net/tutorials/cells/mastering-rendering-and-exporting/add-bookmarks-wit
 ---
 ## Invoering
 
-Navigeren door grote PDF-bestanden kan vaak voelen als het zoeken naar een speld in een hooiberg, vooral wanneer ze zijn gegenereerd vanuit uitgebreide Excel-spreadsheets. Bladwijzers in PDF-documenten bieden een naadloze manier om te springen tussen relevante secties van een bestand, wat de gebruikerservaring verbetert. Deze gedetailleerde gids leidt u door het proces van het toevoegen van bladwijzers met benoemde bestemmingen aan een PDF die is gegenereerd vanuit een Excel-bestand met behulp van Aspose.Cells voor .NET.
+Navigeren door grote PDF-bestanden kan vaak aanvoelen als het zoeken naar een speld in een hooiberg, vooral wanneer ze zijn gegenereerd vanuit uitgebreide Excel-spreadsheets. Bladwijzers in PDF-documenten bieden een naadloze manier om te springen tussen relevante secties van een bestand, wat de gebruikerservaring verbetert. Deze gedetailleerde gids leidt u door het proces van het toevoegen van bladwijzers met benoemde bestemmingen aan een PDF die is gegenereerd vanuit een Excel-bestand met behulp van Aspose.Cells voor .NET.
 
 ## Vereisten voor het werken met Aspose.Cells voor .NET
 

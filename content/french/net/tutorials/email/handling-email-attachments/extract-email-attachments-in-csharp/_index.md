@@ -39,7 +39,7 @@ Décomposons le processus en étapes faciles à comprendre. Suivez chaque étape
 
 ## Étape 1 : Configurez votre client IMAP
 
-La première étape consiste à vous connecter à votre serveur de messagerie à l'aide du protocole IMAP. IMAP nous permet d'accéder aux messages électroniques du serveur et de les récupérer.
+La première étape consiste à vous connecter à votre serveur de messagerie en utilisant le protocole IMAP. IMAP nous permet d'accéder aux messages électroniques du serveur et de les récupérer.
 
 ```csharp
 ImapClient client = new ImapClient("imap.example.com", "username", "password");

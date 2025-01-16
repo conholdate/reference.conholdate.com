@@ -92,7 +92,7 @@ Ano, Aspose.Drawing je pravidelně aktualizován, aby byla zachována kompatibil
 
 ### Existují úvahy o licencování pro použití Aspose.Drawing v komerčních projektech?
 
- Podrobnosti a možnosti licencování naleznete na adrese[nákupní stránku](https://purchase.conholdate.com/buy).
+ Podrobnosti o licencování a možnosti naleznete na[nákupní stránku](https://purchase.conholdate.com/buy).
 
 ### Kde mohu vyhledat pomoc, pokud narazím na problémy nebo mám dotazy ohledně Aspose.Drawing?
 

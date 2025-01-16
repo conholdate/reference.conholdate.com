@@ -1,6 +1,6 @@
 ---
 title: Κύρια επεξεργασία εικόνας με Aspose.Drawing για .NET
-linktitle: Κύρια επεξεργασία εικόνας
+linktitle: Κύρια Επεξεργασία Εικόνας
 second_title: Aspose.Drawing .NET API - Εναλλακτική λύση στο System.Drawing.Common
 description: Εξερευνήστε τα μαθήματα Aspose.Drawing για .NET για να κυριαρχήσετε στην επεξεργασία, την περικοπή και την προβολή εικόνων σε εφαρμογές .NET με οδηγούς βήμα προς βήμα.
 type: docs

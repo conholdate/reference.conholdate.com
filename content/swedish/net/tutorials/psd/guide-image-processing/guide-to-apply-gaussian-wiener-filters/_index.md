@@ -68,7 +68,7 @@ Skapa och konfigurera sedan dina Gauss- och Wienerfilteralternativ genom att ang
 // Skapa en instans av GaussWienerFilterOptions med angivna parametrar
 GaussWienerFilterOptions options = new GaussWienerFilterOptions(12, 3)
 {
-    Grayscale = true // Ställ in på sant för gråskalebearbetning
+    Grayscale = true // Ställ in på sant för gråskalebehandling
 };
 ```
 

@@ -86,7 +86,7 @@ pdfDocument.Outlines.Delete();
 pdfDocument.Save(dataDir + "YourPDFwithoutBookmarks.pdf");
 ```
 
-Это позволит сохранить файл без закладок в указанном каталоге.
+Это сохранит файл без закладок в указанном каталоге.
 
 ## Шаг 5: Подтвердите операцию
 

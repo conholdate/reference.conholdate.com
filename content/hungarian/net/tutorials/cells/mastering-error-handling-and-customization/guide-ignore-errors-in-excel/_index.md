@@ -37,7 +37,7 @@ Ez lehetővé teszi az Aspose.Cells által biztosított osztályok és metóduso
 
 ## 2. lépés: Állítsa be a címtárakat
 
-Határozza meg, hol található a forrás Excel-fájl, és hová szeretné menteni a kimeneti PDF-fájlt. Hozzon létre változókat ezekhez az útvonalakhoz:
+Határozza meg, hol található a forrás Excel-fájl, és hova szeretné menteni a kimeneti PDF-fájlt. Hozzon létre változókat ezekhez az útvonalakhoz:
 
 ```csharp
 // Forrás könyvtár

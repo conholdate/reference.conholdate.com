@@ -85,7 +85,7 @@ Félicitations pour avoir terminé ce guide ! Vous avez appris à exploiter la 
 ## FAQ
 
 ### Qu'est-ce qu'une carte XML dans Excel ?
-Une carte XML relie les données d'une feuille de calcul Excel à un schéma XML, permettant l'importation et l'exportation de données structurées entre des fichiers XML et des feuilles de calcul.
+Une carte XML relie les données d'une feuille de calcul Excel à un schéma XML, permettant d'importer et d'exporter des données structurées entre des fichiers XML et des feuilles de calcul.
 
 ### Puis-je accéder à plusieurs cartes XML dans un fichier Excel à l'aide d'Aspose.Cells ?
  Oui ! Vous pouvez accéder à plusieurs cartes XML en utilisant le`XmlMaps` propriété et les parcourir selon les besoins.

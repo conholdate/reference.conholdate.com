@@ -13,7 +13,7 @@ Szüksége volt már arra, hogy egy Word-dokumentum minden oldalát egyedi képe
 
 ## Előfeltételek
 
-Búvárkodás előtt győződjön meg arról, hogy rendelkezik a következőkkel:
+A merülés előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
 1.  Aspose.Words for .NET: Töltse le és telepítse a webhelyről[itt](https://releases.aspose.com/words/net/).
 2. Visual Studio: Bármelyik verzió működik, de ehhez az útmutatóhoz a Visual Studio 2019-et fogjuk használni.

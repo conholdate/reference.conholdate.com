@@ -9,7 +9,7 @@ url: /nl/net/tutorials/cad/guide-to-exporting-cad-format/convert-dgn-to-pdf/
 ---
 ## Invoering
 
-Navigeren door de wereld van CAD-bestanden kan een uitdaging zijn, maar met Aspose.CAD voor .NET kunnen ontwikkelaars eenvoudig verschillende CAD-formaten manipuleren en converteren. Een veelvoorkomende behoefte is het converteren van DGN-bestanden naar PDF's, wat we stap voor stap zullen onderzoeken in deze tutorial.
+Navigeren door de wereld van CAD-bestanden kan een uitdaging zijn, maar met Aspose.CAD voor .NET kunnen ontwikkelaars eenvoudig verschillende CAD-formaten manipuleren en converteren. Een veelvoorkomende behoefte is het converteren van DGN-bestanden naar PDF's, wat we stap voor stap in deze tutorial zullen onderzoeken.
 
 ## Vereisten
 

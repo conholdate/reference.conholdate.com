@@ -96,7 +96,7 @@ Sì, Aspose.Email per .NET è compatibile con vari provider di posta elettronica
 
 ### Quali intestazioni dovrei includere nella firma DKIM?
 
-Le intestazioni più comuni da includere sono "Da", "Oggetto" e qualsiasi altra intestazione essenziale per l'autenticazione e-mail.
+Le intestazioni più comuni da includere sono "Da", "Oggetto" e qualsiasi altra intestazione essenziale per l'autenticazione della posta elettronica.
 
 ### DKIM è l'unico metodo per l'autenticazione e-mail?
 

@@ -97,7 +97,7 @@ FileStream imageStream = new FileStream(dataDir + "PDFOperators.jpg", FileMode.O
 Теперь добавьте изображение в коллекцию ресурсов страницы, сделав его доступным для использования.
 
 ```csharp
-// Добавить изображение в коллекцию изображений Ресурсов страницы
+// Добавить изображение в коллекцию изображений на странице Ресурсы
 page.Resources.Images.Add(imageStream);
 ```
 

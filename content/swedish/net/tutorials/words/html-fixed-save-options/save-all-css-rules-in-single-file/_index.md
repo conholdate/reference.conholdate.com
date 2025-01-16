@@ -1,6 +1,6 @@
 ---
 title: Spara alla CSS-regler i en enda fil
-linktitle: Skriv alla CSS-regler i en fil
+linktitle: Skriv alla Css-regler i en fil
 second_title: Aspose.Words Document Processing API
 description: Lär dig hur du använder Aspose.Words för .NET för att skriva alla CSS-regler till en enda fil när du sparar dokument med HtmlFixedSaveOptions. Följ denna detaljerade handledning för steg-för-steg-vägledning.
 type: docs

@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/cells/mastering-error-handling-and-customization/
 ---
 ## 介紹
 
-想要提升您的 Excel 遊戲等級嗎？ Aspose.Cells for .NET 可以讓複雜的 Excel 工作流程變得輕而易舉。無論您是在文件轉換過程中遇到錯誤還是需要無縫整合 Office 加載項，這些教學都能為您提供協助。  
+想要提升您的 Excel 遊戲等級嗎？ Aspose.Cells for .NET 可以讓複雜的 Excel 工作流程變得輕而易舉。無論您是在文件轉換過程中遇到錯誤還是需要無縫整合 Office 加載項，這些教學都能為您提供支援。  
 
 ## 將 Excel 中的 Office 加載項渲染為 PDF  
 

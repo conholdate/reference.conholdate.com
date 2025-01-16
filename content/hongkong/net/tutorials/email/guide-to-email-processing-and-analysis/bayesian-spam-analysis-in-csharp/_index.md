@@ -101,7 +101,7 @@ bool isSpam = spamProbability > 0.5;
 
 ## 第7步：顯示結果
 
-最後，讓我們將結果列印到控制台。
+最後，我們將結果列印到控制台。
 
 ```csharp
 Console.WriteLine($"Is Spam: {isSpam}");

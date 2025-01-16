@@ -43,7 +43,7 @@ Poniżej znajdują się linki do przydatnych zasobów, które mogą Ci się przy
 
 **Welcome to Aspose.Cells for .NET** 
 
-Aspose.Cells for .NET to biblioteka programowania arkuszy kalkulacyjnych, która umożliwia programistom oprogramowania manipulowanie plikami arkuszy kalkulacyjnych i konwertowanie ich z poziomu ich własnych aplikacji. Aspose.Cells for .NET, będąc połączeniem interfejsów API i kontrolek GUI, przyspiesza programowanie i konwersję w programie Microsoft Excel®. Aspose.Cells for .NET obsługuje popularne formaty plików arkuszy kalkulacyjnych (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS), z których Twoja firma korzysta na co dzień. Umożliwia również eksportowanie plików Excel do formatów PDF, XPS, HTML, MHTML, Plain Text i popularnych formatów obrazów, w tym TIFF, JPG, PNG, BMP i SVG. 
+Aspose.Cells for .NET to biblioteka programowania arkuszy kalkulacyjnych, która umożliwia programistom oprogramowania manipulowanie plikami arkuszy kalkulacyjnych i konwertowanie ich z poziomu ich własnych aplikacji. Aspose.Cells for .NET, będąc połączeniem interfejsów API i kontrolek GUI, przyspiesza programowanie i konwersję w programie Microsoft Excel®. Aspose.Cells for .NET obsługuje popularne formaty plików arkuszy kalkulacyjnych (XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS), z których Twoja firma korzysta każdego dnia. Umożliwia również eksportowanie plików Excel do formatów PDF, XPS, HTML, MHTML, Plain Text i popularnych formatów obrazów, w tym TIFF, JPG, PNG, BMP i SVG. 
 
 {{% /alert %}} 
 
@@ -335,7 +335,7 @@ Poniżej znajdują się linki do przydatnych zasobów, które mogą Ci się przy
 
 **Welcome to Aspose.PUB for .NET**
 
-Aspose.PUB dla .NET to API do odczytu i konwersji plików PUB do formatu pliku PDF. Umożliwia ono programistom aplikacji .NET pracę z formatem pliku publikacji elektronicznej (.pub) bez konieczności instalowania go na serwerze lub aplikacji klienckiej. Dzięki Aspose.PUB dla .NET możesz skupić się wyłącznie na swojej logice biznesowej, zamiast zagłębiać się w szczegóły formatu pliku .pub. Pozwala zaoszczędzić czas i wysiłek, umożliwiając szybkie i łatwe pisanie krótkich i prostych linii kodu w swoich aplikacjach.
+Aspose.PUB dla .NET to API do odczytu i konwersji plików PUB do formatu pliku PDF. Ułatwia programistom aplikacji .NET pracę z formatem pliku publikacji elektronicznej (.pub) bez konieczności instalowania go na serwerze lub aplikacji klienckiej. Dzięki Aspose.PUB dla .NET możesz skupić się wyłącznie na swojej logice biznesowej, zamiast zagłębiać się w szczegóły formatu pliku .pub. Pozwala zaoszczędzić czas i wysiłek, umożliwiając szybkie i łatwe pisanie krótkich i prostych linii kodu w swoich aplikacjach.
 
 {{% /alert %}} 
 

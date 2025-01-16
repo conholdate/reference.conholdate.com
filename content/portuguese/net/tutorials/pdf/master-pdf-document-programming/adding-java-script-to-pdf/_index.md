@@ -69,7 +69,7 @@ Ao seguir este guia e utilizar o Aspose.PDF para .NET, você pode efetivamente a
 
 ## Perguntas frequentes
 
-### Posso adicionar várias ações JavaScript a diferentes páginas de um PDF?
+### Posso adicionar várias ações JavaScript a diferentes páginas em um PDF?
 Sim, você pode atribuir diferentes ações JavaScript a páginas individuais ou ao documento inteiro.
 
 ### É possível remover JavaScript de um PDF depois de adicioná-lo?

@@ -59,7 +59,7 @@ Aspose.Cells for .NET 是一個電子表格程式庫，允許軟體開發人員�
 
 **Welcome to Aspose.Email for .NET**
 
-Aspose.Email for .NET 是一套靈活且易於使用的 .NET 類別庫，匯集在一起產生最獨特、最強大的電子郵件程式設計元件。 Aspose.Email 可讓您快速輕鬆地將複雜的訊息檔案處理編碼到您的應用程式中，節省您的時間和精力。
+Aspose.Email for .NET 是一套靈活且易於使用的 .NET 類別庫，匯集在一起產生最獨特且功能強大的電子郵件程式設計元件。 Aspose.Email 可讓您快速輕鬆地將複雜的訊息檔案處理編碼到您的應用程式中，節省您的時間和精力。
 
 Aspose.Email實現了多種網路協議，例如SMTP、MIME、POP3、IMAP；訊息檔案格式，例如 EML、MSG、MHT；郵件儲存格式，例如 PST 和 MBOX；和 Exchange 伺服器，允許開發人員建立各種電子郵件處理應用程式。 Aspose.Email 可協助開發人員進行編程，而不會迷失在訊息格式細節的複雜性中。
 
@@ -196,7 +196,7 @@ Aspose.OCR for .NET 是一個字元和光學標記識別元件，允許開發人
 
 ![Aspose.CAD for .NET](aspose-cad-net.png)
 
-Aspose.CAD for .NET 可讓開發人員將 AutoCAD DWG、DWF 和 DXF 檔案轉換為 PDF 和光柵影像。它是本機 API，不需要安裝 AutoCAD 或任何軟體。您也可以轉換 AutoCAD 檔案中選定的圖層和佈局。轉換為 PDF 和光柵圖像的品質非常高。
+Aspose.CAD for .NET 可讓開發人員將 AutoCAD DWG、DWF 和 DXF 檔案轉換為 PDF 和光柵影像。它是本機 API，不需要安裝 AutoCAD 或任何軟體。您也可以從 AutoCAD 檔案轉換選定的圖層和佈局。轉換為 PDF 和光柵圖像的品質非常高。
 
 在專案中使用 Aspose.CAD for .NET 為您帶來以下好處： 
 
@@ -397,7 +397,7 @@ Aspose.Drawing 是一個 .NET 圖形 API，它提供與 .NET 應用程式中的 
 
 **Welcome to the Aspose.Font for .NET**
 
-Aspose.Font 是一個.NET 字體載入和繪圖函式庫。它支援多種前端格式，例如 TrueType（帶有 TrueType 集合）、CFF、OpenType 和 Type1。該 API 提供了豐富的功能來載入/儲存字體，並提供有關其資料結構以及所有字體類型支援的任何字形的資訊。它還提供所有字體類型的編碼資訊，表示字元代碼和字形標識符之間的對應。其渲染子系統可協助最終使用者渲染任何所需的字形或文字。可以透過使用簡單的圖形功能（移動點、畫線、曲線）來實現介面來呈現特殊字形。
+Aspose.Font 是一個.NET 字體載入和繪圖函式庫。它支援多種前端格式，例如 TrueType（帶有 TrueType 集合）、CFF、OpenType 和 Type1。 API 提供了豐富的功能來載入/儲存字體，並提供有關其資料結構以及所有字體類型支援的任何字形的資訊。它還提供所有字體類型的編碼資訊，表示字元代碼和字形標識符之間的對應。其渲染子系統可協助最終使用者渲染任何所需的字形或文字。可以透過使用簡單的圖形功能（移動點、畫線、曲線）來實現介面來呈現特殊字形。
 
 {{% /alert %}} 
 

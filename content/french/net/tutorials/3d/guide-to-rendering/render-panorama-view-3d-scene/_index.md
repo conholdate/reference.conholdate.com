@@ -111,7 +111,7 @@ equirectangular.Input = rt.Targets[0];
 renderer.Execute(equirectangular, final);
 ```
 
-- Projection équirectangulaire : cet effet de post-traitement prend la carte cubique et la transforme en une projection panoramique équirectangulaire, offrant une vue transparente à 360 degrés.
+- Projection équirectangulaire : cet effet de post-traitement prend la carte du cube et la transforme en une projection panoramique équirectangulaire, offrant une vue transparente à 360 degrés.
 
 ## Étape 6 : Enregistrer le panorama rendu
 

@@ -113,7 +113,7 @@ Gratuluji! Úspěšně jste se naučili, jak zobrazit a skrýt obsah označený 
 
 ## FAQ
 
-### Mohu přepínat více záložek najednou?
+### Mohu přepnout více záložek najednou?
  Ano, stačí zavolat`ShowHideBookmarkedContent` pro každou záložku, kterou chcete přepnout.
 
 ### Ovlivňuje skrytí obsahu strukturu dokumentu?

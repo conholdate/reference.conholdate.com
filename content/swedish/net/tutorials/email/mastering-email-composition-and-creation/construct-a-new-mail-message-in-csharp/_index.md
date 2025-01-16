@@ -80,7 +80,7 @@ message.HtmlBody += "<p style='color: blue;'>This text is blue.</p>";
 
 ## Skickar e-postmeddelandet
 
- När du har skapat e-postmeddelandet använder du`SmtpClient` klass för att skicka den. Så här gör du:
+ Efter att ha skapat e-postmeddelandet, använd`SmtpClient` klass för att skicka den. Så här gör du:
 
 ```csharp
 SmtpClient client = new SmtpClient("smtp.example.com", 587, "your_username", "your_password");

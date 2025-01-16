@@ -44,7 +44,7 @@ namespace CustomHyperlinkRendering
             Console.WriteLine(RenderHyperlinkWithoutHref(msg.GetHtmlBodyText()));
         }
 
-        // Anpassade metoder för återgivning av hyperlänkar finns här
+        // Anpassade hyperlänksrenderingsmetoder finns här
     }
 }
 ```

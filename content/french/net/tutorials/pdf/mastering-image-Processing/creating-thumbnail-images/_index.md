@@ -112,7 +112,7 @@ using (JpegDevice jpegDevice = new JpegDevice(45, 59, resolution, 100))
 
 Ici, nous spécifions les dimensions des vignettes (45x59 pixels) et la qualité. Ajustez ces valeurs en fonction des besoins de votre application.
 
-### Étape 4.4 : Traitez chaque page
+### Étape 4.4 : Traitez chaque page
 
 Une fois tout en place, traitez chaque page du PDF et enregistrez la miniature générée :
 

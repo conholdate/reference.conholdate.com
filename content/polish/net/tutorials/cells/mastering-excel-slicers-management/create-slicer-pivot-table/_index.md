@@ -9,7 +9,7 @@ url: /pl/net/tutorials/cells/mastering-excel-slicers-management/creating-slicer-
 ---
 ## Wstęp
 
-dzisiejszym krajobrazie zorientowanym na dane tabele przestawne są niezbędne do podsumowywania i analizowania dużych zestawów danych. Ale dlaczego ograniczać się do podstawowych podsumowań? Dzięki fragmentatorom możesz dodać interaktywność do tabel przestawnych, umożliwiając użytkownikom filtrowanie danych bez wysiłku — tak jakbyś miał pilota do raportów w programie Excel! W tym przewodniku przeprowadzimy Cię przez kroki tworzenia fragmentatora dla tabeli przestawnej przy użyciu Aspose.Cells dla .NET. Więc weź kawę i zaczynajmy!
+dzisiejszym krajobrazie zorientowanym na dane tabele przestawne są niezbędne do podsumowywania i analizowania dużych zestawów danych. Ale dlaczego ograniczać się do podstawowych podsumowań? Dzięki fragmentatorom możesz dodać interaktywność do tabel przestawnych, umożliwiając użytkownikom bezproblemowe filtrowanie danych — tak jakbyś miał pilota do raportów w programie Excel! W tym przewodniku przeprowadzimy Cię przez kroki tworzenia fragmentatora dla tabeli przestawnej przy użyciu Aspose.Cells dla .NET. Więc weź kawę i zaczynajmy!
 
 ## Wymagania wstępne
 

@@ -18,7 +18,7 @@ url: /zh/net/tutorials/pdf/mastering-pdf-forms/fill-pdf-form-fields-with-arabic-
 1. C# 基础知识：熟悉 C# 编程语言将帮助您更好地理解示例。
 2. Aspose.PDF for .NET：从以下网址下载并安装 Aspose.PDF 库[这里](https://releases.aspose.com/pdf/net/).
 3. Visual Studio：建议使用 Visual Studio 这样的开发环境来编写和测试代码。
-4. PDF 表单：准备一个 PDF 表单，其中至少有一个文本框字段，用于输入阿拉伯语文本。您可以使用任何 PDF 编辑器创建简单的 PDF 表单。
+4. PDF 表单：准备一个 PDF 表单，其中至少有一个文本框字段，用于输入阿拉伯语文本。您可以使用任何 PDF 编辑器创建一个简单的 PDF 表单。
 
 ## 导入必要的包
 

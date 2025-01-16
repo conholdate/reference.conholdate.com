@@ -18,7 +18,7 @@ Zanurzmy się w jednej z najfajniejszych funkcji: konwersji HTML na obrazy PNG! 
 3. Ustawianie opcji PNG: Możesz dostosować wyjściowy plik PNG, wybierając wymiary i inne właściwości idealnie odpowiadające Twoim potrzebom.
 4. Zapisywanie obrazu: Na koniec, przy użyciu prostego polecenia, Twój kod HTML zostanie przekształcony w obraz PNG, którego możesz użyć w grafice internetowej, prezentacjach lub po prostu do udostępniania atrakcyjnych wizualnie treści.
 
- Jeśli chcesz poznać proces krok po kroku, zapoznaj się z naszym samouczkiem[Konwertuj HTML do PNG za pomocą Aspose.HTML w .NET](./convert-html-as-png/). 
+ Jeśli chcesz poznać proces krok po kroku, zapoznaj się z naszym samouczkiem na[Konwertuj HTML do PNG za pomocą Aspose.HTML w .NET](./convert-html-as-png/). 
 
 ## Konwertuj EPUB do XPS
 Jeśli masz do czynienia z plikami EPUB i chcesz przekonwertować je do formatu XPS, Aspose.HTML również Ci pomoże. EPUB to popularny format e-booków, a przekonwertowanie go do formatu XPS może pomóc w efektywniejszym drukowaniu lub wyświetlaniu dokumentów.

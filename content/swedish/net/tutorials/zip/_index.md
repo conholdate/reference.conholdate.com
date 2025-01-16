@@ -1,5 +1,5 @@
 ---
-title: Omfattande handledning och exempel på Aspose.Zip för .NET
+title: Omfattande handledningar och exempel på Aspose.Zip för .NET
 linktitle: Aspose.Zip för .NET Tutorials
 type: docs
 weight: 10

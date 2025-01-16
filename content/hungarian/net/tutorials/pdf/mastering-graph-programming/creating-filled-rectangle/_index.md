@@ -47,7 +47,7 @@ Adja meg a PDF mentési útvonalat:
 string dataDir = "YOUR DOCUMENT DIRECTORY";
 ```
 
- Cserélje ki`"YOUR DOCUMENT DIRECTORY"` a tényleges elérési úttal a gépén, ahová menteni szeretné a PDF-fájlt.
+ Cserélje ki`"YOUR DOCUMENT DIRECTORY"` a tényleges elérési úttal a gépen, ahová menteni szeretné a PDF-fájlt.
 
 ## 4. lépés: Hozzon létre egy dokumentumpéldányt
 

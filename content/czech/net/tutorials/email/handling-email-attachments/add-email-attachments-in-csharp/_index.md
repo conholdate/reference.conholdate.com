@@ -45,7 +45,7 @@ using Aspose.Email.Smtp;
 
 Chcete-li vytvořit a připravit e-mailovou zprávu s přílohami, postupujte takto:
 
-1. Importovat potřebné jmenné prostory:
+1. Import nezbytných jmenných prostorů:
 
 ```csharp
 using Aspose.Email;

@@ -13,7 +13,7 @@ Előfordult már, hogy egy dokumentumot csak azért nyitott meg, hogy a helytele
 
 ## Előfeltételek
 
-Búvárkodás előtt győződjön meg arról, hogy rendelkezik a következőkkel:
+A merülés előtt győződjön meg arról, hogy rendelkezik a következőkkel:
 
 1. Visual Studio: Telepítse a Visual Studio-t, az általunk használt IDE-t.
 2.  Aspose.Words for .NET: Töltse le és telepítse az Aspose.Words for .NET programot innen:[itt](https://releases.aspose.com/words/net/).

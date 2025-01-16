@@ -22,7 +22,7 @@ Prima di procedere, assicurarsi che siano soddisfatti i seguenti prerequisiti:
    Conoscenza pratica del linguaggio di programmazione C# e di un ambiente di sviluppo .NET configurato.
 
 3. Inserisci file di progetto Microsoft  
-   Avere una valida`.mpp` file disponibile per la conversione.
+    Avere una valida`.mpp`file disponibile per la conversione.
 
 ## Importare gli spazi dei nomi essenziali
 
@@ -74,7 +74,7 @@ options.Pages.Add(4);
 
 ## Passaggio 5: salvare il file di progetto come PDF
 
-Infine, salva il`.mpp` file come PDF chiamando il`Save` metodo. Specificare il percorso del file di output e passare le opzioni configurate.
+ Infine, salva il`.mpp`file come PDF chiamando il`Save` metodo. Specificare il percorso del file di output e passare le opzioni configurate.
 
 ```csharp
 project.Save("Output_PDF_File_Path.pdf", options);

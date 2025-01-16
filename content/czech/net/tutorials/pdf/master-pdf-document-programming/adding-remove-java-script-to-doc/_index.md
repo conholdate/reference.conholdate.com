@@ -15,8 +15,8 @@ V tomto komplexním průvodci se ponoříme do světa Aspose.PDF pro .NET a odem
 
 Chcete-li pokračovat, budete potřebovat:
 
-1. Aspose.PDF for .NET nainstalovaný ve vašem projektu (stáhnout z[Stránka ke stažení Aspose.PDF pro .NET](https://releases.aspose.com/pdf/net/))
-2. Platná licence k užívání knihovny
+1. Aspose.PDF for .NET nainstalovaný ve vašem projektu (stáhnout z[Stránka pro stahování Aspose.PDF pro .NET](https://releases.aspose.com/pdf/net/))
+2. Platná licence k používání knihovny
 3. AC# IDE nebo textový editor
 
 ## Importujte balíčky

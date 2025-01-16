@@ -19,7 +19,7 @@ Der erste Schritt, um die Leistungsfähigkeit von GroupDocs.Metadata zu nutzen, 
 
 ## Benutzerdefinierte Eigenschaften aus PDFs lesen
 
-Aber was, wenn Sie auf Metadaten zugreifen müssen, die nicht Teil dieser Standardfelder sind? Hier kommen benutzerdefinierte Eigenschaften ins Spiel. Dabei handelt es sich um benutzerdefinierte Felder, die zusätzliche Informationen enthalten können, die speziell auf Ihre Anforderungen zugeschnitten sind – wie etwa den Projektnamen oder die Version des Dokuments. Es ist, als würden Sie persönliche Notizen in ein Bibliotheksbuch einfügen. Es bietet Ihnen zusätzlichen Kontext, den Standardmetadaten möglicherweise nicht abdecken.
+Aber was, wenn Sie auf Metadaten zugreifen müssen, die nicht Teil dieser Standardfelder sind? Hier kommen benutzerdefinierte Eigenschaften ins Spiel. Dabei handelt es sich um benutzerdefinierte Felder, die zusätzliche Informationen enthalten können, die speziell auf Ihre Anforderungen zugeschnitten sind – wie etwa den Projektnamen oder die Version des Dokuments. Es ist, als würden Sie persönliche Notizen in ein Bibliotheksbuch einfügen; es bietet Ihnen zusätzlichen Kontext, den Standardmetadaten möglicherweise nicht abdecken.
 
  Unser Tutorial zu[Lesen benutzerdefinierter Eigenschaften aus PDFs in .NET](./reading-custom-properties-from-pdf/) befasst sich eingehend mit der effizienten Verwaltung dieser benutzerdefinierten Felder. Sie erfahren, wie Sie diese Eigenschaften mithilfe von GroupDocs.Metadata definieren, lesen und bearbeiten. Denken Sie nur an die Möglichkeiten – ob zum Hinzufügen von Notizen oder zum Verfolgen von Dokumentversionen, diese Funktion kann Ihren Arbeitsablauf erheblich verbessern!
 

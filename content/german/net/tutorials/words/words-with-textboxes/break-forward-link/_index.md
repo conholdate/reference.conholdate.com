@@ -33,7 +33,7 @@ Diese Namespaces bieten Zugriff auf die Klassen und Methoden, die wir zum Bearbe
 
 ## Schritt 1: Neues Dokument erstellen
 
-Das Wichtigste zuerst: Lassen Sie uns ein neues Word-Dokument erstellen. Dies ist unsere leere Leinwand, auf der wir Textfelder hinzufügen und verschiedene Vorgänge ausführen können.
+Das Wichtigste zuerst: Lassen Sie uns ein neues Word-Dokument erstellen. Dies wird unsere leere Leinwand sein, auf der wir Textfelder hinzufügen und verschiedene Vorgänge ausführen können.
 
 Um ein neues Word-Dokument zu initialisieren, verwenden Sie die folgende Codezeile:
 

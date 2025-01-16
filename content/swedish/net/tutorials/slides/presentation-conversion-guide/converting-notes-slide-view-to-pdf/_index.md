@@ -94,4 +94,4 @@ Ja, Aspose.Slides för .NET är designat för att hantera presentationer av alla
  Absolut! Du kan välja specifika bilder med hjälp av`Slides` samling i`Presentation` klass.
 
 ### F5: Var kan jag hitta ytterligare exempel?
- Besök[Aspose.Slides för .NET-dokumentation](https://reference.aspose.com/slides/net/)för fler exempel och användningsfall.
+ Besök[Aspose.Slides för .NET-dokumentation](https://reference.aspose.com/slides/net/) för fler exempel och användningsfall.

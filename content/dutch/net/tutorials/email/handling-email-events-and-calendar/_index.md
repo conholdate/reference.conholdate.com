@@ -25,7 +25,7 @@ Een ander belangrijk aspect van kalenderbeheer is het controleren van de deelnem
 
 ## Concept-afspraakverzoeken maken 
 
- Stel je voor dat je je afspraakplanning kunt automatiseren! Met Aspose.Email voor .NET kun je eenvoudig conceptafspraakverzoeken maken. Duik in onze tutorial over[Conceptafspraakverzoek maken met Aspose.Email voor .NET](./creating-draft-appointment-request/) om te leren hoe u het planningsproces voor uw bedrijfsapplicatie kunt stroomlijnen. U zult waarderen hoe eenvoudig het is om verzoeken programmatisch te genereren.
+ Stel je voor dat je je afspraakplanning kunt automatiseren! Met Aspose.Email voor .NET kun je eenvoudig conceptafspraakverzoeken maken. Duik in onze tutorial over[Een conceptafspraakverzoek maken met Aspose.Email voor .NET](./creating-draft-appointment-request/) om te leren hoe u het planningsproces voor uw bedrijfsapplicatie kunt stroomlijnen. U zult waarderen hoe eenvoudig het is om verzoeken programmatisch te genereren.
 
 ## ProdID wijzigen in ICS-bestanden 
 
@@ -38,7 +38,7 @@ Ontdek hoe u efficiënt agenda-evenementen uit ICS-bestanden in uw C#-toepassing
 Render agenda-evenementen in MHTML-formaat met Aspose.Email voor .NET. Leer stapsgewijs hoe u MSG-bestanden kunt aanpassen en opslaan met C#.
 ### [Instellen van de deelnemersstatus voor deelnemers aan afspraken met C#](./setting-participant-status-for-appointment-attendees/)
 Leer hoe u de status van deelnemers aan afspraken kunt beheren met C# en Aspose.Email voor .NET. Stapsgewijze handleiding met broncode.
-### [Conceptafspraakverzoek maken met Aspose.Email voor .NET](./creating-draft-appointment-request/)
+### [Een conceptafspraakverzoek maken met Aspose.Email voor .NET](./creating-draft-appointment-request/)
 Ontdek hoe u de afspraakplanning in uw bedrijf kunt stroomlijnen door programmatisch concept-e-mails met afspraakverzoeken te genereren met behulp van de Aspose.Email voor .NET-bibliotheek.
 ### [ProdID in ICS-bestanden wijzigen met Aspose.Email voor .NET](./modify-prodid-in-ics-files/)
 Leer hoe u de ProdID in ICS-bestanden kunt wijzigen met Aspose.Email voor .NET. Stapsgewijze zelfstudie met code, tips en veelgestelde vragen voor naadloos agendabeheer.

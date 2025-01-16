@@ -39,7 +39,7 @@ using System.Diagnostics;
 using System.Collections;
 ```
 
-Ez az egyszerű beillesztés lehetővé teszi, hogy a kódban lévő Excel-fájlokkal és azok objektumaival dolgozzon.
+Ez az egyszerű beillesztés lehetővé teszi az Excel-fájlokkal és azok objektumaival való munkát a kódban.
 
 ## 1. lépés: A projektkönyvtár beállítása
 
@@ -54,7 +54,7 @@ string sourceDir = "Your Document Directory";
 
 ## 2. lépés: Az Excel-munkafüzet betöltése
 
-Miután beállította a forráskönyvtárat, a következő lépés az Excel-munkafüzet betöltése, amely a listaobjektumtáblázatot tartalmazza az XML-leképezéssel. A következőképpen tölthet be Excel fájlt:
+Miután beállította a forráskönyvtárat, a következő lépés az Excel-munkafüzet betöltése, amely a listaobjektumtáblázatot tartalmazza az XML-leképezéssel. Így tölthet be Excel fájlt:
 
 ```csharp
 // Töltse be az Excel fájlt egy munkafüzet objektumba

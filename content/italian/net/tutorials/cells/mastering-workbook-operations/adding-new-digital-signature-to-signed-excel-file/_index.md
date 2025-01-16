@@ -41,7 +41,7 @@ Specificare le directory per i file sorgente e dove salvare il file di output:
 ```csharp
 // Elenco di origine
 string sourceDir = "Your Document Directory"; // Sostituisci con la tua directory effettiva
-// Directory di output
+// Directory di uscita
 string outputDir = "Your Document Directory"; // Sostituisci con la tua directory effettiva
 ```
 

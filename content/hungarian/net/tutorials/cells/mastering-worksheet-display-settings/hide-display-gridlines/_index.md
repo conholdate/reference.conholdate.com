@@ -2,7 +2,7 @@
 title: Rácsvonalak elrejtése vagy megjelenítése az Excel munkalapokon
 linktitle: Rácsvonalak elrejtése vagy megjelenítése az Excel munkalapokon
 second_title: Aspose.Cells .NET Excel Processing API
-description: Ismerje meg, hogyan rejtheti el vagy jelenítheti meg könnyedén a rácsvonalakat az Excel-munkalapokon az Aspose.Cells for .NET segítségével. Ez az átfogó oktatóanyag lépésről lépésre tartalmazza az utasításokat.
+description: Ismerje meg, hogyan rejthet el vagy jeleníthet meg könnyedén rácsvonalakat az Excel-munkalapokon az Aspose.Cells for .NET segítségével. Ez az átfogó oktatóanyag lépésről lépésre tartalmazza az utasításokat.
 type: docs
 weight: 11
 url: /hu/net/tutorials/cells/mastering-worksheet-display-settings/hide-display-gridlines/

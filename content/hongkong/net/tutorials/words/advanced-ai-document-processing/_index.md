@@ -21,7 +21,7 @@ url: /zh-hant/net/tutorials/words/advanced-ai-document-processing/
 
 ## OpenAI 用於文檔摘要
 
-您是否曾經希望將長文件轉換為簡短、易於理解的摘要？只需查看我們的教學即可[使用 OpenAI 模型進行高效率文件摘要](./efficient-document-summarization-openai-model/)。本指南為在實際摘要任務中使用 OpenAI 模型開闢了途徑。將其視為文件處理領域的秘密武器，旨在節省您的時間並確保您不會忽視關鍵資訊。透過本教程，您將學習如何利用尖端的人工智慧技術來簡化文件審核流程。
+您是否曾經希望將長文件轉換為簡短、易於理解的摘要？只需查看我們的教學即可[使用 OpenAI 模型進行高效率文件摘要](./efficient-document-summarization-openai-model/)。本指南為在實際摘要任務中使用 OpenAI 模型開闢了途徑。將其視為您在文件處理領域的秘密武器，旨在節省您的時間並確保您不會忽視關鍵資訊。透過本教程，您將學習如何利用尖端的人工智慧技術來簡化文件審核流程。
 
 ## 掌握總結技巧
 

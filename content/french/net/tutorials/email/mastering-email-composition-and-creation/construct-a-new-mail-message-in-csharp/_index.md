@@ -113,5 +113,5 @@ Oui, vous pouvez facilement envoyer des e-mails HTML et en texte brut à l'aide 
 ### Est-il possible de programmer des e-mails à l'aide de cette bibliothèque ?
 Aspose.Email se concentre sur la création et la manipulation d'e-mails. Pour planifier des e-mails, vous devez intégrer un système de planification de tâches distinct.
 
-### Où puis-je trouver plus d'exemples et de documentation ?
+### Où puis-je trouver plus d’exemples et de documentation ?
  Vous pouvez trouver une documentation complète et des exemples de code sur le[Référence de l'API Aspose.Email](https://reference.aspose.com/email/net/).

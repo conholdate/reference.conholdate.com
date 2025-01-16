@@ -13,7 +13,7 @@ url: /ko/net/tutorials/email/handling-email-attachments/
 
 ## 이메일 첨부 파일 추가  
 
- 이메일로 송장이나 이미지를 보내야 했던 적이 있나요? Aspose.Email for .NET을 사용하면 손쉽게 파일을 첨부할 수 있습니다. 이 라이브러리는 여러 유형의 파일 추가를 지원하여 텍스트 문서에서 멀티미디어 파일에 이르기까지 모든 것을 보내기에 완벽합니다. 단계별 지침은 자세한 가이드를 확인하세요.[.NET용 Aspose.Email을 사용하여 C#에서 이메일 첨부 파일 추가](./add-email-attachments-in-csharp/).  
+ 이메일로 송장이나 이미지를 보내야 했던 적이 있나요? Aspose.Email for .NET을 사용하면 손쉽게 파일을 첨부할 수 있습니다. 이 라이브러리는 여러 유형의 파일 추가를 지원하므로 텍스트 문서에서 멀티미디어 파일에 이르기까지 모든 것을 보내기에 완벽합니다. 단계별 지침은 자세한 가이드를 확인하세요.[.NET용 Aspose.Email을 사용하여 C#에서 이메일 첨부 파일 추가](./add-email-attachments-in-csharp/).  
 
 ## 첨부 파일 감지 및 추출  
 

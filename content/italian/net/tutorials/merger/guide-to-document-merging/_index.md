@@ -15,7 +15,7 @@ In un mondo in cui efficienza e produttività sono la regola, la gestione dei do
 
 Cominciamo con l'unione dei file DOC. Con GroupDocs.Merger per .NET, puoi unire senza sforzo più file DOC in un unico pacchetto ordinato. Immagina di mettere insieme un report di progetto che include diverse sezioni scritte da vari membri del team. Invece di scambiare i file avanti e indietro, puoi semplicemente unirli in un unico documento coeso. 
 
- Per iniziare, assicurati di aver installato il pacchetto GroupDocs.Merger nel tuo progetto .NET. Una volta sistemato, il processo di unione effettivo è semplice. Carica semplicemente i file che vuoi combinare e l'API si occuperà del resto. Per una guida dettagliata, assicurati di controllare il nostro tutorial su[unione di file di documenti](./merge-document-files/) dove forniamo frammenti di codice e suggerimenti pratici per migliorare la tua esperienza.
+ Per iniziare, assicurati di avere installato il pacchetto GroupDocs.Merger nel tuo progetto .NET. Una volta sistemato, il processo di unione effettivo è semplice. Carica semplicemente i file che vuoi combinare e l'API si occuperà del resto. Per una guida dettagliata, assicurati di controllare il nostro tutorial su[unione di file di documenti](./merge-document-files/) dove forniamo frammenti di codice e suggerimenti pratici per migliorare la tua esperienza.
 
 ## Unisci file PDF con GroupDocs.Merger per .NET
 

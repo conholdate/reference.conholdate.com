@@ -19,7 +19,7 @@ Představte si, že vyvíjíte aplikaci, která potřebuje denně zpracovat tis�
 
 ## Sloučit soubory ZIP pomocí GroupDocs.Merger
 
-Stejně jako u souborů TAR je správa souborů ZIP v mnoha aplikacích nezbytná. Výukový program na[Sloučit soubory ZIP pomocí GroupDocs.Merger pro .NET](./merge-zip-files/) vás provede předpoklady a procesem slučování. Soubory ZIP jsou na internetu všudypřítomné a používají se ke všemu, od stahování softwaru po sdílení dokumentů. Pochopení toho, jak programově sloučit tyto soubory, je dovednost, kterou by měl mít každý vývojář. Tato příručka nejen popisuje, jak na to, ale také popisuje osvědčené postupy a běžná úskalí, což zajišťuje, že ke slučování souborů přistupujete informovaně a sebejistě.
+Stejně jako u souborů TAR je správa souborů ZIP v mnoha aplikacích nezbytná. Výukový program na[Sloučit soubory ZIP pomocí GroupDocs.Merger pro .NET](./merge-zip-files/) vás provede předpoklady a procesem slučování. Soubory ZIP jsou na internetu všudypřítomné a používají se ke všemu, od stahování softwaru po sdílení dokumentů. Pochopení toho, jak programově sloučit tyto soubory, je dovednost, kterou by měl mít každý vývojář. Tato příručka nejen popisuje postupy, ale také popisuje osvědčené postupy a běžná úskalí, což zajišťuje, že ke slučování souborů přistupujete informovaně a sebejistě.
 
 ## Sloučit a komprimovat soubory s GroupDocs Merger .NET výukové programy
 ### [Sloučit soubory Tar s GroupDocs.Merger pro .NET](./merge-tar-files/)

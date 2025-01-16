@@ -16,7 +16,7 @@ Procházení velkých souborů PDF může často připadat jako hledání jehly 
 Než se ponoříme do kódu, je nezbytné se ujistit, že máte všechny nástroje nastavené pro úspěšnou implementaci. Zde jsou předpoklady:
 
 1. Visual Studio: Doporučené IDE pro vývoj .NET. Ujistěte se, že je nainstalován a správně nakonfigurován ve vašem systému.
-2.  Aspose.Cells for .NET: Základní knihovna potřebná pro programovou manipulaci se soubory aplikace Excel. Můžete[stáhněte si jej zde](https://releases.aspose.com/cells/net/) . Pokud jste v Aspose noví, můžete začít s[zkušební verze zdarma](https://releases.aspose.com/).
+2.  Aspose.Cells for .NET: Základní knihovna potřebná pro programovou manipulaci se soubory aplikace Excel. Můžete[stáhněte si to zde](https://releases.aspose.com/cells/net/) . Pokud jste v Aspose noví, můžete začít s[zkušební verze zdarma](https://releases.aspose.com/).
 3. .NET Framework: Ujistěte se, že používáte kompatibilní verzi .NET Framework. Aspose.Cells podporuje více verzí.
 4. Základní znalost C#: Základní znalost C# bude užitečná při sledování spolu s kódem.
 
@@ -128,7 +128,7 @@ To vytváří stromovou strukturu, kde každá záložka může mít více podz�
 
 ### Nastavení možností uložení PDF
 
- Před uložením dokumentu jako PDF musíme určit možnosti uložení a zajistit, aby byly zahrnuty záložky. Budeme používat`PdfSaveOptions` pro tento účel.
+ Před uložením dokumentu jako PDF musíme určit možnosti uložení a zajistit, aby byly zahrnuty záložky. budeme používat`PdfSaveOptions` pro tento účel.
 
 ```csharp
 PdfSaveOptions opts = new PdfSaveOptions();

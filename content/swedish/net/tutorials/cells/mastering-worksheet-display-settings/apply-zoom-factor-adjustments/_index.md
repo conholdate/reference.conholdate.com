@@ -69,7 +69,7 @@ Worksheet worksheet = workbook.Worksheets[0];
 
 ## Steg 5: Justera zoomfaktorn  
 
- Ändra zoomfaktorn med hjälp av`Zoom` egendom. Värdena varierar från 10 till 400.  
+ Ändra zoomfaktorn med hjälp av`Zoom` egendom. Värdena sträcker sig från 10 till 400.  
 
 ```csharp
 worksheet.Zoom = 100; // Ställ in zoom på 100 %

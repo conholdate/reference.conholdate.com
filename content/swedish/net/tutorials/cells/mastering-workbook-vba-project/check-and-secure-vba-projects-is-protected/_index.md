@@ -44,7 +44,7 @@ Workbook workbook = new Workbook("SampleFile.xlsm");
  Hämta VBA-projektet som är kopplat till arbetsboken med hjälp av`VbaProject` egendom.
 
 ```csharp
-// Öppna VBA-projektet i arbetsboken
+// Gå till VBA-projektet i arbetsboken
 VbaProject vbaProject = workbook.VbaProject;
 ```
 

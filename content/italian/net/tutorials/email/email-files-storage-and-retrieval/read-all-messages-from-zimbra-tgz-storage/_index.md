@@ -23,7 +23,7 @@ Prima di immergerci nel codice, assicurati di aver installato i seguenti strumen
 
 2. Aspose.Email per .NET: è possibile ottenere Aspose.Email dal sito Web o tramite NuGet Package Manager in Visual Studio.
 
-3. Dati campione Zimbra TGZ: avere un file campione TGZ pronto per il test. Per questo tutorial, puoi usare il file "ZimbraSample.tgz" fornito.
+3. Zimbra TGZ Sample Data: Tieni pronto un file TGZ di esempio per il test. Per questo tutorial, puoi usare il file "ZimbraSample.tgz" fornito.
 
 Adesso cominciamo con la codifica!
 

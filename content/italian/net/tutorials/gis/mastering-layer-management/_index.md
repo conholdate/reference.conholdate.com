@@ -15,7 +15,7 @@ Se ti stai avventurando nel mondo dei GIS (Geographic Information Systems) usand
 
 Per prima cosa c'è TopoJSON, un formato compatto per la codifica dei dati geografici. Perché dovrebbe interessarti? Beh, TopoJSON semplifica i tuoi dati geospaziali preservandone la topologia, il che significa che le geometrie connesse condividono punti, con conseguenti dimensioni di file più piccole senza perdere l'integrità dei dati. 
 
- Per iniziare, dovrai installare Aspose.GIS per .NET. Una volta fatto, dai un'occhiata a[Lavorare con TopoJSON in Aspose.GIS per .NET](./working-with-topojson/)tutorial. Descrive passo dopo passo il processo di lettura, estrazione e visualizzazione di feature geospaziali da un file TopoJSON. Resterai stupito da quanto facilmente puoi manipolare i dati spaziali quando sai come muoverti in questo formato!
+ Per iniziare, dovrai installare Aspose.GIS per .NET. Una volta fatto, dai un'occhiata a[Lavorare con TopoJSON in Aspose.GIS per .NET](./working-with-topojson/)tutorial. Descrive passo dopo passo il processo di lettura, estrazione e visualizzazione delle feature geospaziali da un file TopoJSON. Resterai stupito dalla facilità con cui puoi manipolare i dati spaziali quando sai come muoverti in questo formato!
 
 ## Aggiungere un layer a un file geodatabase
 

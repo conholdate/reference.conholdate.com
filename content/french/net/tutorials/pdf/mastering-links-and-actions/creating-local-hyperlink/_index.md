@@ -50,7 +50,7 @@ Décomposons le processus de création de liens hypertexte locaux en étapes sim
 
 ## Étape 1 : Configurer l'instance de document
 
- Créer une nouvelle instance de`Document` classe, représentant le fichier PDF avec lequel vous allez travailler.
+ Créer une nouvelle instance de`Document` classe, représentant le fichier PDF avec lequel vous travaillerez.
 
 ```csharp
 string dataDir = "YOUR_DOCUMENT_DIRECTORY"; // Définissez votre répertoire de documents

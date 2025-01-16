@@ -120,7 +120,7 @@ Oczywiście! Możesz dodać tyle niestandardowych części XML, ile potrzebujesz
 
 Ta prosta linia inicjuje nowy skoroszyt, do którego możemy dodać własne części XML.
 ## Krok 2: Przygotuj dane XML i schemat
-Następnie musisz przygotować pewne dane w formie tablicy bajtów. Chociaż nasz przykład używa danych zastępczych, w scenariuszu rzeczywistym zastąpiłbyś te tablice bajtów rzeczywistymi danymi XML i schematem, które chcesz zintegrować ze swoim skoroszytem.
+Następnie musisz przygotować pewne dane w formie tablicy bajtów. Chociaż nasz przykład używa danych zastępczych, w scenariuszu z życia wziętym, zastąpiłbyś te tablice bajtów rzeczywistymi danymi XML i schematem, które chcesz zintegrować ze swoim skoroszytem.
 ```csharp
 // Niektóre dane mają formę tablicy bajtów.
 // Proszę używać poprawnego XML i schematu.

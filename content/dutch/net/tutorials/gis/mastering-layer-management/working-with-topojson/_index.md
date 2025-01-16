@@ -121,7 +121,7 @@ Console.WriteLine("Output:");
 Console.WriteLine(builder.ToString());
 ```
 
-In dit stadium is alles ingesteld zodat u de resultaten direct in de console kunt zien. U zou een gedetailleerde vermelding voor elke feature in uw TopoJSON-bestand moeten zien.
+In deze fase is alles ingesteld zodat u de resultaten direct in de console kunt zien. U zou een gedetailleerde vermelding voor elke feature in uw TopoJSON-bestand moeten zien.
 
 ## Conclusie
 

@@ -13,7 +13,7 @@ Nebaví vás ruční správa souborů Excel? Představte si automatizaci opakuj�
 
 ## Přidání pracovních listů do návrhových tabulek  
 
- Začínáte s návrhářskými tabulkami? Tento průvodce vám kryje záda! Naučte se, jak plynule přidávat nové listy do předem navržené šablony Excelu. S Aspose.Cells můžete programově vylepšit své tabulky vytvořením dalších listů, které vyhovují dynamickým požadavkům. Podrobné kroky naleznete na[Přidání pracovních listů do návrhové tabulky](./adding-worksheets-to-designer-spreadsheet/) průvodce.  
+ Začínáte s návrhářskými tabulkami? Tento průvodce vám kryje záda! Naučte se, jak plynule přidávat nové listy do předem navržené šablony Excelu. S Aspose.Cells můžete programově vylepšit své tabulky vytvořením dalších listů, které vyhovují dynamickým požadavkům. Podrobné kroky naleznete na[Přidání pracovních listů do návrhářské tabulky](./adding-worksheets-to-designer-spreadsheet/) průvodce.  
 
 ## Vytvoření nového souboru aplikace Excel  
 
@@ -21,7 +21,7 @@ Nebaví vás ruční správa souborů Excel? Představte si automatizaci opakuj�
 
 ## Vylepšení stávajících souborů aplikace Excel  
 
- Co když potřebujete přidat list do existujícího souboru aplikace Excel? Žádný strach! Díky Aspose.Cells for .NET je tento úkol hladký a přímočarý. Ať už spolupracujete na sdílených souborech nebo aktualizujete záznamy, tento výukový program vás provede od nastavení až po uložení aktualizovaného souboru. Začněte s[Přidání listů do existujícího souboru aplikace Excel](./adding-worksheets-to-existing-excel-file/).  
+ Co když potřebujete přidat list do existujícího souboru aplikace Excel? Žádný strach! Díky Aspose.Cells for .NET je tento úkol hladký a přímočarý. Ať už spolupracujete na sdílených souborech nebo aktualizujete záznamy, tento výukový program vás provede od nastavení až po uložení aktualizovaného souboru. Začněte s[Přidání pracovních listů do existujícího souboru aplikace Excel](./adding-worksheets-to-existing-excel-file/).  
 
 ## Správa pracovních listů jako profesionál  
 

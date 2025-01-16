@@ -36,7 +36,7 @@ I tutorial e i frammenti di codice di Aspose.Cells ti guideranno attraverso dive
 Sblocca una gestione efficiente delle e-mail con i tutorial di Aspose.Email. Dalla composizione alla sicurezza, padroneggia diversi aspetti per flussi di lavoro ed esperienze utente migliorati.
 {{% /alert %}}
 
-### Tutorial su Aspose.Email
+### Esercitazioni su Aspose.Email
 - [Aspose.Email per esercitazioni .NET](./email/)
 
 ## Aspose.Slides
@@ -97,7 +97,7 @@ Sblocca il pieno potenziale di Aspose.ZIP per .NET con i nostri tutorial dettagl
 
 ## Aspose.OCR
 {{% alert color="primary" %}}
-Sblocca la precisione nel riconoscimento delle immagini OCR con Aspose.OCR per .NET. Esplora i tutorial sul calcolo dell'angolo di inclinazione, sul riconoscimento del testo, sulla configurazione OCR e sull'ottimizzazione.
+Sblocca la precisione nel riconoscimento delle immagini OCR con Aspose.OCR per .NET. Esplora i tutorial sul calcolo dell'angolo di inclinazione, il riconoscimento del testo, la configurazione OCR e l'ottimizzazione.
 {{% /alert %}}
 
 ### Esercitazioni Aspose.OCR
@@ -149,7 +149,7 @@ Esplora i tutorial di Aspose.Tasks per .NET che coprono opzioni di salvataggio, 
 {{% /alert %}}
 
 ### Esercitazioni su Aspose.Tasks
-- [Tutorial su Aspose.Tasks per .NET](./tasks/)
+- [Aspose.Tasks per esercitazioni .NET](./tasks/)
 
 ## Aspose.GIS
 {{% alert color="primary" %}}
@@ -188,10 +188,10 @@ Scopri tutorial completi per GroupDocs.Comparison per .NET, che semplificano il 
 Sblocca il pieno potenziale di GroupDocs.Annotation per .NET con i nostri tutorial. Integra senza problemi, migliora la collaborazione e semplifica i flussi di lavoro.
 {{% /alert %}}
 
-### Esercitazioni su GroupDocs.Annotation
+### Esercitazioni GroupDocs.Annotation
 - [GroupDocs.Annotation per i tutorial .NET](./annotation/)
 
-## Firma di GroupDocs
+## GroupDocs.Firma
 {{% alert color="primary" %}}
 Esplora tutorial completi sull'utilizzo di GroupDocs.Signature per .NET. Impara a implementare firme digitali, personalizzare flussi di lavoro e migliorare la sicurezza dei documenti con guide chiare e dettagliate.
 {{% /alert %}}

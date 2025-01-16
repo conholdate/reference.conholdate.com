@@ -38,7 +38,7 @@ string outputFolder = "Your Document Directory"; // Zadejte svůj výstupní adr
 string outputFile = Path.Combine(outputFolder, "md-converted-to.pdf");
 ```
 
-## Krok 3: Načtěte zdrojový soubor Markdown
+## Krok 3: Načtěte zdrojový soubor markdown
 Načtěte soubor Markdown, který chcete převést:
 
 ```csharp

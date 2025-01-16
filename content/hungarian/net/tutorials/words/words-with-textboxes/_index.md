@@ -19,7 +19,7 @@ A szövegdobozok hatékony használatának megértése jelentősen javíthatja a
 
 ## Szövegdoboz-sorozatok ellenőrzése
 
- Aggódik a szöveg logikai áramlása miatt a dokumentumban? A[Szövegdoboz-sorozatok ellenőrzése a Word dokumentumokban](./textbox-sequences-check/) az oktatóanyag tökéletes az Ön számára. Eszközöket biztosít a szövegdobozok létrehozásához, összekapcsolásához és sorrendjének ellenőrzéséhez, így segít fenntartani a dokumentum világos és koherens szerkezetét. Ez különösen fontos az olvashatóság és a közönség elköteleződésének biztosítása érdekében.
+ Aggódik a szöveg logikai áramlása miatt a dokumentumban? A[TextBox Sequences Check in Word dokumentumok](./textbox-sequences-check/) az oktatóanyag tökéletes az Ön számára. Eszközöket biztosít a szövegdobozok létrehozásához, összekapcsolásához és sorrendjének ellenőrzéséhez, így segít fenntartani a dokumentum világos és koherens szerkezetét. Ez különösen fontos az olvashatóság és a közönség elköteleződésének biztosítása érdekében.
 
 ## Továbbító linkek feltörése
 
@@ -29,5 +29,5 @@ A szövegdobozok hatékony használatának megértése jelentősen javíthatja a
 | Cím | Leírás |
 | --- | --- |
 | [Hivatkozott szövegdobozok Word dokumentumokban Aspose.Words for .NET használatával](./linked-text-boxes/) | Az Aspose.Words for .NET segítségével megtudhatja, hogyan hozhat létre szövegdobozokat és hogyan lehet zökkenőmentesen összekapcsolni a Word dokumentumokban. Kövesse részletes útmutatónkat a könnyed tartalomáramlás és a professzionális eredmények érdekében. |
-| [Szövegdoboz-sorozatok ellenőrzése a Word dokumentumokban](./textbox-sequences-check/) | Ismerje meg, hogyan hozhat létre egyszerűen, linkelheti el és ellenőrizheti a szövegmezőket, hogy biztosítsa a tartalom logikus áramlását. Tökéletes azoknak a fejlesztőknek, akik szeretnék javítani a dokumentum szerkezetét és kialakítását. |
+| [TextBox Sequences Check in Word dokumentumok](./textbox-sequences-check/) | Ismerje meg, hogyan hozhat létre egyszerűen, linkelheti el és ellenőrizheti a szövegmezőket, hogy biztosítsa a tartalom logikus áramlását. Tökéletes azoknak a fejlesztőknek, akik szeretnék javítani a dokumentum szerkezetét és kialakítását. |
 | [Bontsa tovább a hivatkozást a Word-dokumentumban az Aspose.Words segítségével .NET-hez](./break-forward-link/) | Fedezze fel, hogyan bonthatja meg, kezelheti és testreszabhatja a továbbító hivatkozásokat a szövegmezőkben az Aspose.Words for .NET segítségével. Ez a lépésenkénti útmutató mindent tartalmaz, amire szüksége van a dokumentumelrendezés egyszerűsítéséhez és a Word fájlkezelés javításához. |

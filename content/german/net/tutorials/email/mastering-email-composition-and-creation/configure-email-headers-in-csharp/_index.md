@@ -18,7 +18,7 @@ E-Mail-Header erfüllen mehrere wichtige Funktionen, darunter:
 - Routing: Header steuern den Zustellungspfad und leiten E-Mails vom Absender zum Empfänger.
 - Authentifizierung: Header wie DKIM (DomainKeys Identified Mail) und SPF (Sender Policy Framework) helfen bei der Überprüfung der Legitimität von E-Mails und bieten Spam-Schutz.
 -  Betreffzeile: Die`Subject` Header gibt den Empfängern wertvollen Kontext über den Inhalt der E-Mail, bevor sie diese öffnen.
--  Antwortbehandlung: Header wie`Reply-To` Stellen Sie sicher, dass die Antworten an die entsprechenden Adressen weitergeleitet werden.
+-  Antwortbehandlung: Header wie`Reply-To` Stellen Sie sicher, dass die Antworten an die entsprechenden Adressen gerichtet werden.
 
 ## Erste Schritte mit Aspose.Email für .NET
 

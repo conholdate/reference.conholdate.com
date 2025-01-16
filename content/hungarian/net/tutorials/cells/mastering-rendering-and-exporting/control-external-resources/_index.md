@@ -147,7 +147,7 @@ Az Aspose.Cells egy hatékony könyvtár .NET-fejlesztők számára, amely lehet
  A legújabb verziót letöltheti a[Letöltési link](https://releases.aspose.com/cells/net/).
 
 ### Kipróbálhatom az Aspose.Cells-t ingyen?
- Igen! Ingyenes próbaverzióhoz férhet hozzá, ha ellátogat a[Ingyenes próbaoldal](https://releases.aspose.com/).
+ Igen! Ingyenes próbaverzióhoz férhet hozzá, ha felkeresi a[Ingyenes próbaoldal](https://releases.aspose.com/).
 
 ### Hol találok támogatást az Aspose.Cells számára?
  A támogatással kapcsolatos kérdésekkel kapcsolatban keresse fel a[Aspose támogatási fórum](https://forum.aspose.com/c/cells/9).

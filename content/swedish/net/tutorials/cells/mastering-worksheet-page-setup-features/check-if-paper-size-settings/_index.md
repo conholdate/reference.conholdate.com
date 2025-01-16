@@ -2,7 +2,7 @@
 title: Kontrollera om inställningarna för pappersstorlek för arbetsbladet är automatiska
 linktitle: Kontrollera om inställningarna för pappersstorlek för arbetsbladet är automatiska
 second_title: Aspose.Cells .NET Excel Processing API
-description: Lär dig hur du effektivt hanterar och verifierar pappersstorleksinställningar i Excel-kalkylblad med Aspose.Cells för .NET. Den här omfattande guiden ger steg-för-steg-instruktioner.
+description: Lär dig hur du effektivt hanterar och verifierar pappersstorleksinställningar i Excel-kalkylblad med Aspose.Cells för .NET. Denna omfattande guide ger steg-för-steg-instruktioner.
 type: docs
 weight: 11
 url: /sv/net/tutorials/cells/mastering-worksheet-page-setup-features/check-if-paper-size-settings/

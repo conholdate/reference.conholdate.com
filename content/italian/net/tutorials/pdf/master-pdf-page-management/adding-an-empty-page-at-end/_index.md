@@ -75,7 +75,7 @@ Aggiungere una pagina vuota alla fine del documento con questa semplice riga:
 pdfDocument.Pages.Add();
 ```
 
-## Passaggio 4: Salvare il documento modificato
+## Passaggio 4: salvare il documento modificato
 
 Definisci il nome del file di output e salva il PDF aggiornato:
 

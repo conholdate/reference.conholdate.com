@@ -99,4 +99,4 @@ Console.WriteLine("Image recognition executed successfully.");
 
 ### 如何購買 Aspose.OCR for .NET？
 
-若要將 Aspose.OCR 永久整合到您的工具包中，請前往[購買頁面](https://purchase.conholdate.com/buy).
+要將 Aspose.OCR 永久整合到您的工具包中，請訪問[購買頁面](https://purchase.conholdate.com/buy).

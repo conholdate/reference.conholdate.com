@@ -21,6 +21,6 @@ url: /zh-hant/net/tutorials/email/comprehensive-guide-to-email-conversion-and-ex
 
 ## 電子郵件轉換和匯出教程綜合指南
 ### [在 C# 中將電子郵件轉換為帶有時區的 MHT 格式](./convert-emails-to-mht-format-with-timezone-in-csharp/)
-本詳細指南提供了有關如何將電子郵件訊息轉換為 MHT 格式，同時使用 Aspose.Email for .NET 程式庫精確處理時區資訊的清楚說明。
+本詳細指南提供了有關如何將電子郵件訊息轉換為 MHT 格式，同時使用 Aspose.Email for .NET 程式庫準確處理時區資訊的清晰說明。
 ### [使用 C# 輕鬆實現 EML 到 MSG 的轉換](./eml-to-msg-convert-made-easy-using-csharp/)
 使用 C# 將 EML 轉換為 MSG 格式。請按照我們的逐步指南使用 Aspose.Email for .NET 進行無縫檔案轉換。

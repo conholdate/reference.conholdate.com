@@ -25,11 +25,11 @@ Aspose.Cells for .NET 提供了一种强大的方法来以编程方式操作 Exc
 
 ### 设置您的许可证（可选）
 
-对于拥有 Aspose.Cells 许可版本的用户，您可以通过应用许可证来解锁该库的全部潜力。有关临时许可选项，请访问[Aspose 的临时许可证页面](https://purchase.aspose.com/temporary-license/).
+对于拥有 Aspose.Cells 许可版本的用户，您可以通过应用许可证来解锁该库的全部潜力。如需临时许可选项，请访问[Aspose 的临时许可证页面](https://purchase.aspose.com/temporary-license/).
 
 ## 导入所需包
 
-首先，确保导入处理 Excel 文件和文件操作所需的命名空间。这些命名空间将为您提供操作 Excel 文档所需的类。
+首先，请确保导入处理 Excel 文件和文件操作所需的命名空间。这些命名空间将为您提供操作 Excel 文档所需的类。
 
 ```csharp
 using System.IO;

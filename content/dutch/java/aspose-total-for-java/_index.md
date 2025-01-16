@@ -316,7 +316,7 @@ Hieronder vindt u links naar nuttige bronnen die u mogelijk nodig hebt om uw tak
 
 **Welcome to Aspose.Font for Java**
 
-Aspose.Font voor Java is een bibliotheek voor het laden en tekenen van lettertypen. Het ondersteunt meerdere lettertypeformaten zoals TrueType (met TrueType-collecties), CFF, OpenType en Type1. De API biedt uitgebreide functionaliteit om lettertypen te laden/opslaan en informatie te verstrekken over de datastructuren, samen met alle glyphs die door alle lettertypen worden ondersteund. Het biedt ook coderingsinformatie voor alle lettertypen, wat een toewijzing tussen tekencodes en glyph-identifiers vertegenwoordigt. Het rendering-subsysteem helpt eindgebruikers om elke gewenste glyph of tekst te renderen. Speciale glyphs kunnen worden gerenderd door een interface te implementeren met behulp van eenvoudige grafische functionaliteit (punt verplaatsen, lijn tekenen, curve).
+Aspose.Font voor Java is een lettertype-laad- en tekenbibliotheek. Het ondersteunt meerdere lettertypeformaten zoals TrueType (met TrueType-collecties), CFF, OpenType en Type1. De API biedt uitgebreide functionaliteit om lettertypen te laden/opslaan en informatie te verstrekken over de datastructuren, samen met alle glyphs die door alle lettertypen worden ondersteund. Het biedt ook coderingsinformatie voor alle lettertypen die een toewijzing tussen tekencodes en glyph-identifiers vertegenwoordigt. Het rendering-subsysteem helpt eindgebruikers om elke gewenste glyph of tekst te renderen. Speciale glyphs kunnen worden gerenderd door een interface te implementeren met behulp van eenvoudige grafische functionaliteit (punt verplaatsen, lijn tekenen, curve).
 {{% /alert %}}
 
 ## **Aspose.Font for Java**

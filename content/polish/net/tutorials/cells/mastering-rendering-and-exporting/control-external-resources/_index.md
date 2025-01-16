@@ -101,7 +101,7 @@ PdfSaveOptions opts = new PdfSaveOptions
 };
 ```
 
- Tworzy to instancję`PdfSaveOptions` , co pozwala na dostosowanie formatu PDF.`OnePagePerSheet` Opcja ta zapewnia, że każdy arkusz programu Excel będzie wyświetlany na osobnej stronie w końcowym pliku PDF.
+ Tworzy to instancję`PdfSaveOptions` , co pozwala na dostosowanie formatu PDF.`OnePagePerSheet` Opcja ta zapewnia, że każdy arkusz programu Excel pojawi się na osobnej stronie w ostatecznym pliku PDF.
 
 ## Krok 5: Przypisz swojego dostawcę strumienia
 

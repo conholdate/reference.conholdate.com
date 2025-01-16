@@ -48,7 +48,7 @@ annotator.ExportAnnotationsFromXMLFile("input.xml");
 
 ## 4. lépés: Mentse el az exportált megjegyzéseket
 
- Végül mentse el az exportált annotációkat a`Save` módszert, és adjon meg egy kívánt fájlnevet:
+ Végül mentse el az exportált annotációkat a`Save` metódussal és a kívánt fájlnév megadásával:
 
 ```csharp
 annotator.Save("result_export");

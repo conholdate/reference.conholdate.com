@@ -114,7 +114,7 @@ EMF 是 WMF 的增强版本，可以更好地支持复杂的图形和更大的�
 是的，Aspose.Words for .NET 支持 .NET Core 和 .NET 5/6，使其适用于现代跨平台应用程序。
 
 ### 我可以在输出中保留原始 SVG 格式吗？
-不是，此方法专门将 SVG 转换为 EMF/WMF。但是，您可以保留原始 SVG，直接将其嵌入文档中，而无需进行转换。
+不，此方法专门将 SVG 转换为 EMF/WMF。但是，您可以保留原始 SVG，直接将其嵌入文档中，而无需进行转换。
 
 ### 在哪里可以下载 Aspose.Words 的免费试用版？
 您可以从[Aspose 发布页面](https://releases.aspose.com/).

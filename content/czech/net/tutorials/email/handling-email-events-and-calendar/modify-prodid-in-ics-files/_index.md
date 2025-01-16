@@ -69,7 +69,7 @@ Appointment app = new Appointment(
 );
 ```
  
-- Místo: Místo, kde se akce koná.  
+- Místo: Kde se akce koná.  
 - Předmět: Stručný název vaší události.  
 - Popis: Další podrobnosti o události.  
 - Datum zahájení a ukončení: Definuje dobu trvání události.  

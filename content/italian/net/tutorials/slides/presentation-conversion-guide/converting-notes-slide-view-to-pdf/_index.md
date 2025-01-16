@@ -94,4 +94,4 @@ Sì, Aspose.Slides per .NET è progettato per gestire in modo efficiente present
  Assolutamente! Puoi selezionare diapositive specifiche utilizzando`Slides` raccolta nella`Presentation` classe.
 
 ### D5: Dove posso trovare altri esempi?
- Visita il[Documentazione di Aspose.Slides per .NET](https://reference.aspose.com/slides/net/)per ulteriori esempi e casi d'uso.
+ Visita il[Documentazione di Aspose.Slides per .NET](https://reference.aspose.com/slides/net/) per ulteriori esempi e casi d'uso.

@@ -51,7 +51,7 @@ BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.Codabar, "-12345-");
 Az X-Dimension meghatározza a vonalkód elemek szélességét, pixelben mérve. Állítsa be ezt igényei szerint:
 
 ```csharp
-gen.Parameters.Barcode.XDimension.Pixels = 2; // Változtassa meg szükség szerint
+gen.Parameters.Barcode.XDimension.Pixels = 2; // Szükség szerint változtassa meg
 ```
 
 ## 3. lépés: Adja meg a Start és Stop karaktereket

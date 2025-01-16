@@ -107,7 +107,7 @@ Gratulálok! Megtanulta, hogyan valósíthat meg oldaltájolást egy munkalapon 
 
  Az Aspose.Cells egy fizetős könyvtár, de kezdheti a[ingyenes próbaverzió](https://releases.aspose.com/) jellemzőinek feltárására.
 
-### Meg tudom változtatni az oldal tájolását is Fekvőre?
+### Át tudom állítani az oldal tájolását is Fekvőre?
 
  Teljesen! Egyszerűen cserélje ki`PageOrientationType.Portrait` -vel`PageOrientationType.Landscape` a kódodban.
 

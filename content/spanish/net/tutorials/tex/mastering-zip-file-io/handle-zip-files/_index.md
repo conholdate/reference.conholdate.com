@@ -40,7 +40,7 @@ using (Stream outZipStream = File.Open(Path.Combine("Your Output Directory", "zi
 
 ## Paso 2: Configurar las opciones de conversión
 
-A continuación, configure las opciones de conversión para el formato ObjectTeX.
+continuación, configure las opciones de conversión para el formato ObjectTeX.
 
 ```csharp
 TeXOptions options = TeXOptions.ConsoleAppOptions(TeXConfig.ObjectTeX());

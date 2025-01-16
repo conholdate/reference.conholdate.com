@@ -16,7 +16,7 @@ url: /zh-hant/net/tutorials/pdf/mastering-operators/draw-xforms-on-page/
 在我們深入之前，請確保您具備以下條件：
 
 1.  Aspose.PDF for .NET 函式庫：從下列位置下載並安裝 Aspose.PDF 函式庫：[這裡](https://releases.aspose.com/pdf/net/).
-2. 開發環境：工作的 .NET 開發環境（例如 Visual Studio 2019 或更高版本）。
+2. 開發環境：有效的 .NET 開發環境（例如 Visual Studio 2019 或更高版本）。
 3. 範例文件：準備用於繪製 XForm 的基本 PDF 文件和用於演示的圖像。您可以使用文件目錄中提供的任何範例 PDF 和圖像。
 
 ## 導入必要的套件

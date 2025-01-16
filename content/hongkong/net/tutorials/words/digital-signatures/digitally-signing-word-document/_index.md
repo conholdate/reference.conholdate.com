@@ -2,7 +2,7 @@
 title: 對 Word 文件進行數位簽名
 linktitle: 對 Word 文件進行數位簽名
 second_title: Aspose.Words 文件處理 API
-description: 在此綜合逐步指南中了解如何使用 Aspose.Words for .NET 以程式設計方式簽署 Word 文件。
+description: 在這份全面的逐步指南中了解如何使用 Aspose.Words for .NET 以程式設計方式簽署 Word 文件。
 type: docs
 weight: 10
 url: /zh-hant/net/tutorials/words/digital-signatures/digitally-signing-word-document/
@@ -17,7 +17,7 @@ url: /zh-hant/net/tutorials/words/digital-signatures/digitally-signing-word-docu
 
 1.  Aspose.Words for .NET：從以下位置下載最新版本[這裡](https://releases.aspose.com/words/net/).
 2. .NET開發環境：設定類似Visual Studio的環境。
-3. 數位憑證：取得用於簽署文件的數位憑證（例如.pfx 檔案）。
+3. 數位憑證：取得用於簽署文件的數位憑證（例如，.pfx 檔案）。
 4. Word 文件：準備好您要簽署的 Word 文件。
 
 ## 步驟1：導入必要的命名空間
@@ -87,7 +87,7 @@ doc.Save(dataDir + "Document.Signed.docx");
 ### 什麼是數位簽章？
 數位簽名是一種電子簽名，可驗證簽名者的身份並確認文件未被更改。
 
-### 為什麼需要數位憑證？
+### 為什麼我需要數位憑證？
 數位憑證對於建立數位簽章至關重要。它包含公鑰和簽名者的身份，允許其他人驗證簽名。
 
 ### 我可以使用任何 .pfx 檔案進行簽署嗎？

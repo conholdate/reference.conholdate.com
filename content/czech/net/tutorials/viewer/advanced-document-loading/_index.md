@@ -15,7 +15,7 @@ Pokud jde o prohlížení dokumentů v aplikacích .NET, jen málo nástrojů je
 
 Integrace funkcí pro prohlížení dokumentů do vašich aplikací je jednodušší, než si možná myslíte. Tato příručka začíná instalací a nastavením GroupDocs.Viewer pro .NET. Nejprve musíte knihovnu dostat do svého projektu. Přejděte do Správce balíčků NuGet a zadejte`GroupDocs.Viewer`. Pouhým kliknutím budete mít přístup do světa formátů dokumentů na dosah ruky.
 
-Po instalaci je dalším krokem vykreslení prvního dokumentu. Představte si toto: máte dokument aplikace Word a s několika řádky kódu se zobrazí přímo ve vaší aplikaci. V pohodě, že? Prohlížeč podporuje různé formáty, včetně PDF, DOCX a PPTX. Zážitek ze sledování můžete přizpůsobit pomocí specifického kódování, které je klíčové při práci s dokumenty v různých jazycích. Tato funkce zajišťuje, že se váš text zobrazí perfektně a zachová veškeré formátování.
+Po instalaci je dalším krokem vykreslení prvního dokumentu. Představte si toto: máte dokument aplikace Word a pomocí několika řádků kódu se zobrazí přímo ve vaší aplikaci. V pohodě, že? Prohlížeč podporuje různé formáty, včetně PDF, DOCX a PPTX. Zážitek ze sledování můžete přizpůsobit pomocí specifického kódování, které je klíčové při práci s dokumenty v různých jazycích. Tato funkce zajišťuje, že váš text bude vypadat perfektně a zachová veškeré formátování.
 
  Chcete se ponořit hlouběji do technických aspektů? Podívejte se na podrobné pokyny v našem[Komplexní průvodce prohlížením dokumentů se specifickým kódováním](./document-viewing-with-specific-encoding/).
 

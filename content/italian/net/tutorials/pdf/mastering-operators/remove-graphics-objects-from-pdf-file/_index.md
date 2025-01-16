@@ -2,7 +2,7 @@
 title: Rimuovi oggetti grafici dal file PDF
 linktitle: Rimuovi oggetti grafici dal file PDF
 second_title: Riferimento API Aspose.PDF per .NET
-description: Scopri come rimuovere in modo efficiente gli oggetti grafici indesiderati dai tuoi file PDF utilizzando Aspose.PDF per .NET in questa guida completa. Sia che tu voglia migliorare la leggibilità del documento o ridurre le dimensioni del file.
+description: Scopri come rimuovere in modo efficiente gli oggetti grafici indesiderati dai tuoi file PDF usando Aspose.PDF per .NET in questa guida completa. Che tu voglia migliorare la leggibilità del documento o ridurre le dimensioni del file.
 type: docs
 weight: 30
 url: /it/net/tutorials/pdf/mastering-operators/remove-graphics-objects-from-pdf-file/

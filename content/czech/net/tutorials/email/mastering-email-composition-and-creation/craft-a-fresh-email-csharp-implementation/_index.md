@@ -50,7 +50,7 @@ MailMessage message = new MailMessage
     From = new MailAddress("sender@example.com"),
     Subject = "Hello from Aspose.Email!",
     Body = "This is the content of the email.",
-    IsBodyHtml = false // Změňte na true, pokud chcete odeslat obsah HTML
+    IsBodyHtml = false // Pokud chcete odeslat obsah HTML, změňte hodnotu na hodnotu true
 };
 
 // Přidejte příjemce

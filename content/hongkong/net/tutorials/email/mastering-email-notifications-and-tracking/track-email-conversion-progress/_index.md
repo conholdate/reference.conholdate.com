@@ -79,7 +79,7 @@ opt.CustomProgressHandler = new ConversionProgressEventHandler(ShowEmlConversion
 - `MailMessageSaveType.EmlFormat`：指定輸出格式。  
 - `CustomProgressHandler`：指派自訂處理程序函數來監視進度。  
 
-## 第 5 步：將電子郵件儲存到記憶體流  
+## 步驟 5：將電子郵件儲存到記憶體流  
 
 儲存`MailMessage`物件使用指定的選項，啟用進度追蹤功能。  
  

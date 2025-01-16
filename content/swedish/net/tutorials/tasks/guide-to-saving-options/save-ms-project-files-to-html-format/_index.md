@@ -16,8 +16,8 @@ Välkommen till vår omfattande handledning om att konvertera Microsoft Project-
 Innan vi börjar, se till att du har följande förutsättningar på plats:
 
 1. Grundläggande kunskaper i C#: Bekantskap med programmeringsspråket C# förutsätts.
-2. Aspose.Tasks Installation: Se till att du har Aspose.Tasks för .NET installerat i din utvecklingsmiljö. Du kan enkelt få det från[Aspose hemsida](https://www.aspose.com).
-3.  Microsoft Project File: Ha en Microsoft Project-fil redo för konvertering (med en`.mpp` förlängning).
+2.  Aspose.Tasks Installation: Se till att du har Aspose.Tasks för .NET installerat i din utvecklingsmiljö. Du kan enkelt få det från[Aspose hemsida](https://www.aspose.com).
+3. Microsoft Project File: Ha en Microsoft Project-fil redo för konvertering (med en`.mpp` förlängning).
 
 ## Importera nödvändiga namnområden
 

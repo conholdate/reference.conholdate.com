@@ -58,7 +58,7 @@ Als Nächstes müssen wir den HTML-Inhalt aus der E-Mail-Nachricht extrahieren. 
 string htmlBody = message.HtmlBody;
 ```
 
- Durch den Zugriff auf die`HtmlBody` Eigentum der`MailMessage` -Objekt wird der HTML-Inhalt nun in einer Zeichenfolgenvariable mit dem Namen gespeichert`htmlBody`.
+ Durch den Zugriff auf die`HtmlBody` Eigentum der`MailMessage` Objekt wird der HTML-Inhalt nun in einer Zeichenfolgenvariable mit dem Namen gespeichert`htmlBody`.
 
 ## Schritt 3: Bereiten Sie die Konvertierung von HTML in Nur-Text vor
 
@@ -79,7 +79,7 @@ doc.RemoveAllChildren();
 doc.AppendDocument(new DocumentBuilder().InsertHtml(htmlBody).Document, ImportFormatMode.KeepSourceFormatting);
 ```
 
- Hier,`DocumentBuilder().InsertHtml(htmlBody)` nimmt unseren HTML-String und lädt ihn in eine neue Dokumentstruktur innerhalb des`Document` Objekt. Mit`ImportFormatMode.KeepSourceFormatting` stellt sicher, dass die Formatierung bei diesem Vorgang erhalten bleibt.
+ Hier,`DocumentBuilder().InsertHtml(htmlBody)` nimmt unseren HTML-String und lädt ihn in eine neue Dokumentstruktur innerhalb des`Document` Objekt. Mit`ImportFormatMode.KeepSourceFormatting` stellt sicher, dass die Formatierung während dieses Vorgangs erhalten bleibt.
 
 ## Schritt 5: Speichern Sie die reine Textdatei
 

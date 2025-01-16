@@ -9,7 +9,7 @@ url: /zh-hant/net/tutorials/email/handling-email-attachments/add-tnef-attachment
 ---
 ## 介紹
 
-傳輸中性封裝格式 (TNEF) 是一種專有格式，Microsoft Outlook 使用它來封裝電子郵件中的富文本和附件。如果您需要以程式設計方式使用這些 TNEF 附件，Aspose.Email for .NET 是一個出色的程式庫，它支援各種電子郵件格式，包括帶有 TNEF 附件的電子郵件格式。在本指南中，我們將逐步介紹如何設定環境、載入電子郵件、提取和修改 TNEF 附件以及儲存變更。
+傳輸中性封裝格式 (TNEF) 是一種專有格式，Microsoft Outlook 使用它來封裝電子郵件中的富文本和附件。如果您需要以程式設計方式處理這些 TNEF 附件，Aspose.Email for .NET 是一個出色的程式庫，它支援各種電子郵件格式，包括帶有 TNEF 附件的電子郵件格式。在本指南中，我們將逐步介紹如何設定環境、載入電子郵件、提取和修改 TNEF 附件以及儲存變更。
 
 ## 設定您的開發環境
 

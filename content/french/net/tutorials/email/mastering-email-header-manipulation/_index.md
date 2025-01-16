@@ -12,7 +12,7 @@ url: /fr/net/tutorials/email/mastering-email-header-manipulation/
 En matière de gestion des e-mails dans vos applications .NET, Aspose.Email pour .NET est comme un couteau suisse, doté d'outils qui rendent votre travail efficace et efficient. Dans cet article, nous nous plongeons dans des tutoriels révolutionnaires qui vous aident à manipuler les en-têtes des e-mails, à personnaliser les polices MHT, et bien plus encore.
 
 ## Modification de la personnalisation des polices MHT à l'aide de C#  
-Avez-vous déjà voulu contrôler l'apparence des polices lors de la conversion d'e-mails au format MHT ? Avec Aspose.Email pour .NET, c'est un jeu d'enfant. Ce didacticiel vous guide étape par étape dans la personnalisation des styles de police pour garantir que vos sorties d'e-mails sont professionnelles et conformes à votre marque. Considérez cela comme la confection d'un costume parfaitement adapté à vos besoins !  
+Avez-vous déjà souhaité contrôler l'apparence des polices lors de la conversion d'e-mails au format MHT ? Avec Aspose.Email pour .NET, c'est un jeu d'enfant. Ce didacticiel vous guide étape par étape dans la personnalisation des styles de police pour garantir que vos sorties d'e-mails sont professionnelles et conformes à votre marque. Considérez cela comme la confection d'un costume parfaitement adapté à vos besoins !  
 [En savoir plus sur la modification de la personnalisation des polices MHT](./changing-mht-font-customization/)  
 
 ## Rendu d'hyperlien personnalisé  
