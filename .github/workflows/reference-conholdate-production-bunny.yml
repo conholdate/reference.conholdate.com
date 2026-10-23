@@ -67,5 +67,5 @@ jobs:
         run: |
           curl -siG \
             -H "X-Api-Key: ${{ secrets.BUNNY_API_KEY }}" \
-            --data-urlencode "url=https://reference.conholdate.com/" \
+            --data-urlencode "url=https://reference.conholdate.com/*" \
             "https://api.dynabic.com/bn/purge?async=true"
